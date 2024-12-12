@@ -1,0 +1,1112 @@
+[
+    {
+        "app_name": "闪送员",
+        "package_name": "com.ishansong",
+        "file_name": "com.ishansong_1.apk",
+        "app_activity": "com.ishansong.restructure.module.LoadingActivity"
+    },
+    {
+        "app_name": "蜂库服务师傅端",
+        "package_name": "com.fengkufuwu.wk",
+        "file_name": "com.fengkufuwu.wk_2.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "家政商",
+        "package_name": "com.xary.xary_business",
+        "file_name": "com.xary.xary_business_3.apk",
+        "app_activity": "com.xary.xary_business.MainActivity"
+    },
+    {
+        "app_name": "卿厨到家",
+        "package_name": "com.cookhome.cxz",
+        "file_name": "com.cookhome.cxz_4.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "爱贝尔月嫂平台",
+        "package_name": "com.aberuser.zhongben",
+        "file_name": "com.aberuser.zhongben_5.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "二丫网",
+        "package_name": "net.duohuo.magapp.erya",
+        "file_name": "net.duohuo.magapp.erya_6.apk",
+        "app_activity": "net.duohuo.magappx.main.WelcomeActivity"
+    },
+    {
+        "app_name": "修约到家",
+        "package_name": "com.wt.qiao_jiang_fang",
+        "file_name": "com.wt.qiao_jiang_fang_7.apk",
+        "app_activity": "com.wt.qiaojiangfang.ui.MainAct"
+    },
+    {
+        "app_name": "鸿金环境",
+        "package_name": "com.hongjin",
+        "file_name": "com.hongjin_8.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "艾养乐",
+        "package_name": "com.im.aiyangle.ai_yang_le_java",
+        "file_name": "com.im.aiyangle.ai_yang_le_java_9.apk",
+        "app_activity": "com.im.aiyangle.ai_yang_le_java.MainActivity"
+    },
+    {
+        "app_name": "鹿客智能",
+        "package_name": "com.yunding.loock",
+        "file_name": "com.yunding.loock_10.apk",
+        "app_activity": "com.yunding.loock.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "左管家服务端",
+        "package_name": "com.demlution.abzuoguanjia",
+        "file_name": "com.demlution.abzuoguanjia_11.apk",
+        "app_activity": "com.demlution.abzuoguanjia.MainActivity"
+    },
+    {
+        "app_name": "乐居易",
+        "package_name": "com.szyunxun.zonepark",
+        "file_name": "com.szyunxun.zonepark_12.apk",
+        "app_activity": "com.szyunxun.zonepark.MainActivity"
+    },
+    {
+        "app_name": "颐养通家属app",
+        "package_name": "com.axun.yhycustomerapp.release",
+        "file_name": "com.axun.yhycustomerapp.release_13.apk",
+        "app_activity": "com.axun.ccrccustomerapp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "易小帮",
+        "package_name": "com.ykd.dispatch.server",
+        "file_name": "com.ykd.dispatch.server_14.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "康云优家",
+        "package_name": "com.kbridge.communityowners",
+        "file_name": "com.kbridge.communityowners_15.apk",
+        "app_activity": "com.kbridge.communityowners.feature.splash.SplashActivity"
+    },
+    {
+        "app_name": "家政快报",
+        "package_name": "uni.jiazheng.aiyi",
+        "file_name": "uni.jiazheng.aiyi_16.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "家家爱",
+        "package_name": "com.phonebu.familylove_consumer",
+        "file_name": "com.phonebu.familylove_consumer_17.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "小兔到家",
+        "package_name": "net.xiaotudaojia.www",
+        "file_name": "net.xiaotudaojia.www_18.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "厚德艾佳",
+        "package_name": "com.houde.benben",
+        "file_name": "com.houde.benben_19.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "女生穿搭衣橱",
+        "package_name": "com.txjnj.nscdyc",
+        "file_name": "com.txjnj.nscdyc_20.apk",
+        "app_activity": "com.viterbi.basics.ui.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "飞鹰家电",
+        "package_name": "com.feiying.ahjinti.com",
+        "file_name": "com.feiying.ahjinti.com_21.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "e家政阿姨端",
+        "package_name": "com.ehome.auntapp",
+        "file_name": "com.ehome.auntapp_22.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "悦管家",
+        "package_name": "com.jielin.customer",
+        "file_name": "com.jielin.customer_23.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "东州之家",
+        "package_name": "com.dzdj.app",
+        "file_name": "com.dzdj.app_24.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "家宝兔",
+        "package_name": "com.lib.jiabao",
+        "file_name": "com.lib.jiabao_25.apk",
+        "app_activity": "com.lib.jiabao.view.login.view.SplashActivity"
+    },
+    {
+        "app_name": "小元到家商家端",
+        "package_name": "com.xiaoyuandaojia.merchant",
+        "file_name": "com.xiaoyuandaojia.merchant_26.apk",
+        "app_activity": "com.xiaoyuandaojia.merchant.view.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "力高康家",
+        "package_name": "cn.whlhkj.wuyeclient",
+        "file_name": "cn.whlhkj.wuyeclient_27.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "好慷在家",
+        "package_name": "com.example.homeking.client",
+        "file_name": "com.example.homeking.client_28.apk",
+        "app_activity": "com.example.homeking.client.controllers.intro.IntroActivity"
+    },
+    {
+        "app_name": "助业业主端",
+        "package_name": "zhuyeapp.com",
+        "file_name": "zhuyeapp.com_29.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "知家",
+        "package_name": "com.src.fookiiapp",
+        "file_name": "com.src.fookiiapp_30.apk",
+        "app_activity": "com.src.fookiiapp.MainActivity"
+    },
+    {
+        "app_name": "51家庭管家",
+        "package_name": "com.wethink.portalapp",
+        "file_name": "com.wethink.portalapp_31.apk",
+        "app_activity": "com.wethink.portalapp.mvp.ui.activity.StartUpActivity"
+    },
+    {
+        "app_name": "索颐智慧用户端",
+        "package_name": "com.sdcc.cstm.yigejujia",
+        "file_name": "com.sdcc.cstm.yigejujia_32.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "蓝师傅上门维修",
+        "package_name": "com.app.lanshifu.repair",
+        "file_name": "com.app.lanshifu.repair_33.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "匠猫师傅",
+        "package_name": "com.next.gj",
+        "file_name": "com.next.gj_34.apk",
+        "app_activity": "com.to8to.to8to_x.MainActivity"
+    },
+    {
+        "app_name": "青青收纳师",
+        "package_name": "com.qingqingshounaAndroid.manager",
+        "file_name": "com.qingqingshounaAndroid.manager_35.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "云鲸智能",
+        "package_name": "com.narwel.narwelrobots",
+        "file_name": "com.narwel.narwelrobots_36.apk",
+        "app_activity": "com.narwel.narwelrobots.MainActivity"
+    },
+    {
+        "app_name": "皖嫂家政",
+        "package_name": "com.wansao.client",
+        "file_name": "com.wansao.client_37.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "师傅邦师傅",
+        "package_name": "com.szg.menu",
+        "file_name": "com.szg.menu_38.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "360Robot 2 and 2S Plugin",
+        "package_name": "com.qihoo.smarthome.sweeper2",
+        "file_name": "com.qihoo.smarthome.sweeper2_39.apk",
+        "app_activity": "com.qihoo.smarthome.sweeper.huawei.HuaweiMainActivity"
+    },
+    {
+        "app_name": "祎管家家政全能管理软件",
+        "package_name": "app.fromth.ygj",
+        "file_name": "app.fromth.ygj_40.apk",
+        "app_activity": "app.fromth.ygj.MainActivity"
+    },
+    {
+        "app_name": "小羽佳家政",
+        "package_name": "com.xiaoyujia",
+        "file_name": "com.xiaoyujia_41.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "八号管家",
+        "package_name": "uni.UNI0077FDB",
+        "file_name": "uni.UNI0077FDB_42.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "无忧保姆",
+        "package_name": "com.baomu51.android",
+        "file_name": "com.baomu51.android_43.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "护小理",
+        "package_name": "uni.UNI017DB4E",
+        "file_name": "uni.UNI017DB4E_44.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "滴帮工匠端",
+        "package_name": "com.dibang.employee",
+        "file_name": "com.dibang.employee_45.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "滴帮",
+        "package_name": "com.dibang.employer",
+        "file_name": "com.dibang.employer_46.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "除卫士环境管家",
+        "package_name": "com.chuweishi.yunchi",
+        "file_name": "com.chuweishi.yunchi_47.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "人人家政",
+        "package_name": "com.hengshuokeji.rrjiazheng",
+        "file_name": "com.hengshuokeji.rrjiazheng_48.apk",
+        "app_activity": "com.hengshuokeji.rrjiazheng.main.GuideA"
+    },
+    {
+        "app_name": "两公里家师傅端",
+        "package_name": "com.twokmhomemaster.uni",
+        "file_name": "com.twokmhomemaster.uni_49.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "青青收纳",
+        "package_name": "uni.UNI04F13AA",
+        "file_name": "uni.UNI04F13AA_50.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "小石回家",
+        "package_name": "com.etclients.activity",
+        "file_name": "com.etclients.activity_51.apk",
+        "app_activity": "com.etclients.activity.SplashActivity"
+    },
+    {
+        "app_name": "志修",
+        "package_name": "app.lexiu.com",
+        "file_name": "app.lexiu.com_52.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "超级阿姨",
+        "package_name": "asia.share.superayiconsumer",
+        "file_name": "asia.share.superayiconsumer_53.apk",
+        "app_activity": "asia.share.superayiconsumer.MainActivity"
+    },
+    {
+        "app_name": "工奇兵",
+        "package_name": "onsiteservice.esaipay.com.app",
+        "file_name": "onsiteservice.esaipay.com.app_54.apk",
+        "app_activity": "onsiteservice.esaipay.com.app.ui.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "家佣小惠",
+        "package_name": "com.jwl86.jiayongandroid",
+        "file_name": "com.jwl86.jiayongandroid_55.apk",
+        "app_activity": "com.jwl86.jiayongandroid.ui.page.splash.SplashActivity"
+    },
+    {
+        "app_name": "按个摩技师端",
+        "package_name": "com.twototwo.massage.technician",
+        "file_name": "com.twototwo.massage.technician_56.apk",
+        "app_activity": "com.twototwo.massage.technician.activity.SplashActivity"
+    },
+    {
+        "app_name": "惠邻达家政",
+        "package_name": "uni.UNI5548200",
+        "file_name": "uni.UNI5548200_57.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "e城e家",
+        "package_name": "com.ecej.ui",
+        "file_name": "com.ecej.ui_58.apk",
+        "app_activity": "com.ecej.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "守居生活服务",
+        "package_name": "com.jinteng.myapplication",
+        "file_name": "com.jinteng.myapplication_59.apk",
+        "app_activity": "com.jinteng.myapplication.activity.SplashActivity"
+    },
+    {
+        "app_name": "猪猪驾到",
+        "package_name": "app.zhuzhujiadaoapp.com",
+        "file_name": "app.zhuzhujiadaoapp.com_60.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "到家系统",
+        "package_name": "com.xmdjhl.jiazheng",
+        "file_name": "com.xmdjhl.jiazheng_61.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "e家帮家政服务",
+        "package_name": "com.poperson.homeresident",
+        "file_name": "com.poperson.homeresident_62.apk",
+        "app_activity": "jy.xianayi.daojia.MainActivity"
+    },
+    {
+        "app_name": "金丝鸟家庭服务",
+        "package_name": "cn.jinsiniao.app",
+        "file_name": "cn.jinsiniao.app_63.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "月亮小屋",
+        "package_name": "cn.com.bluemoon.bluehouse",
+        "file_name": "cn.com.bluemoon.bluehouse_64.apk",
+        "app_activity": "cn.com.bluemoon.wash.AppStartActivity"
+    },
+    {
+        "app_name": "万家服务",
+        "package_name": "com.benben.wjmester",
+        "file_name": "com.benben.wjmester_65.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "懒小侠技工端",
+        "package_name": "com.lanxiaoxia2024",
+        "file_name": "com.lanxiaoxia2024_66.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "阿姨直聘",
+        "package_name": "com.yongcai.qiaodangjia",
+        "file_name": "com.yongcai.qiaodangjia_67.apk",
+        "app_activity": "com.hqyouquan.recycle.MainActivity"
+    },
+    {
+        "app_name": "OkinComfortBed Ⅱ",
+        "package_name": "com.ore.jalon.neworebeding_android",
+        "file_name": "com.ore.jalon.neworebeding_android_68.apk",
+        "app_activity": "com.example.jalon.neworebeding_android.activity.SpalashActivity"
+    },
+    {
+        "app_name": "阿姨帮",
+        "package_name": "com.ayibang.ayb",
+        "file_name": "com.ayibang.ayb_69.apk",
+        "app_activity": "com.ayibang.ayb.SplashActivity"
+    },
+    {
+        "app_name": "邻家快修",
+        "package_name": "zmn.user.ljkx",
+        "file_name": "zmn.user.ljkx_70.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "大厨到家大厨端",
+        "package_name": "com.rckj.dccs",
+        "file_name": "com.rckj.dccs_71.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "麦驰",
+        "package_name": "com.michoi.m.viper",
+        "file_name": "com.michoi.m.viper_72.apk",
+        "app_activity": "com.michoi.o2o.activity.SplashActivity"
+    },
+    {
+        "app_name": "家有吉庆服务者",
+        "package_name": "com.rhsz.jyjq.service",
+        "file_name": "com.rhsz.jyjq.service_73.apk",
+        "app_activity": "com.rhsz.jyjq.service.SplashActivity"
+    },
+    {
+        "app_name": "e家政",
+        "package_name": "com.ejz.ehome",
+        "file_name": "com.ejz.ehome_74.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "能装会修",
+        "package_name": "com.zclz.nzhxuser",
+        "file_name": "com.zclz.nzhxuser_75.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "360扫地机器人插件",
+        "package_name": "com.qihoo.smarthome.sweeper",
+        "file_name": "com.qihoo.smarthome.sweeper_76.apk",
+        "app_activity": "com.qihoo.smarthome.sweeper.huawei.HuaweiMainActivity"
+    },
+    {
+        "app_name": "蓝师傅",
+        "package_name": "uni.D7FFB66",
+        "file_name": "uni.D7FFB66_77.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "临里好家政",
+        "package_name": "zhelihao123.com",
+        "file_name": "zhelihao123.com_78.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "至尊洗衣",
+        "package_name": "cn.com.bluemoon.wash",
+        "file_name": "cn.com.bluemoon.wash_79.apk",
+        "app_activity": "cn.com.bluemoon.wash.AppStartActivity"
+    },
+    {
+        "app_name": "温州家服云",
+        "package_name": "com.increator.cc.wenzhoujzh",
+        "file_name": "com.increator.cc.wenzhoujzh_80.apk",
+        "app_activity": "com.increator.cc.wenzhoujzh.app.user.ui.LaunchActivity"
+    },
+    {
+        "app_name": "优服商家",
+        "package_name": "uni.UNID5DA25A",
+        "file_name": "uni.UNID5DA25A_81.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "乐居易物业",
+        "package_name": "com.szyunxun.zonewgt",
+        "file_name": "com.szyunxun.zonewgt_82.apk",
+        "app_activity": "com.szyunxun.zonewgt.MainActivity"
+    },
+    {
+        "app_name": "爱贝尔月嫂服务",
+        "package_name": "com.aberservice.zhongben",
+        "file_name": "com.aberservice.zhongben_83.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "同城CALL",
+        "package_name": "uni.UNID6BAF0D",
+        "file_name": "uni.UNID6BAF0D_84.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "精侍陪护",
+        "package_name": "com.jingshi.huli",
+        "file_name": "com.jingshi.huli_85.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "佰味城市-厨师端",
+        "package_name": "com.benben.baiweichushicsd",
+        "file_name": "com.benben.baiweichushicsd_86.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "51商家通",
+        "package_name": "uni.UNID8BD5F1",
+        "file_name": "uni.UNID8BD5F1_87.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "阿姨直聘服务端",
+        "package_name": "com.yongcai.qiaodangjiaservice",
+        "file_name": "com.yongcai.qiaodangjiaservice_88.apk",
+        "app_activity": "com.hqyouquan.recycle.MainActivity"
+    },
+    {
+        "app_name": "萤火虫",
+        "package_name": "com.data.firefly",
+        "file_name": "com.data.firefly_89.apk",
+        "app_activity": "com.data.firefly.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "Little Buddy Bus",
+        "package_name": "com.xiaoban.school",
+        "file_name": "com.xiaoban.school_90.apk",
+        "app_activity": "com.xiaoban.school.ui.LoginMainActivity"
+    },
+    {
+        "app_name": "左管家",
+        "package_name": "com.demlution.aazuoguanjia",
+        "file_name": "com.demlution.aazuoguanjia_91.apk",
+        "app_activity": "com.demlution.aazuoguanjia.MainActivity"
+    },
+    {
+        "app_name": "静美安安",
+        "package_name": "cn.youerp.anmakeover",
+        "file_name": "cn.youerp.anmakeover_92.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "帮邻居",
+        "package_name": "com.cms.banglinjucustomer",
+        "file_name": "com.cms.banglinjucustomer_93.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "雅可家政系统",
+        "package_name": "uni.UNI12B8F8F",
+        "file_name": "uni.UNI12B8F8F_94.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "启活",
+        "package_name": "com.zhyl.qlb",
+        "file_name": "com.zhyl.qlb_95.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "生活佳",
+        "package_name": "com.shangmenfuwu.benben",
+        "file_name": "com.shangmenfuwu.benben_96.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "陪护管理端",
+        "package_name": "com.yihubang.manager",
+        "file_name": "com.yihubang.manager_97.apk",
+        "app_activity": "com.yihubang.manager.activitys.StartActivity"
+    },
+    {
+        "app_name": "叮咚吉派",
+        "package_name": "com.dingdongjipai.user",
+        "file_name": "com.dingdongjipai.user_98.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "家朕管家",
+        "package_name": "com.jzgj.zx",
+        "file_name": "com.jzgj.zx_99.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "周周帮",
+        "package_name": "com.haoshuang.zhouzhoubang",
+        "file_name": "com.haoshuang.zhouzhoubang_100.apk",
+        "app_activity": "com.haoshuang.zhouzhoubang.ui.page.splash.SplashPageActivity"
+    },
+    {
+        "app_name": "天鹅到家",
+        "package_name": "com.daojia.jz.app",
+        "file_name": "com.daojia.jz.app_101.apk",
+        "app_activity": "com.wuba.jiazheng.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "爱益护",
+        "package_name": "uni.UNI64AF1F6",
+        "file_name": "uni.UNI64AF1F6_102.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "万师傅",
+        "package_name": "com.wanshifu.home",
+        "file_name": "com.wanshifu.home_103.apk",
+        "app_activity": "com.wanshifu.home.MainActivity"
+    },
+    {
+        "app_name": "啄木鸟家电维修",
+        "package_name": "uni.UNI65E09D3",
+        "file_name": "uni.UNI65E09D3_104.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "无忧家政",
+        "package_name": "uni.UNIDF1A4E8",
+        "file_name": "uni.UNIDF1A4E8_105.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "科筑到家",
+        "package_name": "uni.UNIDF2D265",
+        "file_name": "uni.UNIDF2D265_106.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "e通卡",
+        "package_name": "com.citywithincity.ecard",
+        "file_name": "com.citywithincity.ecard_107.apk",
+        "app_activity": "com.citywithincity.ecard.EntryActivity"
+    },
+    {
+        "app_name": "轻洁到家商家端",
+        "package_name": "com.qjzg.merchant",
+        "file_name": "com.qjzg.merchant_108.apk",
+        "app_activity": "com.qjzg.merchant.view.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "申小集陪诊",
+        "package_name": "uni.sxjjzpz",
+        "file_name": "uni.sxjjzpz_109.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "壹管佳家政管理软件",
+        "package_name": "com.yihaoyoujz",
+        "file_name": "com.yihaoyoujz_110.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "帮你顾家",
+        "package_name": "com.jiazheng.bonnie",
+        "file_name": "com.jiazheng.bonnie_111.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "凤凰到家",
+        "package_name": "com.fhdj.ww",
+        "file_name": "com.fhdj.ww_112.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "万用工家政",
+        "package_name": "wanyonggong.app.com",
+        "file_name": "wanyonggong.app.com_113.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "摩小象工作端",
+        "package_name": "and.TechnicianWork.apk",
+        "file_name": "and.TechnicianWork.apk_114.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "诺德物业",
+        "package_name": "com.ka.zhongtienuode.owner",
+        "file_name": "com.ka.zhongtienuode.owner_115.apk",
+        "app_activity": "com.qding.login.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "修约到家师傅版",
+        "package_name": "om.wt.qiaojiangfang_shifu",
+        "file_name": "om.wt.qiaojiangfang_shifu_116.apk",
+        "app_activity": "com.wt.qiaojiangfang_shifu.ui.MainAct"
+    },
+    {
+        "app_name": "鲸喜到家",
+        "package_name": "com.jingxidaojia.benben",
+        "file_name": "com.jingxidaojia.benben_117.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "众象工匠",
+        "package_name": "com.you.youling",
+        "file_name": "com.you.youling_118.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "柒柒的生活",
+        "package_name": "com.fzyc.qiqi",
+        "file_name": "com.fzyc.qiqi_119.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "阿姨来了",
+        "package_name": "com.mrocker.aunt",
+        "file_name": "com.mrocker.aunt_120.apk",
+        "app_activity": "com.mrocker.aunt.activity.StartActivity"
+    },
+    {
+        "app_name": "鸿峥家洁服务端",
+        "package_name": "com.whhg.hzjjcleaningandroidapp",
+        "file_name": "com.whhg.hzjjcleaningandroidapp_121.apk",
+        "app_activity": "com.whhg.hzjjcleaningandroidapp.base.SplashActivity"
+    },
+    {
+        "app_name": "超级阿姨端",
+        "package_name": "asia.share.superayi",
+        "file_name": "asia.share.superayi_122.apk",
+        "app_activity": "asia.share.superayi.MainActivity"
+    },
+    {
+        "app_name": "左管家商家端",
+        "package_name": "com.demlution.aczuoguanjia",
+        "file_name": "com.demlution.aczuoguanjia_123.apk",
+        "app_activity": "com.demlution.aczuoguanjia.MainActivity"
+    },
+    {
+        "app_name": "家政园",
+        "package_name": "com.bm001.ehome.jzy",
+        "file_name": "com.bm001.ehome.jzy_124.apk",
+        "app_activity": "com.eactative.app.SplashActivity"
+    },
+    {
+        "app_name": "U服到家接单版",
+        "package_name": "com.userviceworker",
+        "file_name": "com.userviceworker_125.apk",
+        "app_activity": "com.userviceworker.MainActivity"
+    },
+    {
+        "app_name": "洁妹子家政保洁",
+        "package_name": "com.bjhwbr.jmz",
+        "file_name": "com.bjhwbr.jmz_126.apk",
+        "app_activity": "com.bjhwbr.jmz.ui.activity.MainActivity"
+    },
+    {
+        "app_name": "育管家管家端软件",
+        "package_name": "com.YGJ.app",
+        "file_name": "com.YGJ.app_127.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "周周家服",
+        "package_name": "com.lnkj.jialubao",
+        "file_name": "com.lnkj.jialubao_128.apk",
+        "app_activity": "com.lnkj.jialubao.newui.page.splash.SplashPageActivity"
+    },
+    {
+        "app_name": "魏师傅维修师",
+        "package_name": "com.benbenw.weirider",
+        "file_name": "com.benbenw.weirider_129.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "表叔云服",
+        "package_name": "com.zjzk.uncleserver",
+        "file_name": "com.zjzk.uncleserver_130.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "医小朵陪诊",
+        "package_name": "uni.UNI21FA0A0",
+        "file_name": "uni.UNI21FA0A0_131.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "鱼泡到家师傅版",
+        "package_name": "com.yupao.family",
+        "file_name": "com.yupao.family_132.apk",
+        "app_activity": "com.yupao.family.LaunchActivity"
+    },
+    {
+        "app_name": "互帮家政",
+        "package_name": "com.YiCheng.PHB",
+        "file_name": "com.YiCheng.PHB_133.apk",
+        "app_activity": "com.embarcadero.firemonkey.FMXNativeActivity"
+    },
+    {
+        "app_name": "福奈特洗衣",
+        "package_name": "com.fnt.washer",
+        "file_name": "com.fnt.washer_134.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "轻洁到家",
+        "package_name": "com.qjzg.user",
+        "file_name": "com.qjzg.user_135.apk",
+        "app_activity": "com.qjzg.user.view.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "茫蜂",
+        "package_name": "com.ahrykj.mfdj",
+        "file_name": "com.ahrykj.mfdj_136.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "电建悦生活",
+        "package_name": "cn.xinjiewy.wy.yz",
+        "file_name": "cn.xinjiewy.wy.yz_137.apk",
+        "app_activity": "cn.xinjiewy.wy.yz.app.welcome.view.WelcomeActivity"
+    },
+    {
+        "app_name": "优服小哥",
+        "package_name": "uni.UNI293B224",
+        "file_name": "uni.UNI293B224_138.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "i微孝助老版",
+        "package_name": "yl_ap_service.yh.com",
+        "file_name": "yl_ap_service.yh.com_139.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "小兔开门",
+        "package_name": "com.ajhy.ehome",
+        "file_name": "com.ajhy.ehome_140.apk",
+        "app_activity": "com.ajhy.ehome.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "快洁帮专员",
+        "package_name": "com.jxwifi.cloud.quickcleanserver",
+        "file_name": "com.jxwifi.cloud.quickcleanserver_141.apk",
+        "app_activity": "com.jxwifi.cloud.quickcleanserver.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "点菜式服务",
+        "package_name": "com.zehuiyanglao.diancai",
+        "file_name": "com.zehuiyanglao.diancai_142.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "悦服务PLUS",
+        "package_name": "skyland.app.uni.nandu.yuefuwu",
+        "file_name": "skyland.app.uni.nandu.yuefuwu_143.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "91畅修保",
+        "package_name": "com.yc.changxiubao",
+        "file_name": "com.yc.changxiubao_144.apk",
+        "app_activity": "com.yc.qiyeneiwai.activity.SplashActivity"
+    },
+    {
+        "app_name": "今往",
+        "package_name": "com.jinwang.client",
+        "file_name": "com.jinwang.client_145.apk",
+        "app_activity": "com.st.main.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "嘉帮手",
+        "package_name": "com.sc.jiahelper.client",
+        "file_name": "com.sc.jiahelper.client_146.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "宝妈亲测",
+        "package_name": "com.qckj.bmqc",
+        "file_name": "com.qckj.bmqc_147.apk",
+        "app_activity": "com.qckj.bmqc.MainActivity"
+    },
+    {
+        "app_name": "贤阿姨一点通",
+        "package_name": "jy.xianayi.ydt",
+        "file_name": "jy.xianayi.ydt_148.apk",
+        "app_activity": "jy.xianayi.flutter_xianayi_ydt.MainActivity"
+    },
+    {
+        "app_name": "北京燃气",
+        "package_name": "com.bjgas.shop",
+        "file_name": "com.bjgas.shop_149.apk",
+        "app_activity": "com.bjgas.shop.MainActivity"
+    },
+    {
+        "app_name": "小同学托管",
+        "package_name": "com.xtx.tg",
+        "file_name": "com.xtx.tg_150.apk",
+        "app_activity": "com.xtx.tg.activity.SplashActivity"
+    },
+    {
+        "app_name": "电建悦管家",
+        "package_name": "cn.xinjiewy.wy",
+        "file_name": "cn.xinjiewy.wy_151.apk",
+        "app_activity": "cn.xinjiewy.wy.app.welcome.view.WelcomeActivity"
+    },
+    {
+        "app_name": "一万响",
+        "package_name": "com.clifford.cliffordapps.app",
+        "file_name": "com.clifford.cliffordapps.app_152.apk",
+        "app_activity": "com.clifford.cliffordapps.app.activitys.loginactivity.FlashPicActivity"
+    },
+    {
+        "app_name": "老马爱家",
+        "package_name": "com.laomaaijia.customer",
+        "file_name": "com.laomaaijia.customer_153.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "惠智邻里",
+        "package_name": "com.gzhz.hzll",
+        "file_name": "com.gzhz.hzll_154.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "尚佳美业",
+        "package_name": "com.yqh.smjz",
+        "file_name": "com.yqh.smjz_155.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "电子请帖",
+        "package_name": "cn.weilaihongtech.invitation",
+        "file_name": "cn.weilaihongtech.invitation_156.apk",
+        "app_activity": "com.fanghenet.marry.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "极客修空调维修",
+        "package_name": "com.jikexiukt.android.App",
+        "file_name": "com.jikexiukt.android.App_157.apk",
+        "app_activity": "com.jikexiukt.android.webApp.ui.launcher.LaunchActivity"
+    },
+    {
+        "app_name": "家政宝",
+        "package_name": "com.xary.xary_user",
+        "file_name": "com.xary.xary_user_158.apk",
+        "app_activity": "com.xary.xary_user.MainActivity"
+    },
+    {
+        "app_name": "阿姨加",
+        "package_name": "com.nbsgay.ayej",
+        "file_name": "com.nbsgay.ayej_159.apk",
+        "app_activity": "com.nbsgay.ayej.model.enterance.SplashActivity"
+    },
+    {
+        "app_name": "三个阿姨",
+        "package_name": "com.nbsgay.sgay",
+        "file_name": "com.nbsgay.sgay_160.apk",
+        "app_activity": "com.nbsgay.sgay.model.enterance.SplashActivity"
+    },
+    {
+        "app_name": "家政快报商家版",
+        "package_name": "uni.jiazheng.shang",
+        "file_name": "uni.jiazheng.shang_161.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "啄木鸟维修",
+        "package_name": "zmn.user.jtwxs",
+        "file_name": "zmn.user.jtwxs_162.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "家盟系统",
+        "package_name": "com.nb.nbsgaysass",
+        "file_name": "com.nb.nbsgaysass_163.apk",
+        "app_activity": "com.nb.nbsgaysass.view.activity.login.SplashActivity"
+    },
+    {
+        "app_name": "陪诊呗",
+        "package_name": "com.mochujie.pz",
+        "file_name": "com.mochujie.pz_164.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "轻喜到家",
+        "package_name": "com.qxdj.mall",
+        "file_name": "com.qxdj.mall_165.apk",
+        "app_activity": "com.qxdj.mall.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "AiCS智慧保洁",
+        "package_name": "uni.UNI3040611",
+        "file_name": "uni.UNI3040611_166.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "天悦生活",
+        "package_name": "com.juhui.youjia",
+        "file_name": "com.juhui.youjia_167.apk",
+        "app_activity": "com.juhui.youjia.MainActivity"
+    },
+    {
+        "app_name": "fastservice",
+        "package_name": "com.bdkj.fastdoor",
+        "file_name": "com.bdkj.fastdoor_168.apk",
+        "app_activity": "com.bdkj.fastdoor.LaunchActivity"
+    },
+    {
+        "app_name": "人仁维修",
+        "package_name": "com.feimaotuikeji.renxiu",
+        "file_name": "com.feimaotuikeji.renxiu_169.apk",
+        "app_activity": "com.feimaotuikeji.renxiu.main.GuideA"
+    },
+    {
+        "app_name": "可可家服",
+        "package_name": "com.example.coco_housekeeping",
+        "file_name": "com.example.coco_housekeeping_170.apk",
+        "app_activity": "com.example.coco_housekeeping.MainActivity"
+    },
+    {
+        "app_name": "INXNI home",
+        "package_name": "com.yx.cloud",
+        "file_name": "com.yx.cloud_171.apk",
+        "app_activity": "com.yx.cloud.activity.WelcomeUI"
+    },
+    {
+        "app_name": "10寸中控屏",
+        "package_name": "com.szIdeaComm.Viper",
+        "file_name": "com.szIdeaComm.Viper_172.apk",
+        "app_activity": "com.szIdeaComm.Viper.Ui.ViperMainNew2"
+    },
+    {
+        "app_name": "优你家Plus",
+        "package_name": "com.copm.universal.owner",
+        "file_name": "com.copm.universal.owner_173.apk",
+        "app_activity": "com.copm.universal.owner.activity.SplashActivity"
+    },
+    {
+        "app_name": "58到家工作端",
+        "package_name": "com.wuba.huangye.ultimate",
+        "file_name": "com.wuba.huangye.ultimate_174.apk",
+        "app_activity": "com.wuba.huangye.ultimate.activity.SplashActivity"
+    },
+    {
+        "app_name": "开丽恩同城",
+        "package_name": "com.kailien.benben",
+        "file_name": "com.kailien.benben_175.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "来仁呐",
+        "package_name": "uni.UNI8280397",
+        "file_name": "uni.UNI8280397_176.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "今往商家版",
+        "package_name": "com.jinwangshop.client",
+        "file_name": "com.jinwangshop.client_177.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "享惠家",
+        "package_name": "com.gemflower.xhj",
+        "file_name": "com.gemflower.xhj_178.apk",
+        "app_activity": "com.gemflower.xhj.module.main.SplashNewActivity"
+    },
+    {
+        "app_name": "幸福赢行",
+        "package_name": "com.xfyh.cyxf",
+        "file_name": "com.xfyh.cyxf_179.apk",
+        "app_activity": "com.xfyh.cyxf.SplashActivity"
+    },
+    {
+        "app_name": "斑马好到家",
+        "package_name": "com.banma.hdj",
+        "file_name": "com.banma.hdj_180.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "帮帮到家APP",
+        "package_name": "uni.UNIFDFE36F",
+        "file_name": "uni.UNIFDFE36F_181.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "居家族",
+        "package_name": "com.newft.jujiazu",
+        "file_name": "com.newft.jujiazu_182.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "快洁帮",
+        "package_name": "com.jxwifi.cloud.quickclean",
+        "file_name": "com.jxwifi.cloud.quickclean_183.apk",
+        "app_activity": "com.jxwifi.cloud.quickclean.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "分拣中心",
+        "package_name": "com.jiabaotu.sort.app",
+        "file_name": "com.jiabaotu.sort.app_184.apk",
+        "app_activity": "com.jiabaotu.sort.app.module.business.user.view.NewLoginActivity"
+    },
+    {
+        "app_name": "吉米搬家",
+        "package_name": "com.jimimove.mm",
+        "file_name": "com.jimimove.mm_185.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    }
+]

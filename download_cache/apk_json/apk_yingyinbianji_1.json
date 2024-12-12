@@ -1,0 +1,2871 @@
+[
+    {
+        "app_name": "豆拍音乐相册",
+        "package_name": "com.doupai.musicphoto",
+        "file_name": "com.doupai.musicphoto_1.apk",
+        "app_activity": "com.slide.photo.SplashActivity"
+    },
+    {
+        "app_name": "魅影APP",
+        "package_name": "xk.myxc.sm",
+        "file_name": "xk.myxc.sm_2.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "快片儿",
+        "package_name": "com.chuye.quick",
+        "file_name": "com.chuye.quick_3.apk",
+        "app_activity": "com.chuye.quick.MainActivity"
+    },
+    {
+        "app_name": "影优尽优",
+        "package_name": "net.kunshun.cuthome",
+        "file_name": "net.kunshun.cuthome_4.apk",
+        "app_activity": "net.kunshun.cuthome.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "乐播视频",
+        "package_name": "com.pobne.sihng.igol",
+        "file_name": "com.pobne.sihng.igol_5.apk",
+        "app_activity": "com.video.editing.activity.StartActivity"
+    },
+    {
+        "app_name": "文字动画视频制作",
+        "package_name": "com.easyfun.app",
+        "file_name": "com.easyfun.app_6.apk",
+        "app_activity": "com.easyfun.app.SplashActivity"
+    },
+    {
+        "app_name": "小视频制作",
+        "package_name": "com.yl.shortvideomaking",
+        "file_name": "com.yl.shortvideomaking_7.apk",
+        "app_activity": "com.yl.shortvideomaking.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "视频格式转换",
+        "package_name": "com.xinmang.videoconvert",
+        "file_name": "com.xinmang.videoconvert_8.apk",
+        "app_activity": "com.example.fengqilin.videoconversion.activity.SplashAdActivity"
+    },
+    {
+        "app_name": "万兴喵影",
+        "package_name": "cn.wondershare.filmorago",
+        "file_name": "cn.wondershare.filmorago_9.apk",
+        "app_activity": "com.filmorago.phone.ui.SplashActivity"
+    },
+    {
+        "app_name": "尼卡",
+        "package_name": "com.nikamusic.gyzys",
+        "file_name": "com.nikamusic.gyzys_10.apk",
+        "app_activity": "com.sxb.new_music_edit_13.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "每绘",
+        "package_name": "cn.meihuiapp.videomaker",
+        "file_name": "cn.meihuiapp.videomaker_11.apk",
+        "app_activity": "cn.meihuiapp.videomaker.activity.LaunchActivity"
+    },
+    {
+        "app_name": "Video Effect",
+        "package_name": "com.xinmang.videoeffect",
+        "file_name": "com.xinmang.videoeffect_12.apk",
+        "app_activity": "com.xinmang.videoeffect.ui.SplashAdActivity"
+    },
+    {
+        "app_name": "趣夜视频",
+        "package_name": "quye.shipinzxv.hygy",
+        "file_name": "quye.shipinzxv.hygy_13.apk",
+        "app_activity": "com.video.six.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "歪点点相机",
+        "package_name": "com.estsoft.waidiandian.bb",
+        "file_name": "com.estsoft.waidiandian.bb_14.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "配音蜂",
+        "package_name": "com.peiyinfeng.app",
+        "file_name": "com.peiyinfeng.app_15.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "方格音乐",
+        "package_name": "com.lxdfangge.zhouyingyuejianji",
+        "file_name": "com.lxdfangge.zhouyingyuejianji_16.apk",
+        "app_activity": "com.vbase.audioedit.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "水印大师",
+        "package_name": "com.orangemedia.watermark",
+        "file_name": "com.orangemedia.watermark_17.apk",
+        "app_activity": "com.orangemedia.watermark.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "免费看片神器",
+        "package_name": "com.shieoxobent.zooji",
+        "file_name": "com.shieoxobent.zooji_18.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "flash播放器",
+        "package_name": "com.yijiawl.ycsp",
+        "file_name": "com.yijiawl.ycsp_19.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "视频换背景",
+        "package_name": "com.hanyuan.videobackgroundchanger",
+        "file_name": "com.hanyuan.videobackgroundchanger_20.apk",
+        "app_activity": "com.hanyuan.videobackgroundchanger.activity_main"
+    },
+    {
+        "app_name": "爱剪辑音频",
+        "package_name": "com.syajjpck.audio",
+        "file_name": "com.syajjpck.audio_21.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "爱字幕",
+        "package_name": "cn.nineton.sayingwrod",
+        "file_name": "cn.nineton.sayingwrod_22.apk",
+        "app_activity": "cn.nineton.sayingwrod.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "Reverse Video Maker",
+        "package_name": "com.mvtrail.xiaomi.reversevideomaker",
+        "file_name": "com.mvtrail.xiaomi.reversevideomaker_23.apk",
+        "app_activity": "com.mvtrail.magicvideomaker.activitys.SplashActivity"
+    },
+    {
+        "app_name": "星空视频",
+        "package_name": "cherry.video.edit.tone",
+        "file_name": "cherry.video.edit.tone_24.apk",
+        "app_activity": "cherry.video.edit.tone.activity.StartActivity"
+    },
+    {
+        "app_name": "视频制作大师",
+        "package_name": "com.yslkjgs.azyijianjie",
+        "file_name": "com.yslkjgs.azyijianjie_25.apk",
+        "app_activity": "com.yhjygs.jianying.SplashActivity"
+    },
+    {
+        "app_name": "Video Editor",
+        "package_name": "com.lixiangdong.videocutter",
+        "file_name": "com.lixiangdong.videocutter_26.apk",
+        "app_activity": "com.netpower.videocropped.constans.SplashAdActivity"
+    },
+    {
+        "app_name": "爱剪辑",
+        "package_name": "com.shineyie.aijianji",
+        "file_name": "com.shineyie.aijianji_27.apk",
+        "app_activity": "com.shineyie.activity.SplashActivity"
+    },
+    {
+        "app_name": "银河视频",
+        "package_name": "com.lhzxyd.yhspbfq",
+        "file_name": "com.lhzxyd.yhspbfq_28.apk",
+        "app_activity": "com.vtb.movie.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "视频转文字",
+        "package_name": "com.rywl.voice",
+        "file_name": "com.rywl.voice_29.apk",
+        "app_activity": "com.rywl.voice.ui.home.SplashActivity"
+    },
+    {
+        "app_name": "刷圈兔编辑器",
+        "package_name": "shuaquan.tubianji.shengl",
+        "file_name": "shuaquan.tubianji.shengl_30.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "美剧天堂",
+        "package_name": "com.hao.kan.projec",
+        "file_name": "com.hao.kan.projec_31.apk",
+        "app_activity": "com.toupin.film.vidfour.activity.StartActivity"
+    },
+    {
+        "app_name": "音频快剪",
+        "package_name": "com.music.clip",
+        "file_name": "com.music.clip_32.apk",
+        "app_activity": "com.music.clip.activity.SplashActivity"
+    },
+    {
+        "app_name": "视频合并",
+        "package_name": "com.cutdd.media",
+        "file_name": "com.cutdd.media_33.apk",
+        "app_activity": "com.cutdd.media.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "字幕翻译",
+        "package_name": "com.vedio.tsanslate",
+        "file_name": "com.vedio.tsanslate_34.apk",
+        "app_activity": "com.vedio.tsanslate.activity.GuideActivity"
+    },
+    {
+        "app_name": "视频格式转换工厂",
+        "package_name": "com.cjtec.videoformat",
+        "file_name": "com.cjtec.videoformat_35.apk",
+        "app_activity": "com.cjtec.videoformat.mvp.activity.SplashActivity"
+    },
+    {
+        "app_name": "安卓剪辑助手",
+        "package_name": "com.cstoolsvideocut.assistant",
+        "file_name": "com.cstoolsvideocut.assistant_36.apk",
+        "app_activity": "com.ts.app.flutter_video_cut.MainActivity"
+    },
+    {
+        "app_name": "Pr专业摄像机",
+        "package_name": "com.video.fclip",
+        "file_name": "com.video.fclip_37.apk",
+        "app_activity": "com.video.fclip.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "狐狸视频",
+        "package_name": "video.huliess.editor",
+        "file_name": "video.huliess.editor_38.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "音频大师",
+        "package_name": "com.voice.convert.app",
+        "file_name": "com.voice.convert.app_39.apk",
+        "app_activity": "com.voice.convert.app.controller.LoadingActivity"
+    },
+    {
+        "app_name": "乐剪音频",
+        "package_name": "com.mantu.edit.music",
+        "file_name": "com.mantu.edit.music_40.apk",
+        "app_activity": "com.mantu.edit.music.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "剪映",
+        "package_name": "com.lemon.lv",
+        "file_name": "com.lemon.lv_41.apk",
+        "app_activity": "com.vega.main.MainActivity"
+    },
+    {
+        "app_name": "图片转视频",
+        "package_name": "com.yuchuang.xycpng2video",
+        "file_name": "com.yuchuang.xycpng2video_42.apk",
+        "app_activity": "com.yuchuang.xycpng2video.AD.APPFirstActivity"
+    },
+    {
+        "app_name": "多多视频剪辑软件",
+        "package_name": "com.zhenggao.videoclip",
+        "file_name": "com.zhenggao.videoclip_43.apk",
+        "app_activity": "com.zhenggao.videoclip.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "万能月亮播放器",
+        "package_name": "com.moshang.moon.player",
+        "file_name": "com.moshang.moon.player_44.apk",
+        "app_activity": "com.moshang.moon.player.SplashActivity"
+    },
+    {
+        "app_name": "来画",
+        "package_name": "com.laihua.standard",
+        "file_name": "com.laihua.standard_45.apk",
+        "app_activity": "com.laihua.kt.module.home.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "哔嘀视频",
+        "package_name": "com.txjjz.blspjjw",
+        "file_name": "com.txjjz.blspjjw_46.apk",
+        "app_activity": "com.sxb.new_movies_56.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "Meitu Wink",
+        "package_name": "com.meitu.wink",
+        "file_name": "com.meitu.wink_47.apk",
+        "app_activity": "com.meitu.wink.startup.StartupActivity"
+    },
+    {
+        "app_name": "Video star剪辑",
+        "package_name": "com.video.videostar",
+        "file_name": "com.video.videostar_48.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "影剪辑视频编辑",
+        "package_name": "com.zkhcsoft.yingjianji",
+        "file_name": "com.zkhcsoft.yingjianji_49.apk",
+        "app_activity": "com.zkhcsoft.yingjianji.SplashAd3Activity"
+    },
+    {
+        "app_name": "秀脸FacePlay",
+        "package_name": "com.ai.face.play",
+        "file_name": "com.ai.face.play_50.apk",
+        "app_activity": "com.ai.face.play.MainActivity"
+    },
+    {
+        "app_name": "语音倒放",
+        "package_name": "com.adiube.yydf",
+        "file_name": "com.adiube.yydf_51.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "天天好物",
+        "package_name": "com.pblk.tiantian.video",
+        "file_name": "com.pblk.tiantian.video_52.apk",
+        "app_activity": "com.pblk.tiantian.video.activity.LauncherActivity"
+    },
+    {
+        "app_name": "免费视频剪辑",
+        "package_name": "com.lingqixinxi.mfspbj",
+        "file_name": "com.lingqixinxi.mfspbj_53.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "快剪辑",
+        "package_name": "com.qihoo.qeditor",
+        "file_name": "com.qihoo.qeditor_54.apk",
+        "app_activity": "com.media.editor.splash.SplashActivity"
+    },
+    {
+        "app_name": "小视频压缩",
+        "package_name": "cn.mediaio.mediaio",
+        "file_name": "cn.mediaio.mediaio_55.apk",
+        "app_activity": "cn.mediaio.mediaio.splash.ScreenSplash"
+    },
+    {
+        "app_name": "云推巨量",
+        "package_name": "com.startupcloud.cloudflow",
+        "file_name": "com.startupcloud.cloudflow_56.apk",
+        "app_activity": "com.startupcloud.riddlegenerator.activity.prepare.PrepareActivity"
+    },
+    {
+        "app_name": "万兴播爆",
+        "package_name": "com.virtual.video",
+        "file_name": "com.virtual.video_57.apk",
+        "app_activity": "com.virtual.video.app.SplashActivity"
+    },
+    {
+        "app_name": "AH视频剪辑",
+        "package_name": "com.wyahsp.mviojsgaf",
+        "file_name": "com.wyahsp.mviojsgaf_58.apk",
+        "app_activity": "com.video.seven.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "迅捷视频剪辑",
+        "package_name": "com.fresh.light",
+        "file_name": "com.fresh.light_59.apk",
+        "app_activity": "com.fresh.light.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "小橘音乐剪辑",
+        "package_name": "com.cjxjyy.xjyycj",
+        "file_name": "com.cjxjyy.xjyycj_60.apk",
+        "app_activity": "com.vbase.audioedit.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "去水印全能王",
+        "package_name": "jdfbx.videotool.water",
+        "file_name": "jdfbx.videotool.water_61.apk",
+        "app_activity": "jdfbx.videotool.water.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "熊猫微剪",
+        "package_name": "com.pandajianji.csykt",
+        "file_name": "com.pandajianji.csykt_62.apk",
+        "app_activity": "com.wxy.movie72.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "NO视频",
+        "package_name": "editor.daixiong.video",
+        "file_name": "editor.daixiong.video_63.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "春色播放器",
+        "package_name": "com.estsoft.huohua.xg",
+        "file_name": "com.estsoft.huohua.xg_64.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "MotionNinja特效视频",
+        "package_name": "com.accarunit.motionvideoeditor.cn",
+        "file_name": "com.accarunit.motionvideoeditor.cn_65.apk",
+        "app_activity": "com.lightcone.ae.activity.home.HomeActivity"
+    },
+    {
+        "app_name": "一键视频提取",
+        "package_name": "com.video.watermarking",
+        "file_name": "com.video.watermarking_66.apk",
+        "app_activity": "com.video.watermarking.ui.SplashActivity"
+    },
+    {
+        "app_name": "音乐伴奏提取",
+        "package_name": "com.longgame.removocals",
+        "file_name": "com.longgame.removocals_67.apk",
+        "app_activity": "com.longgame.removocals.ui.SplashActivity"
+    },
+    {
+        "app_name": "樱花视频",
+        "package_name": "lpn.yinha.ship",
+        "file_name": "lpn.yinha.ship_68.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "转转大师视频格式转换",
+        "package_name": "com.example.yinleme.spzh",
+        "file_name": "com.example.yinleme.spzh_69.apk",
+        "app_activity": "com.example.yinleme.zhuanzhuandashi.activity.ui.activity.kt.StartPageActivity"
+    },
+    {
+        "app_name": "音频编辑器",
+        "package_name": "com.wisforce.product.wisae",
+        "file_name": "com.wisforce.product.wisae_70.apk",
+        "app_activity": "com.wisforce.product.wisae.app.MainActivity"
+    },
+    {
+        "app_name": "大海影视播放",
+        "package_name": "com.editing.video",
+        "file_name": "com.editing.video_71.apk",
+        "app_activity": "com.editing.video.activty.StartActivity"
+    },
+    {
+        "app_name": "PrettyUp视频p图",
+        "package_name": "com.accordion.prettyo.cn",
+        "file_name": "com.accordion.prettyo.cn_72.apk",
+        "app_activity": "com.lightcone.prettyo.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "聆听音乐",
+        "package_name": "com.lingtingmusic.gyjfy",
+        "file_name": "com.lingtingmusic.gyjfy_73.apk",
+        "app_activity": "com.vbase.audioedit.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "旺影",
+        "package_name": "com.guidou.wangying",
+        "file_name": "com.guidou.wangying_74.apk",
+        "app_activity": "com.auntec.template.MainActivity"
+    },
+    {
+        "app_name": "Tiktbniok",
+        "package_name": "fucen.book.qwe",
+        "file_name": "fucen.book.qwe_75.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "Video Toolbox",
+        "package_name": "com.mycp.videocompress",
+        "file_name": "com.mycp.videocompress_76.apk",
+        "app_activity": "com.mycp.videocompress.ui.SplashActivity"
+    },
+    {
+        "app_name": "bandlab",
+        "package_name": "com.band.yinpin",
+        "file_name": "com.band.yinpin_77.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "拍视频剪辑",
+        "package_name": "com.loveart.clip.videosy",
+        "file_name": "com.loveart.clip.videosy_78.apk",
+        "app_activity": "com.zhangying.appcollection.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "Insta360",
+        "package_name": "com.arashivision.insta360akiko",
+        "file_name": "com.arashivision.insta360akiko_79.apk",
+        "app_activity": "com.arashivision.insta360akiko.app.SplashActivity"
+    },
+    {
+        "app_name": "黑猪侠",
+        "package_name": "cszy.spbjw.akhdc",
+        "file_name": "cszy.spbjw.akhdc_80.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "桃花视频",
+        "package_name": "player.video.madout",
+        "file_name": "player.video.madout_81.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "剪辑魔法师",
+        "package_name": "com.fengping.videoclipmagician",
+        "file_name": "com.fengping.videoclipmagician_82.apk",
+        "app_activity": "com.fengping.videoclipmagician.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "畅片",
+        "package_name": "com.dji.light",
+        "file_name": "com.dji.light_83.apk",
+        "app_activity": "com.lct.light.main.SplashActivity"
+    },
+    {
+        "app_name": "音乐适配",
+        "package_name": "com.yinyueshipei.gyttkx",
+        "file_name": "com.yinyueshipei.gyttkx_84.apk",
+        "app_activity": "com.vtb.music.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "野花谷",
+        "package_name": "com.jyxx.yhgxj",
+        "file_name": "com.jyxx.yhgxj_85.apk",
+        "app_activity": "com.sxb.new_camera_4.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "推文助手",
+        "package_name": "com.startupcloud.riddlegenerator",
+        "file_name": "com.startupcloud.riddlegenerator_86.apk",
+        "app_activity": "com.startupcloud.riddlegenerator.activity.prepare.PrepareActivity"
+    },
+    {
+        "app_name": "电话录音器",
+        "package_name": "com.ziyewl.dhlyq",
+        "file_name": "com.ziyewl.dhlyq_87.apk",
+        "app_activity": "com.geetol.three_record.activitys.SplashActivity"
+    },
+    {
+        "app_name": "书单视频助手",
+        "package_name": "com.lingbao.booklistvideo",
+        "file_name": "com.lingbao.booklistvideo_88.apk",
+        "app_activity": "com.lingbao.booklistvideo.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "快快播放器",
+        "package_name": "com.uociwl.miow",
+        "file_name": "com.uociwl.miow_89.apk",
+        "app_activity": "com.wanqing.ll.ms.SpppppActivity"
+    },
+    {
+        "app_name": "伴奏大师",
+        "package_name": "com.yyyx.bzds",
+        "file_name": "com.yyyx.bzds_90.apk",
+        "app_activity": "com.yyyx.bzds.activity.SplashActivity"
+    },
+    {
+        "app_name": "星播星视",
+        "package_name": "com.xb.wxj.dev.videoedit",
+        "file_name": "com.xb.wxj.dev.videoedit_91.apk",
+        "app_activity": "com.xb.wxj.dev.videoedit.StartPageActivity"
+    },
+    {
+        "app_name": "MINO4K",
+        "package_name": "com.minuo.wyfourknb",
+        "file_name": "com.minuo.wyfourknb_92.apk",
+        "app_activity": "com.sijelka.videoedit2.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "轻听音乐",
+        "package_name": "com.qtyy.zyhdjjwynb",
+        "file_name": "com.qtyy.zyhdjjwynb_93.apk",
+        "app_activity": "com.vbase.audioedit.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "一键去水印专业版",
+        "package_name": "yijianqushuiyin.com",
+        "file_name": "yijianqushuiyin.com_94.apk",
+        "app_activity": "yijianqushuiyin.com.home.AdActivity"
+    },
+    {
+        "app_name": "Music Editor",
+        "package_name": "com.android.audioedit.musiedit",
+        "file_name": "com.android.audioedit.musiedit_95.apk",
+        "app_activity": "com.android.audioedit.musicedit.app.SplashActivity"
+    },
+    {
+        "app_name": "视频修复",
+        "package_name": "com.puwu.revideo",
+        "file_name": "com.puwu.revideo_96.apk",
+        "app_activity": "com.puwu.revideo.activity.SplashActivity"
+    },
+    {
+        "app_name": "录屏幕录制视频",
+        "package_name": "com.f2brec.videoeditor.screenrecorder",
+        "file_name": "com.f2brec.videoeditor.screenrecorder_97.apk",
+        "app_activity": "com.cody.supads.activity.StartActivity"
+    },
+    {
+        "app_name": "秒播",
+        "package_name": "com.lingxi.zhibo",
+        "file_name": "com.lingxi.zhibo_98.apk",
+        "app_activity": "com.lingxi.zhibo.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "VivaVideo",
+        "package_name": "com.quvideo.xiaoying",
+        "file_name": "com.quvideo.xiaoying_99.apk",
+        "app_activity": "com.quvideo.xiaoying.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "vlog剪辑软件",
+        "package_name": "com.biggerlens.videopro",
+        "file_name": "com.biggerlens.videopro_100.apk",
+        "app_activity": "com.biggerlens.videopro.act.AdvertiseActivity"
+    },
+    {
+        "app_name": "视频剪辑合并",
+        "package_name": "com.kky.picsartpubg",
+        "file_name": "com.kky.picsartpubg_101.apk",
+        "app_activity": "com.kky.picsartpubg.ui.welcome.SplashActivity"
+    },
+    {
+        "app_name": "视频播放器磁力种子",
+        "package_name": "com.jrsy.meplayer",
+        "file_name": "com.jrsy.meplayer_102.apk",
+        "app_activity": "com.shengmi.file.ui.SplashActivity"
+    },
+    {
+        "app_name": "即创",
+        "package_name": "gzqf.lykk.uhshh",
+        "file_name": "gzqf.lykk.uhshh_103.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "Pieces",
+        "package_name": "com.pencilstub.pieces",
+        "file_name": "com.pencilstub.pieces_104.apk",
+        "app_activity": "com.pensilstub.android.page.launcher.ui.LauncherActivity"
+    },
+    {
+        "app_name": "视频配音",
+        "package_name": "com.video.dubbing",
+        "file_name": "com.video.dubbing_105.apk",
+        "app_activity": "com.video.dubbing.ui.SplashActivity"
+    },
+    {
+        "app_name": "妙剪",
+        "package_name": "com.zlsp.izimu",
+        "file_name": "com.zlsp.izimu_106.apk",
+        "app_activity": "com.zlsp.izimu.SplashActivity"
+    },
+    {
+        "app_name": "Screen Recorder",
+        "package_name": "com.softin.ace",
+        "file_name": "com.softin.ace_107.apk",
+        "app_activity": "com.softin.ace.ui.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "午夜",
+        "package_name": "com.ewyn.plx.cn",
+        "file_name": "com.ewyn.plx.cn_108.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "趣夜",
+        "package_name": "quye.xiuxiu.cslixxin",
+        "file_name": "quye.xiuxiu.cslixxin_109.apk",
+        "app_activity": "com.sxb.new_camera_4.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "滚动字幕动画",
+        "package_name": "com.smallyin.wordsaying",
+        "file_name": "com.smallyin.wordsaying_110.apk",
+        "app_activity": "com.smallyin.wordsaying.SplashActivity"
+    },
+    {
+        "app_name": "视频剪辑制作",
+        "package_name": "com.lee.mood.clip",
+        "file_name": "com.lee.mood.clip_111.apk",
+        "app_activity": "com.hongdie.editorsub.LaunchActivity"
+    },
+    {
+        "app_name": "剪意视频剪辑",
+        "package_name": "com.zkhcsoft.jianyi",
+        "file_name": "com.zkhcsoft.jianyi_112.apk",
+        "app_activity": "com.zkhcsoft.jianyi.splash.SplashActivity"
+    },
+    {
+        "app_name": "OpenCut",
+        "package_name": "com.lestream.cut",
+        "file_name": "com.lestream.cut_113.apk",
+        "app_activity": "com.lestream.cut.MainActivity"
+    },
+    {
+        "app_name": "COOL VUE视频剪辑",
+        "package_name": "com.vue.edit",
+        "file_name": "com.vue.edit_114.apk",
+        "app_activity": "com.yunbaite.jianyi.act.StartActivity"
+    },
+    {
+        "app_name": "视频豆豆",
+        "package_name": "com.kaiqi.videoae",
+        "file_name": "com.kaiqi.videoae_115.apk",
+        "app_activity": "com.kaiqi.videoae.VideoAEWelcomeActivity"
+    },
+    {
+        "app_name": "红豆视频",
+        "package_name": "com.hongdou.cn",
+        "file_name": "com.hongdou.cn_116.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "视频去水印管家",
+        "package_name": "com.caidan.sptq",
+        "file_name": "com.caidan.sptq_117.apk",
+        "app_activity": "com.caidan.sptq.activity.SplashActivity"
+    },
+    {
+        "app_name": "九妖播放器",
+        "package_name": "www.wnspbfq.xy",
+        "file_name": "www.wnspbfq.xy_118.apk",
+        "app_activity": "com.zy.app.devappcollection.SplashActivity"
+    },
+    {
+        "app_name": "AudioLab音乐编辑",
+        "package_name": "com.sqn.yyjj",
+        "file_name": "com.sqn.yyjj_119.apk",
+        "app_activity": "com.sqcatfix.emptyproject.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "视频提取器",
+        "package_name": "com.xuanmutech.shipin",
+        "file_name": "com.xuanmutech.shipin_120.apk",
+        "app_activity": "com.liuniantech.shipin.activities.LaunchActivity"
+    },
+    {
+        "app_name": "Protake",
+        "package_name": "com.blink.academy.protake",
+        "file_name": "com.blink.academy.protake_121.apk",
+        "app_activity": "com.blink.academy.film.Splash2Activity"
+    },
+    {
+        "app_name": "甜拍",
+        "package_name": "com.sweet.sweetshot",
+        "file_name": "com.sweet.sweetshot_122.apk",
+        "app_activity": "com.sweet.sweetshot.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "Super Sound",
+        "package_name": "com.tianxingjian.supersound",
+        "file_name": "com.tianxingjian.supersound_123.apk",
+        "app_activity": "com.tianxingjian.supersound.MainActivity"
+    },
+    {
+        "app_name": "制作视频",
+        "package_name": "com.maoying.makevideo",
+        "file_name": "com.maoying.makevideo_124.apk",
+        "app_activity": "com.maoying.makevideo.adActivity.SplashActivity"
+    },
+    {
+        "app_name": "歌词适配",
+        "package_name": "com.dydeao.qdnunsw.zrpjzzu",
+        "file_name": "com.dydeao.qdnunsw.zrpjzzu_125.apk",
+        "app_activity": "com.music.wortkhjy.cut.activity.StartActivity"
+    },
+    {
+        "app_name": "视频编辑大师",
+        "package_name": "com.luozs.video",
+        "file_name": "com.luozs.video_126.apk",
+        "app_activity": "com.luozs.video.activity.WelcomeActivityBiding"
+    },
+    {
+        "app_name": "魔法消除笔",
+        "package_name": "com.wuyouwater.com",
+        "file_name": "com.wuyouwater.com_127.apk",
+        "app_activity": "com.ps.magicclearpen.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "美颜精灵",
+        "package_name": "com.jhsoft.spmyjl",
+        "file_name": "com.jhsoft.spmyjl_128.apk",
+        "app_activity": "com.jhsoft.spmyjl.activity.SplashActivity"
+    },
+    {
+        "app_name": "动感音乐相册",
+        "package_name": "com.moshang.editor",
+        "file_name": "com.moshang.editor_129.apk",
+        "app_activity": "com.moshang.editor.SplashActivity"
+    },
+    {
+        "app_name": "音画",
+        "package_name": "tv.yinhua.main",
+        "file_name": "tv.yinhua.main_130.apk",
+        "app_activity": "tv.yinhua.SplashActivity"
+    },
+    {
+        "app_name": "视频剪辑软件",
+        "package_name": "com.hongdie.editor",
+        "file_name": "com.hongdie.editor_131.apk",
+        "app_activity": "com.hongdie.editorsub.LaunchActivity"
+    },
+    {
+        "app_name": "速悦",
+        "package_name": "mnc.surui.music",
+        "file_name": "mnc.surui.music_132.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "fly music",
+        "package_name": "gzqf.fiym.yyyjj",
+        "file_name": "gzqf.fiym.yyyjj_133.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "SJCAM Zone",
+        "package_name": "org.jght.sjcam.zone",
+        "file_name": "org.jght.sjcam.zone_134.apk",
+        "app_activity": "org.jght.sjcam.zone.ui.activity.BoredActivity"
+    },
+    {
+        "app_name": "王者剪辑",
+        "package_name": "com.xiaodianai.montage",
+        "file_name": "com.xiaodianai.montage_135.apk",
+        "app_activity": "com.xiaodianai.montage.Launcher"
+    },
+    {
+        "app_name": "爱剪辑",
+        "package_name": "com.editor.king.androids",
+        "file_name": "com.editor.king.androids_136.apk",
+        "app_activity": "com.aijianji.clip.ui.splash.Splash2Activity"
+    },
+    {
+        "app_name": "柚崽",
+        "package_name": "com.nineton.babyshow",
+        "file_name": "com.nineton.babyshow_137.apk",
+        "app_activity": "com.nineton.babyshow.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "万能视频转换器",
+        "package_name": "com.mpwn.spzhq",
+        "file_name": "com.mpwn.spzhq_138.apk",
+        "app_activity": "com.fwlst.module_splash.SplashActivity"
+    },
+    {
+        "app_name": "影音坊",
+        "package_name": "com.android.mvideo.tools",
+        "file_name": "com.android.mvideo.tools_139.apk",
+        "app_activity": "com.mvideo.tools.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "短视频一键去水印",
+        "package_name": "com.csnyg.remove_watermark",
+        "file_name": "com.csnyg.remove_watermark_140.apk",
+        "app_activity": "com.csnyg.remove_watermark.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "荐片",
+        "package_name": "com.microbent.lb",
+        "file_name": "com.microbent.lb_141.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "手机屏幕录制Vue",
+        "package_name": "com.chaoyou.screenrec",
+        "file_name": "com.chaoyou.screenrec_142.apk",
+        "app_activity": "com.rio.photomaster.SplashActivity"
+    },
+    {
+        "app_name": "影音万能播放器",
+        "package_name": "com.qingc.mobile.player",
+        "file_name": "com.qingc.mobile.player_143.apk",
+        "app_activity": "com.qingc.mobile.player.SplashActivity"
+    },
+    {
+        "app_name": "音效素材",
+        "package_name": "com.yunchuan.audiomaterail",
+        "file_name": "com.yunchuan.audiomaterail_144.apk",
+        "app_activity": "com.yunchuan.audiomaterail.SplashActivity"
+    },
+    {
+        "app_name": "NV",
+        "package_name": "nvjianjiyz.com",
+        "file_name": "nvjianjiyz.com_145.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "边框水印大师",
+        "package_name": "com.hasmash.photoby",
+        "file_name": "com.hasmash.photoby_146.apk",
+        "app_activity": "com.hasmash.photoby.MainActivity"
+    },
+    {
+        "app_name": "趣视界",
+        "package_name": "cq.fljt.funworld",
+        "file_name": "cq.fljt.funworld_147.apk",
+        "app_activity": "cq.fljt.funworld.ui.StartPageActivity"
+    },
+    {
+        "app_name": "GIF动图制作器",
+        "package_name": "com.kimgnuxc.qtpmlv",
+        "file_name": "com.kimgnuxc.qtpmlv_148.apk",
+        "app_activity": "com.base.product.activity.SplashActivity"
+    },
+    {
+        "app_name": "一键消除水印",
+        "package_name": "com.junruy.yjqcsy",
+        "file_name": "com.junruy.yjqcsy_149.apk",
+        "app_activity": "com.weimei.watermarkmaster.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "音乐剪辑编辑",
+        "package_name": "cn.shredjz.musicxeditor",
+        "file_name": "cn.shredjz.musicxeditor_150.apk",
+        "app_activity": "cn.shredjz.musicxeditor.launcher.StartActivity"
+    },
+    {
+        "app_name": "万能影音",
+        "package_name": "com.zjz100.lj",
+        "file_name": "com.zjz100.lj_151.apk",
+        "app_activity": "com.zhangying.appcollection.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "斑马视频",
+        "package_name": "com.ban.mamnfspzzcs",
+        "file_name": "com.ban.mamnfspzzcs_152.apk",
+        "app_activity": "com.vtb.base.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "蝴蝶视频",
+        "package_name": "shink.hdsp.player",
+        "file_name": "shink.hdsp.player_153.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "VivaCut",
+        "package_name": "video.star.videoeditor",
+        "file_name": "video.star.videoeditor_154.apk",
+        "app_activity": "com.quvideo.vivacut.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "必剪",
+        "package_name": "com.bilibili.studio",
+        "file_name": "com.bilibili.studio_155.apk",
+        "app_activity": "com.bcut.homepage.widget.SplashActivity"
+    },
+    {
+        "app_name": "视频去除水印",
+        "package_name": "com.banshouren.shipin",
+        "file_name": "com.banshouren.shipin_156.apk",
+        "app_activity": "com.liuniantech.shipin.activities.LaunchActivity"
+    },
+    {
+        "app_name": "火花视频",
+        "package_name": "video.editor.huohua",
+        "file_name": "video.editor.huohua_157.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "河马视频播放器",
+        "package_name": "gohe.hema.spbjq",
+        "file_name": "gohe.hema.spbjq_158.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "Video Clip Wizard",
+        "package_name": "com.clipzz.media",
+        "file_name": "com.clipzz.media_159.apk",
+        "app_activity": "com.clipzz.media.ui.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "Video Compress Kit",
+        "package_name": "com.xigeme.vcompress.android",
+        "file_name": "com.xigeme.vcompress.android_160.apk",
+        "app_activity": "com.xigeme.vcompress.activity.CWelcomeActivity"
+    },
+    {
+        "app_name": "音频剪辑君",
+        "package_name": "com.sh.audiocliper",
+        "file_name": "com.sh.audiocliper_161.apk",
+        "app_activity": "com.saohe.aedit.ui.SplashActivity"
+    },
+    {
+        "app_name": "菠萝视频",
+        "package_name": "video.balesp.editor",
+        "file_name": "video.balesp.editor_162.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "快速去水印",
+        "package_name": "com.juwan.qushuiyin",
+        "file_name": "com.juwan.qushuiyin_163.apk",
+        "app_activity": "com.iiitool.qsy.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "Video Audio Converter",
+        "package_name": "net.windcloud.explorer",
+        "file_name": "net.windcloud.explorer_164.apk",
+        "app_activity": "net.windcloud.explorer.SplashActivity"
+    },
+    {
+        "app_name": "快影",
+        "package_name": "com.kwai.videoeditor",
+        "file_name": "com.kwai.videoeditor_165.apk",
+        "app_activity": "com.kwai.videoeditor.activity.MainActivity"
+    },
+    {
+        "app_name": "全能去水印",
+        "package_name": "vip.qnjx.v",
+        "file_name": "vip.qnjx.v_166.apk",
+        "app_activity": "vip.qnjx.v.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "硅基数字人",
+        "package_name": "com.huanghua.digitalhuman",
+        "file_name": "com.huanghua.digitalhuman_167.apk",
+        "app_activity": "com.huanghua.digitalhuman.activity.SplashActivity"
+    },
+    {
+        "app_name": "音乐格式转换",
+        "package_name": "queek.music.transfer",
+        "file_name": "queek.music.transfer_168.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "二皮剪辑",
+        "package_name": "com.erpijianji.gyzys",
+        "file_name": "com.erpijianji.gyzys_169.apk",
+        "app_activity": "com.sxb_sss.new_imageedit_9.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "AudioLab",
+        "package_name": "com.ladizz.audio",
+        "file_name": "com.ladizz.audio_170.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "视频音频编辑提取大师",
+        "package_name": "cn.qiaola.audio",
+        "file_name": "cn.qiaola.audio_171.apk",
+        "app_activity": "com.sqcatfix.emptyproject.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "动态图片制作",
+        "package_name": "com.huankaifa.dttpzz",
+        "file_name": "com.huankaifa.dttpzz_172.apk",
+        "app_activity": "com.huankaifa.dttpzz.MainActivity"
+    },
+    {
+        "app_name": "手机录屏大师",
+        "package_name": "com.lovekem.wifiksq",
+        "file_name": "com.lovekem.wifiksq_173.apk",
+        "app_activity": "com.lovekem.wifiksq.SplashActivity"
+    },
+    {
+        "app_name": "迅龙视频",
+        "package_name": "com.xunl.guangjiulgj",
+        "file_name": "com.xunl.guangjiulgj_174.apk",
+        "app_activity": "com.sxb.new_movies_19.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "铃声剪辑",
+        "package_name": "io.microshow.music",
+        "file_name": "io.microshow.music_175.apk",
+        "app_activity": "io.microshow.music.acitivty.SplashActivity"
+    },
+    {
+        "app_name": "DJI Mimo",
+        "package_name": "dji.mimo",
+        "file_name": "dji.mimo_176.apk",
+        "app_activity": "dji.mimo.main.DJILaunchActivity"
+    },
+    {
+        "app_name": "极剪视频",
+        "package_name": "com.cstsvideoedit.gee",
+        "file_name": "com.cstsvideoedit.gee_177.apk",
+        "app_activity": "com.ts.app.flutter_video_cut.MainActivity"
+    },
+    {
+        "app_name": "蓝天视频",
+        "package_name": "com.wpfltspbv.qgsp",
+        "file_name": "com.wpfltspbv.qgsp_178.apk",
+        "app_activity": "com.vtb.base.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "星辰视频",
+        "package_name": "com.sooqkp.stujzbp.xkdpcxz",
+        "file_name": "com.sooqkp.stujzbp.xkdpcxz_179.apk",
+        "app_activity": "com.video.edit.lfour.activity.StartActivity"
+    },
+    {
+        "app_name": "音频格式转换工厂",
+        "package_name": "cn.luyiyuntech.audioclip",
+        "file_name": "cn.luyiyuntech.audioclip_180.apk",
+        "app_activity": "com.sqcatfix.emptyproject.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "画画绘画画板",
+        "package_name": "com.pixel.pen.sketch.draw",
+        "file_name": "com.pixel.pen.sketch.draw_181.apk",
+        "app_activity": "com.sketch.draw.ui.start.StartActivity"
+    },
+    {
+        "app_name": "绘影字幕",
+        "package_name": "cn.bluepulse.caption",
+        "file_name": "cn.bluepulse.caption_182.apk",
+        "app_activity": "cn.bluepulse.caption.activities.splash.SplashActivity"
+    },
+    {
+        "app_name": "FunClip",
+        "package_name": "fgee.fun.clip",
+        "file_name": "fgee.fun.clip_183.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "Filmigo视频剪辑制作软件",
+        "package_name": "com.funcamerastudio.videomaker",
+        "file_name": "com.funcamerastudio.videomaker_184.apk",
+        "app_activity": "com.xvideostudio.videoeditor.activity.SplashActivity"
+    },
+    {
+        "app_name": "油条视频",
+        "package_name": "hfmc.ytsp.kenu",
+        "file_name": "hfmc.ytsp.kenu_185.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "添加水印",
+        "package_name": "com.removethewater.mark",
+        "file_name": "com.removethewater.mark_186.apk",
+        "app_activity": "com.tool.av.video.SplashPreActivity"
+    },
+    {
+        "app_name": "裁剪切视频",
+        "package_name": "com.moutian.caijiandashi",
+        "file_name": "com.moutian.caijiandashi_187.apk",
+        "app_activity": "com.moutian.caijiandashi.SplashActivity"
+    },
+    {
+        "app_name": "Flow Photo",
+        "package_name": "com.flowphoto.demo",
+        "file_name": "com.flowphoto.demo_188.apk",
+        "app_activity": "com.flowphoto.demo.SplashActivity"
+    },
+    {
+        "app_name": "视频倒放剪辑",
+        "package_name": "com.slothtk.videoreverse",
+        "file_name": "com.slothtk.videoreverse_189.apk",
+        "app_activity": "com.sloth.removelogo.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "视频裁剪",
+        "package_name": "com.yuanli.cutMaster",
+        "file_name": "com.yuanli.cutMaster_190.apk",
+        "app_activity": "com.yuanli.cutMaster.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "魔音工坊",
+        "package_name": "com.mobvoi.moqi",
+        "file_name": "com.mobvoi.moqi_191.apk",
+        "app_activity": "com.mobvoi.moqi.MainActivity"
+    },
+    {
+        "app_name": "剪印",
+        "package_name": "com.efounder.videoediting",
+        "file_name": "com.efounder.videoediting_192.apk",
+        "app_activity": "com.efounder.videoeditings.activity.WelcomeefounderActivity"
+    },
+    {
+        "app_name": "OD Cam",
+        "package_name": "com.ordro.remotecamera",
+        "file_name": "com.ordro.remotecamera_193.apk",
+        "app_activity": "com.icatch.sbcapp.ui.SplashActivity"
+    },
+    {
+        "app_name": "特效视频编辑软件",
+        "package_name": "com.zsyj.aepredgif",
+        "file_name": "com.zsyj.aepredgif_194.apk",
+        "app_activity": "com.zsyj.aepredgif.ui.welcome.SplashActivity"
+    },
+    {
+        "app_name": "美片",
+        "package_name": "com.editor.watermark",
+        "file_name": "com.editor.watermark_195.apk",
+        "app_activity": "com.media.editor.splash.SplashWmActivity"
+    },
+    {
+        "app_name": "PR视频软件",
+        "package_name": "com.sajinies.primjiao",
+        "file_name": "com.sajinies.primjiao_196.apk",
+        "app_activity": "com.taihuihuang.appdemo.activity.SplashActivity"
+    },
+    {
+        "app_name": "清爽视频编辑",
+        "package_name": "com.hudun.videoedit",
+        "file_name": "com.hudun.videoedit_197.apk",
+        "app_activity": "com.hudun.videoedit.page.LaunchActivity"
+    },
+    {
+        "app_name": "NodeVideo",
+        "package_name": "com.shallwaystudio.nodevideo",
+        "file_name": "com.shallwaystudio.nodevideo_198.apk",
+        "app_activity": "com.shallwaystudio.nodevideo.wxapi.ReadPrivacyActivity"
+    },
+    {
+        "app_name": "视屏视频剪辑",
+        "package_name": "com.szzrf.video",
+        "file_name": "com.szzrf.video_199.apk",
+        "app_activity": "com.szzrf.video.activity.InitActivity"
+    },
+    {
+        "app_name": "活动邀请函",
+        "package_name": "com.gengyun.EventInvitation",
+        "file_name": "com.gengyun.EventInvitation_200.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "一键去水印助手",
+        "package_name": "com.ysyk.qushuiyin",
+        "file_name": "com.ysyk.qushuiyin_201.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "翡翠视频",
+        "package_name": "com.feicuitv.lwykt",
+        "file_name": "com.feicuitv.lwykt_202.apk",
+        "app_activity": "com.player.edit.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "音乐标签",
+        "package_name": "shushuo.biaoqian.qwe",
+        "file_name": "shushuo.biaoqian.qwe_203.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "开拍",
+        "package_name": "com.meitu.action",
+        "file_name": "com.meitu.action_204.apk",
+        "app_activity": "com.meitu.action.startup.SplashActivity"
+    },
+    {
+        "app_name": "影视大全HD韩剧",
+        "package_name": "com.shengmi.file",
+        "file_name": "com.shengmi.file_205.apk",
+        "app_activity": "com.shengmi.file.ui.SplashActivity"
+    },
+    {
+        "app_name": "录屏EV王者",
+        "package_name": "com.hitiantian.record",
+        "file_name": "com.hitiantian.record_206.apk",
+        "app_activity": "com.hitiantian.record.SplashActivity"
+    },
+    {
+        "app_name": "MX影音视频播放器",
+        "package_name": "com.tbs.file",
+        "file_name": "com.tbs.file_207.apk",
+        "app_activity": "com.shengmi.file.ui.SplashActivity"
+    },
+    {
+        "app_name": "视频抠图",
+        "package_name": "com.leyian.spkt",
+        "file_name": "com.leyian.spkt_208.apk",
+        "app_activity": "com.leyian.spkt.view.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "96编辑器",
+        "package_name": "cylxx.jlbjq.cchy",
+        "file_name": "cylxx.jlbjq.cchy_209.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "水印宝",
+        "package_name": "com.shuiyinbao.android",
+        "file_name": "com.shuiyinbao.android_210.apk",
+        "app_activity": "com.shuiyinbao.android.activity.LauncherActivity"
+    },
+    {
+        "app_name": "快剪视频",
+        "package_name": "com.cstsvideoedit.quickly",
+        "file_name": "com.cstsvideoedit.quickly_211.apk",
+        "app_activity": "com.ts.app.flutter_video_cut.MainActivity"
+    },
+    {
+        "app_name": "Meicam",
+        "package_name": "com.meishe.videoshow",
+        "file_name": "com.meishe.videoshow_212.apk",
+        "app_activity": "com.meishe.sdkdemo.activity.MainActivity"
+    },
+    {
+        "app_name": "视频去水印免费",
+        "package_name": "com.devstudio.app.six",
+        "file_name": "com.devstudio.app.six_213.apk",
+        "app_activity": "com.histudio.app.frame.LoadingFrame"
+    },
+    {
+        "app_name": "赤兔视频",
+        "package_name": "mydxx.hzspe.vbss",
+        "file_name": "mydxx.hzspe.vbss_214.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "视频去水印助手",
+        "package_name": "com.video.watermark",
+        "file_name": "com.video.watermark_215.apk",
+        "app_activity": "com.video.watermark.ui.SplashActivity"
+    },
+    {
+        "app_name": "小蓝视频编辑",
+        "package_name": "com.lljy.xlspbj",
+        "file_name": "com.lljy.xlspbj_216.apk",
+        "app_activity": "com.vthree.videoedit.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "剪影秀秀",
+        "package_name": "com.znycxl.yanzhi",
+        "file_name": "com.znycxl.yanzhi_217.apk",
+        "app_activity": "com.znycxl.yanzhi.SplashActivity"
+    },
+    {
+        "app_name": "视频编辑神器",
+        "package_name": "com.qal.video",
+        "file_name": "com.qal.video_218.apk",
+        "app_activity": "com.qal.video.ui.SplashActivity"
+    },
+    {
+        "app_name": "DVR On Road",
+        "package_name": "com.cam.peksunny",
+        "file_name": "com.cam.peksunny_219.apk",
+        "app_activity": "com.vyou.app.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "录屏看看",
+        "package_name": "com.michurou.screenrec",
+        "file_name": "com.michurou.screenrec_220.apk",
+        "app_activity": "com.rio.photomaster.SplashActivity"
+    },
+    {
+        "app_name": "凤蝶秀",
+        "package_name": "gjfd.lgj.crmea",
+        "file_name": "gjfd.lgj.crmea_221.apk",
+        "app_activity": "com.edit05.bitmap.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "去水印大师",
+        "package_name": "com.qsygif.rywl",
+        "file_name": "com.qsygif.rywl_222.apk",
+        "app_activity": "com.qsygif.rywl.ui.SplashActivity"
+    },
+    {
+        "app_name": "相片会唱歌",
+        "package_name": "com.wrwnkxbg.oqovxzjy",
+        "file_name": "com.wrwnkxbg.oqovxzjy_223.apk",
+        "app_activity": "com.wrwnkxbg.oqovxzjy.activity.SplashActivity"
+    },
+    {
+        "app_name": "爆剪牛",
+        "package_name": "com.burstbull.videoeditor",
+        "file_name": "com.burstbull.videoeditor_224.apk",
+        "app_activity": "com.burstbull.videoeditor.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "tipss",
+        "package_name": "tipss.shipin.shengl",
+        "file_name": "tipss.shipin.shengl_225.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "5178视频",
+        "package_name": "shipin.jianji.lanpu",
+        "file_name": "shipin.jianji.lanpu_226.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "一键剪同款",
+        "package_name": "www.sujianup.cn",
+        "file_name": "www.sujianup.cn_227.apk",
+        "app_activity": "com.zhangying.appcollection.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "乐秀视频剪辑视频编辑",
+        "package_name": "com.xvideostudio.videoeditor",
+        "file_name": "com.xvideostudio.videoeditor_228.apk",
+        "app_activity": "com.xvideostudio.videoeditor.activity.SplashSubActivity"
+    },
+    {
+        "app_name": "龙猫工具大师",
+        "package_name": "com.appdream.android.douyina",
+        "file_name": "com.appdream.android.douyina_229.apk",
+        "app_activity": "com.appdream.privacy.PrivacyActivity"
+    },
+    {
+        "app_name": "秒剪",
+        "package_name": "com.tencent.phoenix",
+        "file_name": "com.tencent.phoenix_230.apk",
+        "app_activity": "com.tencent.phoenix.pages.splash.SplashActivity"
+    },
+    {
+        "app_name": "MusicFree",
+        "package_name": "ysm.music.smfree",
+        "file_name": "ysm.music.smfree_231.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "视频拼接",
+        "package_name": "com.dz.shipinpinjie",
+        "file_name": "com.dz.shipinpinjie_232.apk",
+        "app_activity": "com.dz.shipinpinjie.MyWelcomeActivity"
+    },
+    {
+        "app_name": "美册",
+        "package_name": "com.iMMcque.VCore",
+        "file_name": "com.iMMcque.VCore_233.apk",
+        "app_activity": "com.iMMcque.VCore.activity.InitialActivity"
+    },
+    {
+        "app_name": "迅捷视频转换器",
+        "package_name": "com.hudun.androidvideochanger",
+        "file_name": "com.hudun.androidvideochanger_234.apk",
+        "app_activity": "com.hudun.androidvideochanger.main.LaunchActivity"
+    },
+    {
+        "app_name": "Audacity音频编辑",
+        "package_name": "mnc.audacity.editor",
+        "file_name": "mnc.audacity.editor_235.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "果果视频",
+        "package_name": "com.ggsp.jjggwyspjj",
+        "file_name": "com.ggsp.jjggwyspjj_236.apk",
+        "app_activity": "com.video_edit.six.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "咔皮Action",
+        "package_name": "com.sensemobile.action",
+        "file_name": "com.sensemobile.action_237.apk",
+        "app_activity": "com.sensemobile.action.SplashActivity"
+    },
+    {
+        "app_name": "codeformer pro",
+        "package_name": "ning.zuo.codef",
+        "file_name": "ning.zuo.codef_238.apk",
+        "app_activity": "com.sxb.new_videoedit_4.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "音乐剪辑师",
+        "package_name": "com.wyxs.musicclip",
+        "file_name": "com.wyxs.musicclip_239.apk",
+        "app_activity": "com.wyxs.music.ui.SplashActivity"
+    },
+    {
+        "app_name": "友圈共赏",
+        "package_name": "com.jx.moments",
+        "file_name": "com.jx.moments_240.apk",
+        "app_activity": "com.jx.moments.SplashActivity"
+    },
+    {
+        "app_name": "camera connect",
+        "package_name": "com.news.camera.canoneo",
+        "file_name": "com.news.camera.canoneo_241.apk",
+        "app_activity": "com.news.camera.canoneo.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "蓝猫视频播放器",
+        "package_name": "com.aiivdc.wteqhuz.rjmlwh",
+        "file_name": "com.aiivdc.wteqhuz.rjmlwh_242.apk",
+        "app_activity": "com.kvc.video.clip.activity.StartActivity"
+    },
+    {
+        "app_name": "易元剪辑",
+        "package_name": "com.emar.yyjj",
+        "file_name": "com.emar.yyjj_243.apk",
+        "app_activity": "com.emar.yyjj.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "一键去水印",
+        "package_name": "cn.nineton.watermark",
+        "file_name": "cn.nineton.watermark_244.apk",
+        "app_activity": "cn.nineton.watermark.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "犀牛视频",
+        "package_name": "com.lxdxiniu.dtaisdjshipinzhizou",
+        "file_name": "com.lxdxiniu.dtaisdjshipinzhizou_245.apk",
+        "app_activity": "com.mediaplay.three.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "小小影视音剪辑",
+        "package_name": "com.xxys.wtwwygyxxysnb",
+        "file_name": "com.xxys.wtwwygyxxysnb_246.apk",
+        "app_activity": "com.viterbi.basics.ui.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "悦颜美颜",
+        "package_name": "com.leshu.facebeauty",
+        "file_name": "com.leshu.facebeauty_247.apk",
+        "app_activity": "com.leshu.facebeauty.activity.SplashActivity"
+    },
+    {
+        "app_name": "小小视频",
+        "package_name": "handware.opens.editor",
+        "file_name": "handware.opens.editor_248.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "RECGO Screen Recorder",
+        "package_name": "com.softin.recgo",
+        "file_name": "com.softin.recgo_249.apk",
+        "app_activity": "com.softin.recgo.ui.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "风云录屏大师",
+        "package_name": "com.record.screen.myapplication",
+        "file_name": "com.record.screen.myapplication_250.apk",
+        "app_activity": "com.record.screen.myapplication.controller.LoadingActivity"
+    },
+    {
+        "app_name": "碧海剧场播放器",
+        "package_name": "asdqf.neifwln.sjcka",
+        "file_name": "asdqf.neifwln.sjcka_251.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "爱字幕",
+        "package_name": "com.wonderful.editor",
+        "file_name": "com.wonderful.editor_252.apk",
+        "app_activity": "com.wonderful.editor.SplashActivity"
+    },
+    {
+        "app_name": "LuckyCam",
+        "package_name": "com.ntk.LuckyCam",
+        "file_name": "com.ntk.LuckyCam_253.apk",
+        "app_activity": "com.ntk.LuckyCam.LoadingActivity"
+    },
+    {
+        "app_name": "星辰视频播放器",
+        "package_name": "pro.nnagua.ioop",
+        "file_name": "pro.nnagua.ioop_254.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "屏幕录像软件",
+        "package_name": "com.jtjsb.pingmuluxiang",
+        "file_name": "com.jtjsb.pingmuluxiang_255.apk",
+        "app_activity": "com.jtjsb.recordscreen.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "视频素材",
+        "package_name": "com.yunchuan.videomaterail",
+        "file_name": "com.yunchuan.videomaterail_256.apk",
+        "app_activity": "com.yunchuan.videomaterail.SplashActivity"
+    },
+    {
+        "app_name": "AI换脸秀",
+        "package_name": "com.yanlv.magicface",
+        "file_name": "com.yanlv.magicface_257.apk",
+        "app_activity": "com.yanlv.magicface.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "图叨叨",
+        "package_name": "com.lcw.daodaopic",
+        "file_name": "com.lcw.daodaopic_258.apk",
+        "app_activity": "com.lcw.daodaopic.activity.SplashActivity"
+    },
+    {
+        "app_name": "乐看视频",
+        "package_name": "com.lekan.videoqnah",
+        "file_name": "com.lekan.videoqnah_259.apk",
+        "app_activity": "com.video.etit2.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "微脉水印相机",
+        "package_name": "com.dingYZ.dingyzwater",
+        "file_name": "com.dingYZ.dingyzwater_260.apk",
+        "app_activity": "com.dingYZ.dingyzwater.module.app.WSLaunchActivity"
+    },
+    {
+        "app_name": "妙影",
+        "package_name": "huan.miaoxi.xyaq",
+        "file_name": "huan.miaoxi.xyaq_261.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "音乐剪切",
+        "package_name": "com.cutdd.audiocut",
+        "file_name": "com.cutdd.audiocut_262.apk",
+        "app_activity": "com.cutdd.audiocut.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "视频音乐提取",
+        "package_name": "com.cutdd.audioext",
+        "file_name": "com.cutdd.audioext_263.apk",
+        "app_activity": "com.cutdd.audioext.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "微视频剪辑编辑器",
+        "package_name": "com.app.wspjjzzbjq",
+        "file_name": "com.app.wspjjzzbjq_264.apk",
+        "app_activity": "com.app.wspjjzzbjq.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "午夜播放器",
+        "package_name": "com.shipinfengnao.app",
+        "file_name": "com.shipinfengnao.app_265.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "剪片",
+        "package_name": "com.youma.haovideo",
+        "file_name": "com.youma.haovideo_266.apk",
+        "app_activity": "com.youma.xieyisheding.YinsixyActivity"
+    },
+    {
+        "app_name": "即创工具",
+        "package_name": "com.csxzj.chgj",
+        "file_name": "com.csxzj.chgj_267.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+
+    {
+        "app_name": "趣卡点",
+        "package_name": "com.xmy.videoclip",
+        "file_name": "com.xmy.videoclip_1.apk",
+        "app_activity": "com.xmy.videoclip.WelcomeActivity"
+    },
+    {
+        "app_name": "语音合并转发",
+        "package_name": "com.ziyewl.yyhbzf",
+        "file_name": "com.ziyewl.yyhbzf_2.apk",
+        "app_activity": "com.ziyewl.yyhbzf.activity.SplashActivity"
+    },
+    {
+        "app_name": "筱影音频提取",
+        "package_name": "com.voodoo.audioeditor",
+        "file_name": "com.voodoo.audioeditor_3.apk",
+        "app_activity": "com.voodoo.audioeditor.xycore.ui.SplashActivity"
+    },
+    {
+        "app_name": "酷乐免费去水印",
+        "package_name": "com.jng.water",
+        "file_name": "com.jng.water_4.apk",
+        "app_activity": "com.vitas.coin.ui.act.SplashAct"
+    },
+    {
+        "app_name": "BuildCut",
+        "package_name": "com.xiaohao.android.dspdh",
+        "file_name": "com.xiaohao.android.dspdh_5.apk",
+        "app_activity": "com.xiaohao.android.dspdh.extend.SplashActivity"
+    },
+    {
+        "app_name": "妙秀",
+        "package_name": "cylxx.spwdx.btrs",
+        "file_name": "cylxx.spwdx.btrs_6.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "录音编辑",
+        "package_name": "xun.xxdd.espct",
+        "file_name": "xun.xxdd.espct_7.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "freemp3剪辑",
+        "package_name": "com.myfree.mps",
+        "file_name": "com.myfree.mps_8.apk",
+        "app_activity": "com.fwlst.module_splash.SplashActivity"
+    },
+    {
+        "app_name": "快秀录屏",
+        "package_name": "com.rd.kxlp",
+        "file_name": "com.rd.kxlp_9.apk",
+        "app_activity": "com.rd.kxlp.ui.activity.FlashScreenActivity"
+    },
+    {
+        "app_name": "小狐全能录屏",
+        "package_name": "com.ym.yun.screenrecorder.recording.videoeditor",
+        "file_name": "com.ym.yun.screenrecorder.recording.videoeditor_10.apk",
+        "app_activity": "com.qtech.screenrecorder.ui.StartActivity"
+    },
+    {
+        "app_name": "Film Maker",
+        "package_name": "com.cerdillac.filmmaker.cn",
+        "file_name": "com.cerdillac.filmmaker.cn_11.apk",
+        "app_activity": "com.lightcone.vlogstar.homepage.SplashActivity2"
+    },
+    {
+        "app_name": "萝卜app",
+        "package_name": "com.mlanlb.editor",
+        "file_name": "com.mlanlb.editor_12.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "录屏精灵极速版",
+        "package_name": "com.fblhb.exscrcapture",
+        "file_name": "com.fblhb.exscrcapture_13.apk",
+        "app_activity": "com.fblhb.exscrcapture.launcher.StartActivity"
+    },
+    {
+        "app_name": "Audio Editor",
+        "package_name": "com.huhu.aceditor",
+        "file_name": "com.huhu.aceditor_14.apk",
+        "app_activity": "com.huhu.avpro.MainActivity"
+    },
+    {
+        "app_name": "素材宝",
+        "package_name": "com.sucaibaoapp.android",
+        "file_name": "com.sucaibaoapp.android_15.apk",
+        "app_activity": "com.sucaibaoapp.android.view.ui.activity.LunchActivity"
+    },
+    {
+        "app_name": "微拍",
+        "package_name": "com.zhiguanjia.weipai",
+        "file_name": "com.zhiguanjia.weipai_16.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "乐看视频播放器",
+        "package_name": "yu.rmv.plary",
+        "file_name": "yu.rmv.plary_17.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "LED弹幕神器",
+        "package_name": "com.ziranw1.leddanmu",
+        "file_name": "com.ziranw1.leddanmu_18.apk",
+        "app_activity": "com.ziranwl.leddmsq.activitys.LauncherActivity"
+    },
+    {
+        "app_name": "迅龙视频助手",
+        "package_name": "xun.long.gyshkeji",
+        "file_name": "xun.long.gyshkeji_19.apk",
+        "app_activity": "com.vphoto.idmovies57.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "手机录屏专家",
+        "package_name": "com.dunjiakj.sjlpzj",
+        "file_name": "com.dunjiakj.sjlpzj_20.apk",
+        "app_activity": "com.dunjiakj.sjlpzj.view.activity.LaunchActivity"
+    },
+    {
+        "app_name": "度客",
+        "package_name": "com.cditv.duke",
+        "file_name": "com.cditv.duke_21.apk",
+        "app_activity": "com.cditv.duke.rmtmain.ui.SplashActivity"
+    },
+    {
+        "app_name": "台风视频助手",
+        "package_name": "gzjma.sjbfvdm.bsopjfp",
+        "file_name": "gzjma.sjbfvdm.bsopjfp_22.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "同款快剪",
+        "package_name": "www.jianyijianship.com",
+        "file_name": "www.jianyijianship.com_24.apk",
+        "app_activity": "com.hongfan.Videoproduction.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "乐享视频",
+        "package_name": "com.wylexiang.spjjkanswg",
+        "file_name": "com.wylexiang.spjjkanswg_25.apk",
+        "app_activity": "com.vtb.base.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "柠檬视频助手",
+        "package_name": "ytr.lmsp.reppsy",
+        "file_name": "ytr.lmsp.reppsy_26.apk",
+        "app_activity": "com.fwlst.module_splash.SplashActivity"
+    },
+    {
+        "app_name": "简辑",
+        "package_name": "com.zjwx.kadian",
+        "file_name": "com.zjwx.kadian_27.apk",
+        "app_activity": "com.zjwx.kadian.activity.SplashActivity"
+    },
+    {
+        "app_name": "字拍",
+        "package_name": "com.bestmay.damnu",
+        "file_name": "com.bestmay.damnu_28.apk",
+        "app_activity": "com.bestmay.damnu.SplashActivity"
+    },
+    {
+        "app_name": "文字转语音王",
+        "package_name": "com.ziranw1.wzzyyw",
+        "file_name": "com.ziranw1.wzzyyw_29.apk",
+        "app_activity": "com.jtjsb.dubtts.base.SplashActivity"
+    },
+    {
+        "app_name": "文字转语音大师软件",
+        "package_name": "com.cqlqx.txtzwavs",
+        "file_name": "com.cqlqx.txtzwavs_30.apk",
+        "app_activity": "com.cqlqx.txtzwavs.launcher.StartActivity"
+    },
+    {
+        "app_name": "广告配音王",
+        "package_name": "com.weiapp8.pywrj",
+        "file_name": "com.weiapp8.pywrj_31.apk",
+        "app_activity": "com.jtjsb.dubtts.base.SplashActivity"
+    },
+    {
+        "app_name": "百变秀",
+        "package_name": "com.daldk.gdsw",
+        "file_name": "com.daldk.gdsw_32.apk",
+        "app_activity": "com.daldk.gdsw.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "Ultra Stream",
+        "package_name": "com.magewell.ultrastream",
+        "file_name": "com.magewell.ultrastream_33.apk",
+        "app_activity": "com.magewell.ultrastream.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "广告配音大师",
+        "package_name": "com.hjkj6.ggpyds",
+        "file_name": "com.hjkj6.ggpyds_34.apk",
+        "app_activity": "com.jtjsb.dubtts.base.SplashActivity"
+    },
+    {
+        "app_name": "AI音乐剪辑",
+        "package_name": "com.my.ypjj",
+        "file_name": "com.my.ypjj_35.apk",
+        "app_activity": "com.my.ypjj.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "视频格式指尖转换",
+        "package_name": "com.sxzd.videoconversion",
+        "file_name": "com.sxzd.videoconversion_36.apk",
+        "app_activity": "com.tm.videoformat.WelcomeActivity"
+    },
+    {
+        "app_name": "视频剪辑去水印",
+        "package_name": "com.qiphs.injni.ajiu",
+        "file_name": "com.qiphs.injni.ajiu_37.apk",
+        "app_activity": "com.watermark.rnine.activty.StartActivity"
+    },
+    {
+        "app_name": "视频剪辑多多",
+        "package_name": "com.yshb.vedio",
+        "file_name": "com.yshb.vedio_38.apk",
+        "app_activity": "com.yshb.vedio.activity.SplashActivity"
+    },
+    {
+        "app_name": "字幕助手",
+        "package_name": "com.shichai.zimu",
+        "file_name": "com.shichai.zimu_39.apk",
+        "app_activity": "com.geetol.zimu.activity.SplashActiviy"
+    },
+    {
+        "app_name": "印象电子音乐相册",
+        "package_name": "com.bhht.yxmusicalbum",
+        "file_name": "com.bhht.yxmusicalbum_40.apk",
+        "app_activity": "com.lxb.musicalbum.activity.StartActivity"
+    },
+    {
+        "app_name": "夜秀视频播放器",
+        "package_name": "csning.jiye.xiulgj",
+        "file_name": "csning.jiye.xiulgj_41.apk",
+        "app_activity": "com.sxb.new_movies_56.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "百影视频",
+        "package_name": "oqtj.khsd.mttoa",
+        "file_name": "oqtj.khsd.mttoa_42.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "起号大师去重混剪工具箱",
+        "package_name": "laifeng.qihao",
+        "file_name": "laifeng.qihao_43.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "蛙趣视频",
+        "package_name": "com.bfq.snine",
+        "file_name": "com.bfq.snine_44.apk",
+        "app_activity": "com.bfq.nine.activty.StartActivity"
+    },
+    {
+        "app_name": "视频神剪",
+        "package_name": "com.xxjjxx.lj",
+        "file_name": "com.xxjjxx.lj_45.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "蘑菇影音",
+        "package_name": "bbai.yaxx.mogu",
+        "file_name": "bbai.yaxx.mogu_47.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "Xianan VideoClip",
+        "package_name": "com.xianan.videoclip",
+        "file_name": "com.xianan.videoclip_48.apk",
+        "app_activity": "com.xianan.android.videoclip.models.ui.SplashActivity"
+    },
+    {
+        "app_name": "白云视频助手",
+        "package_name": "baiya.baibi.pitu",
+        "file_name": "baiya.baibi.pitu_49.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "广告配音工具",
+        "package_name": "com.bolanw1.ggpygj",
+        "file_name": "com.bolanw1.ggpygj_50.apk",
+        "app_activity": "com.jtjsb.dubtts.base.SplashActivity"
+    },
+    {
+        "app_name": "照片视频记",
+        "package_name": "com.lankawei.photovideometer",
+        "file_name": "com.lankawei.photovideometer_51.apk",
+        "app_activity": "com.lankawei.photovideometer.ui.activity.StartPageActivity"
+    },
+    {
+        "app_name": "剪视频工具",
+        "package_name": "com.yuanhuize.videoclip",
+        "file_name": "com.yuanhuize.videoclip_52.apk",
+        "app_activity": "com.geetol.Video_Editing.activity.SplashActivity"
+    },
+    {
+        "app_name": "伴奏专家",
+        "package_name": "com.qyapp.bz",
+        "file_name": "com.qyapp.bz_53.apk",
+        "app_activity": "com.qyapp.bz.activity.SplashActivity"
+    },
+    {
+        "app_name": "木星视频",
+        "package_name": "lhyg.buys.mxysg",
+        "file_name": "lhyg.buys.mxysg_54.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "照片魔法工厂",
+        "package_name": "com.mzlife.app.magic",
+        "file_name": "com.mzlife.app.magic_55.apk",
+        "app_activity": "com.mzlife.app.magic.page.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "微商水印王",
+        "package_name": "com.jry.watercamera",
+        "file_name": "com.jry.watercamera_56.apk",
+        "app_activity": "com.geetol.watercamera.ui.SplashActivity"
+    },
+    {
+        "app_name": "Cutter Kitty",
+        "package_name": "com.ajj.VideoEdit",
+        "file_name": "com.ajj.VideoEdit_57.apk",
+        "app_activity": "com.ajj.VideoEdit.ui.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "录屏专家",
+        "package_name": "com.liuniantech.luping",
+        "file_name": "com.liuniantech.luping_58.apk",
+        "app_activity": "com.xuanmutech.screenrec.activities.SplashActivity"
+    },
+    {
+        "app_name": "秒转M4S",
+        "package_name": "com.lqw.m4s2mp4",
+        "file_name": "com.lqw.m4s2mp4_59.apk",
+        "app_activity": "com.lqw.m4s2mp4.activity.LauncherActivity"
+    },
+    {
+        "app_name": "星影视频剪辑",
+        "package_name": "com.wpfxydegj.hgvk",
+        "file_name": "com.wpfxydegj.hgvk_60.apk",
+        "app_activity": "com.sxb.new_movies_30.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "追风视频播放器",
+        "package_name": "com.zhui.video.feng",
+        "file_name": "com.zhui.video.feng_61.apk",
+        "app_activity": "com.zhui.video.feng.activity.StartActivity"
+    },
+    {
+        "app_name": "skyreelsjhkjhg",
+        "package_name": "hjdrg.hfjf.jgo",
+        "file_name": "hjdrg.hfjf.jgo_62.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "视频音频格式转换器大师",
+        "package_name": "com.liuniantech.geshi",
+        "file_name": "com.liuniantech.geshi_63.apk",
+        "app_activity": "com.xuanmutech.geshi.activities.LaunchActivity"
+    },
+    {
+        "app_name": "剪视频剪辑制作师",
+        "package_name": "com.vlog.vedioedit",
+        "file_name": "com.vlog.vedioedit_64.apk",
+        "app_activity": "com.hongfan.Videoproduction.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "米果视频剪辑",
+        "package_name": "com.nextmg.mymv",
+        "file_name": "com.nextmg.mymv_65.apk",
+        "app_activity": "com.megofun.frame.app.mvp.ui.activity.MainEntryActivity"
+    },
+    {
+        "app_name": "videoRetouching",
+        "package_name": "com.biggerlens.video.cutout",
+        "file_name": "com.biggerlens.video.cutout_66.apk",
+        "app_activity": "com.biggerlens.video.cutout.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "丽影",
+        "package_name": "gyjf.lyja.fff",
+        "file_name": "gyjf.lyja.fff_67.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "创想猫",
+        "package_name": "com.app.huaerduoduo",
+        "file_name": "com.app.huaerduoduo_68.apk",
+        "app_activity": "com.app.huaerduoduo.home.SplashActivity"
+    },
+    {
+        "app_name": "vlog视频剪辑工具",
+        "package_name": "com.bjdg.mfg.nfg",
+        "file_name": "com.bjdg.mfg.nfg_69.apk",
+        "app_activity": "tai.mengzhu.circle.activty.StartActivity"
+    },
+    {
+        "app_name": "手持弹幕大师",
+        "package_name": "com.bolanw1.scdmds",
+        "file_name": "com.bolanw1.scdmds_70.apk",
+        "app_activity": "com.geetol.seven_led.activitys.SplashActivity"
+    },
+    {
+        "app_name": "视频剪辑cut",
+        "package_name": "com.viwek.muznw",
+        "file_name": "com.viwek.muznw_71.apk",
+        "app_activity": "com.aeclip.argcl.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "Slideshow Maker",
+        "package_name": "com.wisegather.moviestudio.videomaker",
+        "file_name": "com.wisegather.moviestudio.videomaker_72.apk",
+        "app_activity": "com.hshy.activity.SplashActivity"
+    },
+    {
+        "app_name": "VideoNotepad",
+        "package_name": "com.siyangxunfei.chenyang.videopad",
+        "file_name": "com.siyangxunfei.chenyang.videopad_73.apk",
+        "app_activity": "com.siyangxunfei.chenyang.videopad.MainActivity"
+    },
+    {
+        "app_name": "超级视频编辑器",
+        "package_name": "video.editor.cutter.movie.maker.mp4.compressor.slideshow.creator",
+        "file_name": "video.editor.cutter.movie.maker.mp4.compressor.slideshow.creator_74.apk",
+        "app_activity": "superstudio.tianxingjian.com.superstudio.pager.SplashActivity"
+    },
+    {
+        "app_name": "竹叶视频编辑",
+        "package_name": "com.yiwu.hjk",
+        "file_name": "com.yiwu.hjk_75.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "视频剪辑专业版",
+        "package_name": "com.shl.veedition.cn",
+        "file_name": "com.shl.veedition.cn_76.apk",
+        "app_activity": "com.shl.veedition.cn.activity.SplashTTActivity"
+    },
+    {
+        "app_name": "特效视频",
+        "package_name": "com.Leyian.aepredgif",
+        "file_name": "com.Leyian.aepredgif_77.apk",
+        "app_activity": "com.chrn.module_login.ui.SplashActivity"
+    },
+    {
+        "app_name": "录屏剪辑大师",
+        "package_name": "com.xuanmutech.screenrec",
+        "file_name": "com.xuanmutech.screenrec_78.apk",
+        "app_activity": "com.xuanmutech.screenrec.activities.SplashActivity"
+    },
+    {
+        "app_name": "节奏酱",
+        "package_name": "com.tempo.video.edit",
+        "file_name": "com.tempo.video.edit_79.apk",
+        "app_activity": "com.tempo.video.edit.home.PrivacyActivityNew"
+    },
+    {
+        "app_name": "去水印吧",
+        "package_name": "company.szkj.watermark",
+        "file_name": "company.szkj.watermark_81.apk",
+        "app_activity": "company.szkj.usersystem.USFirstAlertActivity"
+    },
+    {
+        "app_name": "影集视频编辑",
+        "package_name": "asd.feess",
+        "file_name": "asd.feess_82.apk",
+        "app_activity": "com.hongfan.Videoproduction.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "爱特效剪辑",
+        "package_name": "com.dfggyav.yylltncg",
+        "file_name": "com.dfggyav.yylltncg_83.apk",
+        "app_activity": "com.montage.clispg.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "zpod",
+        "package_name": "sfg.atty.voo",
+        "file_name": "sfg.atty.voo_84.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "视频剪辑神器",
+        "package_name": "com.wry.shiping",
+        "file_name": "com.wry.shiping_85.apk",
+        "app_activity": "com.wry.shiping.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "视频神剪手",
+        "package_name": "com.komn",
+        "file_name": "com.komn_86.apk",
+        "app_activity": "com.zy.app.appcollection6.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "全能视频压缩",
+        "package_name": "com.showhappy.videocompressor",
+        "file_name": "com.showhappy.videocompressor_87.apk",
+        "app_activity": "com.cody.supads.activity.StartActivity"
+    },
+    {
+        "app_name": "好拍视频编辑器",
+        "package_name": "superstudio.tianxingjian.com.superstudio",
+        "file_name": "superstudio.tianxingjian.com.superstudio_88.apk",
+        "app_activity": "com.superlabs.superstudio.components.activity.SplashActivity"
+    },
+    {
+        "app_name": "果酱视频剪辑",
+        "package_name": "com.shl.pulpfun.cn",
+        "file_name": "com.shl.pulpfun.cn_89.apk",
+        "app_activity": "com.shl.pulpfun.cn.activity.SplashTTActivity"
+    },
+    {
+        "app_name": "视频剪辑助手",
+        "package_name": "com.smallyin.vedioedit",
+        "file_name": "com.smallyin.vedioedit_90.apk",
+        "app_activity": "com.aijianji.clip.ui.splash.Splash2Activity"
+    },
+    {
+        "app_name": "波比音乐",
+        "package_name": "com.wpfbpyt.msfnbr",
+        "file_name": "com.wpfbpyt.msfnbr_91.apk",
+        "app_activity": "com.sxb.newmusicedit8.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "轻影视频剪辑",
+        "package_name": "cn.com.cooledit.vueedit",
+        "file_name": "cn.com.cooledit.vueedit_92.apk",
+        "app_activity": "com.yunbaite.jianyi.act.StartActivity"
+    },
+    {
+        "app_name": "录屏侠",
+        "package_name": "com.junruy.lprj",
+        "file_name": "com.junruy.lprj_93.apk",
+        "app_activity": "com.junruy.lprj.view.activity.LaunchActivity"
+    },
+    {
+        "app_name": "风筝影评解读",
+        "package_name": "fzyp.gzry.likajs",
+        "file_name": "fzyp.gzry.likajs_94.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "MYVideo",
+        "package_name": "com.meishe.myvideoapp",
+        "file_name": "com.meishe.myvideoapp_95.apk",
+        "app_activity": "com.meishe.myvideoapp.activity.MainActivity"
+    },
+    {
+        "app_name": "果韵",
+        "package_name": "com.guoyun.music",
+        "file_name": "com.guoyun.music_96.apk",
+        "app_activity": "com.vbase.audioedit.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "视频雅俗共赏",
+        "package_name": "com.flnsygs.cn",
+        "file_name": "com.flnsygs.cn_97.apk",
+        "app_activity": "com.flnsygs.cn.page.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "Dreamvideo视频剪辑",
+        "package_name": "yzmy.spjj.gszxe",
+        "file_name": "yzmy.spjj.gszxe_98.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "三麦音频剪辑",
+        "package_name": "com.samkeji.musicEdit",
+        "file_name": "com.samkeji.musicEdit_99.apk",
+        "app_activity": "com.samkeji.musicEdit.activity.SplashActivity"
+    },
+    {
+        "app_name": "词多多提词器",
+        "package_name": "com.baby.actor.lines",
+        "file_name": "com.baby.actor.lines_100.apk",
+        "app_activity": "com.wx.assistants.activity.LaunchActivity"
+    },
+    {
+        "app_name": "剪影多多",
+        "package_name": "com.zlsp.jjbjds",
+        "file_name": "com.zlsp.jjbjds_101.apk",
+        "app_activity": "com.zlsp.jjbjds.SplashActivity"
+    },
+    {
+        "app_name": "木木表情制作",
+        "package_name": "com.mumudroid.emoticon",
+        "file_name": "com.mumudroid.emoticon_102.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "Vmoon视频剪辑",
+        "package_name": "com.montage.clispg",
+        "file_name": "com.montage.clispg_103.apk",
+        "app_activity": "com.montage.clispg.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "趣听音乐剪辑",
+        "package_name": "gzry.qtyk.ykyko",
+        "file_name": "gzry.qtyk.ykyko_104.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "速悦音乐剪辑",
+        "package_name": "com.lhzmnf.syyyjj",
+        "file_name": "com.lhzmnf.syyyjj_105.apk",
+        "app_activity": "com.vedit.audio.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "视频剪辑制作工具",
+        "package_name": "com.xinhe.videoclip",
+        "file_name": "com.xinhe.videoclip_106.apk",
+        "app_activity": "com.geetol.Video_Editing.activity.SplashActivity"
+    },
+    {
+        "app_name": "微商水印管家",
+        "package_name": "company.szkj.smartbusiness",
+        "file_name": "company.szkj.smartbusiness_107.apk",
+        "app_activity": "company.szkj.usersystem.USFirstAlertActivity"
+    },
+    {
+        "app_name": "魅影影集",
+        "package_name": "gzjm.myyj.myyj",
+        "file_name": "gzjm.myyj.myyj_108.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "鲸鱼视频",
+        "package_name": "hcsp.ognc.hang",
+        "file_name": "hcsp.ognc.hang_109.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "全能录音王",
+        "package_name": "com.ziranw1.qnlyw",
+        "file_name": "com.ziranw1.qnlyw_110.apk",
+        "app_activity": "com.geetol.three_record.activitys.SplashActivity"
+    },
+    {
+        "app_name": "奈非视频播放器",
+        "package_name": "com.llxyd.nfspbfq",
+        "file_name": "com.llxyd.nfspbfq_111.apk",
+        "app_activity": "com.mediaplay.eight.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "剪辑制作师",
+        "package_name": "com.video.cutsyq",
+        "file_name": "com.video.cutsyq_112.apk",
+        "app_activity": "com.hongfan.Videoproduction.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "快狗视频助手",
+        "package_name": "jyfn.bopq.zbnet",
+        "file_name": "jyfn.bopq.zbnet_113.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "魔法音乐相册",
+        "package_name": "com.mfyyxc.sztd",
+        "file_name": "com.mfyyxc.sztd_114.apk",
+        "app_activity": "com.slide.musicphoto.LllSplash666Activity"
+    },
+    {
+        "app_name": "MP3转换精灵",
+        "package_name": "ytr.luox.music",
+        "file_name": "ytr.luox.music_115.apk",
+        "app_activity": "com.fwlst.module_splash.SplashActivity"
+    },
+    {
+        "app_name": "视频特效剪辑",
+        "package_name": "com.Inshot.tingedia",
+        "file_name": "com.Inshot.tingedia_116.apk",
+        "app_activity": "com.aeclip.argcl.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "琪琪视频助手",
+        "package_name": "glxx.qqsp.okdfs",
+        "file_name": "glxx.qqsp.okdfs_117.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "视频编辑器",
+        "package_name": "com.geetolfuhua.videoclip",
+        "file_name": "com.geetolfuhua.videoclip_118.apk",
+        "app_activity": "com.geetol.Video_Editing.activity.SplashActivity"
+    },
+    {
+        "app_name": "Mini Screen Recorder",
+        "package_name": "com.gzqizu.record.screen",
+        "file_name": "com.gzqizu.record.screen_119.apk",
+        "app_activity": "com.gzqizu.record.screen.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "金丝猴",
+        "package_name": "com.xxweixin.xxgroup",
+        "file_name": "com.xxweixin.xxgroup_120.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "提词器台词大师",
+        "package_name": "com.tcds.developer2020",
+        "file_name": "com.tcds.developer2020_121.apk",
+        "app_activity": "com.tcds.developer2020.main.videorecorder.LoadingActivity"
+    },
+    {
+        "app_name": "一键视频剪辑",
+        "package_name": "com.hdrecord.king",
+        "file_name": "com.hdrecord.king_122.apk",
+        "app_activity": "com.zy.app.devappcollection.SplashActivity"
+    },
+    {
+        "app_name": "字幕提取器",
+        "package_name": "com.yixinhb.extractor",
+        "file_name": "com.yixinhb.extractor_123.apk",
+        "app_activity": "com.yixinhb.extractor.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "录音文字转换器",
+        "package_name": "com.qiaoxi18.lywzzhq",
+        "file_name": "com.qiaoxi18.lywzzhq_124.apk",
+        "app_activity": "com.geetol.three_record.activitys.SplashActivity"
+    },
+    {
+        "app_name": "热游屏幕录制专家",
+        "package_name": "com.sanren.luping",
+        "file_name": "com.sanren.luping_125.apk",
+        "app_activity": "com.feisukj.base.SplashActivity"
+    },
+    {
+        "app_name": "音范丝",
+        "package_name": "com.yfs.bfqwyyfsnb",
+        "file_name": "com.yfs.bfqwyyfsnb_126.apk",
+        "app_activity": "com.vtb.musicedit.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "视频音频剪辑大师",
+        "package_name": "com.banshouren.jianji",
+        "file_name": "com.banshouren.jianji_127.apk",
+        "app_activity": "com.xuanmutech.geshi.activities.LaunchActivity"
+    },
+    {
+        "app_name": "爱剪极",
+        "package_name": "com.shineyie.aijianjitwo",
+        "file_name": "com.shineyie.aijianjitwo_128.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "可可特效",
+        "package_name": "khwly.qfsp.uybu",
+        "file_name": "khwly.qfsp.uybu_129.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "泥视频",
+        "package_name": "nisp.niba.gysbwdx",
+        "file_name": "nisp.niba.gysbwdx_130.apk",
+        "app_activity": "com.vbase.audioedit.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "短视频剪辑",
+        "package_name": "com.jiadi.duanshipinjianji",
+        "file_name": "com.jiadi.duanshipinjianji_131.apk",
+        "app_activity": "com.jiadi.duanshipinjianji.mvp.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "二皮视频剪辑",
+        "package_name": "com.lihuan.facaierpi",
+        "file_name": "com.lihuan.facaierpi_132.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "优优视频播放器",
+        "package_name": "gzry.yysp.lopqr",
+        "file_name": "gzry.yysp.lopqr_133.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "短视频制作",
+        "package_name": "com.quk.dspzzsq",
+        "file_name": "com.quk.dspzzsq_134.apk",
+        "app_activity": "com.mediaplay.three.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "魅影秀",
+        "package_name": "gzqf.myxx.yywsfp",
+        "file_name": "gzqf.myxx.yywsfp_135.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "绘影大字版",
+        "package_name": "cn.bluepulse.bigcaption",
+        "file_name": "cn.bluepulse.bigcaption_136.apk",
+        "app_activity": "cn.bluepulse.bigcaption.activities.splash.SplashActivity"
+    },
+    {
+        "app_name": "接招小视频剪辑",
+        "package_name": "com.shl.takethatfun.cn",
+        "file_name": "com.shl.takethatfun.cn_137.apk",
+        "app_activity": "com.shl.takethatfun.cn.activities.SplashViewActivity"
+    },
+    {
+        "app_name": "My家",
+        "package_name": "com.daTang.myHome",
+        "file_name": "com.daTang.myHome_139.apk",
+        "app_activity": "com.daTang.myHome.ui.SplashActivity"
+    },
+    {
+        "app_name": "视频旋转助手",
+        "package_name": "com.stickers.vedioRotate",
+        "file_name": "com.stickers.vedioRotate_140.apk",
+        "app_activity": "com.stickers.vedioRotate.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "音频一键剪辑",
+        "package_name": "com.huoyubai.yinpin",
+        "file_name": "com.huoyubai.yinpin_141.apk",
+        "app_activity": "com.liuniantech.yinpin.activity.LaunchActivity"
+    },
+    {
+        "app_name": "DreamAvatar",
+        "package_name": "com.meitu.dreamavatar",
+        "file_name": "com.meitu.dreamavatar_142.apk",
+        "app_activity": "com.meitu.dreamavatar.ui.splash.view.SplashActivity"
+    },
+    {
+        "app_name": "Video Compression Kit",
+        "package_name": "com.xigeme.videokit.android",
+        "file_name": "com.xigeme.videokit.android_143.apk",
+        "app_activity": "com.xigeme.videokit.activity.VKWelcomeActivity"
+    },
+    {
+        "app_name": "视频同框",
+        "package_name": "com.oggnska.pinngoh.nitgu",
+        "file_name": "com.oggnska.pinngoh.nitgu_144.apk",
+        "app_activity": "com.kvc.video.clip.activity.StartActivity"
+    },
+    {
+        "app_name": "爱剪视频",
+        "package_name": "com.yifan.editvideo",
+        "file_name": "com.yifan.editvideo_145.apk",
+        "app_activity": "com.yifan.editvideo.ui.start.splash.SplashActivity"
+    },
+    {
+        "app_name": "花火视频编辑",
+        "package_name": "video.jiujiu.palyer",
+        "file_name": "video.jiujiu.palyer_146.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "纯颜",
+        "package_name": "com.chengducx.liangshow",
+        "file_name": "com.chengducx.liangshow_147.apk",
+        "app_activity": "com.shanghaixbt.photoshow.ui.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "爱视频剪辑",
+        "package_name": "com.ekvych.zawfd",
+        "file_name": "com.ekvych.zawfd_148.apk",
+        "app_activity": "com.ekvych.zawfd.SplashActivity"
+    },
+    {
+        "app_name": "视频快剪编辑",
+        "package_name": "www.khspjjj",
+        "file_name": "www.khspjjj_149.apk",
+        "app_activity": "com.zhangying.appcollection.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "卡点视频编辑",
+        "package_name": "com.kuake.bianji",
+        "file_name": "com.kuake.bianji_150.apk",
+        "app_activity": "com.kuake.bianji.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "漫节奏",
+        "package_name": "com.manjz.wymzjmh",
+        "file_name": "com.manjz.wymzjmh_151.apk",
+        "app_activity": "com.vtb.musicedit.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "isManga",
+        "package_name": "com.bigwinepot.manying",
+        "file_name": "com.bigwinepot.manying_152.apk",
+        "app_activity": "com.bigwinepot.manying.pages.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "智影推文",
+        "package_name": "com.zhstory.aiw",
+        "file_name": "com.zhstory.aiw_154.apk",
+        "app_activity": "com.zhstory.aiw.ui.WvActivity"
+    },
+    {
+        "app_name": "Runwy视频助手",
+        "package_name": "lykjx.run.wayy",
+        "file_name": "lykjx.run.wayy_155.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "速搜视频制作",
+        "package_name": "com.lhzyty.sssp",
+        "file_name": "com.lhzyty.sssp_156.apk",
+        "app_activity": "com.mediaplay.three.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "一键视频剪辑大师",
+        "package_name": "com.leyian.yjspds",
+        "file_name": "com.leyian.yjspds_157.apk",
+        "app_activity": "com.leyian.yjspds.view.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "巨蟹视频助手",
+        "package_name": "lhyp.muak.byte",
+        "file_name": "lhyp.muak.byte_158.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "轻松去水印",
+        "package_name": "com.qqkj66.qsqsy",
+        "file_name": "com.qqkj66.qsqsy_159.apk",
+        "app_activity": "com.weimei.watermarkmaster.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "视频转音频工具",
+        "package_name": "com.yuanli.videotoaudio",
+        "file_name": "com.yuanli.videotoaudio_160.apk",
+        "app_activity": "com.yuanli.videotoaudio.mvp.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "铃声剪辑器",
+        "package_name": "com.lszzk.ringtone.maker",
+        "file_name": "com.lszzk.ringtone.maker_161.apk",
+        "app_activity": "com.lszzk.ringtone.maker.activity.StartActivity"
+    },
+    {
+        "app_name": "枫叶视频",
+        "package_name": "ty.ywsp.lj",
+        "file_name": "ty.ywsp.lj_162.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "凉鹤美化",
+        "package_name": "com.jjyxjj.games",
+        "file_name": "com.jjyxjj.games_163.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "动图GIF制作",
+        "package_name": "com.jiuan.gifmaker",
+        "file_name": "com.jiuan.gifmaker_164.apk",
+        "app_activity": "com.jiuan.gifmaker.ui.activities.SplashActivity"
+    },
+    {
+        "app_name": "视频剪辑通",
+        "package_name": "com.youma.xinshipin",
+        "file_name": "com.youma.xinshipin_165.apk",
+        "app_activity": "com.youma.xieyisheding.YinsixyActivity"
+    },
+    {
+        "app_name": "格式转换王",
+        "package_name": "com.hoo.mood.format",
+        "file_name": "com.hoo.mood.format_166.apk",
+        "app_activity": "com.xinqidian.adcommon.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "We Shot",
+        "package_name": "com.wejoy.weshot.cn",
+        "file_name": "com.wejoy.weshot.cn_167.apk",
+        "app_activity": "com.wepai.kepai.activity.splashactivity.SplashActivity"
+    },
+    {
+        "app_name": "万能速剪",
+        "package_name": "www.montage.video.clip",
+        "file_name": "www.montage.video.clip_168.apk",
+        "app_activity": "com.zhangying.appcollection.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "PromoviPro",
+        "package_name": "com.moro.pro.pr",
+        "file_name": "com.moro.pro.pr_169.apk",
+        "app_activity": "tai.mengzhu.circle.activty.StartActivity"
+    },
+    {
+        "app_name": "音乐剪辑精灵",
+        "package_name": "com.gaoping.musicediting",
+        "file_name": "com.gaoping.musicediting_170.apk",
+        "app_activity": "com.gaoping.musicediting.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "视频抠像",
+        "package_name": "com.leyian.spkx",
+        "file_name": "com.leyian.spkx_171.apk",
+        "app_activity": "com.leyian.spkx.view.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "小狐录屏",
+        "package_name": "com.mode.videorecording",
+        "file_name": "com.mode.videorecording_172.apk",
+        "app_activity": "com.taihuihuang.appdemo.activity.SplashActivity"
+    },
+    {
+        "app_name": "能速剪",
+        "package_name": "www.kuaijian.jianji.yx",
+        "file_name": "www.kuaijian.jianji.yx_173.apk",
+        "app_activity": "com.zhangying.appcollection.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "音频速剪",
+        "package_name": "com.yinpinsujian.gyzys",
+        "file_name": "com.yinpinsujian.gyzys_174.apk",
+        "app_activity": "com.vtb.musicedit.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "视频剪辑王",
+        "package_name": "cszf.sajd.slojdvd",
+        "file_name": "cszf.sajd.slojdvd_175.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "视频旋转",
+        "package_name": "cn.mediaio.rotate",
+        "file_name": "cn.mediaio.rotate_176.apk",
+        "app_activity": "cn.mediaio.rotate.splash.ScreenSplash"
+    },
+    {
+        "app_name": "格式转换全能王",
+        "package_name": "com.xuanmutech.geshi",
+        "file_name": "com.xuanmutech.geshi_177.apk",
+        "app_activity": "com.xuanmutech.geshi.activities.LaunchActivity"
+    },
+    {
+        "app_name": "一键水印",
+        "package_name": "com.xuanmutech.jiexi",
+        "file_name": "com.xuanmutech.jiexi_178.apk",
+        "app_activity": "com.liuniantech.shipin.activities.LaunchActivity"
+    },
+    {
+        "app_name": "视频变速器",
+        "package_name": "com.happy.speed",
+        "file_name": "com.happy.speed_179.apk",
+        "app_activity": "com.happy.speed.ui.SplashActivity"
+    },
+    {
+        "app_name": "AKASO GO",
+        "package_name": "com.saina.sportdv",
+        "file_name": "com.saina.sportdv_180.apk",
+        "app_activity": "com.saina.sportdv.ui.SplashActivity"
+    },
+    {
+        "app_name": "音乐视频助手",
+        "package_name": "com.lqw.musciextract",
+        "file_name": "com.lqw.musciextract_181.apk",
+        "app_activity": "com.lqw.musciextract.activity.LauncherActivity"
+    },
+    {
+        "app_name": "万能看片电影播放器",
+        "package_name": "jhg.gyy.bbb",
+        "file_name": "jhg.gyy.bbb_182.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "AE剪辑",
+        "package_name": "aejj.com.hjfj.pokm.njib",
+        "file_name": "aejj.com.hjfj.pokm.njib_183.apk",
+        "app_activity": "com.jinmo.module_splash.SplashActivity"
+    },
+    {
+        "app_name": "爱剪辑极速版",
+        "package_name": "com.shineyie.ijjfaster",
+        "file_name": "com.shineyie.ijjfaster_184.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "水印消消消",
+        "package_name": "com.shuiyxxx.pkg",
+        "file_name": "com.shuiyxxx.pkg_185.apk",
+        "app_activity": "com.shuiyxxx.pkg.app.ui.SplashActivity"
+    },
+    {
+        "app_name": "跟拍大师",
+        "package_name": "gp.qisgfm.vtb",
+        "file_name": "gp.qisgfm.vtb_186.apk",
+        "app_activity": "com.wxy.camera19.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "模力视频",
+        "package_name": "com.mbjia.app",
+        "file_name": "com.mbjia.app_187.apk",
+        "app_activity": "com.mbjia.app.homepage.MainActivity"
+    },
+    {
+        "app_name": "趣颜",
+        "package_name": "ziyi.yyqu.yaxj",
+        "file_name": "ziyi.yyqu.yaxj_188.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "音频剪辑王",
+        "package_name": "com.ziranw1.yinpinbjq",
+        "file_name": "com.ziranw1.yinpinbjq_189.apk",
+        "app_activity": "com.ziranw1.yinpinbjq.WelcomeActivity"
+    },
+    {
+        "app_name": "234盒子",
+        "package_name": "com.gxdmsmm.kxvqejgiz.yhodggsee",
+        "file_name": "com.gxdmsmm.kxvqejgiz.yhodggsee_190.apk",
+        "app_activity": "com.format.converter.kfive.activity.StartActivity"
+    },
+    {
+        "app_name": "去水印工厂",
+        "package_name": "com.dunjiakj.qsygc",
+        "file_name": "com.dunjiakj.qsygc_191.apk",
+        "app_activity": "com.weimei.watermarkmaster.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "盘子影视播放器",
+        "package_name": "com.wypz.movieysappbfq",
+        "file_name": "com.wypz.movieysappbfq_192.apk",
+        "app_activity": "com.mediaplay.six.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "画中画视频剪辑",
+        "package_name": "mcio.hzhaq.vtbfl",
+        "file_name": "mcio.hzhaq.vtbfl_193.apk",
+        "app_activity": "com.wxy.movie72.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "自拍提词器",
+        "package_name": "com.boniu.mdticiqi",
+        "file_name": "com.boniu.mdticiqi_194.apk",
+        "app_activity": "com.boniu.mdticiqi.appui.SplashActivity"
+    },
+    {
+        "app_name": "星空",
+        "package_name": "com.xinkong.csykt",
+        "file_name": "com.xinkong.csykt_195.apk",
+        "app_activity": "com.audioedit.musicedit16.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "视频加字幕",
+        "package_name": "com.easyfun.subtitle",
+        "file_name": "com.easyfun.subtitle_196.apk",
+        "app_activity": "com.easyfun.subtitle.SplashActivity"
+    },
+    {
+        "app_name": "视频剪辑拼接",
+        "package_name": "com.shipindashi.gyzys",
+        "file_name": "com.shipindashi.gyzys_197.apk",
+        "app_activity": "com.video.etit2.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "微商视频助手",
+        "package_name": "com.fengsu.videoassistant",
+        "file_name": "com.fengsu.videoassistant_198.apk",
+        "app_activity": "com.fengsu.videoassistant.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "JR剪辑",
+        "package_name": "com.jrzfveapp",
+        "file_name": "com.jrzfveapp_199.apk",
+        "app_activity": "com.jrzfveapp.modules.other.SplashActivity"
+    },
+    {
+        "app_name": "闪电剪辑",
+        "package_name": "com.shandianjianji.ylrj",
+        "file_name": "com.shandianjianji.ylrj_200.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "全能视频转换工具",
+        "package_name": "com.gtfuhua.spzhgsrj",
+        "file_name": "com.gtfuhua.spzhgsrj_201.apk",
+        "app_activity": "com.jt.transcode.entrance.SplashActivity"
+    },
+    {
+        "app_name": "简单水印相机",
+        "package_name": "com.ziyi.watercamera",
+        "file_name": "com.ziyi.watercamera_202.apk",
+        "app_activity": "com.geetol.watercamera.ui.SplashActivity"
+    },
+    {
+        "app_name": "魅影视频大师",
+        "package_name": "mei.nianfa.myvideocs",
+        "file_name": "mei.nianfa.myvideocs_203.apk",
+        "app_activity": "com.video.seven.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "MetAudio",
+        "package_name": "com.sabinetek.app",
+        "file_name": "com.sabinetek.app_204.apk",
+        "app_activity": "com.sabine.activity.SplashActivity"
+    },
+    {
+        "app_name": "gif录屏",
+        "package_name": "com.cjkj.gifrecording",
+        "file_name": "com.cjkj.gifrecording_205.apk",
+        "app_activity": "com.cjkj.gifrecording.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "悟空空调全能遥控器",
+        "package_name": "com.wukongyaokong.vl",
+        "file_name": "com.wukongyaokong.vl_206.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "视频编辑工具宝",
+        "package_name": "com.guangzhoushangzhuo.videoclip",
+        "file_name": "com.guangzhoushangzhuo.videoclip_207.apk",
+        "app_activity": "com.geetol.Video_Editing.activity.SplashActivity"
+    },
+    {
+        "app_name": "图剪",
+        "package_name": "com.picture.pic2video",
+        "file_name": "com.picture.pic2video_208.apk",
+        "app_activity": "com.picture.pic2video.domain.splash.SplashActivity"
+    },
+    {
+        "app_name": "小白剪辑",
+        "package_name": "com.bbn.xiaobaijianji",
+        "file_name": "com.bbn.xiaobaijianji_209.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "影音壳子",
+        "package_name": "com.yyjj.kzwyzykznb",
+        "file_name": "com.yyjj.kzwyzykznb_210.apk",
+        "app_activity": "com.sxb.newmusicedit6.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "犀牛视频助手",
+        "package_name": "hykk.nbcg.sfdr",
+        "file_name": "hykk.nbcg.sfdr_211.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "奇影视频助手",
+        "package_name": "com.mnf.qiyingvideozs",
+        "file_name": "com.mnf.qiyingvideozs_212.apk",
+        "app_activity": "com.vtb.base.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "音频编辑转换器",
+        "package_name": "com.shuojie.audioeditor",
+        "file_name": "com.shuojie.audioeditor_213.apk",
+        "app_activity": "com.shuojie.audioeditor.activity.SplashActivity"
+    },
+    {
+        "app_name": "好看圈",
+        "package_name": "qgfs.vsbj.vvzx",
+        "file_name": "qgfs.vsbj.vvzx_214.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "音频剪辑秀剪助手",
+        "package_name": "com.jxzz.videocut",
+        "file_name": "com.jxzz.videocut_215.apk",
+        "app_activity": "com.lxb.audiocut.activity.StartActivity"
+    },
+    {
+        "app_name": "影音剪辑",
+        "package_name": "io.microshow.videoeditor",
+        "file_name": "io.microshow.videoeditor_216.apk",
+        "app_activity": "io.microshow.videoeditor.acitivty.SplashActivity"
+    }
+]
