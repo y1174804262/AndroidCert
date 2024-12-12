@@ -1,0 +1,596 @@
+[
+    {
+        "app_name": "izdax输入法",
+        "package_name": "cn.izdax.ime",
+        "file_name": "cn.izdax.ime_1.apk",
+        "app_activity": "cn.izdax.ime.app.setup.AppSetupActivity"
+    },
+    {
+        "app_name": "LoveKiss",
+        "package_name": "com.lkbw.shuru",
+        "file_name": "com.lkbw.shuru_2.apk",
+        "app_activity": "com.lkbw.shuru.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "微商输入法不折叠",
+        "package_name": "com.huihaiw.srfbzd",
+        "file_name": "com.huihaiw.srfbzd_3.apk",
+        "app_activity": "com.huihaiw.srfbzd.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "Lovekey",
+        "package_name": "com.fd.lovekeyboard",
+        "file_name": "com.fd.lovekeyboard_4.apk",
+        "app_activity": "com.szcck.lovekey.activity.PrivacyAgreementActivity"
+    },
+    {
+        "app_name": "智能点读输入法",
+        "package_name": "com.ybutil.voiceinput",
+        "file_name": "com.ybutil.voiceinput_5.apk",
+        "app_activity": "com.ybutil.voiceinput.activity.SplashActivity"
+    },
+    {
+        "app_name": "ArtSign",
+        "package_name": "com.starshine.artsign",
+        "file_name": "com.starshine.artsign_6.apk",
+        "app_activity": "com.starshine.artsign.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "恋小知",
+        "package_name": "com.love.keyboard",
+        "file_name": "com.love.keyboard_7.apk",
+        "app_activity": "com.mktwo.chat.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "手心输入法",
+        "package_name": "com.xinshuru.inputmethod",
+        "file_name": "com.xinshuru.inputmethod_8.apk",
+        "app_activity": "com.xinshuru.inputmethod.FTInputSplashActivity"
+    },
+    {
+        "app_name": "吉祥语音输入法",
+        "package_name": "com.qznet.inputmethod",
+        "file_name": "com.qznet.inputmethod_9.apk",
+        "app_activity": "com.qznet.inputmethod.splash.SplashActivity"
+    },
+    {
+        "app_name": "搜狗输入法",
+        "package_name": "com.sohu.inputmethod.sogou",
+        "file_name": "com.sohu.inputmethod.sogou_10.apk",
+        "app_activity": "com.sohu.inputmethod.sogou.SogouIMELauncher"
+    },
+    {
+        "app_name": "09输入法",
+        "package_name": "com.xilian.input09",
+        "file_name": "com.xilian.input09_11.apk",
+        "app_activity": "com.xilian.input09.MainActivity"
+    },
+    {
+        "app_name": "超强语音输入法",
+        "package_name": "com.lstech.inputmethod",
+        "file_name": "com.lstech.inputmethod_12.apk",
+        "app_activity": "com.blueteam.audio.activity.EnterActivity"
+    },
+    {
+        "app_name": "语音打字法",
+        "package_name": "com.mjun.imethod",
+        "file_name": "com.mjun.imethod_13.apk",
+        "app_activity": "com.mjun.imethod.LauncherActivity"
+    },
+    {
+        "app_name": "声速输入法",
+        "package_name": "ink.duo.supinyin",
+        "file_name": "ink.duo.supinyin_14.apk",
+        "app_activity": "ink.duo.supinyin.activity.SetupWizard.WizardPrivacyView"
+    },
+    {
+        "app_name": "斗字输入法",
+        "package_name": "com.universal.smartinput",
+        "file_name": "com.universal.smartinput_15.apk",
+        "app_activity": "com.universal.smartinput.activity.SplashActivity"
+    },
+    {
+        "app_name": "天坦输入法",
+        "package_name": "com.tatans.inputmethod",
+        "file_name": "com.tatans.inputmethod_16.apk",
+        "app_activity": "net.tatans.inputmethod.MainActivity"
+    },
+    {
+        "app_name": "小恋键盘",
+        "package_name": "com.liaolian.keyboard",
+        "file_name": "com.liaolian.keyboard_17.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "蜜小语",
+        "package_name": "com.flow.mxy",
+        "file_name": "com.flow.mxy_18.apk",
+        "app_activity": "com.flow.mxy.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "心动键盘",
+        "package_name": "com.wejoy.heartbeatkeyboard.cn",
+        "file_name": "com.wejoy.heartbeatkeyboard.cn_19.apk",
+        "app_activity": "com.wejoy.aikeyboard.activity.main.MainActivity"
+    },
+    {
+        "app_name": "智能输入法",
+        "package_name": "com.intelligent.input",
+        "file_name": "com.intelligent.input_21.apk",
+        "app_activity": "h.UEP"
+    },
+    {
+        "app_name": "追爱键盘",
+        "package_name": "com.bita.zhuiaijianpan",
+        "file_name": "com.bita.zhuiaijianpan_22.apk",
+        "app_activity": "com.bita.lovekeyboard.SplashActivity"
+    },
+    {
+        "app_name": "智能朗读输入法",
+        "package_name": "com.smartreading.input",
+        "file_name": "com.smartreading.input_23.apk",
+        "app_activity": "c.YUC"
+    },
+    {
+        "app_name": "甜瓜输入法",
+        "package_name": "com.tginput.tiangua",
+        "file_name": "com.tginput.tiangua_24.apk",
+        "app_activity": "com.tginput.tiangua.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "有声输入法",
+        "package_name": "com.maijun.voiceim",
+        "file_name": "com.maijun.voiceim_25.apk",
+        "app_activity": "com.maijun.voiceim.LauncherActivity"
+    },
+    {
+        "app_name": "听声输入法",
+        "package_name": "com.tingsheng.keyboard",
+        "file_name": "com.tingsheng.keyboard_26.apk",
+        "app_activity": "com.tingsheng.keyboard.LauncherActivity"
+    },
+    {
+        "app_name": "毛豆输入法",
+        "package_name": "www.hmbml.maodou",
+        "file_name": "www.hmbml.maodou_27.apk",
+        "app_activity": "com.example.camera.MainActivity"
+    },
+    {
+        "app_name": "Celia Keyboard",
+        "package_name": "com.huawei.ohos.inputmethod",
+        "file_name": "com.huawei.ohos.inputmethod_28.apk",
+        "app_activity": "com.appstore.view.activity.PrimaryActivity"
+    },
+    {
+        "app_name": "奥云输入法",
+        "package_name": "com.oyun.qingcheng",
+        "file_name": "com.oyun.qingcheng_29.apk",
+        "app_activity": "com.oyun.qingcheng.activity.ActivityAdvertising"
+    },
+    {
+        "app_name": "智能语音输入法",
+        "package_name": "com.fbx.smartvoiceime",
+        "file_name": "com.fbx.smartvoiceime_30.apk",
+        "app_activity": "com.fbx.handwriteime.ui.activity.main.GuideActivity"
+    },
+    {
+        "app_name": "空气键盘",
+        "package_name": "cn.xiaohuodui.remote.keyboard",
+        "file_name": "cn.xiaohuodui.remote.keyboard_31.apk",
+        "app_activity": "cn.xiaohuodui.remote.keyboard.MainActivity"
+    },
+    {
+        "app_name": "畅聊输入法",
+        "package_name": "com.fbx.friendchatime",
+        "file_name": "com.fbx.friendchatime_32.apk",
+        "app_activity": "com.fbx.handwriteime.ui.activity.main.GuideActivity"
+    },
+    {
+        "app_name": "Love宝典",
+        "package_name": "com.mcs.lovebaodian",
+        "file_name": "com.mcs.lovebaodian_33.apk",
+        "app_activity": "com.mcs.lovebaodian.MainActivity"
+    },
+    {
+        "app_name": "藏语播报输入法",
+        "package_name": "com.fbx.tibetanIme",
+        "file_name": "com.fbx.tibetanIme_34.apk",
+        "app_activity": "com.fbx.uighurIme.ui.activity.main.GuideActivity"
+    },
+    {
+        "app_name": "微商不折叠发圈",
+        "package_name": "com.genjiwl.wsbzdfq",
+        "file_name": "com.genjiwl.wsbzdfq_35.apk",
+        "app_activity": "com.huihaiw.srfbzd.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "语音播报智读输入法",
+        "package_name": "com.jsrh.yybbsrf",
+        "file_name": "com.jsrh.yybbsrf_36.apk",
+        "app_activity": "com.litemob.smartinput.ui.activity.WelcomActivity"
+    },
+    {
+        "app_name": "AI全能输入法",
+        "package_name": "com.ysg.aiinput",
+        "file_name": "com.ysg.aiinput_37.apk",
+        "app_activity": "com.ysg.aiinput.activity.SplashAdActivity"
+    },
+    {
+        "app_name": "手迹造字",
+        "package_name": "com.handwriting.makefont",
+        "file_name": "com.handwriting.makefont_38.apk",
+        "app_activity": "com.handwriting.makefont.main.SplashActivity"
+    },
+    {
+        "app_name": "Badam维语输入法",
+        "package_name": "com.ziipin.softkeyboard",
+        "file_name": "com.ziipin.softkeyboard_39.apk",
+        "app_activity": "com.ziipin.setting.PermissionMainActivity"
+    },
+    {
+        "app_name": "Nur输入法",
+        "package_name": "com.nur.ime",
+        "file_name": "com.nur.ime_40.apk",
+        "app_activity": "com.nur.ime.MainActivity"
+    },
+    {
+        "app_name": "如意输入法",
+        "package_name": "com.leshu.inputmethod",
+        "file_name": "com.leshu.inputmethod_41.apk",
+        "app_activity": "com.leshu.inputmethod.splash.SplashActivity"
+    },
+    {
+        "app_name": "章鱼输入法",
+        "package_name": "com.komoxo.octopusime",
+        "file_name": "com.komoxo.octopusime_42.apk",
+        "app_activity": "com.komoxo.chocolateime.splash.WelcomeActivity"
+    },
+    {
+        "app_name": "河马输入法",
+        "package_name": "com.hezan.keyboard",
+        "file_name": "com.hezan.keyboard_43.apk",
+        "app_activity": "com.komoxo.chocolateime.splash.WelcomeActivity"
+    },
+    {
+        "app_name": "保益输入法",
+        "package_name": "com.bjbyhd.input_sogou",
+        "file_name": "com.bjbyhd.input_sogou_44.apk",
+        "app_activity": "com.bjbyhd.input_sogou.activity.MainSettingActivity"
+    },
+    {
+        "app_name": "撩人输入法",
+        "package_name": "com.liaoren.keyboard",
+        "file_name": "com.liaoren.keyboard_45.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "表情包输入法",
+        "package_name": "com.maoying.keyboard",
+        "file_name": "com.maoying.keyboard_46.apk",
+        "app_activity": "com.maoying.keyboard.activity.SplashActivity"
+    },
+    {
+        "app_name": "维语播报输入法",
+        "package_name": "com.fbx.uighurIme",
+        "file_name": "com.fbx.uighurIme_47.apk",
+        "app_activity": "com.fbx.uighurIme.ui.activity.main.GuideActivity"
+    },
+    {
+        "app_name": "特殊文字",
+        "package_name": "com.huayang.pattern",
+        "file_name": "com.huayang.pattern_48.apk",
+        "app_activity": "com.huayang.pattern.LaunchActivity"
+    },
+    {
+        "app_name": "情知道",
+        "package_name": "com.qingzhidao.xtwh",
+        "file_name": "com.qingzhidao.xtwh_49.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "手写输入法",
+        "package_name": "com.fbx.handwriteime",
+        "file_name": "com.fbx.handwriteime_50.apk",
+        "app_activity": "com.fbx.handwriteime.ui.activity.main.GuideActivity"
+    },
+    {
+        "app_name": "维语输入法",
+        "package_name": "com.zsl.uyghur",
+        "file_name": "com.zsl.uyghur_51.apk",
+        "app_activity": "com.wifi.robot.ui.activities.LogoActivity"
+    },
+    {
+        "app_name": "不折叠微商输入法",
+        "package_name": "cn.sqcat.inputmethod",
+        "file_name": "cn.sqcat.inputmethod_52.apk",
+        "app_activity": "cn.sqcat.inputmethod.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "微信输入法",
+        "package_name": "com.tencent.wetype",
+        "file_name": "com.tencent.wetype_53.apk",
+        "app_activity": "com.tencent.wetype.plugin.hld.reactnative.activity.ImeMainSettingActivity"
+    },
+    {
+        "app_name": "云藏输入法",
+        "package_name": "com.yongzin.keyboard",
+        "file_name": "com.yongzin.keyboard_54.apk",
+        "app_activity": "com.nl.keyboard.ui.GuideActivity"
+    },
+    {
+        "app_name": "无思键盘",
+        "package_name": "com.dier.tlkeyboard",
+        "file_name": "com.dier.tlkeyboard_55.apk",
+        "app_activity": "com.dier.tlkeyboard.controllers.MainActivity"
+    },
+    {
+        "app_name": "开单输入法",
+        "package_name": "com.zs0760.ime",
+        "file_name": "com.zs0760.ime_56.apk",
+        "app_activity": "com.zs0760.ime.ui.SplashActivity"
+    },
+    {
+        "app_name": "微商输入法",
+        "package_name": "com.pengtuzm.ime",
+        "file_name": "com.pengtuzm.ime_57.apk",
+        "app_activity": "com.pengtuzm.ime.module.view.StartUpPageActivity"
+    },
+    {
+        "app_name": "高情商输入法",
+        "package_name": "com.yushixing.accessibility",
+        "file_name": "com.yushixing.accessibility_58.apk",
+        "app_activity": "com.yushixing.gg.toutiao.SplashActivity"
+    },
+    {
+        "app_name": "微商发圈不折叠",
+        "package_name": "com.gtfuhua.wsfqbzd",
+        "file_name": "com.gtfuhua.wsfqbzd_59.apk",
+        "app_activity": "com.huihaiw.srfbzd.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "元气键盘皮肤",
+        "package_name": "com.ygdan.keyboard",
+        "file_name": "com.ygdan.keyboard_60.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "语音播报输入法",
+        "package_name": "com.nineton.voiceime",
+        "file_name": "com.nineton.voiceime_61.apk",
+        "app_activity": "com.fbx.handwriteime.ui.activity.main.GuideActivity"
+    },
+    {
+        "app_name": "百度输入法",
+        "package_name": "com.baidu.input",
+        "file_name": "com.baidu.input_62.apk",
+        "app_activity": "com.baidu.input.ImeLauncherActivity"
+    },
+    {
+        "app_name": "爱键盘LoveKeyboard",
+        "package_name": "com.siling.keyboard.huawei",
+        "file_name": "com.siling.keyboard.huawei_63.apk",
+        "app_activity": "aik.app.ui.AikAppActivity"
+    },
+    {
+        "app_name": "微商防折叠输入法",
+        "package_name": "com.tanyun.wsfzdsrfrj",
+        "file_name": "com.tanyun.wsfzdsrfrj_64.apk",
+        "app_activity": "com.geetol.bzdrj.main.SplashActivity"
+    },
+    {
+        "app_name": "心意输入法",
+        "package_name": "www.bjsy.xinyi",
+        "file_name": "www.bjsy.xinyi_65.apk",
+        "app_activity": "com.example.camera.MainActivity"
+    },
+    {
+        "app_name": "恋恋输入法",
+        "package_name": "com.myshurufa.replyput",
+        "file_name": "com.myshurufa.replyput_66.apk",
+        "app_activity": "com.myshurufa.replyput.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "花样字体大全",
+        "package_name": "com.smk.fonts",
+        "file_name": "com.smk.fonts_67.apk",
+        "app_activity": "com.pattern.fonts.app.MainActivity"
+    },
+    {
+        "app_name": "指尖输入法",
+        "package_name": "com.dm.ime",
+        "file_name": "com.dm.ime_68.apk",
+        "app_activity": "com.dm.ime.ui.main.MainActivity"
+    },
+    {
+        "app_name": "BARMAK维语输入法",
+        "package_name": "com.barmak.client.fast",
+        "file_name": "com.barmak.client.fast_69.apk",
+        "app_activity": "com.barmak.client.fast.splash.SplashActivity"
+    },
+    {
+        "app_name": "微脉输入法",
+        "package_name": "com.edujia.ime",
+        "file_name": "com.edujia.ime_70.apk",
+        "app_activity": "com.edujia.ime.module.app.WSLaunchActivity"
+    },
+    {
+        "app_name": "心语输入法",
+        "package_name": "com.isay.xyinput",
+        "file_name": "com.isay.xyinput_71.apk",
+        "app_activity": "com.isay.xyinput.activity.SplashActivity"
+    },
+    {
+        "app_name": "chat智聊输入法",
+        "package_name": "com.yibo.xiaoguan.toc",
+        "file_name": "com.yibo.xiaoguan.toc_72.apk",
+        "app_activity": "com.yibo.xiaoguan.toc.toc.MainTabActivity"
+    },
+    {
+        "app_name": "QQ输入法",
+        "package_name": "com.tencent.qqpinyin",
+        "file_name": "com.tencent.qqpinyin_73.apk",
+        "app_activity": "com.tencent.qqpinyin.activity.guide.SplashActivity"
+    },
+    {
+        "app_name": "iClip",
+        "package_name": "com.mt.copyidea",
+        "file_name": "com.mt.copyidea_74.apk",
+        "app_activity": "com.mt.copyidea.view.activity.common.MainActivity"
+    },
+    {
+        "app_name": "悦爱输入法",
+        "package_name": "com.yueaishurufa.cn",
+        "file_name": "com.yueaishurufa.cn_75.apk",
+        "app_activity": "com.yueaishurufa.cn.page.launch.LauncherActivity"
+    },
+    {
+        "app_name": "成交输入法",
+        "package_name": "com.zhiyun.xgkeyboard",
+        "file_name": "com.zhiyun.xgkeyboard_76.apk",
+        "app_activity": "com.zhiyun.xgkeyboard.ui.SplashAct"
+    },
+    {
+        "app_name": "恋小恋",
+        "package_name": "com.smalllian.xiaolian",
+        "file_name": "com.smalllian.xiaolian_77.apk",
+        "app_activity": "com.smalllian.xiaolian.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "语音输入法",
+        "package_name": "com.maijun.inputmethod",
+        "file_name": "com.maijun.inputmethod_78.apk",
+        "app_activity": "com.maijun.inputmethod.LauncherActivity"
+    },
+    {
+        "app_name": "读字输入法",
+        "package_name": "com.nxxtdky.pctcbps",
+        "file_name": "com.nxxtdky.pctcbps_79.apk",
+        "app_activity": "com.nxxtdky.pctcbps.splash.SplashActivity"
+    },
+    {
+        "app_name": "蜜恋语",
+        "package_name": "com.sm.mly",
+        "file_name": "com.sm.mly_80.apk",
+        "app_activity": "com.sm.mly.activity.SplashActivity"
+    },
+    {
+        "app_name": "Fonts字体工厂",
+        "package_name": "com.fontszt.ymapp",
+        "file_name": "com.fontszt.ymapp_81.apk",
+        "app_activity": "com.kessi.assistivetouch.SplashActivity"
+    },
+    {
+        "app_name": "讯诺蒙古文输入法",
+        "package_name": "com.xunnuo.xnime",
+        "file_name": "com.xunnuo.xnime_82.apk",
+        "app_activity": "com.xunnuo.xnime.activities.MainActivity"
+    },
+    {
+        "app_name": "日语输入法",
+        "package_name": "com.zsl.japanese",
+        "file_name": "com.zsl.japanese_83.apk",
+        "app_activity": "com.wifi.robot.ui.activities.LogoActivity"
+    },
+    {
+        "app_name": "不折叠微商朋友圈",
+        "package_name": "com.teredy.inputmethod",
+        "file_name": "com.teredy.inputmethod_84.apk",
+        "app_activity": "com.teredy.inputmethod.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "手写语音输入法",
+        "package_name": "com.handwritingspeech.input",
+        "file_name": "com.handwritingspeech.input_85.apk",
+        "app_activity": "f.YEG"
+    },
+    {
+        "app_name": "东噶藏文输入法",
+        "package_name": "com.iflytek.inputmethods.DungkarIME",
+        "file_name": "com.iflytek.inputmethods.DungkarIME_86.apk",
+        "app_activity": "com.iflytek.inputmethods.mvvm.modules.splash.SplashActivity"
+    },
+    {
+        "app_name": "讯飞输入法",
+        "package_name": "com.iflytek.inputmethod",
+        "file_name": "com.iflytek.inputmethod_87.apk",
+        "app_activity": "com.iflytek.inputmethod.LauncherActivity"
+    },
+    {
+        "app_name": "恋小言",
+        "package_name": "com.leshu.datingmaster",
+        "file_name": "com.leshu.datingmaster_88.apk",
+        "app_activity": "com.leshu.datingmaster.SplashActivity"
+    },
+    {
+        "app_name": "66输入法",
+        "package_name": "com.syn.sixkeyboard",
+        "file_name": "com.syn.sixkeyboard_89.apk",
+        "app_activity": "org.fcitx.fcitx5.android.activity.SplashActivity"
+    },
+    {
+        "app_name": "蜜语键盘",
+        "package_name": "com.miyu.keyboard",
+        "file_name": "com.miyu.keyboard_90.apk",
+        "app_activity": "com.miyu.keyboard.LauncherActivity"
+    },
+    {
+        "app_name": "朋友圈输入法",
+        "package_name": "cn.jjpengcheng.inputmethod",
+        "file_name": "cn.jjpengcheng.inputmethod_91.apk",
+        "app_activity": "cn.jjpengcheng.inputmethod.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "微商不折叠输入",
+        "package_name": "com.shichaiw.wsbzdsr",
+        "file_name": "com.shichaiw.wsbzdsr_92.apk",
+        "app_activity": "com.huihaiw.srfbzd.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "听说输入法",
+        "package_name": "com.mjun.inputmethod",
+        "file_name": "com.mjun.inputmethod_93.apk",
+        "app_activity": "com.mjun.inputmethod.LauncherActivity"
+    },
+    {
+        "app_name": "友友输入法",
+        "package_name": "com.nineton.handwriteime",
+        "file_name": "com.nineton.handwriteime_94.apk",
+        "app_activity": "com.fbx.handwriteime.ui.activity.main.GuideActivity"
+    },
+    {
+        "app_name": "语音手写输入法",
+        "package_name": "com.voicehandwriting.input",
+        "file_name": "com.voicehandwriting.input_95.apk",
+        "app_activity": "com.voicehandwriting.input.splash.SplashActivity"
+    },
+    {
+        "app_name": "99输入法",
+        "package_name": "im.weshine.jiujiu",
+        "file_name": "im.weshine.jiujiu_96.apk",
+        "app_activity": "im.weshine.activities.MainActivity"
+    },
+    {
+        "app_name": "不折叠输入法",
+        "package_name": "com.hye.wxkeyboad",
+        "file_name": "com.hye.wxkeyboad_97.apk",
+        "app_activity": "com.hye.wxkeyboad.activity.SplashADActivity"
+    },
+    {
+        "app_name": "哈萨克输入法",
+        "package_name": "com.xalhar.ime",
+        "file_name": "com.xalhar.ime_98.apk",
+        "app_activity": "com.xalhar.app.setup.SetupActivity"
+    },
+    {
+        "app_name": "KK键盘",
+        "package_name": "im.weshine.keyboard",
+        "file_name": "im.weshine.keyboard_99.apk",
+        "app_activity": "im.weshine.activities.MainActivity"
+    },
+    {
+        "app_name": "发圈不折叠输入法",
+        "package_name": "www.buzhedie.com",
+        "file_name": "www.buzhedie.com_100.apk",
+        "app_activity": "www.buzhedie.com.main.LaunchActivity"
+    }
+]

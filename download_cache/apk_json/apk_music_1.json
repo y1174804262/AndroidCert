@@ -1,0 +1,1678 @@
+[
+    {
+        "app_name": "迷你魔幻粒子",
+        "package_name": "com.tongle.tr",
+        "file_name": "com.tongle.tr_1.apk",
+        "app_activity": "com.tongle.tr.SplashActivity2"
+    },
+    {
+        "app_name": "车载DJ音乐盒",
+        "package_name": "com.e5837972.kgt",
+        "file_name": "com.e5837972.kgt_2.apk",
+        "app_activity": "com.e5837972.kgt.activities.SplashActivity"
+    },
+    {
+        "app_name": "猫王妙播Pro",
+        "package_name": "com.muzen.radioplayer",
+        "file_name": "com.muzen.radioplayer_3.apk",
+        "app_activity": "com.muzen.radioplayer.MainActivity"
+    },
+    {
+        "app_name": "HUAWEI MUSIC",
+        "package_name": "com.android.mediacenter",
+        "file_name": "com.android.mediacenter_4.apk",
+        "app_activity": "com.android.mediacenter.PageActivity"
+    },
+    {
+        "app_name": "恩雅音乐",
+        "package_name": "com.enya.enyamusic",
+        "file_name": "com.enya.enyamusic_5.apk",
+        "app_activity": "com.enya.enyamusic.view.activity.start.SplashActivity"
+    },
+    {
+        "app_name": "架子鼓重音",
+        "package_name": "com.jinghong.realdrum",
+        "file_name": "com.jinghong.realdrum_6.apk",
+        "app_activity": "com.jinghong.realdrum.StartActivity"
+    },
+    {
+        "app_name": "音频提取器",
+        "package_name": "com.tools.audioeditor",
+        "file_name": "com.tools.audioeditor_7.apk",
+        "app_activity": "com.tools.audioeditor.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "全民猜歌赚钱",
+        "package_name": "cn.uqu8.guesssong",
+        "file_name": "cn.uqu8.guesssong_8.apk",
+        "app_activity": "com.aaron.main.SplashActivity"
+    },
+    {
+        "app_name": "蓝舞者",
+        "package_name": "com.bluedancer.bluedancer",
+        "file_name": "com.bluedancer.bluedancer_9.apk",
+        "app_activity": "com.bluedancer.bluedancer.BDLogoActivity"
+    },
+    {
+        "app_name": "Neutron Player",
+        "package_name": "com.neutroncode.mp.huawei",
+        "file_name": "com.neutroncode.mp.huawei_10.apk",
+        "app_activity": "com.neutroncode.mp.NeutronMPCore"
+    },
+    {
+        "app_name": "来音钢琴",
+        "package_name": "com.xihang.piano",
+        "file_name": "com.xihang.piano_11.apk",
+        "app_activity": "com.xihang.piano.MainActivity"
+    },
+    {
+        "app_name": "DJ多多",
+        "package_name": "com.shoujiduoduo.dj",
+        "file_name": "com.shoujiduoduo.dj_12.apk",
+        "app_activity": "com.duoduo.dj.MainActivity"
+    },
+    {
+        "app_name": "联通视频彩铃",
+        "package_name": "com.iflytek.womusicclient",
+        "file_name": "com.iflytek.womusicclient_13.apk",
+        "app_activity": "android.womusic.com.songcomponent.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "歌歌AI写歌",
+        "package_name": "com.gege.music",
+        "file_name": "com.gege.music_14.apk",
+        "app_activity": "com.gege.music.somuse_app_client.MainActivity"
+    },
+    {
+        "app_name": "虫虫钢琴",
+        "package_name": "com.yusi.chongchong",
+        "file_name": "com.yusi.chongchong_15.apk",
+        "app_activity": "chongchong.ui.start.SplashActivity"
+    },
+    {
+        "app_name": "视频转换压缩转格式",
+        "package_name": "com.lilai.videoconvert",
+        "file_name": "com.lilai.videoconvert_16.apk",
+        "app_activity": "com.lilai.videoconvert.ui.SplashActivity"
+    },
+    {
+        "app_name": "电子琴乐队",
+        "package_name": "com.viscentsoft.bandone",
+        "file_name": "com.viscentsoft.bandone_17.apk",
+        "app_activity": "com.viscentsoft.bandone.MainActivity"
+    },
+    {
+        "app_name": "慢跑节拍器",
+        "package_name": "com.yfkj.metronome",
+        "file_name": "com.yfkj.metronome_18.apk",
+        "app_activity": "com.yfkj.metronome.activity.FirstActivity"
+    },
+    {
+        "app_name": "唱响音符",
+        "package_name": "com.meta.boom",
+        "file_name": "com.meta.boom_19.apk",
+        "app_activity": "com.shidaiyinfu.module_login.splash.SplashActivity"
+    },
+    {
+        "app_name": "调音器guitar",
+        "package_name": "com.musicapp.f",
+        "file_name": "com.musicapp.f_20.apk",
+        "app_activity": "com.musicapp.f.ad.SplashMainActivity"
+    },
+    {
+        "app_name": "豆瓣FM",
+        "package_name": "com.douban.radio",
+        "file_name": "com.douban.radio_21.apk",
+        "app_activity": "com.tencent.blackkey.frontend.usecase.main.MainActivity"
+    },
+    {
+        "app_name": "QQ音乐",
+        "package_name": "com.tencent.qqmusic",
+        "file_name": "com.tencent.qqmusic_22.apk",
+        "app_activity": "com.tencent.qqmusic.activity.AppStarterActivity"
+    },
+    {
+        "app_name": "吉他模拟器",
+        "package_name": "real.guitar.learn.model",
+        "file_name": "real.guitar.learn.model_23.apk",
+        "app_activity": "real.guitar.learn.model.QnetStartActivity"
+    },
+    {
+        "app_name": "虫虫吉他",
+        "package_name": "cn.ccguitar.music",
+        "file_name": "cn.ccguitar.music_24.apk",
+        "app_activity": "cn.ccguitar.music.ui.start.StartActivity"
+    },
+    {
+        "app_name": "X 架子鼓",
+        "package_name": "com.gamestar.xdrum",
+        "file_name": "com.gamestar.xdrum_25.apk",
+        "app_activity": "com.unity3d.player.UnityPlayerActivity"
+    },
+    {
+        "app_name": "汽水音乐",
+        "package_name": "com.luna.music",
+        "file_name": "com.luna.music_26.apk",
+        "app_activity": "com.luna.biz.main.main.MainActivity"
+    },
+    {
+        "app_name": "Magic Piano Keyboard",
+        "package_name": "com.example.xuhongxiang.andriodpiano",
+        "file_name": "com.example.xuhongxiang.andriodpiano_27.apk",
+        "app_activity": "com.netpower.piano.FastActivity"
+    },
+    {
+        "app_name": "Walk Band",
+        "package_name": "com.gamestar.pianoperfect",
+        "file_name": "com.gamestar.pianoperfect_28.apk",
+        "app_activity": "com.gamestar.pianoperfect.Splash"
+    },
+    {
+        "app_name": "相声评书戏曲大全",
+        "package_name": "com.qinqinxiong.apps.qqxbook",
+        "file_name": "com.qinqinxiong.apps.qqxbook_29.apk",
+        "app_activity": "com.qinqinxiong.apps.qqxbook.ui.SplashActivity"
+    },
+    {
+        "app_name": "音乐节奏大师",
+        "package_name": "com.stkj.dadieji",
+        "file_name": "com.stkj.dadieji_30.apk",
+        "app_activity": "com.stkj.dadieji.SplashActivity"
+    },
+    {
+        "app_name": "来音节拍器",
+        "package_name": "com.xihang.metronome",
+        "file_name": "com.xihang.metronome_31.apk",
+        "app_activity": "com.xihang.metronome.ui.SplashActivity"
+    },
+    {
+        "app_name": "钢琴节奏键盘大师",
+        "package_name": "com.lyx.piano",
+        "file_name": "com.lyx.piano_32.apk",
+        "app_activity": "com.lyx.piano.QnetStartActivity"
+    },
+    {
+        "app_name": "指舞钢琴",
+        "package_name": "com.sltz.peace.piano",
+        "file_name": "com.sltz.peace.piano_33.apk",
+        "app_activity": "com.sltz.peace.piano.activity.MainActivity"
+    },
+    {
+        "app_name": "Music Editor",
+        "package_name": "www.imxiaoyu.com.musiceditor",
+        "file_name": "www.imxiaoyu.com.musiceditor_34.apk",
+        "app_activity": "www.imxiaoyu.com.musiceditor.domain.MainActivity"
+    },
+    {
+        "app_name": "酷狗概念版",
+        "package_name": "com.kugou.android.lite",
+        "file_name": "com.kugou.android.lite_35.apk",
+        "app_activity": "com.kugou.android.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "钢琴块3",
+        "package_name": "gangqin.com.kuai.wanmeigangqin.tanqin",
+        "file_name": "gangqin.com.kuai.wanmeigangqin.tanqin_36.apk",
+        "app_activity": "com.jinmo.module_splash.SplashActivity"
+    },
+    {
+        "app_name": "完美架子鼓",
+        "package_name": "com.sltz.peace.drum",
+        "file_name": "com.sltz.peace.drum_37.apk",
+        "app_activity": "com.sltz.peace.drum.activity.MainActivity"
+    },
+    {
+        "app_name": "吉他自学模拟器",
+        "package_name": "org.aswind.hand.guitar",
+        "file_name": "org.aswind.hand.guitar_38.apk",
+        "app_activity": "org.aswind.hand.guitar.QnetStartActivity"
+    },
+    {
+        "app_name": "波点音乐",
+        "package_name": "cn.wenyu.bodian",
+        "file_name": "cn.wenyu.bodian_39.apk",
+        "app_activity": "cn.wenyu.bodian.EntryActivity"
+    },
+    {
+        "app_name": "DJ99",
+        "package_name": "com.qinqinxiong.apps.dj99",
+        "file_name": "com.qinqinxiong.apps.dj99_40.apk",
+        "app_activity": "com.qinqinxiong.apps.dj99.ui.SplashActivity"
+    },
+    {
+        "app_name": "VIPER HiFi",
+        "package_name": "com.kugou.viper",
+        "file_name": "com.kugou.viper_41.apk",
+        "app_activity": "com.kugou.android.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "吉他谱",
+        "package_name": "com.yunzhichu.main",
+        "file_name": "com.yunzhichu.main_42.apk",
+        "app_activity": "com.yunzhichu.main.ui.SplashActivity"
+    },
+    {
+        "app_name": "Electro Drum Pad",
+        "package_name": "com.mvtrail.electrodrumpad",
+        "file_name": "com.mvtrail.electrodrumpad_43.apk",
+        "app_activity": "com.mvtrail.electrodrumpad.activitys.SplashActivity"
+    },
+    {
+        "app_name": "美妙钢琴",
+        "package_name": "com.jinghong.yang",
+        "file_name": "com.jinghong.yang_44.apk",
+        "app_activity": "com.jinghong.yang.activity.StartActivity"
+    },
+    {
+        "app_name": "随心弹钢琴模拟器",
+        "package_name": "com.tjrd.sxtpiano",
+        "file_name": "com.tjrd.sxtpiano_45.apk",
+        "app_activity": "com.litemob.followheartpiano.ui.activity.WelcomActivity"
+    },
+    {
+        "app_name": "古筝调音器",
+        "package_name": "com.zxlstudio.guzheng",
+        "file_name": "com.zxlstudio.guzheng_46.apk",
+        "app_activity": "com.zxlstudio.guzheng.app.startup.WelcomeActivity"
+    },
+    {
+        "app_name": "Video To MP3 Converter",
+        "package_name": "com.mvtrail.xiaomi.videotomp3converter",
+        "file_name": "com.mvtrail.xiaomi.videotomp3converter_47.apk",
+        "app_activity": "com.mvtrail.videomp3converter.activity.SplashActivity"
+    },
+    {
+        "app_name": "音控",
+        "package_name": "com.fanyin.createmusic",
+        "file_name": "com.fanyin.createmusic_48.apk",
+        "app_activity": "com.fanyin.createmusic.home.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "玩酷电音",
+        "package_name": "com.viscentsoft.coolbeat",
+        "file_name": "com.viscentsoft.coolbeat_49.apk",
+        "app_activity": "com.viscentsoft.coolbeat.MainActivity"
+    },
+    {
+        "app_name": "戏曲大观园",
+        "package_name": "com.qinqinxiong.apps.qqxopera",
+        "file_name": "com.qinqinxiong.apps.qqxopera_50.apk",
+        "app_activity": "apps.qinqinxiong.com.qqxopera.main.SplashActivity"
+    },
+    {
+        "app_name": "索尼精选Hi-Res音乐",
+        "package_name": "com.hiresmusic",
+        "file_name": "com.hiresmusic_52.apk",
+        "app_activity": "com.hires.app.GuideActivity"
+    },
+    {
+        "app_name": "语音备忘录",
+        "package_name": "com.zhjun.tools.recordpen",
+        "file_name": "com.zhjun.tools.recordpen_53.apk",
+        "app_activity": "com.tools.audioeditor.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "DJ嗨嗨",
+        "package_name": "com.shoujiduoduo.hihi",
+        "file_name": "com.shoujiduoduo.hihi_54.apk",
+        "app_activity": "com.duoduo.dj.SplashActivity"
+    },
+    {
+        "app_name": "无损音乐播放器",
+        "package_name": "com.just_soft.local_music",
+        "file_name": "com.just_soft.local_music_55.apk",
+        "app_activity": "com.just_soft.local_music.ui.main.WelcomeActivity"
+    },
+    {
+        "app_name": "DJ秀",
+        "package_name": "com.kuaiyuhudong.djshow",
+        "file_name": "com.kuaiyuhudong.djshow_56.apk",
+        "app_activity": "com.aichang.yage.ui.IndexActivity"
+    },
+    {
+        "app_name": "DJ音乐库",
+        "package_name": "com.blueocean.huoledj",
+        "file_name": "com.blueocean.huoledj_57.apk",
+        "app_activity": "com.blueocean.huoledj.activity.StartActivity"
+    },
+    {
+        "app_name": "轻音社",
+        "package_name": "com.facetech.konking",
+        "file_name": "com.facetech.konking_58.apk",
+        "app_activity": "com.facetech.konking.MainActivity"
+    },
+    {
+        "app_name": "开嗓练声",
+        "package_name": "com.xihang.vocalmusic",
+        "file_name": "com.xihang.vocalmusic_59.apk",
+        "app_activity": "com.xihang.vocalmusic.MainActivity"
+    },
+    {
+        "app_name": "DJ多多极速版",
+        "package_name": "com.djduoduo.fast",
+        "file_name": "com.djduoduo.fast_60.apk",
+        "app_activity": "com.duoduo.dj.SplashActivity"
+    },
+    {
+        "app_name": "虫虫钢琴简谱",
+        "package_name": "com.chongchong.gqjianpu",
+        "file_name": "com.chongchong.gqjianpu_61.apk",
+        "app_activity": "chongchong.ui.start.StartActivity"
+    },
+    {
+        "app_name": "音频提取专家",
+        "package_name": "com.audiotools.audioeditor",
+        "file_name": "com.audiotools.audioeditor_62.apk",
+        "app_activity": "com.audiotools.audioeditor.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "FIIO Music Player",
+        "package_name": "com.fiio.music",
+        "file_name": "com.fiio.music_63.apk",
+        "app_activity": "com.fiio.music.activity.SplashActivity"
+    },
+    {
+        "app_name": "畅享免费音乐",
+        "package_name": "com.hnjmkj.enjoyplay",
+        "file_name": "com.hnjmkj.enjoyplay_64.apk",
+        "app_activity": "com.bjsk.play.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "Y2002电音",
+        "package_name": "com.blueocean.musicplayer",
+        "file_name": "com.blueocean.musicplayer_65.apk",
+        "app_activity": "com.blueocean.musicplayer.activity.app.SplashActivity"
+    },
+    {
+        "app_name": "豫剧迷",
+        "package_name": "com.couplower.yu",
+        "file_name": "com.couplower.yu_66.apk",
+        "app_activity": "com.xebec.huangmei.views.RSplashActivity"
+    },
+    {
+        "app_name": "弹琴吧",
+        "package_name": "com.tan8",
+        "file_name": "com.tan8_67.apk",
+        "app_activity": "com.tan8.ui.SplashActivity"
+    },
+    {
+        "app_name": "音乐剪辑助手",
+        "package_name": "com.smallyin.musiceditor",
+        "file_name": "com.smallyin.musiceditor_68.apk",
+        "app_activity": "com.smallyin.musiceditor.ui.SplashActivity"
+    },
+    {
+        "app_name": "小宇宙",
+        "package_name": "app.podcast.cosmos",
+        "file_name": "app.podcast.cosmos_69.apk",
+        "app_activity": "io.iftech.android.podcast.app.home.main.view.MainActivity"
+    },
+    {
+        "app_name": "戏曲多多",
+        "package_name": "com.duoduo.opera",
+        "file_name": "com.duoduo.opera_70.apk",
+        "app_activity": "com.duoduo.oldboy.ui.view.SplashActivity"
+    },
+    {
+        "app_name": "小熊调音器",
+        "package_name": "com.yunzhi.protune",
+        "file_name": "com.yunzhi.protune_71.apk",
+        "app_activity": "com.yunzhi.protune.SplashActivity"
+    },
+    {
+        "app_name": "老歌多多",
+        "package_name": "com.oaxee.ndfgychu",
+        "file_name": "com.oaxee.ndfgychu_72.apk",
+        "app_activity": "com.oaxee.ndfgychu.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "Beat Maker - DJ Drum Pad",
+        "package_name": "com.liubowang.lauchpad",
+        "file_name": "com.liubowang.lauchpad_73.apk",
+        "app_activity": "com.example.denghailong.musicpad.activity.SplashActivity"
+    },
+    {
+        "app_name": "简谱",
+        "package_name": "com.xiaoxiong.jianpu",
+        "file_name": "com.xiaoxiong.jianpu_74.apk",
+        "app_activity": "com.xiaoxiong.jianpu.ui.SplashActivity"
+    },
+    {
+        "app_name": "音频提取",
+        "package_name": "com.yuanli.mvpaudioextraction",
+        "file_name": "com.yuanli.mvpaudioextraction_75.apk",
+        "app_activity": "com.yuanli.mvpaudioextraction.mvp.ui.activity.StartPageActivity"
+    },
+    {
+        "app_name": "酷爱音乐番茄播放器",
+        "package_name": "com.bnkc.playlet.music",
+        "file_name": "com.bnkc.playlet.music_76.apk",
+        "app_activity": "com.bnkc.musics.activity.LauncherActivity"
+    },
+    {
+        "app_name": "回森",
+        "package_name": "com.kwai.hisense",
+        "file_name": "com.kwai.hisense_77.apk",
+        "app_activity": "com.kwai.sun.hisense.ui.launcher.WelcomeActivity"
+    },
+    {
+        "app_name": "Music Metronome",
+        "package_name": "com.liubowang.metronome",
+        "file_name": "com.liubowang.metronome_78.apk",
+        "app_activity": "com.example.liusheng.metronome.appBase.SplashActivity"
+    },
+    {
+        "app_name": "爱弹钢琴",
+        "package_name": "com.mera.piano",
+        "file_name": "com.mera.piano_79.apk",
+        "app_activity": "com.jingya.piano.ui.start.SplashActivity"
+    },
+    {
+        "app_name": "QQ音乐HD",
+        "package_name": "com.tencent.qqmusicpad",
+        "file_name": "com.tencent.qqmusicpad_80.apk",
+        "app_activity": "com.tencent.qqmusicpad.activity.AppStarterActivity"
+    },
+    {
+        "app_name": "HiByMusic",
+        "package_name": "com.hiby.music",
+        "file_name": "com.hiby.music_81.apk",
+        "app_activity": "com.hiby.music.Activity.StartActivity"
+    },
+    {
+        "app_name": "节拍器调音器",
+        "package_name": "com.kongshan.tuning",
+        "file_name": "com.kongshan.tuning_82.apk",
+        "app_activity": "com.kongshan.tuning.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "咪咕音乐",
+        "package_name": "cmccwm.mobilemusic",
+        "file_name": "cmccwm.mobilemusic_83.apk",
+        "app_activity": "cmccwm.mobilemusic.ui.SplashActivity"
+    },
+    {
+        "app_name": "考拉智能陪练",
+        "package_name": "com.chongchong.koalaAiTraining",
+        "file_name": "com.chongchong.koalaAiTraining_84.apk",
+        "app_activity": "chongchong.ui.start.StartActivity"
+    },
+    {
+        "app_name": "伴奏提取",
+        "package_name": "com.smallyin.accompaniment",
+        "file_name": "com.smallyin.accompaniment_85.apk",
+        "app_activity": "com.smallyin.accompaniment.ui.SplashActivity"
+    },
+    {
+        "app_name": "板凳音乐",
+        "package_name": "cn.zevun.hb.music",
+        "file_name": "cn.zevun.hb.music_86.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "钢琴演奏大师",
+        "package_name": "com.dayu.piano",
+        "file_name": "com.dayu.piano_87.apk",
+        "app_activity": "com.dayu.piano.SplashActivity2"
+    },
+    {
+        "app_name": "小阿梨AI古筝",
+        "package_name": "com.yiguzheng.ilianqin",
+        "file_name": "com.yiguzheng.ilianqin_88.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "LiberLive",
+        "package_name": "com.up.liberlive_c1",
+        "file_name": "com.up.liberlive_c1_89.apk",
+        "app_activity": "com.up.liberlive_c1.activity.SplashActivity"
+    },
+    {
+        "app_name": "MP3剪辑器",
+        "package_name": "com.example.mp3editor",
+        "file_name": "com.example.mp3editor_90.apk",
+        "app_activity": "com.example.mp3editor.domain.MainActivity"
+    },
+    {
+        "app_name": "听戏",
+        "package_name": "com.hualumedia.opera",
+        "file_name": "com.hualumedia.opera_91.apk",
+        "app_activity": "com.hualumedia.opera.act.SplashAct"
+    },
+    {
+        "app_name": "饭角",
+        "package_name": "com.fanjiao",
+        "file_name": "com.fanjiao_92.apk",
+        "app_activity": "com.fanjiao.MainActivity"
+    },
+    {
+        "app_name": "吉他调音器高精度版",
+        "package_name": "com.appaaa.guitar",
+        "file_name": "com.appaaa.guitar_93.apk",
+        "app_activity": "com.appaaa.guitar.MainActivity"
+    },
+    {
+        "app_name": "Drum Master",
+        "package_name": "com.lixiangdong.drumset",
+        "file_name": "com.lixiangdong.drumset_94.apk",
+        "app_activity": "com.example.chenxiang.simulationdrum.activity.SplashActivity"
+    },
+    {
+        "app_name": "爱听音乐播放器",
+        "package_name": "com.dingji.play",
+        "file_name": "com.dingji.play_95.apk",
+        "app_activity": "com.ldt.musicr.ui.SplashActivity"
+    },
+    {
+        "app_name": null,
+        "package_name": "com.kugou.android",
+        "file_name": "com.kugou.android_96.apk",
+        "app_activity": null
+    },
+    {
+        "app_name": "egshig",
+        "package_name": "com.ezen.ehshig",
+        "file_name": "com.ezen.ehshig_97.apk",
+        "app_activity": "com.ezen.ehshig.activity.FirstActivity"
+    },
+    {
+        "app_name": "畅听免费音乐",
+        "package_name": "com.hncj.cplay",
+        "file_name": "com.hncj.cplay_98.apk",
+        "app_activity": "com.bjsk.play.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "草莓免费音乐",
+        "package_name": "com.hncj.hplay",
+        "file_name": "com.hncj.hplay_99.apk",
+        "app_activity": "com.bjsk.play.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "架子鼓节拍器",
+        "package_name": "com.qlr8.vjf.nrhe9",
+        "file_name": "com.qlr8.vjf.nrhe9_100.apk",
+        "app_activity": "com.vr9.cv62.tvl.SplashActivity"
+    },
+    {
+        "app_name": "Sonos",
+        "package_name": "com.sonos.acr2",
+        "file_name": "com.sonos.acr2_101.apk",
+        "app_activity": "com.sonos.passport.ui.launcheractivity.LauncherActivity"
+    },
+    {
+        "app_name": "音乐播放器",
+        "package_name": "com.mera.musicplayer.guonei3",
+        "file_name": "com.mera.musicplayer.guonei3_102.apk",
+        "app_activity": "com.simplecityapps.shuttle.ui.SplashActivity"
+    },
+    {
+        "app_name": "Music Bowers and Wilkins",
+        "package_name": "com.bowerswilkins.splice",
+        "file_name": "com.bowerswilkins.splice_103.apk",
+        "app_activity": "com.bowerswilkins.splice.views.StartupView"
+    },
+    {
+        "app_name": "Classic Piano",
+        "package_name": "com.mvtrail.classicpiano.cn",
+        "file_name": "com.mvtrail.classicpiano.cn_104.apk",
+        "app_activity": "com.mvtrail.common.act.SplashActivity"
+    },
+    {
+        "app_name": "清风DJ",
+        "package_name": "com.vvvdj.player",
+        "file_name": "com.vvvdj.player_105.apk",
+        "app_activity": "com.vvvdj.player.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "Ximalaya",
+        "package_name": "com.ximalaya.ting.lite",
+        "file_name": "com.ximalaya.ting.lite_106.apk",
+        "app_activity": "com.ximalaya.ting.android.host.activity.WelComeActivity"
+    },
+    {
+        "app_name": "DJ音乐盒",
+        "package_name": "com.djbox.product",
+        "file_name": "com.djbox.product_107.apk",
+        "app_activity": "com.djbox.product.activity.LoadingActivity"
+    },
+    {
+        "app_name": "吉他世界",
+        "package_name": "com.jtsjw.guitarworld",
+        "file_name": "com.jtsjw.guitarworld_108.apk",
+        "app_activity": "com.jtsjw.guitarworld.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "Bose",
+        "package_name": "com.bose.bosemusic.china",
+        "file_name": "com.bose.bosemusic.china_109.apk",
+        "app_activity": "com.bose.bosemusic.china.base.SplashScreenActivity"
+    },
+    {
+        "app_name": "fiil+",
+        "package_name": "com.fengeek.f002",
+        "file_name": "com.fengeek.f002_110.apk",
+        "app_activity": "com.fengeek.f002.WelcomeActivity"
+    },
+    {
+        "app_name": "卡林巴拇指琴",
+        "package_name": "com.sltz.peace.kalimba",
+        "file_name": "com.sltz.peace.kalimba_111.apk",
+        "app_activity": "com.sltz.peace.kalimba.activity.MainActivity"
+    },
+    {
+        "app_name": "酷狗大字版",
+        "package_name": "com.kugou.android.elder",
+        "file_name": "com.kugou.android.elder_112.apk",
+        "app_activity": "com.kugou.android.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "律动琵琶调音器",
+        "package_name": "com.zxlstudio.pipa",
+        "file_name": "com.zxlstudio.pipa_113.apk",
+        "app_activity": "com.soundmaster.app.startup.WelcomeActivity"
+    },
+    {
+        "app_name": "民乐调音器",
+        "package_name": "com.soundmaster",
+        "file_name": "com.soundmaster_114.apk",
+        "app_activity": "com.soundmaster.app.startup.WelcomeActivity"
+    },
+    {
+        "app_name": "完美钢琴",
+        "package_name": "com.gamestar.perfectpiano",
+        "file_name": "com.gamestar.perfectpiano_115.apk",
+        "app_activity": "com.gamestar.perfectpiano.Splash"
+    },
+    {
+        "app_name": "音乐多多畅听",
+        "package_name": "com.xczx.music",
+        "file_name": "com.xczx.music_116.apk",
+        "app_activity": "com.litemob.musicmaster.ui.activity.WelcomActivity"
+    },
+    {
+        "app_name": "酷我音乐HD",
+        "package_name": "cn.kuwo.kwmusichd",
+        "file_name": "cn.kuwo.kwmusichd_117.apk",
+        "app_activity": "cn.kuwo.player.activities.EntryActivity"
+    },
+    {
+        "app_name": "Real Drum Solo",
+        "package_name": "com.mvtrail.realdrumsolo.cn",
+        "file_name": "com.mvtrail.realdrumsolo.cn_118.apk",
+        "app_activity": "com.mvtrail.common.act.SplashActivity"
+    },
+    {
+        "app_name": "音乐制作工坊",
+        "package_name": "app.allergic.musicfactory",
+        "file_name": "app.allergic.musicfactory_119.apk",
+        "app_activity": "app.allergic.musicfactory.MainActivity"
+    },
+    {
+        "app_name": "视唱练耳大师",
+        "package_name": "cn.zhiyin",
+        "file_name": "cn.zhiyin_120.apk",
+        "app_activity": "cn.activities.actsplash.ActivitySplash"
+    },
+    {
+        "app_name": "律动古琴调音器",
+        "package_name": "com.zxlstudio.guqin",
+        "file_name": "com.zxlstudio.guqin_121.apk",
+        "app_activity": "com.soundmaster.app.startup.WelcomeActivity"
+    },
+    {
+        "app_name": "酷我音乐",
+        "package_name": "cn.kuwo.player",
+        "file_name": "cn.kuwo.player_122.apk",
+        "app_activity": "cn.kuwo.player.activities.EntryActivity"
+    },
+    {
+        "app_name": "Beat Looper",
+        "package_name": "com.mvtrail.beatlooper.cn",
+        "file_name": "com.mvtrail.beatlooper.cn_123.apk",
+        "app_activity": "com.mvtrail.common.act.SplashActivity"
+    },
+    {
+        "app_name": "音悦台",
+        "package_name": "com.yinyuetai.newyyt.android",
+        "file_name": "com.yinyuetai.newyyt.android_124.apk",
+        "app_activity": "com.yinyuetai.newyyt.android.ui.SplashActivity"
+    },
+    {
+        "app_name": "来音制谱",
+        "package_name": "com.xihang.editscore",
+        "file_name": "com.xihang.editscore_125.apk",
+        "app_activity": "com.xihang.editscore.MainActivity"
+    },
+    {
+        "app_name": "全民音乐",
+        "package_name": "com.cstsmusic.people",
+        "file_name": "com.cstsmusic.people_126.apk",
+        "app_activity": "com.ts.app.flutter_music_player.MainActivity"
+    },
+    {
+        "app_name": "DJ Mixer Studio",
+        "package_name": "com.mvtrail.djmixerstudio",
+        "file_name": "com.mvtrail.djmixerstudio_127.apk",
+        "app_activity": "com.mvtrail.common.act.SplashActivity"
+    },
+    {
+        "app_name": "音频剪辑大师",
+        "package_name": "com.tingniu.audioclip",
+        "file_name": "com.tingniu.audioclip_128.apk",
+        "app_activity": "com.tingniu.audioclip.ui.SplashActivity"
+    },
+    {
+        "app_name": "番茄畅听音乐版",
+        "package_name": "com.xs.fm.lite",
+        "file_name": "com.xs.fm.lite_129.apk",
+        "app_activity": "com.dragon.read.pages.splash.SplashActivity"
+    },
+    {
+        "app_name": "古筝钢琴",
+        "package_name": "com.jack.myguzhengpiano",
+        "file_name": "com.jack.myguzhengpiano_130.apk",
+        "app_activity": "com.jack.myguzhengpiano.SplashActivity"
+    },
+    {
+        "app_name": "和弦派",
+        "package_name": "com.zhanyin.chordmate",
+        "file_name": "com.zhanyin.chordmate_131.apk",
+        "app_activity": "com.zhanyin.chordmate.MainActivity"
+    },
+    {
+        "app_name": "5sing音乐",
+        "package_name": "com.sing.client",
+        "file_name": "com.sing.client_132.apk",
+        "app_activity": "com.sing.client.splash.EntryActivity"
+    },
+    {
+        "app_name": "音乐盒子",
+        "package_name": "com.musicbanana.quick",
+        "file_name": "com.musicbanana.quick_133.apk",
+        "app_activity": "com.ts.app.flutter_music_player.MainActivity"
+    },
+    {
+        "app_name": "音乐宝盒",
+        "package_name": "com.musicplayerbnn.box",
+        "file_name": "com.musicplayerbnn.box_134.apk",
+        "app_activity": "com.ts.app.flutter_music_player.MainActivity"
+    },
+    {
+        "app_name": "全民钢琴",
+        "package_name": "com.xiyue.rong.piano",
+        "file_name": "com.xiyue.rong.piano_135.apk",
+        "app_activity": "com.sltz.peace.piano.activity.MainActivity"
+    },
+    {
+        "app_name": "FancyBeats",
+        "package_name": "com.Hash.FancyBeats",
+        "file_name": "com.Hash.FancyBeats_136.apk",
+        "app_activity": "com.example.unityandroidlibrary.MainActivity"
+    },
+    {
+        "app_name": "Audio Clip Master",
+        "package_name": "com.lixiangdong.songcutter",
+        "file_name": "com.lixiangdong.songcutter_137.apk",
+        "app_activity": "com.lixiangdong.songcutter.pro.activity.SplashAdActivity"
+    },
+    {
+        "app_name": "Audio Extractor",
+        "package_name": "com.lixiangdong.audioextrator.huawei",
+        "file_name": "com.lixiangdong.audioextrator.huawei_138.apk",
+        "app_activity": "com.lixiangdong.audioextrator.SplashAdActivity"
+    },
+    {
+        "app_name": "AudioPretty",
+        "package_name": "com.audiomix",
+        "file_name": "com.audiomix_139.apk",
+        "app_activity": "com.audiomix.framework.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "音乐播放器HiFi",
+        "package_name": "com.kk.xx.music",
+        "file_name": "com.kk.xx.music_140.apk",
+        "app_activity": "com.poupa.vinylmusicplayer.SplashActivity"
+    },
+    {
+        "app_name": "专业节拍器",
+        "package_name": "com.maoying.rhythm",
+        "file_name": "com.maoying.rhythm_141.apk",
+        "app_activity": "com.maoying.rhythm.adAvtivity.SplashActivity"
+    },
+    {
+        "app_name": "手机音频剪辑",
+        "package_name": "com.teredy.audioeditor",
+        "file_name": "com.teredy.audioeditor_142.apk",
+        "app_activity": "com.sqcatfix.emptyproject.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "咪咕音乐极速版",
+        "package_name": "cn.migu.media",
+        "file_name": "cn.migu.media_143.apk",
+        "app_activity": "com.migu.fusionmedia.ui.SplashActivity"
+    },
+    {
+        "app_name": "Muse AI",
+        "package_name": "com.xingchat.muse",
+        "file_name": "com.xingchat.muse_144.apk",
+        "app_activity": "com.atmob.music.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "快嗨DJ",
+        "package_name": "com.kuaihidjplay.product",
+        "file_name": "com.kuaihidjplay.product_145.apk",
+        "app_activity": "com.kuaihidjplay.product.MainActivity"
+    },
+    {
+        "app_name": "手机铃声制作",
+        "package_name": "com.yuanli.production",
+        "file_name": "com.yuanli.production_146.apk",
+        "app_activity": "com.yuanli.production.mvp.ui.activity.FlashActivity"
+    },
+    {
+        "app_name": "网易云音乐",
+        "package_name": "com.netease.cloudmusic",
+        "file_name": "com.netease.cloudmusic_147.apk",
+        "app_activity": "com.squareup.leakcanary.internal.DisplayLeakActivity"
+    },
+    {
+        "app_name": "手机钢琴模拟器guitar",
+        "package_name": "com.njwlh.band",
+        "file_name": "com.njwlh.band_148.apk",
+        "app_activity": "com.sqcatfix.emptyproject.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "爱音乐",
+        "package_name": "com.gwsoft.imusic.controller",
+        "file_name": "com.gwsoft.imusic.controller_149.apk",
+        "app_activity": "com.gwsoft.imusic.controller.LoadingActivity"
+    },
+    {
+        "app_name": "Bose Connect",
+        "package_name": "com.bose.monet",
+        "file_name": "com.bose.monet_150.apk",
+        "app_activity": "com.bose.monet.activity.discovery.SplashSearchingActivity"
+    },
+    {
+        "app_name": "静听音乐播放器",
+        "package_name": "com.santiao.musics",
+        "file_name": "com.santiao.musics_151.apk",
+        "app_activity": "com.santiao.musics.SplashActivity"
+    },
+    {
+        "app_name": "爱听音乐",
+        "package_name": "com.csxx.play",
+        "file_name": "com.csxx.play_152.apk",
+        "app_activity": "com.bjsk.play.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "音频剪辑lab",
+        "package_name": "com.slothtech.audiolab",
+        "file_name": "com.slothtech.audiolab_153.apk",
+        "app_activity": "com.slothtech.audiolab.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "千千动听",
+        "package_name": "com.hnjmkj.qianplay",
+        "file_name": "com.hnjmkj.qianplay_154.apk",
+        "app_activity": "com.bjsk.play.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "魔音morin",
+        "package_name": "com.wymo.yinmorinwyol",
+        "file_name": "com.wymo.yinmorinwyol_155.apk",
+        "app_activity": "com.vaudio.edit02.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "大剧院·古典",
+        "package_name": "com.ncpaclassic",
+        "file_name": "com.ncpaclassic_156.apk",
+        "app_activity": "com.km.kmbaseui.activity.AppLauncherActivity"
+    },
+    {
+        "app_name": "Tuner Cat",
+        "package_name": "com.xinmang.guitar.tuner",
+        "file_name": "com.xinmang.guitar.tuner_157.apk",
+        "app_activity": "com.xinmang.tuner.activity.SplashAdActivity"
+    },
+    {
+        "app_name": "酷狗DJ",
+        "package_name": "com.kugou.dj",
+        "file_name": "com.kugou.dj_158.apk",
+        "app_activity": "com.kugou.dj.business.SplashActivity"
+    },
+
+    {
+        "app_name": "音频剪辑神器",
+        "package_name": "com.ziyewl.ypjjsq",
+        "file_name": "com.ziyewl.ypjjsq_1.apk",
+        "app_activity": "com.jtjsb.ypbjq.controller.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "OK音乐播放器",
+        "package_name": "com.qishu.okmusic",
+        "file_name": "com.qishu.okmusic_2.apk",
+        "app_activity": "com.thsseek.music.activities.launcger.LauncherActivity"
+    },
+    {
+        "app_name": "音频提取全能王",
+        "package_name": "com.tingniu.adextraction",
+        "file_name": "com.tingniu.adextraction_3.apk",
+        "app_activity": "com.tingniu.adextraction.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "古典音乐大师作品",
+        "package_name": "com.luoyu.gudianyinyue",
+        "file_name": "com.luoyu.gudianyinyue_4.apk",
+        "app_activity": "com.luoyu.gudianyinyue.FirstActivity"
+    },
+    {
+        "app_name": "柒号古筝模拟器",
+        "package_name": "com.luoyu.guzheng",
+        "file_name": "com.luoyu.guzheng_5.apk",
+        "app_activity": "com.luoyu.guzheng.FirstActivity"
+    },
+    {
+        "app_name": "音频裁剪器",
+        "package_name": "com.csnyg.audio_edit",
+        "file_name": "com.csnyg.audio_edit_6.apk",
+        "app_activity": "com.csnyg.audio_edit.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "完美古筝",
+        "package_name": "com.sltz.peace.guzheng",
+        "file_name": "com.sltz.peace.guzheng_7.apk",
+        "app_activity": "com.sltz.peace.guzheng.activity.MainActivity"
+    },
+    {
+        "app_name": "Eddict Player",
+        "package_name": "com.shanling.eddictplayer",
+        "file_name": "com.shanling.eddictplayer_8.apk",
+        "app_activity": "com.shanling.eddictplayer.gui.Activity.SplashActivity"
+    },
+    {
+        "app_name": "手机铃声库",
+        "package_name": "com.blueocean.bell",
+        "file_name": "com.blueocean.bell_9.apk",
+        "app_activity": "com.blueocean.bell.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "Salkin",
+        "package_name": "com.ozbil.kino",
+        "file_name": "com.ozbil.kino_10.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "冥想",
+        "package_name": "com.wjcm.sleephelper",
+        "file_name": "com.wjcm.sleephelper_11.apk",
+        "app_activity": "com.wjcm.sleephelper.ui.SplashActivity"
+    },
+    {
+        "app_name": "柠乐",
+        "package_name": "com.wyny.muisesvtb",
+        "file_name": "com.wyny.muisesvtb_12.apk",
+        "app_activity": "com.sxb.new_music_edit_11.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "剪音乐",
+        "package_name": "com.guardtech.ringtoned",
+        "file_name": "com.guardtech.ringtoned_13.apk",
+        "app_activity": "com.guardtech.ringtoned.ui.SplashActivity"
+    },
+    {
+        "app_name": "右转",
+        "package_name": "com.youzhuan.music.remote.controlclient",
+        "file_name": "com.youzhuan.music.remote.controlclient_14.apk",
+        "app_activity": "com.youzhuan.music.remote.controlclient.activity.PrivacyActivity"
+    },
+    {
+        "app_name": "Maxrap",
+        "package_name": "com.migu.maxrap",
+        "file_name": "com.migu.maxrap_15.apk",
+        "app_activity": "com.migu.maxrap.activity.SplashActivity"
+    },
+    {
+        "app_name": "Joy Audio",
+        "package_name": "com.jjjs.joyaudio",
+        "file_name": "com.jjjs.joyaudio_16.apk",
+        "app_activity": "com.jjjs.joyaudio.MainActivity"
+    },
+    {
+        "app_name": "炫指钢琴",
+        "package_name": "com.wy.color.pianoblock",
+        "file_name": "com.wy.color.pianoblock_17.apk",
+        "app_activity": "com.wy.color.pianoblock.LoadingActivity"
+    },
+    {
+        "app_name": "2496",
+        "package_name": "cn.kuwo.hifi",
+        "file_name": "cn.kuwo.hifi_18.apk",
+        "app_activity": "cn.kuwo.hifi.MainActivity"
+    },
+    {
+        "app_name": "咚咚藏音",
+        "package_name": "com.dongdongyy.music",
+        "file_name": "com.dongdongyy.music_19.apk",
+        "app_activity": "com.dongdongyy.music.activity.FirstActivity"
+    },
+    {
+        "app_name": "视唱练耳",
+        "package_name": "com.luoyu.shichanglianer",
+        "file_name": "com.luoyu.shichanglianer_20.apk",
+        "app_activity": "com.luoyu.shichanglianer.FirstActivity"
+    },
+    {
+        "app_name": "静境",
+        "package_name": "com.example.ymkj_sleephelp_jinjapp",
+        "file_name": "com.example.ymkj_sleephelp_jinjapp_21.apk",
+        "app_activity": "com.example.ymkj_sleephelp_jinjapp.activity.WelcomePage_Activity"
+    },
+    {
+        "app_name": "YoDrum Pro",
+        "package_name": "com.medeli.yougupro",
+        "file_name": "com.medeli.yougupro_22.apk",
+        "app_activity": "com.medeli.yougupro.activity.SplashActivity"
+    },
+    {
+        "app_name": "爽翻吉他谱",
+        "package_name": "com.sm.sfjtp",
+        "file_name": "com.sm.sfjtp_23.apk",
+        "app_activity": "com.sm.sfjtp.splash.StartActivity"
+    },
+    {
+        "app_name": "拟声",
+        "package_name": "com.mimicry.mymusic",
+        "file_name": "com.mimicry.mymusic_24.apk",
+        "app_activity": "com.mimicry.mymusic.MainActivity"
+    },
+    {
+        "app_name": "音乐提取助手",
+        "package_name": "com.xykj.extractaudio",
+        "file_name": "com.xykj.extractaudio_25.apk",
+        "app_activity": "com.xykj.extractaudio.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "德博声学",
+        "package_name": "com.toonenum.adouble",
+        "file_name": "com.toonenum.adouble_26.apk",
+        "app_activity": "com.toonenum.adouble.ui.SplashActivity"
+    },
+    {
+        "app_name": "街声",
+        "package_name": "com.streetvoice.streetvoice.cn",
+        "file_name": "com.streetvoice.streetvoice.cn_27.apk",
+        "app_activity": "com.streetvoice.streetvoice.view.SplashActivity"
+    },
+    {
+        "app_name": "吴歌星海",
+        "package_name": "com.masterwuge.wugexinghai",
+        "file_name": "com.masterwuge.wugexinghai_28.apk",
+        "app_activity": "com.unity3d.unityconnect.plugins.activity.CustomActivity"
+    },
+    {
+        "app_name": "铃声音乐剪辑",
+        "package_name": "com.efounder.musiceditor",
+        "file_name": "com.efounder.musiceditor_29.apk",
+        "app_activity": "com.xmbvedit.vedit.WelcomeActivity"
+    },
+    {
+        "app_name": "笑话段子脱口秀大全",
+        "package_name": "com.qinqinxiong.apps.ctlaugh",
+        "file_name": "com.qinqinxiong.apps.ctlaugh_30.apk",
+        "app_activity": "com.qinqinxiong.apps.ctlaugh.ui.SplashActivity"
+    },
+    {
+        "app_name": "音乐截取",
+        "package_name": "com.yzwl.yyjq",
+        "file_name": "com.yzwl.yyjq_31.apk",
+        "app_activity": "com.yzwl.yyjq.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "HiBy Blue",
+        "package_name": "com.hiby.blue",
+        "file_name": "com.hiby.blue_32.apk",
+        "app_activity": "com.hiby.blue.Activity.StartActivity"
+    },
+    {
+        "app_name": "钢琴巴士",
+        "package_name": "com.aimanthor.pianobus",
+        "file_name": "com.aimanthor.pianobus_33.apk",
+        "app_activity": "com.aimanthor.pianobus.MainActivity"
+    },
+    {
+        "app_name": "轻音社极速版",
+        "package_name": "com.facetech.konfast",
+        "file_name": "com.facetech.konfast_34.apk",
+        "app_activity": "com.facetech.konfast.MainActivity"
+    },
+    {
+        "app_name": "iReal Pro",
+        "package_name": "com.massimobiolcati.irealb",
+        "file_name": "com.massimobiolcati.irealb_35.apk",
+        "app_activity": "com.massimobiolcati.irealb.startup.StartupActivity"
+    },
+    {
+        "app_name": "DJ音乐盒车机",
+        "package_name": "com.djbox.car",
+        "file_name": "com.djbox.car_37.apk",
+        "app_activity": "com.djbox.car.activity.LoadingActivity"
+    },
+    {
+        "app_name": "音频提取剪辑",
+        "package_name": "com.liuniantech.yinpin",
+        "file_name": "com.liuniantech.yinpin_38.apk",
+        "app_activity": "com.liuniantech.yinpin.activity.LaunchActivity"
+    },
+    {
+        "app_name": "好童声",
+        "package_name": "com.client.haotongle",
+        "file_name": "com.client.haotongle_39.apk",
+        "app_activity": "com.client.haotongle.SplashActivity"
+    },
+    {
+        "app_name": "趣剪音乐剪辑",
+        "package_name": "com.chengjiasen.musiceditor",
+        "file_name": "com.chengjiasen.musiceditor_40.apk",
+        "app_activity": "com.chengjiasen.musiceditor.module.home.SplashActivity"
+    },
+    {
+        "app_name": "声场",
+        "package_name": "com.sound.stage",
+        "file_name": "com.sound.stage_41.apk",
+        "app_activity": "com.lib_login.splash.SplashActivity"
+    },
+    {
+        "app_name": "MyClub",
+        "package_name": "com.ximalaya.chitchat",
+        "file_name": "com.ximalaya.chitchat_42.apk",
+        "app_activity": "com.chitchat.ting.android.host.activity.WelComeActivity"
+    },
+    {
+        "app_name": "京剧迷",
+        "package_name": "com.couplower.jing",
+        "file_name": "com.couplower.jing_43.apk",
+        "app_activity": "com.xebec.huangmei.views.RSplashActivity"
+    },
+    {
+        "app_name": "评剧迷",
+        "package_name": "com.couplower.ping",
+        "file_name": "com.couplower.ping_44.apk",
+        "app_activity": "com.xebec.huangmei.views.RSplashActivity"
+    },
+    {
+        "app_name": "EX音乐播放器",
+        "package_name": "com.lvxingetch.musicplayer",
+        "file_name": "com.lvxingetch.musicplayer_45.apk",
+        "app_activity": "com.thsseek.music.activities.launcger.LauncherActivity"
+    },
+    {
+        "app_name": "全民演奏家",
+        "package_name": "com.gamsing.performer",
+        "file_name": "com.gamsing.performer_46.apk",
+        "app_activity": "com.gamsing.performer.MainActivity"
+    },
+    {
+        "app_name": "铃声秀",
+        "package_name": "com.qisi.phonering",
+        "file_name": "com.qisi.phonering_47.apk",
+        "app_activity": "com.qisi.phonering.activity.SplashActivity"
+    },
+    {
+        "app_name": "DJ串烧集",
+        "package_name": "com.blueocean.extensionfour",
+        "file_name": "com.blueocean.extensionfour_48.apk",
+        "app_activity": "com.blueocean.extensionfour.activity.SplashActivity"
+    },
+    {
+        "app_name": "打碟鼓",
+        "package_name": "com.audio.moj",
+        "file_name": "com.audio.moj_49.apk",
+        "app_activity": "com.audio.moj.splash.SplashActivity"
+    },
+    {
+        "app_name": "Light Player",
+        "package_name": "com.zzqweb.lightplayer",
+        "file_name": "com.zzqweb.lightplayer_50.apk",
+        "app_activity": "com.zzqweb.light_player.StartActivity"
+    },
+    {
+        "app_name": "兔U",
+        "package_name": "com.miyue.bunnyu.bunnyu",
+        "file_name": "com.miyue.bunnyu.bunnyu_51.apk",
+        "app_activity": "com.ryanheise.audioservice.AudioServiceActivity"
+    },
+    {
+        "app_name": "友乐谱",
+        "package_name": "com.medeli.yodrumscorelibrary",
+        "file_name": "com.medeli.yodrumscorelibrary_52.apk",
+        "app_activity": "com.medeli.yodrumscorelibrary.splash.SplashActivity"
+    },
+    {
+        "app_name": "MusicLab",
+        "package_name": "vocalremover.musicmaker.audioeditor.djmix.musiclab",
+        "file_name": "vocalremover.musicmaker.audioeditor.djmix.musiclab_53.apk",
+        "app_activity": "vocalremover.musicmaker.audioeditor.djmix.musiclab.page.SplashActivity"
+    },
+    {
+        "app_name": "音频剪辑编辑器",
+        "package_name": "com.tools.zhjun.audioeditor",
+        "file_name": "com.tools.zhjun.audioeditor_54.apk",
+        "app_activity": "com.tools.zhjun.audioeditor.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "柒号古琴模拟器",
+        "package_name": "com.luoyu.guqin",
+        "file_name": "com.luoyu.guqin_55.apk",
+        "app_activity": "com.luoyu.guqin.FirstActivity"
+    },
+    {
+        "app_name": "maxraptv麦西来甫",
+        "package_name": "com.mymaxrap.app",
+        "file_name": "com.mymaxrap.app_56.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "音频工具箱",
+        "package_name": "com.xmsoft.audiomtool",
+        "file_name": "com.xmsoft.audiomtool_57.apk",
+        "app_activity": "com.xmsoft.audiomtool.ui.QiDongActivity"
+    },
+    {
+        "app_name": "吉他谱搜索",
+        "package_name": "com.mw2c.guitartabsearch",
+        "file_name": "com.mw2c.guitartabsearch_58.apk",
+        "app_activity": "com.mw2c.guitartabsearch.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "音频剪辑器",
+        "package_name": "com.xmy.audioclipper",
+        "file_name": "com.xmy.audioclipper_59.apk",
+        "app_activity": "com.xmbvedit.vedit.WelcomeActivity"
+    },
+    {
+        "app_name": "最DJ",
+        "package_name": "com.blueocean.extensiontwo",
+        "file_name": "com.blueocean.extensiontwo_60.apk",
+        "app_activity": "com.blueocean.extensiontwo.activity.SplashActivity"
+    },
+    {
+        "app_name": "黄梅迷",
+        "package_name": "com.xebec.huangmei",
+        "file_name": "com.xebec.huangmei_61.apk",
+        "app_activity": "com.xebec.huangmei.views.RSplashActivity"
+    },
+    {
+        "app_name": "星斗推",
+        "package_name": "com.lian.cheng.ju",
+        "file_name": "com.lian.cheng.ju_62.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "Clarii",
+        "package_name": "com.robkoo.clarii",
+        "file_name": "com.robkoo.clarii_63.apk",
+        "app_activity": "com.robkoo.clarii.main.MainActivity"
+    },
+    {
+        "app_name": "合奏吧",
+        "package_name": "com.lxkj.yinyuehezou",
+        "file_name": "com.lxkj.yinyuehezou_64.apk",
+        "app_activity": "com.lxkj.yinyuehezou.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "音频音乐剪辑器",
+        "package_name": "com.qihekj.audioclip",
+        "file_name": "com.qihekj.audioclip_65.apk",
+        "app_activity": "com.xinqidian.adcommon.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "听晓",
+        "package_name": "uni.UNI19870E1",
+        "file_name": "uni.UNI19870E1_66.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "iBliss",
+        "package_name": "com.starmax.ibliss",
+        "file_name": "com.starmax.ibliss_67.apk",
+        "app_activity": "com.starmax.ibliss.LaunchActivity"
+    },
+    {
+        "app_name": "节拍器专家",
+        "package_name": "com.twx.metronome",
+        "file_name": "com.twx.metronome_68.apk",
+        "app_activity": "com.chenxing.module_ad.StartPageActivity"
+    },
+    {
+        "app_name": "JamKoo",
+        "package_name": "com.robkoo.jamkoo",
+        "file_name": "com.robkoo.jamkoo_69.apk",
+        "app_activity": "com.robkoo.jamkoo.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "Vocal Remover Pro",
+        "package_name": "vocal.remover.backing.tracks.acapella.extractor.song.maker",
+        "file_name": "vocal.remover.backing.tracks.acapella.extractor.song.maker_70.apk",
+        "app_activity": "vocal.remover.backing.tracks.acapella.extractor.song.maker.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "节拍器王",
+        "package_name": "com.baixing.metronome",
+        "file_name": "com.baixing.metronome_72.apk",
+        "app_activity": "com.baixing.metronome.activity.LaunchActivity"
+    },
+    {
+        "app_name": "foobar音乐播放器",
+        "package_name": "com.fottar.pkewgd",
+        "file_name": "com.fottar.pkewgd_73.apk",
+        "app_activity": "com.fwlst.module_splash.SplashActivity"
+    },
+    {
+        "app_name": "55Y音乐社区",
+        "package_name": "com.wuyin55y.app",
+        "file_name": "com.wuyin55y.app_74.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "为爱写歌",
+        "package_name": "com.yinliai.imusic",
+        "file_name": "com.yinliai.imusic_75.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "吴歌",
+        "package_name": "com.guangyaowuge",
+        "file_name": "com.guangyaowuge_76.apk",
+        "app_activity": "com.guangyaowuge.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "美梦睡眠",
+        "package_name": "com.geetol.fond.dream",
+        "file_name": "com.geetol.fond.dream_77.apk",
+        "app_activity": "com.geetol_talen.geetol_sleep.WelcomeActivity"
+    },
+    {
+        "app_name": "DACOM",
+        "package_name": "com.wl.dacom",
+        "file_name": "com.wl.dacom_78.apk",
+        "app_activity": "com.wl.dacom.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "傣族基地",
+        "package_name": "w2a.W2Awww.xsbndxt.cn",
+        "file_name": "w2a.W2Awww.xsbndxt.cn_79.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "Lotoo Remote",
+        "package_name": "cn.com.infomedia.pawone",
+        "file_name": "cn.com.infomedia.pawone_80.apk",
+        "app_activity": "cn.com.infomedia.pawone.MainActivity"
+    },
+    {
+        "app_name": "Real classical Guitar",
+        "package_name": "com.mvtrail.realclassicalguitar.cn",
+        "file_name": "com.mvtrail.realclassicalguitar.cn_81.apk",
+        "app_activity": "com.mvtrail.common.act.SplashActivity"
+    },
+    {
+        "app_name": "娱当家",
+        "package_name": "com.yuyin.ydjapp",
+        "file_name": "com.yuyin.ydjapp_82.apk",
+        "app_activity": "com.yuyin.ydjapp.pages.login.view.LauncherActivity"
+    },
+    {
+        "app_name": "口袋音频剪辑",
+        "package_name": "com.androidemu.gbapmblack",
+        "file_name": "com.androidemu.gbapmblack_83.apk",
+        "app_activity": "com.androidemu.gbapmblack.ui.SplashActivity"
+    },
+    {
+        "app_name": "古筝世界",
+        "package_name": "com.rhythm.dance.gz",
+        "file_name": "com.rhythm.dance.gz_84.apk",
+        "app_activity": "com.rhythm.dance.gz.MainActivity"
+    },
+    {
+        "app_name": "Subat",
+        "package_name": "cn.subat.music",
+        "file_name": "cn.subat.music_85.apk",
+        "app_activity": "cn.subat.music.activity.SPHomeActivity"
+    },
+    {
+        "app_name": "视频音频提取器",
+        "package_name": "com.qihakeji.videoparsemusic",
+        "file_name": "com.qihakeji.videoparsemusic_86.apk",
+        "app_activity": "com.xinqidian.adcommon.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "乐纯音乐播放器",
+        "package_name": "com.yuehao.ycmusicplayer",
+        "file_name": "com.yuehao.ycmusicplayer_87.apk",
+        "app_activity": "com.yuehao.app.ycmusicplayer.ads.WelcomeActivity"
+    },
+    {
+        "app_name": "Lotoo Pico",
+        "package_name": "com.infomedia.lotoopico1",
+        "file_name": "com.infomedia.lotoopico1_88.apk",
+        "app_activity": "com.infomedia.lotoopico1.logoacivity.LogoActivity"
+    },
+    {
+        "app_name": "海星试唱",
+        "package_name": "com.hikoon.hising",
+        "file_name": "com.hikoon.hising_89.apk",
+        "app_activity": "com.hikoon.hising.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "若可音乐",
+        "package_name": "com.rocoplayer.app",
+        "file_name": "com.rocoplayer.app_90.apk",
+        "app_activity": "com.rocoplayer.app.activity.SplashActivity"
+    },
+    {
+        "app_name": "吉他调音和弦教程",
+        "package_name": "com.luoyu.guitar",
+        "file_name": "com.luoyu.guitar_91.apk",
+        "app_activity": "com.luoyu.guitar.FirstActivity"
+    },
+    {
+        "app_name": "ASMR",
+        "package_name": "com.kx.asmr",
+        "file_name": "com.kx.asmr_92.apk",
+        "app_activity": "com.kx.asmr.ui.SplashActivity"
+    },
+    {
+        "app_name": "昆曲迷",
+        "package_name": "com.couplower.kun",
+        "file_name": "com.couplower.kun_93.apk",
+        "app_activity": "com.xebec.huangmei.views.RSplashActivity"
+    },
+    {
+        "app_name": "川剧迷",
+        "package_name": "com.couplower.chuan",
+        "file_name": "com.couplower.chuan_94.apk",
+        "app_activity": "com.xebec.huangmei.views.RSplashActivity"
+    },
+    {
+        "app_name": "粤剧迷",
+        "package_name": "com.couplower.guang",
+        "file_name": "com.couplower.guang_95.apk",
+        "app_activity": "com.xebec.huangmei.views.RSplashActivity"
+    },
+    {
+        "app_name": "中唱音乐",
+        "package_name": "com.crconline.music",
+        "file_name": "com.crconline.music_96.apk",
+        "app_activity": "com.crconline.music.ui.page.splash.SplashActivity"
+    },
+    {
+        "app_name": "二胡调音器-邹晖代言",
+        "package_name": "com.zxlstudio.erhu",
+        "file_name": "com.zxlstudio.erhu_97.apk",
+        "app_activity": "com.soundmaster.app.startup.WelcomeActivity"
+    },
+    {
+        "app_name": "宝耳",
+        "package_name": "com.baoear.baoer",
+        "file_name": "com.baoear.baoer_98.apk",
+        "app_activity": "com.baoer.baoji.activity.SplashActivity"
+    },
+    {
+        "app_name": "DS Music+",
+        "package_name": "com.beanfactory.ds.music.DSMusic",
+        "file_name": "com.beanfactory.ds.music.DSMusic_99.apk",
+        "app_activity": "com.physics.reader.ui.MainActivity"
+    },
+    {
+        "app_name": "多多音乐",
+        "package_name": "com.musictools.all",
+        "file_name": "com.musictools.all_100.apk",
+        "app_activity": "com.ts.app.flutter_music_player.MainActivity"
+    },
+    {
+        "app_name": "智能音频提取器",
+        "package_name": "com.xwyapp.smtauextract",
+        "file_name": "com.xwyapp.smtauextract_101.apk",
+        "app_activity": "com.xwyapp.smtauextract.WecomeActivity"
+    },
+    {
+        "app_name": "酷玩乐队",
+        "package_name": "com.yinda.kuwanband",
+        "file_name": "com.yinda.kuwanband_102.apk",
+        "app_activity": "com.yinda.rhythm.UnityPlayerExtendActivity"
+    },
+    {
+        "app_name": "美得理钢琴助手",
+        "package_name": "com.medeli.sppiano",
+        "file_name": "com.medeli.sppiano_103.apk",
+        "app_activity": "com.medeli.sppiano.activity.SplashActivity"
+    },
+    {
+        "app_name": "友鼓轻松学",
+        "package_name": "com.medeli.YouguAssistant",
+        "file_name": "com.medeli.YouguAssistant_104.apk",
+        "app_activity": "com.medeli.YouguAssistant.activity.SplashActivity"
+    },
+    {
+        "app_name": "柒号小提琴",
+        "package_name": "com.luoyu.violin",
+        "file_name": "com.luoyu.violin_105.apk",
+        "app_activity": "com.luoyu.violin.FirstActivity"
+    },
+    {
+        "app_name": "弹弹钢琴",
+        "package_name": "com.quartet.piano",
+        "file_name": "com.quartet.piano_106.apk",
+        "app_activity": "com.pianolog.android.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "录音剪辑大师",
+        "package_name": "com.xuanmutech.luyin",
+        "file_name": "com.xuanmutech.luyin_107.apk",
+        "app_activity": "com.liuniantech.luyin.activities.SplashActivity"
+    },
+    {
+        "app_name": "律动扬琴调音器",
+        "package_name": "com.zxlstudio.yangqin",
+        "file_name": "com.zxlstudio.yangqin_108.apk",
+        "app_activity": "com.soundmaster.app.startup.WelcomeActivity"
+    },
+    {
+        "app_name": "律动竹笛调音器",
+        "package_name": "com.zxlstudio.zhudi",
+        "file_name": "com.zxlstudio.zhudi_109.apk",
+        "app_activity": "com.soundmaster.app.startup.WelcomeActivity"
+    },
+    {
+        "app_name": "MZ Buddy",
+        "package_name": "com.medeli.galaxy",
+        "file_name": "com.medeli.galaxy_110.apk",
+        "app_activity": "com.medeli.galaxy.TransparentActivity"
+    },
+    {
+        "app_name": "亦听",
+        "package_name": "com.eigentunes.eigentunes",
+        "file_name": "com.eigentunes.eigentunes_111.apk",
+        "app_activity": "com.eigentunes.eigentunes.MainActivity"
+    },
+    {
+        "app_name": "柒号尤克里里",
+        "package_name": "com.luoyu.ukulele",
+        "file_name": "com.luoyu.ukulele_112.apk",
+        "app_activity": "com.luoyu.ukulele.FirstActivity"
+    },
+    {
+        "app_name": "真实钢琴",
+        "package_name": "com.luoyu.gangqin",
+        "file_name": "com.luoyu.gangqin_113.apk",
+        "app_activity": "com.luoyu.gangqin.FirstActivity"
+    },
+    {
+        "app_name": "Natasha Guitar",
+        "package_name": "com.toonenum.natasha",
+        "file_name": "com.toonenum.natasha_114.apk",
+        "app_activity": "com.toonenum.natasha.ui.SplashActivity"
+    },
+    {
+        "app_name": "音频编辑助手",
+        "package_name": "com.fblhb.makexaudio",
+        "file_name": "com.fblhb.makexaudio_115.apk",
+        "app_activity": "com.fblhb.makexaudio.launcher.StartActivity"
+    },
+    {
+        "app_name": "AeroBand Guitar",
+        "package_name": "com.aeroband.aeroguitar",
+        "file_name": "com.aeroband.aeroguitar_116.apk",
+        "app_activity": "com.unity3d.player.UnityPlayerActivity"
+    },
+    {
+        "app_name": "旋鹿钢琴",
+        "package_name": "com.ylx.xlgq",
+        "file_name": "com.ylx.xlgq_117.apk",
+        "app_activity": "com.ylx.xlgq.MainActivity"
+    },
+    {
+        "app_name": "云赏HIFI",
+        "package_name": "com.imusic.tianlaiyunting",
+        "file_name": "com.imusic.tianlaiyunting_118.apk",
+        "app_activity": "com.imusic.tianlaiyunting.ui.LoadingActivity"
+    },
+    {
+        "app_name": "小提琴校音器",
+        "package_name": "com.lingxinstudio.violintuner",
+        "file_name": "com.lingxinstudio.violintuner_119.apk",
+        "app_activity": "com.lingxinstudio.violintuner.startup.LingXinStartupActivity"
+    },
+    {
+        "app_name": "Music Maker",
+        "package_name": "music.f2bcutter.mp3editor",
+        "file_name": "music.f2bcutter.mp3editor_120.apk",
+        "app_activity": "com.cody.supads.activity.StartActivity"
+    },
+    {
+        "app_name": "音频剪辑乐",
+        "package_name": "company.szkj.musiccut",
+        "file_name": "company.szkj.musiccut_121.apk",
+        "app_activity": "company.szkj.usersystem.USFirstAlertActivity"
+    },
+    {
+        "app_name": "音频提取器编辑器",
+        "package_name": "com.twx.audio",
+        "file_name": "com.twx.audio_122.apk",
+        "app_activity": "com.weilai.audio.begin.BeginViewActivity"
+    },
+    {
+        "app_name": "音频提取助手",
+        "package_name": "com.kongshan.audiopick",
+        "file_name": "com.kongshan.audiopick_123.apk",
+        "app_activity": "com.kongshan.audiopick.ui.SplashActivity"
+    },
+    {
+        "app_name": "吉他调音器专业版",
+        "package_name": "com.i10.y6nx9.ro8",
+        "file_name": "com.i10.y6nx9.ro8_124.apk",
+        "app_activity": "com.zqez.h07y.hhiu.SplashActivity"
+    }
+
+]

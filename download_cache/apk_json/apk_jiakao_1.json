@@ -1,0 +1,2006 @@
+[
+    {
+        "app_name": "摩托车驾照一点通",
+        "package_name": "com.iixhhfbr.agvqkxp",
+        "file_name": "com.iixhhfbr.agvqkxp_1.apk",
+        "app_activity": "com.iixhhfbr.agvqkxp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "多多驾到管理版",
+        "package_name": "com.doron.xueche.emp",
+        "file_name": "com.doron.xueche.emp_2.apk",
+        "app_activity": "com.doron.xueche.emp.ui.activity.PrivacyAgreementActivity"
+    },
+    {
+        "app_name": "多多驾到",
+        "package_name": "com.doron.xueche.stu",
+        "file_name": "com.doron.xueche.stu_3.apk",
+        "app_activity": "com.doron.xueche.stu.mvp.ui.activity.LaunchActivity"
+    },
+    {
+        "app_name": "驾考学车宝",
+        "package_name": "com.xalnrj.jkxcb",
+        "file_name": "com.xalnrj.jkxcb_4.apk",
+        "app_activity": "io.openinstall.unity.OiUnityActivity"
+    },
+    {
+        "app_name": "驾考宝典客货车",
+        "package_name": "kehuo.app.good",
+        "file_name": "kehuo.app.good_5.apk",
+        "app_activity": "com.handsgo.jiakao.android.splash.SplashActivity"
+    },
+    {
+        "app_name": "考驾照宝",
+        "package_name": "com.weilaihong.jiakao",
+        "file_name": "com.weilaihong.jiakao_6.apk",
+        "app_activity": "com.weilaihong.jiakao.MainActivity"
+    },
+    {
+        "app_name": "每日趣刷",
+        "package_name": "com.zswl.mrqs",
+        "file_name": "com.zswl.mrqs_7.apk",
+        "app_activity": "com.jingling.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "驾校驾考科目一",
+        "package_name": "com.xygy.cafuc",
+        "file_name": "com.xygy.cafuc_8.apk",
+        "app_activity": "com.chenghui.jiaxiao.campus.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "驾校一点通极速版",
+        "package_name": "com.jxedt.kms",
+        "file_name": "com.jxedt.kms_9.apk",
+        "app_activity": "com.jxedt.ui.activitys.GuideActivity"
+    },
+    {
+        "app_name": "驾校一点通科目一",
+        "package_name": "com.jxedt.kmy",
+        "file_name": "com.jxedt.kmy_10.apk",
+        "app_activity": "com.jxedt.ui.activitys.GuideActivity"
+    },
+    {
+        "app_name": "摩托驾考宝",
+        "package_name": "com.nhkj666.mtjkb",
+        "file_name": "com.nhkj666.mtjkb_11.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "一起考驾照",
+        "package_name": "com.njbmtech.yqkjz",
+        "file_name": "com.njbmtech.yqkjz_12.apk",
+        "app_activity": "com.njbmtech.yqkjz.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "驾校教练通",
+        "package_name": "com.bofsoft.jxjlt",
+        "file_name": "com.bofsoft.jxjlt_13.apk",
+        "app_activity": "com.bofsoft.jxjlt.SplashActivity"
+    },
+    {
+        "app_name": "驾考全面通",
+        "package_name": "com.bofsoft.jxxyt",
+        "file_name": "com.bofsoft.jxxyt_14.apk",
+        "app_activity": "com.bofsoft.jxxyt.SplashActivity"
+    },
+    {
+        "app_name": "学法减分助理",
+        "package_name": "com.ydxajn.kpnccys",
+        "file_name": "com.ydxajn.kpnccys_15.apk",
+        "app_activity": "com.ydxajn.kpnccys.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "准橙三力测试",
+        "package_name": "com.zcyks.slcs",
+        "file_name": "com.zcyks.slcs_16.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "准橙学法减分",
+        "package_name": "com.zcyks.xfjf",
+        "file_name": "com.zcyks.xfjf_17.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "极速驾培",
+        "package_name": "com.jsjp.student",
+        "file_name": "com.jsjp.student_18.apk",
+        "app_activity": "com.jsjp.student.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "摩托车驾考全题库",
+        "package_name": "com.csquanyan.mtcjk",
+        "file_name": "com.csquanyan.mtcjk_19.apk",
+        "app_activity": "com.moto.test.splash.SplashActivity"
+    },
+    {
+        "app_name": "车轮驾考通",
+        "package_name": "cn.eclicks.drivingtest",
+        "file_name": "cn.eclicks.drivingtest_20.apk",
+        "app_activity": "cn.eclicks.drivingtest.StartPageActivity"
+    },
+    {
+        "app_name": "多多驾管",
+        "package_name": "com.doron.xueche.school",
+        "file_name": "com.doron.xueche.school_21.apk",
+        "app_activity": "com.doron.xueche.school.ui.SplashActivity"
+    },
+    {
+        "app_name": "疯狂考驾照",
+        "package_name": "www.csd.jia.kao",
+        "file_name": "www.csd.jia.kao_22.apk",
+        "app_activity": "com.zy.app.cxappcollection.activity.CXLaunchActivity"
+    },
+    {
+        "app_name": "驾考学法减分",
+        "package_name": "com.iqbph.cgzei",
+        "file_name": "com.iqbph.cgzei_23.apk",
+        "app_activity": "com.iqbph.cgzei.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "驾考驾照考试模拟器",
+        "package_name": "com.Drivingtest.ks",
+        "file_name": "com.Drivingtest.ks_24.apk",
+        "app_activity": "com.zy.fyappcollection.activity.LauncherActivity"
+    },
+    {
+        "app_name": "驾考万能官",
+        "package_name": "com.jkwnguan.dec",
+        "file_name": "com.jkwnguan.dec_25.apk",
+        "app_activity": "com.jkwnguan.dec.page.SplashActivity"
+    },
+    {
+        "app_name": "学法减分通",
+        "package_name": "com.youmahao.youxue",
+        "file_name": "com.youmahao.youxue_26.apk",
+        "app_activity": "com.youmahao.xieyisheding.YinsixyActivity"
+    },
+    {
+        "app_name": "驾照宝",
+        "package_name": "com.minshiting.driver",
+        "file_name": "com.minshiting.driver_27.apk",
+        "app_activity": "com.minshiting.driver.MainActivity"
+    },
+    {
+        "app_name": "风车驾考",
+        "package_name": "com.amoycode.jiakao",
+        "file_name": "com.amoycode.jiakao_28.apk",
+        "app_activity": "com.example.windmill_driving_exam.MainActivity"
+    },
+    {
+        "app_name": "米优驾",
+        "package_name": "uni.UNIB905BEE",
+        "file_name": "uni.UNIB905BEE_29.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "驾照考试宝",
+        "package_name": "com.csshidu.jzksb",
+        "file_name": "com.csshidu.jzksb_30.apk",
+        "app_activity": "com.moto.test.splash.SplashActivity"
+    },
+    {
+        "app_name": "练习学车宝典",
+        "package_name": "cn.cnycp.drivilicense",
+        "file_name": "cn.cnycp.drivilicense_31.apk",
+        "app_activity": "cn.cnycp.drivilicense.activity.SplashActivity"
+    },
+    {
+        "app_name": "学驾考一件事",
+        "package_name": "com.aobo.systemjx",
+        "file_name": "com.aobo.systemjx_32.apk",
+        "app_activity": "com.aobo.systemjx.mvvm.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "迅达克驾考",
+        "package_name": "com.jx5cc.app",
+        "file_name": "com.jx5cc.app_33.apk",
+        "app_activity": "com.jx5cc.app.MainActivity"
+    },
+    {
+        "app_name": "易通宝典",
+        "package_name": "com.ytjx138.yu",
+        "file_name": "com.ytjx138.yu_34.apk",
+        "app_activity": "com.lt.app.MainActivity"
+    },
+    {
+        "app_name": "驾考理论培训",
+        "package_name": "com.qixinginc.jiakao",
+        "file_name": "com.qixinginc.jiakao_35.apk",
+        "app_activity": "com.qixinginc.jiakao.ui.IndexActivity"
+    },
+    {
+        "app_name": "学法减分全能王",
+        "package_name": "com.bolanw1.xfjfqnw",
+        "file_name": "com.bolanw1.xfjfqnw_36.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "驾考通驾照考试",
+        "package_name": "com.ggeye.jiakao.api",
+        "file_name": "com.ggeye.jiakao.api_37.apk",
+        "app_activity": "com.ggeye.jiakao.api.Page_Index"
+    },
+    {
+        "app_name": "橙子学车",
+        "package_name": "com.chengzixueche",
+        "file_name": "com.chengzixueche_38.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "驾考考试宝",
+        "package_name": "com.jumobile.uy.jiakao",
+        "file_name": "com.jumobile.uy.jiakao_39.apk",
+        "app_activity": "com.zy.app.devappcollection.SplashActivity"
+    },
+    {
+        "app_name": "摩托车驾照精灵",
+        "package_name": "com.tanyun.mtcjkydt",
+        "file_name": "com.tanyun.mtcjkydt_40.apk",
+        "app_activity": "com.moto.test.splash.SplashActivity"
+    },
+    {
+        "app_name": "元贝教练",
+        "package_name": "com.runbey.ybjkcoach",
+        "file_name": "com.runbey.ybjkcoach_41.apk",
+        "app_activity": "com.runbey.ybjkcoach.WelcomeActivity"
+    },
+    {
+        "app_name": "驾车一点通",
+        "package_name": "com.renyi.drivingmanual",
+        "file_name": "com.renyi.drivingmanual_42.apk",
+        "app_activity": "com.renyi.drivingmanual.activity.SplashActivity"
+    },
+    {
+        "app_name": "简易驾考",
+        "package_name": "com.twolang.easydriving",
+        "file_name": "com.twolang.easydriving_43.apk",
+        "app_activity": "com.twolang.easydriving.mod_main.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "无敌驾考",
+        "package_name": "com.csxh.driveinvincible",
+        "file_name": "com.csxh.driveinvincible_44.apk",
+        "app_activity": "com.cssq.drivingtest.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "驾考速通宝",
+        "package_name": "com.tsdrivingtest.cloud",
+        "file_name": "com.tsdrivingtest.cloud_45.apk",
+        "app_activity": "com.cssq.drivingtest.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "教练精灵",
+        "package_name": "com.zgf.jkjl_ter",
+        "file_name": "com.zgf.jkjl_ter_46.apk",
+        "app_activity": "com.zgf.jkjl_ter.StartActivity"
+    },
+    {
+        "app_name": "大众学车",
+        "package_name": "com.edu.dzxc",
+        "file_name": "com.edu.dzxc_47.apk",
+        "app_activity": "com.edu.dzxc.mvp.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "学法减分拍照答题神器",
+        "package_name": "xyz.yjisi.jiakao",
+        "file_name": "xyz.yjisi.jiakao_48.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "齐驭行",
+        "package_name": "com.ruichuangqitian.qiyuxing",
+        "file_name": "com.ruichuangqitian.qiyuxing_49.apk",
+        "app_activity": "com.unity3d.player.UnityPlayerActivity"
+    },
+    {
+        "app_name": "摩托驾考题库",
+        "package_name": "com.rjiang.mtjktk",
+        "file_name": "com.rjiang.mtjktk_50.apk",
+        "app_activity": "com.moto.test.splash.SplashActivity"
+    },
+    {
+        "app_name": "天天学车",
+        "package_name": "com.tiantiandriving.ttxc",
+        "file_name": "com.tiantiandriving.ttxc_51.apk",
+        "app_activity": "com.tiantiandriving.ttxc.activity.StartActivity"
+    },
+    {
+        "app_name": "学法减分1",
+        "package_name": "com.shandongyouma.tidian",
+        "file_name": "com.shandongyouma.tidian_52.apk",
+        "app_activity": "com.shandongyouma.xieyisheding.YinsixyActivity"
+    },
+    {
+        "app_name": "准橙摩托车考试",
+        "package_name": "com.zcyks.mtcks",
+        "file_name": "com.zcyks.mtcks_53.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "驾考满分通",
+        "package_name": "com.jkmanfento.dew",
+        "file_name": "com.jkmanfento.dew_54.apk",
+        "app_activity": "com.jkmanfento.dew.page.SplashActivity"
+    },
+    {
+        "app_name": "米度驾照考试",
+        "package_name": "com.jiakao.bd",
+        "file_name": "com.jiakao.bd_55.apk",
+        "app_activity": "com.midu.drivertest.MainActivity"
+    },
+    {
+        "app_name": "驾考100",
+        "package_name": "com.youma.jiakaoxinone",
+        "file_name": "com.youma.jiakaoxinone_56.apk",
+        "app_activity": "com.youma.xieyisheding.YinsixyActivity"
+    },
+    {
+        "app_name": "驾照考试管家",
+        "package_name": "com.syezon.lgaq",
+        "file_name": "com.syezon.lgaq_57.apk",
+        "app_activity": "com.zy.app.devappcollection.SplashActivity"
+    },
+    {
+        "app_name": "学法减分扫答案",
+        "package_name": "com.jl.scan_answers",
+        "file_name": "com.jl.scan_answers_58.apk",
+        "app_activity": "com.jl_scan_answers.mvc.SplashActivity"
+    },
+    {
+        "app_name": "驾校百事通",
+        "package_name": "com.genji.jxbst",
+        "file_name": "com.genji.jxbst_59.apk",
+        "app_activity": "com.genji.jiaxiaobaishitongcomprehensive.activity.SplashActivity"
+    },
+    {
+        "app_name": "车科四科一考试",
+        "package_name": "grtqb.com",
+        "file_name": "grtqb.com_60.apk",
+        "app_activity": "com.zy.app.cxappcollection.activity.CXFirstActivity"
+    },
+    {
+        "app_name": "驾考模",
+        "package_name": "mnh.wvd.zop",
+        "file_name": "mnh.wvd.zop_61.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "驾考助手",
+        "package_name": "jiakaozhushou.app.good",
+        "file_name": "jiakaozhushou.app.good_62.apk",
+        "app_activity": "com.handsgo.jiakao.android.splash.SplashActivity"
+    },
+    {
+        "app_name": "驾考模拟练",
+        "package_name": "ghu.gui.juj",
+        "file_name": "ghu.gui.juj_63.apk",
+        "app_activity": "com.zy.app.cxappcollection.activity.CXFirstActivity"
+    },
+    {
+        "app_name": "学法减分专家宝典",
+        "package_name": "cn.lianta.exam",
+        "file_name": "cn.lianta.exam_64.apk",
+        "app_activity": "com.lianta.exam.activity.LauncherActivity"
+    },
+    {
+        "app_name": "学法减分拍照搜题宝典",
+        "package_name": "com.ziranw1.xfjfpzbd",
+        "file_name": "com.ziranw1.xfjfpzbd_65.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "学法减分魔盒",
+        "package_name": "com.ziyi18.xfjfmh",
+        "file_name": "com.ziyi18.xfjfmh_66.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "学法减分课堂",
+        "package_name": "com.cstsdriver.desk",
+        "file_name": "com.cstsdriver.desk_67.apk",
+        "app_activity": "com.wifikey.tenthousands.app_wifi_flutter.MainActivity"
+    },
+    {
+        "app_name": "斑斑驾道",
+        "package_name": "com.banbanjiadao.activity",
+        "file_name": "com.banbanjiadao.activity_68.apk",
+        "app_activity": "com.ctl.student.ui.SplashAdActivity"
+    },
+    {
+        "app_name": "驾考科目一科目二",
+        "package_name": "com.cai.subjectone",
+        "file_name": "com.cai.subjectone_69.apk",
+        "app_activity": "com.eleven.subjectone.ui.activity.StartUpActivity"
+    },
+    {
+        "app_name": "拓客学车",
+        "package_name": "com.tuokexueche.liuantuokezixun",
+        "file_name": "com.tuokexueche.liuantuokezixun_70.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "学法减分搜题宝",
+        "package_name": "com.rookie.learnlaw",
+        "file_name": "com.rookie.learnlaw_71.apk",
+        "app_activity": "com.rookie.learnlaw.ui.SplashActivity"
+    },
+    {
+        "app_name": "驾校报表",
+        "package_name": "cn.mucang.android.xinjiapei",
+        "file_name": "cn.mucang.android.xinjiapei_72.apk",
+        "app_activity": "cn.mucang.android.xinjiapei.SplashActivity"
+    },
+    {
+        "app_name": "驾考模拟3D",
+        "package_name": "com.xianqing.driving3d",
+        "file_name": "com.xianqing.driving3d_73.apk",
+        "app_activity": "com.xianqing.driving3d.AppActivity"
+    },
+    {
+        "app_name": "驾考导师",
+        "package_name": "com.cstsdrivingtest.tutor",
+        "file_name": "com.cstsdrivingtest.tutor_74.apk",
+        "app_activity": "com.cssq.drivingtest.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "快通驾考",
+        "package_name": "com.kuaicheng.ktjk",
+        "file_name": "com.kuaicheng.ktjk_75.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "帮满意交规",
+        "package_name": "com.hongjie.bmyijg",
+        "file_name": "com.hongjie.bmyijg_76.apk",
+        "app_activity": "com.hongjie.bmyijg.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "驾考理论",
+        "package_name": "com.yida.jiakao",
+        "file_name": "com.yida.jiakao_77.apk",
+        "app_activity": "com.yida.jiakao.activity.ShowActivity"
+    },
+    {
+        "app_name": "懒熊驾考",
+        "package_name": "com.zhijia6.lanxiong",
+        "file_name": "com.zhijia6.lanxiong_78.apk",
+        "app_activity": "com.zhijia6.lanxiong.ui.activity.launch.LaunchActivity"
+    },
+    {
+        "app_name": "123学法减分",
+        "package_name": "com.shdgh.jiaoguan",
+        "file_name": "com.shdgh.jiaoguan_79.apk",
+        "app_activity": "com.tuo.mymain.activity.SplashActivity"
+    },
+    {
+        "app_name": "学法减分精灵",
+        "package_name": "com.xuefajf.ssy",
+        "file_name": "com.xuefajf.ssy_80.apk",
+        "app_activity": "com.xuefajf.ssy.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "台州学车",
+        "package_name": "com.zz3s.zlbunify",
+        "file_name": "com.zz3s.zlbunify_81.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "驾考一路通",
+        "package_name": "com.cdjyty.jzkssq",
+        "file_name": "com.cdjyty.jzkssq_82.apk",
+        "app_activity": "com.viterbi.basics.ui.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "驾校驾考宝",
+        "package_name": "com.lalawangluo.jiaxiao",
+        "file_name": "com.lalawangluo.jiaxiao_83.apk",
+        "app_activity": "com.lalawangluo.jiaxiao.MainActivity"
+    },
+    {
+        "app_name": "学车不",
+        "package_name": "com.bjcsxq.chat.carfriend",
+        "file_name": "com.bjcsxq.chat.carfriend_84.apk",
+        "app_activity": "com.bjcsxq.chat.carfriend.module_main.activity.SplashActivity"
+    },
+    {
+        "app_name": "驾考部落",
+        "package_name": "com.runbey.jkbl",
+        "file_name": "com.runbey.jkbl_85.apk",
+        "app_activity": "com.runbey.jkbl.module.welcome.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "驾考刷题",
+        "package_name": "com.runbey.jkst",
+        "file_name": "com.runbey.jkst_86.apk",
+        "app_activity": "com.runbey.jkst.module.welcome.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "元贝驾考",
+        "package_name": "com.runbey.ybjk",
+        "file_name": "com.runbey.ybjk_87.apk",
+        "app_activity": "com.runbey.ybjk.WelcomeActivity"
+    },
+    {
+        "app_name": "摩托车驾考帮",
+        "package_name": "com.laohuang.zeji",
+        "file_name": "com.laohuang.zeji_88.apk",
+        "app_activity": "com.zy.app.driving2.activity.LaunchActivity"
+    },
+    {
+        "app_name": "全安驾考",
+        "package_name": "com.ydtsjb.app",
+        "file_name": "com.ydtsjb.app_89.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "元贝驾考极速版",
+        "package_name": "com.runbey.jkjsb",
+        "file_name": "com.runbey.jkjsb_90.apk",
+        "app_activity": "com.runbey.jkjsb.WelcomeActivity"
+    },
+    {
+        "app_name": "驾考点点通",
+        "package_name": "com.cg.driver.exam.ddt",
+        "file_name": "com.cg.driver.exam.ddt_91.apk",
+        "app_activity": "com.cg.driver.exam.ddt.MainActivity"
+    },
+    {
+        "app_name": "驾考考试一本通",
+        "package_name": "com.njyy.hvacphone",
+        "file_name": "com.njyy.hvacphone_92.apk",
+        "app_activity": "com.njyy.hvacphone.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "学法减分题库助手",
+        "package_name": "com.csquanyan.xfjfzs",
+        "file_name": "com.csquanyan.xfjfzs_93.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "畅达驾考通",
+        "package_name": "com.zlkj.jkt",
+        "file_name": "com.zlkj.jkt_94.apk",
+        "app_activity": "com.zlkj.jkt.ui.home.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "驾考家园",
+        "package_name": "jiayuan.com.aikao",
+        "file_name": "jiayuan.com.aikao_95.apk",
+        "app_activity": "com.example.driverhome.activity.FlashActivity"
+    },
+    {
+        "app_name": "学车练车驾照考试",
+        "package_name": "cn.sqcat.driver",
+        "file_name": "cn.sqcat.driver_96.apk",
+        "app_activity": "cn.sqcat.driver.MainActivity"
+    },
+    {
+        "app_name": "博软驾培学员",
+        "package_name": "com.bofsoft.laio.student",
+        "file_name": "com.bofsoft.laio.student_97.apk",
+        "app_activity": "com.bofsoft.laio.student.SplashActivity"
+    },
+    {
+        "app_name": "驾考宝典科目二",
+        "package_name": "jiakaokeer.app.good",
+        "file_name": "jiakaokeer.app.good_98.apk",
+        "app_activity": "com.handsgo.jiakao.android.splash.SplashActivity"
+    },
+    {
+        "app_name": "科目一科目四宝典",
+        "package_name": "com.aqijiaoyu.kemuyikemusibaodian",
+        "file_name": "com.aqijiaoyu.kemuyikemusibaodian_99.apk",
+        "app_activity": "com.aqijiaoyu.jiakao.flutter_jiakao.MainActivity"
+    },
+    {
+        "app_name": "景然驾考",
+        "package_name": "com.eleven.subjectall",
+        "file_name": "com.eleven.subjectall_100.apk",
+        "app_activity": "com.eleven.subjectall.ui.activity.StartUpActivity"
+    },
+    {
+        "app_name": "驾考科目一2024",
+        "package_name": "com.eleven.subjectone",
+        "file_name": "com.eleven.subjectone_101.apk",
+        "app_activity": "com.eleven.subjectone.ui.activity.StartUpActivity"
+    },
+    {
+        "app_name": "网约车考试助手",
+        "package_name": "com.eleven.subjectwyc",
+        "file_name": "com.eleven.subjectwyc_102.apk",
+        "app_activity": "com.eleven.subjectwyc.ui.activity.StartUpActivity"
+    },
+    {
+        "app_name": "小车库",
+        "package_name": "com.xck.xck",
+        "file_name": "com.xck.xck_103.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "大象驾到",
+        "package_name": "com.dxjd.xw",
+        "file_name": "com.dxjd.xw_104.apk",
+        "app_activity": "com.dxjd.xw.MainActivity"
+    },
+    {
+        "app_name": "驾考全能王",
+        "package_name": "com.jiakao.qnw.zs",
+        "file_name": "com.jiakao.qnw.zs_105.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "驾证考试通",
+        "package_name": "com.jiazhengks.tong",
+        "file_name": "com.jiazhengks.tong_106.apk",
+        "app_activity": "com.jiazhengks.tong.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "得手驾园",
+        "package_name": "com.jqrjl.xjyxc",
+        "file_name": "com.jqrjl.xjyxc_107.apk",
+        "app_activity": "com.jqrjl.xjyxc.SplashActivity"
+    },
+    {
+        "app_name": "浙里学车",
+        "package_name": "com.junan.zhelixueche",
+        "file_name": "com.junan.zhelixueche_108.apk",
+        "app_activity": "com.tencent.liteav.demo.SplashActivity"
+    },
+    {
+        "app_name": " 东方时尚",
+        "package_name": "com.dfss.dfssclub",
+        "file_name": "com.dfss.dfssclub_109.apk",
+        "app_activity": "com.dfss.dfssclub.activity.StartActivity"
+    },
+    {
+        "app_name": "安全有驾",
+        "package_name": "uni.UNI9FE3FB6",
+        "file_name": "uni.UNI9FE3FB6_110.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "朕学车",
+        "package_name": "com.zhenxc.student",
+        "file_name": "com.zhenxc.student_111.apk",
+        "app_activity": "com.zhenxc.student.activity.SplashActivity"
+    },
+    {
+        "app_name": "驾考驾照考试科目一",
+        "package_name": "bqisxdfe.qusnefd.bxg",
+        "file_name": "bqisxdfe.qusnefd.bxg_112.apk",
+        "app_activity": "com.ggeye.wfx.api.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "掌上摩托车驾考",
+        "package_name": "com.ziyewl.zsmtcjkb",
+        "file_name": "com.ziyewl.zsmtcjkb_113.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "驾考宝典3D练车",
+        "package_name": "jiakaokeyi.app.good",
+        "file_name": "jiakaokeyi.app.good_114.apk",
+        "app_activity": "cn.mucang.android.drivingsimulator.SplashActivity"
+    },
+    {
+        "app_name": "安安车生活",
+        "package_name": "com.safeluck.life",
+        "file_name": "com.safeluck.life_115.apk",
+        "app_activity": "com.safeluck.life.ui.SplashActivity_"
+    },
+    {
+        "app_name": "科目一理论培训",
+        "package_name": "com.xjxj.xq",
+        "file_name": "com.xjxj.xq_116.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "金荣驾校",
+        "package_name": "com.nmgjrjx.jrapp",
+        "file_name": "com.nmgjrjx.jrapp_117.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "驾考题库一本通",
+        "package_name": "com.xpw.nynx",
+        "file_name": "com.xpw.nynx_118.apk",
+        "app_activity": "com.stub.stub01.StartActivity"
+    },
+    {
+        "app_name": "驾校考试通",
+        "package_name": "com.qw.jiakao",
+        "file_name": "com.qw.jiakao_119.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "学法减分免费",
+        "package_name": "com.xuefajf.aylai",
+        "file_name": "com.xuefajf.aylai_120.apk",
+        "app_activity": "com.xuefajf.aylai.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "阳光学车",
+        "package_name": "com.ygxc.student",
+        "file_name": "com.ygxc.student_121.apk",
+        "app_activity": "com.ygxc.student.SplashActivity"
+    },
+    {
+        "app_name": "智坤启通",
+        "package_name": "com.d80232265.rww",
+        "file_name": "com.d80232265.rww_122.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "博软驾培教练",
+        "package_name": "com.bofsoft.laio.teacher",
+        "file_name": "com.bofsoft.laio.teacher_123.apk",
+        "app_activity": "com.bofsoft.laio.teacher.SplashActivity"
+    },
+    {
+        "app_name": "科目三路考学车",
+        "package_name": "com.zhuawa.kemusan",
+        "file_name": "com.zhuawa.kemusan_124.apk",
+        "app_activity": "org.cocos2dx.javascript.MainActivity"
+    },
+    {
+        "app_name": "车旅生活",
+        "package_name": "com.zhongka.car_travel_life",
+        "file_name": "com.zhongka.car_travel_life_125.apk",
+        "app_activity": "com.zhongka.car_travel_life.MainActivity"
+    },
+    {
+        "app_name": "夸父驾考",
+        "package_name": "com.dustbeat.kuafudrive",
+        "file_name": "com.dustbeat.kuafudrive_126.apk",
+        "app_activity": "com.unity3d.player.UnityPlayerActivity"
+    },
+    {
+        "app_name": "驾考学习大全",
+        "package_name": "com.vaqe.esbt.tvr",
+        "file_name": "com.vaqe.esbt.tvr_127.apk",
+        "app_activity": "com.bafenyi.drivingtestbook.SplashActivity"
+    },
+    {
+        "app_name": "摩托车驾照考试通",
+        "package_name": "com.jiaozhkosdyi.pj",
+        "file_name": "com.jiaozhkosdyi.pj_128.apk",
+        "app_activity": "com.zy.app.driving2.activity.LaunchActivity"
+    },
+    {
+        "app_name": "驾考练车3D",
+        "package_name": "com.liuniu.untiytest",
+        "file_name": "com.liuniu.untiytest_129.apk",
+        "app_activity": "com.unity3d.player.UnityPlayerActivity"
+    },
+    {
+        "app_name": "迅达克驾考3D",
+        "package_name": "com.xundac.driver3d",
+        "file_name": "com.xundac.driver3d_130.apk",
+        "app_activity": "com.unity3d.player.UnityPlayerActivity"
+    },
+    {
+        "app_name": "驾校一点通3D练车",
+        "package_name": "com.jxedt.driving3d",
+        "file_name": "com.jxedt.driving3d_131.apk",
+        "app_activity": "com.jxedt.driving3d.guide.UnityGuideActivity"
+    },
+    {
+        "app_name": "车学堂云南版",
+        "package_name": "cn.com.drivedu.yunnan",
+        "file_name": "cn.com.drivedu.yunnan_132.apk",
+        "app_activity": "cn.com.drivedu.yunnan.main.activity.LoadingActivity_"
+    },
+    {
+        "app_name": "港城快车道",
+        "package_name": "com.yanyun.car",
+        "file_name": "com.yanyun.car_133.apk",
+        "app_activity": "com.yanyun.car.MainActivity"
+    },
+    {
+        "app_name": "科目一宝",
+        "package_name": "jkjhsenluz.com",
+        "file_name": "jkjhsenluz.com_134.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "驾考路路通",
+        "package_name": "com.cszsdrivingtest.lulu",
+        "file_name": "com.cszsdrivingtest.lulu_135.apk",
+        "app_activity": "com.cssq.drivingtest.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "驾考笔记",
+        "package_name": "com.cszsdrivingtest.note",
+        "file_name": "com.cszsdrivingtest.note_136.apk",
+        "app_activity": "com.cssq.drivingtest.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "车之家驾照考试助手",
+        "package_name": "com.sweetheartzy.princess",
+        "file_name": "com.sweetheartzy.princess_137.apk",
+        "app_activity": "com.zy.app.cxappcollection.activity.CXFirstActivity"
+    },
+    {
+        "app_name": "Yolqi",
+        "package_name": "com.aliphan8.jkapp2",
+        "file_name": "com.aliphan8.jkapp2_138.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "安驾365理论培训",
+        "package_name": "com.anjiaslw.ketang",
+        "file_name": "com.anjiaslw.ketang_139.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "扣12分学习满分学习",
+        "package_name": "com.aqijiaoyu.manfenxuexikoufen",
+        "file_name": "com.aqijiaoyu.manfenxuexikoufen_140.apk",
+        "app_activity": "com.aqijiaoyu.jiakao.flutter_jiakao.MainActivity"
+    },
+    {
+        "app_name": "驾考帮",
+        "package_name": "com.jiakaobang",
+        "file_name": "com.jiakaobang_141.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "3D考场模拟",
+        "package_name": "com.spirit3d.kaochang3d",
+        "file_name": "com.spirit3d.kaochang3d_142.apk",
+        "app_activity": "com.spirit3d.kaochang3d.at.b.f"
+    },
+    {
+        "app_name": "驾考122",
+        "package_name": "com.autobotstech.e_drive",
+        "file_name": "com.autobotstech.e_drive_143.apk",
+        "app_activity": "com.trustway.nomtvehicle.activity.StartActivity"
+    },
+    {
+        "app_name": "考驾驶证通",
+        "package_name": "com.ei.drivingei",
+        "file_name": "com.ei.drivingei_144.apk",
+        "app_activity": "com.sq.drivingtest.activity.SplashActivity"
+    },
+    {
+        "app_name": "驾考通过",
+        "package_name": "com.xiaoquan.drivingtest.com",
+        "file_name": "com.xiaoquan.drivingtest.com_145.apk",
+        "app_activity": "com.zy.fyappcollection.activity.LauncherActivity"
+    },
+    {
+        "app_name": "学法减分搜题",
+        "package_name": "com.sdarbv.ljevt",
+        "file_name": "com.sdarbv.ljevt_146.apk",
+        "app_activity": "com.sdarbv.ljevt.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "安行驾考",
+        "package_name": "com.jx885.axjk.proxy",
+        "file_name": "com.jx885.axjk.proxy_147.apk",
+        "app_activity": "com.jx885.axjk.proxy.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "福运驾培",
+        "package_name": "com.rongxingtong.student",
+        "file_name": "com.rongxingtong.student_148.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "番茄驾考",
+        "package_name": "com.gtfuhua.fqjk",
+        "file_name": "com.gtfuhua.fqjk_149.apk",
+        "app_activity": "com.jiakao.mtjk.splash.SplashActivity"
+    },
+    {
+        "app_name": "学法减分搜题王",
+        "package_name": "com.sxcanghai.point",
+        "file_name": "com.sxcanghai.point_150.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "学法减分帮",
+        "package_name": "com.csyzm.learnthelaw",
+        "file_name": "com.csyzm.learnthelaw_151.apk",
+        "app_activity": "com.cshzm.learnthelaw.MainActivity"
+    },
+    {
+        "app_name": "嘟嘟驾考",
+        "package_name": "cn.module.ddjk",
+        "file_name": "cn.module.ddjk_152.apk",
+        "app_activity": "cn.module.ddjk.MainActivity"
+    },
+    {
+        "app_name": "驾考精灵",
+        "package_name": "com.iningke.jiakaojl",
+        "file_name": "com.iningke.jiakaojl_153.apk",
+        "app_activity": "com.iningke.jiakaojl.activity.MainActivity"
+    },
+    {
+        "app_name": "驾考模拟练习",
+        "package_name": "com.tianse200rui",
+        "file_name": "com.tianse200rui_154.apk",
+        "app_activity": "com.zy.app.cxappcollection.activity.CXLaunchActivity"
+    },
+    {
+        "app_name": "永安驾校",
+        "package_name": "com.yonganv2.app",
+        "file_name": "com.yonganv2.app_155.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "驾照考试科目一",
+        "package_name": "com.danningapp.azrvun",
+        "file_name": "com.danningapp.azrvun_156.apk",
+        "app_activity": "com.zy.app.driving2.activity.LaunchActivity"
+    },
+    {
+        "app_name": "驾起步",
+        "package_name": "com.like.begindrive",
+        "file_name": "com.like.begindrive_157.apk",
+        "app_activity": "com.like.begindrive.feature.startup.StartupActivity"
+    },
+    {
+        "app_name": "网约车考试",
+        "package_name": "com.news.wangyueche",
+        "file_name": "com.news.wangyueche_158.apk",
+        "app_activity": "com.news.wangyueche.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "驾校驾照一点通",
+        "package_name": "com.fi.drivingfi",
+        "file_name": "com.fi.drivingfi_159.apk",
+        "app_activity": "com.sq.drivingtest.activity.SplashActivity"
+    },
+    {
+        "app_name": "勒夫安驾",
+        "package_name": "com.zmyf.driving",
+        "file_name": "com.zmyf.driving_160.apk",
+        "app_activity": "com.zmyf.driving.ui.activity.user.SplashActivity"
+    },
+    {
+        "app_name": "驾考摩托车科目一",
+        "package_name": "com.shandongye.motuochejk",
+        "file_name": "com.shandongye.motuochejk_161.apk",
+        "app_activity": "com.example.xieyisheding.YinsixyActivity"
+    },
+    {
+        "app_name": "驾车模拟",
+        "package_name": "com.jkjk.zt",
+        "file_name": "com.jkjk.zt_162.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "机动车驾驶人互联网学习软件",
+        "package_name": "com.aobo.twohour",
+        "file_name": "com.aobo.twohour_163.apk",
+        "app_activity": "com.aobo.host.mvvm.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "车车搜题",
+        "package_name": "com.lcznai.dplm",
+        "file_name": "com.lcznai.dplm_164.apk",
+        "app_activity": "com.lcznai.dplm.splash.SplashActivity"
+    },
+    {
+        "app_name": "易学驾考",
+        "package_name": "uni.UNI5E71AB5",
+        "file_name": "uni.UNI5E71AB5_165.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "学法减分宝",
+        "package_name": "com.cshzm.learnthelaw",
+        "file_name": "com.cshzm.learnthelaw_166.apk",
+        "app_activity": "com.cshzm.learnthelaw.MainActivity"
+    },
+    {
+        "app_name": "坦途学车",
+        "package_name": "com.tantu.driverSchoolERPForStudent",
+        "file_name": "com.tantu.driverSchoolERPForStudent_167.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "速学驾照",
+        "package_name": "com.yangwei.jiazhao",
+        "file_name": "com.yangwei.jiazhao_168.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "学法减分题典",
+        "package_name": "com.tjdrivertest.classroom",
+        "file_name": "com.tjdrivertest.classroom_169.apk",
+        "app_activity": "com.wifikey.tenthousands.app_wifi_flutter.MainActivity"
+    },
+    {
+        "app_name": "超级教练",
+        "package_name": "com.fzcx.supercoach.assistant",
+        "file_name": "com.fzcx.supercoach.assistant_170.apk",
+        "app_activity": "com.fzcx.supercoach.assistant.activity.ui.SplashAdLessActivity"
+    },
+    {
+        "app_name": "众业快学",
+        "package_name": "com.driving.zhongye",
+        "file_name": "com.driving.zhongye_171.apk",
+        "app_activity": "com.driving.zhongye.ui.MainActivity"
+    },
+    {
+        "app_name": "灯光模拟APP",
+        "package_name": "com.ibbgou.lightingsimulation",
+        "file_name": "com.ibbgou.lightingsimulation_172.apk",
+        "app_activity": "com.ibbgou.lightingsimulation.module.main.StartLaunchActivity"
+    },
+    {
+        "app_name": "摩托车驾考大师",
+        "package_name": "com.dunjiakj.mtcjkds",
+        "file_name": "com.dunjiakj.mtcjkds_173.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "驾考大全",
+        "package_name": "sw.jiakaodaquan",
+        "file_name": "sw.jiakaodaquan_174.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "驾宝典",
+        "package_name": "com.fullstack.drivinglicensetitle",
+        "file_name": "com.fullstack.drivinglicensetitle_175.apk",
+        "app_activity": "com.example.fullstackdrivinglicensetitle.activity.user.AppPrivacyPolicyAgreeActivity"
+    },
+    {
+        "app_name": "驾考全能宝典",
+        "package_name": "com.jkquanbd.dew",
+        "file_name": "com.jkquanbd.dew_176.apk",
+        "app_activity": "com.jkquanbd.dew.page.SplashActivity"
+    },
+    {
+        "app_name": "驾考宝典科目一",
+        "package_name": "cn.mucang.android.drivingsimulator",
+        "file_name": "cn.mucang.android.drivingsimulator_177.apk",
+        "app_activity": "com.handsgo.jiakao.android.splash.SplashActivity"
+    },
+    {
+        "app_name": "驾考点通科目一",
+        "package_name": "com.youma.yuanmenjk",
+        "file_name": "com.youma.yuanmenjk_178.apk",
+        "app_activity": "com.youma.xieyisheding.YinsixyActivity"
+    },
+    {
+        "app_name": "驾校宝典",
+        "package_name": "jiaxiaobaodian.app.good",
+        "file_name": "jiaxiaobaodian.app.good_179.apk",
+        "app_activity": "com.handsgo.jiakao.android.splash.SplashActivity"
+    },
+    {
+        "app_name": "趣学车",
+        "package_name": "cn.qxc.driverlicence",
+        "file_name": "cn.qxc.driverlicence_180.apk",
+        "app_activity": "cn.qxc.driverlicence.view.activity.MainActivity"
+    },
+    {
+        "app_name": "景然驾考科目一四",
+        "package_name": "com.cai.subjectfournew",
+        "file_name": "com.cai.subjectfournew_181.apk",
+        "app_activity": "com.eleven.subjectonefour.ui.activity.StartUpActivity"
+    },
+    {
+        "app_name": "理论培训",
+        "package_name": "com.bjtongan.anjia365.llpx",
+        "file_name": "com.bjtongan.anjia365.llpx_182.apk",
+        "app_activity": "com.bjta.view.LauncherActivity"
+    },
+    {
+        "app_name": "驾考顺口溜",
+        "package_name": "com.luokj.jkskl",
+        "file_name": "com.luokj.jkskl_183.apk",
+        "app_activity": "com.luokj.jkskl.main.SplashActivity"
+    },
+    {
+        "app_name": "考驾照帮手",
+        "package_name": "com.te.drivingte",
+        "file_name": "com.te.drivingte_184.apk",
+        "app_activity": "com.sq.drivingtest.activity.SplashActivity"
+    },
+    {
+        "app_name": "学法减分题库通",
+        "package_name": "com.njclx.jftkt",
+        "file_name": "com.njclx.jftkt_185.apk",
+        "app_activity": "com.njclx.jftkt.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "驾照宝典",
+        "package_name": "jiaxiao.app.good",
+        "file_name": "jiaxiao.app.good_186.apk",
+        "app_activity": "com.handsgo.jiakao.android.splash.SplashActivity"
+    },
+    {
+        "app_name": "驾照一点通题库大全",
+        "package_name": "com.ccquwei.car.warehouse",
+        "file_name": "com.ccquwei.car.warehouse_187.apk",
+        "app_activity": "com.ccquwei.car.warehouse.module.splash.view.SplashActivity"
+    },
+    {
+        "app_name": "驾驶证科目一",
+        "package_name": "juheonetheone.jk",
+        "file_name": "juheonetheone.jk_188.apk",
+        "app_activity": "com.zy.app.cxappcollection.activity.CXFirstActivity"
+    },
+    {
+        "app_name": "驾考摩托",
+        "package_name": "com.youma.yuanmengmt",
+        "file_name": "com.youma.yuanmengmt_189.apk",
+        "app_activity": "com.youma.xieyisheding.YinsixyActivity"
+    },
+    {
+        "app_name": "学驾驶证科目一科目四无忧",
+        "package_name": "com.aqjingliang.jiakao",
+        "file_name": "com.aqjingliang.jiakao_190.apk",
+        "app_activity": "com.aqjingliang.jiakao.MainActivity"
+    },
+    {
+        "app_name": "三力测试老年版",
+        "package_name": "com.autobotstech.flutter_sanlics_ln",
+        "file_name": "com.autobotstech.flutter_sanlics_ln_191.apk",
+        "app_activity": "com.autobotstech.flutter_sanlics.MainActivity"
+    },
+    {
+        "app_name": "安智学驾",
+        "package_name": "com.yc.drvingtrain.ydj.sjz.anjia",
+        "file_name": "com.yc.drvingtrain.ydj.sjz.anjia_192.apk",
+        "app_activity": "com.yc.drvingtrain.ydj.ui.activity.login.WeleComeActivity"
+    },
+    {
+        "app_name": "学法减分考试宝",
+        "package_name": "com.cschidu.xfjfds",
+        "file_name": "com.cschidu.xfjfds_193.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "教练宝典",
+        "package_name": "com.handsgo.jiakao.android.kehuo",
+        "file_name": "com.handsgo.jiakao.android.kehuo_194.apk",
+        "app_activity": "cn.mucang.android.mars.SplashActivity"
+    },
+    {
+        "app_name": "学法减分多多",
+        "package_name": "com.njjlg.xuefajianfen",
+        "file_name": "com.njjlg.xuefajianfen_195.apk",
+        "app_activity": "com.njjlg.xuefajianfen.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "123学法减分搜题",
+        "package_name": "com.junruy.xfjfst",
+        "file_name": "com.junruy.xfjfst_196.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "学法减分宝盒",
+        "package_name": "com.qiaoxi18.xfjfbh",
+        "file_name": "com.qiaoxi18.xfjfbh_197.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "兜兜学车",
+        "package_name": "com.xinty.doudouxc",
+        "file_name": "com.xinty.doudouxc_198.apk",
+        "app_activity": "com.android.app.modules.welcome.ui.PrivatePolicyActivity"
+    },
+    {
+        "app_name": "科目四语音技巧版",
+        "package_name": "com.aqijiaoyu.kemusiyuyinjiqiaoban",
+        "file_name": "com.aqijiaoyu.kemusiyuyinjiqiaoban_199.apk",
+        "app_activity": "com.aqijiaoyu.jiakao.flutter_jiakao.MainActivity"
+    },
+    {
+        "app_name": "驾考助手科目四",
+        "package_name": "com.huihai.jiakaozhushou_k4",
+        "file_name": "com.huihai.jiakaozhushou_k4_200.apk",
+        "app_activity": "com.huihai.jiakaozhushou_k4.activity.SplashActivity"
+    },
+    {
+        "app_name": "驾考速成通",
+        "package_name": "com.szth.drive",
+        "file_name": "com.szth.drive_201.apk",
+        "app_activity": "com.szth.drive.ui.launch.LaunchPageActivity"
+    },
+    {
+        "app_name": "网约车司机考试",
+        "package_name": "com.sjfc.wycsjks",
+        "file_name": "com.sjfc.wycsjks_202.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "驾考把把过",
+        "package_name": "com.smileflame.babaguo.android",
+        "file_name": "com.smileflame.babaguo.android_203.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "e学e驾教练版",
+        "package_name": "com.clcw.ecoach",
+        "file_name": "com.clcw.ecoach_204.apk",
+        "app_activity": "com.clcw.ecoach.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "葵花驾考",
+        "package_name": "com.yuzhenwenhua",
+        "file_name": "com.yuzhenwenhua_205.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "林浪计时",
+        "package_name": "com.linlang.jishi",
+        "file_name": "com.linlang.jishi_206.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "e学e驾",
+        "package_name": "com.clcw.exejia",
+        "file_name": "com.clcw.exejia_207.apk",
+        "app_activity": "com.clcw.exejia.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "练车模拟器",
+        "package_name": "com.jkrb.fhs",
+        "file_name": "com.jkrb.fhs_208.apk",
+        "app_activity": "com.zy.app.driving2.activity.LaunchActivity"
+    },
+    {
+        "app_name": "摩托车科目一科目四",
+        "package_name": "com.aqijiaoyu.wangyuechekaoshitiku",
+        "file_name": "com.aqijiaoyu.wangyuechekaoshitiku_209.apk",
+        "app_activity": "com.aqijiaoyu.jiakao.flutter_jiakao.MainActivity"
+    },
+    {
+        "app_name": "云峰驾考",
+        "package_name": "com.yfjk.vip",
+        "file_name": "com.yfjk.vip_210.apk",
+        "app_activity": "com.yfjk.vip.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "光线驾校",
+        "package_name": "com.app.gxgpgxjx",
+        "file_name": "com.app.gxgpgxjx_211.apk",
+        "app_activity": "com.app.ivx.MainActivity"
+    },
+    {
+        "app_name": "远方学车",
+        "package_name": "com.yfdrive.student",
+        "file_name": "com.yfdrive.student_212.apk",
+        "app_activity": "com.qx.student.activity.student.StartActivity"
+    },
+    {
+        "app_name": "小鹿学车",
+        "package_name": "com.dri.lealet",
+        "file_name": "com.dri.lealet_213.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "哈语驾考",
+        "package_name": "com.sjfc.hykcz",
+        "file_name": "com.sjfc.hykcz_214.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "准驾考题库",
+        "package_name": "com.sjfc.lrkcz",
+        "file_name": "com.sjfc.lrkcz_215.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "懒人驾考",
+        "package_name": "com.jx885.lrjk",
+        "file_name": "com.jx885.lrjk_216.apk",
+        "app_activity": "com.jx885.lrjk.cg.ui.SplashActivity"
+    },
+    {
+        "app_name": "闪电驾考",
+        "package_name": "com.jx885.sdjk",
+        "file_name": "com.jx885.sdjk_217.apk",
+        "app_activity": "com.jx885.lrjk.cg.ui.SplashActivity"
+    },
+    {
+        "app_name": "学法减分一点通",
+        "package_name": "com.tanyun.xfjfydt",
+        "file_name": "com.tanyun.xfjfydt_218.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "维语驾考",
+        "package_name": "com.sjfc.wyxcz",
+        "file_name": "com.sjfc.wyxcz_219.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "速通驾考",
+        "package_name": "ning.zuo.sutong",
+        "file_name": "ning.zuo.sutong_220.apk",
+        "app_activity": "com.viterbi.basics.ui.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "驾考科目一",
+        "package_name": "com.example.drivinglicense",
+        "file_name": "com.example.drivinglicense_221.apk",
+        "app_activity": "drivinglicense.admin.SplashActivity1"
+    },
+    {
+        "app_name": "驾照一点极速通",
+        "package_name": "com.cg.driver.exam.ydjst",
+        "file_name": "com.cg.driver.exam.ydjst_222.apk",
+        "app_activity": "com.cg.driver.exam.ydjst.MainActivity"
+    },
+    {
+        "app_name": "一起驾考",
+        "package_name": "jk.together",
+        "file_name": "jk.together_223.apk",
+        "app_activity": "jk.together.main.SplashActivity"
+    },
+    {
+        "app_name": "科目一科目四驾考",
+        "package_name": "com.cai.kmof",
+        "file_name": "com.cai.kmof_224.apk",
+        "app_activity": "com.eleven.subjectonefour.ui.activity.StartUpActivity"
+    },
+    {
+        "app_name": "驾道学车",
+        "package_name": "com.kingyon.drive.study",
+        "file_name": "com.kingyon.drive.study_225.apk",
+        "app_activity": "com.kingyon.drive.study.uis.activities.LoadingActivity"
+    },
+    {
+        "app_name": "驾道学车教练端",
+        "package_name": "com.kingyon.drive.teach",
+        "file_name": "com.kingyon.drive.teach_226.apk",
+        "app_activity": "com.kingyon.drive.teach.uis.activities.LoadingActivity"
+    },
+    {
+        "app_name": "学法减分王",
+        "package_name": "com.qxx.score",
+        "file_name": "com.qxx.score_227.apk",
+        "app_activity": "com.qxx.score.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "驾考宝典智慧驾校版",
+        "package_name": "cn.mucang.android.smart",
+        "file_name": "cn.mucang.android.smart_228.apk",
+        "app_activity": "com.handsgo.jiakao.android.splash.SplashActivity"
+    },
+    {
+        "app_name": "驾考宝典科目三",
+        "package_name": "jiakaokesan.app.good",
+        "file_name": "jiakaokesan.app.good_229.apk",
+        "app_activity": "com.handsgo.jiakao.android.splash.SplashActivity"
+    },
+    {
+        "app_name": "老司机学法减分",
+        "package_name": "com.hjkj66.lsjxfjf",
+        "file_name": "com.hjkj66.lsjxfjf_230.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "学法减分笔记",
+        "package_name": "com.hnfydriver.know",
+        "file_name": "com.hnfydriver.know_231.apk",
+        "app_activity": "com.wifikey.tenthousands.app_wifi_flutter.MainActivity"
+    },
+    {
+        "app_name": "Laowai drive test",
+        "package_name": "com.sjfc.laowai",
+        "file_name": "com.sjfc.laowai_232.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "驾考助手科目一",
+        "package_name": "com.huihai.jiakaozhushou",
+        "file_name": "com.huihai.jiakaozhushou_233.apk",
+        "app_activity": "com.huihai.jiakaozhushou.activity.SplashActivity"
+    },
+    {
+        "app_name": "DROLO学车",
+        "package_name": "com.xiniujiakao.ittDriver",
+        "file_name": "com.xiniujiakao.ittDriver_234.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "烧脑停车位",
+        "package_name": "com.park.tingchela",
+        "file_name": "com.park.tingchela_235.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "海猫学车",
+        "package_name": "com.xshkj.haimao",
+        "file_name": "com.xshkj.haimao_236.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "驾考科目一科目四",
+        "package_name": "com.exception.jkao",
+        "file_name": "com.exception.jkao_237.apk",
+        "app_activity": "com.exception.jkao.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "驾考管家",
+        "package_name": "com.yingdun.app",
+        "file_name": "com.yingdun.app_238.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "易练练车",
+        "package_name": "com.qhgy.ylcstudent",
+        "file_name": "com.qhgy.ylcstudent_239.apk",
+        "app_activity": "com.qhgy.ylcstudent.MainActivity"
+    },
+    {
+        "app_name": "手机学法减分",
+        "package_name": "com.njjlg.jianfen",
+        "file_name": "com.njjlg.jianfen_240.apk",
+        "app_activity": "com.njjlg.jianfen.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "驾照考试一点通",
+        "package_name": "com.driver.exam.hw",
+        "file_name": "com.driver.exam.hw_241.apk",
+        "app_activity": "com.tad.AdSplashActivity"
+    },
+    {
+        "app_name": "驾考驾校通",
+        "package_name": "com.chenghui.jiaxiao.campus",
+        "file_name": "com.chenghui.jiaxiao.campus_242.apk",
+        "app_activity": "com.chenghui.jiaxiao.campus.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "斑马驾考",
+        "package_name": "com.driving.zebra",
+        "file_name": "com.driving.zebra_243.apk",
+        "app_activity": "com.driving.zebra.ui.SplashActivity"
+    },
+    {
+        "app_name": "驾考宝典摩托车",
+        "package_name": "moto.app.good",
+        "file_name": "moto.app.good_244.apk",
+        "app_activity": "com.handsgo.jiakao.android.splash.SplashActivity"
+    },
+    {
+        "app_name": "驾考超人",
+        "package_name": "com.aka.superman",
+        "file_name": "com.aka.superman_245.apk",
+        "app_activity": "com.fzcx.supercoach.assistant.activity.ui.SplashAdLessActivity"
+    },
+    {
+        "app_name": "驾考通",
+        "package_name": "jiakaotong.app.good",
+        "file_name": "jiakaotong.app.good_246.apk",
+        "app_activity": "com.handsgo.jiakao.android.splash.SplashActivity"
+    },
+    {
+        "app_name": "学法减分极速版",
+        "package_name": "com.hbgryd.xfjfjsb",
+        "file_name": "com.hbgryd.xfjfjsb_247.apk",
+        "app_activity": "com.hbgryd.xfjfjsb.activity.HBTLauncherActivity"
+    },
+    {
+        "app_name": "学车练车123",
+        "package_name": "com.hitiantian.driver",
+        "file_name": "com.hitiantian.driver_248.apk",
+        "app_activity": "com.hitiantian.driver.MainActivity"
+    },
+    {
+        "app_name": "学法减分搜题助手",
+        "package_name": "com.dunjiakj.xfjfstzs",
+        "file_name": "com.dunjiakj.xfjfstzs_249.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "摩托驾照通",
+        "package_name": "com.hehax.mtjzt",
+        "file_name": "com.hehax.mtjzt_250.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "皖美学车",
+        "package_name": "com.hfjpxh",
+        "file_name": "com.hfjpxh_251.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "驾考驾照科目一",
+        "package_name": "com.youma.xinjiakao",
+        "file_name": "com.youma.xinjiakao_252.apk",
+        "app_activity": "com.example.xieyisheding.YinsixyActivity"
+    },
+    {
+        "app_name": "学法减分搜索答题APP",
+        "package_name": "com.jjkyz.app",
+        "file_name": "com.jjkyz.app_253.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "驾校考试宝典",
+        "package_name": "com.njhpgdt.qxsxgpzl",
+        "file_name": "com.njhpgdt.qxsxgpzl_254.apk",
+        "app_activity": "com.njhpgdt.qxsxgpzl.ui.SplashActivity"
+    },
+    {
+        "app_name": "宝典多驾考",
+        "package_name": "com.meita.jiakao",
+        "file_name": "com.meita.jiakao_255.apk",
+        "app_activity": "com.meita.jiakao.ui.IndexActivity"
+    },
+    {
+        "app_name": "火星学车",
+        "package_name": "com.hfhy.student",
+        "file_name": "com.hfhy.student_256.apk",
+        "app_activity": "com.hfhy.student.uicontroller.activity.Activity_Guide"
+    },
+    {
+        "app_name": "驾参谋",
+        "package_name": "com.jcm.cn",
+        "file_name": "com.jcm.cn_257.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "教练百事通",
+        "package_name": "com.shichaiw.jlbst",
+        "file_name": "com.shichaiw.jlbst_258.apk",
+        "app_activity": "com.geetol.jlbst.ui.launch.LaunchActivity"
+    },
+    {
+        "app_name": "知妙爱刷",
+        "package_name": "com.xinglv.zmas",
+        "file_name": "com.xinglv.zmas_259.apk",
+        "app_activity": "com.jingling.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "网约车考试通",
+        "package_name": "com.sjfc.wyckst",
+        "file_name": "com.sjfc.wyckst_260.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "Prep China Driving License",
+        "package_name": "com.sjfc.lwjk",
+        "file_name": "com.sjfc.lwjk_261.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "蒙文驾考",
+        "package_name": "com.sjfc.mwjk",
+        "file_name": "com.sjfc.mwjk_262.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "藏文理论交规",
+        "package_name": "com.sjfc.zwjg",
+        "file_name": "com.sjfc.zwjg_263.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "藏文驾考",
+        "package_name": "com.sjfc.zwjk",
+        "file_name": "com.sjfc.zwjk_264.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "驾考宝典多语言版",
+        "package_name": "cn.mucang.android.jkxt",
+        "file_name": "cn.mucang.android.jkxt_265.apk",
+        "app_activity": "cn.jiakao.android.startup.SplashActivity"
+    },
+    {
+        "app_name": "驾校考试题库通",
+        "package_name": "com.chenghui.jiaxiao.drive",
+        "file_name": "com.chenghui.jiaxiao.drive_266.apk",
+        "app_activity": "com.chenghui.jiaxiao.campus.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "慧学车",
+        "package_name": "com.hz.jp",
+        "file_name": "com.hz.jp_267.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "驾校一点通",
+        "package_name": "com.jxedt",
+        "file_name": "com.jxedt_268.apk",
+        "app_activity": "com.jxedt.ui.activitys.GuideActivity"
+    },
+    {
+        "app_name": "易学车",
+        "package_name": "com.fjhsoj.hf",
+        "file_name": "com.fjhsoj.hf_269.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "驾培掌上通",
+        "package_name": "cnjia.nbwby.lxlsr",
+        "file_name": "cnjia.nbwby.lxlsr_270.apk",
+        "app_activity": "com.viterbi.basics.ui.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "辂路通驾考",
+        "package_name": "com.llt.ui",
+        "file_name": "com.llt.ui_271.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "交管违章处罚规定宝典",
+        "package_name": "cn.shengmitech.jgwzcx",
+        "file_name": "cn.shengmitech.jgwzcx_272.apk",
+        "app_activity": "cn.shengmitech.jgwzcx.MainActivity"
+    },
+    {
+        "app_name": "驾多宝",
+        "package_name": "com.sdjk.jdb",
+        "file_name": "com.sdjk.jdb_273.apk",
+        "app_activity": "com.sdjk.jdb.MainActivity"
+    },
+    {
+        "app_name": "考驾驶证考车",
+        "package_name": "com.driver.license.czy",
+        "file_name": "com.driver.license.czy_274.apk",
+        "app_activity": "com.zy.app.devappcollection.SplashActivity"
+    },
+    {
+        "app_name": "科三语音模拟",
+        "package_name": "com.dirver.voice.byzm",
+        "file_name": "com.dirver.voice.byzm_275.apk",
+        "app_activity": "com.tad.SplashActivity"
+    },
+    {
+        "app_name": "驾考题库速通",
+        "package_name": "com.jktkst.flztx",
+        "file_name": "com.jktkst.flztx_276.apk",
+        "app_activity": "com.viterbi.basics.ui.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "驾考驾照考试",
+        "package_name": "com.fansapk.xv.cmyer",
+        "file_name": "com.fansapk.xv.cmyer_277.apk",
+        "app_activity": "com.zy.fyappcollection.activity.LauncherActivity"
+    },
+    {
+        "app_name": "松鼠驾考",
+        "package_name": "top.jiakaola.hxjiakao",
+        "file_name": "top.jiakaola.hxjiakao_278.apk",
+        "app_activity": "top.jiakaola.hxjiakao.MainActivity"
+    },
+    {
+        "app_name": "极速考驾照",
+        "package_name": "cn.bdjxedt.quick",
+        "file_name": "cn.bdjxedt.quick_279.apk",
+        "app_activity": "cn.bdjxedt.king.activity.StartPageActivity"
+    },
+    {
+        "app_name": "驾证考试宝典",
+        "package_name": "com.yeorlvr.xxvcb",
+        "file_name": "com.yeorlvr.xxvcb_280.apk",
+        "app_activity": "com.yeorlvr.xxvcb.ui.SplashActivity"
+    },
+    {
+        "app_name": "车学堂",
+        "package_name": "cn.com.drivedu.chexuetang",
+        "file_name": "cn.com.drivedu.chexuetang_281.apk",
+        "app_activity": "cn.com.drivedu.chexuetang.main.activity.LoadingActivity_"
+    },
+    {
+        "app_name": "摩托车驾考驾照一",
+        "package_name": "com.shandongyoum.newmotuojk",
+        "file_name": "com.shandongyoum.newmotuojk_282.apk",
+        "app_activity": "com.shandongyoum.xieyisheding.YinsixyActivity"
+    },
+    {
+        "app_name": "考驾照备忘录",
+        "package_name": "com.douping.drivinglicense.together",
+        "file_name": "com.douping.drivinglicense.together_283.apk",
+        "app_activity": "com.douping.drivinglicense.together.ui.SplashActivity"
+    },
+    {
+        "app_name": "驾照考试题典",
+        "package_name": "com.fvtkzyp.itnozdi",
+        "file_name": "com.fvtkzyp.itnozdi_284.apk",
+        "app_activity": "com.fvtkzyp.itnozdi.ui.SplashActivity"
+    },
+    {
+        "app_name": "手动挡停车厂",
+        "package_name": "com.coggogu.dtindna.hnseh",
+        "file_name": "com.coggogu.dtindna.hnseh_285.apk",
+        "app_activity": "tai.mengzhu.circle.activty.StartActivity"
+    },
+    {
+        "app_name": "驾照学法减分搜题宝",
+        "package_name": "com.ziyewl.xfjfstb",
+        "file_name": "com.ziyewl.xfjfstb_286.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "驾培一网通",
+        "package_name": "uni.UNIA16ECF4",
+        "file_name": "uni.UNIA16ECF4_287.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "摩托车驾照增驾通",
+        "package_name": "com.xuq.motuoche",
+        "file_name": "com.xuq.motuoche_288.apk",
+        "app_activity": "com.xuq.motuoche.MainActivity"
+    },
+    {
+        "app_name": "驾考宝典极速版",
+        "package_name": "jiakaokesi.app.good",
+        "file_name": "jiakaokesi.app.good_289.apk",
+        "app_activity": "com.handsgo.jiakao.android.splash.Login"
+    },
+    {
+        "app_name": "九午驾培",
+        "package_name": "uni.UNIA4CBB00",
+        "file_name": "uni.UNIA4CBB00_290.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "快捷驾考",
+        "package_name": "com.xianrui.kuaijiejiakao",
+        "file_name": "com.xianrui.kuaijiejiakao_291.apk",
+        "app_activity": "com.xianrui.kuaijiejiakao.aa.f"
+    },
+    {
+        "app_name": "摩托车驾考学堂",
+        "package_name": "com.aojaen.moto",
+        "file_name": "com.aojaen.moto_292.apk",
+        "app_activity": "com.aojaen.moto.MainActivity"
+    },
+    {
+        "app_name": "驾考通新版",
+        "package_name": "com.jzjsb.byzxy",
+        "file_name": "com.jzjsb.byzxy_293.apk",
+        "app_activity": "com.tad.AdSplashActivity"
+    },
+    {
+        "app_name": "模拟驾驶证考试",
+        "package_name": "com.qwee.mpu",
+        "file_name": "com.qwee.mpu_294.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "神通驾考",
+        "package_name": "com.shenzhou.driver",
+        "file_name": "com.shenzhou.driver_295.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "驾考123",
+        "package_name": "com.shandong.jktkykt",
+        "file_name": "com.shandong.jktkykt_296.apk",
+        "app_activity": "com.example.xieyisheding.YinsixyActivity"
+    },
+    {
+        "app_name": "驾路通",
+        "package_name": "com.renyou.driving",
+        "file_name": "com.renyou.driving_297.apk",
+        "app_activity": "com.renyou.driving.SplashActivity"
+    },
+    {
+        "app_name": "学法减分师",
+        "package_name": "com.cnnrr.daanxgky",
+        "file_name": "com.cnnrr.daanxgky_298.apk",
+        "app_activity": "com.cnnrr.daanxgky.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "拿捏驾考",
+        "package_name": "com.fsnaniejiakao.com",
+        "file_name": "com.fsnaniejiakao.com_299.apk",
+        "app_activity": "com.fsnaniejiakao.com.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "驾照考试通",
+        "package_name": "com.exambyzmhwhw",
+        "file_name": "com.exambyzmhwhw_300.apk",
+        "app_activity": "com.tad.SplashAdActivity"
+    },
+    {
+        "app_name": "科目一科目四学车无忧",
+        "package_name": "com.younina.jiakao",
+        "file_name": "com.younina.jiakao_301.apk",
+        "app_activity": "com.younina.jiakao.MainActivity"
+    },
+    {
+        "app_name": "懒人考驾照",
+        "package_name": "com.lrxc.lrkjz",
+        "file_name": "com.lrxc.lrkjz_302.apk",
+        "app_activity": "com.lrxc.lrkjz.splash.SplashActivity"
+    },
+    {
+        "app_name": "学法减分档案",
+        "package_name": "com.cszsdriver.doc",
+        "file_name": "com.cszsdriver.doc_303.apk",
+        "app_activity": "com.wifikey.tenthousands.app_wifi_flutter.MainActivity"
+    },
+    {
+        "app_name": "刷刷涨知识",
+        "package_name": "com.wlmj.sszzs",
+        "file_name": "com.wlmj.sszzs_304.apk",
+        "app_activity": "com.jingling.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "摩托驾考易题",
+        "package_name": "com.lfx.motuojiakao",
+        "file_name": "com.lfx.motuojiakao_305.apk",
+        "app_activity": "com.lfx.motuojiakao.launcher.ui.AppLaunchActivity"
+    },
+    {
+        "app_name": "驾考实战宝典",
+        "package_name": "com.ddx.drivebook",
+        "file_name": "com.ddx.drivebook_306.apk",
+        "app_activity": "com.csxw.drivingtest.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "驾照课堂",
+        "package_name": "com.aojaen.car",
+        "file_name": "com.aojaen.car_307.apk",
+        "app_activity": "com.aojaen.car.MainActivity"
+    },
+    {
+        "app_name": "驾考快车道",
+        "package_name": "com.carservice.driver.exam",
+        "file_name": "com.carservice.driver.exam_308.apk",
+        "app_activity": "com.carservice.driver.exam.MainActivity"
+    },
+    {
+        "app_name": "驾校驾照考试宝",
+        "package_name": "com.songheti.jiakao",
+        "file_name": "com.songheti.jiakao_309.apk",
+        "app_activity": "com.songheti.jiakao.MainActivity"
+    },
+    {
+        "app_name": "学车管家",
+        "package_name": "com.yingdunxueche.app",
+        "file_name": "com.yingdunxueche.app_310.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "驾考宝典维语版",
+        "package_name": "cn.mucang.android.jiakao.uygur",
+        "file_name": "cn.mucang.android.jiakao.uygur_311.apk",
+        "app_activity": "cn.jiakao.android.startup.SplashActivity"
+    },
+    {
+        "app_name": "小兔驾考",
+        "package_name": "com.sjht.driving.test",
+        "file_name": "com.sjht.driving.test_312.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "科目二模拟驾驶学车",
+        "package_name": "com.zhuawa.carkemuer",
+        "file_name": "com.zhuawa.carkemuer_313.apk",
+        "app_activity": "org.cocos2dx.javascript.MainActivity"
+    },
+    {
+        "app_name": "科目四模拟考试练习",
+        "package_name": "com.zhuawa.carkemusi",
+        "file_name": "com.zhuawa.carkemusi_314.apk",
+        "app_activity": "com.zhuawa.kemusi.LogoActivity"
+    },
+    {
+        "app_name": "科目一模拟考试练习",
+        "package_name": "com.zhuawa.carkemuyi",
+        "file_name": "com.zhuawa.carkemuyi_315.apk",
+        "app_activity": "com.zhuawa.jxmnk.LogoActivity"
+    },
+    {
+        "app_name": "音速驾考",
+        "package_name": "com.renren.yinsu",
+        "file_name": "com.renren.yinsu_316.apk",
+        "app_activity": "com.renren.yinsu.SplashActivity"
+    },
+    {
+        "app_name": "摩托驾考通",
+        "package_name": "com.yoyohn.mtjkt",
+        "file_name": "com.yoyohn.mtjkt_317.apk",
+        "app_activity": "com.moto.test.splash.SplashActivity"
+    },
+    {
+        "app_name": "学法减分搜题宝典",
+        "package_name": "com.bm234.search_questions",
+        "file_name": "com.bm234.search_questions_318.apk",
+        "app_activity": "com.bm234.search_questions.activity.SplashActivity"
+    },
+    {
+        "app_name": "驾照考试秘籍",
+        "package_name": "com.chuangzewenhua.jzksmj",
+        "file_name": "com.chuangzewenhua.jzksmj_319.apk",
+        "app_activity": "com.chuangzewenhua.jzksmj.SplashActivity"
+    },
+    {
+        "app_name": "科目一科目四题库考试宝",
+        "package_name": "com.lslyiyun.jiakao",
+        "file_name": "com.lslyiyun.jiakao_320.apk",
+        "app_activity": "com.lslyiyun.jiakao.MainActivity"
+    },
+    {
+        "app_name": "驾考宝库",
+        "package_name": "com.zsdrivingtest.god",
+        "file_name": "com.zsdrivingtest.god_321.apk",
+        "app_activity": "com.cssq.drivingtest.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "五秉驾考",
+        "package_name": "com.mocrew.kcbd2",
+        "file_name": "com.mocrew.kcbd2_322.apk",
+        "app_activity": "com.example.fyy_kcbd_new_app.MainActivity"
+    },
+    {
+        "app_name": "驾校通",
+        "package_name": "com.bj.chuanglian.coach",
+        "file_name": "com.bj.chuanglian.coach_323.apk",
+        "app_activity": "com.bj.chuanglian.coach.ui.StartPageActivity"
+    },
+    {
+        "app_name": "交通标志手册",
+        "package_name": "com.app.gpjtbzsc",
+        "file_name": "com.app.gpjtbzsc_324.apk",
+        "app_activity": "com.app.ivx.MainActivity"
+    },
+    {
+        "app_name": "考车模拟考驾照",
+        "package_name": "www.moni.kaojiazhao.yx",
+        "file_name": "www.moni.kaojiazhao.yx_325.apk",
+        "app_activity": "com.zy.app.devappcollection.StartActivity"
+    },
+    {
+        "app_name": "驾考速记",
+        "package_name": "com.jkpx666.app",
+        "file_name": "com.jkpx666.app_326.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "西培学堂",
+        "package_name": "com.cqxptech.xpxt",
+        "file_name": "com.cqxptech.xpxt_328.apk",
+        "app_activity": "com.cqxptech.xpxt.activity.LauncherActivity"
+    },
+    {
+        "app_name": "驾考优速通",
+        "package_name": "com.jiakyousut.dew",
+        "file_name": "com.jiakyousut.dew_329.apk",
+        "app_activity": "com.jiakyousut.dew.page.SplashActivity"
+    },
+    {
+        "app_name": "摩托车驾证宝典",
+        "package_name": "com.fetciayb.ottjgnan",
+        "file_name": "com.fetciayb.ottjgnan_330.apk",
+        "app_activity": "com.fetciayb.ottjgnan.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "学法减分免费搜题",
+        "package_name": "com.chznai.dplm",
+        "file_name": "com.chznai.dplm_331.apk",
+        "app_activity": "com.chznai.dplm.splash.SplashActivity"
+    },
+    {
+        "app_name": "摩托车驾考通关",
+        "package_name": "com.dhvovwq.ncvrjyk",
+        "file_name": "com.dhvovwq.ncvrjyk_332.apk",
+        "app_activity": "com.dhvovwq.ncvrjyk.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "驾考小助手",
+        "package_name": "com.bit.world.driving.test.helper.app",
+        "file_name": "com.bit.world.driving.test.helper.app_333.apk",
+        "app_activity": "com.bit.world.driving.test.helper.app.MainActivity"
+    },
+    {
+        "app_name": "学法减分题库大全",
+        "package_name": "com.lsj.copy",
+        "file_name": "com.lsj.copy_334.apk",
+        "app_activity": "com.lsj.copy.activity.StartActivity"
+    },
+    {
+        "app_name": "车考驾驶证模拟",
+        "package_name": "jkcxjq.com.mw",
+        "file_name": "jkcxjq.com.mw_335.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    }
+]

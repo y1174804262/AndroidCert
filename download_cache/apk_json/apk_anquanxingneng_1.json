@@ -1,0 +1,596 @@
+[
+    {
+        "app_name": "SAGE Encrypt",
+        "package_name": "com.SAGE.encrypt",
+        "file_name": "com.SAGE.encrypt_2.apk",
+        "app_activity": "com.insthub.BeeFramework.activity.StartActivity"
+    },
+    {
+        "app_name": "S2i",
+        "package_name": "com.S2i.Camera",
+        "file_name": "com.S2i.Camera_3.apk",
+        "app_activity": "com.s2icode.camera.activity.S2iSplashScreenActivity"
+    },
+    {
+        "app_name": "海马爸比",
+        "package_name": "com.simshine.cn.aiothd",
+        "file_name": "com.simshine.cn.aiothd_4.apk",
+        "app_activity": "com.simshine.cn.aiothd.activity.SplashScreenActivity"
+    },
+    {
+        "app_name": "超强省电宝",
+        "package_name": "com.nybattery.cqsd",
+        "file_name": "com.nybattery.cqsd_5.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "掌上电池助手",
+        "package_name": "com.nybattery.dczs",
+        "file_name": "com.nybattery.dczs_6.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "隐私相册保险箱",
+        "package_name": "ps.rio.privacysafe",
+        "file_name": "ps.rio.privacysafe_7.apk",
+        "app_activity": "ps.rio.privacysafe.SplashActivity"
+    },
+    {
+        "app_name": "云眸社区物业版",
+        "package_name": "com.hikvision.property",
+        "file_name": "com.hikvision.property_8.apk",
+        "app_activity": "com.hikvision.owner.function.start.StartupPageActivity"
+    },
+    {
+        "app_name": "FFvideo",
+        "package_name": "com.ffvideo.ali",
+        "file_name": "com.ffvideo.ali_9.apk",
+        "app_activity": "com.arcsoft.closeli.SplashActivity"
+    },
+    {
+        "app_name": "程序加密锁",
+        "package_name": "com.gtdev5.indulgelock",
+        "file_name": "com.gtdev5.indulgelock_12.apk",
+        "app_activity": "com.gtdev5.indulgelock.ui.activitys.SplashActivityTeo"
+    },
+    {
+        "app_name": "微信加密锁",
+        "package_name": "com.jtjsb.wxjms",
+        "file_name": "com.jtjsb.wxjms_13.apk",
+        "app_activity": "com.jtjsb.wxsds.activity.SplashActiviy"
+    },
+    {
+        "app_name": "手机智能锁助手",
+        "package_name": "com.jtjsb.wxszs",
+        "file_name": "com.jtjsb.wxszs_14.apk",
+        "app_activity": "com.jtjsb.wxsds.activity.SplashActiviy"
+    },
+    {
+        "app_name": "千锁相册",
+        "package_name": "com.lezhi.safebox",
+        "file_name": "com.lezhi.safebox_15.apk",
+        "app_activity": "com.lezhi.safebox.act.LaunchActivity"
+    },
+    {
+        "app_name": "cuckoo",
+        "package_name": "com.tange365.buguniao",
+        "file_name": "com.tange365.buguniao_16.apk",
+        "app_activity": "com.tange365.icam365.activity.LaunchActivity"
+    },
+    {
+        "app_name": "智能隐私应用加密锁",
+        "package_name": "cn.tiantian.lock",
+        "file_name": "cn.tiantian.lock_17.apk",
+        "app_activity": "cn.tiantian.lock.SplashActivity"
+    },
+    {
+        "app_name": "天天省电宝",
+        "package_name": "com.nxbattery.sdgj",
+        "file_name": "com.nxbattery.sdgj_18.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "Union Authenticator",
+        "package_name": "com.keyou.union.token",
+        "file_name": "com.keyou.union.token_19.apk",
+        "app_activity": "com.keyou.union.token.MainActivity"
+    },
+    {
+        "app_name": "防监听通话",
+        "package_name": "cn.lslake.fangjianting",
+        "file_name": "cn.lslake.fangjianting_20.apk",
+        "app_activity": "com.sqcatfix.emptyproject.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "战火密令",
+        "package_name": "com.zhanhuo.android.securitylock",
+        "file_name": "com.zhanhuo.android.securitylock_21.apk",
+        "app_activity": "com.zhanhuo.android.securitylock.activity.PrivacyActivity"
+    },
+    {
+        "app_name": "密码键盘",
+        "package_name": "com.kongzue.secretinput",
+        "file_name": "com.kongzue.secretinput_22.apk",
+        "app_activity": "com.kongzue.secretinput.activity.FirstActivity"
+    },
+    {
+        "app_name": "针孔摄像头扫描",
+        "package_name": "com.shexiangtou.tipa",
+        "file_name": "com.shexiangtou.tipa_23.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "隐私盾",
+        "package_name": "com.jmtec.lock",
+        "file_name": "com.jmtec.lock_24.apk",
+        "app_activity": "com.jmtec.lock.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "证解",
+        "package_name": "net.hyperchain.eemp.notarization",
+        "file_name": "net.hyperchain.eemp.notarization_25.apk",
+        "app_activity": "net.hyperchain.eemp.notarization.visual.splash.SplashActivity"
+    },
+    {
+        "app_name": "炻器物联",
+        "package_name": "kunchuangyech.net.miracastapplication",
+        "file_name": "kunchuangyech.net.miracastapplication_26.apk",
+        "app_activity": "kunchuangyech.net.miracastapplication.SplashActivity"
+    },
+    {
+        "app_name": "手机一键锁屏管家",
+        "package_name": "com.sjyjspgj.app",
+        "file_name": "com.sjyjspgj.app_27.apk",
+        "app_activity": "com.commonLib.libs.base.ui.SplashFullVideoActivity"
+    },
+    {
+        "app_name": "抖商虚拟助手",
+        "package_name": "com.imuji.vhelper",
+        "file_name": "com.imuji.vhelper_28.apk",
+        "app_activity": "com.imuji.vhelper.activity.SplashActivity"
+    },
+    {
+        "app_name": "手机防盗报警器",
+        "package_name": "com.liubowang.cellphonealarm",
+        "file_name": "com.liubowang.cellphonealarm_29.apk",
+        "app_activity": "com.wm.tool.alarm.activity.FastActivity"
+    },
+    {
+        "app_name": "触控精灵",
+        "package_name": "com.mxz.wxautojiafujinderen",
+        "file_name": "com.mxz.wxautojiafujinderen_30.apk",
+        "app_activity": "com.mxz.wxautojiafujinderen.activitys.SplashActivity"
+    },
+    {
+        "app_name": "飞网",
+        "package_name": "com.gmzta.www",
+        "file_name": "com.gmzta.www_31.apk",
+        "app_activity": "com.gmzta.www.MainActivity"
+    },
+    {
+        "app_name": "清影电池管家",
+        "package_name": "com.js.battery.qygj",
+        "file_name": "com.js.battery.qygj_32.apk",
+        "app_activity": "com.js.battery.qygj.ui.splash.JFLAJLKWERRA"
+    },
+    {
+        "app_name": "电池专家",
+        "package_name": "com.juyi.battery.infinite.master",
+        "file_name": "com.juyi.battery.infinite.master_33.apk",
+        "app_activity": "com.abct.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "金甲EDS",
+        "package_name": "com.leoman.edsPhone",
+        "file_name": "com.leoman.edsPhone_34.apk",
+        "app_activity": "com.leoman.edsPhone.base.SplashActivity"
+    },
+    {
+        "app_name": "Brevent",
+        "package_name": "me.piebridge.brevent",
+        "file_name": "me.piebridge.brevent_35.apk",
+        "app_activity": "me.piebridge.brevent.ui.BreventActivity"
+    },
+    {
+        "app_name": "天天省电",
+        "package_name": "com.ljbattery.ttsd",
+        "file_name": "com.ljbattery.ttsd_36.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "手机清灰管家",
+        "package_name": "com.xiaomm.clean",
+        "file_name": "com.xiaomm.clean_37.apk",
+        "app_activity": "com.xiaomm.clean.activity.SplashActivity"
+    },
+    {
+        "app_name": "QQ安全中心",
+        "package_name": "com.tencent.token",
+        "file_name": "com.tencent.token_38.apk",
+        "app_activity": "com.tencent.token.ui.LogoActivity"
+    },
+    {
+        "app_name": "斯蒂尔鉴别",
+        "package_name": "cn.com.stanic.jb.stihl",
+        "file_name": "cn.com.stanic.jb.stihl_39.apk",
+        "app_activity": "cn.com.stanic.jb.stihl.MainActivity"
+    },
+    {
+        "app_name": "文件解压王",
+        "package_name": "com.txj.airs.decomp",
+        "file_name": "com.txj.airs.decomp_40.apk",
+        "app_activity": "cn.zhixiaohui.unzip.rar.ui.other.WelZxhActivity"
+    },
+    {
+        "app_name": "充电小金手",
+        "package_name": "com.nrkjs.gnbb",
+        "file_name": "com.nrkjs.gnbb_41.apk",
+        "app_activity": "com.walk.home.health.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "应用隐藏计算器icon",
+        "package_name": "com.tiantian.picprivate",
+        "file_name": "com.tiantian.picprivate_42.apk",
+        "app_activity": "com.tiantian.picprivate.SplashActivity"
+    },
+    {
+        "app_name": "搏兔卫士",
+        "package_name": "net.botuai.botu_guardian",
+        "file_name": "net.botuai.botu_guardian_43.apk",
+        "app_activity": "net.botuai.botu_guardian.MainActivity"
+    },
+    {
+        "app_name": "SecureLink",
+        "package_name": "com.wangsu.sdwanvpn",
+        "file_name": "com.wangsu.sdwanvpn_44.apk",
+        "app_activity": "com.wangsu.sdwanvpn.ui.activities.SplashActivity"
+    },
+    {
+        "app_name": "DengLu1",
+        "package_name": "com.cn.denglu1.denglu",
+        "file_name": "com.cn.denglu1.denglu_46.apk",
+        "app_activity": "com.cn.denglu1.denglu.ui.guide.SplashActivity"
+    },
+    {
+        "app_name": "盾安云",
+        "package_name": "uni.UNID090C61",
+        "file_name": "uni.UNID090C61_47.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "私密应用锁",
+        "package_name": "cn.mosimiao.lock",
+        "file_name": "cn.mosimiao.lock_49.apk",
+        "app_activity": "cn.mosimiao.lock.SplashActivity"
+    },
+    {
+        "app_name": "双安系统",
+        "package_name": "com.shuangan.security1",
+        "file_name": "com.shuangan.security1_50.apk",
+        "app_activity": "com.shuangan.security1.ui.common.SplashActivity"
+    },
+    {
+        "app_name": "Battery Dogs",
+        "package_name": "com.kkj.battery",
+        "file_name": "com.kkj.battery_51.apk",
+        "app_activity": "com.module.home.ui.start.StartActivity"
+    },
+    {
+        "app_name": "私密相册盒子",
+        "package_name": "com.simixiangce",
+        "file_name": "com.simixiangce_52.apk",
+        "app_activity": "com.simixiangce.AppActivity"
+    },
+    {
+        "app_name": "电量补给仓",
+        "package_name": "com.yueling.dlbjc",
+        "file_name": "com.yueling.dlbjc_53.apk",
+        "app_activity": "com.walk.home.health.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "手机应用锁",
+        "package_name": "cn.njwlh.lock",
+        "file_name": "cn.njwlh.lock_54.apk",
+        "app_activity": "cn.njwlh.lock.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "海湾服务",
+        "package_name": "uni.UNID8C77FB",
+        "file_name": "uni.UNID8C77FB_55.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "Padlock",
+        "package_name": "com.app.padlock.release",
+        "file_name": "com.app.padlock.release_56.apk",
+        "app_activity": "com.securephone.view.SplashActivity"
+    },
+    {
+        "app_name": "极省电",
+        "package_name": "com.zdbattery.jsd",
+        "file_name": "com.zdbattery.jsd_57.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "Phone Clone",
+        "package_name": "com.hicloud.android.clone",
+        "file_name": "com.hicloud.android.clone_58.apk",
+        "app_activity": "com.huawei.android.clone.activity.sender.ChooseReceiveSendActivity"
+    },
+    {
+        "app_name": "保密柜",
+        "package_name": "com.yunchuan.security",
+        "file_name": "com.yunchuan.security_59.apk",
+        "app_activity": "com.yunchuan.security.SplashActivity"
+    },
+    {
+        "app_name": "99账号中心",
+        "package_name": "com.nd.aqcenter",
+        "file_name": "com.nd.aqcenter_60.apk",
+        "app_activity": "com.nd.aqcenter.splash.SplashActivity"
+    },
+    {
+        "app_name": "File Manager",
+        "package_name": "com.anguomob.files",
+        "file_name": "com.anguomob.files_61.apk",
+        "app_activity": "com.anguomob.files.activity.SplashActivity"
+    },
+    {
+        "app_name": "就这手机",
+        "package_name": "com.anguomob.phone",
+        "file_name": "com.anguomob.phone_62.apk",
+        "app_activity": "com.anguomob.phone.activity.SplashActivity"
+    },
+    {
+        "app_name": "Security Code",
+        "package_name": "com.s2icode.s2ioem",
+        "file_name": "com.s2icode.s2ioem_63.apk",
+        "app_activity": "com.s2icode.s2ioem.activity.S2iSplashScreenActivity"
+    },
+    {
+        "app_name": "YY安全中心",
+        "package_name": "com.yy.android.udbsec",
+        "file_name": "com.yy.android.udbsec_64.apk",
+        "app_activity": "com.yy.yyudbsec.activity.SplashActivity"
+    },
+    {
+        "app_name": "悦享电池",
+        "package_name": "com.jf.powersave.enjoys",
+        "file_name": "com.jf.powersave.enjoys_66.apk",
+        "app_activity": "com.nvbdjl.iuryhhs.kidosd.HGSUKSW"
+    },
+    {
+        "app_name": "防监听专家",
+        "package_name": "com.leshu.fjtzj",
+        "file_name": "com.leshu.fjtzj_67.apk",
+        "app_activity": "com.leshu.fjtzj.activity.SplashActivity"
+    },
+    {
+        "app_name": "省心充电",
+        "package_name": "com.cqdyou.sxcdian",
+        "file_name": "com.cqdyou.sxcdian_68.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "暖暖网络随心连",
+        "package_name": "com.android.rjctsny.guctsratio",
+        "file_name": "com.android.rjctsny.guctsratio_69.apk",
+        "app_activity": "com.n.r.Yoke"
+    },
+    {
+        "app_name": "文件管理管家",
+        "package_name": "cn.shijihaiwaitech.zip",
+        "file_name": "cn.shijihaiwaitech.zip_70.apk",
+        "app_activity": "com.shijihaiwaitech.zip.ui.SplashActivity"
+    },
+    {
+        "app_name": "秘客",
+        "package_name": "com.ft.mike",
+        "file_name": "com.ft.mike_71.apk",
+        "app_activity": "com.ft.mike.ui.AgentActivity"
+    },
+    {
+        "app_name": "电量卫士",
+        "package_name": "com.hzshhong.dlwshi",
+        "file_name": "com.hzshhong.dlwshi_72.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "传送备份助手",
+        "package_name": "bwlbj.seven.com",
+        "file_name": "bwlbj.seven.com_73.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "密码助手",
+        "package_name": "com.yuanli.passwordassistant",
+        "file_name": "com.yuanli.passwordassistant_74.apk",
+        "app_activity": "com.yuanli.passwordassistant.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "电池养护",
+        "package_name": "com.android.rich.mean.battery",
+        "file_name": "com.android.rich.mean.battery_75.apk",
+        "app_activity": "com.a.wla.hqcH"
+    },
+    {
+        "app_name": "手机防监控监听屏蔽护盾",
+        "package_name": "com.tm.sxzdsjfjt",
+        "file_name": "com.tm.sxzdsjfjt_76.apk",
+        "app_activity": "com.litemob.stoplisten.ui.activity.WelcomActivity"
+    },
+    {
+        "app_name": "电智慧",
+        "package_name": "com.example.electricity",
+        "file_name": "com.example.electricity_77.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "测网速UUSpeed",
+        "package_name": "com.uusense.speed",
+        "file_name": "com.uusense.speed_78.apk",
+        "app_activity": "com.uusense.uuspeed.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "追光电池宝",
+        "package_name": "com.jj.battery.followspot",
+        "file_name": "com.jj.battery.followspot_79.apk",
+        "app_activity": "com.ewrxrsfgd.plkshxd.ueytejsdfx.MXKAJEHXEA"
+    },
+    {
+        "app_name": "防监听大师",
+        "package_name": "com.jhsoft.antioverheard",
+        "file_name": "com.jhsoft.antioverheard_80.apk",
+        "app_activity": "com.jhsoft.antioverheard.activity.SplashActivity"
+    },
+    {
+        "app_name": "电量骑士",
+        "package_name": "com.chituo.dlqs",
+        "file_name": "com.chituo.dlqs_81.apk",
+        "app_activity": "com.jingling.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "COSBrowser-TencentCloud",
+        "package_name": "com.qcloud.cos.client",
+        "file_name": "com.qcloud.cos.client_82.apk",
+        "app_activity": "com.qcloud.cos.client.SplashActivity"
+    },
+    {
+        "app_name": "桥梁卫士",
+        "package_name": "com.zklanzhuo.qhweishi",
+        "file_name": "com.zklanzhuo.qhweishi_83.apk",
+        "app_activity": "com.zklanzhuo.qhweishi.homepage.SplashActivity"
+    },
+    {
+        "app_name": "ParaZTA",
+        "package_name": "para.mobile.zta",
+        "file_name": "para.mobile.zta_84.apk",
+        "app_activity": "para.mobile.zta.MainActivity"
+    },
+    {
+        "app_name": "应用安全锁",
+        "package_name": "com.xuq.applocker",
+        "file_name": "com.xuq.applocker_85.apk",
+        "app_activity": "com.xuq.applocker.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "触控加速器",
+        "package_name": "com.ckjsq.app",
+        "file_name": "com.ckjsq.app_86.apk",
+        "app_activity": "com.commonLib.libs.base.ui.SplashFullVideoActivity"
+    },
+    {
+        "app_name": "水域智救",
+        "package_name": "com.smiot.scenicspot",
+        "file_name": "com.smiot.scenicspot_87.apk",
+        "app_activity": "com.smiot.scenicspot.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "VMOS Pro",
+        "package_name": "com.vmos.pro",
+        "file_name": "com.vmos.pro_88.apk",
+        "app_activity": "com.vmos.pro.activities.PureSplashActivity"
+    },
+    {
+        "app_name": "品宁之家",
+        "package_name": "com.pinning.home",
+        "file_name": "com.pinning.home_89.apk",
+        "app_activity": "com.anjvision.androidp2pclientwithlt.UsernameLoginActivity"
+    },
+    {
+        "app_name": "针孔摄像头探测软件",
+        "package_name": "cn.amazecode.wifi",
+        "file_name": "cn.amazecode.wifi_90.apk",
+        "app_activity": "cn.amazecode.wifi.ui.AppLoadingActivity"
+    },
+    {
+        "app_name": "隐私相册",
+        "package_name": "fh.apache.privacyalbum",
+        "file_name": "fh.apache.privacyalbum_91.apk",
+        "app_activity": "fh.apache.privacyalbum.SplashActivity"
+    },
+    {
+        "app_name": "鲁大师",
+        "package_name": "com.ludashi.benchmark",
+        "file_name": "com.ludashi.benchmark_92.apk",
+        "app_activity": "com.ludashi.benchmark.SplashActivity"
+    },
+    {
+        "app_name": "宁易签",
+        "package_name": "com.njca.xyq",
+        "file_name": "com.njca.xyq_93.apk",
+        "app_activity": "com.njca.xyq.ui.launch.LaunchActivity"
+    },
+    {
+        "app_name": "隐私加密保险箱",
+        "package_name": "com.yczj.encryptprivacy",
+        "file_name": "com.yczj.encryptprivacy_94.apk",
+        "app_activity": "com.cy.privatespace.SplashActivity"
+    },
+    {
+        "app_name": "暗盒",
+        "package_name": "com.cqaizhe.cassette",
+        "file_name": "com.cqaizhe.cassette_95.apk",
+        "app_activity": "com.cqaizhe.cassette.ui.SplashAct"
+    },
+    {
+        "app_name": "OTP Mobile",
+        "package_name": "com.ftsafe.otp.activity",
+        "file_name": "com.ftsafe.otp.activity_96.apk",
+        "app_activity": "com.ftsafe.otp.activity.main.MainActivity"
+    },
+    {
+        "app_name": "数据指纹",
+        "package_name": "com.zx.datafingerprint",
+        "file_name": "com.zx.datafingerprint_97.apk",
+        "app_activity": "com.zx.datafingerprint.LoginActivity"
+    },
+    {
+        "app_name": "应用隐藏计算器",
+        "package_name": "app.icon.gone",
+        "file_name": "app.icon.gone_98.apk",
+        "app_activity": "app.icon.gone.splash.SplashActivity"
+    },
+    {
+        "app_name": "隐私保险柜",
+        "package_name": "com.bingo.privacy",
+        "file_name": "com.bingo.privacy_99.apk",
+        "app_activity": "com.bingo.privacy.ui.PasswordActivity"
+    },
+    {
+        "app_name": "隐藏空间",
+        "package_name": "com.phonejm.lockzy",
+        "file_name": "com.phonejm.lockzy_100.apk",
+        "app_activity": "com.zhangying.encryptsteward.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "CQC移动签",
+        "package_name": "cn.com.cqc.coesign",
+        "file_name": "cn.com.cqc.coesign_101.apk",
+        "app_activity": "cn.com.cqc.coesign.activity.login.LoginActivity"
+    },
+    {
+        "app_name": "私密文件保险箱",
+        "package_name": "com.dada.safe",
+        "file_name": "com.dada.safe_102.apk",
+        "app_activity": "com.dada.safe.ui.common.LunchActivity"
+    },
+    {
+        "app_name": "充电极速通",
+        "package_name": "com.runben.cdjst",
+        "file_name": "com.runben.cdjst_103.apk",
+        "app_activity": "com.jingling.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "测网速专家",
+        "package_name": "com.twx.speed",
+        "file_name": "com.twx.speed_104.apk",
+        "app_activity": "com.feisukj.ad.SplashActivity"
+    },
+    {
+        "app_name": "Eques",
+        "package_name": "com.eques.doorbell",
+        "file_name": "com.eques.doorbell_105.apk",
+        "app_activity": "com.eques.doorbell.ui.activity.SplashActivity"
+    }
+]

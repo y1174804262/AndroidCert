@@ -1,0 +1,590 @@
+[
+    {
+        "app_name": "足球大赢家APP",
+        "package_name": "cn.dyjw.app",
+        "file_name": "cn.dyjw.app_1.apk",
+        "app_activity": "cn.dyjw.app.MainActivity"
+    },
+    {
+        "app_name": "中国信鸽协会",
+        "package_name": "com.bpsc.crpa",
+        "file_name": "com.bpsc.crpa_2.apk",
+        "app_activity": "com.bpsc.crpa.MainActivity"
+    },
+    {
+        "app_name": "球天下体育",
+        "package_name": "com.qtx.qtxty",
+        "file_name": "com.qtx.qtxty_3.apk",
+        "app_activity": "com.qtx.qtxty.MainActivity"
+    },
+    {
+        "app_name": "千嗨体育",
+        "package_name": "com.qianhaitiyu",
+        "file_name": "com.qianhaitiyu_4.apk",
+        "app_activity": "com.qianhaitiyu.WelcomeActivity"
+    },
+    {
+        "app_name": "即嗨体育",
+        "package_name": "com.haiqiu.jihai",
+        "file_name": "com.haiqiu.jihai_5.apk",
+        "app_activity": "com.haiqiu.jihai.app.activity.SplashActivity"
+    },
+    {
+        "app_name": "球讯",
+        "package_name": "com.halo.fkkq",
+        "file_name": "com.halo.fkkq_6.apk",
+        "app_activity": "com.halo.football.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "火球体育",
+        "package_name": "com.magicball.grow",
+        "file_name": "com.magicball.grow_7.apk",
+        "app_activity": "com.magicball.grow.main.SplashActivity"
+    },
+    {
+        "app_name": "懂球帝",
+        "package_name": "com.dongqiudi.news",
+        "file_name": "com.dongqiudi.news_8.apk",
+        "app_activity": "com.dongqiudi.news.BaseSplashActivity"
+    },
+    {
+        "app_name": "球胜比分",
+        "package_name": "com.hnzhiqianli.ydl",
+        "file_name": "com.hnzhiqianli.ydl_9.apk",
+        "app_activity": "com.vipc.ydl.page.splash.SplashActivity"
+    },
+    {
+        "app_name": "疯狂红单",
+        "package_name": "com.vodone.know",
+        "file_name": "com.vodone.know_10.apk",
+        "app_activity": "com.vodone.caibo.CaiboActivity"
+    },
+    {
+        "app_name": "足球魔方",
+        "package_name": "com.hhb.zqmf",
+        "file_name": "com.hhb.zqmf_11.apk",
+        "app_activity": "com.hhb.zqmf.activity.Launch1Activity"
+    },
+    {
+        "app_name": "万代卡牌",
+        "package_name": "com.windoent.bandaimatch",
+        "file_name": "com.windoent.bandaimatch_12.apk",
+        "app_activity": "com.windoent.bandaimatch.MainActivity"
+    },
+    {
+        "app_name": "微球",
+        "package_name": "com.bet007.mobile.micro",
+        "file_name": "com.bet007.mobile.micro_13.apk",
+        "app_activity": "com.huaying.mobile.score.splash.SplashScreenActivity"
+    },
+    {
+        "app_name": "看球有料",
+        "package_name": "com.feiyan.sports",
+        "file_name": "com.feiyan.sports_14.apk",
+        "app_activity": "com.feiyan.sports.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "中国体育",
+        "package_name": "com.seca.live",
+        "file_name": "com.seca.live_15.apk",
+        "app_activity": "cn.coolyou.liveplus.activity.LaunchActivity"
+    },
+    {
+        "app_name": "球霸霸",
+        "package_name": "ballbaba.chongya.space",
+        "file_name": "ballbaba.chongya.space_16.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "唠球",
+        "package_name": "com.hongniya.sports",
+        "file_name": "com.hongniya.sports_17.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "捷报比分",
+        "package_name": "com.nowscore",
+        "file_name": "com.nowscore_18.apk",
+        "app_activity": "com.nowscore.MainActivity"
+    },
+    {
+        "app_name": "AI懂球",
+        "package_name": "com.shs.aiball",
+        "file_name": "com.shs.aiball_19.apk",
+        "app_activity": "com.shs.aiball.MainActivity"
+    },
+    {
+        "app_name": "球进了专家版",
+        "package_name": "expert.ball.tianqi.cool",
+        "file_name": "expert.ball.tianqi.cool_20.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "红胜体育",
+        "package_name": "com.sport583.sport",
+        "file_name": "com.sport583.sport_21.apk",
+        "app_activity": "com.example.sport.MainActivity"
+    },
+    {
+        "app_name": "子弹体育",
+        "package_name": "com.zidantiyu.zdty",
+        "file_name": "com.zidantiyu.zdty_22.apk",
+        "app_activity": "com.zidantiyu.zdty.activity.login.GuidePageActivity"
+    },
+    {
+        "app_name": "大正高尔夫",
+        "package_name": "com.dazheng",
+        "file_name": "com.dazheng_23.apk",
+        "app_activity": "com.dazheng.WelcomeActivity"
+    },
+    {
+        "app_name": "助赢足球",
+        "package_name": "com.zhuying.zq",
+        "file_name": "com.zhuying.zq_24.apk",
+        "app_activity": "com.zhuying.zq.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "广东体育",
+        "package_name": "com.touchtv.gdsports",
+        "file_name": "com.touchtv.gdsports_25.apk",
+        "app_activity": "com.gdtv.module.main.view.activity.SplashActivity_v2"
+    },
+    {
+        "app_name": "大象比分",
+        "package_name": "com.dxvs.android",
+        "file_name": "com.dxvs.android_26.apk",
+        "app_activity": "com.app.alescore.WelcomeActivity"
+    },
+    {
+        "app_name": "斑马体育",
+        "package_name": "com.zebratec.zebra",
+        "file_name": "com.zebratec.zebra_27.apk",
+        "app_activity": "com.zebratec.zebra.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "蝴蝶体育",
+        "package_name": "com.catjc.butterfly",
+        "file_name": "com.catjc.butterfly_28.apk",
+        "app_activity": "com.catjc.butterfly.ui.other.activity.SplashAct"
+    },
+    {
+        "app_name": "虎扑",
+        "package_name": "com.hupu.games",
+        "file_name": "com.hupu.games_29.apk",
+        "app_activity": "com.hupu.games.main.MainActivity"
+    },
+    {
+        "app_name": "小炮体育",
+        "package_name": "com.sina.lottery.sports",
+        "file_name": "com.sina.lottery.sports_30.apk",
+        "app_activity": "com.sina.lottery.gai.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "足球财富",
+        "package_name": "com.rrc.footballwealth",
+        "file_name": "com.rrc.footballwealth_31.apk",
+        "app_activity": "com.rrc.footballwealth.splash.view.SplashActivity"
+    },
+    {
+        "app_name": "雷速体育",
+        "package_name": "com.leisu.sports",
+        "file_name": "com.leisu.sports_32.apk",
+        "app_activity": "com.leisu.sports.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "城体育",
+        "package_name": "com.yunduan.citysport",
+        "file_name": "com.yunduan.citysport_33.apk",
+        "app_activity": "com.yunduan.melvinhou.launch.LaunchActivity"
+    },
+    {
+        "app_name": "91赛讯",
+        "package_name": "hdzs.pack",
+        "file_name": "hdzs.pack_34.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "球迷屋",
+        "package_name": "com.jsty.qiumiwu",
+        "file_name": "com.jsty.qiumiwu_35.apk",
+        "app_activity": "com.jsty.qiumiwu.MainActivity"
+    },
+    {
+        "app_name": "分势体育",
+        "package_name": "com.sbj.fenshitiyu",
+        "file_name": "com.sbj.fenshitiyu_36.apk",
+        "app_activity": "com.sbj.fenshitiyu.LauncherActivity"
+    },
+    {
+        "app_name": "川体在线",
+        "package_name": "com.chuantiOnline",
+        "file_name": "com.chuantiOnline_37.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "东方体育",
+        "package_name": "com.orientalsports.osportsapp",
+        "file_name": "com.orientalsports.osportsapp_38.apk",
+        "app_activity": "com.orientalsports.osportsapp.MainActivity"
+    },
+    {
+        "app_name": "白鲸体育",
+        "package_name": "com.major.magicfootball",
+        "file_name": "com.major.magicfootball_39.apk",
+        "app_activity": "com.major.magicfootball.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "NBA",
+        "package_name": "com.tencent.nbagametime",
+        "file_name": "com.tencent.nbagametime_40.apk",
+        "app_activity": "com.tencent.nbagametime.component.splash.SplashActivity"
+    },
+    {
+        "app_name": "红单魔方",
+        "package_name": "com.duba.redcube",
+        "file_name": "com.duba.redcube_41.apk",
+        "app_activity": "net.coding.redcube.WelcomeActivity"
+    },
+    {
+        "app_name": "拉澳足球",
+        "package_name": "com.lazq.app",
+        "file_name": "com.lazq.app_42.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "斑马赛事通",
+        "package_name": "cn.snsports.match",
+        "file_name": "cn.snsports.match_43.apk",
+        "app_activity": "cn.snsports.match.ui.SplashActivity"
+    },
+    {
+        "app_name": "鲸奇体育",
+        "package_name": "com.jingqitiyu.sports.jqty",
+        "file_name": "com.jingqitiyu.sports.jqty_44.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "红球会",
+        "package_name": "com.jykj.hqh",
+        "file_name": "com.jykj.hqh_45.apk",
+        "app_activity": "com.jykj.hqh.MainActivity"
+    },
+    {
+        "app_name": "知球体育",
+        "package_name": "com.livescore.ssbf",
+        "file_name": "com.livescore.ssbf_46.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "雷神体育",
+        "package_name": "cn.scorels.lssport",
+        "file_name": "cn.scorels.lssport_47.apk",
+        "app_activity": "com.example.scorels_flutter_app.MainActivity"
+    },
+    {
+        "app_name": "球料网",
+        "package_name": "com.ballmaterial.network",
+        "file_name": "com.ballmaterial.network_48.apk",
+        "app_activity": "com.ballmaterial.network.MainActivity"
+    },
+    {
+        "app_name": "人人看球",
+        "package_name": "com.renrenty.sports",
+        "file_name": "com.renrenty.sports_49.apk",
+        "app_activity": "com.sports.douqiu.xmsport.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "有球有料",
+        "package_name": "com.zhcw.yqyl",
+        "file_name": "com.zhcw.yqyl_50.apk",
+        "app_activity": "com.zhcw.app.SplashActivity"
+    },
+    {
+        "app_name": "雷氪体育",
+        "package_name": "com.inkr.sport",
+        "file_name": "com.inkr.sport_51.apk",
+        "app_activity": "com.inkr.sport.activities.SplashActivity"
+    },
+    {
+        "app_name": "ASCC Show",
+        "package_name": "com.asccshow.asccintl",
+        "file_name": "com.asccshow.asccintl_52.apk",
+        "app_activity": "com.asccshow.asccintl.ui.activity.login.StartActivity"
+    },
+    {
+        "app_name": "每日赛车",
+        "package_name": "com.romielf.mrsc",
+        "file_name": "com.romielf.mrsc_53.apk",
+        "app_activity": "com.romielf.mrsc.MainActivity"
+    },
+    {
+        "app_name": "体教联盟",
+        "package_name": "com.bwvip.sporteducation",
+        "file_name": "com.bwvip.sporteducation_54.apk",
+        "app_activity": "com.bwvip.sporteducation.SplashActivity"
+    },
+    {
+        "app_name": "AI盈球",
+        "package_name": "com.dly.aiball",
+        "file_name": "com.dly.aiball_55.apk",
+        "app_activity": "com.dly.aiball.MainActivity"
+    },
+    {
+        "app_name": "5EPlay",
+        "package_name": "com.fiveplay",
+        "file_name": "com.fiveplay_56.apk",
+        "app_activity": "com.fiveplay.sihp_homepage.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "盈球大师",
+        "package_name": "com.aicai.yingqiudashi",
+        "file_name": "com.aicai.yingqiudashi_57.apk",
+        "app_activity": "com.aicai.yingqiudashi.MainActivity"
+    },
+    {
+        "app_name": "红单天下",
+        "package_name": "com.hongdan.sports",
+        "file_name": "com.hongdan.sports_58.apk",
+        "app_activity": "com.hongdan.sports.ui.SplashActivity"
+    },
+    {
+        "app_name": "网易红彩",
+        "package_name": "com.netease.lotterynews",
+        "file_name": "com.netease.lotterynews_59.apk",
+        "app_activity": "com.netease.lottery.SplashActivity"
+    },
+    {
+        "app_name": "166体育",
+        "package_name": "com.sszcp8.redorder",
+        "file_name": "com.sszcp8.redorder_60.apk",
+        "app_activity": "com.sszcp8.redorder.splash.SplashActivity"
+    },
+    {
+        "app_name": "500体育",
+        "package_name": "esun500.com",
+        "file_name": "esun500.com_61.apk",
+        "app_activity": "com.esun.mainact.home.main.HomeMainActivityV413"
+    },
+    {
+        "app_name": "V站",
+        "package_name": "com.shemen365.shemen",
+        "file_name": "com.shemen365.shemen_62.apk",
+        "app_activity": "com.shemen365.modules.main.business.start.SplashActivity"
+    },
+    {
+        "app_name": "助攻王",
+        "package_name": "com.deepspace.assistwang",
+        "file_name": "com.deepspace.assistwang_63.apk",
+        "app_activity": "com.deepspace.assistwang.views.StartPageActivity"
+    },
+    {
+        "app_name": "鲲速",
+        "package_name": "com.kun.tga",
+        "file_name": "com.kun.tga_64.apk",
+        "app_activity": "com.kun.tga.activity.SplashAc"
+    },
+    {
+        "app_name": "球进了",
+        "package_name": "user.ball.tianqi.cool",
+        "file_name": "user.ball.tianqi.cool_65.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "有球看",
+        "package_name": "com.yqty.hfxzxwl",
+        "file_name": "com.yqty.hfxzxwl_66.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "北京足球",
+        "package_name": "cn.org.bjfapf",
+        "file_name": "cn.org.bjfapf_67.apk",
+        "app_activity": "cn.org.bjfapf.MainActivity"
+    },
+    {
+        "app_name": "足球比分",
+        "package_name": "com.v1.ss",
+        "file_name": "com.v1.ss_68.apk",
+        "app_activity": "com.vodone.caibo.CaiboActivity"
+    },
+    {
+        "app_name": "腾讯体育",
+        "package_name": "com.tencent.qqsports",
+        "file_name": "com.tencent.qqsports_69.apk",
+        "app_activity": "com.tencent.qqsports.ui.SplashActivity"
+    },
+    {
+        "app_name": "球大师",
+        "package_name": "com.qiudashi.qiudashitiyu",
+        "file_name": "com.qiudashi.qiudashitiyu_70.apk",
+        "app_activity": "com.qiudashi.qiudashitiyu.SplashActivity"
+    },
+    {
+        "app_name": "懂球圈",
+        "package_name": "com.yingqiu001.store",
+        "file_name": "com.yingqiu001.store_71.apk",
+        "app_activity": "com.yingqiu001.store.MainActivity"
+    },
+    {
+        "app_name": "闪电足球",
+        "package_name": "com.aitime.flashfootball",
+        "file_name": "com.aitime.flashfootball_72.apk",
+        "app_activity": "com.aitime.flash_football.MainActivity"
+    },
+    {
+        "app_name": "球客岛",
+        "package_name": "com.qdx.qiuzidao",
+        "file_name": "com.qdx.qiuzidao_73.apk",
+        "app_activity": "com.qdx.qiuzidao.MainActivity"
+    },
+    {
+        "app_name": "帮你找球料",
+        "package_name": "com.weball",
+        "file_name": "com.weball_74.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "鲸猜足球",
+        "package_name": "com.yinbao",
+        "file_name": "com.yinbao_75.apk",
+        "app_activity": "com.yinbao.MainActivity"
+    },
+    {
+        "app_name": "足球频道",
+        "package_name": "cn.ftv.tyss",
+        "file_name": "cn.ftv.tyss_76.apk",
+        "app_activity": "cn.ftv.tyss.MainActivity"
+    },
+    {
+        "app_name": "红单大师",
+        "package_name": "com.yixun.android",
+        "file_name": "com.yixun.android_77.apk",
+        "app_activity": "com.qiuku8.android.module.startup.StartupActivity"
+    },
+    {
+        "app_name": "体坛加",
+        "package_name": "com.tysci.titan",
+        "file_name": "com.tysci.titan_78.apk",
+        "app_activity": "com.tysci.titan.activity.AdActivity"
+    },
+    {
+        "app_name": "比分战报",
+        "package_name": "com.v1.zhanbao",
+        "file_name": "com.v1.zhanbao_79.apk",
+        "app_activity": "com.vodone.caibo.CaiboActivity"
+    },
+    {
+        "app_name": "K球",
+        "package_name": "kball.winpowerdata",
+        "file_name": "kball.winpowerdata_80.apk",
+        "app_activity": "com.kqiu.SplashActivity"
+    },
+    {
+        "app_name": "A8体育",
+        "package_name": "org.fungo.a8sport",
+        "file_name": "org.fungo.a8sport_81.apk",
+        "app_activity": "org.fungo.a8sport.MainActivity"
+    },
+    {
+        "app_name": "球场大咖",
+        "package_name": "com.master.football",
+        "file_name": "com.master.football_82.apk",
+        "app_activity": "com.vodone.caibo.LoadingActivity"
+    },
+    {
+        "app_name": "球球子",
+        "package_name": "cn.threecp.qiuqiuzi",
+        "file_name": "cn.threecp.qiuqiuzi_83.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "PP体育",
+        "package_name": "com.pplive.androidphone.sport",
+        "file_name": "com.pplive.androidphone.sport_84.apk",
+        "app_activity": "com.pplive.androidphone.sport.ui.AuthorityActivity"
+    },
+    {
+        "app_name": "专家有料",
+        "package_name": "expert.chongya.space",
+        "file_name": "expert.chongya.space_85.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "蜂鸟竞技",
+        "package_name": "com.fnscore.app",
+        "file_name": "com.fnscore.app_86.apk",
+        "app_activity": "com.fnscore.app.ui.login.activity.StartActivity"
+    },
+    {
+        "app_name": "掌上NBA",
+        "package_name": "net.joydao.nba.live",
+        "file_name": "net.joydao.nba.live_87.apk",
+        "app_activity": "net.joydao.nba.live.activity.LoadingActivity"
+    },
+    {
+        "app_name": "超神鲸",
+        "package_name": "com.chainsoccer.superwhale",
+        "file_name": "com.chainsoccer.superwhale_88.apk",
+        "app_activity": "com.chainsoccer.superwhale.views.StartPageActivity"
+    },
+    {
+        "app_name": "球向标",
+        "package_name": "com.huachao.qiuxiangbiao",
+        "file_name": "com.huachao.qiuxiangbiao_89.apk",
+        "app_activity": "com.huachao.qiuxiangbiao.MainActivity"
+    },
+    {
+        "app_name": "主任来了",
+        "package_name": "com.live.sportsconsulting",
+        "file_name": "com.live.sportsconsulting_90.apk",
+        "app_activity": "com.live.sportsconsulting.login.WelcomeActivity"
+    },
+    {
+        "app_name": "好料比分",
+        "package_name": "com.qiudashi.haoliaotiyu",
+        "file_name": "com.qiudashi.haoliaotiyu_91.apk",
+        "app_activity": "com.qiudashi.qiudashitiyu.SplashActivity"
+    },
+    {
+        "app_name": "出奇体育",
+        "package_name": "com.app.cqty",
+        "file_name": "com.app.cqty_92.apk",
+        "app_activity": "com.app.cqty.activity.LauncherActivity"
+    },
+    {
+        "app_name": "酷必体育",
+        "package_name": "com.kubi.sport",
+        "file_name": "com.kubi.sport_93.apk",
+        "app_activity": "com.kubi.sport.MainActivity"
+    },
+    {
+        "app_name": "预测之家",
+        "package_name": "com.szyucezhijia.app",
+        "file_name": "com.szyucezhijia.app_94.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "打拼",
+        "package_name": "com.dapindapin.dapinSport",
+        "file_name": "com.dapindapin.dapinSport_95.apk",
+        "app_activity": "com.dapindapin.dapinSport.MainActivity"
+    },
+    {
+        "app_name": "无限体育",
+        "package_name": "upsports.aphone.sports",
+        "file_name": "upsports.aphone.sports_96.apk",
+        "app_activity": "com.pplive.androidphone.sport.ui.AuthorityActivity"
+    },
+    {
+        "app_name": "斗浪体育",
+        "package_name": "com.zhisheng.dl",
+        "file_name": "com.zhisheng.dl_97.apk",
+        "app_activity": "com.zhisheng.dl.MainActivity"
+    },
+    {
+        "app_name": "极速有料",
+        "package_name": "com.jsty.youliao",
+        "file_name": "com.jsty.youliao_98.apk",
+        "app_activity": "com.example.youliao_new.MainActivity"
+    }
+]

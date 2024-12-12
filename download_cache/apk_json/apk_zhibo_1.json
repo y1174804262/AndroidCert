@@ -1,0 +1,938 @@
+[
+    {
+        "app_name": "觅光",
+        "package_name": "com.qiqu.app.miguang",
+        "file_name": "com.qiqu.app.miguang_1.apk",
+        "app_activity": "com.qiqu.app.miguang.MainActivity"
+    },
+    {
+        "app_name": "所见",
+        "package_name": "com.ydkeji.ydlive",
+        "file_name": "com.ydkeji.ydlive_2.apk",
+        "app_activity": "com.ydkeji.ydlive.ui.SplashActivity"
+    },
+    {
+        "app_name": "爱奇艺播播机",
+        "package_name": "com.qiyi.game.live",
+        "file_name": "com.qiyi.game.live_3.apk",
+        "app_activity": "com.qiyi.game.live.activity.MainActivity"
+    },
+    {
+        "app_name": "来疯",
+        "package_name": "com.youku.crazytogether",
+        "file_name": "com.youku.crazytogether_4.apk",
+        "app_activity": "com.youku.crazytogether.app.modules.splash.activity.SplashscreenActivity"
+    },
+    {
+        "app_name": "啵播Live",
+        "package_name": "com.xianyoulai.xyllive",
+        "file_name": "com.xianyoulai.xyllive_5.apk",
+        "app_activity": "com.live.combine.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "伴友直播",
+        "package_name": "com.banyou.ui",
+        "file_name": "com.banyou.ui_6.apk",
+        "app_activity": "com.showself.ui.LoadingActivity"
+    },
+    {
+        "app_name": "喵太抓娃娃",
+        "package_name": "com.qsmx.jww",
+        "file_name": "com.qsmx.jww_7.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "镜花直播",
+        "package_name": "com.jinghuazhibo.phonelive",
+        "file_name": "com.jinghuazhibo.phonelive_8.apk",
+        "app_activity": "com.jinghuazhibo.phonelive.activity.LauncherActivity"
+    },
+    {
+        "app_name": "人人直播",
+        "package_name": "com.renren.mobile.android",
+        "file_name": "com.renren.mobile.android_9.apk",
+        "app_activity": "com.renren.mobile.android.login.activitys.SplashActivity"
+    },
+    {
+        "app_name": "星河直播",
+        "package_name": "com.yingfu.mobile.android",
+        "file_name": "com.yingfu.mobile.android_10.apk",
+        "app_activity": "com.starshow.mobile.live.flutter_project.MainActivity"
+    },
+    {
+        "app_name": "喵魁直播",
+        "package_name": "com.miaokuizhibo.live",
+        "file_name": "com.miaokuizhibo.live_11.apk",
+        "app_activity": "com.miaokuizhibo.live.MainActivity"
+    },
+    {
+        "app_name": "智慧观赛",
+        "package_name": "com.juyan.freeplayer",
+        "file_name": "com.juyan.freeplayer_12.apk",
+        "app_activity": "com.juyan.freeplayer.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "花椒直播",
+        "package_name": "com.huajiao",
+        "file_name": "com.huajiao_13.apk",
+        "app_activity": "com.huajiao.cover.CoverActivity"
+    },
+    {
+        "app_name": "特维潮玩",
+        "package_name": "com.twcw.sega",
+        "file_name": "com.twcw.sega_14.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "乐嗨直播",
+        "package_name": "com.lehai.ui",
+        "file_name": "com.lehai.ui_15.apk",
+        "app_activity": "com.showself.ui.LoadingActivity"
+    },
+    {
+        "app_name": "迅雷直播",
+        "package_name": "com.xunlei.tdlive",
+        "file_name": "com.xunlei.tdlive_16.apk",
+        "app_activity": "com.xunlei.tdlive.activity.SplashActivity"
+    },
+    {
+        "app_name": "蜜朵直播",
+        "package_name": "com.zhizhong.miduo",
+        "file_name": "com.zhizhong.miduo_17.apk",
+        "app_activity": "com.tg.live.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "奇奇抓娃娃",
+        "package_name": "com.fengyun.qiqijww",
+        "file_name": "com.fengyun.qiqijww_18.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "斗鱼",
+        "package_name": "air.tv.douyu.android",
+        "file_name": "air.tv.douyu.android_19.apk",
+        "app_activity": "tv.douyu.view.activity.launcher.DYSplashLauncherActivity"
+    },
+    {
+        "app_name": "老柚",
+        "package_name": "com.laoyouzhibo.app",
+        "file_name": "com.laoyouzhibo.app_20.apk",
+        "app_activity": "com.laoyouzhibo.app.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "问心直播",
+        "package_name": "com.jusisoft.wenxin",
+        "file_name": "com.jusisoft.wenxin_21.apk",
+        "app_activity": "com.jusisoft.commonapp.module.launcher.launch.LauncherActivity"
+    },
+    {
+        "app_name": "甜识",
+        "package_name": "com.koalamusi.tianshi",
+        "file_name": "com.koalamusi.tianshi_22.apk",
+        "app_activity": "com.koalamusi.tianshi.MainActivity"
+    },
+    {
+        "app_name": "九秀直播",
+        "package_name": "com.ninexiu.sixninexiu",
+        "file_name": "com.ninexiu.sixninexiu_23.apk",
+        "app_activity": "com.ninexiu.sixninexiu.activity.PermissionPromptActivity"
+    },
+    {
+        "app_name": "微赞",
+        "package_name": "cn.pengxun.vzanlive",
+        "file_name": "cn.pengxun.vzanlive_24.apk",
+        "app_activity": "cn.pengxun.vzanlive.function.common.activity.AppStartActivity"
+    },
+    {
+        "app_name": "相伴相亲",
+        "package_name": "com.lalifa.blindplay",
+        "file_name": "com.lalifa.blindplay_25.apk",
+        "app_activity": "com.lalifa.blindplay.ui.activity.login.SplashActivity"
+    },
+    {
+        "app_name": "场播云",
+        "package_name": "com.cyb.UNIA9595C0",
+        "file_name": "com.cyb.UNIA9595C0_26.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "YY",
+        "package_name": "com.duowan.mobile",
+        "file_name": "com.duowan.mobile_27.apk",
+        "app_activity": "com.yy.mobile.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "青雨直播",
+        "package_name": "com.tjlwy.qingyu",
+        "file_name": "com.tjlwy.qingyu_28.apk",
+        "app_activity": "com.mita.module_main.view.splash.SplashActivity"
+    },
+    {
+        "app_name": "青涩直播",
+        "package_name": "com.show.xiuse",
+        "file_name": "com.show.xiuse_29.apk",
+        "app_activity": "com.yazhai.community.ui.biz.splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "爪e抓娃娃",
+        "package_name": "com.lzzhkj.zhuae",
+        "file_name": "com.lzzhkj.zhuae_30.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "蹦多多",
+        "package_name": "com.mitao688.live",
+        "file_name": "com.mitao688.live_31.apk",
+        "app_activity": "com.mitao688.live.activity.LauncherActivity"
+    },
+    {
+        "app_name": "bei world",
+        "package_name": "com.sanya.xinxiulive.lite",
+        "file_name": "com.sanya.xinxiulive.lite_32.apk",
+        "app_activity": "com.sanya.bang.app.ui.launch.LauncherActivity"
+    },
+    {
+        "app_name": "公主手机抓娃娃",
+        "package_name": "com.hkyun.gongzhuzhuawawa",
+        "file_name": "com.hkyun.gongzhuzhuawawa_33.apk",
+        "app_activity": "com.hkyun.gongzhuzhuawawa.hkyunregisterzzz.hkyunsplashzzz.SplashActivity"
+    },
+    {
+        "app_name": "星潮联盟",
+        "package_name": "com.shenzhen.mnshop",
+        "file_name": "com.shenzhen.mnshop_34.apk",
+        "app_activity": "com.shenzhen.mnshop.moudle.login.WelcomeActivity"
+    },
+    {
+        "app_name": "叮叮抓娃娃",
+        "package_name": "com.loovee.wawaji",
+        "file_name": "com.loovee.wawaji_35.apk",
+        "app_activity": "com.loovee.module.main.WelcomeActivity"
+    },
+    {
+        "app_name": "漂漂",
+        "package_name": "os.imlive.main",
+        "file_name": "os.imlive.main_36.apk",
+        "app_activity": "os.imlive.main.ui.SplashActivity"
+    },
+    {
+        "app_name": "咔咔开黑",
+        "package_name": "com.ds.voicekaka",
+        "file_name": "com.ds.voicekaka_37.apk",
+        "app_activity": "org.cocos2dx.lua.AppActivity"
+    },
+    {
+        "app_name": "微乐播商家版",
+        "package_name": "com.vlb.liveapp",
+        "file_name": "com.vlb.liveapp_38.apk",
+        "app_activity": "com.vlb.liveapp.StartActivity"
+    },
+    {
+        "app_name": "Sahna",
+        "package_name": "com.badambiz.live.kz",
+        "file_name": "com.badambiz.live.kz_39.apk",
+        "app_activity": "com.badambiz.live.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "么么派对",
+        "package_name": "com.meme.partys",
+        "file_name": "com.meme.partys_40.apk",
+        "app_activity": "com.meme.partys.MainActivity"
+    },
+    {
+        "app_name": "秀色直播",
+        "package_name": "com.showself.ui",
+        "file_name": "com.showself.ui_41.apk",
+        "app_activity": "com.showself.ui.LoadingActivity"
+    },
+    {
+        "app_name": "欧拉直播",
+        "package_name": "com.aolalive.phonelive",
+        "file_name": "com.aolalive.phonelive_42.apk",
+        "app_activity": "com.aolalive.phonelive.activity.LauncherActivity"
+    },
+    {
+        "app_name": "虎牙直播",
+        "package_name": "com.duowan.kiwi",
+        "file_name": "com.duowan.kiwi_43.apk",
+        "app_activity": "com.duowan.kiwi.simpleactivity.SplashActivity"
+    },
+    {
+        "app_name": "凤鸾直播",
+        "package_name": "hchd.hchd.app",
+        "file_name": "hchd.hchd.app_44.apk",
+        "app_activity": "hchd.hchd.app.ui.SplashActivity"
+    },
+    {
+        "app_name": "米蕉点视",
+        "package_name": "com.mijiaodianshi.phonelive",
+        "file_name": "com.mijiaodianshi.phonelive_45.apk",
+        "app_activity": "com.mijiaodianshi.phonelive.activity.LauncherActivity"
+    },
+    {
+        "app_name": "大夹乐",
+        "package_name": "com.foshan.dajiale",
+        "file_name": "com.foshan.dajiale_46.apk",
+        "app_activity": "com.loovee.module.main.WelcomeActivity"
+    },
+    {
+        "app_name": "艾可直播",
+        "package_name": "com.daliao.live.show",
+        "file_name": "com.daliao.live.show_47.apk",
+        "app_activity": "com.dl.show.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "抖爸爸",
+        "package_name": "com.dbbjt.phonelive",
+        "file_name": "com.dbbjt.phonelive_48.apk",
+        "app_activity": "com.app.dbb.features.user.login.LoginActivity"
+    },
+    {
+        "app_name": "幻梦直播",
+        "package_name": "com.fengbo.live",
+        "file_name": "com.fengbo.live_49.apk",
+        "app_activity": "cn.rainbowlive.activity.SplashScreenActivity"
+    },
+    {
+        "app_name": "恋雾直播",
+        "package_name": "com.luyin.yumao",
+        "file_name": "com.luyin.yumao_50.apk",
+        "app_activity": "com.luyin.mooncat.LauncherActivity"
+    },
+    {
+        "app_name": "云爪",
+        "package_name": "cn.lyy.game",
+        "file_name": "cn.lyy.game_51.apk",
+        "app_activity": "cn.lyy.game.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "有播企业版",
+        "package_name": "com.youbo.pro",
+        "file_name": "com.youbo.pro_52.apk",
+        "app_activity": "com.youbo.data.main.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "龙平台影视",
+        "package_name": "com.lpt.dragonservicecenter",
+        "file_name": "com.lpt.dragonservicecenter_53.apk",
+        "app_activity": "com.lpt.dragonservicecenter.activity.SplashActivity"
+    },
+    {
+        "app_name": "起点直播",
+        "package_name": "com.qidian.live",
+        "file_name": "com.qidian.live_54.apk",
+        "app_activity": "com.fanwe.hybrid.activity.InitActivity"
+    },
+    {
+        "app_name": "PUPU找搭子",
+        "package_name": "com.yangmiemie.ktv.mobile",
+        "file_name": "com.yangmiemie.ktv.mobile_55.apk",
+        "app_activity": "com.yangmiemie.ktv.mobile.activity.AppStart"
+    },
+    {
+        "app_name": "耳海",
+        "package_name": "com.melot.kkaudio",
+        "file_name": "com.melot.kkaudio_56.apk",
+        "app_activity": "com.melot.meshow.main.Loading"
+    },
+    {
+        "app_name": "时光直播",
+        "package_name": "com.impression.time.client",
+        "file_name": "com.impression.time.client_57.apk",
+        "app_activity": "com.impression.framework.module.start.Start"
+    },
+    {
+        "app_name": "CC直播",
+        "package_name": "com.netease.cc",
+        "file_name": "com.netease.cc_58.apk",
+        "app_activity": "com.netease.cc.appstart.CCMain"
+    },
+    {
+        "app_name": "游拍",
+        "package_name": "com.m4399.youpai",
+        "file_name": "com.m4399.youpai_59.apk",
+        "app_activity": "com.m4399.youpai.controllers.launch.LaunchActivity"
+    },
+    {
+        "app_name": "玉米视频直播",
+        "package_name": "com.show.yumilive",
+        "file_name": "com.show.yumilive_60.apk",
+        "app_activity": "com.yazhai.community.ui.biz.splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "U秀直播",
+        "package_name": "uxz.bou.app",
+        "file_name": "uxz.bou.app_61.apk",
+        "app_activity": "uxz.bou.app.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "妖妖",
+        "package_name": "com.yaoyao.fujin",
+        "file_name": "com.yaoyao.fujin_62.apk",
+        "app_activity": "com.yaoyao.fujin.splash.SplashActivity"
+    },
+    {
+        "app_name": "我秀",
+        "package_name": "com.wole56.ishow",
+        "file_name": "com.wole56.ishow_63.apk",
+        "app_activity": "com.wole56.ishow.main.boot.activity.StartActivity"
+    },
+    {
+        "app_name": "秘密直播",
+        "package_name": "com.zhibo.mm",
+        "file_name": "com.zhibo.mm_64.apk",
+        "app_activity": "com.yazhai.community.ui.biz.splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "KK",
+        "package_name": "com.melot.meshow",
+        "file_name": "com.melot.meshow_65.apk",
+        "app_activity": "com.melot.meshow.main.Loading"
+    },
+    {
+        "app_name": "爱街机",
+        "package_name": "com.youraninfo.iarcade",
+        "file_name": "com.youraninfo.iarcade_66.apk",
+        "app_activity": "com.youraninfo.iarcade.MainActivity"
+    },
+    {
+        "app_name": "YY百战助手",
+        "package_name": "com.bdgame.assist",
+        "file_name": "com.bdgame.assist_67.apk",
+        "app_activity": "com.bdgame.assist.SplashActivity"
+    },
+    {
+        "app_name": "鱼豹直播",
+        "package_name": "com.gkite.phonelive",
+        "file_name": "com.gkite.phonelive_68.apk",
+        "app_activity": "com.chiq.phase2.ui.SplashActivity"
+    },
+    {
+        "app_name": "齐忆视频",
+        "package_name": "com.heifeng.qjapp",
+        "file_name": "com.heifeng.qjapp_69.apk",
+        "app_activity": "com.heifeng.qjapp.MainActivity"
+    },
+    {
+        "app_name": "虎牙手游",
+        "package_name": "com.yy.huyaassist4game",
+        "file_name": "com.yy.huyaassist4game_70.apk",
+        "app_activity": "com.duowan.live.splash.SplashActivity"
+    },
+    {
+        "app_name": "安陌直播",
+        "package_name": "com.ananjy123.www2",
+        "file_name": "com.ananjy123.www2_71.apk",
+        "app_activity": "com.ananjy123.www2.mstart.activity.SplashActivity"
+    },
+    {
+        "app_name": "巨臣直播",
+        "package_name": "com.cashpro.kash.lending.loan",
+        "file_name": "com.cashpro.kash.lending.loan_72.apk",
+        "app_activity": "com.cashpro.kash.lending.loan.ui.activity.SplanActivity"
+    },
+    {
+        "app_name": "小象新视界",
+        "package_name": "com.lxsky.hitv",
+        "file_name": "com.lxsky.hitv_73.apk",
+        "app_activity": "com.lxsky.hitv.splash.HiTVSplashActivity"
+    },
+    {
+        "app_name": "我的足球队LIVE",
+        "package_name": "com.mapath.ftselffootballtv",
+        "file_name": "com.mapath.ftselffootballtv_74.apk",
+        "app_activity": "com.mapath.ftselffootballtv.ui.activity.LoginActivity"
+    },
+    {
+        "app_name": "来乐",
+        "package_name": "com.lailehigh.happyfun",
+        "file_name": "com.lailehigh.happyfun_75.apk",
+        "app_activity": "com.lailehigh.flavor.activity.SplashActivity"
+    },
+    {
+        "app_name": "KK开播",
+        "package_name": "com.melot.studio",
+        "file_name": "com.melot.studio_76.apk",
+        "app_activity": "com.melot.meshow.main.Loading"
+    },
+    {
+        "app_name": "熊猫娃娃乐",
+        "package_name": "com.xmwawa.wawa",
+        "file_name": "com.xmwawa.wawa_77.apk",
+        "app_activity": "com.coinhouse777.wawa.activity.LauncherActivity"
+    },
+    {
+        "app_name": "聚民惠主播",
+        "package_name": "com.feelingyou.phonelive",
+        "file_name": "com.feelingyou.phonelive_78.apk",
+        "app_activity": "com.feelingyou.phonelive.activity.LauncherActivity"
+    },
+    {
+        "app_name": "萌兔",
+        "package_name": "com.android.mt",
+        "file_name": "com.android.mt_79.apk",
+        "app_activity": "com.daqiezi.live.app.guide.QZSplashActivity"
+    },
+    {
+        "app_name": "疯狂娃娃城",
+        "package_name": "com.leeyee.cwbl",
+        "file_name": "com.leeyee.cwbl_80.apk",
+        "app_activity": "com.loovee.module.main.WelcomeActivity"
+    },
+    {
+        "app_name": "企鹅体育",
+        "package_name": "com.tencent.tv.qie",
+        "file_name": "com.tencent.tv.qie_81.apk",
+        "app_activity": "com.tencent.tv.qie.main.activity.MainActivity"
+    },
+    {
+        "app_name": "千帆直播",
+        "package_name": "com.sohu.qianfan",
+        "file_name": "com.sohu.qianfan_82.apk",
+        "app_activity": "com.sohu.qianfan.guide.StartActivity"
+    },
+    {
+        "app_name": "嗨秀直播",
+        "package_name": "com.haixiu.ui",
+        "file_name": "com.haixiu.ui_83.apk",
+        "app_activity": "com.showself.ui.LoadingActivity"
+    },
+    {
+        "app_name": "齐齐直播",
+        "package_name": "com.guagua.qiqi",
+        "file_name": "com.guagua.qiqi_84.apk",
+        "app_activity": "com.guagua.qiqi.ui.home.splash.SplashActivity"
+    },
+    {
+        "app_name": "浪浪直播",
+        "package_name": "com.zc.taidao",
+        "file_name": "com.zc.taidao_85.apk",
+        "app_activity": "com.zc.taidao.langlang.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "艺气山",
+        "package_name": "com.wanmei.show.fans",
+        "file_name": "com.wanmei.show.fans_86.apk",
+        "app_activity": "com.wanmei.show.fans.FastActivity"
+    },
+    {
+        "app_name": "萌爪联盟",
+        "package_name": "com.leyi.agentclient",
+        "file_name": "com.leyi.agentclient_87.apk",
+        "app_activity": "com.loovee.module.main.WelcomeActivity"
+    },
+    {
+        "app_name": "红人直播",
+        "package_name": "com.hongren.ui",
+        "file_name": "com.hongren.ui_88.apk",
+        "app_activity": "com.showself.ui.LoadingActivity"
+    },
+    {
+        "app_name": "YAYA",
+        "package_name": "com.mengyin.app.yaya",
+        "file_name": "com.mengyin.app.yaya_89.apk",
+        "app_activity": "com.mengyin.app.yaya.MainActivity"
+    },
+    {
+        "app_name": "牛牛播",
+        "package_name": "com.hnfykj.niuniubo",
+        "file_name": "com.hnfykj.niuniubo_90.apk",
+        "app_activity": "com.hnfykj.niuniubo.ui.splash.SplashAct"
+    },
+    {
+        "app_name": "么么直播",
+        "package_name": "com.memezhibo.android",
+        "file_name": "com.memezhibo.android_91.apk",
+        "app_activity": "com.memezhibo.android.activity.MainActivity"
+    },
+    {
+        "app_name": "棉花糖直播软件",
+        "package_name": "com.mobilelive.showCommunity",
+        "file_name": "com.mobilelive.showCommunity_92.apk",
+        "app_activity": "com.wobo.live.launch.SplashActivity"
+    },
+    {
+        "app_name": "抖蓝直播",
+        "package_name": "com.doulan.juxinding",
+        "file_name": "com.doulan.juxinding_93.apk",
+        "app_activity": "com.doulan.juxinding.module.launcher.launch.LauncherActivity"
+    },
+    {
+        "app_name": "映客直播",
+        "package_name": "com.meelive.ingkee",
+        "file_name": "com.meelive.ingkee_94.apk",
+        "app_activity": "com.meelive.ingkee.launcher.ui.IngkeeLauncher"
+    },
+    {
+        "app_name": "酷狗直播",
+        "package_name": "com.kugou.fanxing",
+        "file_name": "com.kugou.fanxing_95.apk",
+        "app_activity": "com.kugou.fanxing.splash.ui.CheckPermissionActivity"
+    },
+    {
+        "app_name": "星曜直播",
+        "package_name": "com.hnwh.xingyaozb.tuikit",
+        "file_name": "com.hnwh.xingyaozb.tuikit_96.apk",
+        "app_activity": "com.hnwh.xingyaozb.tuikit.MainActivity"
+    },
+    {
+        "app_name": "闪信生活",
+        "package_name": "com.shuke.shanxin.shanxin",
+        "file_name": "com.shuke.shanxin.shanxin_97.apk",
+        "app_activity": "com.shuke.shanxin.shanxin.MainActivity"
+    },
+    {
+        "app_name": "蓝柚",
+        "package_name": "com.duobo.xindong",
+        "file_name": "com.duobo.xindong_98.apk",
+        "app_activity": "com.duobo.xindong.mstart.activity.StartActivity"
+    },
+    {
+        "app_name": "尔耳",
+        "package_name": "com.kuaiyu.er",
+        "file_name": "com.kuaiyu.er_99.apk",
+        "app_activity": "com.kuaiyu.er.ui.SplashActivity"
+    },
+    {
+        "app_name": "魅影直播",
+        "package_name": "com.laiwanya.meiying",
+        "file_name": "com.laiwanya.meiying_100.apk",
+        "app_activity": "com.mita.module_main.view.splash.SplashActivity"
+    },
+    {
+        "app_name": "鹅直播",
+        "package_name": "com.xiaoe.live",
+        "file_name": "com.xiaoe.live_101.apk",
+        "app_activity": "com.xiaoe.live.app.core.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "IS语音",
+        "package_name": "com.qinhe.ispeak",
+        "file_name": "com.qinhe.ispeak_102.apk",
+        "app_activity": "com.qinhe.ispeak.AppStartActivity"
+    },
+    {
+        "app_name": "新聚浪",
+        "package_name": "com.astevencui.xjl",
+        "file_name": "com.astevencui.xjl_103.apk",
+        "app_activity": "com.astevencui.xjl.MainActivity"
+    },
+    {
+        "app_name": "千度热播",
+        "package_name": "com.qianrun.live",
+        "file_name": "com.qianrun.live_104.apk",
+        "app_activity": "com.qianrun.live.activity.launch.WelcomeActivity"
+    },
+    {
+        "app_name": "比心直播",
+        "package_name": "com.yangle.xiaoyuzhou",
+        "file_name": "com.yangle.xiaoyuzhou_105.apk",
+        "app_activity": "com.universe.launch.LaunchActivity"
+    },
+    {
+        "app_name": "奶牛直播",
+        "package_name": "com.zhongrun.cow",
+        "file_name": "com.zhongrun.cow_106.apk",
+        "app_activity": "com.ninexiu.sixninexiu.activity.PermissionPromptActivity"
+    },
+    {
+        "app_name": "万视达",
+        "package_name": "com.whizen.iptv.activity",
+        "file_name": "com.whizen.iptv.activity_107.apk",
+        "app_activity": "com.wisetv.iptv.splashscreen.activity.SplashScreenActivity"
+    },
+    {
+        "app_name": "浪花直播",
+        "package_name": "com.lepaitianyu.live",
+        "file_name": "com.lepaitianyu.live_108.apk",
+        "app_activity": "com.fanwe.module_init.activity.InitActivity"
+    },
+    {
+        "app_name": "白金秀",
+        "package_name": "com.wali.live",
+        "file_name": "com.wali.live_109.apk",
+        "app_activity": "com.live.combine.ghost.app.main.LiveMainActivity"
+    },
+    {
+        "app_name": "灯火直播",
+        "package_name": "com.xingyi.video.activity",
+        "file_name": "com.xingyi.video.activity_110.apk",
+        "app_activity": "com.uelive.showvideo.activity.LoadingActivity"
+    },
+    {
+        "app_name": "鸽报",
+        "package_name": "com.xiaopao.geProject",
+        "file_name": "com.xiaopao.geProject_111.apk",
+        "app_activity": "com.xp.gbdsp.ui.login.act.SplashAct"
+    },
+    {
+        "app_name": "快月直播",
+        "package_name": "com.yibaihk.eryiyi",
+        "file_name": "com.yibaihk.eryiyi_112.apk",
+        "app_activity": "com.galaxy.yimi.LauncherActivity"
+    },
+    {
+        "app_name": "口袋娃娃城",
+        "package_name": "com.jskj.kdwwj",
+        "file_name": "com.jskj.kdwwj_113.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "线上抓娃娃",
+        "package_name": "com.huangxin.zhuawawa",
+        "file_name": "com.huangxin.zhuawawa_114.apk",
+        "app_activity": "com.huangxin.zhuawawa.splash.SplashActivity"
+    },
+    {
+        "app_name": "石榴直播",
+        "package_name": "cn.v6.sixrooms",
+        "file_name": "cn.v6.sixrooms_115.apk",
+        "app_activity": "cn.v6.sixrooms.ui.phone.SplashActivity"
+    },
+    {
+        "app_name": "里弄直播",
+        "package_name": "com.lei.linong",
+        "file_name": "com.lei.linong_116.apk",
+        "app_activity": "com.lei.linong.activity.LauncherActivity"
+    },
+    {
+        "app_name": "Badam Live",
+        "package_name": "com.badambiz.live",
+        "file_name": "com.badambiz.live_117.apk",
+        "app_activity": "com.badambiz.live.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "融媒生产助手",
+        "package_name": "com.touchtv.assistant",
+        "file_name": "com.touchtv.assistant_118.apk",
+        "app_activity": "com.gdtv.module.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "六间房直播",
+        "package_name": "cn.v6.xiuchang",
+        "file_name": "cn.v6.xiuchang_119.apk",
+        "app_activity": "cn.v6.sixrooms.ui.phone.SplashActivity"
+    },
+    {
+        "app_name": "迷人直播",
+        "package_name": "com.show.mirenzhibo",
+        "file_name": "com.show.mirenzhibo_120.apk",
+        "app_activity": "com.yazhai.community.ui.biz.splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "布鲁直播",
+        "package_name": "com.sh.sq",
+        "file_name": "com.sh.sq_121.apk",
+        "app_activity": "com.sh.sq.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "貂蝉直播",
+        "package_name": "com.qianyu.diaochan",
+        "file_name": "com.qianyu.diaochan_122.apk",
+        "app_activity": "com.yc.module_main.view.splash.SplashActivity"
+    },
+    {
+        "app_name": "音播直播",
+        "package_name": "com.impression.yingbo.client",
+        "file_name": "com.impression.yingbo.client_123.apk",
+        "app_activity": "com.impression.framework.module.start.Start"
+    },
+    {
+        "app_name": "欢聚娃娃城",
+        "package_name": "com.shenzhen.jugou",
+        "file_name": "com.shenzhen.jugou_124.apk",
+        "app_activity": "com.shenzhen.jugou.moudle.login.WelcomeActivity"
+    },
+    {
+        "app_name": "UKAKA",
+        "package_name": "com.shenzhen.ukaka",
+        "file_name": "com.shenzhen.ukaka_125.apk",
+        "app_activity": "com.shenzhen.ukaka.module.login.WelcomeActivity"
+    },
+    {
+        "app_name": "Bei贝",
+        "package_name": "com.sanya.xinxiulive",
+        "file_name": "com.sanya.xinxiulive_127.apk",
+        "app_activity": "com.sanya.bang.app.ui.launch.LauncherActivity"
+    },
+    {
+        "app_name": "米熊抓娃娃",
+        "package_name": "com.shangwei.mixboom",
+        "file_name": "com.shangwei.mixboom_128.apk",
+        "app_activity": "com.shangwei.mixiong.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "LOOK直播",
+        "package_name": "com.netease.play",
+        "file_name": "com.netease.play_129.apk",
+        "app_activity": "com.squareup.leakcanary.internal.DisplayLeakActivity"
+    },
+    {
+        "app_name": "天宫直播",
+        "package_name": "com.syjss.tiangong",
+        "file_name": "com.syjss.tiangong_130.apk",
+        "app_activity": "com.mita.module_main.view.splash.SplashActivity"
+    },
+    {
+        "app_name": "花卷直播",
+        "package_name": "com.jiuyuanlive.android",
+        "file_name": "com.jiuyuanlive.android_131.apk",
+        "app_activity": "com.jiuyuan.live.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "Library",
+        "package_name": "cn.myhug.baobao",
+        "file_name": "cn.myhug.baobao_132.apk",
+        "app_activity": "cn.myhug.baobao.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "酷我聚星",
+        "package_name": "cn.kuwo.juxing",
+        "file_name": "cn.kuwo.juxing_133.apk",
+        "app_activity": "com.kugou.fanxing.splash.ui.CheckPermissionActivity"
+    },
+    {
+        "app_name": "小音迷",
+        "package_name": "com.sun.xiaoyinmi",
+        "file_name": "com.sun.xiaoyinmi_134.apk",
+        "app_activity": "com.sun.xiaoyinmi.MainActivity"
+    },
+    {
+        "app_name": "考拉Live",
+        "package_name": "com.koalalive.android",
+        "file_name": "com.koalalive.android_135.apk",
+        "app_activity": "com.koalalive.android.feature.welcome.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "娃娃抓娃娃",
+        "package_name": "com.changyu.zhuawawa",
+        "file_name": "com.changyu.zhuawawa_136.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "巽虎直播",
+        "package_name": "com.xunhu.phonelive",
+        "file_name": "com.xunhu.phonelive_137.apk",
+        "app_activity": "com.xunhu.phonelive.activity.LauncherActivity"
+    },
+    {
+        "app_name": "同乐直播",
+        "package_name": "com.mhh.tongle.android",
+        "file_name": "com.mhh.tongle.android_138.apk",
+        "app_activity": "com.xd.socialnewapp.activity.GuideActivity"
+    },
+    {
+        "app_name": "好赞",
+        "package_name": "com.nice.live",
+        "file_name": "com.nice.live_139.apk",
+        "app_activity": "com.nice.live.activities.SplashActivity"
+    },
+    {
+        "app_name": "果冻直播",
+        "package_name": "com.show.guodong.live",
+        "file_name": "com.show.guodong.live_140.apk",
+        "app_activity": "com.yazhai.community.ui.biz.splash.activity.StartSplashActivity"
+    },
+    {
+        "app_name": "百战",
+        "package_name": "com.baidu.baizhan.client",
+        "file_name": "com.baidu.baizhan.client_141.apk",
+        "app_activity": "com.baizhan.client.SplashActivity"
+    },
+    {
+        "app_name": "好玩部落",
+        "package_name": "com.fslmmy.wheretogo",
+        "file_name": "com.fslmmy.wheretogo_142.apk",
+        "app_activity": "com.loovee.module.main.WelcomeActivity"
+    },
+    {
+        "app_name": "爱翼",
+        "package_name": "com.yiren.flutter_c0701",
+        "file_name": "com.yiren.flutter_c0701_143.apk",
+        "app_activity": "com.yiren.flutter_c0701.MainActivity"
+    },
+    {
+        "app_name": "艾米直播",
+        "package_name": "com.mobimtech.natives.ivp",
+        "file_name": "com.mobimtech.natives.ivp_144.apk",
+        "app_activity": "com.mobimtech.natives.ivp.IvpSplashActivity"
+    },
+    {
+        "app_name": "KOKO电竞",
+        "package_name": "com.dongdongdj.dis",
+        "file_name": "com.dongdongdj.dis_145.apk",
+        "app_activity": "com.yizhuan.cutesound.other.activity.SplashActivity"
+    },
+    {
+        "app_name": "语卿语哝",
+        "package_name": "com.yqynzb.app",
+        "file_name": "com.yqynzb.app_146.apk",
+        "app_activity": "com.tencent.live.example.MainActivity"
+    },
+    {
+        "app_name": "飙音",
+        "package_name": "com.bjguozhiwei.biaoyin",
+        "file_name": "com.bjguozhiwei.biaoyin_147.apk",
+        "app_activity": "com.bjguozhiwei.biaoyin.ui.home.StartupActivity"
+    },
+    {
+        "app_name": "蜜疯直播",
+        "package_name": "com.mifeng.ui",
+        "file_name": "com.mifeng.ui_148.apk",
+        "app_activity": "com.showself.ui.LoadingActivity"
+    },
+    {
+        "app_name": "VV星球",
+        "package_name": "com.vlive.app.vvstar",
+        "file_name": "com.vlive.app.vvstar_149.apk",
+        "app_activity": "com.vlive.app.vvstar.MainActivity"
+    },
+    {
+        "app_name": "Tiyatir",
+        "package_name": "com.gxxushang.tiyatir",
+        "file_name": "com.gxxushang.tiyatir_150.apk",
+        "app_activity": "com.gxxushang.tiyatir.activity.SPHomeActivity"
+    },
+    {
+        "app_name": "羿直播",
+        "package_name": "com.yizhibo.app",
+        "file_name": "com.yizhibo.app_151.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "萤火虫直播",
+        "package_name": "com.yhczb.app",
+        "file_name": "com.yhczb.app_152.apk",
+        "app_activity": "com.example.yhc_live.MainActivity"
+    },
+    {
+        "app_name": "乐萌夹娃娃",
+        "package_name": "com.loovee.fastwawa",
+        "file_name": "com.loovee.fastwawa_153.apk",
+        "app_activity": "com.loovee.module.main.WelcomeActivity"
+    },
+    {
+        "app_name": "实力直播",
+        "package_name": "com.jusishili.app",
+        "file_name": "com.jusishili.app_154.apk",
+        "app_activity": "com.jusisoft.commonapp.module.launcher.launch.LauncherActivity"
+    },
+    {
+        "app_name": "奇秀",
+        "package_name": "com.iqiyi.qixiu",
+        "file_name": "com.iqiyi.qixiu_155.apk",
+        "app_activity": "com.iqiyi.qixiu.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "安徽卫视",
+        "package_name": "com.butel.ahwsatv",
+        "file_name": "com.butel.ahwsatv_156.apk",
+        "app_activity": "com.wondertek.stategridtopnews.TopNewsActivity"
+    },
+    {
+        "app_name": "汇友直播",
+        "package_name": "com.jusi.xiaolajiao",
+        "file_name": "com.jusi.xiaolajiao_157.apk",
+        "app_activity": "com.jusisoft.commonapp.module.launcher.launch.LauncherActivity"
+    }
+]

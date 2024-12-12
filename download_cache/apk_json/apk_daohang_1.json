@@ -1,0 +1,1010 @@
+[
+    {
+        "app_name": "聚能谷APP",
+        "package_name": "uni.UNIB13A913",
+        "file_name": "uni.UNIB13A913_1.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "海南充电",
+        "package_name": "cn.teld.app.hainan",
+        "file_name": "cn.teld.app.hainan_2.apk",
+        "app_activity": "cn.evking.evcharge.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "罗盘相机GPS海拔表",
+        "package_name": "cn.yueshuiyao.compass",
+        "file_name": "cn.yueshuiyao.compass_3.apk",
+        "app_activity": "com.yueshuiyao.compass.ui.SplashActivity"
+    },
+    {
+        "app_name": "任马停",
+        "package_name": "com.dmyckj.openpark",
+        "file_name": "com.dmyckj.openpark_4.apk",
+        "app_activity": "com.dmyckj.openpark.LoadActivity"
+    },
+    {
+        "app_name": "实景卫星导航",
+        "package_name": "com.maturear.navarmap",
+        "file_name": "com.maturear.navarmap_5.apk",
+        "app_activity": "com.maturear.navarmap.activity.SplashActivity"
+    },
+    {
+        "app_name": "Zhiligou",
+        "package_name": "com.szssyx.sbs.electrombile",
+        "file_name": "com.szssyx.sbs.electrombile_6.apk",
+        "app_activity": "com.szssyx.sbs.electrombile.module.login.activity.LoadingActivity"
+    },
+    {
+        "app_name": "筑易达",
+        "package_name": "cn.yzw.logistics",
+        "file_name": "cn.yzw.logistics_7.apk",
+        "app_activity": "cn.yzw.logistics.MainActivity"
+    },
+    {
+        "app_name": "探迹定位",
+        "package_name": "com.haitao.guardta",
+        "file_name": "com.haitao.guardta_8.apk",
+        "app_activity": "com.hc.friendtrack.ui.activity.login.StartActivity"
+    },
+    {
+        "app_name": "嘉定公交",
+        "package_name": "com.bsth.palmbusnew",
+        "file_name": "com.bsth.palmbusnew_9.apk",
+        "app_activity": "com.bsth.palmbusnew.YSActivity"
+    },
+    {
+        "app_name": "随便走",
+        "package_name": "cn.gogocity.suibian",
+        "file_name": "cn.gogocity.suibian_10.apk",
+        "app_activity": "cn.gogocity.suibian.activities.LaunchActivity"
+    },
+    {
+        "app_name": "寻位定位守护",
+        "package_name": "com.xunbi.xunta",
+        "file_name": "com.xunbi.xunta_11.apk",
+        "app_activity": "com.xunbi.xunta.ui.activity.login.StartActivity"
+    },
+    {
+        "app_name": "情侣我和你",
+        "package_name": "com.hkx.youandme",
+        "file_name": "com.hkx.youandme_12.apk",
+        "app_activity": "com.hkx.youandme.fragmentdeveloper.MainActivity"
+    },
+    {
+        "app_name": "丹阳交通行",
+        "package_name": "cn.turingtech.dybus",
+        "file_name": "cn.turingtech.dybus_13.apk",
+        "app_activity": "cn.turingtech.dybus.activity.MainActivity"
+    },
+    {
+        "app_name": "湖南高速通",
+        "package_name": "com.uroad.hunangst",
+        "file_name": "com.uroad.hunangst_14.apk",
+        "app_activity": "com.uroad.hunangst.CheckDeviceActivity"
+    },
+    {
+        "app_name": "AI泊济宁",
+        "package_name": "com.jieshun.jntc",
+        "file_name": "com.jieshun.jntc_15.apk",
+        "app_activity": "com.jieshun.jntc.activity.common.SplashActivity"
+    },
+    {
+        "app_name": "语音导航",
+        "package_name": "com.jason.freenavigationvoice",
+        "file_name": "com.jason.freenavigationvoice_16.apk",
+        "app_activity": "com.jason.freenavigationvoice.activity.SplashFirst"
+    },
+    {
+        "app_name": "千云司机端",
+        "package_name": "com.thclouds.driver",
+        "file_name": "com.thclouds.driver_17.apk",
+        "app_activity": "com.thclouds.driver.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "实时手机gps定位",
+        "package_name": "com.abao.location",
+        "file_name": "com.abao.location_18.apk",
+        "app_activity": "com.yuanfang.location.activity.SplashActivity"
+    },
+    {
+        "app_name": "市政充电",
+        "package_name": "com.youcheng.charge",
+        "file_name": "com.youcheng.charge_19.apk",
+        "app_activity": "com.bangdao.app.SplashActivity"
+    },
+    {
+        "app_name": "指南针户外版",
+        "package_name": "com.sqcat.compass",
+        "file_name": "com.sqcat.compass_20.apk",
+        "app_activity": "com.fanghe.measure.ui.SplashActivity"
+    },
+    {
+        "app_name": "GPS导航工具箱",
+        "package_name": "cn.juronghaimiao.earth",
+        "file_name": "cn.juronghaimiao.earth_21.apk",
+        "app_activity": "cn.juronghaimiao.earth.ui.common.AppLauncherPage"
+    },
+    {
+        "app_name": "驿联智行",
+        "package_name": "com.chengdu.tecentdrive",
+        "file_name": "com.chengdu.tecentdrive_22.apk",
+        "app_activity": "com.donghua.tecentdrive.StartActivity"
+    },
+    {
+        "app_name": "CFMOTO",
+        "package_name": "com.lxt.cfmoto",
+        "file_name": "com.lxt.cfmoto_23.apk",
+        "app_activity": "com.lxt.app.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "86司机",
+        "package_name": "com.boundless.bus86.driver",
+        "file_name": "com.boundless.bus86.driver_24.apk",
+        "app_activity": "com.tianqu.android.bus86.driver.presentation.startup.StartUpActivity"
+    },
+    {
+        "app_name": "一起看三维地图",
+        "package_name": "com.liuyun.bdhaomap",
+        "file_name": "com.liuyun.bdhaomap_26.apk",
+        "app_activity": "com.liuyun.bdhaomap.Activity.WellcomeActivity"
+    },
+    {
+        "app_name": "奥维互动导航",
+        "package_name": "com.yst.weixingdaohang",
+        "file_name": "com.yst.weixingdaohang_27.apk",
+        "app_activity": "com.yyzdddgaohasng19b92.hasng19b92.ui.SplashActivity"
+    },
+    {
+        "app_name": "高速智行",
+        "package_name": "com.baidu.adu.ihs.platform.highway_pass",
+        "file_name": "com.baidu.adu.ihs.platform.highway_pass_28.apk",
+        "app_activity": "com.baidu.adu.ihs.platform.highway_pass.MainActivity"
+    },
+    {
+        "app_name": "守护家人轨迹",
+        "package_name": "com.sjzjzs.wjksuper",
+        "file_name": "com.sjzjzs.wjksuper_29.apk",
+        "app_activity": "com.smart.purplelocation.ui.activity.login.StartActivity"
+    },
+    {
+        "app_name": "Vehicle Motion Cues",
+        "package_name": "cn.com.wiisoft.cartip",
+        "file_name": "cn.com.wiisoft.cartip_30.apk",
+        "app_activity": "cn.com.wiisoft.cartip.SplashActivity"
+    },
+    {
+        "app_name": "征信网点导航",
+        "package_name": "com.caigee.creditcny",
+        "file_name": "com.caigee.creditcny_31.apk",
+        "app_activity": "com.caigee.creditcny.ui.MainActivity"
+    },
+    {
+        "app_name": "车道级实景地图导航",
+        "package_name": "com.nfdata.jiejingdh",
+        "file_name": "com.nfdata.jiejingdh_32.apk",
+        "app_activity": "com.dhyy.dhyydfsd11_2.ui.SplashActivity112"
+    },
+    {
+        "app_name": "全民代驾",
+        "package_name": "com.fleetweet.v1app",
+        "file_name": "com.fleetweet.v1app_33.apk",
+        "app_activity": "com.fleetweet.v1app.aty.SplashActivity"
+    },
+    {
+        "app_name": "亿连骑行",
+        "package_name": "net.easyconn.carman.easyride",
+        "file_name": "net.easyconn.carman.easyride_34.apk",
+        "app_activity": "net.easyconn.carman.motofun.MainActivity"
+    },
+    {
+        "app_name": "北斗狮导航",
+        "package_name": "com.baochang.daohang",
+        "file_name": "com.baochang.daohang_35.apk",
+        "app_activity": "com.bdnavigation.WelcomeActivity"
+    },
+    {
+        "app_name": "掌路",
+        "package_name": "com.runone.zhanglu",
+        "file_name": "com.runone.zhanglu_36.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "金昌智慧停车",
+        "package_name": "com.sonli.jcwitparking",
+        "file_name": "com.sonli.jcwitparking_37.apk",
+        "app_activity": "com.sonli.lcwitparking.MainActivity"
+    },
+    {
+        "app_name": "传化陆运通",
+        "package_name": "com.transfar.lyt",
+        "file_name": "com.transfar.lyt_38.apk",
+        "app_activity": "com.transfar.tradeowner.ui.module.main.StartupActivity"
+    },
+    {
+        "app_name": "百度地图关怀版",
+        "package_name": "com.baidu.maps.caring",
+        "file_name": "com.baidu.maps.caring_39.apk",
+        "app_activity": "com.baidu.baidumaps.WelcomeScreen"
+    },
+    {
+        "app_name": "嘟嘟找船",
+        "package_name": "com.example.haoyunhl.controller",
+        "file_name": "com.example.haoyunhl.controller_40.apk",
+        "app_activity": "com.example.haoyunhl.controller.initui.StartActivity"
+    },
+    {
+        "app_name": "易测",
+        "package_name": "com.sobds.rtk.esurvey_android",
+        "file_name": "com.sobds.rtk.esurvey_android_41.apk",
+        "app_activity": "com.sobds.rtk.yisurvey_android.feature.activity.login.WelcomeActivity"
+    },
+    {
+        "app_name": "多多指南针",
+        "package_name": "com.quna.compass",
+        "file_name": "com.quna.compass_42.apk",
+        "app_activity": "com.ltt.compass.compass.SplashActivity"
+    },
+    {
+        "app_name": "物通网物流公司版",
+        "package_name": "com.wutong.asproject.wutonglogics",
+        "file_name": "com.wutong.asproject.wutonglogics_43.apk",
+        "app_activity": "com.wutong.asproject.wutonglogics.businessandfunction.init.LoadingActivity"
+    },
+    {
+        "app_name": "云宝定位",
+        "package_name": "com.dake.findyou",
+        "file_name": "com.dake.findyou_44.apk",
+        "app_activity": "com.meiji.dwzrrj.ui.activity.login.StartActivity"
+    },
+    {
+        "app_name": "云杉智慧",
+        "package_name": "winsky.cn.electriccharge_winsky",
+        "file_name": "winsky.cn.electriccharge_winsky_45.apk",
+        "app_activity": "winsky.cn.electriccharge_winsky.ui.activty.SplashActicity"
+    },
+    {
+        "app_name": "全景实况导航",
+        "package_name": "com.helloar.navmap",
+        "file_name": "com.helloar.navmap_46.apk",
+        "app_activity": "com.helloar.navmap.activity.SplashActivity"
+    },
+    {
+        "app_name": "旅图",
+        "package_name": "com.lutuojiaoyu.ditu",
+        "file_name": "com.lutuojiaoyu.ditu_47.apk",
+        "app_activity": "com.yygdddsaozhasng1f995.zhasng1f995.ui.SplashActivity"
+    },
+    {
+        "app_name": "寻位定位守护找人",
+        "package_name": "com.guangming.address.location",
+        "file_name": "com.guangming.address.location_48.apk",
+        "app_activity": "com.shunma.guard.location.ui.splash.view.SplashActivity"
+    },
+    {
+        "app_name": "关心定位",
+        "package_name": "com.hcdingwei.pobi",
+        "file_name": "com.hcdingwei.pobi_49.apk",
+        "app_activity": "com.hcdingwei.baoyyb.ui.activity.login.StartActivity"
+    },
+    {
+        "app_name": "寻觅定位",
+        "package_name": "com.quzizi.mfriend",
+        "file_name": "com.quzizi.mfriend_50.apk",
+        "app_activity": "com.quzizi.mfriend.ui.activity.login.StartActivity"
+    },
+    {
+        "app_name": "聊城慧停车",
+        "package_name": "com.sonli.lcwitparking",
+        "file_name": "com.sonli.lcwitparking_51.apk",
+        "app_activity": "com.sonli.lcwitparking.MainActivity"
+    },
+    {
+        "app_name": "专业指南针",
+        "package_name": "com.wyabuc.vkzpw",
+        "file_name": "com.wyabuc.vkzpw_52.apk",
+        "app_activity": "com.wyabuc.vkzpw.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "车道级导航",
+        "package_name": "com.momorufeng.daohang",
+        "file_name": "com.momorufeng.daohang_53.apk",
+        "app_activity": "com.shenzhen.pagesz.ui.SplashActivity"
+    },
+    {
+        "app_name": "全景实时导航",
+        "package_name": "com.aexqujqq.klsfx",
+        "file_name": "com.aexqujqq.klsfx_54.apk",
+        "app_activity": "com.aexqujqq.klsfx.splash.SplashActivity"
+    },
+    {
+        "app_name": "乐清行",
+        "package_name": "com.cci.yqparking",
+        "file_name": "com.cci.yqparking_55.apk",
+        "app_activity": "com.cci.yqparking.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "安吉星",
+        "package_name": "com.shanghaionstar",
+        "file_name": "com.shanghaionstar_56.apk",
+        "app_activity": "com.shanghaionstar.home.LoadingActivity"
+    },
+    {
+        "app_name": "路安牧通",
+        "package_name": "com.luanmuyun.com",
+        "file_name": "com.luanmuyun.com_57.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "贝斗智驾导航",
+        "package_name": "com.cbd.zhijiaodaoh",
+        "file_name": "com.cbd.zhijiaodaoh_58.apk",
+        "app_activity": "com.yygdsdohgagg2003.gz2003.ui.SplashActivity"
+    },
+    {
+        "app_name": "司集",
+        "package_name": "com.sysongy.main",
+        "file_name": "com.sysongy.main_59.apk",
+        "app_activity": "com.sysongy.newapp.splash.WelcomeActivity"
+    },
+    {
+        "app_name": "地图标注助手",
+        "package_name": "com.lewan.mapdms",
+        "file_name": "com.lewan.mapdms_60.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "世界街景3D地图",
+        "package_name": "cn.hema.street.mapnvi",
+        "file_name": "cn.hema.street.mapnvi_61.apk",
+        "app_activity": "cn.hema.street.mapnvi.Activity.SplashActivity"
+    },
+    {
+        "app_name": "全球卫星导航",
+        "package_name": "com.xiaomengqi.daohang",
+        "file_name": "com.xiaomengqi.daohang_62.apk",
+        "app_activity": "com.beidou.navigation.satellite.WelcomeActivity"
+    },
+    {
+        "app_name": "全景卫星实时导航",
+        "package_name": "com.opeovj.ezvyqs",
+        "file_name": "com.opeovj.ezvyqs_63.apk",
+        "app_activity": "com.globe.teclip.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "5号风控Pro",
+        "package_name": "com.cheguanjia.honggps",
+        "file_name": "com.cheguanjia.honggps_64.apk",
+        "app_activity": "com.Thinkrace_Car_Machine_Activity.ShowActivity"
+    },
+    {
+        "app_name": "亿连驾驶助手",
+        "package_name": "net.easyconn.carman",
+        "file_name": "net.easyconn.carman_65.apk",
+        "app_activity": "net.easyconn.carman.MainActivity"
+    },
+    {
+        "app_name": "掌上宝通货主端",
+        "package_name": "com.baotong.owner",
+        "file_name": "com.baotong.owner_66.apk",
+        "app_activity": "com.baotong.owner.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "新乡公交集团",
+        "package_name": "www.joycard.org.xinxiangqrcodebus",
+        "file_name": "www.joycard.org.xinxiangqrcodebus_67.apk",
+        "app_activity": "www.joycard.org.xinxiangqrcodebus.WelcomeActivity"
+    },
+    {
+        "app_name": "小强停车",
+        "package_name": "com.jhkj.parking",
+        "file_name": "com.jhkj.parking_68.apk",
+        "app_activity": "com.jhkj.parking.common.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "步行导航",
+        "package_name": "net.cnmaps.walknavi",
+        "file_name": "net.cnmaps.walknavi_69.apk",
+        "app_activity": "net.cnmaps.walknavi.SplashActivity"
+    },
+    {
+        "app_name": "沙师弟司机",
+        "package_name": "com.shabro.android.activity",
+        "file_name": "com.shabro.android.activity_70.apk",
+        "app_activity": "com.freightcarrier.ui.SplashActivity"
+    },
+    {
+        "app_name": "手机导航",
+        "package_name": "com.gzhm.shoujidaohang",
+        "file_name": "com.gzhm.shoujidaohang_71.apk",
+        "app_activity": "com.viewstreetvr.ssviewer.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "淘车位停车",
+        "package_name": "com.feifeipark.tgcw",
+        "file_name": "com.feifeipark.tgcw_72.apk",
+        "app_activity": "com.feifeipark.tgcw.activity.SplashActivity"
+    },
+    {
+        "app_name": "GPS卫星全景导航",
+        "package_name": "com.daohang.daohangxitong",
+        "file_name": "com.daohang.daohangxitong_73.apk",
+        "app_activity": "com.bdmaster.WelcomeActivity"
+    },
+    {
+        "app_name": "新知互动实景地图",
+        "package_name": "com.baijiu.xzwxdt",
+        "file_name": "com.baijiu.xzwxdt_74.apk",
+        "app_activity": "com.iadjnfl.xcfsld.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "象屿智运",
+        "package_name": "com.sinoiov.zy.wccyr.xiangyuzhiyun",
+        "file_name": "com.sinoiov.zy.wccyr.xiangyuzhiyun_75.apk",
+        "app_activity": "com.xiangyu.freight.activity.SplashActivity"
+    },
+    {
+        "app_name": "实时海拔表",
+        "package_name": "com.altitude.compasss",
+        "file_name": "com.altitude.compasss_76.apk",
+        "app_activity": "com.altitude.compasss.ui.SplashActivity"
+    },
+    {
+        "app_name": "CBLV8",
+        "package_name": "plus.H53A1D89D",
+        "file_name": "plus.H53A1D89D_77.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "路歌好运宝",
+        "package_name": "com.wtyt.goods.driver",
+        "file_name": "com.wtyt.goods.driver_78.apk",
+        "app_activity": "com.wtyt.goods.StartActivity"
+    },
+    {
+        "app_name": "好友定位宝",
+        "package_name": "com.xjdw.axdwzr",
+        "file_name": "com.xjdw.axdwzr_79.apk",
+        "app_activity": "com.sincerely.people.ui.activity.login.StartActivity"
+    },
+    {
+        "app_name": "协行充电",
+        "package_name": "com.car.chargingpile",
+        "file_name": "com.car.chargingpile_80.apk",
+        "app_activity": "com.car.chargingpile.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "小宏人司机版",
+        "package_name": "com.hongxin.logistics.driver",
+        "file_name": "com.hongxin.logistics.driver_81.apk",
+        "app_activity": "com.hongxin.logistics.driver.activity.LaunchActivity"
+    },
+    {
+        "app_name": "eSeaGo",
+        "package_name": "hk.gov.mardep.eSeaGo",
+        "file_name": "hk.gov.mardep.eSeaGo_82.apk",
+        "app_activity": "govhk.mardep.eseago.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "极速GPS指南针",
+        "package_name": "cn.jjpengcheng.compass",
+        "file_name": "cn.jjpengcheng.compass_84.apk",
+        "app_activity": "cn.jjpengcheng.compass.ui.SplashActivity"
+    },
+    {
+        "app_name": "小猫停车",
+        "package_name": "com.small.intelliparking",
+        "file_name": "com.small.intelliparking_85.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "骑行导航",
+        "package_name": "net.cnmaps.bikenavi",
+        "file_name": "net.cnmaps.bikenavi_86.apk",
+        "app_activity": "net.cnmaps.bikenavi.SplashActivity"
+    },
+    {
+        "app_name": "掌上地图",
+        "package_name": "com.hcsc.daohang",
+        "file_name": "com.hcsc.daohang_87.apk",
+        "app_activity": "com.yydddazxohafng2004.afng2004.ui.SplashActivity"
+    },
+    {
+        "app_name": "AR实景语音大屏导航",
+        "package_name": "com.tm.arlivescreen",
+        "file_name": "com.tm.arlivescreen_88.apk",
+        "app_activity": "com.lait.audiomap.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "E充电桩",
+        "package_name": "cn.lslake.charge",
+        "file_name": "cn.lslake.charge_89.apk",
+        "app_activity": "cn.lslake.charge.MainActivity"
+    },
+    {
+        "app_name": "语音导航软件",
+        "package_name": "com.roadtrippers",
+        "file_name": "com.roadtrippers_90.apk",
+        "app_activity": "com.satellite.WelcomeActivity"
+    },
+    {
+        "app_name": "智能卫星导航",
+        "package_name": "com.szth.navigation",
+        "file_name": "com.szth.navigation_91.apk",
+        "app_activity": "com.szth.navigation.ui.splash.SplashPageActivity"
+    },
+    {
+        "app_name": "甘肃高速",
+        "package_name": "com.uroad.gansugst",
+        "file_name": "com.uroad.gansugst_92.apk",
+        "app_activity": "com.uroad.gansugst.activity.CheckDeviceActivity"
+    },
+    {
+        "app_name": "通行宝",
+        "package_name": "com.cmb.transpal",
+        "file_name": "com.cmb.transpal_93.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "智在行",
+        "package_name": "com.ht.cicoapp",
+        "file_name": "com.ht.cicoapp_94.apk",
+        "app_activity": "com.ht.cicoapp.ui.activity.LaunchActivity"
+    },
+    {
+        "app_name": "FindYou",
+        "package_name": "w2a.W2A9003.iamjoy.cn",
+        "file_name": "w2a.W2A9003.iamjoy.cn_95.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "慧停车",
+        "package_name": "com.rpms.uaandroid",
+        "file_name": "com.rpms.uaandroid_96.apk",
+        "app_activity": "com.rpms.uaandroid.MainActivity"
+    },
+    {
+        "app_name": "福建高速",
+        "package_name": "com.uroad.fjgst",
+        "file_name": "com.uroad.fjgst_97.apk",
+        "app_activity": "com.uroad.fjgst.activity.SplashActivity"
+    },
+    {
+        "app_name": "3D全景地图App",
+        "package_name": "com.happycheer.earth2",
+        "file_name": "com.happycheer.earth2_98.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "实况语音导航",
+        "package_name": "com.gvmrb.srhwp",
+        "file_name": "com.gvmrb.srhwp_99.apk",
+        "app_activity": "com.gvmrb.srhwp.splash.SplashActivity"
+    },
+    {
+        "app_name": "VR三维高清地图导航",
+        "package_name": "com.hbtf.vrswgqdtdh",
+        "file_name": "com.hbtf.vrswgqdtdh_100.apk",
+        "app_activity": "com.yysddgdzh103.dzh103.ui.SplashActivity"
+    },
+    {
+        "app_name": "白马地图",
+        "package_name": "com.xykj.yydhbmdt",
+        "file_name": "com.xykj.yydhbmdt_101.apk",
+        "app_activity": "com.yytbdddaohafng19s71.afng19s71.ui.SplashActivity"
+    },
+    {
+        "app_name": "指南针加强版",
+        "package_name": "cn.smtech.compass",
+        "file_name": "cn.smtech.compass_102.apk",
+        "app_activity": "com.fanghe.measure.ui.SplashActivity"
+    },
+    {
+        "app_name": "智行导航",
+        "package_name": "com.tjntkj.zxbddh",
+        "file_name": "com.tjntkj.zxbddh_103.apk",
+        "app_activity": "com.yyz1dddsagohang195.gohang195.ui.SplashActivity"
+    },
+    {
+        "app_name": "阿那亚",
+        "package_name": "com.aranyaapp",
+        "file_name": "com.aranyaapp_104.apk",
+        "app_activity": "com.aranya.aranyaapp.ui.guide.SplashActivity"
+    },
+    {
+        "app_name": "畅和通",
+        "package_name": "com.sdgs.sgch",
+        "file_name": "com.sdgs.sgch_105.apk",
+        "app_activity": "com.sdgs.sgch.module.splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "BARMAK导航",
+        "package_name": "com.barmark.navmap",
+        "file_name": "com.barmark.navmap_106.apk",
+        "app_activity": "com.barmark.navmap.splash.SplashActivity"
+    },
+    {
+        "app_name": "海e行",
+        "package_name": "cn.ehanghai.android.hex",
+        "file_name": "cn.ehanghai.android.hex_107.apk",
+        "app_activity": "com.android.jietian.seaeasily.ui.page.LaunchActivity"
+    },
+    {
+        "app_name": "卫星地球导航",
+        "package_name": "com.hongmeng.app.wxdqdh",
+        "file_name": "com.hongmeng.app.wxdqdh_108.apk",
+        "app_activity": "com.hongmeng.app.wxdqdh.activity.SplashActivity"
+    },
+    {
+        "app_name": "轨迹户外助手",
+        "package_name": "com.lvxingetch.trailsense",
+        "file_name": "com.lvxingetch.trailsense_109.apk",
+        "app_activity": "com.lvxingetch.trailsense.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "百度CarLife+",
+        "package_name": "com.baidu.carlife",
+        "file_name": "com.baidu.carlife_110.apk",
+        "app_activity": "com.baidu.carlife.CarlifeActivity"
+    },
+    {
+        "app_name": "绿波出行",
+        "package_name": "com.siqi.lbcx",
+        "file_name": "com.siqi.lbcx_111.apk",
+        "app_activity": "com.whbluestar.thinkride.ft.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "电子狗",
+        "package_name": "net.cnmaps.edog",
+        "file_name": "net.cnmaps.edog_112.apk",
+        "app_activity": "net.cnmaps.edog.SplashActivity"
+    },
+    {
+        "app_name": "时空旅行表",
+        "package_name": "com.gecko.ttcarwatch",
+        "file_name": "com.gecko.ttcarwatch_113.apk",
+        "app_activity": "com.gecko.ttcarwatch.MainActivity"
+    },
+    {
+        "app_name": "北斗侠导航",
+        "package_name": "com.xiguakeji.bddh",
+        "file_name": "com.xiguakeji.bddh_114.apk",
+        "app_activity": "com.yydd.navigation.map.lite.WelcomeActivity"
+    },
+    {
+        "app_name": "GPS全球卫星导航",
+        "package_name": "com.momorufeng.dhxm",
+        "file_name": "com.momorufeng.dhxm_115.apk",
+        "app_activity": "com.roundworld.rwearth.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "百斗地图",
+        "package_name": "net.cnmaps.bedournavi",
+        "file_name": "net.cnmaps.bedournavi_116.apk",
+        "app_activity": "net.cnmaps.bedournavi.SplashActivity"
+    },
+    {
+        "app_name": "神舟地球导航",
+        "package_name": "com.ningmeng.app.earth",
+        "file_name": "com.ningmeng.app.earth_117.apk",
+        "app_activity": "com.ningmeng.app.earth.activity.SplashActivity"
+    },
+    {
+        "app_name": "CDAS",
+        "package_name": "com.nebulalink.cdas",
+        "file_name": "com.nebulalink.cdas_118.apk",
+        "app_activity": "com.nebulalink.cdas.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "MINI随行",
+        "package_name": "com.wlsx.companionapp",
+        "file_name": "com.wlsx.companionapp_119.apk",
+        "app_activity": "com.wlsx.companionapp.activity.LaunchActivity"
+    },
+    {
+        "app_name": "咕咕行",
+        "package_name": "com.caigetuxun.app.gugu",
+        "file_name": "com.caigetuxun.app.gugu_120.apk",
+        "app_activity": "com.caigetuxun.app.ggx.splash.SplashActivity"
+    },
+    {
+        "app_name": "领道者导航",
+        "package_name": "com.lixin.lingdaozhe",
+        "file_name": "com.lixin.lingdaozhe_121.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "手机地图导航",
+        "package_name": "com.xiwei.daohang",
+        "file_name": "com.xiwei.daohang_122.apk",
+        "app_activity": "com.jjdtddhgn.gddaohang.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "天眼AR实景导航",
+        "package_name": "com.qibaqijiu.wxdh",
+        "file_name": "com.qibaqijiu.wxdh_123.apk",
+        "app_activity": "com.yddh.dh.ui.SplashActivity"
+    },
+    {
+        "app_name": "易卡运货运版",
+        "package_name": "com.huahansoft.nanyangfreight",
+        "file_name": "com.huahansoft.nanyangfreight_124.apk",
+        "app_activity": "com.huahansoft.nanyangfreight.base.SplashActivity"
+    },
+    {
+        "app_name": "船来了",
+        "package_name": "com.cll",
+        "file_name": "com.cll_125.apk",
+        "app_activity": "com.cll.ui.Welcome"
+    },
+    {
+        "app_name": "车电网",
+        "package_name": "com.kelu.xqc",
+        "file_name": "com.kelu.xqc_126.apk",
+        "app_activity": "com.kelu.xqc.start.activity.SplashActivity"
+    },
+    {
+        "app_name": "手机号定位他",
+        "package_name": "tech.pengns.location",
+        "file_name": "tech.pengns.location_127.apk",
+        "app_activity": "tech.pengns.location.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "象奔奔货主端",
+        "package_name": "com.yufu.ls.consigner",
+        "file_name": "com.yufu.ls.consigner_128.apk",
+        "app_activity": "com.ddcwl.chaohaoyun.client.launch.LaunchActivity"
+    },
+    {
+        "app_name": "哒浪语音导航",
+        "package_name": "com.yuntuo.baiduvoice",
+        "file_name": "com.yuntuo.baiduvoice_129.apk",
+        "app_activity": "com.yuntuo.baiduvoice.MainActivity"
+    },
+    {
+        "app_name": "导航犬",
+        "package_name": "com.mubite.ardaohang",
+        "file_name": "com.mubite.ardaohang_130.apk",
+        "app_activity": "com.yfysldddaohang193.aohang193.ui.SplashActivity"
+    },
+    {
+        "app_name": "坐标地图",
+        "package_name": "com.measurement.altitude",
+        "file_name": "com.measurement.altitude_131.apk",
+        "app_activity": "com.measurement.altitude.ui.SplashActivity"
+    },
+    {
+        "app_name": "路途",
+        "package_name": "com.emaker.apps.hngs",
+        "file_name": "com.emaker.apps.hngs_132.apk",
+        "app_activity": "com.emaker.apps.hngs.main.SplashActivity"
+    },
+    {
+        "app_name": "云予停车",
+        "package_name": "com.clodcar.app",
+        "file_name": "com.clodcar.app_133.apk",
+        "app_activity": "com.clodcar.app.MainActivity"
+    },
+    {
+        "app_name": "智能实景导航",
+        "package_name": "com.yuebei.newwalk",
+        "file_name": "com.yuebei.newwalk_134.apk",
+        "app_activity": "com.yuebei.newwalk.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "悠游云驾",
+        "package_name": "com.yunjia.hud",
+        "file_name": "com.yunjia.hud_135.apk",
+        "app_activity": "com.yunjia.hud.activity.SplashActivity"
+    },
+    {
+        "app_name": "榕城泊车",
+        "package_name": "com.zhht.aipark.jyrc",
+        "file_name": "com.zhht.aipark.jyrc_136.apk",
+        "app_activity": "com.zhht.aipark.jyrc.ui.SplashActivity"
+    },
+    {
+        "app_name": "ETSP安全出行系统司机使用软件",
+        "package_name": "com.wujia.etdriver",
+        "file_name": "com.wujia.etdriver_137.apk",
+        "app_activity": "com.wujia.etdriver.ui.GuideActivity"
+    },
+    {
+        "app_name": "嘀嗒出租司机",
+        "package_name": "com.didapinche.taxidriver",
+        "file_name": "com.didapinche.taxidriver_138.apk",
+        "app_activity": "com.didapinche.taxidriver.login.activity.StartActivity"
+    },
+    {
+        "app_name": "迅极卫星导航",
+        "package_name": "com.fastgpsnavigator.lightningspeed",
+        "file_name": "com.fastgpsnavigator.lightningspeed_139.apk",
+        "app_activity": "com.fastgpsnavigator.lightningspeed.act.CSJSplashActivity"
+    },
+    {
+        "app_name": "汇投北斗导航",
+        "package_name": "com.jiejieliu.gaoqingdaohang",
+        "file_name": "com.jiejieliu.gaoqingdaohang_140.apk",
+        "app_activity": "com.guangshenyy.daohang172.ui.Splash172Activity"
+    },
+    {
+        "app_name": "驾驶伴侣",
+        "package_name": "net.easyconn.carman.neutral",
+        "file_name": "net.easyconn.carman.neutral_141.apk",
+        "app_activity": "net.easyconn.carman.MainActivity"
+    },
+    {
+        "app_name": "高德淘金",
+        "package_name": "com.autonavi.gxdtaojin",
+        "file_name": "com.autonavi.gxdtaojin_142.apk",
+        "app_activity": "com.autonavi.gxdtaojin.function.welcome.CPAgreenmentActivity"
+    },
+    {
+        "app_name": "GPS定位指南针",
+        "package_name": "com.njgcl.compass",
+        "file_name": "com.njgcl.compass_143.apk",
+        "app_activity": "com.fanghe.measure.ui.SplashActivity"
+    },
+    {
+        "app_name": "长沙易停车",
+        "package_name": "com.parking.changsha",
+        "file_name": "com.parking.changsha_144.apk",
+        "app_activity": "com.parking.changsha.act.StarUpAct"
+    },
+    {
+        "app_name": "出租车通用计价器",
+        "package_name": "com.wilson.taximeter",
+        "file_name": "com.wilson.taximeter_145.apk",
+        "app_activity": "com.wilson.taximeter.app.ui.SplashActivity"
+    },
+    {
+        "app_name": "追迹定位",
+        "package_name": "com.cktwlkj.locationsite",
+        "file_name": "com.cktwlkj.locationsite_146.apk",
+        "app_activity": "com.hc.friendtrack.ui.activity.login.StartActivity"
+    },
+    {
+        "app_name": "foooooot",
+        "package_name": "com.topgether.sixfoot",
+        "file_name": "com.topgether.sixfoot_147.apk",
+        "app_activity": "com.topgether.sixfootPro.biz.splash.SplashActivity"
+    },
+    {
+        "app_name": "探索地球",
+        "package_name": "com.beidoujiejing.daohang",
+        "file_name": "com.beidoujiejing.daohang_148.apk",
+        "app_activity": "com.beidounavigation.WelcomeActivity"
+    },
+    {
+        "app_name": "GPS全球手机导航",
+        "package_name": "com.laogpskeji.daohang",
+        "file_name": "com.laogpskeji.daohang_149.apk",
+        "app_activity": "com.uasdfl.scxfls.WelcomeActivity"
+    },
+    {
+        "app_name": "好到达货车导航",
+        "package_name": "com.wenchenghengyuan.haodaoda",
+        "file_name": "com.wenchenghengyuan.haodaoda_150.apk",
+        "app_activity": "com.wenchenghengyuan.haodaoda.ui.SplashActivity"
+    },
+    {
+        "app_name": "佛山易行",
+        "package_name": "com.uroad.fs_android",
+        "file_name": "com.uroad.fs_android_151.apk",
+        "app_activity": "com.uroad.fs_android.kt.SplashKT"
+    },
+    {
+        "app_name": "地图AR实景导航",
+        "package_name": "com.djkj.tdt",
+        "file_name": "com.djkj.tdt_152.apk",
+        "app_activity": "com.ygydddaoshangg19z81.shangg19z81.ui.SplashActivity"
+    },
+    {
+        "app_name": "百斗导航",
+        "package_name": "com.ttxxbddh.ditu",
+        "file_name": "com.ttxxbddh.ditu_153.apk",
+        "app_activity": "com.jiaxiangjiejing.streetview.UI.act.SplashActivity"
+    },
+    {
+        "app_name": "吉行小助手",
+        "package_name": "com.cam.geely",
+        "file_name": "com.cam.geely_154.apk",
+        "app_activity": "com.vyou.app.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "代驾人",
+        "package_name": "com.iddmao.daijiaren",
+        "file_name": "com.iddmao.daijiaren_155.apk",
+        "app_activity": "com.iddmao.daijiaren.helper.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "指南针GPS导航",
+        "package_name": "cn.wlh.zhinanzhen",
+        "file_name": "cn.wlh.zhinanzhen_156.apk",
+        "app_activity": "com.fanghe.measure.ui.SplashActivity"
+    },
+    {
+        "app_name": "兴义智慧停车",
+        "package_name": "com.fqtc.park",
+        "file_name": "com.fqtc.park_157.apk",
+        "app_activity": "com.fqtc.park.LaunchActivity"
+    },
+    {
+        "app_name": "AR导航仪",
+        "package_name": "com.wl.daohangyi",
+        "file_name": "com.wl.daohangyi_158.apk",
+        "app_activity": "com.wl.daohangyi.begin.BeginActivity"
+    },
+    {
+        "app_name": "智行淄博",
+        "package_name": "com.iec.lvdaocheng",
+        "file_name": "com.iec.lvdaocheng_159.apk",
+        "app_activity": "com.iec.lvdaocheng.business.launch.RouteActivity"
+    },
+    {
+        "app_name": "DOSS",
+        "package_name": "com.sdari.doss.shore.mobile.app",
+        "file_name": "com.sdari.doss.shore.mobile.app_160.apk",
+        "app_activity": "com.sdari.doss.shore.mobile.app.MainActivity"
+    },
+    {
+        "app_name": "AR实景导航软件",
+        "package_name": "com.tm.smartscankinge",
+        "file_name": "com.tm.smartscankinge_161.apk",
+        "app_activity": "com.ps.beidou.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "爱骑行",
+        "package_name": "com.txztwowheeler",
+        "file_name": "com.txztwowheeler_162.apk",
+        "app_activity": "com.txztwowheeler.MainActivity"
+    },
+    {
+        "app_name": "掌上宝通司机端",
+        "package_name": "com.baotong.driver",
+        "file_name": "com.baotong.driver_163.apk",
+        "app_activity": "com.baotong.driver.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "地图导航系统",
+        "package_name": "com.xierbazi.daohang",
+        "file_name": "com.xierbazi.daohang_164.apk",
+        "app_activity": "com.yfzf.WelcomeActivity"
+    },
+    {
+        "app_name": "天眼卫星导航",
+        "package_name": "com.arliveaction.technology",
+        "file_name": "com.arliveaction.technology_165.apk",
+        "app_activity": "com.arliveaction.technology.activity.SplashActivity"
+    },
+    {
+        "app_name": "货车宝",
+        "package_name": "com.hcb.app",
+        "file_name": "com.hcb.app_166.apk",
+        "app_activity": "com.hcb.app.start.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "手机管车",
+        "package_name": "com.chinaway.android.truck.manager",
+        "file_name": "com.chinaway.android.truck.manager_167.apk",
+        "app_activity": "com.chinaway.android.truck.manager.ui.SplashScreenActivity"
+    },
+    {
+        "app_name": "QILOO SMART",
+        "package_name": "qiloo.sz.mainfun",
+        "file_name": "qiloo.sz.mainfun_168.apk",
+        "app_activity": "qiloo.sz.mainfun.activity.LauncherActivity"
+    },
+    {
+        "app_name": "护驾行车记录仪",
+        "package_name": "com.yrdata.escort",
+        "file_name": "com.yrdata.escort_169.apk",
+        "app_activity": "com.yrdata.escort.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "卫星实景导航",
+        "package_name": "com.jhxy.smartnav",
+        "file_name": "com.jhxy.smartnav_170.apk",
+        "app_activity": "com.jhxy.smartnav.ui.splash.SplashPageActivity"
+    }
+]

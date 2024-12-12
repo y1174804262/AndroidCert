@@ -1,0 +1,86 @@
+[
+    {
+        "app_name": "每日一句心情",
+        "package_name": "com.just_soft.person_qq_sign",
+        "file_name": "com.just_soft.person_qq_sign_1.apk",
+        "app_activity": "com.justsoft.person_qq_sign.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "天天猜字谜",
+        "package_name": "com.czm.byzxy",
+        "file_name": "com.czm.byzxy_2.apk",
+        "app_activity": "com.tad.SplashActivity"
+    },
+    {
+        "app_name": "快乐点点",
+        "package_name": "com.ruike.kldd",
+        "file_name": "com.ruike.kldd_3.apk",
+        "app_activity": "com.lingdong.gm.activity.GMWebActivity"
+    },
+    {
+        "app_name": "搞笑段子大全",
+        "package_name": "com.itfirer.gxdzdq",
+        "file_name": "com.itfirer.gxdzdq_4.apk",
+        "app_activity": "com.itfirer.gxdzdq.activity.LoginActivity"
+    },
+    {
+        "app_name": "幽默笑话集锦",
+        "package_name": "com.gtxinxi.humorousjoke",
+        "file_name": "com.gtxinxi.humorousjoke_5.apk",
+        "app_activity": "com.gtxinxi.humorousjoke.ui.activity.NewSplashActivity"
+    },
+    {
+        "app_name": "笑话全集",
+        "package_name": "com.hjkj66.jokework",
+        "file_name": "com.hjkj66.jokework_6.apk",
+        "app_activity": "com.hjkj66.joke.activity.SplashActivity"
+    },
+    {
+        "app_name": "笑话大王",
+        "package_name": "com.jock.byzmfinalhw",
+        "file_name": "com.jock.byzmfinalhw_7.apk",
+        "app_activity": "com.tad.SplashActivity"
+    },
+    {
+        "app_name": "阅小花",
+        "package_name": "online.bagex.loan",
+        "file_name": "online.bagex.loan_8.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "搞笑大王",
+        "package_name": "cn.nhkj666.jokeking",
+        "file_name": "cn.nhkj666.jokeking_9.apk",
+        "app_activity": "com.hjkj66.joke.activity.SplashActivity"
+    },
+    {
+        "app_name": "脑筋急转弯全新版",
+        "package_name": "com.ddnj.byzxy",
+        "file_name": "com.ddnj.byzxy_10.apk",
+        "app_activity": "com.tad.SplashActivity"
+    },
+    {
+        "app_name": "今日早知道",
+        "package_name": "com.knew.feed",
+        "file_name": "com.knew.feed_11.apk",
+        "app_activity": "com.knew.feed.ui.activity.SplashScreenActivity"
+    },
+    {
+        "app_name": "精品笑话大全",
+        "package_name": "com.funny.byzm.tx",
+        "file_name": "com.funny.byzm.tx_12.apk",
+        "app_activity": "com.tad.SplashActivity"
+    },
+    {
+        "app_name": "7332乐园",
+        "package_name": "com.qisansaner.lcxx",
+        "file_name": "com.qisansaner.lcxx_13.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "通阅百科",
+        "package_name": "cn.com.tongyuebaike",
+        "file_name": "cn.com.tongyuebaike_14.apk",
+        "app_activity": "cn.com.tongyuebaike.stub.ui.MainActivity"
+    }
+]

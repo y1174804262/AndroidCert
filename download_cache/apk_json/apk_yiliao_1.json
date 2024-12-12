@@ -1,0 +1,2914 @@
+[
+    {
+        "app_name": "病历管家",
+        "package_name": "com.dida.mcloud",
+        "file_name": "com.dida.mcloud_1.apk",
+        "app_activity": "com.dida.mcloud.activity.StartAppActivity"
+    },
+    {
+        "app_name": "有来医生医生版",
+        "package_name": "cn.youlai.app",
+        "file_name": "cn.youlai.app_2.apk",
+        "app_activity": "cn.youlai.app.main.WelcomeActivity"
+    },
+    {
+        "app_name": "乒乓中医",
+        "package_name": "com.yiduo.haoduozhongyi",
+        "file_name": "com.yiduo.haoduozhongyi_3.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "津医保",
+        "package_name": "com.yinhai.syAPP",
+        "file_name": "com.yinhai.syAPP_4.apk",
+        "app_activity": "com.yinhai.hybird.md.engine.ui.SplashActivity"
+    },
+    {
+        "app_name": "昭阳医生医生版",
+        "package_name": "com.doctor.sun.doctor",
+        "file_name": "com.doctor.sun.doctor_5.apk",
+        "app_activity": "com.doctor.sun.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "中大光华口腔",
+        "package_name": "com.stomatology.ihealth",
+        "file_name": "com.stomatology.ihealth_6.apk",
+        "app_activity": "com.stomatology.ihealth.ui.SplashActivity"
+    },
+    {
+        "app_name": "丁香园",
+        "package_name": "cn.dxy.idxyer",
+        "file_name": "cn.dxy.idxyer_7.apk",
+        "app_activity": "cn.dxy.idxyer.biz.startup.StartupActivity"
+    },
+    {
+        "app_name": "携手医访医生端",
+        "package_name": "com.xieshou.healthyDerDoctor",
+        "file_name": "com.xieshou.healthyDerDoctor_8.apk",
+        "app_activity": "com.xieshou.healthyDerDoctor.ui.SplashActivity"
+    },
+    {
+        "app_name": "好医工",
+        "package_name": "com.klgz.app.haoyigong",
+        "file_name": "com.klgz.app.haoyigong_9.apk",
+        "app_activity": "com.klgz.app.ui.activity.StrartActivity"
+    },
+    {
+        "app_name": "爱看健康",
+        "package_name": "com.sino.care",
+        "file_name": "com.sino.care_10.apk",
+        "app_activity": "com.sino.frame.main.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "3156医药网",
+        "package_name": "uni.UNIB8B7D17",
+        "file_name": "uni.UNIB8B7D17_11.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "华医通",
+        "package_name": "info.cd120",
+        "file_name": "info.cd120_12.apk",
+        "app_activity": "info.cd120.app.person.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "乐问医学",
+        "package_name": "com.org.weiyilewen",
+        "file_name": "com.org.weiyilewen_13.apk",
+        "app_activity": "com.org.weiyilewen.module.login.welcome.SplashActivity"
+    },
+    {
+        "app_name": "用药助手",
+        "package_name": "cn.dxy.medicinehelper",
+        "file_name": "cn.dxy.medicinehelper_14.apk",
+        "app_activity": "cn.dxy.medicinehelper.activity.DrugLaunchActivity"
+    },
+    {
+        "app_name": "易健康云药房",
+        "package_name": "com.dsl.shopassistant",
+        "file_name": "com.dsl.shopassistant_15.apk",
+        "app_activity": "com.dsl.splash.SplashActivity"
+    },
+    {
+        "app_name": "浙江云上妇幼",
+        "package_name": "com.demxxx.smartcloud",
+        "file_name": "com.demxxx.smartcloud_16.apk",
+        "app_activity": "com.demxxx.smartcloud.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "160医护",
+        "package_name": "com.ny.jiuyi160_doctor",
+        "file_name": "com.ny.jiuyi160_doctor_17.apk",
+        "app_activity": "com.ny.jiuyi160_doctor.activity.userinfo.regist.LoadingActivity"
+    },
+    {
+        "app_name": "更美",
+        "package_name": "com.wanmeizhensuo.zhensuo",
+        "file_name": "com.wanmeizhensuo.zhensuo_18.apk",
+        "app_activity": "com.wanmeizhensuo.zhensuo.module.personal.ui.SplashActivity"
+    },
+    {
+        "app_name": "方橙式",
+        "package_name": "com.cebbank.soochowebank",
+        "file_name": "com.cebbank.soochowebank_19.apk",
+        "app_activity": "com.icitic.mobile.app.ui.LauncherActivity"
+    },
+    {
+        "app_name": "云上妇幼平台APP",
+        "package_name": "com.ysfy.cloud",
+        "file_name": "com.ysfy.cloud_20.apk",
+        "app_activity": "com.ysfy.cloud.ui.activity.Splash_Activity"
+    },
+    {
+        "app_name": "掌上同济",
+        "package_name": "cn.com.dlong.tjapp",
+        "file_name": "cn.com.dlong.tjapp_21.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "轻松筹",
+        "package_name": "com.qingsongchou.social",
+        "file_name": "com.qingsongchou.social_22.apk",
+        "app_activity": "com.qingsongchou.social.ui.activity.HomeActivity"
+    },
+    {
+        "app_name": "中日友好医院",
+        "package_name": "com.bjhsyuntai.zhongri.patient",
+        "file_name": "com.bjhsyuntai.zhongri.patient_23.apk",
+        "app_activity": "com.hundsun.lego.MainActivity"
+    },
+    {
+        "app_name": "科瑞泰Q医",
+        "package_name": "com.careate.qyi",
+        "file_name": "com.careate.qyi_24.apk",
+        "app_activity": "com.careate.qyi.ui.SplashActivity"
+    },
+    {
+        "app_name": "贵健康",
+        "package_name": "cn.longmaster.health",
+        "file_name": "cn.longmaster.health_25.apk",
+        "app_activity": "cn.longmaster.health.ui.appstart.AppStartActivity"
+    },
+    {
+        "app_name": "北京医院挂号网",
+        "package_name": "com.dengtadoctor.bj114",
+        "file_name": "com.dengtadoctor.bj114_26.apk",
+        "app_activity": "com.dengtadoctor.bj114.activity.SplashActivity114"
+    },
+    {
+        "app_name": "先大拼药药",
+        "package_name": "uni.UNIBAE5D3F",
+        "file_name": "uni.UNIBAE5D3F_27.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "掌上盛京医院",
+        "package_name": "com.proper.soft.mobile.isj",
+        "file_name": "com.proper.soft.mobile.isj_28.apk",
+        "app_activity": "com.proper.soft.mobile.isj.MainActivity"
+    },
+    {
+        "app_name": "挚听TWS",
+        "package_name": "cn.eartech.diontws.android",
+        "file_name": "cn.eartech.diontws.android_29.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "平安健康医生版",
+        "package_name": "com.pingan.doctor",
+        "file_name": "com.pingan.doctor_30.apk",
+        "app_activity": "com.pingan.doctor.ui.activities.SplashActivity"
+    },
+    {
+        "app_name": "医脉通",
+        "package_name": "cn.medlive.android",
+        "file_name": "cn.medlive.android_31.apk",
+        "app_activity": "cn.medlive.android.activity.LoadingActivity"
+    },
+    {
+        "app_name": "一块医药",
+        "package_name": "com.bottle.wvapp",
+        "file_name": "com.bottle.wvapp_32.apk",
+        "app_activity": "com.bottle.wvapp.activitys.NativeActivity"
+    },
+    {
+        "app_name": "肝胆相照",
+        "package_name": "cn.shangyu.gdxzPatient",
+        "file_name": "cn.shangyu.gdxzPatient_33.apk",
+        "app_activity": "cn.shangyu.gdxzPatient.splash.WelcomeUI"
+    },
+    {
+        "app_name": "微脉医生",
+        "package_name": "com.myweimai.doctor",
+        "file_name": "com.myweimai.doctor_34.apk",
+        "app_activity": "com.myweimai.doctor.mvvm.v.start.LaunchActivity"
+    },
+    {
+        "app_name": "HA Go",
+        "package_name": "hk.org.ha.hago",
+        "file_name": "hk.org.ha.hago_35.apk",
+        "app_activity": "hk.org.ha.hago.MainActivity"
+    },
+    {
+        "app_name": "优健康",
+        "package_name": "com.ihaozhuo.youjiankang",
+        "file_name": "com.ihaozhuo.youjiankang_36.apk",
+        "app_activity": "com.ihaozhuo.youjiankang.view.Login.activity.SplashActivity"
+    },
+    {
+        "app_name": "北京挂号网",
+        "package_name": "com.dengtadoctor.bjyuyue",
+        "file_name": "com.dengtadoctor.bjyuyue_37.apk",
+        "app_activity": "com.dengtadoctor.bjyuyue.activity.SplashActivity"
+    },
+    {
+        "app_name": "居民健康(医生版)",
+        "package_name": "com.jkx5da.client",
+        "file_name": "com.jkx5da.client_38.apk",
+        "app_activity": "com.jkx5da.client.activity.JkxInitNavActivity"
+    },
+    {
+        "app_name": "小鹿中医",
+        "package_name": "com.xiaolu.patient",
+        "file_name": "com.xiaolu.patient_39.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "厦大一附院",
+        "package_name": "xmdyyy.mobile.mhpublic",
+        "file_name": "xmdyyy.mobile.mhpublic_40.apk",
+        "app_activity": "cn.com.zoenet.healthcity.view.main.IndexActivity"
+    },
+    {
+        "app_name": "药师帮",
+        "package_name": "ysbang.cn",
+        "file_name": "ysbang.cn_41.apk",
+        "app_activity": "ysbang.cn.main.WelcomeActivity"
+    },
+    {
+        "app_name": "医网信",
+        "package_name": "cn.org.bjca.wcert.ywq",
+        "file_name": "cn.org.bjca.wcert.ywq_42.apk",
+        "app_activity": "cn.org.bjca.wcert.ywq.MainActivity"
+    },
+    {
+        "app_name": "亮健康",
+        "package_name": "com.ewhale.liangjian",
+        "file_name": "com.ewhale.liangjian_43.apk",
+        "app_activity": "com.ewhale.liangjian.SplashActivity"
+    },
+    {
+        "app_name": "正雅医生",
+        "package_name": "com.smartee.online3",
+        "file_name": "com.smartee.online3_44.apk",
+        "app_activity": "cn.smartee.online4.ui.RootActivity"
+    },
+    {
+        "app_name": "智众健康助手",
+        "package_name": "com.zhizhong.mmcassistant",
+        "file_name": "com.zhizhong.mmcassistant_45.apk",
+        "app_activity": "com.zhizhong.mmcassistant.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "领医未来",
+        "package_name": "com.yzn.doctor_hepler",
+        "file_name": "com.yzn.doctor_hepler_46.apk",
+        "app_activity": "com.yzn.doctor_hepler.DSplashActivity"
+    },
+    {
+        "app_name": "新氧医美",
+        "package_name": "com.youxiang.soyoungapp",
+        "file_name": "com.youxiang.soyoungapp_47.apk",
+        "app_activity": "com.soyoung.module_main.ui.SplashActivity"
+    },
+    {
+        "app_name": "恒昌健康",
+        "package_name": "com.hengchang.hcyyapp",
+        "file_name": "com.hengchang.hcyyapp_48.apk",
+        "app_activity": "com.hengchang.hcyyapp.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "爱宠采购",
+        "package_name": "com.ichong.cloudmarket",
+        "file_name": "com.ichong.cloudmarket_49.apk",
+        "app_activity": "com.ichong.cloudmarket.LaunchActivity"
+    },
+    {
+        "app_name": "男性私人医生",
+        "package_name": "com.medapp.man",
+        "file_name": "com.medapp.man_50.apk",
+        "app_activity": "com.luyan.tec.ui.activity.splash.WelcomeActivity"
+    },
+    {
+        "app_name": "稳糖",
+        "package_name": "com.kkd.kuaikangda",
+        "file_name": "com.kkd.kuaikangda_51.apk",
+        "app_activity": "com.iboxchain.sugar.activity.start.AgreementActivity"
+    },
+    {
+        "app_name": "黄疸随访",
+        "package_name": "cn.bilibaby.aurigoble",
+        "file_name": "cn.bilibaby.aurigoble_52.apk",
+        "app_activity": "cn.bilibaby.aurigoble.ui.main.activity.FlashActivity"
+    },
+    {
+        "app_name": "药帮忙",
+        "package_name": "com.ybmmarket20",
+        "file_name": "com.ybmmarket20_53.apk",
+        "app_activity": "com.ybmmarket20.activity.SplashActivity"
+    },
+    {
+        "app_name": "湖北智慧医保",
+        "package_name": "com.neusoft.mi.hubei.yibao",
+        "file_name": "com.neusoft.mi.hubei.yibao_54.apk",
+        "app_activity": "com.neusoft.si.j2carch.InitialActivity"
+    },
+    {
+        "app_name": "张家口一附院",
+        "package_name": "com.neuqsoft.hlwyy_zjkyfy_show",
+        "file_name": "com.neuqsoft.hlwyy_zjkyfy_show_55.apk",
+        "app_activity": "com.neuqsoft.povertyalleviation.MainActivity"
+    },
+    {
+        "app_name": "荷叶健康商家版",
+        "package_name": "com.ybm100.app.ykq.shop.diagnosis",
+        "file_name": "com.ybm100.app.ykq.shop.diagnosis_56.apk",
+        "app_activity": "com.ybm100.app.ykq.shop.diagnosis.ui.activity.FlashActivity"
+    },
+    {
+        "app_name": "中医方歌",
+        "package_name": "com.cjz.PrescriptionPoem",
+        "file_name": "com.cjz.PrescriptionPoem_57.apk",
+        "app_activity": "com.cjz.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "健康东莞",
+        "package_name": "com.sms.smsmemberappjkdg",
+        "file_name": "com.sms.smsmemberappjkdg_58.apk",
+        "app_activity": "com.sms.smsmemberapp.ui.LoginActivity"
+    },
+    {
+        "app_name": "固生堂中医",
+        "package_name": "com.gstzy.patient",
+        "file_name": "com.gstzy.patient_59.apk",
+        "app_activity": "com.gstzy.patient.ui.activity.SplashAct"
+    },
+    {
+        "app_name": "北医三院",
+        "package_name": "com.founder.bysypatientapp",
+        "file_name": "com.founder.bysypatientapp_60.apk",
+        "app_activity": "com.founder.bysypatientapp.MainActivity"
+    },
+    {
+        "app_name": "骨今中外",
+        "package_name": "com.naton.bonedict",
+        "file_name": "com.naton.bonedict_61.apk",
+        "app_activity": "com.naton.bonedict.IndexActivity"
+    },
+    {
+        "app_name": "诺芯无创",
+        "package_name": "com.xinnuo.glumeter",
+        "file_name": "com.xinnuo.glumeter_62.apk",
+        "app_activity": "com.xinnuo.glumeter.MainActivity"
+    },
+    {
+        "app_name": "i黑密",
+        "package_name": "com.slinph.ihairhelmet4",
+        "file_name": "com.slinph.ihairhelmet4_63.apk",
+        "app_activity": "com.slinph.ihairhelmet4.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "贵州医保",
+        "package_name": "com.yinhai.gzybapp",
+        "file_name": "com.yinhai.gzybapp_64.apk",
+        "app_activity": "com.yinhai.hybird.md.engine.ui.SplashActivity"
+    },
+    {
+        "app_name": "生娃育娃一件事",
+        "package_name": "jxfy.hospital",
+        "file_name": "jxfy.hospital_65.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "健管助手",
+        "package_name": "com.xty.healthuser",
+        "file_name": "com.xty.healthuser_66.apk",
+        "app_activity": "com.xty.healthuser.act.WelcomeAct"
+    },
+    {
+        "app_name": "健康大兴",
+        "package_name": "com.wondersgroup.android.healthcity_wonders.daxing",
+        "file_name": "com.wondersgroup.android.healthcity_wonders.daxing_67.apk",
+        "app_activity": "com.wondersgroup.android.healthcity_wonders.ui.login.LoginActivity"
+    },
+    {
+        "app_name": "药源网",
+        "package_name": "com.yaopinnet.m",
+        "file_name": "com.yaopinnet.m_68.apk",
+        "app_activity": "com.yaopinnet.m.ui.SplashActivity"
+    },
+    {
+        "app_name": "严道医声",
+        "package_name": "com.drvoice.drvoice",
+        "file_name": "com.drvoice.drvoice_69.apk",
+        "app_activity": "com.drvoice.drvoice.MainActivity"
+    },
+    {
+        "app_name": "慧医",
+        "package_name": "com.yuantu.huiyi",
+        "file_name": "com.yuantu.huiyi_70.apk",
+        "app_activity": "com.yuantu.huiyi.home.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "和缓视频医生",
+        "package_name": "com.hhmedic.app.patient",
+        "file_name": "com.hhmedic.app.patient_71.apk",
+        "app_activity": "com.hhmedic.app.patient.WelcomeActivity"
+    },
+    {
+        "app_name": "唯医骨科",
+        "package_name": "com.allin.social",
+        "file_name": "com.allin.social_72.apk",
+        "app_activity": "com.allin.social.WelcomeActivity"
+    },
+    {
+        "app_name": "急救120医疗端",
+        "package_name": "cn.com.dreamtouch.e120.dr",
+        "file_name": "cn.com.dreamtouch.e120.dr_73.apk",
+        "app_activity": "cn.com.dreamtouch.e120.common.activity.LaunchActivity"
+    },
+    {
+        "app_name": "榕树家中医",
+        "package_name": "com.rsjitcm.hospital",
+        "file_name": "com.rsjitcm.hospital_74.apk",
+        "app_activity": "com.rsjitcm.hospital.activity.SplashActivity"
+    },
+    {
+        "app_name": "京号通医院预约挂号",
+        "package_name": "com.hospital.jht",
+        "file_name": "com.hospital.jht_75.apk",
+        "app_activity": "com.example.dengta_jht_android.activity.SplashActivity"
+    },
+    {
+        "app_name": "粤苗",
+        "package_name": "plus.H5A84F959",
+        "file_name": "plus.H5A84F959_76.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "百灵健康",
+        "package_name": "com.msunsoft.registration",
+        "file_name": "com.msunsoft.registration_77.apk",
+        "app_activity": "com.msunsoft.registration.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "医事服务",
+        "package_name": "cn.yishifuwu.ysysapp",
+        "file_name": "cn.yishifuwu.ysysapp_78.apk",
+        "app_activity": "cn.yishifuwu.ysysapp.MainActivity"
+    },
+    {
+        "app_name": "北京清华长庚医院",
+        "package_name": "com.bjhsyuntai.qhcg.patient",
+        "file_name": "com.bjhsyuntai.qhcg.patient_79.apk",
+        "app_activity": "com.hundsun.app.MainActivity"
+    },
+    {
+        "app_name": "浙江预约挂号",
+        "package_name": "com.zjrc.yygh",
+        "file_name": "com.zjrc.yygh_80.apk",
+        "app_activity": "com.zjrc.yygh.cr.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "MSD Manual Pro",
+        "package_name": "com.msd.professionalChinese",
+        "file_name": "com.msd.professionalChinese_81.apk",
+        "app_activity": "com.msd.professionalChinese.ui.Splashscreenactivity"
+    },
+    {
+        "app_name": "掌上阜外医院",
+        "package_name": "com.fuwaihospital.fwapp",
+        "file_name": "com.fuwaihospital.fwapp_82.apk",
+        "app_activity": "com.fuwaihospital.fwapp.SplashActivity"
+    },
+    {
+        "app_name": "北京燕化医院",
+        "package_name": "com.tybzyy.fenhuangpat",
+        "file_name": "com.tybzyy.fenhuangpat_83.apk",
+        "app_activity": "com.tybzyy.fenhuangpat.ui.activity.launch.LaunchActivity"
+    },
+    {
+        "app_name": "感控工作间",
+        "package_name": "com.deya.acaide",
+        "file_name": "com.deya.acaide_84.apk",
+        "app_activity": "com.deya.acaide.main.SplashActivity"
+    },
+    {
+        "app_name": "徐州健康通",
+        "package_name": "com.ichoice.wmxuzhou",
+        "file_name": "com.ichoice.wmxuzhou_85.apk",
+        "app_activity": "com.ichoice.wmxuzhou.activities.splash.LeadActivity"
+    },
+    {
+        "app_name": "康太太大药房",
+        "package_name": "com.hnkttdyf.mm",
+        "file_name": "com.hnkttdyf.mm_86.apk",
+        "app_activity": "com.hnkttdyf.mm.mvp.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "医见通助手",
+        "package_name": "com.yijiantong.pharmacy",
+        "file_name": "com.yijiantong.pharmacy_87.apk",
+        "app_activity": "com.yijiantong.pharmacy.activity.SplashActivity"
+    },
+    {
+        "app_name": "药九九",
+        "package_name": "com.yyjzt.b2b",
+        "file_name": "com.yyjzt.b2b_88.apk",
+        "app_activity": "com.yyjzt.b2b.ui.SplashActivity"
+    },
+    {
+        "app_name": "华医通医生",
+        "package_name": "info.cd120.app.doctor",
+        "file_name": "info.cd120.app.doctor_89.apk",
+        "app_activity": "info.cd120.app.doctor.SplashActivity"
+    },
+    {
+        "app_name": "病历夹经典版",
+        "package_name": "com.apricotforest.dossier",
+        "file_name": "com.apricotforest.dossier_90.apk",
+        "app_activity": "com.apricotforest.dossier.medicalrecord.activity.main.MainLoadingActivity"
+    },
+    {
+        "app_name": "北京协和医院",
+        "package_name": "com.hundsun.qy.hospitalcloud.bj.xhhosp.hsyy",
+        "file_name": "com.hundsun.qy.hospitalcloud.bj.xhhosp.hsyy_91.apk",
+        "app_activity": "com.hundsun.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "金牌护士",
+        "package_name": "com.bjut.cyl.findnurse",
+        "file_name": "com.bjut.cyl.findnurse_92.apk",
+        "app_activity": "com.bjut.cyl.findnurse.ui.home.activity.SplashActivity"
+    },
+    {
+        "app_name": "百姓中医慧康堂",
+        "package_name": "cn.baixingzy.hkt",
+        "file_name": "cn.baixingzy.hkt_93.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "优生智库",
+        "package_name": "com.maixun.riskconsult",
+        "file_name": "com.maixun.riskconsult_94.apk",
+        "app_activity": "com.uewell.riskconsult.ui.activity.FirstActivity"
+    },
+    {
+        "app_name": "痛风快好",
+        "package_name": "com.panda.gout",
+        "file_name": "com.panda.gout_95.apk",
+        "app_activity": "com.panda.gout.MainActivity"
+    },
+    {
+        "app_name": "照护365康护端",
+        "package_name": "com.zhaohu365.kanghu",
+        "file_name": "com.zhaohu365.kanghu_96.apk",
+        "app_activity": "com.zhaohu365.kanghu.ui.lunch.SplashActivity"
+    },
+    {
+        "app_name": "澜渟盆底",
+        "package_name": "com.mld.mulan",
+        "file_name": "com.mld.mulan_97.apk",
+        "app_activity": "com.mld.mulan.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "健康廊坊",
+        "package_name": "app.can",
+        "file_name": "app.can_98.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "健康之路",
+        "package_name": "com.yihu.medical",
+        "file_name": "com.yihu.medical_99.apk",
+        "app_activity": "com.yihu.StartActivity"
+    },
+    {
+        "app_name": "优麦医生",
+        "package_name": "cn.com.shanghai.umer_doctor",
+        "file_name": "cn.com.shanghai.umer_doctor_100.apk",
+        "app_activity": "cn.com.shanghai.umer_doctor.ui.launch.SplashActivity"
+    },
+    {
+        "app_name": "111医药馆",
+        "package_name": "com.example.yiyaoguan111",
+        "file_name": "com.example.yiyaoguan111_101.apk",
+        "app_activity": "com.example.yiyaoguan111.WelcomeActivity"
+    },
+    {
+        "app_name": "江苏互联网医院医生端",
+        "package_name": "xikang.cdpm.jsdoctor",
+        "file_name": "xikang.cdpm.jsdoctor_102.apk",
+        "app_activity": "xikang.cdpm.jsdoctor.guide.StartActivity"
+    },
+    {
+        "app_name": "浙大儿院",
+        "package_name": "com.zhicall.erbao",
+        "file_name": "com.zhicall.erbao_103.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "金益康",
+        "package_name": "com.qinwenting.itp",
+        "file_name": "com.qinwenting.itp_104.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "修固医生",
+        "package_name": "com.xiuguuser.llk",
+        "file_name": "com.xiuguuser.llk_105.apk",
+        "app_activity": "com.xiuguuser.store.activity.SplashActivity"
+    },
+    {
+        "app_name": "临床决策助手",
+        "package_name": "cn.org.yxj.tool",
+        "file_name": "cn.org.yxj.tool_106.apk",
+        "app_activity": "cn.org.yxj.tool.splash.SplashActivity"
+    },
+    {
+        "app_name": "口腔科医院挂号网",
+        "package_name": "com.dengtadoctor.kouqiang",
+        "file_name": "com.dengtadoctor.kouqiang_107.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "好大夫医生版",
+        "package_name": "com.haodf.android.doctor",
+        "file_name": "com.haodf.android.doctor_108.apk",
+        "app_activity": "com.haodf.android.doctor.start.SplashActivity"
+    },
+    {
+        "app_name": "多宝视训练系统",
+        "package_name": "air.cn.topeye.dobosoTrain",
+        "file_name": "air.cn.topeye.dobosoTrain_109.apk",
+        "app_activity": "com.topeye.dobosoTrain.main.Main"
+    },
+    {
+        "app_name": "牙套之家",
+        "package_name": "com.yataohome.yataohome",
+        "file_name": "com.yataohome.yataohome_110.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "视琦视觉训练系统",
+        "package_name": "com.babyeye.pad6",
+        "file_name": "com.babyeye.pad6_111.apk",
+        "app_activity": "com.babyeye.pad6.MainActivity"
+    },
+    {
+        "app_name": "美呗医美",
+        "package_name": "com.meibei.app",
+        "file_name": "com.meibei.app_112.apk",
+        "app_activity": "com.meibei.app.MainActivity"
+    },
+    {
+        "app_name": "修正",
+        "package_name": "com.xzcare.android",
+        "file_name": "com.xzcare.android_113.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "中山三院(用户版)",
+        "package_name": "com.hundsun.hospitalcloud.gd.zssy.platform",
+        "file_name": "com.hundsun.hospitalcloud.gd.zssy.platform_114.apk",
+        "app_activity": "com.hundsun.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "欧态易测",
+        "package_name": "com.ottai.tag",
+        "file_name": "com.ottai.tag_115.apk",
+        "app_activity": "com.ottai.tag.MainActivity"
+    },
+    {
+        "app_name": "伊鸿诊所",
+        "package_name": "com.ehometerminal",
+        "file_name": "com.ehometerminal_116.apk",
+        "app_activity": "com.ehometerminal.MainActivity"
+    },
+    {
+        "app_name": "医会宝",
+        "package_name": "com.medmeeting.m.zhiyi",
+        "file_name": "com.medmeeting.m.zhiyi_117.apk",
+        "app_activity": "com.medmeeting.m.zhiyi.ui.guide.WelcomeActivity"
+    },
+    {
+        "app_name": "美团买药医生端",
+        "package_name": "com.sankuai.health.doctor",
+        "file_name": "com.sankuai.health.doctor_118.apk",
+        "app_activity": "com.sankuai.health.doctor.MainActivity"
+    },
+    {
+        "app_name": "新氧极速版",
+        "package_name": "com.youxiang.soyoungapp.mock",
+        "file_name": "com.youxiang.soyoungapp.mock_119.apk",
+        "app_activity": "com.soyoung.module_main.ui.SplashActivity"
+    },
+    {
+        "app_name": "小荷医生",
+        "package_name": "com.aurora.xiaohe.app_doctor",
+        "file_name": "com.aurora.xiaohe.app_doctor_120.apk",
+        "app_activity": "com.aurora.xiaohe.app_doctor.activity.OpenRedirectActivity"
+    },
+    {
+        "app_name": "医者健康",
+        "package_name": "com.medicalexpert.client",
+        "file_name": "com.medicalexpert.client_121.apk",
+        "app_activity": "com.medicalexpert.client.activity.SplashActivity"
+    },
+    {
+        "app_name": "北京名医挂号网",
+        "package_name": "com.bjmingyiguahao",
+        "file_name": "com.bjmingyiguahao_122.apk",
+        "app_activity": "com.example.dengta_bjmyghw_android.activity.SplashActivity"
+    },
+    {
+        "app_name": "梅斯医学",
+        "package_name": "cn.medsci.app.news",
+        "file_name": "cn.medsci.app.news_123.apk",
+        "app_activity": "cn.medsci.app.news.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "微探专业版",
+        "package_name": "com.medtrum.easysenseforandroidmmol_hcp",
+        "file_name": "com.medtrum.easysenseforandroidmmol_hcp_124.apk",
+        "app_activity": "com.medtrum.weitanpersonal.MainActivity"
+    },
+    {
+        "app_name": "方舟健客网上药店",
+        "package_name": "com.jiankecom.jiankemall",
+        "file_name": "com.jiankecom.jiankemall_125.apk",
+        "app_activity": "com.jiankecom.jiankemall.activity.MainActivity"
+    },
+    {
+        "app_name": "卓正医疗",
+        "package_name": "com.distinctclinic",
+        "file_name": "com.distinctclinic_126.apk",
+        "app_activity": "com.distinctclinic.MainActivity"
+    },
+    {
+        "app_name": "医院挂号通",
+        "package_name": "com.guahao01.app.shanghai.shanghai_app",
+        "file_name": "com.guahao01.app.shanghai.shanghai_app_127.apk",
+        "app_activity": "com.guahao01.app.shanghai.shanghai_app.MainActivity"
+    },
+    {
+        "app_name": "检验人声",
+        "package_name": "com.hmsw.jyrs",
+        "file_name": "com.hmsw.jyrs_128.apk",
+        "app_activity": "com.hmsw.jyrs.section.login.activity.SplashActivity"
+    },
+    {
+        "app_name": "汉王健康",
+        "package_name": "com.android.hanvonhealthproject",
+        "file_name": "com.android.hanvonhealthproject_129.apk",
+        "app_activity": "com.android.hanvonhealthproject.activity.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "福棠儿医",
+        "package_name": "com.chocwell.futang.client",
+        "file_name": "com.chocwell.futang.client_130.apk",
+        "app_activity": "com.chocwell.futang.client.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "乖乖葆孕妇",
+        "package_name": "com.ggb.woman",
+        "file_name": "com.ggb.woman_131.apk",
+        "app_activity": "com.ggb.woman.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "硅基动感",
+        "package_name": "com.sisensing.sisensingcgm",
+        "file_name": "com.sisensing.sisensingcgm_132.apk",
+        "app_activity": "com.sisensing.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "医为",
+        "package_name": "com.dhcc.followup",
+        "file_name": "com.dhcc.followup_133.apk",
+        "app_activity": "com.dhcc.followup.view.SplashActivity"
+    },
+    {
+        "app_name": "临床指南",
+        "package_name": "cn.medlive.guideline.android",
+        "file_name": "cn.medlive.guideline.android_134.apk",
+        "app_activity": "cn.medlive.guideline.activity.LoadingActivity"
+    },
+    {
+        "app_name": "逑美",
+        "package_name": "com.pifukezaixian.users",
+        "file_name": "com.pifukezaixian.users_135.apk",
+        "app_activity": "com.pifukezaixian.users.activity.SplashActivity"
+    },
+    {
+        "app_name": "药试圈",
+        "package_name": "com.trialosapp",
+        "file_name": "com.trialosapp_136.apk",
+        "app_activity": "com.trialosapp.mvp.ui.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "中医通",
+        "package_name": "com.uchappy.riddles",
+        "file_name": "com.uchappy.riddles_137.apk",
+        "app_activity": "com.uchappy.Main.activity.StartMainActivity"
+    },
+    {
+        "app_name": "北京儿童医院",
+        "package_name": "com.huaai.chho",
+        "file_name": "com.huaai.chho_138.apk",
+        "app_activity": "com.huaai.chho.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "上海市级医院互联网总平台",
+        "package_name": "com.wonders.mobile.app.yilian",
+        "file_name": "com.wonders.mobile.app.yilian_139.apk",
+        "app_activity": "com.wonders.mobile.app.yilian.patient.ui.guide.SplashActivity"
+    },
+    {
+        "app_name": "卒中急救地图",
+        "package_name": "com.jhjz.emr.lstd_online",
+        "file_name": "com.jhjz.emr.lstd_online_140.apk",
+        "app_activity": "com.jhjz.emr.lstd_public.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "健客医院",
+        "package_name": "cn.jianke.hospital",
+        "file_name": "cn.jianke.hospital_141.apk",
+        "app_activity": "cn.jianke.hospital.activity.SplashActivity"
+    },
+    {
+        "app_name": "肿瘤医生",
+        "package_name": "net.liangyihui.app",
+        "file_name": "net.liangyihui.app_142.apk",
+        "app_activity": "com.dop.h_doctor.ui.splash.IntroActivity"
+    },
+    {
+        "app_name": "MSD Manual Home",
+        "package_name": "com.msd.consumerChinese",
+        "file_name": "com.msd.consumerChinese_143.apk",
+        "app_activity": "com.msd.consumerChinese.ui.Splashscreenactivity"
+    },
+    {
+        "app_name": "鱼跃安耐糖",
+        "package_name": "com.yuwell.cgm",
+        "file_name": "com.yuwell.cgm_144.apk",
+        "app_activity": "com.yuwell.cgm.view.normal.startup.Startup"
+    },
+    {
+        "app_name": "健康深圳",
+        "package_name": "com.xky.app.patient",
+        "file_name": "com.xky.app.patient_145.apk",
+        "app_activity": "com.xky.app.patient.ui.main.SplashNewActivity"
+    },
+    {
+        "app_name": "肾上线",
+        "package_name": "com.kidneyonline.patient",
+        "file_name": "com.kidneyonline.patient_146.apk",
+        "app_activity": "com.kidneyonline.patient.frameActivity.WelcomeActivity"
+    },
+    {
+        "app_name": "成都美柚互联网医院医生端",
+        "package_name": "com.meiyou.doctor",
+        "file_name": "com.meiyou.doctor_147.apk",
+        "app_activity": "com.meiyou.taking.doctor.MainActivity"
+    },
+    {
+        "app_name": "觅健",
+        "package_name": "cn.els.bhrw.app",
+        "file_name": "cn.els.bhrw.app_148.apk",
+        "app_activity": "cn.els.bhrw.app.activity.SplashActivity"
+    },
+    {
+        "app_name": "海南医保",
+        "package_name": "cn.hsa.app.hainan",
+        "file_name": "cn.hsa.app.hainan_149.apk",
+        "app_activity": "cn.hsa.app.hainan.ui.SplashActivity"
+    },
+    {
+        "app_name": "掌上中山一院",
+        "package_name": "com.maytaste.ihealth",
+        "file_name": "com.maytaste.ihealth_150.apk",
+        "app_activity": "com.maytaste.ihealth.ui.entrance.EntranceActivity"
+    },
+    {
+        "app_name": "3Dbody解剖",
+        "package_name": "com.HaoTuBang.H3DBodyFree",
+        "file_name": "com.HaoTuBang.H3DBodyFree_151.apk",
+        "app_activity": "com.HaoTuBang.H3DBodyFree.modules.login.activity.SpalashActivity"
+    },
+    {
+        "app_name": "中健365",
+        "package_name": "com.zj365.dc",
+        "file_name": "com.zj365.dc_152.apk",
+        "app_activity": "com.zj365.dc.activity.WelcomeAct"
+    },
+    {
+        "app_name": "移睿云医生",
+        "package_name": "com.bjgoodwill.doctormrb",
+        "file_name": "com.bjgoodwill.doctormrb_153.apk",
+        "app_activity": "com.bjgoodwill.doctormrb.ui.flash.FlashActivity"
+    },
+    {
+        "app_name": "观心实验室",
+        "package_name": "guanxin.user.android.com",
+        "file_name": "guanxin.user.android.com_154.apk",
+        "app_activity": "guanxin.user.android.com.splash.SplashActivity"
+    },
+    {
+        "app_name": "医院挂号网",
+        "package_name": "dtys.guahaowang",
+        "file_name": "dtys.guahaowang_155.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "华鹊百草",
+        "package_name": "cn.smceapp.smce_app",
+        "file_name": "cn.smceapp.smce_app_156.apk",
+        "app_activity": "cn.smceapp.smce_app.MainActivity"
+    },
+    {
+        "app_name": "医信",
+        "package_name": "com.msunsoft.docinternet",
+        "file_name": "com.msunsoft.docinternet_157.apk",
+        "app_activity": "com.msunsoft.md.activity.AfterWelcome"
+    },
+    {
+        "app_name": "北京医院预约挂号网",
+        "package_name": "com.bjguahao.yyghw",
+        "file_name": "com.bjguahao.yyghw_158.apk",
+        "app_activity": "com.bjguahao.yyghw.activity.SplashActivityHao"
+    },
+    {
+        "app_name": "肝胆相照专家版",
+        "package_name": "cn.shangyu.gdxzExpert",
+        "file_name": "cn.shangyu.gdxzExpert_159.apk",
+        "app_activity": "cn.shangyu.gdxzExpert.splash.WelcomeUI"
+    },
+    {
+        "app_name": "有赞美业",
+        "package_name": "com.youzan.meiyesj",
+        "file_name": "com.youzan.meiyesj_160.apk",
+        "app_activity": "com.youzan.login.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "知护网",
+        "package_name": "com.appbyme.app261606",
+        "file_name": "com.appbyme.app261606_161.apk",
+        "app_activity": "net.duohuo.magappx.main.WelcomeActivity"
+    },
+    {
+        "app_name": "国中康健",
+        "package_name": "com.gk.health.app",
+        "file_name": "com.gk.health.app_162.apk",
+        "app_activity": "com.gk.health.app.MainActivity"
+    },
+    {
+        "app_name": "护理助手",
+        "package_name": "com.ecloudinfo.hulizhushou",
+        "file_name": "com.ecloudinfo.hulizhushou_163.apk",
+        "app_activity": "com.ecloudinfo.hulizhushou.MainActivity"
+    },
+    {
+        "app_name": "掌上北京医院",
+        "package_name": "com.ucmed.hlwyy.beijing.beijinghulianwangyiyuan",
+        "file_name": "com.ucmed.hlwyy.beijing.beijinghulianwangyiyuan_164.apk",
+        "app_activity": "com.ucmed.beijingyiyuan.patient.WelcomeActivity"
+    },
+    {
+        "app_name": "世纪云服务",
+        "package_name": "com.bjgoodwill.shijimrb",
+        "file_name": "com.bjgoodwill.shijimrb_165.apk",
+        "app_activity": "com.bjgoodwill.mobilemrb.ui.flash.FlashActivity"
+    },
+    {
+        "app_name": "环球医药网",
+        "package_name": "com.yxkj.medicine",
+        "file_name": "com.yxkj.medicine_166.apk",
+        "app_activity": "com.yxkj.medicine.activity.SplashActivity"
+    },
+    {
+        "app_name": "兔灵医药",
+        "package_name": "cn.jiage315.chayao",
+        "file_name": "cn.jiage315.chayao_167.apk",
+        "app_activity": "cn.jiage315.chayao.view.activity.splash.StartupActivity"
+    },
+    {
+        "app_name": "中山眼科中心",
+        "package_name": "com.founder.gzzoc",
+        "file_name": "com.founder.gzzoc_168.apk",
+        "app_activity": "com.founder.gzzoc.MainActivity"
+    },
+    {
+        "app_name": "复星健康",
+        "package_name": "com.wanbangcloudhelth.fengyouhui",
+        "file_name": "com.wanbangcloudhelth.fengyouhui_169.apk",
+        "app_activity": "com.wanbangcloudhelth.fengyouhui.activity.StartAC"
+    },
+    {
+        "app_name": "豫中一",
+        "package_name": "com.jd.heakthy.hncm.patient",
+        "file_name": "com.jd.heakthy.hncm.patient_170.apk",
+        "app_activity": "com.jd.heakthy.hncm.patient.ui.PortalActivity"
+    },
+    {
+        "app_name": "好心情医生版",
+        "package_name": "com.hxqydyl.app.ys",
+        "file_name": "com.hxqydyl.app.ys_171.apk",
+        "app_activity": "com.hxqydyl.app.ys.home.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "MCDEX移动版",
+        "package_name": "com.medicom.mcdex",
+        "file_name": "com.medicom.mcdex_172.apk",
+        "app_activity": "com.medicom.mcdex.LaunchActivity"
+    },
+    {
+        "app_name": "熊猫药药",
+        "package_name": "cn.com.gxlu",
+        "file_name": "cn.com.gxlu_173.apk",
+        "app_activity": "cn.com.gxlu.dwcheck.main.StartActivity"
+    },
+    {
+        "app_name": "大E小E",
+        "package_name": "com.example.snapscope_app",
+        "file_name": "com.example.snapscope_app_174.apk",
+        "app_activity": "com.example.snapscope_app.MainActivity"
+    },
+    {
+        "app_name": "艾灸养生",
+        "package_name": "com.jiudaifu.yangsheng",
+        "file_name": "com.jiudaifu.yangsheng_175.apk",
+        "app_activity": "com.jiudaifu.yangsheng.ui.GuideActivity"
+    },
+    {
+        "app_name": "诊疗助手",
+        "package_name": "com.ts.zlzs",
+        "file_name": "com.ts.zlzs_176.apk",
+        "app_activity": "com.ts.zlzs.LoadingActivity"
+    },
+    {
+        "app_name": "嘉会医疗",
+        "package_name": "com.jiahui.health.app",
+        "file_name": "com.jiahui.health.app_177.apk",
+        "app_activity": "com.jiahui.health.app.ui.SplashActivity"
+    },
+    {
+        "app_name": "全国医院挂号网",
+        "package_name": "xyxh.quanguoguahao",
+        "file_name": "xyxh.quanguoguahao_178.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "丁香医生",
+        "package_name": "cn.dxy.android.aspirin",
+        "file_name": "cn.dxy.android.aspirin_179.apk",
+        "app_activity": "cn.dxy.android.aspirin.startup.StartupActivity"
+    },
+    {
+        "app_name": "名医传世",
+        "package_name": "com.atgc.mycs",
+        "file_name": "com.atgc.mycs_180.apk",
+        "app_activity": "com.atgc.mycs.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "贞视力训练",
+        "package_name": "com.yssg.proj",
+        "file_name": "com.yssg.proj_181.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "掌上卫健",
+        "package_name": "cn.com.twosnail.health.doctor",
+        "file_name": "cn.com.twosnail.health.doctor_182.apk",
+        "app_activity": "cn.com.twosnail.health.doctor.kt.activity.SplashActivity2"
+    },
+    {
+        "app_name": "健康南京",
+        "package_name": "com.focustech.medical",
+        "file_name": "com.focustech.medical_183.apk",
+        "app_activity": "com.focustech.mm.module.activity.LoadingActivity"
+    },
+    {
+        "app_name": "健康桐乡",
+        "package_name": "com.bs.cloud.pub.tongxiang",
+        "file_name": "com.bs.cloud.pub.tongxiang_184.apk",
+        "app_activity": "com.bs.cloud.activity.LoadingActivity"
+    },
+    {
+        "app_name": "望京医院",
+        "package_name": "com.bjhsyuntai.wangjing.patient",
+        "file_name": "com.bjhsyuntai.wangjing.patient_185.apk",
+        "app_activity": "com.hundsun.lego.MainActivity"
+    },
+    {
+        "app_name": "纳里医生",
+        "package_name": "com.easygroup.ngaridoctor",
+        "file_name": "com.easygroup.ngaridoctor_186.apk",
+        "app_activity": "com.easygroup.ngaridoctor.welcome.WelcomeGuideActivity"
+    },
+    {
+        "app_name": "有来医生",
+        "package_name": "cn.youlai.huanzhe",
+        "file_name": "cn.youlai.huanzhe_187.apk",
+        "app_activity": "cn.youlai.huanzhe.main.WelcomeActivity"
+    },
+    {
+        "app_name": "天使医生pro",
+        "package_name": "com.jumper.fhrinstrumentspro",
+        "file_name": "com.jumper.fhrinstrumentspro_188.apk",
+        "app_activity": "com.jumper.fhrinstruments.main.launch.LauncherActivity"
+    },
+    {
+        "app_name": "嘉医有品",
+        "package_name": "com.pinsmedical.pinslife",
+        "file_name": "com.pinsmedical.pinslife_189.apk",
+        "app_activity": "com.pinsmedical.pinslife.component.home.LauncherActivity"
+    },
+    {
+        "app_name": "江苏健康通",
+        "package_name": "com.aijk.pub.jiangsu.release",
+        "file_name": "com.aijk.pub.jiangsu.release_190.apk",
+        "app_activity": "com.bsoft.jsjkt.activity.LoadingActivity"
+    },
+    {
+        "app_name": "Hi 医生",
+        "package_name": "com.herenit.ysz.zljy",
+        "file_name": "com.herenit.ysz.zljy_191.apk",
+        "app_activity": "com.herenit.hrd.zljy.ui.app.YszLauncherActivity"
+    },
+    {
+        "app_name": "江苏预防接种",
+        "package_name": "cn.app.jsepi.jsyfjz",
+        "file_name": "cn.app.jsepi.jsyfjz_192.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "健康160",
+        "package_name": "cn.kidyn.qdmedical160",
+        "file_name": "cn.kidyn.qdmedical160_193.apk",
+        "app_activity": "cn.kidyn.qdmedical160.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "医科院肿瘤医院",
+        "package_name": "com.aksofy.ykyzl",
+        "file_name": "com.aksofy.ykyzl_194.apk",
+        "app_activity": "com.aksofy.ykyzl.ui.activity.guide.GuideActivity"
+    },
+    {
+        "app_name": "国家医保服务平台",
+        "package_name": "cn.hsa.app",
+        "file_name": "cn.hsa.app_195.apk",
+        "app_activity": "cn.hsa.app.login.ui.SplashActivity"
+    },
+    {
+        "app_name": "首都儿科研究所",
+        "package_name": "com.hundsun.hospitalcloud.bj.eys.patient",
+        "file_name": "com.hundsun.hospitalcloud.bj.eys.patient_196.apk",
+        "app_activity": "com.hundsun.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "沈阳智慧医保",
+        "package_name": "com.neusoft.gopay",
+        "file_name": "com.neusoft.gopay_197.apk",
+        "app_activity": "com.neusoft.si.j2carch.InitialActivity"
+    },
+    {
+        "app_name": "钥健康",
+        "package_name": "com.viatris.patient",
+        "file_name": "com.viatris.patient_198.apk",
+        "app_activity": "com.viatris.patient.SplashActivity"
+    },
+    {
+        "app_name": "微医",
+        "package_name": "com.greenline.guahao",
+        "file_name": "com.greenline.guahao_199.apk",
+        "app_activity": "com.greenline.guahao.home.WelcomeActivity"
+    },
+    {
+        "app_name": "中肿掌上就医",
+        "package_name": "com.neusoft.sysucc.app.patient",
+        "file_name": "com.neusoft.sysucc.app.patient_200.apk",
+        "app_activity": "com.neusoft.sysucc.app.patient.activitys.base.SplashActivity"
+    },
+    {
+        "app_name": "掌上宣武医院医生端",
+        "package_name": "com.founder.xuanwudoctorapp",
+        "file_name": "com.founder.xuanwudoctorapp_201.apk",
+        "app_activity": "com.founder.xuanwudoctorapp.activity.launch.LaunchActivity"
+    },
+    {
+        "app_name": "好药在线",
+        "package_name": "cn.appoa.medicine.business",
+        "file_name": "cn.appoa.medicine.business_202.apk",
+        "app_activity": "cn.appoa.medicine.business.ui.StartActivity"
+    },
+    {
+        "app_name": "怡禾",
+        "package_name": "com.yaeherhealth.app",
+        "file_name": "com.yaeherhealth.app_203.apk",
+        "app_activity": "com.yaeherhealth.app.MainActivity"
+    },
+    {
+        "app_name": "药立方",
+        "package_name": "com.wd.ylf.m.app",
+        "file_name": "com.wd.ylf.m.app_204.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "浙里护理",
+        "package_name": "com.zheli.hujia",
+        "file_name": "com.zheli.hujia_205.apk",
+        "app_activity": "com.xikang.hujia.ui.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "孕橙",
+        "package_name": "com.ikangtai.shecare",
+        "file_name": "com.ikangtai.shecare_206.apk",
+        "app_activity": "com.ikangtai.shecare.activity.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "孕e家",
+        "package_name": "com.moni.perinatal",
+        "file_name": "com.moni.perinatal_207.apk",
+        "app_activity": "com.moni.perinatal.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "健康山西",
+        "package_name": "com.uh.rdsp",
+        "file_name": "com.uh.rdsp_208.apk",
+        "app_activity": "com.uh.rdsp.ui.login.FirstActivity"
+    },
+    {
+        "app_name": "好大夫在线",
+        "package_name": "com.haodf.android",
+        "file_name": "com.haodf.android_209.apk",
+        "app_activity": "com.haodf.android.activity.SplashActivity"
+    },
+    {
+        "app_name": "大悦盆底肌",
+        "package_name": "com.dyi.pd",
+        "file_name": "com.dyi.pd_210.apk",
+        "app_activity": "com.dyi.pd.activity.start.StartActivity"
+    },
+    {
+        "app_name": "广州挂号网",
+        "package_name": "com.guangzhouguahao",
+        "file_name": "com.guangzhouguahao_211.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "斜视训练系统",
+        "package_name": "com.simingtang.strabismus_training_system",
+        "file_name": "com.simingtang.strabismus_training_system_212.apk",
+        "app_activity": "com.simingtang.strabismus_training_system.MainActivity"
+    },
+    {
+        "app_name": "中药方剂大全",
+        "package_name": "com.luoyu.fangji",
+        "file_name": "com.luoyu.fangji_213.apk",
+        "app_activity": "com.luoyu.fangji.FirstActivity"
+    },
+    {
+        "app_name": "大拇指心率计",
+        "package_name": "com.prudencemed.Activity",
+        "file_name": "com.prudencemed.Activity_214.apk",
+        "app_activity": "com.prudencemed.bigthumb.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "朝阳健康云",
+        "package_name": "com.bjgoodwill.chaoyangmrb",
+        "file_name": "com.bjgoodwill.chaoyangmrb_215.apk",
+        "app_activity": "com.bjgoodwill.mobilemrb.ui.flash.FlashActivity"
+    },
+    {
+        "app_name": "医谱",
+        "package_name": "cn.com.docbook.ydkc",
+        "file_name": "cn.com.docbook.ydkc_216.apk",
+        "app_activity": "com.yunshu_rn.view.SplashActivity"
+    },
+    {
+        "app_name": "糖动",
+        "package_name": "cn.cgmcare.app",
+        "file_name": "cn.cgmcare.app_217.apk",
+        "app_activity": "cn.com.lotan.activity.SplashActivity"
+    },
+    {
+        "app_name": "皮肤科医院挂号网",
+        "package_name": "com.dengtadoctor.pifuke",
+        "file_name": "com.dengtadoctor.pifuke_218.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "e看牙",
+        "package_name": "cn.linkedcare.eky",
+        "file_name": "cn.linkedcare.eky_219.apk",
+        "app_activity": "cn.linkedcare.business.launcher.splash.SplashAct"
+    },
+    {
+        "app_name": "知痛风",
+        "package_name": "com.royalyze.uricacid.org",
+        "file_name": "com.royalyze.uricacid.org_220.apk",
+        "app_activity": "com.royalyze.uricacid.org.ui.splash.view.SplashActivity"
+    },
+    {
+        "app_name": "春雨医生",
+        "package_name": "me.chunyu.ChunyuDoctor",
+        "file_name": "me.chunyu.ChunyuDoctor_221.apk",
+        "app_activity": "me.chunyu.ChunyuDoctor.Activities.WelcomeActivity"
+    },
+    {
+        "app_name": "中医智库",
+        "package_name": "com.zk120.aportal",
+        "file_name": "com.zk120.aportal_222.apk",
+        "app_activity": "com.zk120.aportal.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "眼科医院挂号网",
+        "package_name": "dtys.eye.guahaowang",
+        "file_name": "dtys.eye.guahaowang_223.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "掌上中山一院（医护版）",
+        "package_name": "com.djhealth.platfromproject",
+        "file_name": "com.djhealth.platfromproject_224.apk",
+        "app_activity": "com.djhealth.platfromproject.ui.MainActivity"
+    },
+    {
+        "app_name": "知源中医",
+        "package_name": "com.nineton.tcm",
+        "file_name": "com.nineton.tcm_225.apk",
+        "app_activity": "com.nineton.tcm.module_login.view.SplashActivity"
+    },
+    {
+        "app_name": "和谐医疗",
+        "package_name": "com.hxtj.activity",
+        "file_name": "com.hxtj.activity_226.apk",
+        "app_activity": "com.hxtj.medical_about.ui.activity.MainActivity1"
+    },
+    {
+        "app_name": "山东医师服务",
+        "package_name": "com.sinldo.doctorassess",
+        "file_name": "com.sinldo.doctorassess_227.apk",
+        "app_activity": "com.sinldo.doctorassess.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "健康乐",
+        "package_name": "com.mhealth.app",
+        "file_name": "com.mhealth.app_228.apk",
+        "app_activity": "com.mhealth.app.view.SplashActivity"
+    },
+    {
+        "app_name": "雄安宣武医院",
+        "package_name": "com.founder.xaxwyypatient",
+        "file_name": "com.founder.xaxwyypatient_229.apk",
+        "app_activity": "com.founder.internet.healthcare.activity.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "北京挂号通",
+        "package_name": "com.bjght",
+        "file_name": "com.bjght_230.apk",
+        "app_activity": "com.bjght.activity.SplashActivity"
+    },
+    {
+        "app_name": "温医一院",
+        "package_name": "cn.wzhospital.masses",
+        "file_name": "cn.wzhospital.masses_231.apk",
+        "app_activity": "cn.wzhospital.masses.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "京东医生",
+        "package_name": "com.jd.dh",
+        "file_name": "com.jd.dh_232.apk",
+        "app_activity": "com.jd.dh.PortalActivity"
+    },
+    {
+        "app_name": "医护到家",
+        "package_name": "com.vodone.o2o.health_care.demander",
+        "file_name": "com.vodone.o2o.health_care.demander_233.apk",
+        "app_activity": "com.vodone.cp365.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "中医宝典中药词典",
+        "package_name": "com.luoyu.zhongyao",
+        "file_name": "com.luoyu.zhongyao_234.apk",
+        "app_activity": "com.luoyu.zhongyao.FirstActivity"
+    },
+    {
+        "app_name": "用药参考",
+        "package_name": "com.ky.medical.reference",
+        "file_name": "com.ky.medical.reference_235.apk",
+        "app_activity": "com.ky.medical.reference.activity.InitActivity"
+    },
+    {
+        "app_name": "女性私人医生",
+        "package_name": "com.medapp",
+        "file_name": "com.medapp_236.apk",
+        "app_activity": "com.luyan.tec.ui.activity.splash.WelcomeActivity"
+    },
+    {
+        "app_name": "四川医保",
+        "package_name": "cn.hsa.app.sichuan",
+        "file_name": "cn.hsa.app.sichuan_237.apk",
+        "app_activity": "cn.hsa.app.sichuan.ui.SplashActivity"
+    },
+    {
+        "app_name": "微脉",
+        "package_name": "com.ichoice.wemay",
+        "file_name": "com.ichoice.wemay_238.apk",
+        "app_activity": "com.ichoice.wemay.home.splash.InitializeNewActivity"
+    },
+    {
+        "app_name": "施强健康",
+        "package_name": "com.drstrong.hospital",
+        "file_name": "com.drstrong.hospital_240.apk",
+        "app_activity": "com.naiterui.ehp.activity.LoadActivity"
+    },
+    {
+        "app_name": "万剑医云",
+        "package_name": "com.net.wanjian.phonecloudmedicineeducation",
+        "file_name": "com.net.wanjian.phonecloudmedicineeducation_241.apk",
+        "app_activity": "com.net.wanjian.phonecloudmedicineeducation.activity.SplashActivity"
+    },
+    {
+        "app_name": "悦容美云",
+        "package_name": "cn.linkedcare.charites1",
+        "file_name": "cn.linkedcare.charites1_242.apk",
+        "app_activity": "cn.linkedcare.charites1.MainActivity"
+    },
+    {
+        "app_name": "润药商城",
+        "package_name": "com.crpcg.androidrym",
+        "file_name": "com.crpcg.androidrym_243.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "药脉通",
+        "package_name": "cn.yaomaitong.app",
+        "file_name": "cn.yaomaitong.app_244.apk",
+        "app_activity": "cn.yaomaitong.app.ui.portal.WelcomeActivity"
+    },
+    {
+        "app_name": "小豆苗",
+        "package_name": "com.threegene.yeemiao",
+        "file_name": "com.threegene.yeemiao_245.apk",
+        "app_activity": "com.threegene.module.splash.ui.SplashActivity"
+    },
+    {
+        "app_name": "灵知中医",
+        "package_name": "com.lingzhizy.doctor",
+        "file_name": "com.lingzhizy.doctor_246.apk",
+        "app_activity": "com.lingzhizy.doctor.MainActivity"
+    },
+    {
+        "app_name": "北京挂号",
+        "package_name": "com.guahao001.proj.bjapp.beijing_app",
+        "file_name": "com.guahao001.proj.bjapp.beijing_app_247.apk",
+        "app_activity": "com.guahao001.proj.bjapp.beijing_app.MainActivity"
+    },
+    {
+        "app_name": "医站到家",
+        "package_name": "com.yiboshi.familydoctor.person",
+        "file_name": "com.yiboshi.familydoctor.person_248.apk",
+        "app_activity": "com.yiboshi.familydoctor.person.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "易医生",
+        "package_name": "com.cdxt.doctorSite",
+        "file_name": "com.cdxt.doctorSite_249.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "e护通医护端",
+        "package_name": "com.moree.dsn",
+        "file_name": "com.moree.dsn_250.apk",
+        "app_activity": "com.moree.dsn.app.SplashActivity"
+    },
+    {
+        "app_name": "优粤云",
+        "package_name": "com.maixun.informationsystem",
+        "file_name": "com.maixun.informationsystem_251.apk",
+        "app_activity": "com.maixun.informationsystem.splash.SplashActivity"
+    },
+    {
+        "app_name": "看看卫健",
+        "package_name": "com.weface.kankando",
+        "file_name": "com.weface.kankando_252.apk",
+        "app_activity": "com.weface.kankando.WelcomeActivity"
+    },
+    {
+        "app_name": "快速问医生",
+        "package_name": "com.ts.zys",
+        "file_name": "com.ts.zys_253.apk",
+        "app_activity": "com.ts.zys.ZYSActivity"
+    },
+    {
+        "app_name": "健客医生",
+        "package_name": "com.jianke.doctor",
+        "file_name": "com.jianke.doctor_254.apk",
+        "app_activity": "com.jianke.doctor.SplashActivity"
+    },
+    {
+        "app_name": "北京佑安医院互联网医院",
+        "package_name": "com.bjhsyuntai.youan.patient",
+        "file_name": "com.bjhsyuntai.youan.patient_255.apk",
+        "app_activity": "com.bjhundsun.lego.MainActivity"
+    },
+    {
+        "app_name": "约苗",
+        "package_name": "com.matthew.yuemiao",
+        "file_name": "com.matthew.yuemiao_256.apk",
+        "app_activity": "com.matthew.yuemiao.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "健康内江",
+        "package_name": "com.ytjr.njhealthy",
+        "file_name": "com.ytjr.njhealthy_257.apk",
+        "app_activity": "com.ytjr.njhealthy.mvp.view.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "医口袋",
+        "package_name": "com.Apricotforest_epocket",
+        "file_name": "com.Apricotforest_epocket_258.apk",
+        "app_activity": "com.xsl.epocket.features.launch.LaunchActivity"
+    },
+    {
+        "app_name": "甘肃妇幼",
+        "package_name": "com.example.app.hospitalassistant",
+        "file_name": "com.example.app.hospitalassistant_259.apk",
+        "app_activity": "com.senyintxa.yanan.phpatient.activity.SplashActivity"
+    },
+    {
+        "app_name": "抑郁症专业心理测试",
+        "package_name": "com.psytest.qth",
+        "file_name": "com.psytest.qth_260.apk",
+        "app_activity": "com.example.unimpdemo.activity.BootActivity"
+    },
+    {
+        "app_name": "同仁堂中医",
+        "package_name": "com.trtinternet.doctor",
+        "file_name": "com.trtinternet.doctor_261.apk",
+        "app_activity": "com.trtinternet.doctor.MainActivity"
+    },
+    {
+        "app_name": "上海中山医院",
+        "package_name": "com.ihygeia.shzs",
+        "file_name": "com.ihygeia.shzs_262.apk",
+        "app_activity": "com.ihygeia.zs.activitys.login.WelcomeActivity"
+    },
+    {
+        "app_name": "江西智慧医保APP",
+        "package_name": "com.neusoft.mi.jiangxi.yibao",
+        "file_name": "com.neusoft.mi.jiangxi.yibao_263.apk",
+        "app_activity": "com.neusoft.si.j2carch.InitialActivity"
+    },
+    {
+        "app_name": "微泰动泰",
+        "package_name": "com.microtechmd.cgms",
+        "file_name": "com.microtechmd.cgms_264.apk",
+        "app_activity": "com.microtechmd.cgms.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "孕柚",
+        "package_name": "com.preova.yinyue",
+        "file_name": "com.preova.yinyue_265.apk",
+        "app_activity": "com.preova.yinyue.MainActivity"
+    },
+    {
+        "app_name": "1药网",
+        "package_name": "com.yiwang",
+        "file_name": "com.yiwang_266.apk",
+        "app_activity": "com.yiwang.ui.SplashActivity"
+    },
+    {
+        "app_name": "掌上妇幼",
+        "package_name": "zj.health.hnfy",
+        "file_name": "zj.health.hnfy_267.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "江苏省中医院",
+        "package_name": "com.bsoft.jsszyy.pub",
+        "file_name": "com.bsoft.jsszyy.pub_268.apk",
+        "app_activity": "com.bsoft.jsszyy.pub.activity.LoadingActivity"
+    },
+    {
+        "app_name": "广西医保",
+        "package_name": "com.grkj.gxyibaoapplication",
+        "file_name": "com.grkj.gxyibaoapplication_269.apk",
+        "app_activity": "com.wy.gxyibaoapplication.activity.SplashActivity"
+    },
+    {
+        "app_name": "药房网商城商家版",
+        "package_name": "com.yaofangwang.business",
+        "file_name": "com.yaofangwang.business_270.apk",
+        "app_activity": "com.yaofangwang.business.LauchingActivity"
+    },
+    {
+        "app_name": "智健康",
+        "package_name": "com.lgcns.smarthealth",
+        "file_name": "com.lgcns.smarthealth_271.apk",
+        "app_activity": "com.lgcns.smarthealth.ui.main.view.WelcomeAct"
+    },
+    {
+        "app_name": "中药材天地网",
+        "package_name": "com.zyc.tdw",
+        "file_name": "com.zyc.tdw_272.apk",
+        "app_activity": "reny.ui.activity.AppStartActivity"
+    },
+    {
+        "app_name": "大家中医",
+        "package_name": "com.dajiazhongyi.dajia",
+        "file_name": "com.dajiazhongyi.dajia_273.apk",
+        "app_activity": "com.dajiazhongyi.dajia.dj.ui.launch.DaJiaLauncher"
+    },
+    {
+        "app_name": "全诊通plus",
+        "package_name": "com.example.weknow_qzt",
+        "file_name": "com.example.weknow_qzt_274.apk",
+        "app_activity": "com.example.weknow_qzt.MainActivity"
+    },
+    {
+        "app_name": "大专家医生版",
+        "package_name": "com.ihidea.expert",
+        "file_name": "com.ihidea.expert_275.apk",
+        "app_activity": "com.ihidea.expert.view.activity.LaunchAct"
+    },
+    {
+        "app_name": "医生工作室",
+        "package_name": "com.zzmmc.doctor",
+        "file_name": "com.zzmmc.doctor_276.apk",
+        "app_activity": "com.zzmmc.doctor.activity.SplashActivity"
+    },
+    {
+        "app_name": "家庭中医馆",
+        "package_name": "com.haiwei.medicine_family",
+        "file_name": "com.haiwei.medicine_family_277.apk",
+        "app_activity": "com.haiwei.medicine_family.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "云诊365",
+        "package_name": "com.yz365.app",
+        "file_name": "com.yz365.app_278.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "风湿中心",
+        "package_name": "com.cinkate.rmd",
+        "file_name": "com.cinkate.rmd_279.apk",
+        "app_activity": "com.cinkate.rmd.activity.common.LaunchActivity"
+    },
+    {
+        "app_name": "喜芽",
+        "package_name": "com.iseeyou.taixinyi",
+        "file_name": "com.iseeyou.taixinyi_280.apk",
+        "app_activity": "com.iseeyou.taixinyi.ui.spalsh.SplashActivity"
+    },
+    {
+        "app_name": "小鹿医生版",
+        "package_name": "com.xiaolu.doctor",
+        "file_name": "com.xiaolu.doctor_281.apk",
+        "app_activity": "com.xiaolu.doctor.activities.SplashActivity"
+    },
+    {
+        "app_name": "骨科医院挂号网",
+        "package_name": "com.dengtadoctor.guke",
+        "file_name": "com.dengtadoctor.guke_282.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "北京医院挂号通",
+        "package_name": "com.dengtadoctor.tong",
+        "file_name": "com.dengtadoctor.tong_283.apk",
+        "app_activity": "com.dengtadoctor.tong.activity.SplashActivity"
+    },
+    {
+        "app_name": "好多中医",
+        "package_name": "com.yiduo.haoduo",
+        "file_name": "com.yiduo.haoduo_284.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "门店通APP（Android版）",
+        "package_name": "com.jzt.midiantong",
+        "file_name": "com.jzt.midiantong_285.apk",
+        "app_activity": "com.jzt.mdt.common.SplashActivity"
+    },
+    {
+        "app_name": "灵兰中医",
+        "package_name": "com.android.linglan.ui",
+        "file_name": "com.android.linglan.ui_286.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "微医生",
+        "package_name": "com.greenline.yihuantong",
+        "file_name": "com.greenline.yihuantong_287.apk",
+        "app_activity": "com.greenline.yihuantong.home.WelcomeActivity"
+    },
+    {
+        "app_name": "乐普健康",
+        "package_name": "com.lepu.lepucare",
+        "file_name": "com.lepu.lepucare_288.apk",
+        "app_activity": "com.lepu.lepucare.mvp.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "叮当快药",
+        "package_name": "com.ddsy.songyao",
+        "file_name": "com.ddsy.songyao_289.apk",
+        "app_activity": "com.ddsy.songyao.activity.SplashActivity"
+    },
+    {
+        "app_name": "明医智",
+        "package_name": "com.lsd.myz",
+        "file_name": "com.lsd.myz_290.apk",
+        "app_activity": "com.lsd.myz.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "壹邦",
+        "package_name": "com.yjk.yjkapp",
+        "file_name": "com.yjk.yjkapp_291.apk",
+        "app_activity": "com.yjk.familyhealth.ui.SplashActivity"
+    },
+    {
+        "app_name": "丰信牙科",
+        "package_name": "faith.android",
+        "file_name": "faith.android_292.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "昭阳医生患者版",
+        "package_name": "com.doctor.sun",
+        "file_name": "com.doctor.sun_293.apk",
+        "app_activity": "com.doctor.sun.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "救在身边人人救",
+        "package_name": "cn.com.dreamtouch.e120.zyz",
+        "file_name": "cn.com.dreamtouch.e120.zyz_294.apk",
+        "app_activity": "cn.com.dreamtouch.e120.common.LaunchActivity"
+    },
+    {
+        "app_name": "LightTrip",
+        "package_name": "com.mini.bmc.lightTrip",
+        "file_name": "com.mini.bmc.lightTrip_295.apk",
+        "app_activity": "com.mini.bmc.lightTrip.MainActivity"
+    },
+    {
+        "app_name": "有喜",
+        "package_name": "com.bozhong.ivfassist",
+        "file_name": "com.bozhong.ivfassist_296.apk",
+        "app_activity": "com.bozhong.ivfassist.ui.other.WelcomeActivity"
+    },
+    {
+        "app_name": "智云问诊店员版",
+        "package_name": "com.kangmeng.prescription",
+        "file_name": "com.kangmeng.prescription_297.apk",
+        "app_activity": "com.kangmeng.prescription.ui.MainActivity"
+    },
+    {
+        "app_name": "恒昌研究院",
+        "package_name": "edu.hcyy",
+        "file_name": "edu.hcyy_298.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "北大肿瘤医院",
+        "package_name": "com.bjgoodwill.beizhongmrb",
+        "file_name": "com.bjgoodwill.beizhongmrb_299.apk",
+        "app_activity": "com.bjgoodwill.mobilemrb.ui.flash.FlashActivity"
+    },
+    {
+        "app_name": "掌上徐矿总院",
+        "package_name": "cn.xmpbinfo.xkzy",
+        "file_name": "cn.xmpbinfo.xkzy_300.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "有来急救百科",
+        "package_name": "cn.youlai.jijiu",
+        "file_name": "cn.youlai.jijiu_301.apk",
+        "app_activity": "cn.youlai.jijiu.main.WelcomeActivity"
+    },
+    {
+        "app_name": "百度健康医生版",
+        "package_name": "com.baidu.doctor.doctoranswer",
+        "file_name": "com.baidu.doctor.doctoranswer_302.apk",
+        "app_activity": "com.baidu.muzhi.modules.splash.SplashActivity"
+    },
+    {
+        "app_name": "掌上宣武医院",
+        "package_name": "com.founder.xwyypatientapp",
+        "file_name": "com.founder.xwyypatientapp_303.apk",
+        "app_activity": "com.founder.internet.healthcare.activity.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "智慧好医生",
+        "package_name": "cn.swifthealth.doctorApp",
+        "file_name": "cn.swifthealth.doctorApp_304.apk",
+        "app_activity": "cn.swifthealth.doctorApp.MainActivity"
+    },
+    {
+        "app_name": "病历夹",
+        "package_name": "com.apricotforest.dossier.plus",
+        "file_name": "com.apricotforest.dossier.plus_305.apk",
+        "app_activity": "com.apricotforest.dossier.medicalrecord.activity.main.MainLoadingActivity"
+    },
+    {
+        "app_name": "西苑医院",
+        "package_name": "com.hundsun.hospitalcloud.hos.bj.CACMS.xiyuan",
+        "file_name": "com.hundsun.hospitalcloud.hos.bj.CACMS.xiyuan_306.apk",
+        "app_activity": "com.hundsun.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "药房网商城",
+        "package_name": "com.yaofangwang.mall",
+        "file_name": "com.yaofangwang.mall_307.apk",
+        "app_activity": "com.yaofangwang.mall.LauchingActivity"
+    },
+    {
+        "app_name": "醫健通eHealth",
+        "package_name": "hk.gov.ehealth.ehr",
+        "file_name": "hk.gov.ehealth.ehr_308.apk",
+        "app_activity": "hk.org.ha.testepp.MainActivity"
+    },
+    {
+        "app_name": "北京预约挂号医院通",
+        "package_name": "com.bjyyghyyt",
+        "file_name": "com.bjyyghyyt_309.apk",
+        "app_activity": "com.bjyyghyyt.activity.SplashActivityJia"
+    },
+    {
+        "app_name": "春雨诊所",
+        "package_name": "me.chunyu.ChunyuDoctorClient",
+        "file_name": "me.chunyu.ChunyuDoctorClient_310.apk",
+        "app_activity": "me.chunyu.chunyudoctorclient.WelcomeActivity"
+    },
+    {
+        "app_name": "药匣子",
+        "package_name": "com.yingbojob.yaoxia",
+        "file_name": "com.yingbojob.yaoxia_311.apk",
+        "app_activity": "com.yingbojob.yaoxia.mvp.splash.SplashActivity"
+    },
+    {
+        "app_name": "蓝卡网",
+        "package_name": "com.china.lancareweb",
+        "file_name": "com.china.lancareweb_312.apk",
+        "app_activity": "com.china.lancareweb.SplashScreen"
+    },
+    {
+        "app_name": "健康山西医生版",
+        "package_name": "com.uh.hospital",
+        "file_name": "com.uh.hospital_313.apk",
+        "app_activity": "com.uh.hospital.login.FirstActivity"
+    },
+    {
+        "app_name": "心管家",
+        "package_name": "com.xinguanjia.market",
+        "file_name": "com.xinguanjia.market_314.apk",
+        "app_activity": "com.xinguanjia.demo.ui.activity.PersonalSplashActivity"
+    },
+    {
+        "app_name": "尿大夫",
+        "package_name": "com.uulife.medical.activity",
+        "file_name": "com.uulife.medical.activity_315.apk",
+        "app_activity": "com.uulife.medical.activity.GuideActivity"
+    },
+    {
+        "app_name": "健康天津",
+        "package_name": "com.inspur.lovehealthy.tianjin",
+        "file_name": "com.inspur.lovehealthy.tianjin_316.apk",
+        "app_activity": "com.inspur.lovehealthy.tianjin.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "无极云影像",
+        "package_name": "com.kayisoft.TMeasyCloudPACS",
+        "file_name": "com.kayisoft.TMeasyCloudPACS_317.apk",
+        "app_activity": "com.kayisoft.TMeasyCloudPACS.activity.MainActivity"
+    },
+
+    {
+        "app_name": "固生堂医生端",
+        "package_name": "com.blyg.bailuyiguan",
+        "file_name": "com.blyg.bailuyiguan_1.apk",
+        "app_activity": "com.blyg.bailuyiguan.ui.activities.SplashActivity"
+    },
+    {
+        "app_name": "Eartech",
+        "package_name": "cn.eartech.app.android",
+        "file_name": "cn.eartech.app.android_2.apk",
+        "app_activity": "cn.eartech.app.android.ui.StartupActivity"
+    },
+    {
+        "app_name": "皮肤科医院挂号",
+        "package_name": "com.myzx.pfkgh",
+        "file_name": "com.myzx.pfkgh_3.apk",
+        "app_activity": "com.myzx.register.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "微宠医",
+        "package_name": "com.dajia.view.wcy",
+        "file_name": "com.dajia.view.wcy_4.apk",
+        "app_activity": "com.dajia.view.login.ui.SplashActivity"
+    },
+    {
+        "app_name": "快问医生版",
+        "package_name": "com.kw13.app",
+        "file_name": "com.kw13.app_5.apk",
+        "app_activity": "com.kw13.app.LauncherActivity"
+    },
+    {
+        "app_name": "携手医访",
+        "package_name": "com.xieshou.healthyDerPatient",
+        "file_name": "com.xieshou.healthyDerPatient_6.apk",
+        "app_activity": "com.xieshou.healthyDerPatient.ui.SplashActivity"
+    },
+    {
+        "app_name": "Fetaphon Home",
+        "package_name": "com.shinsson.fetaphonhome",
+        "file_name": "com.shinsson.fetaphonhome_7.apk",
+        "app_activity": "com.shinsson.fetaphonhome.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "小欧健康",
+        "package_name": "com.huibo.ouhealthy",
+        "file_name": "com.huibo.ouhealthy_8.apk",
+        "app_activity": "com.hb.euradis.SplashActivity"
+    },
+    {
+        "app_name": "好睡眠365",
+        "package_name": "com.langgan.haoshuimian",
+        "file_name": "com.langgan.haoshuimian_9.apk",
+        "app_activity": "com.langgan.haoshuimian.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "歧黄医官",
+        "package_name": "com.lvyuanji.ptshop",
+        "file_name": "com.lvyuanji.ptshop_10.apk",
+        "app_activity": "com.lvyuanji.ptshop.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "Dream ePRO",
+        "package_name": "com.clinflash.epro.luoxin",
+        "file_name": "com.clinflash.epro.luoxin_11.apk",
+        "app_activity": "com.clinflash.epro.luoxin.MainActivity"
+    },
+    {
+        "app_name": "智惠医生",
+        "package_name": "com.yleanlink.yuanxin.doctor",
+        "file_name": "com.yleanlink.yuanxin.doctor_12.apk",
+        "app_activity": "com.ylean.yuan_xin_doctor.MainActivity"
+    },
+    {
+        "app_name": "飞兔药城",
+        "package_name": "com.wta.NewCloudApp.jiuwei3142867",
+        "file_name": "com.wta.NewCloudApp.jiuwei3142867_13.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "福斯曼",
+        "package_name": "com.foursmile.customer",
+        "file_name": "com.foursmile.customer_14.apk",
+        "app_activity": "com.foursmile.customer.MainActivity"
+    },
+    {
+        "app_name": "榕树家中医医生端",
+        "package_name": "com.rsjitcm.doctor",
+        "file_name": "com.rsjitcm.doctor_15.apk",
+        "app_activity": "com.rsjitcm.doctor.activity.SplashActivity"
+    },
+    {
+        "app_name": "灯塔预约挂号网",
+        "package_name": "com.dengtadoctor.yuyue",
+        "file_name": "com.dengtadoctor.yuyue_16.apk",
+        "app_activity": "com.dengtadoctor.yuyue.activity.SplashActivity"
+    },
+    {
+        "app_name": "艾糖plus",
+        "package_name": "com.bloodsugar.app",
+        "file_name": "com.bloodsugar.app_17.apk",
+        "app_activity": "com.bloodsugar.app.app.MainActivity"
+    },
+    {
+        "app_name": "挂号通预约挂号",
+        "package_name": "com.youyitianxia.ght",
+        "file_name": "com.youyitianxia.ght_18.apk",
+        "app_activity": "com.youyitianxia.ght.SplashActivity"
+    },
+    {
+        "app_name": "小智3D",
+        "package_name": "com.unitedimaging.uviewer",
+        "file_name": "com.unitedimaging.uviewer_19.apk",
+        "app_activity": "com.unity3d.player.UnityPlayerActivity"
+    },
+    {
+        "app_name": "北京挂号通挂号网",
+        "package_name": "com.jingcheng.register",
+        "file_name": "com.jingcheng.register_20.apk",
+        "app_activity": "com.jingcheng.register.SplashActivity"
+    },
+    {
+        "app_name": "泰邦针灸选穴",
+        "package_name": "com.bytb.zjxxfzzl",
+        "file_name": "com.bytb.zjxxfzzl_21.apk",
+        "app_activity": "com.bytb.zjxxfzzl.home.MainActivity"
+    },
+    {
+        "app_name": "看名医",
+        "package_name": "com.myjt.mm",
+        "file_name": "com.myjt.mm_22.apk",
+        "app_activity": "com.myjt.mm.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "眼视光云医院",
+        "package_name": "com.qdsgvision.ysg.user",
+        "file_name": "com.qdsgvision.ysg.user_23.apk",
+        "app_activity": "com.qdsgvision.ysg.user.ui.kotlin.AtyWelcome"
+    },
+    {
+        "app_name": "小悦",
+        "package_name": "com.denjoy.xiaoyue",
+        "file_name": "com.denjoy.xiaoyue_24.apk",
+        "app_activity": "com.denjoy.xiaoyue.MainActivity"
+    },
+    {
+        "app_name": "123易购医药城",
+        "package_name": "com.antong.shop",
+        "file_name": "com.antong.shop_25.apk",
+        "app_activity": "com.antong.shop.activity.StartPageActivity"
+    },
+    {
+        "app_name": "康桥互联",
+        "package_name": "cn.redcdn.globalcare",
+        "file_name": "cn.redcdn.globalcare_26.apk",
+        "app_activity": "cn.redcdn.globalcare.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "北医三院医生版",
+        "package_name": "com.founder.bysydoctorapp",
+        "file_name": "com.founder.bysydoctorapp_27.apk",
+        "app_activity": "com.founder.bysydoctorapp.MainActivity"
+    },
+    {
+        "app_name": "伟业药药通",
+        "package_name": "cn.com.gxlu.weiy.yyt",
+        "file_name": "cn.com.gxlu.weiy.yyt_28.apk",
+        "app_activity": "cn.com.gxlu.dwcheck.main.StartActivity"
+    },
+    {
+        "app_name": "肾病专家",
+        "package_name": "com.cinkate.igaconsultant",
+        "file_name": "com.cinkate.igaconsultant_29.apk",
+        "app_activity": "com.cinkate.igaconsultant.activity.common.LaunchActivity"
+    },
+    {
+        "app_name": "医械购",
+        "package_name": "com.vedeng.goapp",
+        "file_name": "com.vedeng.goapp_30.apk",
+        "app_activity": "com.vedeng.goapp.ui.LoadingActivity"
+    },
+    {
+        "app_name": "通用健康平台",
+        "package_name": "com.universal.medical.patient",
+        "file_name": "com.universal.medical.patient_31.apk",
+        "app_activity": "com.universal.medical.patient.activity.SplashActivity"
+    },
+    {
+        "app_name": "甘草云管家",
+        "package_name": "com.igancao.yunandroid",
+        "file_name": "com.igancao.yunandroid_32.apk",
+        "app_activity": "com.igancao.yunandroid.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "可丽尔博士",
+        "package_name": "io.dcloud.com.clearbos.cleardr",
+        "file_name": "io.dcloud.com.clearbos.cleardr_33.apk",
+        "app_activity": "io.dcloud.com.clearbos.cleardr.DoctorViewActivity"
+    },
+    {
+        "app_name": "护士小鹿护士端",
+        "package_name": "com.lotohealth.zxyhs",
+        "file_name": "com.lotohealth.zxyhs_34.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "眼科挂号网",
+        "package_name": "dmjk.registration",
+        "file_name": "dmjk.registration_35.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "睿控糖",
+        "package_name": "com.hn_ihealth.sugrq",
+        "file_name": "com.hn_ihealth.sugrq_36.apk",
+        "app_activity": "com.hn_ihealth.sugrq.ilog.MainActivity"
+    },
+    {
+        "app_name": "大悦腹直肌",
+        "package_name": "com.dyimedical.fzj",
+        "file_name": "com.dyimedical.fzj_37.apk",
+        "app_activity": "com.dyimedical.fzj.activity.start.StartActivity"
+    },
+    {
+        "app_name": "云太医业务端",
+        "package_name": "com.yty.businessSide",
+        "file_name": "com.yty.businessSide_38.apk",
+        "app_activity": "com.yty.businessSide.MainActivity"
+    },
+    {
+        "app_name": "微胎心用户版",
+        "package_name": "cn.weitaixin.app.user",
+        "file_name": "cn.weitaixin.app.user_39.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "导医通",
+        "package_name": "com.ikang.pavo",
+        "file_name": "com.ikang.pavo_40.apk",
+        "app_activity": "com.ikang.pavo.ui.init.splash.SplashActivity"
+    },
+    {
+        "app_name": "耳鼻喉医网",
+        "package_name": "com.consumerrn",
+        "file_name": "com.consumerrn_41.apk",
+        "app_activity": "com.consumerrn.MainActivity"
+    },
+    {
+        "app_name": "南昌大学二附院医护端",
+        "package_name": "com.byh.doctor.ncschhosp",
+        "file_name": "com.byh.doctor.ncschhosp_42.apk",
+        "app_activity": "com.kangxin.doctor.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "采药通",
+        "package_name": "com.chengchang.caiyaotong",
+        "file_name": "com.chengchang.caiyaotong_43.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "良医在线",
+        "package_name": "cn.com.liangyizaixian.www.doctor",
+        "file_name": "cn.com.liangyizaixian.www.doctor_44.apk",
+        "app_activity": "cn.com.liangyizaixian.www.doctor.ui.WelcomePageActivity"
+    },
+    {
+        "app_name": "YaoSound",
+        "package_name": "com.yaosound.www",
+        "file_name": "com.yaosound.www_45.apk",
+        "app_activity": "com.superidea.superear.ui.LaunchActivity"
+    },
+    {
+        "app_name": "东昌优佳",
+        "package_name": "com.yunnan.dcyj",
+        "file_name": "com.yunnan.dcyj_46.apk",
+        "app_activity": "com.yunnan.dcyj.main.page_afront.start.StartActivity"
+    },
+    {
+        "app_name": "京医挂号网",
+        "package_name": "com.ymhd.app.jyghw",
+        "file_name": "com.ymhd.app.jyghw_47.apk",
+        "app_activity": "com.ymhd.app.jyghw.MainActivity"
+    },
+    {
+        "app_name": "医动力患者版",
+        "package_name": "com.gyenno.zero.patient",
+        "file_name": "com.gyenno.zero.patient_48.apk",
+        "app_activity": "com.gyenno.zero.patient.biz.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "乐普康复",
+        "package_name": "com.creative.am300",
+        "file_name": "com.creative.am300_49.apk",
+        "app_activity": "com.lepu.user.view.SplashActivity"
+    },
+    {
+        "app_name": "海派医药",
+        "package_name": "com.zjhpyy.b2b",
+        "file_name": "com.zjhpyy.b2b_50.apk",
+        "app_activity": "com.zjhpyy.hp_b2b.MainActivity"
+    },
+    {
+        "app_name": "医助宝",
+        "package_name": "uni.UNI9FA2C74",
+        "file_name": "uni.UNI9FA2C74_51.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "微健康医生",
+        "package_name": "com.gftech.yihuantong",
+        "file_name": "com.gftech.yihuantong_52.apk",
+        "app_activity": "com.greenline.yihuantong.home.WelcomeActivity"
+    },
+    {
+        "app_name": "快医健康",
+        "package_name": "com.yx.hospitalonline",
+        "file_name": "com.yx.hospitalonline_53.apk",
+        "app_activity": "com.yx.hospitalonline.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "心护士",
+        "package_name": "com.benefm.ecg4gheart",
+        "file_name": "com.benefm.ecg4gheart_54.apk",
+        "app_activity": "com.benefm.ecg4gheart.app.login.SplashActivity"
+    },
+    {
+        "app_name": "慢病管理平台医护端",
+        "package_name": "com.nrhealth.doctor",
+        "file_name": "com.nrhealth.doctor_55.apk",
+        "app_activity": "com.nrhealth.doctor.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "万药通",
+        "package_name": "com.yunliansk.wyt",
+        "file_name": "com.yunliansk.wyt_56.apk",
+        "app_activity": "com.yunliansk.wyt.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "元知健康App（医生版）",
+        "package_name": "cn.metamedical.mch.doctor",
+        "file_name": "cn.metamedical.mch.doctor_57.apk",
+        "app_activity": "cn.metamedical.mch.doctor.modules.main.LauncherActivity"
+    },
+    {
+        "app_name": "全球药研资讯",
+        "package_name": "com.weifu.medicine",
+        "file_name": "com.weifu.medicine_58.apk",
+        "app_activity": "com.weifu.medicine.activity.SplashActivity"
+    },
+    {
+        "app_name": "医直达",
+        "package_name": "com.mdground.yizhida",
+        "file_name": "com.mdground.yizhida_59.apk",
+        "app_activity": "com.mdground.yizhida.activity.starting.StartingActivity"
+    },
+    {
+        "app_name": "莱恩瑟特",
+        "package_name": "com.lancetinc.evs",
+        "file_name": "com.lancetinc.evs_60.apk",
+        "app_activity": "com.lancetinc.evs.SplashActivity"
+    },
+    {
+        "app_name": "呼吸部落",
+        "package_name": "com.hxb.user",
+        "file_name": "com.hxb.user_61.apk",
+        "app_activity": "com.hxb.app.MainActivity"
+    },
+    {
+        "app_name": "医生汇",
+        "package_name": "com.yxvzb.app",
+        "file_name": "com.yxvzb.app_62.apk",
+        "app_activity": "com.yxvzb.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "淮药宝",
+        "package_name": "com.xuzhou.huaihai",
+        "file_name": "com.xuzhou.huaihai_63.apk",
+        "app_activity": "com.xuzhou.huaihai.main.page_afront.start.StartActivity"
+    },
+    {
+        "app_name": "小豚陪诊",
+        "package_name": "com.yutu.peizhen",
+        "file_name": "com.yutu.peizhen_64.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "药脉通Pro",
+        "package_name": "pro.yaomaitong.app",
+        "file_name": "pro.yaomaitong.app_65.apk",
+        "app_activity": "pro.yaomaitong.app.MainActivity"
+    },
+    {
+        "app_name": "安护通用户端",
+        "package_name": "com.anhutong.customer",
+        "file_name": "com.anhutong.customer_66.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "慢病管理平台",
+        "package_name": "com.nrhealth.member",
+        "file_name": "com.nrhealth.member_67.apk",
+        "app_activity": "com.nrhealth.member.activity.xnew.WelcomeActivity"
+    },
+    {
+        "app_name": "国医健康",
+        "package_name": "com.compass.medical",
+        "file_name": "com.compass.medical_68.apk",
+        "app_activity": "com.compass.medical.splash.SplashActivity"
+    },
+    {
+        "app_name": "悠然呼吸患者",
+        "package_name": "com.lanbaoapp.carefreebreath",
+        "file_name": "com.lanbaoapp.carefreebreath_69.apk",
+        "app_activity": "com.lanbaoapp.carefreebreath.SplashActivity"
+    },
+    {
+        "app_name": "耳鼻喉资讯",
+        "package_name": "com.bx.otolaryngologywyp",
+        "file_name": "com.bx.otolaryngologywyp_70.apk",
+        "app_activity": "com.bx.otolaryngologywyp.mvp.ui.activity.MainActivity"
+    },
+    {
+        "app_name": "大糖医",
+        "package_name": "com.threeti.huimapatient",
+        "file_name": "com.threeti.huimapatient_71.apk",
+        "app_activity": "com.threeti.huimapatient.activity.login.SplashActivity"
+    },
+    {
+        "app_name": "医家",
+        "package_name": "com.medishare.mediclientcbd",
+        "file_name": "com.medishare.mediclientcbd_72.apk",
+        "app_activity": "com.medishare.mediclientcbd.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "燕尾帽护理上门医护版",
+        "package_name": "com.buzzly.hybrid.carenurse",
+        "file_name": "com.buzzly.hybrid.carenurse_73.apk",
+        "app_activity": "com.buzzly.hybrid.carenurse.FlickerAct"
+    },
+    {
+        "app_name": "好护无忧",
+        "package_name": "com.yihu.app.nurse",
+        "file_name": "com.yihu.app.nurse_74.apk",
+        "app_activity": "com.yihu.app.nurse.MainActivity"
+    },
+    {
+        "app_name": "药械帮",
+        "package_name": "com.quanjingdata.yxb",
+        "file_name": "com.quanjingdata.yxb_75.apk",
+        "app_activity": "com.quanjingdata.yxb.MainActivity"
+    },
+    {
+        "app_name": "珍诚医药",
+        "package_name": "io.dcloud.H56375C0F",
+        "file_name": "io.dcloud.H56375C0F_76.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "药汇达",
+        "package_name": "com.jiezhu.yaohuida",
+        "file_name": "com.jiezhu.yaohuida_77.apk",
+        "app_activity": "com.jiezhu.yaohuida.SplashActivity"
+    },
+    {
+        "app_name": "大道中医",
+        "package_name": "uni.UNID46A890",
+        "file_name": "uni.UNID46A890_78.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "Hingmed BP",
+        "package_name": "com.app.hingmedapp",
+        "file_name": "com.app.hingmedapp_79.apk",
+        "app_activity": "com.app.soapp.activitys.OxyFromDevActivity"
+    },
+    {
+        "app_name": "前列腺癌之家",
+        "package_name": "com.prostate",
+        "file_name": "com.prostate_80.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "医药行",
+        "package_name": "com.yiyaohang.app",
+        "file_name": "com.yiyaohang.app_81.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "上海助医",
+        "package_name": "com.lihuan.zhuyi",
+        "file_name": "com.lihuan.zhuyi_82.apk",
+        "app_activity": "com.lihuan.zhuyi.MainActivity"
+    },
+    {
+        "app_name": "AcoSound",
+        "package_name": "com.acosound.acosound",
+        "file_name": "com.acosound.acosound_83.apk",
+        "app_activity": "com.acosound.acosound.activity.SplashActivity"
+    },
+    {
+        "app_name": "医慧通",
+        "package_name": "com.yfkj.jieyi",
+        "file_name": "com.yfkj.jieyi_84.apk",
+        "app_activity": "com.yfkj.jieyi.SplashActivity"
+    },
+    {
+        "app_name": "医链健康",
+        "package_name": "com.dapp.yilian",
+        "file_name": "com.dapp.yilian_85.apk",
+        "app_activity": "com.dapp.yilian.MainActivity"
+    },
+    {
+        "app_name": "石榴云医",
+        "package_name": "com.qlk.patientapp",
+        "file_name": "com.qlk.patientapp_86.apk",
+        "app_activity": "com.qlk.patientapp.WelcomeActivity"
+    },
+    {
+        "app_name": "熊猫医疗",
+        "package_name": "com.pandadoctor.pedi",
+        "file_name": "com.pandadoctor.pedi_87.apk",
+        "app_activity": "com.pandadoctor.pedi.launch.WelcomeActivity"
+    },
+    {
+        "app_name": "渔歌医疗",
+        "package_name": "com.yuge.yixin",
+        "file_name": "com.yuge.yixin_88.apk",
+        "app_activity": "com.yuge.yixin.SplashActivity"
+    },
+    {
+        "app_name": "移动医师查房",
+        "package_name": "uni.UNI600D214",
+        "file_name": "uni.UNI600D214_89.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "烁云BPPro",
+        "package_name": "com.example.shuoyunclient",
+        "file_name": "com.example.shuoyunclient_90.apk",
+        "app_activity": "com.example.shuoyun.MainActivity"
+    },
+    {
+        "app_name": "南昌大学一附院",
+        "package_name": "com.founder.ndyfydoctorapp",
+        "file_name": "com.founder.ndyfydoctorapp_91.apk",
+        "app_activity": "com.founder.ndyfydoctorapp.MainActivity"
+    },
+    {
+        "app_name": "柳芽天使",
+        "package_name": "com.liuyangel",
+        "file_name": "com.liuyangel_92.apk",
+        "app_activity": "com.liuyangel.MainActivity"
+    },
+    {
+        "app_name": "健康乌鲁木齐",
+        "package_name": "com.ucmed.drws_wlmqwjw",
+        "file_name": "com.ucmed.drws_wlmqwjw_93.apk",
+        "app_activity": "com.ucmed.drws_wlmqwjw.WelcomeActivity"
+    },
+    {
+        "app_name": "国医在线医生端",
+        "package_name": "com.jishan.odoctor",
+        "file_name": "com.jishan.odoctor_94.apk",
+        "app_activity": "com.hepeng.life.base.LaunchActivity"
+    },
+    {
+        "app_name": "耳鼻喉医院挂号网",
+        "package_name": "com.dengtadoctor.ear",
+        "file_name": "com.dengtadoctor.ear_95.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "移宇门诊版",
+        "package_name": "com.medtrum.easyfollowforandroidmmol_hcp",
+        "file_name": "com.medtrum.easyfollowforandroidmmol_hcp_96.apk",
+        "app_activity": "com.medtrum.healthcareforandroid.SplashActivity"
+    },
+    {
+        "app_name": "小豚陪诊师",
+        "package_name": "uni.peizhenshi.com",
+        "file_name": "uni.peizhenshi.com_97.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "变美",
+        "package_name": "com.huahang.sinokor",
+        "file_name": "com.huahang.sinokor_98.apk",
+        "app_activity": "com.huahang.sinokor.ui.LoadActivity"
+    },
+    {
+        "app_name": "StarEKG",
+        "package_name": "com.starcaretech.ekg",
+        "file_name": "com.starcaretech.ekg_99.apk",
+        "app_activity": "com.starcaretech.ekg.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "医视屏",
+        "package_name": "com.zqyl.yspjsyl",
+        "file_name": "com.zqyl.yspjsyl_100.apk",
+        "app_activity": "com.zqyl.yspjsyl.view.login.StartActivity"
+    },
+    {
+        "app_name": "妙手医生",
+        "package_name": "com.yuanxin.perfectdoc",
+        "file_name": "com.yuanxin.perfectdoc_101.apk",
+        "app_activity": "com.yuanxin.perfectdoc.ui.LoadingActivity"
+    },
+    {
+        "app_name": "好万家大药房",
+        "package_name": "com.zijing.haowanjia",
+        "file_name": "com.zijing.haowanjia_102.apk",
+        "app_activity": "com.zijing.haowanjia.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "益宝健康",
+        "package_name": "com.aimakeji.emmahealthy.www",
+        "file_name": "com.aimakeji.emmahealthy.www_103.apk",
+        "app_activity": "com.aimakeji.emma_main.SplashActivity"
+    },
+    {
+        "app_name": "歧黄医官医生端",
+        "package_name": "com.saas.doctor",
+        "file_name": "com.saas.doctor_104.apk",
+        "app_activity": "com.saas.doctor.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "名医挂号",
+        "package_name": "com.myzx.mygh",
+        "file_name": "com.myzx.mygh_105.apk",
+        "app_activity": "com.myzx.register.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "重庆市人民医院掌医",
+        "package_name": "patient.app.android",
+        "file_name": "patient.app.android_106.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "医知源",
+        "package_name": "cn.medlive.medkb",
+        "file_name": "cn.medlive.medkb_107.apk",
+        "app_activity": "cn.medlive.medkb.activity.LoadingActivity"
+    },
+    {
+        "app_name": "我的头痛日记",
+        "package_name": "com.example.headache",
+        "file_name": "com.example.headache_108.apk",
+        "app_activity": "com.aisha.headache.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "福建省肿瘤医院",
+        "package_name": "com.weiwo.fjszlyy",
+        "file_name": "com.weiwo.fjszlyy_109.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "大悦塑形",
+        "package_name": "com.dyimedical.sx",
+        "file_name": "com.dyimedical.sx_110.apk",
+        "app_activity": "com.dyimedical.sx.activity.start.StartActivity"
+    },
+    {
+        "app_name": "易陪伴之家",
+        "package_name": "com.epatient.subject",
+        "file_name": "com.epatient.subject_111.apk",
+        "app_activity": "trial.subject.trial_subject_app.MainActivity"
+    },
+    {
+        "app_name": "整查查",
+        "package_name": "com.zcc.app",
+        "file_name": "com.zcc.app_112.apk",
+        "app_activity": "com.meibei.app.MainActivity"
+    },
+    {
+        "app_name": "39互联网医院医生版",
+        "package_name": "cn.longmaster.hospital.doctor",
+        "file_name": "cn.longmaster.hospital.doctor_113.apk",
+        "app_activity": "cn.longmaster.hospital.doctor.ui.AppStartActivity"
+    },
+    {
+        "app_name": "爱看服务",
+        "package_name": "com.sinocare.ican.service",
+        "file_name": "com.sinocare.ican.service_114.apk",
+        "app_activity": "com.sino.frame.main.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "益心云医医生端",
+        "package_name": "yiliao.wzyx.app",
+        "file_name": "yiliao.wzyx.app_115.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "仲景医生",
+        "package_name": "com.netrain.hnzzj.hosptial",
+        "file_name": "com.netrain.hnzzj.hosptial_116.apk",
+        "app_activity": "com.netrain.pro.hospital.ui.user.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "心脑血管研究患者",
+        "package_name": "com.jiuletech.individual",
+        "file_name": "com.jiuletech.individual_117.apk",
+        "app_activity": "com.jiuletech.individual.WelcomeActivity"
+    },
+    {
+        "app_name": "豫中一医生",
+        "package_name": "com.jd.yz",
+        "file_name": "com.jd.yz_118.apk",
+        "app_activity": "com.jd.dh.app.ui.PortalActivity"
+    },
+    {
+        "app_name": "妙手云医",
+        "package_name": "com.yuanxin.perfectdoctor",
+        "file_name": "com.yuanxin.perfectdoctor_119.apk",
+        "app_activity": "com.miaoshou.onlinehospital.ui.LoadingActivity"
+    },
+    {
+        "app_name": "同济云医",
+        "package_name": "com.th.supcom.hlwyy.tjh.doctor",
+        "file_name": "com.th.supcom.hlwyy.tjh.doctor_120.apk",
+        "app_activity": "com.th.supcom.hlwyy.tjh.doctor.activity.SplashActivity"
+    },
+    {
+        "app_name": "掌上医讯",
+        "package_name": "com.bai.doctorpda",
+        "file_name": "com.bai.doctorpda_121.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "经营顾问",
+        "package_name": "com.hengchang.jygwapp",
+        "file_name": "com.hengchang.jygwapp_122.apk",
+        "app_activity": "com.hengchang.jygwapp.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "血氧宝",
+        "package_name": "com.zbpqb.pesooz",
+        "file_name": "com.zbpqb.pesooz_123.apk",
+        "app_activity": "com.zbpqb.pesooz.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "荷叶药师",
+        "package_name": "com.ybm100.app.saas.pharmacist",
+        "file_name": "com.ybm100.app.saas.pharmacist_124.apk",
+        "app_activity": "com.ybm100.app.saas.pharmacist.ui.view.splash.SplashActivity"
+    },
+    {
+        "app_name": "泓华护士",
+        "package_name": "com.lcworld.hshhylyh",
+        "file_name": "com.lcworld.hshhylyh_125.apk",
+        "app_activity": "com.lcworld.hshhylyh.splash.SplashActivity"
+    },
+    {
+        "app_name": "东软睿影",
+        "package_name": "com.neusoft.android.pacsmobile",
+        "file_name": "com.neusoft.android.pacsmobile_126.apk",
+        "app_activity": "com.neusoft.android.pacsmobile.pages.splash.SplashActivity"
+    },
+    {
+        "app_name": "Nucleus Smart",
+        "package_name": "com.cochlear.nucleussmart.cn",
+        "file_name": "com.cochlear.nucleussmart.cn_127.apk",
+        "app_activity": "com.cochlear.sabretooth.service.baidu.termsofacceptance.ui.TermsOfAcceptanceCheckerActivity"
+    },
+    {
+        "app_name": "VVFLY YA50",
+        "package_name": "com.vvfly.ya50",
+        "file_name": "com.vvfly.ya50_128.apk",
+        "app_activity": "com.vvfly.ya50.app.luancher.WelComeActivity"
+    },
+    {
+        "app_name": "药安心",
+        "package_name": "com.sc.yichuan",
+        "file_name": "com.sc.yichuan_129.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "南同堂",
+        "package_name": "com.fujian.guorui",
+        "file_name": "com.fujian.guorui_130.apk",
+        "app_activity": "com.fujian.guorui.main.page_afront.start.StartActivity"
+    },
+    {
+        "app_name": "急救绿道",
+        "package_name": "com.ionicframework.stemiapp751652",
+        "file_name": "com.ionicframework.stemiapp751652_131.apk",
+        "app_activity": "com.ionicframework.stemiapp751652.LaunchActivity"
+    },
+    {
+        "app_name": "三维可视化",
+        "package_name": "com.yorktal.yorktalworks",
+        "file_name": "com.yorktal.yorktalworks_132.apk",
+        "app_activity": "com.yorktal.yorktalworks.MainActivity"
+    },
+    {
+        "app_name": "浙江挂号网",
+        "package_name": "com.yuyue.mm",
+        "file_name": "com.yuyue.mm_133.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "肺癌帮",
+        "package_name": "com.snyj.wsd.kangaibang",
+        "file_name": "com.snyj.wsd.kangaibang_134.apk",
+        "app_activity": "com.snyj.wsd.kangaibang.ui.StartActivity"
+    },
+    {
+        "app_name": "惠每医生",
+        "package_name": "com.gjhealth.doctor",
+        "file_name": "com.gjhealth.doctor_135.apk",
+        "app_activity": "com.gjhealth.doctor.module.app.SplashActivity"
+    },
+    {
+        "app_name": "早诊早治",
+        "package_name": "cn.org.bhci.zaozhen",
+        "file_name": "cn.org.bhci.zaozhen_136.apk",
+        "app_activity": "com.boyitimes.zaozhen.activity.SplashActivity"
+    },
+    {
+        "app_name": "普健医药商城",
+        "package_name": "io.pjyy.shop",
+        "file_name": "io.pjyy.shop_137.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "长颈鹿医加",
+        "package_name": "com.mediwelcome.hospital",
+        "file_name": "com.mediwelcome.hospital_138.apk",
+        "app_activity": "com.medi.yj.module.start.WelcomeActivity"
+    },
+    {
+        "app_name": "术康Pro",
+        "package_name": "com.rplushealth.app.patient",
+        "file_name": "com.rplushealth.app.patient_139.apk",
+        "app_activity": "com.shukangyun.patient.family.activity.start.SplashActivity"
+    },
+    {
+        "app_name": "药金灵",
+        "package_name": "com.yjl.sz",
+        "file_name": "com.yjl.sz_140.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "就医号",
+        "package_name": "com.wymd.jiuyihao",
+        "file_name": "com.wymd.jiuyihao_141.apk",
+        "app_activity": "com.wymd.jiuyihao.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "小艾订参",
+        "package_name": "com.visionxapp",
+        "file_name": "com.visionxapp_142.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "家有好医",
+        "package_name": "com.anan.doctor.activity",
+        "file_name": "com.anan.doctor.activity_143.apk",
+        "app_activity": "com.anan.doctor.activity.SplashActivity"
+    },
+    {
+        "app_name": "艾瑞特健康",
+        "package_name": "com.accurate.abroadaccuratehealthy",
+        "file_name": "com.accurate.abroadaccuratehealthy_144.apk",
+        "app_activity": "com.accurate.abroadaccuratehealthy.main.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "手术指导会诊",
+        "package_name": "com.hzcqt.operationguidance",
+        "file_name": "com.hzcqt.operationguidance_145.apk",
+        "app_activity": "com.hzcqt.operationguidance.activity.MainActivity"
+    },
+    {
+        "app_name": "ICD疾病与手术编码查询",
+        "package_name": "com.icd.encoded",
+        "file_name": "com.icd.encoded_146.apk",
+        "app_activity": "com.icd.encoded.SplashActivity"
+    },
+    {
+        "app_name": "无尤陪诊",
+        "package_name": "com.notebook.diagnose",
+        "file_name": "com.notebook.diagnose_147.apk",
+        "app_activity": "com.notebook.diagnose.module.launch.SplashActivity"
+    },
+    {
+        "app_name": "乐尔健康",
+        "package_name": "com.royalyze.health",
+        "file_name": "com.royalyze.health_148.apk",
+        "app_activity": "com.royalyze.health.ui.splash.view.SplashActivity"
+    },
+    {
+        "app_name": "医慧管",
+        "package_name": "com.lanto.hmrp",
+        "file_name": "com.lanto.hmrp_149.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "石榴云医医生版",
+        "package_name": "com.qlk.ymz",
+        "file_name": "com.qlk.ymz_150.apk",
+        "app_activity": "com.qilek.doctorapp.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "灯塔医生预约挂号",
+        "package_name": "com.dengtadoctor",
+        "file_name": "com.dengtadoctor_151.apk",
+        "app_activity": "com.dengtadoctor.aaproject.activity.SplashActivity"
+    },
+    {
+        "app_name": "健康320",
+        "package_name": "com.zzm.system.app.activity",
+        "file_name": "com.zzm.system.app.activity_152.apk",
+        "app_activity": "com.zzm.system.start.WelcomestartActivity"
+    },
+    {
+        "app_name": "筑医台",
+        "package_name": "com.zyt.zhuyitai",
+        "file_name": "com.zyt.zhuyitai_153.apk",
+        "app_activity": "com.zyt.zhuyitai.ui.LaunchActivity"
+    },
+    {
+        "app_name": "91Trial",
+        "package_name": "com.ashermed.ysedc.old",
+        "file_name": "com.ashermed.ysedc.old_154.apk",
+        "app_activity": "com.ashermed.red.trail.ui.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "泓华医疗",
+        "package_name": "com.lcworld.oasismedical",
+        "file_name": "com.lcworld.oasismedical_155.apk",
+        "app_activity": "com.lcworld.oasismedical.splash.SplashActivity"
+    },
+    {
+        "app_name": "太医管家",
+        "package_name": "com.shantai.hospital.user",
+        "file_name": "com.shantai.hospital.user_156.apk",
+        "app_activity": "com.shantai.medical.MainActivity"
+    },
+    {
+        "app_name": "医师宝",
+        "package_name": "com.doctor.ysb",
+        "file_name": "com.doctor.ysb_157.apk",
+        "app_activity": "com.doctor.ysb.ysb.ui.IndexActivity"
+    },
+    {
+        "app_name": "村村救",
+        "package_name": "cn.com.dreamtouch.e120.ccj",
+        "file_name": "cn.com.dreamtouch.e120.ccj_158.apk",
+        "app_activity": "cn.com.dreamtouch.e120.common.LaunchActivity"
+    },
+    {
+        "app_name": "春播万象云诊所",
+        "package_name": "com.cbwx.cbyzs",
+        "file_name": "com.cbwx.cbyzs_159.apk",
+        "app_activity": "com.cbwx.launch.ui.LaunchActivity"
+    },
+    {
+        "app_name": "阜阳人民医院-医生端",
+        "package_name": "com.company.linquan.app",
+        "file_name": "com.company.linquan.app_160.apk",
+        "app_activity": "com.company.linquan.app.moduleSplash.SplashActivity"
+    },
+    {
+        "app_name": "88蓝健康产业网",
+        "package_name": "io.dcloud.babalan",
+        "file_name": "io.dcloud.babalan_161.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "全药购",
+        "package_name": "com.quansheng.qyg",
+        "file_name": "com.quansheng.qyg_162.apk",
+        "app_activity": "com.quansheng.qyg.main.page_afront.start.StartActivity"
+    },
+    {
+        "app_name": "Tongpu Med",
+        "package_name": "com.tongpu.med",
+        "file_name": "com.tongpu.med_163.apk",
+        "app_activity": "com.tongpu.med.ui.activities.LaunchActivity"
+    },
+    {
+        "app_name": "网医联盟",
+        "package_name": "app.xky.com.androidyisheng",
+        "file_name": "app.xky.com.androidyisheng_164.apk",
+        "app_activity": "app.xky.com.androidyisheng.activitys.SplashActivity"
+    },
+    {
+        "app_name": "榕树家中医药师端APP",
+        "package_name": "com.rsjitcm.pharmacist",
+        "file_name": "com.rsjitcm.pharmacist_165.apk",
+        "app_activity": "com.rsjitcm.pharmacist.activity.SplashActivity"
+    },
+    {
+        "app_name": "诊宝倍",
+        "package_name": "com.hysyyl.zhenbaobei",
+        "file_name": "com.hysyyl.zhenbaobei_166.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "点药网",
+        "package_name": "com.daxibu.shop",
+        "file_name": "com.daxibu.shop_167.apk",
+        "app_activity": "com.daxibu.shop.activity.StartPageActivity"
+    },
+    {
+        "app_name": "hospital",
+        "package_name": "com.hospital.core",
+        "file_name": "com.hospital.core_168.apk",
+        "app_activity": "com.hospital.core.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "常青藤网上药店",
+        "package_name": "ivypha.app",
+        "file_name": "ivypha.app_169.apk",
+        "app_activity": "ivypha.app.MainActivity"
+    }
+
+]

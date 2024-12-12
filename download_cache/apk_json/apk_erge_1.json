@@ -1,0 +1,266 @@
+[
+    {
+        "app_name": "呱呱阅读",
+        "package_name": "com.jiliguala.library",
+        "file_name": "com.jiliguala.library_1.apk",
+        "app_activity": "com.jiliguala.library.onboarding.activity.SplashActivity"
+    },
+    {
+        "app_name": "亲子故事会",
+        "package_name": "com.bolanw1.qzgs",
+        "file_name": "com.bolanw1.qzgs_2.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "儿歌多点",
+        "package_name": "com.fcqdskvv.fhmlxpw",
+        "file_name": "com.fcqdskvv.fhmlxpw_3.apk",
+        "app_activity": "com.fcqdskvv.fhmlxpw.ui.activities.SplashActivity"
+    },
+    {
+        "app_name": "宝宝巴士儿歌HD",
+        "package_name": "com.sinyee.babybus.chants.pad",
+        "file_name": "com.sinyee.babybus.chants.pad_4.apk",
+        "app_activity": "com.sinyee.babybus.android.main.SplashActivity"
+    },
+    {
+        "app_name": "碰碰狐宝宝星球",
+        "package_name": "cn.com.smartstudy.babyplanet",
+        "file_name": "cn.com.smartstudy.babyplanet_5.apk",
+        "app_activity": "com.unity3d.player.UnityPlayerActivity"
+    },
+    {
+        "app_name": "多多动画屋",
+        "package_name": "com.duoduo.duoduocartoon",
+        "file_name": "com.duoduo.duoduocartoon_6.apk",
+        "app_activity": "com.duoduo.duoduocartoon.business.splash.SplashMultiAdActivity"
+    },
+    {
+        "app_name": "童话故事屋",
+        "package_name": "com.sltz.peace.story",
+        "file_name": "com.sltz.peace.story_7.apk",
+        "app_activity": "com.peace.guitarmusic.activity.MainActivity"
+    },
+    {
+        "app_name": "儿歌点点",
+        "package_name": "com.mampod.ergedd",
+        "file_name": "com.mampod.ergedd_8.apk",
+        "app_activity": "com.mampod.ergedd.ui.phone.activity.EntryActivity"
+    },
+    {
+        "app_name": "宝宝儿歌音乐欣赏",
+        "package_name": "com.eachbaby.bberge2020",
+        "file_name": "com.eachbaby.bberge2020_9.apk",
+        "app_activity": "org.cocos2dx.javascript.CocosLoaderActivity"
+    },
+    {
+        "app_name": "早教儿歌乐",
+        "package_name": "com.lq.egldd",
+        "file_name": "com.lq.egldd_10.apk",
+        "app_activity": "com.lq.egldd.StartupPageActivity"
+    },
+    {
+        "app_name": "宝宝哭声翻译器",
+        "package_name": "com.shenao.crytrans",
+        "file_name": "com.shenao.crytrans_11.apk",
+        "app_activity": "com.shenao.baby.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "每天讲故事",
+        "package_name": "com.gtxinxi.mtjgs",
+        "file_name": "com.gtxinxi.mtjgs_12.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "波比星球",
+        "package_name": "com.bobby.bobbyen",
+        "file_name": "com.bobby.bobbyen_13.apk",
+        "app_activity": "com.bobby.bobbyen.SplashActivity"
+    },
+    {
+        "app_name": "呼啦少儿英语",
+        "package_name": "com.mampod.hula",
+        "file_name": "com.mampod.hula_14.apk",
+        "app_activity": "com.mampod.ergedd.ui.phone.activity.EntryActivity"
+    },
+    {
+        "app_name": "亲宝儿歌",
+        "package_name": "com.iqinbao.android.songs",
+        "file_name": "com.iqinbao.android.songs_15.apk",
+        "app_activity": "com.iqinbao.module.main.SplashActivity"
+    },
+    {
+        "app_name": "幼儿故事大全",
+        "package_name": "com.hjkj66.yegsdq",
+        "file_name": "com.hjkj66.yegsdq_16.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "故事大王",
+        "package_name": "com.junruy.gsdw",
+        "file_name": "com.junruy.gsdw_17.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "睡前儿童故事集",
+        "package_name": "cn.dlapp.childstory",
+        "file_name": "cn.dlapp.childstory_18.apk",
+        "app_activity": "com.wm.remusic.activity.LoginActivity"
+    },
+    {
+        "app_name": "兔小贝儿歌",
+        "package_name": "com.yxeee.tuxiaobei",
+        "file_name": "com.yxeee.tuxiaobei_19.apk",
+        "app_activity": "com.qpx.txb.erge.view.activity.StartActivity"
+    },
+    {
+        "app_name": "星星宝贝",
+        "package_name": "com.zhiyin.xxbaby",
+        "file_name": "com.zhiyin.xxbaby_20.apk",
+        "app_activity": "com.zhiyin.xxbaby.ui.act.SplashActivity"
+    },
+    {
+        "app_name": "Music Concert",
+        "package_name": "com.sinyee.babybus.concert",
+        "file_name": "com.sinyee.babybus.concert_21.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "小小优趣",
+        "package_name": "com.ukids.client.phone",
+        "file_name": "com.ukids.client.phone_22.apk",
+        "app_activity": "com.ukids.client.phone.activity.splash.PrivacyActivity"
+    },
+    {
+        "app_name": "兔兔儿歌",
+        "package_name": "com.android.tutuerge",
+        "file_name": "com.android.tutuerge_23.apk",
+        "app_activity": "com.android.tutuerge.activity.LauncherActivity"
+    },
+    {
+        "app_name": "故事多多",
+        "package_name": "com.shoujiduoduo.story",
+        "file_name": "com.shoujiduoduo.story_24.apk",
+        "app_activity": "com.duoduo.child.story.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "儿歌豆豆",
+        "package_name": "com.duoduo.child.light",
+        "file_name": "com.duoduo.child.light_25.apk",
+        "app_activity": "com.duoduo.child.story.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "儿歌多多",
+        "package_name": "com.duoduo.child.story",
+        "file_name": "com.duoduo.child.story_26.apk",
+        "app_activity": "com.duoduo.child.story.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "宝贝听听",
+        "package_name": "com.kunpeng.babyting",
+        "file_name": "com.kunpeng.babyting_27.apk",
+        "app_activity": "com.kunpeng.babyting.ui.BabyTingActivity"
+    },
+    {
+        "app_name": "儿歌故事宝宝启蒙大全",
+        "package_name": "com.sxzd.childsong",
+        "file_name": "com.sxzd.childsong_28.apk",
+        "app_activity": "com.tm.childrensong.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "熊猫奥数",
+        "package_name": "air.xmas.mb.android.common.A123qibu.com",
+        "file_name": "air.xmas.mb.android.common.A123qibu.com_29.apk",
+        "app_activity": "air.xmas.mb.android.common.A123qibu.com.AIRAppEntry"
+    },
+    {
+        "app_name": "贝乐虎儿歌",
+        "package_name": "com.ubestkid.beilehu.android",
+        "file_name": "com.ubestkid.beilehu.android_30.apk",
+        "app_activity": "com.ubestkid.foundation.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "弹钢琴",
+        "package_name": "com.newbee.song",
+        "file_name": "com.newbee.song_31.apk",
+        "app_activity": "com.gdt.SplashActivity"
+    },
+    {
+        "app_name": "酷狗儿歌",
+        "package_name": "com.kugou.android.child",
+        "file_name": "com.kugou.android.child_32.apk",
+        "app_activity": "com.kugou.android.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "儿童趣味识字",
+        "package_name": "com.genjiwl.etqwsz",
+        "file_name": "com.genjiwl.etqwsz_33.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "儿歌多米",
+        "package_name": "com.ubestkid.duomikids.a",
+        "file_name": "com.ubestkid.duomikids.a_34.apk",
+        "app_activity": "com.ubestkid.duomikids.a.SplashActivity"
+    },
+    {
+        "app_name": "飞行队图书馆",
+        "package_name": "com.qt.fly",
+        "file_name": "com.qt.fly_35.apk",
+        "app_activity": "com.fly.library.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "宝宝巴士儿歌",
+        "package_name": "com.sinyee.babybus.chants",
+        "file_name": "com.sinyee.babybus.chants_36.apk",
+        "app_activity": "com.sinyee.babybus.android.main.SplashActivity"
+    },
+    {
+        "app_name": "口袋故事",
+        "package_name": "com.appshare.android.ilisten",
+        "file_name": "com.appshare.android.ilisten_37.apk",
+        "app_activity": "com.idaddy.ilisten.SplashActivity"
+    },
+    {
+        "app_name": "胎教早教故事",
+        "package_name": "com.wordtiger.preedu",
+        "file_name": "com.wordtiger.preedu_38.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "Kids Crafts DIY",
+        "package_name": "com.sinyee.babybus.gift",
+        "file_name": "com.sinyee.babybus.gift_39.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Baby Rock",
+        "package_name": "com.sinyee.babybus.song",
+        "file_name": "com.sinyee.babybus.song_40.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "宝宝学儿歌听故事",
+        "package_name": "com.longwind.babystory",
+        "file_name": "com.longwind.babystory_41.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "经典英语儿歌欢乐学",
+        "package_name": "cn.kidsongs.app",
+        "file_name": "cn.kidsongs.app_42.apk",
+        "app_activity": "cn.kidsongs.app.SplashActivity"
+    },
+    {
+        "app_name": "超级宝贝JoJo",
+        "package_name": "com.ailiyong.jojo.chants",
+        "file_name": "com.ailiyong.jojo.chants_43.apk",
+        "app_activity": "com.sinyee.babybus.android.main.SplashActivity"
+    },
+    {
+        "app_name": "儿童弹钢琴",
+        "package_name": "com.newbee.littlepiano",
+        "file_name": "com.newbee.littlepiano_44.apk",
+        "app_activity": "com.gdt.SplashActivity"
+    }
+]

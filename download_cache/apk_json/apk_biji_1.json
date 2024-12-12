@@ -1,0 +1,1304 @@
+[
+    {
+        "app_name": "可萌日记",
+        "package_name": "com.chaojiakej.moodbar",
+        "file_name": "com.chaojiakej.moodbar_1.apk",
+        "app_activity": "com.chaojiakej.moodbar.activity.SplashActivity"
+    },
+    {
+        "app_name": "一刻日记",
+        "package_name": "com.byteof.weatherwy",
+        "file_name": "com.byteof.weatherwy_2.apk",
+        "app_activity": "com.byteof.weatherwy.view.launch.LaunchActivity"
+    },
+    {
+        "app_name": "One Diary",
+        "package_name": "com.chenupt.day",
+        "file_name": "com.chenupt.day_3.apk",
+        "app_activity": "com.chenupt.day.launch.SplashActivity11"
+    },
+    {
+        "app_name": "酷记事",
+        "package_name": "com.bxs.note",
+        "file_name": "com.bxs.note_4.apk",
+        "app_activity": "com.bxs.note.activity.StartActivity"
+    },
+    {
+        "app_name": "SmartPen",
+        "package_name": "com.tqltech.smartpen",
+        "file_name": "com.tqltech.smartpen_5.apk",
+        "app_activity": "com.tqltech.smartpen.SplashActivity"
+    },
+    {
+        "app_name": "Notepad",
+        "package_name": "com.mvtrail.notepad.cn",
+        "file_name": "com.mvtrail.notepad.cn_6.apk",
+        "app_activity": "com.mvtrail.studentnotes.ui.SplashActivity"
+    },
+    {
+        "app_name": "时光印记",
+        "package_name": "com.aiyu.imprint",
+        "file_name": "com.aiyu.imprint_7.apk",
+        "app_activity": "com.module.launcher.view.WelcomeActivity"
+    },
+    {
+        "app_name": "时光笔记",
+        "package_name": "com.lvxingetch.timenotes",
+        "file_name": "com.lvxingetch.timenotes_8.apk",
+        "app_activity": "com.thsseek.noto.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "随笔日记",
+        "package_name": "com.yuanli.essaydiary",
+        "file_name": "com.yuanli.essaydiary_9.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "一万年日记",
+        "package_name": "tech.xiangzi.life",
+        "file_name": "tech.xiangzi.life_10.apk",
+        "app_activity": "tech.xiangzi.life.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "任务笔记",
+        "package_name": "com.lvxingetch.tasknotes",
+        "file_name": "com.lvxingetch.tasknotes_11.apk",
+        "app_activity": "com.lvxingetch.tasknotes.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "Flexcil",
+        "package_name": "com.flexcil.flexcilnote",
+        "file_name": "com.flexcil.flexcilnote_12.apk",
+        "app_activity": "com.flexcil.flexcilnote.MainActivity"
+    },
+    {
+        "app_name": "麻雀记",
+        "package_name": "com.chrissen.card",
+        "file_name": "com.chrissen.card_13.apk",
+        "app_activity": "com.chrissen.module_card.module_card.functions.main.mvp.view.activity.MainActivity"
+    },
+    {
+        "app_name": "思源笔记",
+        "package_name": "org.b3log.siyuan",
+        "file_name": "org.b3log.siyuan_14.apk",
+        "app_activity": "org.b3log.siyuan.BootActivity"
+    },
+    {
+        "app_name": "备忘录行程",
+        "package_name": "com.jiujiangpc.diary",
+        "file_name": "com.jiujiangpc.diary_15.apk",
+        "app_activity": "com.example.unimpdemo.activity.SplashActivity"
+    },
+    {
+        "app_name": "小记事备忘录",
+        "package_name": "com.mhh.note",
+        "file_name": "com.mhh.note_16.apk",
+        "app_activity": "com.mhh.note.ui.Pracit_Activity"
+    },
+    {
+        "app_name": "working",
+        "package_name": "lf.toop.working",
+        "file_name": "lf.toop.working_17.apk",
+        "app_activity": "lf.MainRun.Start_main_Run_Activity"
+    },
+    {
+        "app_name": "AI小清单",
+        "package_name": "com.bige.ailist",
+        "file_name": "com.bige.ailist_18.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "你好未来",
+        "package_name": "com.health.aimanager.future",
+        "file_name": "com.health.aimanager.future_19.apk",
+        "app_activity": "com.health.aimanager.manager.mainmanager.activity.Mo0o0o0o0o0o0o0o0o0o0o0o01"
+    },
+    {
+        "app_name": "备忘录云记事",
+        "package_name": "cn.com.todo.notepad",
+        "file_name": "cn.com.todo.notepad_20.apk",
+        "app_activity": "cn.com.todo.notepad.activity.LaunchActivity"
+    },
+    {
+        "app_name": "旧时光",
+        "package_name": "com.jiushig.oldtime",
+        "file_name": "com.jiushig.oldtime_21.apk",
+        "app_activity": "com.jiushig.oldtime.ui.MainActivity"
+    },
+    {
+        "app_name": "星恋手账",
+        "package_name": "com.msapp.stardiary",
+        "file_name": "com.msapp.stardiary_22.apk",
+        "app_activity": "com.msapp.stardiary.SplashActivity"
+    },
+    {
+        "app_name": "自由笔记",
+        "package_name": "com.freenotes.freenotes",
+        "file_name": "com.freenotes.freenotes_23.apk",
+        "app_activity": "com.wsc.note_components.SplashActivity"
+    },
+    {
+        "app_name": "一指乾坤",
+        "package_name": "com.vc99.diarynote",
+        "file_name": "com.vc99.diarynote_24.apk",
+        "app_activity": "com.vc99.diarynote.FirstActivity"
+    },
+    {
+        "app_name": "神指笔记",
+        "package_name": "com.szqd.sznotes",
+        "file_name": "com.szqd.sznotes_25.apk",
+        "app_activity": "com.szqd.sznotes.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "一笔艺术签名",
+        "package_name": "cn.qiutinghe.sign",
+        "file_name": "cn.qiutinghe.sign_26.apk",
+        "app_activity": "cn.qiutinghe.sign.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "日记本记事",
+        "package_name": "finger.pixel.app.notes",
+        "file_name": "finger.pixel.app.notes_27.apk",
+        "app_activity": "finger.pixel.app.notes.ZhiJianStartActivity"
+    },
+    {
+        "app_name": "Touch Mind",
+        "package_name": "net.cicoe.reader",
+        "file_name": "net.cicoe.reader_28.apk",
+        "app_activity": "net.cicoe.reader.MainActivity"
+    },
+    {
+        "app_name": "千本手账",
+        "package_name": "xbj.rjl.wzj",
+        "file_name": "xbj.rjl.wzj_29.apk",
+        "app_activity": "com.zy.handwrittennotes.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "备忘录note便签",
+        "package_name": "com.kabrj.diray",
+        "file_name": "com.kabrj.diray_30.apk",
+        "app_activity": "com.example.unimpdemo.activity.BootActivity"
+    },
+    {
+        "app_name": "维度笔记",
+        "package_name": "com.yhqx.dimension",
+        "file_name": "com.yhqx.dimension_31.apk",
+        "app_activity": "com.yhqx.dimension.activity.SplashActivity"
+    },
+    {
+        "app_name": "逸记",
+        "package_name": "com.angding.smartnote",
+        "file_name": "com.angding.smartnote_32.apk",
+        "app_activity": "com.angding.smartnote.SplashActivity"
+    },
+    {
+        "app_name": "嗨学网",
+        "package_name": "com.mixue.shangxue",
+        "file_name": "com.mixue.shangxue_33.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "私密照片视频加密",
+        "package_name": "com.sqcat.picprivate",
+        "file_name": "com.sqcat.picprivate_34.apk",
+        "app_activity": "com.sqcat.picprivate.SplashActivity"
+    },
+    {
+        "app_name": "Tenyear diary",
+        "package_name": "com.yearsdiary.tenyear",
+        "file_name": "com.yearsdiary.tenyear_35.apk",
+        "app_activity": "com.yearsdiary.tenyear.controller.activity.LaunchActivity"
+    },
+    {
+        "app_name": "闭关写作",
+        "package_name": "com.ht.n2202",
+        "file_name": "com.ht.n2202_36.apk",
+        "app_activity": "com.ht.n2202.LunchActivity"
+    },
+    {
+        "app_name": "每日记",
+        "package_name": "com.luyun.diary",
+        "file_name": "com.luyun.diary_37.apk",
+        "app_activity": "com.luyun.diary.ui.SplashActivity"
+    },
+    {
+        "app_name": "LeafDiary",
+        "package_name": "com.justtoday.diary",
+        "file_name": "com.justtoday.diary_38.apk",
+        "app_activity": "com.justtoday.diary.MainActivity"
+    },
+    {
+        "app_name": "编程小之",
+        "package_name": "com.tinyzz.program",
+        "file_name": "com.tinyzz.program_39.apk",
+        "app_activity": "com.tinyzz.program.LaunchActivity"
+    },
+    {
+        "app_name": "Love Days Counter",
+        "package_name": "com.softin.lovedays",
+        "file_name": "com.softin.lovedays_40.apk",
+        "app_activity": "com.softin.lovedays.ui.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "记年华",
+        "package_name": "com.chu.chronicle_diary",
+        "file_name": "com.chu.chronicle_diary_41.apk",
+        "app_activity": "com.chu.chronicle_diary.AD.FirstActivity"
+    },
+    {
+        "app_name": "记一记",
+        "package_name": "hsym.app181",
+        "file_name": "hsym.app181_42.apk",
+        "app_activity": "hsym.app181.update.MainActivity"
+    },
+    {
+        "app_name": "泡网",
+        "package_name": "com.paonet.android",
+        "file_name": "com.paonet.android_43.apk",
+        "app_activity": "com.paonet.android.SplashActivity"
+    },
+    {
+        "app_name": "便签笔记",
+        "package_name": "notepad.bianqian.biji",
+        "file_name": "notepad.bianqian.biji_44.apk",
+        "app_activity": "notepad.bianqian.biji.ui.bijiSplashLiteActivity"
+    },
+    {
+        "app_name": "乐私塾",
+        "package_name": "com.accfun.cloudclass",
+        "file_name": "com.accfun.cloudclass_45.apk",
+        "app_activity": "com.zy.lss.zdl.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "情侣恋爱纪",
+        "package_name": "sone.jl.com",
+        "file_name": "sone.jl.com_46.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "加密日记",
+        "package_name": "com.bijhuahsjokds.J",
+        "file_name": "com.bijhuahsjokds.J_47.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "印象笔记",
+        "package_name": "com.yinxiang",
+        "file_name": "com.yinxiang_48.apk",
+        "app_activity": "com.evernote.ui.HomeActivity"
+    },
+    {
+        "app_name": "水相",
+        "package_name": "com.shuixiangjk.mao",
+        "file_name": "com.shuixiangjk.mao_49.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "大象笔记",
+        "package_name": "com.daxiang.note",
+        "file_name": "com.daxiang.note_50.apk",
+        "app_activity": "com.tyj.note.advertise.view.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "DrawNote",
+        "package_name": "com.dragonnest.drawnote",
+        "file_name": "com.dragonnest.drawnote_51.apk",
+        "app_activity": "com.dragonnest.app.EmptyLauncherActivity"
+    },
+    {
+        "app_name": "iNote悬浮记事本",
+        "package_name": "com.KevinStudio.iNote",
+        "file_name": "com.KevinStudio.iNote_52.apk",
+        "app_activity": "com.KevinStudio.iNote.Activity.SplashActivity"
+    },
+    {
+        "app_name": "星星笔记手账",
+        "package_name": "com.appstarry.scrapbook",
+        "file_name": "com.appstarry.scrapbook_53.apk",
+        "app_activity": "com.appstarry.scrapbook.SplashActivity"
+    },
+    {
+        "app_name": "行志",
+        "package_name": "com.dzb.mytasklist",
+        "file_name": "com.dzb.mytasklist_54.apk",
+        "app_activity": "com.dzb.mytasklist.activity.MainActivity"
+    },
+    {
+        "app_name": "好事发生",
+        "package_name": "cn.goodhappens.notes",
+        "file_name": "cn.goodhappens.notes_55.apk",
+        "app_activity": "cn.goodhappens.activity.SplashActivity"
+    },
+    {
+        "app_name": "每日读书记录",
+        "package_name": "com.eureka.read",
+        "file_name": "com.eureka.read_56.apk",
+        "app_activity": "com.eureka.common.ui.start.SplashActivity"
+    },
+    {
+        "app_name": "小隐笔记",
+        "package_name": "com.guyin.xiaoyin",
+        "file_name": "com.guyin.xiaoyin_57.apk",
+        "app_activity": "com.guyin.xiaoyin.view.welcome.SplashActivity"
+    },
+    {
+        "app_name": "天天手账贴贴",
+        "package_name": "com.tiantian.sz",
+        "file_name": "com.tiantian.sz_58.apk",
+        "app_activity": "com.svkj.tiantian.SplashActivity"
+    },
+    {
+        "app_name": "小小手账",
+        "package_name": "com.nq.xxsz",
+        "file_name": "com.nq.xxsz_59.apk",
+        "app_activity": "com.cccgame.android.MainActivity"
+    },
+    {
+        "app_name": "记事本极速版",
+        "package_name": "com.bingo.note",
+        "file_name": "com.bingo.note_60.apk",
+        "app_activity": "com.bingo.note.MainActivity"
+    },
+    {
+        "app_name": "要事记",
+        "package_name": "com.fullzee.thingcord",
+        "file_name": "com.fullzee.thingcord_61.apk",
+        "app_activity": "com.fullzee.thingcord.MainActivity"
+    },
+    {
+        "app_name": "千千手帐",
+        "package_name": "c.plus.plan.dresshome",
+        "file_name": "c.plus.plan.dresshome_62.apk",
+        "app_activity": "c.plus.plan.dresshome.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "灵感电源",
+        "package_name": "com.conglamphi.inspiration",
+        "file_name": "com.conglamphi.inspiration_63.apk",
+        "app_activity": "com.air.stepward.module.lauch.AliasMainActivity"
+    },
+    {
+        "app_name": "宝宝日记",
+        "package_name": "com.jgqq.baobaoriji",
+        "file_name": "com.jgqq.baobaoriji_64.apk",
+        "app_activity": "com.example.threelibrary.BeginActivity"
+    },
+    {
+        "app_name": "Metaslip",
+        "package_name": "com.metaslip.app",
+        "file_name": "com.metaslip.app_65.apk",
+        "app_activity": "com.metaslip.app.MainActivity"
+    },
+    {
+        "app_name": "Kilonotes",
+        "package_name": "com.topstack.kilonotes.pad",
+        "file_name": "com.topstack.kilonotes.pad_66.apk",
+        "app_activity": "com.topstack.kilonotes.base.splash.SplashActivity"
+    },
+    {
+        "app_name": "模型树",
+        "package_name": "net.moxingshu.app",
+        "file_name": "net.moxingshu.app_67.apk",
+        "app_activity": "net.moxingshu.app.home.ui.activity.AdActivity"
+    },
+    {
+        "app_name": "考勤表",
+        "package_name": "com.jizhi.jlongg.kqb",
+        "file_name": "com.jizhi.jlongg.kqb_68.apk",
+        "app_activity": "com.jizhi.jlongg.main.activity.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "少女恋爱日记",
+        "package_name": "com.shaonvtietiebxg.sn",
+        "file_name": "com.shaonvtietiebxg.sn_69.apk",
+        "app_activity": "com.zy.app.mooddiary.activity.LauncherActivity"
+    },
+    {
+        "app_name": "笔记便签",
+        "package_name": "com.biji.bianqzy",
+        "file_name": "com.biji.bianqzy_70.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "备忘录便签精灵",
+        "package_name": "notepad.color.pro.mi",
+        "file_name": "notepad.color.pro.mi_71.apk",
+        "app_activity": "qnet.note.app.QnetStartActivity"
+    },
+    {
+        "app_name": "工时记录",
+        "package_name": "io.dcloud.H5D4EC138",
+        "file_name": "io.dcloud.H5D4EC138_72.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "粉萌日记",
+        "package_name": "com.luyun.pinkdiary",
+        "file_name": "com.luyun.pinkdiary_73.apk",
+        "app_activity": "com.luyun.pinkdiary.ui.SplashActivity"
+    },
+    {
+        "app_name": "超级写作助手",
+        "package_name": "com.yichuang.ycwritetool",
+        "file_name": "com.yichuang.ycwritetool_74.apk",
+        "app_activity": "com.yichuang.ycwritetool.AD.FirstActivity"
+    },
+    {
+        "app_name": "墨记日记",
+        "package_name": "com.denglin.moji",
+        "file_name": "com.denglin.moji_75.apk",
+        "app_activity": "com.denglin.moji.view.splash.WelcomeActivity"
+    },
+    {
+        "app_name": "心情日记本",
+        "package_name": "com.liuzb.moodiary",
+        "file_name": "com.liuzb.moodiary_76.apk",
+        "app_activity": "com.liuzb.moodiary.MainFlutterActivity"
+    },
+    {
+        "app_name": "Q-Diary",
+        "package_name": "com.slfteam.qdiary",
+        "file_name": "com.slfteam.qdiary_77.apk",
+        "app_activity": "com.slfteam.qdiary.LaunchActivity"
+    },
+    {
+        "app_name": "松球营销",
+        "package_name": "com.gjy.salesmanagement",
+        "file_name": "com.gjy.salesmanagement_78.apk",
+        "app_activity": "com.gjy.salesmanagement.activity.SplashActivity"
+    },
+    {
+        "app_name": "FiiNote",
+        "package_name": "com.fiistudio.fiinote",
+        "file_name": "com.fiistudio.fiinote_79.apk",
+        "app_activity": "com.fiistudio.fiinote.editor.FiiNote"
+    },
+    {
+        "app_name": "语雀",
+        "package_name": "com.yuque.mobile.android.app",
+        "file_name": "com.yuque.mobile.android.app_80.apk",
+        "app_activity": "com.yuque.mobile.android.app.rn.activity.ReactNativeMainActivity"
+    },
+    {
+        "app_name": "卡片日记备忘录",
+        "package_name": "com.litebook.notememo",
+        "file_name": "com.litebook.notememo_81.apk",
+        "app_activity": "com.lanshu.reco.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "浮生记",
+        "package_name": "com.feiyuntech.fushengji",
+        "file_name": "com.feiyuntech.fushengji_82.apk",
+        "app_activity": "com.feiyuntech.fushengji.MainActivity"
+    },
+    {
+        "app_name": "Period Assistant",
+        "package_name": "com.funmkr.period",
+        "file_name": "com.funmkr.period_83.apk",
+        "app_activity": "com.funmkr.period.LaunchActivity"
+    },
+    {
+        "app_name": "便签tips",
+        "package_name": "com.zhuoxiang.tips",
+        "file_name": "com.zhuoxiang.tips_84.apk",
+        "app_activity": "com.zhuoxiang.tips.operation.SplashOperation"
+    },
+    {
+        "app_name": "趁手工程记录",
+        "package_name": "com.handytools.cs",
+        "file_name": "com.handytools.cs_85.apk",
+        "app_activity": "com.handytools.cs.ui.MainActivity"
+    },
+    {
+        "app_name": "流光日记",
+        "package_name": "cn.xuncnet.lgrj",
+        "file_name": "cn.xuncnet.lgrj_86.apk",
+        "app_activity": "cn.xuncnet.lgrj.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "Smart Notes",
+        "package_name": "org.ccc.mm",
+        "file_name": "org.ccc.mm_87.apk",
+        "app_activity": "org.ccc.base.activity.others.SplashAdActivity"
+    },
+    {
+        "app_name": "易笔记",
+        "package_name": "com.zyt.zytnote",
+        "file_name": "com.zyt.zytnote_88.apk",
+        "app_activity": "com.zyt.zytnote.activity.SplashActivity"
+    },
+    {
+        "app_name": "手帐日记",
+        "package_name": "com.mood.diaryzy",
+        "file_name": "com.mood.diaryzy_89.apk",
+        "app_activity": "com.zy.app.mooddiary.activity.LauncherActivity"
+    },
+    {
+        "app_name": "A Diary",
+        "package_name": "com.jly.dia",
+        "file_name": "com.jly.dia_90.apk",
+        "app_activity": "com.jly.dia.MainActivity"
+    },
+    {
+        "app_name": "Daily Notes",
+        "package_name": "com.noya.dailynotes",
+        "file_name": "com.noya.dailynotes_91.apk",
+        "app_activity": "com.cody.supads.activity.StartActivity"
+    },
+    {
+        "app_name": "萌域日记",
+        "package_name": "com.burningpowercat.mengyuriji",
+        "file_name": "com.burningpowercat.mengyuriji_92.apk",
+        "app_activity": "com.burningpowercat.mengyuriji.MainActivity"
+    },
+    {
+        "app_name": "签名设计大师",
+        "package_name": "top.star51.signer",
+        "file_name": "top.star51.signer_93.apk",
+        "app_activity": "com.qianming.signature.ui.GuideActivity"
+    },
+    {
+        "app_name": "简记事",
+        "package_name": "com.minggo.notebook",
+        "file_name": "com.minggo.notebook_94.apk",
+        "app_activity": "com.minggo.notebook.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "讯飞语记",
+        "package_name": "com.iflytek.vflynote",
+        "file_name": "com.iflytek.vflynote_95.apk",
+        "app_activity": "com.iflytek.vflynote.SpeechWelcome"
+    },
+    {
+        "app_name": "私密备忘录",
+        "package_name": "cn.qizhenyun.calculator",
+        "file_name": "cn.qizhenyun.calculator_96.apk",
+        "app_activity": "com.fanghe.calculator.ui.SplashActivity"
+    },
+    {
+        "app_name": "Memoreka",
+        "package_name": "co.cocore.moa",
+        "file_name": "co.cocore.moa_97.apk",
+        "app_activity": "co.cocore.moa.MainActivity"
+    },
+    {
+        "app_name": "八度幻想",
+        "package_name": "com.eightfantasy.eightfantasy",
+        "file_name": "com.eightfantasy.eightfantasy_98.apk",
+        "app_activity": "com.dream.splash.SplashActivity"
+    },
+    {
+        "app_name": "指尖笔记",
+        "package_name": "com.zhijianzhuoyue.timenote",
+        "file_name": "com.zhijianzhuoyue.timenote_99.apk",
+        "app_activity": "com.zhijianzhuoyue.timenote.MainActivity"
+    },
+    {
+        "app_name": "简写作",
+        "package_name": "com.minggo.writing",
+        "file_name": "com.minggo.writing_101.apk",
+        "app_activity": "com.minggo.writing.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "开脑洞思维导图",
+        "package_name": "com.mind.swdt",
+        "file_name": "com.mind.swdt_102.apk",
+        "app_activity": "com.xmb.mindmap.view.LllWelcomeLllActivity"
+    },
+    {
+        "app_name": "nbNote",
+        "package_name": "com.niubi.note",
+        "file_name": "com.niubi.note_103.apk",
+        "app_activity": "com.cody.supads.activity.StartActivity"
+    },
+    {
+        "app_name": "A4打印纸",
+        "package_name": "cn.jinrishuiyin.a4",
+        "file_name": "cn.jinrishuiyin.a4_104.apk",
+        "app_activity": "com.example.unimpdemo.activity.SplashActivity"
+    },
+    {
+        "app_name": "每日记事本",
+        "package_name": "com.ffrankkie.diarytwo",
+        "file_name": "com.ffrankkie.diarytwo_105.apk",
+        "app_activity": "com.ffrankkie.diarytwo.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "吾记日记",
+        "package_name": "com.wujiteam.wuji",
+        "file_name": "com.wujiteam.wuji_106.apk",
+        "app_activity": "com.wujiteam.wuji.view.splash.WelcomeActivity"
+    },
+    {
+        "app_name": "touchnotes",
+        "package_name": "com.newskyer.draw",
+        "file_name": "com.newskyer.draw_107.apk",
+        "app_activity": "com.newskyer.draw.activity.SplashActivity"
+    },
+    {
+        "app_name": "EasyNote",
+        "package_name": "com.index.easynote",
+        "file_name": "com.index.easynote_108.apk",
+        "app_activity": "com.index.easynote.launch.LaunchActivity"
+    },
+    {
+        "app_name": "电子手帐笔记本",
+        "package_name": "cn.yishengnet.scrapbook",
+        "file_name": "cn.yishengnet.scrapbook_109.apk",
+        "app_activity": "cn.yishengnet.scrapbook.ui.common.CommonLauncherActivity"
+    },
+    {
+        "app_name": "随手笔记",
+        "package_name": "com.dodoyoweet.note",
+        "file_name": "com.dodoyoweet.note_110.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "网址记录器",
+        "package_name": "com.yuejia.addressrecorder",
+        "file_name": "com.yuejia.addressrecorder_111.apk",
+        "app_activity": "com.yuejia.addressrecorder.mvp.ui.activity.GuidepageActivity"
+    },
+    {
+        "app_name": "日历记加班",
+        "package_name": "com.jiaban.app",
+        "file_name": "com.jiaban.app_112.apk",
+        "app_activity": "com.jiaban.app.ui.LauncherActivity"
+    },
+    {
+        "app_name": "手帐多多",
+        "package_name": "com.ddjs.ddsz",
+        "file_name": "com.ddjs.ddsz_113.apk",
+        "app_activity": "com.svkj.ddsz.SplashActivity"
+    },
+    {
+        "app_name": "红薯AI创作专家",
+        "package_name": "com.hscz.scgy",
+        "file_name": "com.hscz.scgy_114.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "侠客日记",
+        "package_name": "com.yucore.swashbucklerdiary",
+        "file_name": "com.yucore.swashbucklerdiary_115.apk",
+        "app_activity": "crc64dbff41cc3fd9694d.MainActivity"
+    },
+    {
+        "app_name": "云尚记事",
+        "package_name": "com.zbh.zbcloudwrite",
+        "file_name": "com.zbh.zbcloudwrite_116.apk",
+        "app_activity": "com.zbh.zbcloudwrite.view.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "有道云笔记",
+        "package_name": "com.youdao.note",
+        "file_name": "com.youdao.note_117.apk",
+        "app_activity": "com.youdao.note.activity2.NormalSplashActivity"
+    },
+    {
+        "app_name": "微秘",
+        "package_name": "cn.wemind.android",
+        "file_name": "cn.wemind.android_118.apk",
+        "app_activity": "cn.wemind.assistant.android.main.LaunchActivity"
+    },
+    {
+        "app_name": "浅言速记版",
+        "package_name": "com.zhy.qianyan.shorthand",
+        "file_name": "com.zhy.qianyan.shorthand_119.apk",
+        "app_activity": "com.zhy.qianyan.shorthand.activity.SplashActivity"
+    },
+    {
+        "app_name": "轻记事本",
+        "package_name": "com.luyun.lightnote",
+        "file_name": "com.luyun.lightnote_120.apk",
+        "app_activity": "com.luyun.lightnote.ui.SplashActivity"
+    },
+    {
+        "app_name": "口袋写作",
+        "package_name": "com.hmz.koudaiwriting",
+        "file_name": "com.hmz.koudaiwriting_121.apk",
+        "app_activity": "com.hmz.koudaiwriting.pages.splash.SplashActivity"
+    },
+    {
+        "app_name": "记事本子",
+        "package_name": "com.aokj.jishiben",
+        "file_name": "com.aokj.jishiben_122.apk",
+        "app_activity": "app.fadai.supernote.SplashActivityStartUp"
+    },
+    {
+        "app_name": "工地记加班",
+        "package_name": "com.jizhi.jlongg.gdjjb",
+        "file_name": "com.jizhi.jlongg.gdjjb_123.apk",
+        "app_activity": "com.jizhi.jlongg.main.activity.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "元日记",
+        "package_name": "com.yrj.app",
+        "file_name": "com.yrj.app_124.apk",
+        "app_activity": "com.yrj.app.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "Zine",
+        "package_name": "com.auramarker.zine",
+        "file_name": "com.auramarker.zine_125.apk",
+        "app_activity": "com.auramarker.zine.activity.SplashActivity"
+    },
+    {
+        "app_name": "此刻日记",
+        "package_name": "com.ninefrost.mdiary",
+        "file_name": "com.ninefrost.mdiary_126.apk",
+        "app_activity": "com.ninefrost.mdiary.MainActivity"
+    },
+    {
+        "app_name": "备忘录日记",
+        "package_name": "fish.schedule.todo.reminder",
+        "file_name": "fish.schedule.todo.reminder_127.apk",
+        "app_activity": "com.cody.supads.activity.StartActivity"
+    },
+    {
+        "app_name": "备忘录记事君",
+        "package_name": "com.zhanlang.notes",
+        "file_name": "com.zhanlang.notes_128.apk",
+        "app_activity": "com.zhanlang.notes.activity.SplashActivith"
+    },
+    {
+        "app_name": "电板奇思",
+        "package_name": "com.dehydaloft.analog",
+        "file_name": "com.dehydaloft.analog_129.apk",
+        "app_activity": "com.air.stepward.module.lauch.AliasMainActivity"
+    },
+    {
+        "app_name": "笔记森林",
+        "package_name": "com.eulerstar.ankiforest",
+        "file_name": "com.eulerstar.ankiforest_130.apk",
+        "app_activity": "com.eulerstar.ankiforest.MainActivity"
+    },
+    {
+        "app_name": "柠檬笔记",
+        "package_name": "com.lemonpiggy.note",
+        "file_name": "com.lemonpiggy.note_131.apk",
+        "app_activity": "com.lemonpiggy.note.MainActivity"
+    },
+    {
+        "app_name": "番茄便签",
+        "package_name": "cn.xzkj.diary",
+        "file_name": "cn.xzkj.diary_132.apk",
+        "app_activity": "cn.xzkj.diary.SplashActivity"
+    },
+    {
+        "app_name": "只是写作",
+        "package_name": "com.only.writer",
+        "file_name": "com.only.writer_133.apk",
+        "app_activity": "com.only.writer.modules.edit.LeftEditActivity"
+    },
+    {
+        "app_name": "盒子笔记",
+        "package_name": "com.chris.boxapp",
+        "file_name": "com.chris.boxapp_134.apk",
+        "app_activity": "com.chris.boxapp.functions.main.MainActivity"
+    },
+    {
+        "app_name": "映像手帐",
+        "package_name": "com.xiangyin.accounting",
+        "file_name": "com.xiangyin.accounting_135.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "贴贴手帐",
+        "package_name": "com.youhonginc.sz",
+        "file_name": "com.youhonginc.sz_136.apk",
+        "app_activity": "com.youhonginc.sz.IndexActivity"
+    },
+    {
+        "app_name": "Minimal Notes",
+        "package_name": "com.mad.minimalnote",
+        "file_name": "com.mad.minimalnote_137.apk",
+        "app_activity": "xyz.hanks.note.ui.activity.MainActivity"
+    },
+    {
+        "app_name": "免费手账本",
+        "package_name": "jhgzbijmw.comx",
+        "file_name": "jhgzbijmw.comx_138.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "易趣记事本",
+        "package_name": "ej.easyjoy.easynote.cn",
+        "file_name": "ej.easyjoy.easynote.cn_139.apk",
+        "app_activity": "ej.xnote.LogoActivity"
+    },
+    {
+        "app_name": "笔记精灵",
+        "package_name": "com.lvxingetch.noteelf",
+        "file_name": "com.lvxingetch.noteelf_140.apk",
+        "app_activity": "com.lvxingetch.noteelf.splash.SplashActivity"
+    },
+    {
+        "app_name": "涂鸦绘画笔记本",
+        "package_name": "cn.chaoyoutek.book",
+        "file_name": "cn.chaoyoutek.book_141.apk",
+        "app_activity": "cn.chaoyoutek.book.ui.common.CommonLauncherActivity"
+    },
+    {
+        "app_name": "Lionote",
+        "package_name": "com.lionote.flutter",
+        "file_name": "com.lionote.flutter_142.apk",
+        "app_activity": "com.lionote.flutter.MainActivity"
+    },
+    {
+        "app_name": "兔宝日常",
+        "package_name": "com.rab.tbrc",
+        "file_name": "com.rab.tbrc_143.apk",
+        "app_activity": "com.xm.hb.GamePlayerActivity"
+    },
+    {
+        "app_name": "轻松计件",
+        "package_name": "com.xiaoxiu.pieceandroid",
+        "file_name": "com.xiaoxiu.pieceandroid_144.apk",
+        "app_activity": "com.xiaoxiu.pieceandroid.page.SplashActivity"
+    },
+    {
+        "app_name": "易记事",
+        "package_name": "ej.easyjoy.easynote.text.cn",
+        "file_name": "ej.easyjoy.easynote.text.cn_145.apk",
+        "app_activity": "ej.xnote.LogoActivity"
+    },
+    {
+        "app_name": "知吾小助理",
+        "package_name": "com.wali.todo",
+        "file_name": "com.wali.todo_146.apk",
+        "app_activity": "com.wali.todo.ui.WelcomeStartAct"
+    },
+    {
+        "app_name": "简笔",
+        "package_name": "com.chenupt.text",
+        "file_name": "com.chenupt.text_147.apk",
+        "app_activity": "com.chenupt.text.SplashActivity"
+    },
+    {
+        "app_name": "MOODA心情日记",
+        "package_name": "com.mooda.wyxqrjyyds",
+        "file_name": "com.mooda.wyxqrjyyds_148.apk",
+        "app_activity": "com.vtb.mooda.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "刻记",
+        "package_name": "club.kejimemo.android",
+        "file_name": "club.kejimemo.android_149.apk",
+        "app_activity": "club.kejimemo.android.MainActivity"
+    },
+    {
+        "app_name": "纸条笔记",
+        "package_name": "com.singxie.notebook",
+        "file_name": "com.singxie.notebook_150.apk",
+        "app_activity": "com.singxie.notebook.LoadingActivity"
+    },
+    {
+        "app_name": "复习笔记",
+        "package_name": "com.hongyang.note",
+        "file_name": "com.hongyang.note_151.apk",
+        "app_activity": "com.hongyang.note.MainActivity"
+    },
+    {
+        "app_name": "GJDiary",
+        "package_name": "io.git.zjoker.gj_diary",
+        "file_name": "io.git.zjoker.gj_diary_152.apk",
+        "app_activity": "io.git.zjoker.gj_diary.SplashActivity"
+    },
+    {
+        "app_name": "不枯日常",
+        "package_name": "com.krniu.habits",
+        "file_name": "com.krniu.habits_153.apk",
+        "app_activity": "com.krniu.habits.global.activity.SplashActivity"
+    },
+    {
+        "app_name": "红薯编辑器",
+        "package_name": "com.wyhs.reditorbjqvtb",
+        "file_name": "com.wyhs.reditorbjqvtb_154.apk",
+        "app_activity": "com.vtb.base.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "Count Days",
+        "package_name": "com.funmkr.countdays",
+        "file_name": "com.funmkr.countdays_155.apk",
+        "app_activity": "com.funmkr.countdays.LaunchActivity"
+    },
+    {
+        "app_name": "OK笔记",
+        "package_name": "com.noah.oknotes",
+        "file_name": "com.noah.oknotes_156.apk",
+        "app_activity": "com.noah.oknotes.SplashActivity"
+    },
+    {
+        "app_name": "Notein",
+        "package_name": "com.orion.notein",
+        "file_name": "com.orion.notein_157.apk",
+        "app_activity": "com.orion.notein.MainActivity"
+    },
+    {
+        "app_name": "META-NOTE",
+        "package_name": "com.zxcz.dev.faenote",
+        "file_name": "com.zxcz.dev.faenote_158.apk",
+        "app_activity": "com.zxcz.meta_note.MainActivity"
+    },
+    {
+        "app_name": "拾柒",
+        "package_name": "com.shiqichuban.android",
+        "file_name": "com.shiqichuban.android_159.apk",
+        "app_activity": "com.shiqichuban.activity.SplashActivity"
+    },
+    {
+        "app_name": "岁时小记",
+        "package_name": "com.gaamf.snail.willow",
+        "file_name": "com.gaamf.snail.willow_160.apk",
+        "app_activity": "com.gaamf.snail.willow.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "随心记",
+        "package_name": "com.kxtusiz.cidhbus",
+        "file_name": "com.kxtusiz.cidhbus_161.apk",
+        "app_activity": "com.fwlst.module_splash.SplashActivity"
+    },
+    {
+        "app_name": "笔书",
+        "package_name": "bishu.cn",
+        "file_name": "bishu.cn_162.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "记录本",
+        "package_name": "com.mhh.daytimeplay",
+        "file_name": "com.mhh.daytimeplay_163.apk",
+        "app_activity": "com.mhh.daytimeplay.Start_Up_Activity.Privacy_activity"
+    },
+    {
+        "app_name": "Zoho Notebook",
+        "package_name": "com.zoho.notebook",
+        "file_name": "com.zoho.notebook_164.apk",
+        "app_activity": "com.zoho.notebook.activities.NoteBookActivity"
+    },
+    {
+        "app_name": "错题本天天记",
+        "package_name": "com.symistaken.note",
+        "file_name": "com.symistaken.note_165.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "萌趣备忘录",
+        "package_name": "com.weilaihong.diray",
+        "file_name": "com.weilaihong.diray_166.apk",
+        "app_activity": "com.example.unimpdemo.activity.BootActivity"
+    },
+    {
+        "app_name": "记事本日记",
+        "package_name": "notepad.jishiben.riji",
+        "file_name": "notepad.jishiben.riji_167.apk",
+        "app_activity": "qnet.note.app.QnetStartActivity"
+    },
+    {
+        "app_name": "千页笔记",
+        "package_name": "com.bjj.zxj",
+        "file_name": "com.bjj.zxj_168.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "Mayu",
+        "package_name": "com.qdd.app.diary",
+        "file_name": "com.qdd.app.diary_169.apk",
+        "app_activity": "com.qdd.app.diary.view.SplashActivity"
+    },
+    {
+        "app_name": "蜗牛日记",
+        "package_name": "com.bytecrazy.diary",
+        "file_name": "com.bytecrazy.diary_170.apk",
+        "app_activity": "com.bytecrazy.diary.MainActivity"
+    },
+    {
+        "app_name": "语音笔记本",
+        "package_name": "com.yaosjdiguhus.J",
+        "file_name": "com.yaosjdiguhus.J_171.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "Favor-it",
+        "package_name": "com.yinxiang.kollector",
+        "file_name": "com.yinxiang.kollector_172.apk",
+        "app_activity": "com.evernote.ui.HomeActivity"
+    },
+    {
+        "app_name": "小筑笔记",
+        "package_name": "com.athinkthings.note.android.phone",
+        "file_name": "com.athinkthings.note.android.phone_173.apk",
+        "app_activity": "com.athinkthings.note.android.phone.app.InitActivity"
+    },
+    {
+        "app_name": "旅行日记",
+        "package_name": "zhh.jhqb.bjz",
+        "file_name": "zhh.jhqb.bjz_175.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "我的微笔记",
+        "package_name": "com.uidhdg.ioeyun.nuzai",
+        "file_name": "com.uidhdg.ioeyun.nuzai_176.apk",
+        "app_activity": "com.uidhdg.ioeyun.nuzai.activty.StartActivity"
+    },
+    {
+        "app_name": "星辰日记",
+        "package_name": "com.csyifei.note",
+        "file_name": "com.csyifei.note_177.apk",
+        "app_activity": "com.csyifei.note.activity.SplashActivity"
+    },
+    {
+        "app_name": "Oak Diary",
+        "package_name": "com.card.carddiary",
+        "file_name": "com.card.carddiary_178.apk",
+        "app_activity": "org.carddiary.carddiary.MainActivity"
+    },
+    {
+        "app_name": "智能备忘录",
+        "package_name": "com.pdswp.su.smartcalendar",
+        "file_name": "com.pdswp.su.smartcalendar_179.apk",
+        "app_activity": "com.pdswp.su.smartcalendar.WelcomeActivity"
+    },
+    {
+        "app_name": "点滴软件",
+        "package_name": "com.bit.world.drip.app",
+        "file_name": "com.bit.world.drip.app_180.apk",
+        "app_activity": "com.bit.world.drip.app.MainActivity"
+    },
+    {
+        "app_name": "笔记宝",
+        "package_name": "com.qishu.notebao",
+        "file_name": "com.qishu.notebao_181.apk",
+        "app_activity": "com.lvxingetch.tasknotes.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "Word文档",
+        "package_name": "cn.sousui.word",
+        "file_name": "cn.sousui.word_182.apk",
+        "app_activity": "cn.sousui.word.activity.StartActivity"
+    },
+    {
+        "app_name": "Durian Diary",
+        "package_name": "com.weimu.duriandiary",
+        "file_name": "com.weimu.duriandiary_183.apk",
+        "app_activity": "com.weimu.duriandiary.MainActivity"
+    },
+    {
+        "app_name": "粉粉日记",
+        "package_name": "pinkdiary.xiaoxiaotu.com",
+        "file_name": "pinkdiary.xiaoxiaotu.com_184.apk",
+        "app_activity": "pinkdiary.xiaoxiaotu.com.LogoScreen"
+    },
+    {
+        "app_name": "漂流瓶心情日记",
+        "package_name": "com.njjrsy.diary",
+        "file_name": "com.njjrsy.diary_185.apk",
+        "app_activity": "com.common.tang.activity.SplashActivity"
+    },
+    {
+        "app_name": "解忧娃娃",
+        "package_name": "com.youlu.newapp",
+        "file_name": "com.youlu.newapp_186.apk",
+        "app_activity": "com.youlu.newapp.activity.guide.GuideActivity"
+    },
+    {
+        "app_name": "DayDay日记",
+        "package_name": "cn.yoozoo.mob.DayDay",
+        "file_name": "cn.yoozoo.mob.DayDay_187.apk",
+        "app_activity": "cn.yoozoo.mob.DayDay.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "卡片笔记",
+        "package_name": "cards.putin.box",
+        "file_name": "cards.putin.box_188.apk",
+        "app_activity": "collect.card.inbox.cardinbox.MainActivity"
+    },
+    {
+        "app_name": "知拾笔记",
+        "package_name": "com.start.now",
+        "file_name": "com.start.now_189.apk",
+        "app_activity": "com.start.now.modules.main.MainActivity"
+    },
+    {
+        "app_name": "手记",
+        "package_name": "cc.studio97.txt",
+        "file_name": "cc.studio97.txt_190.apk",
+        "app_activity": "cc.studio97.txt.MainActivity"
+    },
+    {
+        "app_name": "映像笔记",
+        "package_name": "com.xiangyin.note",
+        "file_name": "com.xiangyin.note_191.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "Benmi Write",
+        "package_name": "com.olicom.benminote",
+        "file_name": "com.olicom.benminote_192.apk",
+        "app_activity": "com.olicom.benminote.ui.StartActivity"
+    },
+    {
+        "app_name": "Note-it",
+        "package_name": "com.yinxiang.lightnote",
+        "file_name": "com.yinxiang.lightnote_193.apk",
+        "app_activity": "com.evernote.ui.HomeActivity"
+    },
+    {
+        "app_name": "简约思维",
+        "package_name": "com.cloudsea.mindmap",
+        "file_name": "com.cloudsea.mindmap_194.apk",
+        "app_activity": "com.cloudsea.mindmap.activity.SplashActivity"
+    },
+    {
+        "app_name": "时间清单",
+        "package_name": "com.weigaitech.time",
+        "file_name": "com.weigaitech.time_195.apk",
+        "app_activity": "com.weigaitech.time.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "日常手帐",
+        "package_name": "com.ricseffs.shouz",
+        "file_name": "com.ricseffs.shouz_196.apk",
+        "app_activity": "com.zy.app.devappcollection.SplashActivity"
+    },
+    {
+        "app_name": "云笔记",
+        "package_name": "com.yunbiji.cloudnotes",
+        "file_name": "com.yunbiji.cloudnotes_197.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "账号本子",
+        "package_name": "com.wei.account",
+        "file_name": "com.wei.account_198.apk",
+        "app_activity": "com.wei.accountbox.activity.MainActivity"
+    },
+    {
+        "app_name": "阅读笔记本",
+        "package_name": "com.hfdosjh.oj",
+        "file_name": "com.hfdosjh.oj_199.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "记录全能王",
+        "package_name": "com.hecv.jlqnw",
+        "file_name": "com.hecv.jlqnw_200.apk",
+        "app_activity": "com.guzhen.main.LaunchActivity"
+    },
+    {
+        "app_name": "Notewise",
+        "package_name": "com.yygg.note.app",
+        "file_name": "com.yygg.note.app_201.apk",
+        "app_activity": "com.yygg.note.app.home.HomeActivity"
+    },
+    {
+        "app_name": "CatNote",
+        "package_name": "com.catnote",
+        "file_name": "com.catnote_202.apk",
+        "app_activity": "com.catnote.MainActivity"
+    },
+    {
+        "app_name": "OneDiary",
+        "package_name": "com.skybluetime.idiary",
+        "file_name": "com.skybluetime.idiary_203.apk",
+        "app_activity": "com.skybluetime.idiary.MainActivity"
+    },
+    {
+        "app_name": "备忘录记事",
+        "package_name": "notepad.beiwang.jishi",
+        "file_name": "notepad.beiwang.jishi_204.apk",
+        "app_activity": "qnet.note.app.QnetStartActivity"
+    },
+    {
+        "app_name": "密码日记本",
+        "package_name": "com.riji100.lj",
+        "file_name": "com.riji100.lj_205.apk",
+        "app_activity": "com.zy.app.mooddiary.activity.LauncherActivity"
+    },
+    {
+        "app_name": "吉光片羽",
+        "package_name": "com.lingwei.pianyu",
+        "file_name": "com.lingwei.pianyu_206.apk",
+        "app_activity": "com.lingwei.pianyu.MainActivity"
+    },
+    {
+        "app_name": "日刻",
+        "package_name": "com.kairos.thinkdiary",
+        "file_name": "com.kairos.thinkdiary_207.apk",
+        "app_activity": "com.kairos.thinkdiary.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "纯纯周记",
+        "package_name": "com.guangyu.weekNote",
+        "file_name": "com.guangyu.weekNote_208.apk",
+        "app_activity": "com.guangyu.weekNote.MainActivity"
+    },
+    {
+        "app_name": "flomo浮墨笔记",
+        "package_name": "com.flomo.app",
+        "file_name": "com.flomo.app_209.apk",
+        "app_activity": "com.flomo.app.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "由美的便签",
+        "package_name": "com.krniu.memos",
+        "file_name": "com.krniu.memos_210.apk",
+        "app_activity": "com.krniu.memos.global.activity.SplashActivity"
+    },
+    {
+        "app_name": "罐头日记",
+        "package_name": "com.krniu.notes",
+        "file_name": "com.krniu.notes_211.apk",
+        "app_activity": "com.krniu.notes.global.activity.SplashActivity"
+    },
+    {
+        "app_name": "轻语记智能记事本",
+        "package_name": "com.czenergy.noteapp",
+        "file_name": "com.czenergy.noteapp_212.apk",
+        "app_activity": "com.czenergy.noteapp.m00_launch.SplashActivity"
+    },
+    {
+        "app_name": "悬浮速记器",
+        "package_name": "com.sudian.sdfloatnote",
+        "file_name": "com.sudian.sdfloatnote_213.apk",
+        "app_activity": "com.sudian.sdfloatnote.AD.AppFirstActivity"
+    },
+    {
+        "app_name": "今日事笔记",
+        "package_name": "com.beeteker.today",
+        "file_name": "com.beeteker.today_214.apk",
+        "app_activity": "com.beeteker.user.SplashActivity"
+    },
+    {
+        "app_name": "Minimal Diary",
+        "package_name": "com.mad.android.minimaldaily",
+        "file_name": "com.mad.android.minimaldaily_215.apk",
+        "app_activity": "com.mad.android.minimaldaily.MainActivity"
+    },
+    {
+        "app_name": "可爱喵喵手帐",
+        "package_name": "cn.weixiaowenghua.sz",
+        "file_name": "cn.weixiaowenghua.sz_216.apk",
+        "app_activity": "cn.weixiaowenghua.sz.ui.common.CommonLauncherActivity"
+    },
+    {
+        "app_name": "Jnotes",
+        "package_name": "com.jideos.jnotes",
+        "file_name": "com.jideos.jnotes_217.apk",
+        "app_activity": "com.jideos.module_start.common.ui.StartActivity"
+    },
+    {
+        "app_name": "糖糖手帐",
+        "package_name": "com.tjrd.ttdiary",
+        "file_name": "com.tjrd.ttdiary_218.apk",
+        "app_activity": "com.ltmb.ttsz.WelcomeActivity"
+    },
+    {
+        "app_name": "手写笔记",
+        "package_name": "com.writenote.dailyzy",
+        "file_name": "com.writenote.dailyzy_219.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    }
+]
