@@ -1,0 +1,2582 @@
+[
+    {
+        "app_name": "师傅来了",
+        "package_name": "com.yuanli.shifucomes",
+        "file_name": "com.yuanli.shifucomes_1.apk",
+        "app_activity": "com.yuanli.shifucomes.mvp.ui.activity.FlashScreenActivity"
+    },
+    {
+        "app_name": "壹品装修",
+        "package_name": "com.domain.jyq",
+        "file_name": "com.domain.jyq_2.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "法恩智家",
+        "package_name": "com.faenza.aiot",
+        "file_name": "com.faenza.aiot_3.apk",
+        "app_activity": "com.faenza.aiot.MainActivity"
+    },
+    {
+        "app_name": "欧普智慧灯光",
+        "package_name": "com.sigboat.opple",
+        "file_name": "com.sigboat.opple_4.apk",
+        "app_activity": "com.opple.light.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "铭品云装",
+        "package_name": "io.dcloud.mpyz",
+        "file_name": "io.dcloud.mpyz_5.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "Vaillant Plus",
+        "package_name": "com.vaillant.migolinesdbg",
+        "file_name": "com.vaillant.migolinesdbg_6.apk",
+        "app_activity": "com.vaillant.migolinesdbg.MainActivity"
+    },
+    {
+        "app_name": "eWeLink",
+        "package_name": "com.coolkit",
+        "file_name": "com.coolkit_7.apk",
+        "app_activity": "com.coolkit.SplashActivity"
+    },
+    {
+        "app_name": "WULIAN",
+        "package_name": "com.wlinkapp",
+        "file_name": "com.wlinkapp_8.apk",
+        "app_activity": "com.wlinkapp.MainActivity"
+    },
+    {
+        "app_name": "星智家",
+        "package_name": "cn.com.newbest.smarthomestarbay",
+        "file_name": "cn.com.newbest.smarthomestarbay_9.apk",
+        "app_activity": "com.community_app.MainActivity"
+    },
+    {
+        "app_name": "呆鸡哥商家版找安装师傅",
+        "package_name": "daijige.merchant",
+        "file_name": "daijige.merchant_10.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "睿住天工",
+        "package_name": "com.remac.smart.tg",
+        "file_name": "com.remac.smart.tg_11.apk",
+        "app_activity": "com.midea.smart.tg.view.activity.TgSplashActivity"
+    },
+    {
+        "app_name": "前图智能",
+        "package_name": "com.qiantu.phone",
+        "file_name": "com.qiantu.phone_12.apk",
+        "app_activity": "com.qiantu.phone.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "呆鸡哥师傅接单版",
+        "package_name": "daijige.sfuser",
+        "file_name": "daijige.sfuser_13.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "装好付",
+        "package_name": "hn.zhf.app",
+        "file_name": "hn.zhf.app_14.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "齐家装修",
+        "package_name": "com.qijia.o2o",
+        "file_name": "com.qijia.o2o_15.apk",
+        "app_activity": "com.jia.zixun.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "NVC Smart",
+        "package_name": "com.nvc.lighting.smart",
+        "file_name": "com.nvc.lighting.smart_16.apk",
+        "app_activity": "com.smart.ThingSplashActivity"
+    },
+    {
+        "app_name": "吾家智能",
+        "package_name": "com.peiyangiot.smarthome",
+        "file_name": "com.peiyangiot.smarthome_17.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "月球理想家",
+        "package_name": "com.lunahome.app",
+        "file_name": "com.lunahome.app_18.apk",
+        "app_activity": "com.lunahome.app.MainActivity"
+    },
+    {
+        "app_name": "快购家居",
+        "package_name": "com.zhkj.kgjz",
+        "file_name": "com.zhkj.kgjz_19.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "isHome",
+        "package_name": "com.zasd.ishome",
+        "file_name": "com.zasd.ishome_20.apk",
+        "app_activity": "com.zasd.ishome.SplashActivity"
+    },
+    {
+        "app_name": "uLamp",
+        "package_name": "com.uascent.ulamp",
+        "file_name": "com.uascent.ulamp_21.apk",
+        "app_activity": "cn.com.uascent.iot.light.pages.main.SplashActivity"
+    },
+    {
+        "app_name": "统筑云",
+        "package_name": "com.tzy.information",
+        "file_name": "com.tzy.information_22.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "万智家",
+        "package_name": "com.vanrui.vhomepro",
+        "file_name": "com.vanrui.vhomepro_23.apk",
+        "app_activity": "com.vanrui.vhomepro.ui.component.splash.SplashActivity"
+    },
+    {
+        "app_name": "左右手师傅端",
+        "package_name": "com.lil.yjj.ntv",
+        "file_name": "com.lil.yjj.ntv_24.apk",
+        "app_activity": "com.zys.master_app.MainActivity"
+    },
+    {
+        "app_name": "工匠云获客",
+        "package_name": "com.winfoc.li.dyzx",
+        "file_name": "com.winfoc.li.dyzx_25.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "瓦当",
+        "package_name": "com.yunluokeji.wadang",
+        "file_name": "com.yunluokeji.wadang_26.apk",
+        "app_activity": "com.yunluokeji.wadang.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "一尺美家",
+        "package_name": "com.decorate.ycmj",
+        "file_name": "com.decorate.ycmj_27.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "住逻辑家居",
+        "package_name": "com.banlan.zhulogicpro",
+        "file_name": "com.banlan.zhulogicpro_28.apk",
+        "app_activity": "com.banlan.zhulogicpro.activity.StartActivity"
+    },
+    {
+        "app_name": "金基科技",
+        "package_name": "com.zywulian.smartlife.kingee",
+        "file_name": "com.zywulian.smartlife.kingee_29.apk",
+        "app_activity": "com.zywulian.smartlife.ui.splash.RootActivity"
+    },
+    {
+        "app_name": "睿住社区",
+        "package_name": "com.mideazy.remac.community",
+        "file_name": "com.mideazy.remac.community_30.apk",
+        "app_activity": "com.midea.smart.community.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "贝克洛智慧生活",
+        "package_name": "com.bucalu.bucaluSmart",
+        "file_name": "com.bucalu.bucaluSmart_31.apk",
+        "app_activity": "com.wisdomapp_customization.MainActivity"
+    },
+    {
+        "app_name": "VeSync",
+        "package_name": "com.etekcity.vesynccn",
+        "file_name": "com.etekcity.vesynccn_32.apk",
+        "app_activity": "com.etekcity.vesynccn.LauncherActivity"
+    },
+    {
+        "app_name": "开工易",
+        "package_name": "com.kaigongyi",
+        "file_name": "com.kaigongyi_33.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "过家家",
+        "package_name": "com.gjj.user",
+        "file_name": "com.gjj.user_34.apk",
+        "app_activity": "com.gjj.user.biz.splash.SplashActivity"
+    },
+    {
+        "app_name": "智享家",
+        "package_name": "com.lenovo.octopus",
+        "file_name": "com.lenovo.octopus_35.apk",
+        "app_activity": "com.octopus.activity.SplashActivity"
+    },
+    {
+        "app_name": "窗帘宝",
+        "package_name": "com.iot.curtainbot",
+        "file_name": "com.iot.curtainbot_36.apk",
+        "app_activity": "com.iot.curtainbot.feature.splash.SplashActivity"
+    },
+    {
+        "app_name": "蜗牛丁",
+        "package_name": "com.jinzhuangli.app",
+        "file_name": "com.jinzhuangli.app_37.apk",
+        "app_activity": "com.jinzhuangli.app.MainActivity"
+    },
+    {
+        "app_name": "装修获客宝",
+        "package_name": "vip.decorate.guest",
+        "file_name": "vip.decorate.guest_38.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "房子装修设计",
+        "package_name": "vip.decorate.owner",
+        "file_name": "vip.decorate.owner_39.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "汇装秀",
+        "package_name": "com.hzx.app",
+        "file_name": "com.hzx.app_40.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "WisApartment",
+        "package_name": "com.hxgongyu.smart",
+        "file_name": "com.hxgongyu.smart_41.apk",
+        "app_activity": "com.hxapartment.smart.activity.LauncherActivity"
+    },
+    {
+        "app_name": "Culligan Link",
+        "package_name": "com.culliganchina.smart",
+        "file_name": "com.culliganchina.smart_42.apk",
+        "app_activity": "com.ty.industry.splash.IndustrySplashActivity"
+    },
+    {
+        "app_name": "雅观智能",
+        "package_name": "ai.argrace.oem",
+        "file_name": "ai.argrace.oem_43.apk",
+        "app_activity": "ai.argrace.app.akeeta.main.Akeeta_SplashActivity"
+    },
+    {
+        "app_name": "冒泡联联",
+        "package_name": "com.jeejio.maopao",
+        "file_name": "com.jeejio.maopao_44.apk",
+        "app_activity": "com.jeejio.maopao.login.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "HiCloudiot",
+        "package_name": "cn.net.hisource.cloud",
+        "file_name": "cn.net.hisource.cloud_45.apk",
+        "app_activity": "com.hisource.hirouter.MainActivity"
+    },
+    {
+        "app_name": "掌柜优服",
+        "package_name": "com.zgyf.vendor",
+        "file_name": "com.zgyf.vendor_46.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "ZXFANS智有范",
+        "package_name": "com.lolai.smarthome",
+        "file_name": "com.lolai.smarthome_47.apk",
+        "app_activity": "com.example.smart_home_v2.MainActivity"
+    },
+    {
+        "app_name": "全屋智能管家",
+        "package_name": "com.quanwuzhineng.app",
+        "file_name": "com.quanwuzhineng.app_48.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "智能照明",
+        "package_name": "com.eastsoft.intelligentlight",
+        "file_name": "com.eastsoft.intelligentlight_49.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "快尺",
+        "package_name": "xilu.lvyin",
+        "file_name": "xilu.lvyin_50.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "建跃网",
+        "package_name": "ad.jianyuewang.uni",
+        "file_name": "ad.jianyuewang.uni_51.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "乡住",
+        "package_name": "com.xiangzhu.countrysidehouseandriod",
+        "file_name": "com.xiangzhu.countrysidehouseandriod_52.apk",
+        "app_activity": "com.xiangzhu.countrysidehouseandriod.home.HomeActivity"
+    },
+    {
+        "app_name": "mBox",
+        "package_name": "com.rw.mbox",
+        "file_name": "com.rw.mbox_53.apk",
+        "app_activity": "com.rw.mbox.SplashActivity"
+    },
+    {
+        "app_name": "曼顿电博士",
+        "package_name": "com.hgj.activity",
+        "file_name": "com.hgj.activity_54.apk",
+        "app_activity": "com.hgj.activity.Appstart"
+    },
+    {
+        "app_name": "装修工人接单",
+        "package_name": "vip.dea.worker",
+        "file_name": "vip.dea.worker_55.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "小象班班",
+        "package_name": "com.xiaoxiangbanban.merchant",
+        "file_name": "com.xiaoxiangbanban.merchant_56.apk",
+        "app_activity": "com.xiaoxiangbanban.merchant.module.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "anthouse",
+        "package_name": "at.gateway.phone.xiaoyi",
+        "file_name": "at.gateway.phone.xiaoyi_57.apk",
+        "app_activity": "at.gateway.phone.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "叫我修吧技术端",
+        "package_name": "com.nicemaking.o2orepairtech",
+        "file_name": "com.nicemaking.o2orepairtech_58.apk",
+        "app_activity": "com.nicemaking.o2orepairtech.view.login.activity.SplashActivity"
+    },
+    {
+        "app_name": "爱星物联",
+        "package_name": "com.aithinker.iot.aihome",
+        "file_name": "com.aithinker.iot.aihome_59.apk",
+        "app_activity": "com.aithinker.iot.aihome.MainActivity"
+    },
+    {
+        "app_name": "美墅",
+        "package_name": "com.uphom.house",
+        "file_name": "com.uphom.house_60.apk",
+        "app_activity": "com.unity3d.player.UnityPlayerActivity"
+    },
+    {
+        "app_name": "UControl",
+        "package_name": "com.schideron.ucontrol",
+        "file_name": "com.schideron.ucontrol_61.apk",
+        "app_activity": "com.schideron.ucontrol.activities.SplashActivity"
+    },
+    {
+        "app_name": "初冠智能",
+        "package_name": "com.chuguan.chuguansmart",
+        "file_name": "com.chuguan.chuguansmart_62.apk",
+        "app_activity": "com.chuguan.chuguansmart.View.WelcomeActivity"
+    },
+    {
+        "app_name": "LUFFABENZPRO3",
+        "package_name": "com.ore.jalon.lufudeandroid",
+        "file_name": "com.ore.jalon.lufudeandroid_63.apk",
+        "app_activity": "com.example.jalon.lufudeandroid.activity.SpalashActivity"
+    },
+    {
+        "app_name": "服务美的通",
+        "package_name": "com.midea.out.css",
+        "file_name": "com.midea.out.css_64.apk",
+        "app_activity": "com.meicloud.start.activity.SplashActivity"
+    },
+    {
+        "app_name": "沐谷",
+        "package_name": "com.mugooo.apps.mugu",
+        "file_name": "com.mugooo.apps.mugu_65.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "德施曼智能",
+        "package_name": "com.dsm.secondlock",
+        "file_name": "com.dsm.secondlock_66.apk",
+        "app_activity": "com.dsm.secondlock.splash.SplashActivity"
+    },
+    {
+        "app_name": "Smart Home",
+        "package_name": "com.hune.bluetoothlock",
+        "file_name": "com.hune.bluetoothlock_67.apk",
+        "app_activity": "com.hune.bluetoothlock.Welcome"
+    },
+    {
+        "app_name": "土巴兔装修设计软件",
+        "package_name": "com.to8to.assistant.activity",
+        "file_name": "com.to8to.assistant.activity_68.apk",
+        "app_activity": "com.to8to.assistant.activity.MainActivity"
+    },
+    {
+        "app_name": "汇泰龙智家",
+        "package_name": "com.hutlon.hutlonhome",
+        "file_name": "com.hutlon.hutlonhome_69.apk",
+        "app_activity": "com.gwcd.airplug.SplashActivity"
+    },
+    {
+        "app_name": "住范儿",
+        "package_name": "com.zhufaner.newapp",
+        "file_name": "com.zhufaner.newapp_70.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "狮盾智能",
+        "package_name": "com.zhongshan.shidun",
+        "file_name": "com.zhongshan.shidun_71.apk",
+        "app_activity": "com.mxchip.mxapp.ui.StartActivity"
+    },
+    {
+        "app_name": "MOMAX Smart",
+        "package_name": "com.momsmart.lamp",
+        "file_name": "com.momsmart.lamp_72.apk",
+        "app_activity": "com.smart.ThingSplashActivity"
+    },
+    {
+        "app_name": "Smart Bed",
+        "package_name": "com.okin.bedding.smartbedwifi",
+        "file_name": "com.okin.bedding.smartbedwifi_73.apk",
+        "app_activity": "com.okin.bedding.smartbedwifi.activity.SplashActivity"
+    },
+    {
+        "app_name": "robocat",
+        "package_name": "com.ldrobot.csjsweeper",
+        "file_name": "com.ldrobot.csjsweeper_74.apk",
+        "app_activity": "com.aliyun.iot.ilop.demo.login.StartActivity"
+    },
+    {
+        "app_name": "迈科智家",
+        "package_name": "com.goTech.MKSmartHome",
+        "file_name": "com.goTech.MKSmartHome_75.apk",
+        "app_activity": "com.gotech.mksmarthome.ui.flash.FlashActivity"
+    },
+    {
+        "app_name": "知梦",
+        "package_name": "com.serta.smartbed",
+        "file_name": "com.serta.smartbed_76.apk",
+        "app_activity": "com.serta.smartbed.login.SplashActivity"
+    },
+    {
+        "app_name": "亚度数字整装",
+        "package_name": "cn.ardu.cloud.renovationdigital",
+        "file_name": "cn.ardu.cloud.renovationdigital_77.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "极景爱家",
+        "package_name": "com.viewmax.aijia2.flutter.host",
+        "file_name": "com.viewmax.aijia2.flutter.host_78.apk",
+        "app_activity": "com.viewmax.aijia2.MainActivity"
+    },
+    {
+        "app_name": "伊维智能",
+        "package_name": "com.ik.plat",
+        "file_name": "com.ik.plat_79.apk",
+        "app_activity": "com.ik.plat.StartActivity"
+    },
+    {
+        "app_name": "星享租",
+        "package_name": "com.zxshare.app",
+        "file_name": "com.zxshare.app_80.apk",
+        "app_activity": "com.zxshare.base.WelcomeActivity"
+    },
+    {
+        "app_name": "智能控制",
+        "package_name": "com.smartisys.smarttouchj",
+        "file_name": "com.smartisys.smarttouchj_81.apk",
+        "app_activity": "com.smartisys.smarttouchj.MainActivity"
+    },
+    {
+        "app_name": "云装天下",
+        "package_name": "com.mobile.cloudcubic",
+        "file_name": "com.mobile.cloudcubic_82.apk",
+        "app_activity": "com.mobile.cloudcubic.WaitForActivity"
+    },
+    {
+        "app_name": "装修师",
+        "package_name": "com.mj.workerunion",
+        "file_name": "com.mj.workerunion_83.apk",
+        "app_activity": "com.mj.workerunion.SplashActivity"
+    },
+    {
+        "app_name": "ORVIBO Home",
+        "package_name": "com.orvibo.homemate",
+        "file_name": "com.orvibo.homemate_84.apk",
+        "app_activity": "com.orvibo.homemate.common.launch.LaunchActivity"
+    },
+    {
+        "app_name": "智链惠家",
+        "package_name": "com.shbx.zlhj",
+        "file_name": "com.shbx.zlhj_85.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "MOVAhome",
+        "package_name": "com.dreame.movahome",
+        "file_name": "com.dreame.movahome_86.apk",
+        "app_activity": "com.dreame.movahome.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "太空小值",
+        "package_name": "com.app.smart.babycam",
+        "file_name": "com.app.smart.babycam_87.apk",
+        "app_activity": "com.zhidekan.smartlife.main.SplashActivity"
+    },
+    {
+        "app_name": "卡特加特",
+        "package_name": "com.tongtong646645266.kgd",
+        "file_name": "com.tongtong646645266.kgd_88.apk",
+        "app_activity": "com.tongtong646645266.kgd.startup.StartupActivity"
+    },
+    {
+        "app_name": "明珠智家",
+        "package_name": "com.hzureal.jsmz",
+        "file_name": "com.hzureal.jsmz_89.apk",
+        "app_activity": "com.hzureal.jsmz.activity.login.InitActivity"
+    },
+    {
+        "app_name": "ManNiu",
+        "package_name": "com.manniu.camera",
+        "file_name": "com.manniu.camera_90.apk",
+        "app_activity": "com.manniu.camera.MainActivity"
+    },
+    {
+        "app_name": "住小帮",
+        "package_name": "com.ss.android.homed",
+        "file_name": "com.ss.android.homed_91.apk",
+        "app_activity": "com.ss.android.homed.SplashActivity"
+    },
+    {
+        "app_name": "袋鼠装修",
+        "package_name": "com.winfoc.li.ds",
+        "file_name": "com.winfoc.li.ds_92.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "铁住装修",
+        "package_name": "com.winfoc.li.tz",
+        "file_name": "com.winfoc.li.tz_93.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "好管家HOUSEGRAND+",
+        "package_name": "com.zchjds.housegrand",
+        "file_name": "com.zchjds.housegrand_94.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "屯粮积草商家",
+        "package_name": "com.tljcbusiness",
+        "file_name": "com.tljcbusiness_95.apk",
+        "app_activity": "com.tljcbusiness.MainActivity"
+    },
+    {
+        "app_name": "南虹精灵",
+        "package_name": "com.hzureal.nhhom",
+        "file_name": "com.hzureal.nhhom_96.apk",
+        "app_activity": "com.hzureal.nhhom.activity.login.InitActivity"
+    },
+    {
+        "app_name": "Dolphin Smart",
+        "package_name": "com.dqiot.tool.dolphin",
+        "file_name": "com.dqiot.tool.dolphin_97.apk",
+        "app_activity": "com.dqiot.tool.dolphin.home.activity.StarActivity"
+    },
+    {
+        "app_name": "装修设计案例",
+        "package_name": "com.zhuangku.seofast",
+        "file_name": "com.zhuangku.seofast_98.apk",
+        "app_activity": "com.zhuangku.seofast.app.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "钜士智能",
+        "package_name": "com.jushi.smart",
+        "file_name": "com.jushi.smart_99.apk",
+        "app_activity": "com.jushi.smart.activity.LoginChooseActivity"
+    },
+    {
+        "app_name": "旷远e家",
+        "package_name": "com.ppandroid.kuangyuanapp",
+        "file_name": "com.ppandroid.kuangyuanapp_100.apk",
+        "app_activity": "com.ppandroid.kuangyuanapp.LauncherActivity"
+    },
+    {
+        "app_name": "适景光",
+        "package_name": "com.panasonic.BleLight",
+        "file_name": "com.panasonic.BleLight_101.apk",
+        "app_activity": "com.panasonic.BleLight.ui.start.StartActivity"
+    },
+    {
+        "app_name": "航邦智能",
+        "package_name": "com.hbang.smarthome",
+        "file_name": "com.hbang.smarthome_102.apk",
+        "app_activity": "com.hbang.smarthome.activity.LoginChooseActivity"
+    },
+    {
+        "app_name": "装修格子",
+        "package_name": "com.webaner.app",
+        "file_name": "com.webaner.app_103.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "慧科技",
+        "package_name": "www.witech.app01.com",
+        "file_name": "www.witech.app01.com_104.apk",
+        "app_activity": "www.witech.app01.com.MainActivity"
+    },
+    {
+        "app_name": "觅活",
+        "package_name": "uni.UNIC86B2B9",
+        "file_name": "uni.UNIC86B2B9_105.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "合胜建筑",
+        "package_name": "com.heshengjianzhu.hsjz",
+        "file_name": "com.heshengjianzhu.hsjz_106.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "当家",
+        "package_name": "com.weixin.fengjiangit.dangjiaapp",
+        "file_name": "com.weixin.fengjiangit.dangjiaapp_107.apk",
+        "app_activity": "com.weixin.fengjiangit.dangjiaapp.ui.thread.activity.TaskRootActivity"
+    },
+    {
+        "app_name": "百安居",
+        "package_name": "com.baianju.yonghu",
+        "file_name": "com.baianju.yonghu_108.apk",
+        "app_activity": "com.membermarket.LauncherActivity"
+    },
+    {
+        "app_name": "曼顿电博士Pro",
+        "package_name": "com.mtyunbs.activity",
+        "file_name": "com.mtyunbs.activity_109.apk",
+        "app_activity": "com.mtyunbs.activity.MainActivity"
+    },
+    {
+        "app_name": "零狗智能",
+        "package_name": "com.phnixiot.homecontroller",
+        "file_name": "com.phnixiot.homecontroller_110.apk",
+        "app_activity": "com.phnixiot.homecontroller.SplashActivity"
+    },
+    {
+        "app_name": "天诚百微",
+        "package_name": "com.smartlifev30",
+        "file_name": "com.smartlifev30_111.apk",
+        "app_activity": "com.smartlifev30.SplashActivity"
+    },
+    {
+        "app_name": "装修管家",
+        "package_name": "com.to8to.decoration_house",
+        "file_name": "com.to8to.decoration_house_112.apk",
+        "app_activity": "com.to8to.decoration_house.MainActivity"
+    },
+    {
+        "app_name": "Cololight",
+        "package_name": "com.ilifesmart.quantum",
+        "file_name": "com.ilifesmart.quantum_113.apk",
+        "app_activity": "com.ilifesmart.quantum.MainActivity"
+    },
+    {
+        "app_name": "万能师傅",
+        "package_name": "cn.powerful.zhicube",
+        "file_name": "cn.powerful.zhicube_114.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "K-Smart",
+        "package_name": "com.kste.smart",
+        "file_name": "com.kste.smart_115.apk",
+        "app_activity": "com.smart.ThingSplashActivity"
+    },
+    {
+        "app_name": "Smavlink",
+        "package_name": "com.jxj.zhsl.app",
+        "file_name": "com.jxj.zhsl.app_116.apk",
+        "app_activity": "com.ilatte.xcam.SplashActivity"
+    },
+    {
+        "app_name": "Eastsoft 家庭",
+        "package_name": "com.eastsoftrn",
+        "file_name": "com.eastsoftrn_117.apk",
+        "app_activity": "com.eastsoftrn.MainActivity"
+    },
+    {
+        "app_name": "Smart Industry",
+        "package_name": "com.smart.industry",
+        "file_name": "com.smart.industry_118.apk",
+        "app_activity": "com.ty.industry.splash.IndustrySplashActivity"
+    },
+    {
+        "app_name": "装修体验馆",
+        "package_name": "com.to8to.zxtyg",
+        "file_name": "com.to8to.zxtyg_119.apk",
+        "app_activity": "com.to8to.zxtyg.MainActivity"
+    },
+    {
+        "app_name": "超级智慧家",
+        "package_name": "com.uiot.smarthome.pro",
+        "file_name": "com.uiot.smarthome.pro_120.apk",
+        "app_activity": "com.uiot.smarthome.pro.splash.SplashActivity"
+    },
+    {
+        "app_name": "云邻e家",
+        "package_name": "com.mideadc.smartlife",
+        "file_name": "com.mideadc.smartlife_121.apk",
+        "app_activity": "com.midea.smart.home.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "Kangte Home",
+        "package_name": "com.kangte.app",
+        "file_name": "com.kangte.app_122.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "星空装修",
+        "package_name": "com.gdinkt.shikets",
+        "file_name": "com.gdinkt.shikets_123.apk",
+        "app_activity": "com.fwlst.module_splash.SplashActivity"
+    },
+    {
+        "app_name": "USmart Go",
+        "package_name": "com.kiwik.usmartgo",
+        "file_name": "com.kiwik.usmartgo_124.apk",
+        "app_activity": "com.kiwik.usmartgo.MainActivity"
+    },
+    {
+        "app_name": "土巴兔装修",
+        "package_name": "com.to8to.housekeeper",
+        "file_name": "com.to8to.housekeeper_125.apk",
+        "app_activity": "com.to8to.housekeeper.TLaunchActivity"
+    },
+    {
+        "app_name": "云半径",
+        "package_name": "com.itlong.wanglife",
+        "file_name": "com.itlong.wanglife_126.apk",
+        "app_activity": "com.itlong.wanglife.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "禾木看看",
+        "package_name": "com.hemuvision.hemusee",
+        "file_name": "com.hemuvision.hemusee_127.apk",
+        "app_activity": "com.hemuvision.hemusee.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "货空间",
+        "package_name": "m.huokongjian.net",
+        "file_name": "m.huokongjian.net_128.apk",
+        "app_activity": "com.lt.app.MainActivity"
+    },
+    {
+        "app_name": "星喵i家",
+        "package_name": "com.wasu.xmijia",
+        "file_name": "com.wasu.xmijia_129.apk",
+        "app_activity": "com.wasu.xmijia.SplashActivity"
+    },
+    {
+        "app_name": "信用家装修",
+        "package_name": "com.xyj.zxxyj_app",
+        "file_name": "com.xyj.zxxyj_app_130.apk",
+        "app_activity": "com.xyj.zxxyj_app.MainActivity"
+    },
+    {
+        "app_name": "Unities Home",
+        "package_name": "com.unities.smart",
+        "file_name": "com.unities.smart_131.apk",
+        "app_activity": "com.smart.ThingSplashActivity"
+    },
+    {
+        "app_name": "土巴兔商家",
+        "package_name": "com.to8to.renovationcompany",
+        "file_name": "com.to8to.renovationcompany_132.apk",
+        "app_activity": "com.to8to.renovationcompany.LauncherActivity"
+    },
+    {
+        "app_name": "金制空气",
+        "package_name": "com.daikin.intelligentNewLifeMulti.app",
+        "file_name": "com.daikin.intelligentNewLifeMulti.app_133.apk",
+        "app_activity": "com.daikin.inls.ui.SplashActivity"
+    },
+    {
+        "app_name": "易事包",
+        "package_name": "com.rykj.qzdg",
+        "file_name": "com.rykj.qzdg_134.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "清风宝",
+        "package_name": "com.qingfengbao",
+        "file_name": "com.qingfengbao_135.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "鼎师傅",
+        "package_name": "android.dingmaster.com",
+        "file_name": "android.dingmaster.com_136.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "智慧用电 Pro",
+        "package_name": "com.mtyunyd.activity",
+        "file_name": "com.mtyunyd.activity_137.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "Smart Construction",
+        "package_name": "com.oneconstruction.smart",
+        "file_name": "com.oneconstruction.smart_138.apk",
+        "app_activity": "com.smart.ThingSplashActivity"
+    },
+    {
+        "app_name": "歌华慧家",
+        "package_name": "com.bgctv.smartlife",
+        "file_name": "com.bgctv.smartlife_139.apk",
+        "app_activity": "com.bgctv.smartlife.camera.activity.SplashActivity"
+    },
+    {
+        "app_name": "岚智家",
+        "package_name": "cn.qinglan.landsmarthome",
+        "file_name": "cn.qinglan.landsmarthome_140.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "XLink",
+        "package_name": "com.xlink.b",
+        "file_name": "com.xlink.b_141.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "人人装",
+        "package_name": "com.android.rrz",
+        "file_name": "com.android.rrz_142.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "前锋智慧家",
+        "package_name": "qianfengapp.v1",
+        "file_name": "qianfengapp.v1_143.apk",
+        "app_activity": "com.smart.ThingSplashActivity"
+    },
+    {
+        "app_name": "买板材",
+        "package_name": "com.maibancai.app",
+        "file_name": "com.maibancai.app_144.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "西顿智能",
+        "package_name": "com.cdn.smart",
+        "file_name": "com.cdn.smart_145.apk",
+        "app_activity": "com.smart.ThingSplashActivity"
+    },
+    {
+        "app_name": "OB Smart",
+        "package_name": "com.ob.obsmarthouse",
+        "file_name": "com.ob.obsmarthouse_146.apk",
+        "app_activity": "com.ob.obsmarthouse.common.act.SplashActivity"
+    },
+    {
+        "app_name": "芝华仕",
+        "package_name": "com.ore.jalon.cheersandroid",
+        "file_name": "com.ore.jalon.cheersandroid_147.apk",
+        "app_activity": "com.example.jalon.cheersandroid.activity.SpalashActivity"
+    },
+    {
+        "app_name": "Yi-Lock",
+        "package_name": "com.fingercrystal.xiaoyi",
+        "file_name": "com.fingercrystal.xiaoyi_148.apk",
+        "app_activity": "com.fingercrystal.smarthome.home.activity.FlashActivity"
+    },
+    {
+        "app_name": "零洞",
+        "package_name": "cn.lingdong.android.rn.ldapp",
+        "file_name": "cn.lingdong.android.rn.ldapp_149.apk",
+        "app_activity": "cn.lingdong.android.rn.ldapp.MainActivity"
+    },
+    {
+        "app_name": "天成智联",
+        "package_name": "com.tczl",
+        "file_name": "com.tczl_150.apk",
+        "app_activity": "com.tczl.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "数联智能",
+        "package_name": "com.het.slznapp",
+        "file_name": "com.het.slznapp_151.apk",
+        "app_activity": "com.het.slznapp.activity.SplashActivity"
+    },
+    {
+        "app_name": "舒适智联",
+        "package_name": "com.hzureal.intelligent",
+        "file_name": "com.hzureal.intelligent_152.apk",
+        "app_activity": "com.hzureal.intelligent.activity.login.InitActivity"
+    },
+    {
+        "app_name": "门禁卡",
+        "package_name": "example.guomen",
+        "file_name": "example.guomen_153.apk",
+        "app_activity": "example.guomen.MainActivity"
+    },
+    {
+        "app_name": "U_e_Home",
+        "package_name": "com.ikecin.uehome",
+        "file_name": "com.ikecin.uehome_154.apk",
+        "app_activity": "com.ikecin.app.activity.SplashActivity"
+    },
+    {
+        "app_name": "装酷装修",
+        "package_name": "com.zhuangku.app",
+        "file_name": "com.zhuangku.app_155.apk",
+        "app_activity": "com.zhuangku.app.ui.SplashActivity"
+    },
+    {
+        "app_name": "Jedver",
+        "package_name": "com.jedver.smarthome",
+        "file_name": "com.jedver.smarthome_156.apk",
+        "app_activity": "com.yhp.jedver.ui.activities.start.StartActivity"
+    },
+    {
+        "app_name": "Smart Partner",
+        "package_name": "com.geeklink.smart.v2",
+        "file_name": "com.geeklink.smart.v2_157.apk",
+        "app_activity": "com.geeklink.smart.v2.view.main.MainActivity"
+    },
+    {
+        "app_name": "好太太智联",
+        "package_name": "com.hotata.keyoolot",
+        "file_name": "com.hotata.keyoolot_158.apk",
+        "app_activity": "com.hotata.keyoolot.module.main.StartActivity"
+    },
+    {
+        "app_name": "UE Smart",
+        "package_name": "com.ue.smart",
+        "file_name": "com.ue.smart_159.apk",
+        "app_activity": "com.smart.ThingSplashActivity"
+    },
+    {
+        "app_name": "洞窝",
+        "package_name": "com.juranzj.app",
+        "file_name": "com.juranzj.app_160.apk",
+        "app_activity": "com.juranzj.app.ui.main.welcome.SplashActivity"
+    },
+    {
+        "app_name": "全民维修联盟",
+        "package_name": "com.yuanli.maintenanceAlliance",
+        "file_name": "com.yuanli.maintenanceAlliance_161.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "王力智能",
+        "package_name": "com.fbee.smarthome_wl",
+        "file_name": "com.fbee.smarthome_wl_162.apk",
+        "app_activity": "com.fbee.smarthome_wl.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "WGSE",
+        "package_name": "com.wgse.smart",
+        "file_name": "com.wgse.smart_163.apk",
+        "app_activity": "com.smart.ThingSplashActivity"
+    },
+    {
+        "app_name": "TANTRON",
+        "package_name": "com.ttg.smarthome",
+        "file_name": "com.ttg.smarthome_164.apk",
+        "app_activity": "com.ttg.smarthome.activity.start.StartActivity"
+    },
+    {
+        "app_name": "爱空间装修",
+        "package_name": "com.ikongjian.decoration",
+        "file_name": "com.ikongjian.decoration_165.apk",
+        "app_activity": "com.ikongjian.decoration.activity.SplashAc"
+    },
+    {
+        "app_name": "天翼云眼",
+        "package_name": "com.cn21.cloudeyes.pro",
+        "file_name": "com.cn21.cloudeyes.pro_166.apk",
+        "app_activity": "com.cn21.yjpro.app.StartActivity"
+    },
+    {
+        "app_name": "土巴兔建材通",
+        "package_name": "com.to8to.tubusiness",
+        "file_name": "com.to8to.tubusiness_167.apk",
+        "app_activity": "com.to8to.tubusiness.MainActivity"
+    },
+    {
+        "app_name": "京东小家",
+        "package_name": "com.jd.iots",
+        "file_name": "com.jd.iots_168.apk",
+        "app_activity": "com.jd.smart.activity.LoadingActivity"
+    },
+    {
+        "app_name": "栖息地",
+        "package_name": "com.nanshetech.smarthome",
+        "file_name": "com.nanshetech.smarthome_169.apk",
+        "app_activity": "com.aiwl.main.activity.launch.SplashScreenActivity"
+    },
+    {
+        "app_name": "安万家",
+        "package_name": "com.zjxnjz.awj.android",
+        "file_name": "com.zjxnjz.awj.android_170.apk",
+        "app_activity": "com.zjxnjz.awj.android.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "TraneSmart",
+        "package_name": "com.trane.smart",
+        "file_name": "com.trane.smart_171.apk",
+        "app_activity": "com.smart.ThingSplashActivity"
+    },
+    {
+        "app_name": "芬尼好家",
+        "package_name": "com.phnix.iot.goodhome",
+        "file_name": "com.phnix.iot.goodhome_172.apk",
+        "app_activity": "com.phnixiot.homecontroller.SplashActivity"
+    },
+    {
+        "app_name": "Boloni Smart",
+        "package_name": "com.boloni.smartcare",
+        "file_name": "com.boloni.smartcare_173.apk",
+        "app_activity": "com.smart.ThingSplashActivity"
+    },
+    {
+        "app_name": "Michoi",
+        "package_name": "com.michoi.m.smart",
+        "file_name": "com.michoi.m.smart_174.apk",
+        "app_activity": "com.smart.ThingSplashActivity"
+    },
+    {
+        "app_name": "宅品匠",
+        "package_name": "com.zhaipinjiang.benben",
+        "file_name": "com.zhaipinjiang.benben_175.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "先锋智家",
+        "package_name": "com.singfunehs.smart.home",
+        "file_name": "com.singfunehs.smart.home_176.apk",
+        "app_activity": "com.singfunehs.smart.home.MainActivity"
+    },
+    {
+        "app_name": "付哒",
+        "package_name": "paydar.huijinwei",
+        "file_name": "paydar.huijinwei_177.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "火星人智慧厨房",
+        "package_name": "com.topband.marskitchenmobile.app",
+        "file_name": "com.topband.marskitchenmobile.app_178.apk",
+        "app_activity": "com.topband.marskitchenmobile.ui.login.WelcomeActivity"
+    },
+    {
+        "app_name": "晓听智家",
+        "package_name": "com.aispeech.smartiot",
+        "file_name": "com.aispeech.smartiot_179.apk",
+        "app_activity": "com.example.hanshansi.LauncherActivity"
+    },
+    {
+        "app_name": "保仕盾智能",
+        "package_name": "com.boosdon.bsd",
+        "file_name": "com.boosdon.bsd_180.apk",
+        "app_activity": "com.boosdon.bsd.mvp.activity.view.LaunchAgreementActivity"
+    },
+    {
+        "app_name": "立达信",
+        "package_name": "com.iotsolution.leedarson",
+        "file_name": "com.iotsolution.leedarson_181.apk",
+        "app_activity": "com.leedarson.smarthome.ui.JumpActivity"
+    },
+    {
+        "app_name": "初创装修记账",
+        "package_name": "com.lxy.decorationrecord",
+        "file_name": "com.lxy.decorationrecord_182.apk",
+        "app_activity": "com.lxy.decorationrecord.view.activity.SpanActivity"
+    },
+    {
+        "app_name": "智能家居管家",
+        "package_name": "zhy.iot",
+        "file_name": "zhy.iot_183.apk",
+        "app_activity": "zhy.iot.activity.SplashActivity"
+    },
+    {
+        "app_name": "RM Heat",
+        "package_name": "com.heat.davell",
+        "file_name": "com.heat.davell_184.apk",
+        "app_activity": "com.heat.davell.LoadingActivity"
+    },
+    {
+        "app_name": "石材宝",
+        "package_name": "com.scb.scb126",
+        "file_name": "com.scb.scb126_185.apk",
+        "app_activity": "com.stone.splash.SplashActivity"
+    },
+    {
+        "app_name": "师傅闪到",
+        "package_name": "uni.UNI5B40A62",
+        "file_name": "uni.UNI5B40A62_186.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "KEEY+",
+        "package_name": "com.keey.smart.universal",
+        "file_name": "com.keey.smart.universal_187.apk",
+        "app_activity": "com.keey.smart.ui.home.StartActivity"
+    },
+    {
+        "app_name": "千仓汇",
+        "package_name": "com.example.ws_qch_flutter",
+        "file_name": "com.example.ws_qch_flutter_188.apk",
+        "app_activity": "com.example.ws_qch_flutter.MainActivity"
+    },
+    {
+        "app_name": "碳元舒适加",
+        "package_name": "com.tanyuan",
+        "file_name": "com.tanyuan_189.apk",
+        "app_activity": "com.tanyuan.ui.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "名豆之约",
+        "package_name": "com.mondor.mindor",
+        "file_name": "com.mondor.mindor_190.apk",
+        "app_activity": "com.mondor.mindor.business.home.SplashActivity"
+    },
+    {
+        "app_name": "慕鹿生活",
+        "package_name": "com.jokins.intelElichain",
+        "file_name": "com.jokins.intelElichain_191.apk",
+        "app_activity": "com.jokins.intelElichain.MainActivity"
+    },
+    {
+        "app_name": "酷家乐设计师",
+        "package_name": "com.qunhe.designer",
+        "file_name": "com.qunhe.designer_192.apk",
+        "app_activity": "com.qunhe.designer.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "SmartLicht",
+        "package_name": "com.smartlicht_sys.smartlicht",
+        "file_name": "com.smartlicht_sys.smartlicht_193.apk",
+        "app_activity": "com.yeelight.yeelight_commercial_iot.MainActivity"
+    },
+    {
+        "app_name": "电梯公交",
+        "package_name": "com.elevatorbus.banshou",
+        "file_name": "com.elevatorbus.banshou_194.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "ACEMATIC",
+        "package_name": "com.acematic.smarthome",
+        "file_name": "com.acematic.smarthome_195.apk",
+        "app_activity": "com.acematic.activity.SplashActivity"
+    },
+    {
+        "app_name": "安华Connect",
+        "package_name": "com.annwa.aiot",
+        "file_name": "com.annwa.aiot_196.apk",
+        "app_activity": "com.annwa.aiot.MainActivity"
+    },
+    {
+        "app_name": "保利智家",
+        "package_name": "com.poly.smarthome.pro",
+        "file_name": "com.poly.smarthome.pro_197.apk",
+        "app_activity": "com.uiot.smarthome.pro.splash.SplashActivity"
+    },
+    {
+        "app_name": "卫舍集",
+        "package_name": "uni.UNID6B26F6",
+        "file_name": "uni.UNID6B26F6_198.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "小狄管家",
+        "package_name": "com.dnake.cloud.ihome",
+        "file_name": "com.dnake.cloud.ihome_199.apk",
+        "app_activity": "com.dnake.ihome.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "德万家",
+        "package_name": "com.dewanjia.app",
+        "file_name": "com.dewanjia.app_200.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "宅畅想",
+        "package_name": "com.kanfang123.vrhouse.decorate",
+        "file_name": "com.kanfang123.vrhouse.decorate_201.apk",
+        "app_activity": "com.kanfang123.vrhouse.decorate.feature.splash.SplashActivity"
+    },
+    {
+        "app_name": "智家e净",
+        "package_name": "com.viano.example",
+        "file_name": "com.viano.example_202.apk",
+        "app_activity": "com.viano.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "东易日盛",
+        "package_name": "com.ylean.dyspd",
+        "file_name": "com.ylean.dyspd_203.apk",
+        "app_activity": "com.ylean.dyspd.activity.init.StartActivity"
+    },
+    {
+        "app_name": "店铺装修宝",
+        "package_name": "cn.decor.hub",
+        "file_name": "cn.decor.hub_204.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "大众物联",
+        "package_name": "com.zjrkj.dzwl.official",
+        "file_name": "com.zjrkj.dzwl.official_205.apk",
+        "app_activity": "com.zjrkj.dzwl.official.SplashActivity"
+    },
+    {
+        "app_name": "匠多多师傅版",
+        "package_name": "com.jdd.newjdd.app",
+        "file_name": "com.jdd.newjdd.app_206.apk",
+        "app_activity": "com.jdd.newjdd.app.activity.MainActivity"
+    },
+    {
+        "app_name": "盈趣智能管家",
+        "package_name": "com.intretech.smart",
+        "file_name": "com.intretech.smart_207.apk",
+        "app_activity": "com.intretech.boot.activity.BootActivity"
+    },
+    {
+        "app_name": "智小金",
+        "package_name": "me.hekr.jinpai",
+        "file_name": "me.hekr.jinpai_208.apk",
+        "app_activity": "com.leixun.iot.presentation.ui.common.StartPageActivity"
+    },
+    {
+        "app_name": "日立电梯",
+        "package_name": "com.hitachi.smart.lift",
+        "file_name": "com.hitachi.smart.lift_209.apk",
+        "app_activity": "com.hitachi.smart.lift.ui.SplashActivity"
+    },
+    {
+        "app_name": "AXENT Remote",
+        "package_name": "com.axent.controller.activity",
+        "file_name": "com.axent.controller.activity_210.apk",
+        "app_activity": "com.axent.controller.activity.SplashActivity"
+    },
+    {
+        "app_name": "Proscenic",
+        "package_name": "com.proscenic.smart.robot",
+        "file_name": "com.proscenic.smart.robot_211.apk",
+        "app_activity": "com.app.robot.activity.LaunchActivity"
+    },
+    {
+        "app_name": "金螳螂家",
+        "package_name": "com.goldmantis.app.jia",
+        "file_name": "com.goldmantis.app.jia_212.apk",
+        "app_activity": "com.goldmantis.app.jia.mvp.ui.activity.BootPageActivity"
+    },
+    {
+        "app_name": "鸿雁智家",
+        "package_name": "com.androidhonyar.smarthome",
+        "file_name": "com.androidhonyar.smarthome_213.apk",
+        "app_activity": "com.honyar.module.splash.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "moduleLogin",
+        "package_name": "com.enabot.ebox",
+        "file_name": "com.enabot.ebox_214.apk",
+        "app_activity": "com.enabot.module_login.splash.SplashActivity"
+    },
+    {
+        "app_name": "可瑞智联",
+        "package_name": "com.hzureal.coreal",
+        "file_name": "com.hzureal.coreal_215.apk",
+        "app_activity": "com.hzureal.coreal.activity.login.InitActivity"
+    },
+    {
+        "app_name": "罗格朗智享家",
+        "package_name": "com.legrand.smarthome.pro",
+        "file_name": "com.legrand.smarthome.pro_216.apk",
+        "app_activity": "com.uiot.smarthome.pro.splash.SplashActivity"
+    },
+    {
+        "app_name": "Wiser",
+        "package_name": "com.schneiderelectric.WiserBySE",
+        "file_name": "com.schneiderelectric.WiserBySE_217.apk",
+        "app_activity": "com.smart.TuyaSplashActivity"
+    },
+    {
+        "app_name": "汇泰龙物联",
+        "package_name": "com.hutlon.iotlock",
+        "file_name": "com.hutlon.iotlock_218.apk",
+        "app_activity": "com.granwin.hutlon.modules.splash.SplashActivity"
+    },
+    {
+        "app_name": "项目招标服务平台",
+        "package_name": "com.gzw1.mxjztb",
+        "file_name": "com.gzw1.mxjztb_219.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "众天力智家",
+        "package_name": "com.massky.sraum",
+        "file_name": "com.massky.sraum_220.apk",
+        "app_activity": "com.massky.sraum.activity.LaunghActivity"
+    },
+    {
+        "app_name": "土巴兔装修设计",
+        "package_name": "com.to8to.renovation_essential",
+        "file_name": "com.to8to.renovation_essential_221.apk",
+        "app_activity": "com.to8to.renovation_essential.MainActivity"
+    },
+    {
+        "app_name": "齐家装修极速版",
+        "package_name": "com.jia.decoration",
+        "file_name": "com.jia.decoration_222.apk",
+        "app_activity": "com.qijia.o2o.MainActivity"
+    },
+    {
+        "app_name": "上海装潢网",
+        "package_name": "net.shzh.chengyi",
+        "file_name": "net.shzh.chengyi_223.apk",
+        "app_activity": "net.shzh.chengyi.MainActivity"
+    },
+    {
+        "app_name": "华翌智能",
+        "package_name": "com.huayi.smarthome",
+        "file_name": "com.huayi.smarthome_224.apk",
+        "app_activity": "com.huayi.smarthome.ui.home.NSplashActivity"
+    },
+    {
+        "app_name": "工蜂",
+        "package_name": "com.example.ayun.workbee",
+        "file_name": "com.example.ayun.workbee_225.apk",
+        "app_activity": "com.example.ayun.workbee.ui.SplashActivity"
+    },
+    {
+        "app_name": "装修令",
+        "package_name": "com.dcxj.decoration_company",
+        "file_name": "com.dcxj.decoration_company_226.apk",
+        "app_activity": "com.dcxj.decoration_company.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "敏智家",
+        "package_name": "com.hope.smartlife",
+        "file_name": "com.hope.smartlife_227.apk",
+        "app_activity": "cn.nbhope.smartlife.SplashActivity"
+    },
+    {
+        "app_name": "佳得美门窗",
+        "package_name": "com.jiademei.system",
+        "file_name": "com.jiademei.system_228.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "Yeelight Pro",
+        "package_name": "com.yeelight.yeelight_iot",
+        "file_name": "com.yeelight.yeelight_iot_229.apk",
+        "app_activity": "com.yeelight.yeelight_iot.MainActivity"
+    },
+    {
+        "app_name": "装修设计助手",
+        "package_name": "com.zxsjklpkf.lgsiqkzxsj",
+        "file_name": "com.zxsjklpkf.lgsiqkzxsj_230.apk",
+        "app_activity": "com.zxsjklpkf.lgsiqkzxsj.view.ui.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "Aqara Home",
+        "package_name": "com.lumiunited.aqarahome",
+        "file_name": "com.lumiunited.aqarahome_231.apk",
+        "app_activity": "com.lumiunited.aqara.main.SplashActivity"
+    },
+    {
+        "app_name": "Softiny",
+        "package_name": "com.svavo.softiny",
+        "file_name": "com.svavo.softiny_232.apk",
+        "app_activity": "com.module.main.view.activity.StartActivity"
+    },
+    {
+        "app_name": "RM AC",
+        "package_name": "com.davell.airConditioner",
+        "file_name": "com.davell.airConditioner_233.apk",
+        "app_activity": "com.davell.airConditioner.LoadingActivity"
+    },
+    {
+        "app_name": "小萨管家",
+        "package_name": "com.jksmarthome",
+        "file_name": "com.jksmarthome_234.apk",
+        "app_activity": "com.jksmarthome.MainActivity"
+    },
+    {
+        "app_name": "Siemens Home",
+        "package_name": "com.siemens.smarthome.pro",
+        "file_name": "com.siemens.smarthome.pro_235.apk",
+        "app_activity": "com.siemens.smarthome.pro.MainActivity"
+    },
+    {
+        "app_name": "住新家",
+        "package_name": "vip.bless.decorate",
+        "file_name": "vip.bless.decorate_236.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "芬尼健康家",
+        "package_name": "com.phnix.plus",
+        "file_name": "com.phnix.plus_237.apk",
+        "app_activity": "com.phnix.plus.SplashActivity"
+    },
+    {
+        "app_name": "住好家",
+        "package_name": "com.bytedance.android.homed.decoration",
+        "file_name": "com.bytedance.android.homed.decoration_238.apk",
+        "app_activity": "com.ss.android.homed.SplashActivity"
+    },
+    {
+        "app_name": "石通记",
+        "package_name": "com.xstone.shitongji",
+        "file_name": "com.xstone.shitongji_239.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "博洛尼装修",
+        "package_name": "com.bIn.boloniwebpageproject",
+        "file_name": "com.bIn.boloniwebpageproject_240.apk",
+        "app_activity": "com.googlecnx.androidcnx.MainActivity"
+    },
+    {
+        "app_name": "好饰乐居",
+        "package_name": "com.aibbyp.house",
+        "file_name": "com.aibbyp.house_241.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "MINIJ小吉",
+        "package_name": "com.minij.app",
+        "file_name": "com.minij.app_242.apk",
+        "app_activity": "com.minij.app.ui.login.SplashActivity"
+    },
+    {
+        "app_name": "SECURAM Guard",
+        "package_name": "com.smarthomeapp.android",
+        "file_name": "com.smarthomeapp.android_243.apk",
+        "app_activity": "com.smarthomeapp.android.MainActivity"
+    },
+    {
+        "app_name": "家居3D设计DIY",
+        "package_name": "fr.anuman.HomeDesign3DChinaFreemium",
+        "file_name": "fr.anuman.HomeDesign3DChinaFreemium_244.apk",
+        "app_activity": "fr.anuman.HomeDesign3D.HD3DActivity"
+    },
+    {
+        "app_name": "妙居",
+        "package_name": "com.miot.android.smarthome.house",
+        "file_name": "com.miot.android.smarthome.house_245.apk",
+        "app_activity": "com.miot.android.smarthome.house.activity.MmwWelcomeActivity"
+    },
+    {
+        "app_name": "科思顿智慧家",
+        "package_name": "com.sciston.smart",
+        "file_name": "com.sciston.smart_246.apk",
+        "app_activity": "com.smart.ThingSplashActivity"
+    },
+    {
+        "app_name": "金可儿ibed",
+        "package_name": "cn.com.kingkoil.kksmartbed",
+        "file_name": "cn.com.kingkoil.kksmartbed_247.apk",
+        "app_activity": "cn.com.kingkoil.kksmartbed.activity.SplashActivity"
+    },
+    {
+        "app_name": "联了么",
+        "package_name": "com.xcthings.fchan",
+        "file_name": "com.xcthings.fchan_248.apk",
+        "app_activity": "com.xc.august.smart.mvvm.activity.SplashActivity"
+    },
+    {
+        "app_name": "ROIDMI",
+        "package_name": "com.roidmi.smartlife",
+        "file_name": "com.roidmi.smartlife_249.apk",
+        "app_activity": "com.roidmi.smartlife.launch.LaunchActivity"
+    },
+    {
+        "app_name": "ViHome",
+        "package_name": "com.vihome.cn",
+        "file_name": "com.vihome.cn_250.apk",
+        "app_activity": "com.smart.ThingSplashActivity"
+    },
+    {
+        "app_name": "小万智家",
+        "package_name": "com.dotels.smart.heatpump",
+        "file_name": "com.dotels.smart.heatpump_251.apk",
+        "app_activity": "com.dotels.smart.heatpump.view.activity.splash.DotelsSplashActivity"
+    },
+    {
+        "app_name": "工地管家(爱佳家版)",
+        "package_name": "com.bxapp.gdgj",
+        "file_name": "com.bxapp.gdgj_252.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "设计本",
+        "package_name": "com.to8to.wireless.designroot",
+        "file_name": "com.to8to.wireless.designroot_253.apk",
+        "app_activity": "com.to8to.wireless.designroot.MainActivity"
+    },
+    {
+        "app_name": "福昕智装",
+        "package_name": "com.foxithd.hddesign",
+        "file_name": "com.foxithd.hddesign_254.apk",
+        "app_activity": "com.godot.game.MainActivity"
+    },
+    {
+        "app_name": "逸慧家",
+        "package_name": "com.mirkowu.smarthome",
+        "file_name": "com.mirkowu.smarthome_255.apk",
+        "app_activity": "com.mirkowu.smarthome.ui.start.SplashActivity"
+    },
+    {
+        "app_name": "石全石美手机版",
+        "package_name": "com.beeinc.SQSBMM",
+        "file_name": "com.beeinc.SQSBMM_256.apk",
+        "app_activity": "com.beeinc.SQSBMM.MainActivity"
+    },
+    {
+        "app_name": "膜军",
+        "package_name": "cn.com.mojun",
+        "file_name": "cn.com.mojun_257.apk",
+        "app_activity": "com.mojun.MainActivity"
+    },
+    {
+        "app_name": "智联佳装",
+        "package_name": "com.jzapp.zx",
+        "file_name": "com.jzapp.zx_258.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "智慧慕思",
+        "package_name": "com.welkj.derucci",
+        "file_name": "com.welkj.derucci_259.apk",
+        "app_activity": "com.welkj.derucci.activity.SplashActivity"
+    },
+    {
+        "app_name": "deerma",
+        "package_name": "com.deerma.aiot",
+        "file_name": "com.deerma.aiot_260.apk",
+        "app_activity": "com.smart.ThingSplashActivity"
+    },
+    {
+        "app_name": "ArimAir",
+        "package_name": "com.arimsc.arimair",
+        "file_name": "com.arimsc.arimair_261.apk",
+        "app_activity": "com.arimsc.arimair.SplashActivity"
+    },
+    {
+        "app_name": "箭牌智家",
+        "package_name": "com.arriot.app",
+        "file_name": "com.arriot.app_262.apk",
+        "app_activity": "com.arriot.app.MainActivity"
+    },
+    {
+        "app_name": "Konke Smart",
+        "package_name": "com.konke.smart",
+        "file_name": "com.konke.smart_263.apk",
+        "app_activity": "com.konke.smart.app.launch.AppSplashActivity"
+    },
+    {
+        "app_name": "装修拓客宝",
+        "package_name": "vip.bless.toker",
+        "file_name": "vip.bless.toker_264.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "途材",
+        "package_name": "com.ircloud.ydh.agents.ydh02691003",
+        "file_name": "com.ircloud.ydh.agents.ydh02691003_265.apk",
+        "app_activity": "com.ircloud.ydh.agents.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "E安装企业版",
+        "package_name": "com.chengdushanghai.eenterprise",
+        "file_name": "com.chengdushanghai.eenterprise_266.apk",
+        "app_activity": "com.chengdushanghai.eenterprise.activity.LoadingActivity"
+    },
+    {
+        "app_name": "新房装修",
+        "package_name": "com.to8to.wireless.to8to",
+        "file_name": "com.to8to.wireless.to8to_267.apk",
+        "app_activity": "com.to8to.wireless.to8to.MainActivity"
+    },
+    {
+        "app_name": "Vanlink",
+        "package_name": "com.vanlink.app.smart",
+        "file_name": "com.vanlink.app.smart_268.apk",
+        "app_activity": "com.zhidekan.smartlife.main.SplashActivity"
+    },
+    {
+        "app_name": "Ciaowarm",
+        "package_name": "com.iwarm.ciaowarm",
+        "file_name": "com.iwarm.ciaowarm_269.apk",
+        "app_activity": "com.iwarm.ciaowarm.activity.loginRegister.WelcomeActivity"
+    },
+    {
+        "app_name": "PChouse太平洋家居",
+        "package_name": "cn.com.pcgroup.magazine",
+        "file_name": "cn.com.pcgroup.magazine_270.apk",
+        "app_activity": "cn.com.pcgroup.magazine.modul.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "普彩智能",
+        "package_name": "com.ywwc.electricitymeternfc",
+        "file_name": "com.ywwc.electricitymeternfc_271.apk",
+        "app_activity": "com.ywwc.electricitymeternfc.activity.SplashActivity"
+    },
+    {
+        "app_name": "荣装网",
+        "package_name": "com.rongzw.lhcz.rongzhuangw",
+        "file_name": "com.rongzw.lhcz.rongzhuangw_272.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "棒棒锤装修",
+        "package_name": "com.bangbangchui.a88chui",
+        "file_name": "com.bangbangchui.a88chui_273.apk",
+        "app_activity": "com.bangbangchui.a88chui.MainActivity"
+    },
+    {
+        "app_name": "福来阙",
+        "package_name": "com.flq.mly",
+        "file_name": "com.flq.mly_275.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "奇兵到家",
+        "package_name": "onsiteservice.esaisj.com.app",
+        "file_name": "onsiteservice.esaisj.com.app_276.apk",
+        "app_activity": "onsiteservice.esaisj.com.app.module.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "装修接单宝",
+        "package_name": "io.dcloud.H524F54C2",
+        "file_name": "io.dcloud.H524F54C2_277.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "佰乐仕",
+        "package_name": "com.sm.benchmark",
+        "file_name": "com.sm.benchmark_278.apk",
+        "app_activity": "com.sm.benchmark.activity.SplashActivity"
+    },
+    {
+        "app_name": "MACH TECH",
+        "package_name": "com.anker.mach",
+        "file_name": "com.anker.mach_279.apk",
+        "app_activity": "com.oceanwing.eufyhome.main.WelcomeActivity"
+    },
+    {
+        "app_name": "华杰东方",
+        "package_name": "uni.hjdf.com",
+        "file_name": "uni.hjdf.com_280.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "艾家智能",
+        "package_name": "aj.smarthome",
+        "file_name": "aj.smarthome_281.apk",
+        "app_activity": "com.smart.ThingSplashActivity"
+    },
+    {
+        "app_name": "土巴兔极速版",
+        "package_name": "com.to8to.to8tosmall",
+        "file_name": "com.to8to.to8tosmall_282.apk",
+        "app_activity": "com.to8to.to8tosmall.MainActivity"
+    },
+    {
+        "app_name": "朗生板",
+        "package_name": "com.lansen.app",
+        "file_name": "com.lansen.app_283.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "WI Smart",
+        "package_name": "com.wiapp.smart",
+        "file_name": "com.wiapp.smart_284.apk",
+        "app_activity": "com.smart.ThingSplashActivity"
+    },
+    {
+        "app_name": "DREAME",
+        "package_name": "com.dreame.smartlife",
+        "file_name": "com.dreame.smartlife_285.apk",
+        "app_activity": "com.dreame.smartlife.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "鹿客管家",
+        "package_name": "com.lockin.loock",
+        "file_name": "com.lockin.loock_286.apk",
+        "app_activity": "com.lockin.loock.newui.SplashActivity"
+    },
+    {
+        "app_name": "联想慧眼",
+        "package_name": "com.jooan.smarteye.lenovo",
+        "file_name": "com.jooan.smarteye.lenovo_287.apk",
+        "app_activity": "com.jooan.biz_am.launcher.SplashActivity"
+    },
+    {
+        "app_name": "SmartFire",
+        "package_name": "com.heiman.SmartFire",
+        "file_name": "com.heiman.SmartFire_288.apk",
+        "app_activity": "com.heiman.SmartFire.activity.SplashActivity"
+    },
+    {
+        "app_name": "尚层家",
+        "package_name": "com.sczs.scj",
+        "file_name": "com.sczs.scj_289.apk",
+        "app_activity": "com.sczs.scj.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "eControl Home",
+        "package_name": "com.broadlink.ble.light",
+        "file_name": "com.broadlink.ble.light_290.apk",
+        "app_activity": "com.broadlink.ble.fastcon.light.ui.SplashActivity"
+    },
+    {
+        "app_name": "屯粮积草装修",
+        "package_name": "com.tljccustomer",
+        "file_name": "com.tljccustomer_291.apk",
+        "app_activity": "com.tljccustomer.MainActivity"
+    },
+    {
+        "app_name": "锐捷星耀",
+        "package_name": "cn.com.ruijie.shinya",
+        "file_name": "cn.com.ruijie.shinya_292.apk",
+        "app_activity": "cn.com.ruijie.shinya.MainActivity"
+    },
+    {
+        "app_name": "蜂蜜家居",
+        "package_name": "cn.beejia",
+        "file_name": "cn.beejia_293.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "LifeSmart",
+        "package_name": "com.ilifesmart.mslict",
+        "file_name": "com.ilifesmart.mslict_294.apk",
+        "app_activity": "com.ilifesmart.mslict.mslict"
+    },
+    {
+        "app_name": "尚层装饰",
+        "package_name": "uni.UNI6E20F6C",
+        "file_name": "uni.UNI6E20F6C_295.apk",
+        "app_activity": "uni.UNI6E20F6C.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "好家智能控制软件",
+        "package_name": "com.common.hjjd",
+        "file_name": "com.common.hjjd_296.apk",
+        "app_activity": "rollup.em1906app.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "配砖宝",
+        "package_name": "com.bluec.peizhuanbao",
+        "file_name": "com.bluec.peizhuanbao_297.apk",
+        "app_activity": "com.unity3d.player.UnityPlayerActivity"
+    },
+    {
+        "app_name": "雅帝乐AI",
+        "package_name": "yadilo.iot.android",
+        "file_name": "yadilo.iot.android_298.apk",
+        "app_activity": "com.yadilo.iot.app.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "WisHome",
+        "package_name": "com.huixiangjia.smart",
+        "file_name": "com.huixiangjia.smart_299.apk",
+        "app_activity": "com.huixiangjia.smart.activity.LauncherActivity"
+    },
+    {
+        "app_name": "淘赏云客",
+        "package_name": "com.taoshangyunke",
+        "file_name": "com.taoshangyunke_300.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "美家美居优选商城平台",
+        "package_name": "com.mjsell.material_shop_app",
+        "file_name": "com.mjsell.material_shop_app_301.apk",
+        "app_activity": "com.mjsell.material_shop_app.MainActivity"
+    },
+    {
+        "app_name": "3L Smart",
+        "package_name": "com.smart.LLLSmartNew",
+        "file_name": "com.smart.LLLSmartNew_302.apk",
+        "app_activity": "com.smart.bletimer.SplashActivity"
+    },
+    {
+        "app_name": "丰行万家",
+        "package_name": "com.y2373535175.pef",
+        "file_name": "com.y2373535175.pef_303.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "蓝衣绘",
+        "package_name": "com.zrh.fmstation",
+        "file_name": "com.zrh.fmstation_304.apk",
+        "app_activity": "com.zrh.fmstation.MainActivity"
+    },
+    {
+        "app_name": "好家装",
+        "package_name": "com.qfc.decorate",
+        "file_name": "com.qfc.decorate_305.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "唐吉e装",
+        "package_name": "com.example.tjhd",
+        "file_name": "com.example.tjhd_306.apk",
+        "app_activity": "com.example.tjhd.InitActivity"
+    },
+    {
+        "app_name": "WellGreen",
+        "package_name": "com.honfan.txlianlian",
+        "file_name": "com.honfan.txlianlian_307.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "小京鱼",
+        "package_name": "com.jd.smart",
+        "file_name": "com.jd.smart_308.apk",
+        "app_activity": "com.jd.smart.activity.LoadingActivity"
+    },
+    {
+        "app_name": "易装修",
+        "package_name": "com.hengshuokeji.yizhuangxiu",
+        "file_name": "com.hengshuokeji.yizhuangxiu_309.apk",
+        "app_activity": "com.hengshuokeji.yizhuangxiu.mvp.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "51装修接单",
+        "package_name": "uni.UNI225D8D8",
+        "file_name": "uni.UNI225D8D8_310.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "智爱家",
+        "package_name": "com.ziroom.awesome",
+        "file_name": "com.ziroom.awesome_311.apk",
+        "app_activity": "com.ziroom.awesome.ui.SplashActivity"
+    },
+    {
+        "app_name": "一起装修",
+        "package_name": "com.aiyiqi.galaxy",
+        "file_name": "com.aiyiqi.galaxy_312.apk",
+        "app_activity": "com.aiyiqi.galaxy.activity.SplashActivity"
+    },
+    {
+        "app_name": "好好住",
+        "package_name": "com.hzhu.m",
+        "file_name": "com.hzhu.m_313.apk",
+        "app_activity": "com.hzhu.m.ui.logo.SplashActivity"
+    },
+    {
+        "app_name": "weihome",
+        "package_name": "com.rtp2p.weihome",
+        "file_name": "com.rtp2p.weihome_314.apk",
+        "app_activity": "com.huiyun.care.viewer.ad.AdvertisingActivity"
+    },
+    {
+        "app_name": "装修图库",
+        "package_name": "com.to8to.tuku",
+        "file_name": "com.to8to.tuku_315.apk",
+        "app_activity": "com.to8to.tuku.MainActivity"
+    },
+    {
+        "app_name": "网月智能",
+        "package_name": "cn.netmoon.app.android.marshmallow_home",
+        "file_name": "cn.netmoon.app.android.marshmallow_home_316.apk",
+        "app_activity": "cn.netmoon.app.android.marshmallow_home.ui.SplashActivity"
+    },
+    {
+        "app_name": "快可立师傅版",
+        "package_name": "com.kkl",
+        "file_name": "com.kkl_317.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "万家乐ONE+",
+        "package_name": "com.wjl",
+        "file_name": "com.wjl_318.apk",
+        "app_activity": "com.wjl.view.SplashActivity"
+    },
+    {
+        "app_name": "小鲸看看",
+        "package_name": "com.szjscam.jscam1688",
+        "file_name": "com.szjscam.jscam1688_319.apk",
+        "app_activity": "com.szjscam.jscam1688.activity.account.SplashActivity"
+    },
+    {
+        "app_name": "Safemate",
+        "package_name": "com.yaoertai.safemate",
+        "file_name": "com.yaoertai.safemate_320.apk",
+        "app_activity": "com.yaoertai.safemate.UI.StartActivity"
+    },
+    {
+        "app_name": "三翼鸟",
+        "package_name": "com.haier.uhome.sybird",
+        "file_name": "com.haier.uhome.sybird_321.apk",
+        "app_activity": "com.haier.uhome.sybird.splash.SplashActivity"
+    },
+    {
+        "app_name": "木氧",
+        "package_name": "com.meilinniao.mall",
+        "file_name": "com.meilinniao.mall_322.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "呆智能",
+        "package_name": "com.muli.smarthome",
+        "file_name": "com.muli.smarthome_323.apk",
+        "app_activity": "com.muli.smarthome.ui.user.LoginActivity"
+    },
+    {
+        "app_name": "悠居未来家",
+        "package_name": "com.pj.sh",
+        "file_name": "com.pj.sh_324.apk",
+        "app_activity": "com.pj.sh.StartUpActivity"
+    },
+    {
+        "app_name": "易达",
+        "package_name": "com.zieda",
+        "file_name": "com.zieda_325.apk",
+        "app_activity": "com.zieneng.Activity.shouyeActivity"
+    },
+    {
+        "app_name": "云小窝家装",
+        "package_name": "uni.UNIEB5FEDF",
+        "file_name": "uni.UNIEB5FEDF_326.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "考拉小匠",
+        "package_name": "com.kaola.xj.kaola",
+        "file_name": "com.kaola.xj.kaola_327.apk",
+        "app_activity": "com.kaola.xj.kaola.MainActivity"
+    },
+    {
+        "app_name": "芝华仕智能床",
+        "package_name": "uni.UNIEBB7B09",
+        "file_name": "uni.UNIEBB7B09_328.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "ZENGGE",
+        "package_name": "com.zengge.blev2",
+        "file_name": "com.zengge.blev2_329.apk",
+        "app_activity": "com.zengge.wifi.StartActivity"
+    },
+    {
+        "app_name": "Yeelight CL",
+        "package_name": "com.yeelight.yeelight_commercial_iot",
+        "file_name": "com.yeelight.yeelight_commercial_iot_330.apk",
+        "app_activity": "com.yeelight.yeelight_commercial_iot.MainActivity"
+    },
+    {
+        "app_name": "家炫-DIY房屋设计",
+        "package_name": "com.ehome.acs",
+        "file_name": "com.ehome.acs_331.apk",
+        "app_activity": "com.ehome.acs.MainActivity"
+    },
+    {
+        "app_name": "好柿上门",
+        "package_name": "com.house.user",
+        "file_name": "com.house.user_332.apk",
+        "app_activity": "com.house.user.MainActivity"
+    },
+    {
+        "app_name": "快翻新",
+        "package_name": "uni.kuaifanxin",
+        "file_name": "uni.kuaifanxin_333.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "热泵+",
+        "package_name": "com.zg.heatpump",
+        "file_name": "com.zg.heatpump_334.apk",
+        "app_activity": "com.gizwits.MainActivity"
+    },
+    {
+        "app_name": "到家边",
+        "package_name": "com.chengyouxiaojiang",
+        "file_name": "com.chengyouxiaojiang_335.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "公装接单通",
+        "package_name": "vip.decor.pub",
+        "file_name": "vip.decor.pub_336.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "VOC",
+        "package_name": "com.voc.smartlock",
+        "file_name": "com.voc.smartlock_337.apk",
+        "app_activity": "com.smart.ThingSplashActivity"
+    },
+    {
+        "app_name": "声学圈",
+        "package_name": "uni.UNIEE91B11",
+        "file_name": "uni.UNIEE91B11_338.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "装修接单通",
+        "package_name": "vip.decor.dt",
+        "file_name": "vip.decor.dt_339.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "装修家",
+        "package_name": "vip.decorate.family",
+        "file_name": "vip.decorate.family_340.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "菲斯曼互联",
+        "package_name": "com.ablecloud.viessmanndemo",
+        "file_name": "com.ablecloud.viessmanndemo_341.apk",
+        "app_activity": "com.ablecloud.app.main.SplashScreenActivity"
+    },
+    {
+        "app_name": "正事多",
+        "package_name": "com.sangu.app",
+        "file_name": "com.sangu.app_342.apk",
+        "app_activity": "com.sangu.app.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "家友趣",
+        "package_name": "com.zhuangxiu.cnn",
+        "file_name": "com.zhuangxiu.cnn_343.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "Feidiao Smart",
+        "package_name": "com.feidiao.smarthome",
+        "file_name": "com.feidiao.smarthome_344.apk",
+        "app_activity": "com.smart.ThingSplashActivity"
+    },
+    {
+        "app_name": "易贝宠",
+        "package_name": "com.zhengtianpet.android",
+        "file_name": "com.zhengtianpet.android_345.apk",
+        "app_activity": "com.zhengtian.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "居居侠",
+        "package_name": "com.jujuxia.showdecorate",
+        "file_name": "com.jujuxia.showdecorate_346.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "智享Home",
+        "package_name": "com.enjoylink.iehp.smart",
+        "file_name": "com.enjoylink.iehp.smart_347.apk",
+        "app_activity": "com.enjoylink.iehp.smart.shkit.activity.login.LoadingActivity"
+    },
+    {
+        "app_name": "那就这么派",
+        "package_name": "uni.xywapp",
+        "file_name": "uni.xywapp_348.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "爱感全屋智能",
+        "package_name": "com.szwl.wlaf",
+        "file_name": "com.szwl.wlaf_349.apk",
+        "app_activity": "com.szwl.main.SplashActivity"
+    },
+    {
+        "app_name": "360Robot",
+        "package_name": "com.qihoo.smarthome",
+        "file_name": "com.qihoo.smarthome_350.apk",
+        "app_activity": "com.qihoo.smarthome.sweeper.ui.SplashActivity"
+    },
+    {
+        "app_name": "PeseTech",
+        "package_name": "com.lepu.smart",
+        "file_name": "com.lepu.smart_351.apk",
+        "app_activity": "com.lepu.smart.activity.SplashActivity"
+    },
+    {
+        "app_name": "LIFETAIL",
+        "package_name": "com.petsuper",
+        "file_name": "com.petsuper_352.apk",
+        "app_activity": "com.smart.ThingSplashActivity"
+    },
+    {
+        "app_name": "移动爱家",
+        "package_name": "com.cmri.universalapp",
+        "file_name": "com.cmri.universalapp_353.apk",
+        "app_activity": "com.cmri.universalapp.SmartMainProxyActivity"
+    },
+    {
+        "app_name": "NVC Home",
+        "package_name": "com.nvc.lighting.home",
+        "file_name": "com.nvc.lighting.home_354.apk",
+        "app_activity": "com.smart.ThingSplashActivity"
+    },
+    {
+        "app_name": "XiaoMei Smart",
+        "package_name": "com.vson.smarthome",
+        "file_name": "com.vson.smarthome_355.apk",
+        "app_activity": "com.vson.smarthome.ShWelcomeActivity"
+    },
+    {
+        "app_name": "LIBOS HOME",
+        "package_name": "com.blackvision.libos2",
+        "file_name": "com.blackvision.libos2_356.apk",
+        "app_activity": "com.blackvision.libos2.ui.LaunchActivity"
+    },
+    {
+        "app_name": "日立云家",
+        "package_name": "com.hitachi.yunjia",
+        "file_name": "com.hitachi.yunjia_357.apk",
+        "app_activity": "cn.com.hitachi.StartActivity"
+    },
+    {
+        "app_name": "Yeelight",
+        "package_name": "com.yeelight.yeelight_fluid",
+        "file_name": "com.yeelight.yeelight_fluid_358.apk",
+        "app_activity": "com.yeelight.yeelight_fluid.MainActivity"
+    },
+    {
+        "app_name": "芝华仕5星床垫",
+        "package_name": "com.manwah.wxcd",
+        "file_name": "com.manwah.wxcd_359.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "JoyPlan",
+        "package_name": "com.zbj.zhouse",
+        "file_name": "com.zbj.zhouse_360.apk",
+        "app_activity": "com.zbj.zhouse.activity.EmptyActivity"
+    },
+    {
+        "app_name": "FURRYTAIL",
+        "package_name": "com.jdm.jdmpet",
+        "file_name": "com.jdm.jdmpet_361.apk",
+        "app_activity": "com.ubtrobot.catlitterbox.StarterActivity"
+    },
+    {
+        "app_name": "正泰智能家居",
+        "package_name": "com.lingli.iot",
+        "file_name": "com.lingli.iot_362.apk",
+        "app_activity": "com.ht.chint.ui.SplashActivity"
+    },
+    {
+        "app_name": "SUTA",
+        "package_name": "com.shuta.smart_home",
+        "file_name": "com.shuta.smart_home_363.apk",
+        "app_activity": "com.shuta.smart_home.activity.LaunchActivity"
+    },
+    {
+        "app_name": "airx",
+        "package_name": "airxchina.com",
+        "file_name": "airxchina.com_364.apk",
+        "app_activity": "com.smart.ThingSplashActivity"
+    },
+    {
+        "app_name": "TTLock",
+        "package_name": "com.tongtongsuo.app",
+        "file_name": "com.tongtongsuo.app_365.apk",
+        "app_activity": "com.scaf.android.client.activity.LoadingActivity"
+    },
+    {
+        "app_name": "梦想家",
+        "package_name": "com.dykj.online_home_decoration",
+        "file_name": "com.dykj.online_home_decoration_366.apk",
+        "app_activity": "com.dykj.online_home_decoration.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "维修宝",
+        "package_name": "com.csqiandou.repairbao",
+        "file_name": "com.csqiandou.repairbao_367.apk",
+        "app_activity": "com.csqiandou.repairbao.other.act.SplashActivity"
+    },
+    {
+        "app_name": "好师傅联盟",
+        "package_name": "com.hsflm.userapp",
+        "file_name": "com.hsflm.userapp_368.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "超能帮",
+        "package_name": "com.zwindsuper.help",
+        "file_name": "com.zwindsuper.help_369.apk",
+        "app_activity": "com.zwindsuper.help.ui.LoginActivity"
+    },
+    {
+        "app_name": "犀鸟家装企",
+        "package_name": "com.hornbill.appjia",
+        "file_name": "com.hornbill.appjia_370.apk",
+        "app_activity": "com.hornbill.appjia.splash.BootPageActivity"
+    },
+    {
+        "app_name": "Security Home",
+        "package_name": "com.assaabloy.smarthome",
+        "file_name": "com.assaabloy.smarthome_371.apk",
+        "app_activity": "com.chuangmi.imihome.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "装信通装修",
+        "package_name": "com.zx123.appname",
+        "file_name": "com.zx123.appname_372.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "易来服务端",
+        "package_name": "com.yeelight.iot.yeelight_iot_engineering",
+        "file_name": "com.yeelight.iot.yeelight_iot_engineering_373.apk",
+        "app_activity": "com.yeelight.iot.yeelight_iot_engineering.MainActivity"
+    },
+    {
+        "app_name": "家具橙",
+        "package_name": "com.zx.eselected",
+        "file_name": "com.zx.eselected_374.apk",
+        "app_activity": "com.zx.eselected.client.launch.LaunchActivity"
+    },
+    {
+        "app_name": "悟家",
+        "package_name": "com.gwcd.airplug",
+        "file_name": "com.gwcd.airplug_375.apk",
+        "app_activity": "com.gwcd.base.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "uHome+",
+        "package_name": "cn.com.uascent.china.uhome",
+        "file_name": "cn.com.uascent.china.uhome_376.apk",
+        "app_activity": "cn.com.uascent.iot.page.main.SplashActivity"
+    },
+    {
+        "app_name": "V720",
+        "package_name": "com.naxclow.v720",
+        "file_name": "com.naxclow.v720_377.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "中一智能",
+        "package_name": "com.zywulian.smartlife",
+        "file_name": "com.zywulian.smartlife_378.apk",
+        "app_activity": "com.zywulian.smartlife.ui.splash.RootActivity"
+    },
+    {
+        "app_name": "装企客源引擎",
+        "package_name": "vip.decorate.source",
+        "file_name": "vip.decorate.source_379.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "欧乐空间",
+        "package_name": "com.oulekongjian.oule",
+        "file_name": "com.oulekongjian.oule_380.apk",
+        "app_activity": "com.oulekongjian.oule.Main"
+    },
+    {
+        "app_name": "Sufn Smart",
+        "package_name": "com.sufn.android.marshmallow_home",
+        "file_name": "com.sufn.android.marshmallow_home_381.apk",
+        "app_activity": "cn.netmoon.app.android.marshmallow_home.ui.SplashActivity"
+    },
+    {
+        "app_name": "工长接单宝",
+        "package_name": "vip.dea.worker.fo",
+        "file_name": "vip.dea.worker.fo_382.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "瑞沃智能",
+        "package_name": "com.svavo.home",
+        "file_name": "com.svavo.home_383.apk",
+        "app_activity": "com.svavo.home.ui.login.SplashActivity"
+    },
+    {
+        "app_name": "装企智管",
+        "package_name": "com.beyondin.decoratesteward",
+        "file_name": "com.beyondin.decoratesteward_384.apk",
+        "app_activity": "com.beyondin.decoratesteward.MainActivity"
+    },
+    {
+        "app_name": "掌住",
+        "package_name": "com.zhangzhu.app",
+        "file_name": "com.zhangzhu.app_385.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "Roborock",
+        "package_name": "com.roborock.smart",
+        "file_name": "com.roborock.smart_386.apk",
+        "app_activity": "com.roborock.smart.refactor.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "装修密码",
+        "package_name": "com.qy.owner",
+        "file_name": "com.qy.owner_387.apk",
+        "app_activity": "com.qy.owner.ui.SplashActivity"
+    },
+    {
+        "app_name": "美家",
+        "package_name": "com.meijiauser.benben",
+        "file_name": "com.meijiauser.benben_388.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "智美庭院",
+        "package_name": "com.hmmy.courtyard",
+        "file_name": "com.hmmy.courtyard_389.apk",
+        "app_activity": "com.hmmy.courtyard.bootpage.BootPageActivity"
+    },
+    {
+        "app_name": "约师傅快接单",
+        "package_name": "cn.ourchoice.yooshifu",
+        "file_name": "cn.ourchoice.yooshifu_390.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "Cloud Intelligence",
+        "package_name": "com.aliyun.iot.living",
+        "file_name": "com.aliyun.iot.living_391.apk",
+        "app_activity": "com.aliyun.iot.ilop.StartActivity"
+    },
+    {
+        "app_name": "装修建材圈",
+        "package_name": "cn.bangcor.i",
+        "file_name": "cn.bangcor.i_392.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "派师傅",
+        "package_name": "com.shouyiren",
+        "file_name": "com.shouyiren_393.apk",
+        "app_activity": "com.shouyiren.view.activity.start.SplashActivity"
+    },
+    {
+        "app_name": "指尖绘门窗阳光房设计管理软件",
+        "package_name": "com.YZKJ.ZJH",
+        "file_name": "com.YZKJ.ZJH_394.apk",
+        "app_activity": "com.unity3d.player.UnityPlayerActivity"
+    },
+    {
+        "app_name": "AigoSmart",
+        "package_name": "com.aigostar.smart",
+        "file_name": "com.aigostar.smart_395.apk",
+        "app_activity": "com.aigostar.module.common.module.main.SplashActivity"
+    },
+    {
+        "app_name": "享优乐",
+        "package_name": "com.infinitus.xiangyoule",
+        "file_name": "com.infinitus.xiangyoule_396.apk",
+        "app_activity": "com.mxchip.infinitus.StartActivity"
+    },
+    {
+        "app_name": "智睿",
+        "package_name": "com.milight.non_zhirui_android",
+        "file_name": "com.milight.non_zhirui_android_397.apk",
+        "app_activity": "com.milight.non_zhirui_android.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "智慧用电",
+        "package_name": "com.manage.activity",
+        "file_name": "com.manage.activity_398.apk",
+        "app_activity": "com.manage.activity.Appstart"
+    },
+    {
+        "app_name": "xiaoaikanjia",
+        "package_name": "com.jco.xipuseehouse",
+        "file_name": "com.jco.xipuseehouse_399.apk",
+        "app_activity": "com.jco.jcoplus.account.activity.StartActivity"
+    },
+    {
+        "app_name": "imilab",
+        "package_name": "com.chuangmi.imihome",
+        "file_name": "com.chuangmi.imihome_400.apk",
+        "app_activity": "com.chuangmi.imihome.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "装酷装修极速版",
+        "package_name": "com.zhuangku.zhuangkufast",
+        "file_name": "com.zhuangku.zhuangkufast_401.apk",
+        "app_activity": "com.zhuangku.zhuangkufast.app.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "CCLIOT",
+        "package_name": "com.ccl.iot",
+        "file_name": "com.ccl.iot_402.apk",
+        "app_activity": "com.ccl.iot.StartupActivity"
+    },
+    {
+        "app_name": "大豆智能",
+        "package_name": "com.dadoutek.ddzn",
+        "file_name": "com.dadoutek.ddzn_403.apk",
+        "app_activity": "com.dadoutek.ddzn.mvp.view.activity.FirstActivity"
+    },
+    {
+        "app_name": "工业云智能",
+        "package_name": "com.rollingstoneiot.lighting.android",
+        "file_name": "com.rollingstoneiot.lighting.android_404.apk",
+        "app_activity": "com.rollingstoneiot.lighting.android.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "一兜糖",
+        "package_name": "com.yidoutang.app",
+        "file_name": "com.yidoutang.app_405.apk",
+        "app_activity": "com.yidoutang.app.ui.SplashActivity"
+    },
+    {
+        "app_name": "灵之关爱版",
+        "package_name": "com.ziroom.lz",
+        "file_name": "com.ziroom.lz_406.apk",
+        "app_activity": "com.ziroom.lz.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "鸿雁智慧家",
+        "package_name": "com.hongyan.oemapp.hyqw",
+        "file_name": "com.hongyan.oemapp.hyqw_407.apk",
+        "app_activity": "com.smart.ThingSplashActivity"
+    },
+    {
+        "app_name": "HonYar Apartment",
+        "package_name": "com.hongyan.oemapp.hyzk",
+        "file_name": "com.hongyan.oemapp.hyzk_408.apk",
+        "app_activity": "com.smart.ThingSplashActivity"
+    },
+    {
+        "app_name": "小禾",
+        "package_name": "com.hle.china.smarthome",
+        "file_name": "com.hle.china.smarthome_409.apk",
+        "app_activity": "cn.hle.lhzm.ui.activity.main.SplashActivity"
+    },
+    {
+        "app_name": "居然装饰施工管理服务端软件",
+        "package_name": "com.easyhome.serve",
+        "file_name": "com.easyhome.serve_410.apk",
+        "app_activity": "com.easyhome.serve.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "魔盒",
+        "package_name": "com.markordesign.magicBox",
+        "file_name": "com.markordesign.magicBox_411.apk",
+        "app_activity": "com.markordesign.magicBox.activity.SplashActivity"
+    },
+    {
+        "app_name": "家有货柜",
+        "package_name": "com.mhxae.jyhg",
+        "file_name": "com.mhxae.jyhg_412.apk",
+        "app_activity": "com.mhxae.jyhg.about_cocos.pager.SplashActivity"
+    },
+    {
+        "app_name": "每屋美搭设计师",
+        "package_name": "com.meiwumeida.designerpt",
+        "file_name": "com.meiwumeida.designerpt_413.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "ESP RainMaker",
+        "package_name": "com.espressif.rainmaker",
+        "file_name": "com.espressif.rainmaker_414.apk",
+        "app_activity": "com.espressif.ui.activities.SplashActivity"
+    },
+    {
+        "app_name": "3i",
+        "package_name": "com.sc.iot.device",
+        "file_name": "com.sc.iot.device_415.apk",
+        "app_activity": "com.irobotix.splash.ui.SplashActivity"
+    },
+    {
+        "app_name": "工到",
+        "package_name": "com.ddyj.major",
+        "file_name": "com.ddyj.major_416.apk",
+        "app_activity": "com.ddyj.major.activity.SplashActivity"
+    },
+    {
+        "app_name": "Kaiconn",
+        "package_name": "com.bl.locker2019",
+        "file_name": "com.bl.locker2019_417.apk",
+        "app_activity": "com.bl.locker2019.activity.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "富智家生活",
+        "package_name": "com.fuzi.smarthome",
+        "file_name": "com.fuzi.smarthome_418.apk",
+        "app_activity": "com.rnshell.app.MainActivity"
+    },
+    {
+        "app_name": "饰新房",
+        "package_name": "com.shixfangapp.zhongben",
+        "file_name": "com.shixfangapp.zhongben_419.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "TOYOSAN",
+        "package_name": "com.hzureal.toyosan",
+        "file_name": "com.hzureal.toyosan_420.apk",
+        "app_activity": "com.hzureal.toyosan.activity.login.InitActivity"
+    },
+    {
+        "app_name": "三维家设计师",
+        "package_name": "com.vjia.designer",
+        "file_name": "com.vjia.designer_421.apk",
+        "app_activity": "com.vjia.designer.LauncherActivity"
+    },
+    {
+        "app_name": "工盟特工帮",
+        "package_name": "com.gmwl.gongmeng",
+        "file_name": "com.gmwl.gongmeng_422.apk",
+        "app_activity": "com.gmwl.gongmeng.mainModule.view.activity.LoadingActivity"
+    },
+    {
+        "app_name": "金猫猫",
+        "package_name": "com.benben.jinmaomao",
+        "file_name": "com.benben.jinmaomao_423.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "左右手商家端",
+        "package_name": "com.zysaz.merchants",
+        "file_name": "com.zysaz.merchants_424.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "尚层之家",
+        "package_name": "com.sxzs.bpm",
+        "file_name": "com.sxzs.bpm_425.apk",
+        "app_activity": "com.sxzs.bpm.ui.other.splash.SplashActivity"
+    },
+    {
+        "app_name": "惠装大师",
+        "package_name": "com.dcxj.decoration_worker",
+        "file_name": "com.dcxj.decoration_worker_426.apk",
+        "app_activity": "com.dcxj.decoration_worker.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "身边及时雨",
+        "package_name": "com.tsutsuku.jishiyu",
+        "file_name": "com.tsutsuku.jishiyu_427.apk",
+        "app_activity": "com.tsutsuku.jishiyu.ui.login.SplashActivity"
+    },
+    {
+        "app_name": "师傅联盟",
+        "package_name": "com.yuejia.masteralliance",
+        "file_name": "com.yuejia.masteralliance_428.apk",
+        "app_activity": "com.yuejia.masteralliance.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "XIAOHE",
+        "package_name": "com.hle.china.smarthome.xiaohe",
+        "file_name": "com.hle.china.smarthome.xiaohe_429.apk",
+        "app_activity": "cn.hle.lhzm.ui.activity.main.SplashActivity"
+    },
+    {
+        "app_name": "阿苟",
+        "package_name": "shijihuiteng.android.com",
+        "file_name": "shijihuiteng.android.com_430.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "喜云",
+        "package_name": "com.dilitechcompany.zxbretail",
+        "file_name": "com.dilitechcompany.zxbretail_431.apk",
+        "app_activity": "com.dilitechcompany.zxb.uihouselayoutsolution.main.LoadingActivity"
+    }
+]

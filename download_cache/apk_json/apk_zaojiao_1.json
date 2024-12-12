@@ -1,0 +1,2920 @@
+[
+    {
+        "app_name": "Feelings",
+        "package_name": "com.sinyee.babybus.wobunanguo",
+        "file_name": "com.sinyee.babybus.wobunanguo_1.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "装扮迷你恋夏换装",
+        "package_name": "com.gztz.zbmnlxhz",
+        "file_name": "com.gztz.zbmnlxhz_2.apk",
+        "app_activity": "com.gztz.zbmnlxhz.CgztzzbmnlxhzStartActivity"
+    },
+    {
+        "app_name": "史莱姆乐园制作模拟器",
+        "package_name": "com.bin.xqhh.slime",
+        "file_name": "com.bin.xqhh.slime_3.apk",
+        "app_activity": "com.bin.xqhh.slime.SplashActivity"
+    },
+    {
+        "app_name": "Baby Panda",
+        "package_name": "com.sinyee.babybus.airport",
+        "file_name": "com.sinyee.babybus.airport_4.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Day and Night",
+        "package_name": "com.sinyee.babybus.dayandnight",
+        "file_name": "com.sinyee.babybus.dayandnight_5.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "七彩糖果妆容打扮",
+        "package_name": "com.fatcat.CandyPrincessArtMakeup.huawei",
+        "file_name": "com.fatcat.CandyPrincessArtMakeup.huawei_6.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "麦田儿童英语自然拼读",
+        "package_name": "com.mytian.appstore.ph.huawei",
+        "file_name": "com.mytian.appstore.ph.huawei_7.apk",
+        "app_activity": "com.mytian.mgarden.Launcher"
+    },
+    {
+        "app_name": "Baby Panda Car Racing",
+        "package_name": "com.sinyee.babybus.karting",
+        "file_name": "com.sinyee.babybus.karting_8.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "励步云",
+        "package_name": "cn.firstleap.parent",
+        "file_name": "cn.firstleap.parent_9.apk",
+        "app_activity": "com.fcs.login.SplashActivity"
+    },
+    {
+        "app_name": "Ninja School",
+        "package_name": "com.xuexue.lms.ccninja.android.huawei",
+        "file_name": "com.xuexue.lms.ccninja.android.huawei_10.apk",
+        "app_activity": "com.xuexue.lms.ccninja.android.LmsCcninjaActivity"
+    },
+    {
+        "app_name": "熊猫博士识字",
+        "package_name": "com.drpanda.chineseacademy.huawei",
+        "file_name": "com.drpanda.chineseacademy.huawei_11.apk",
+        "app_activity": "com.drpanda.dpchinapipl.DPChinaPIPLActivity"
+    },
+    {
+        "app_name": "叫叫绘本",
+        "package_name": "com.jojoread.huiben",
+        "file_name": "com.jojoread.huiben_12.apk",
+        "app_activity": "com.jojoread.huiben.WelcomeActivity"
+    },
+    {
+        "app_name": "Shark Family",
+        "package_name": "com.sinyee.babybus.loveshark",
+        "file_name": "com.sinyee.babybus.loveshark_13.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Let",
+        "package_name": "com.sinyee.babybus.findCha",
+        "file_name": "com.sinyee.babybus.findCha_14.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Weather: Hurricane",
+        "package_name": "com.sinyee.babybus.typhoon",
+        "file_name": "com.sinyee.babybus.typhoon_15.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Little Fireman",
+        "package_name": "com.sinyee.babybus.fireman",
+        "file_name": "com.sinyee.babybus.fireman_16.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "一起学",
+        "package_name": "com.yiqizuoye.jzt",
+        "file_name": "com.yiqizuoye.jzt_17.apk",
+        "app_activity": "com.yiqizuoye.jzt.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "Home Stories",
+        "package_name": "com.sinyee.babybus.familyday",
+        "file_name": "com.sinyee.babybus.familyday_18.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "布布识字",
+        "package_name": "com.bubuleyu.bubushizi.huawei",
+        "file_name": "com.bubuleyu.bubushizi.huawei_19.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "悟空拼音",
+        "package_name": "air.com.gongfubb.wkpy",
+        "file_name": "air.com.gongfubb.wkpy_20.apk",
+        "app_activity": "com.gongfubb.unityplugin.MyUnityPlayerActivity"
+    },
+    {
+        "app_name": "悟空识字",
+        "package_name": "air.com.gongfubb.wksz",
+        "file_name": "air.com.gongfubb.wksz_21.apk",
+        "app_activity": "com.gongfubb.unityplugin.MyUnityPlayerActivity"
+    },
+    {
+        "app_name": "悟空阅读",
+        "package_name": "air.com.gongfubb.wkyd",
+        "file_name": "air.com.gongfubb.wkyd_22.apk",
+        "app_activity": "com.gongfubb.unityplugin.MyUnityPlayerActivity"
+    },
+    {
+        "app_name": "Fast Food Shop",
+        "package_name": "com.sinyee.babybus.factoryII",
+        "file_name": "com.sinyee.babybus.factoryII_23.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Dinosaur Friend",
+        "package_name": "com.sinyee.babybus.monsterII",
+        "file_name": "com.sinyee.babybus.monsterII_24.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Dinosaur Planet",
+        "package_name": "com.sinyee.babybus.dinosaurII",
+        "file_name": "com.sinyee.babybus.dinosaurII_25.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "智慧树",
+        "package_name": "com.hyww.wisdomtree",
+        "file_name": "com.hyww.wisdomtree_26.apk",
+        "app_activity": "net.hyww.wisdomtree.parent.login.GeLoadingAct"
+    },
+    {
+        "app_name": "Birthday party",
+        "package_name": "com.sinyee.babybus.birthdayparty",
+        "file_name": "com.sinyee.babybus.birthdayparty_27.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "刘小爱识字",
+        "package_name": "com.xiaobu.liuxiaoai",
+        "file_name": "com.xiaobu.liuxiaoai_28.apk",
+        "app_activity": "com.xiaobu.liuxiaoai.Wx.MyMainActivity"
+    },
+    {
+        "app_name": "Kitchen Party",
+        "package_name": "com.sinyee.babybus.kitchen",
+        "file_name": "com.sinyee.babybus.kitchen_29.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Family and Friends",
+        "package_name": "com.sinyee.babybus.goodbaby",
+        "file_name": "com.sinyee.babybus.goodbaby_30.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Baby Panda Occupations",
+        "package_name": "com.sinyee.babybus.occupations",
+        "file_name": "com.sinyee.babybus.occupations_31.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Talking Kiki",
+        "package_name": "com.sinyee.babybus.speaking",
+        "file_name": "com.sinyee.babybus.speaking_32.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "火火兔",
+        "package_name": "com.booyue.babylisten",
+        "file_name": "com.booyue.babylisten_33.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "Earthquake Rescue 2",
+        "package_name": "com.sinyee.babybus.earthquakeV",
+        "file_name": "com.sinyee.babybus.earthquakeV_34.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Sweet Primtess Dress Up Salon",
+        "package_name": "com.bigruby.SweetPrimtessDressUpSalon",
+        "file_name": "com.bigruby.SweetPrimtessDressUpSalon_35.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "Magic Kitchen",
+        "package_name": "com.sinyee.babybus.foodstuffII",
+        "file_name": "com.sinyee.babybus.foodstuffII_36.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "有道乐读",
+        "package_name": "com.youdao.yread",
+        "file_name": "com.youdao.yread_37.apk",
+        "app_activity": "com.youdao.yread.app.presentation.infrastructure.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "Fingerprints",
+        "package_name": "com.sinyee.babybus.fingerprint",
+        "file_name": "com.sinyee.babybus.fingerprint_38.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Weather Station",
+        "package_name": "com.sinyee.babybus.weatherII",
+        "file_name": "com.sinyee.babybus.weatherII_39.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Food Party Dress Up",
+        "package_name": "com.sinyee.babybus.foodstory",
+        "file_name": "com.sinyee.babybus.foodstory_40.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Fruit Farm",
+        "package_name": "com.sinyee.babybus.foodstuff",
+        "file_name": "com.sinyee.babybus.foodstuff_41.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "迷你星工场",
+        "package_name": "com.minitech.miniaixue",
+        "file_name": "com.minitech.miniaixue_42.apk",
+        "app_activity": "com.minitech.miniaixue.splash.SplashActivity"
+    },
+    {
+        "app_name": "Restaurant Chef",
+        "package_name": "com.kid58.lianyong.foodcity",
+        "file_name": "com.kid58.lianyong.foodcity_43.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "常青藤爸爸",
+        "package_name": "com.ivydad.readtool",
+        "file_name": "com.ivydad.readtool_44.apk",
+        "app_activity": "com.ivydad.readtool.module.login.SplashActivity"
+    },
+    {
+        "app_name": "毛豆爱古诗",
+        "package_name": "com.baijiahulian.maodou",
+        "file_name": "com.baijiahulian.maodou_45.apk",
+        "app_activity": "com.baijiahulian.maodou.ui.SplashActivity"
+    },
+    {
+        "app_name": "空姐乘务旅行",
+        "package_name": "com.ginastar.FlightAttendantTravel.huawei",
+        "file_name": "com.ginastar.FlightAttendantTravel.huawei_46.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "KaDa阅读",
+        "package_name": "com.hhdd.kada",
+        "file_name": "com.hhdd.kada_47.apk",
+        "app_activity": "com.hhdd.kada.main.ui.activity.LaunchActivity"
+    },
+    {
+        "app_name": "优娜小镇世界",
+        "package_name": "com.lzg.ynxzsj",
+        "file_name": "com.lzg.ynxzsj_48.apk",
+        "app_activity": "com.lzg.ynxzsj.ClzgynxzsjStartActivity"
+    },
+    {
+        "app_name": "脑力大冒险",
+        "package_name": "com.lutongnet.brainadventure.plugin",
+        "file_name": "com.lutongnet.brainadventure.plugin_49.apk",
+        "app_activity": "com.lutongnet.brainadventure.plugin.LaunchActivity"
+    },
+    {
+        "app_name": "Dessert Shop",
+        "package_name": "com.duoduo.games.sweetshop",
+        "file_name": "com.duoduo.games.sweetshop_50.apk",
+        "app_activity": "org.cocos2dx.javascript.SplashActivity"
+    },
+    {
+        "app_name": "儿歌多多HD",
+        "package_name": "com.duoduo.child.storyhd",
+        "file_name": "com.duoduo.child.storyhd_51.apk",
+        "app_activity": "com.duoduo.child.storyhd.SplashActivity"
+    },
+    {
+        "app_name": "小学语文识字",
+        "package_name": "com.zhihui.chinese",
+        "file_name": "com.zhihui.chinese_52.apk",
+        "app_activity": "com.zhihui.SplishActivity"
+    },
+    {
+        "app_name": "孩子画画",
+        "package_name": "virtualgl.kidspaint",
+        "file_name": "virtualgl.kidspaint_53.apk",
+        "app_activity": "virtualgl.kidspaint.PrivacyEnterActivity"
+    },
+    {
+        "app_name": "Bath Time",
+        "package_name": "com.sinyee.babybus.bathing",
+        "file_name": "com.sinyee.babybus.bathing_54.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "芭比公主明星时尚派对",
+        "package_name": "com.hello.StarPartyCelebrityFeast.huawei",
+        "file_name": "com.hello.StarPartyCelebrityFeast.huawei_55.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "宝宝隐私安全",
+        "package_name": "com.sinyee.babybus.privacy",
+        "file_name": "com.sinyee.babybus.privacy_56.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "弱视训练",
+        "package_name": "com.smt.rs_experience",
+        "file_name": "com.smt.rs_experience_57.apk",
+        "app_activity": "com.simingtang.amblyopiatraining.ruoshixunlian.MainActivity"
+    },
+    {
+        "app_name": "西西公主变装记",
+        "package_name": "com.duoduo.games.xxprincess",
+        "file_name": "com.duoduo.games.xxprincess_58.apk",
+        "app_activity": "org.cocos2dx.javascript.SplashActivity"
+    },
+    {
+        "app_name": "Birthday party",
+        "package_name": "com.sinyee.babybus.birthdaypartyII",
+        "file_name": "com.sinyee.babybus.birthdaypartyII_59.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Baby Care",
+        "package_name": "com.sinyee.jojo.careIII",
+        "file_name": "com.sinyee.jojo.careIII_60.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "小黑白板",
+        "package_name": "com.yuanli.xiaoheiwhiteboard",
+        "file_name": "com.yuanli.xiaoheiwhiteboard_61.apk",
+        "app_activity": "com.yuanli.xiaoheiwhiteboard.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "宝宝垃圾回收",
+        "package_name": "com.sinyee.babybus.garbage",
+        "file_name": "com.sinyee.babybus.garbage_62.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "小小优酷",
+        "package_name": "com.youkuchild.android",
+        "file_name": "com.youkuchild.android_63.apk",
+        "app_activity": "com.youkuchild.android.onearch.modules.home.HomePageActivity"
+    },
+    {
+        "app_name": "奇妙逻辑启蒙",
+        "package_name": "com.sinyee.babybus.adventure",
+        "file_name": "com.sinyee.babybus.adventure_64.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "发型设计沙龙",
+        "package_name": "com.fatcat.HairDesignerSalon.huawei",
+        "file_name": "com.fatcat.HairDesignerSalon.huawei_65.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "iHumanBooks",
+        "package_name": "com.ihuman.book",
+        "file_name": "com.ihuman.book_66.apk",
+        "app_activity": "com.ihuman.book.MySplashActivity"
+    },
+    {
+        "app_name": "洪恩启蒙编程",
+        "package_name": "com.ihuman.kaka",
+        "file_name": "com.ihuman.kaka_67.apk",
+        "app_activity": "com.ihuman.code.LaunchActivity"
+    },
+    {
+        "app_name": "洪恩大阅读",
+        "package_name": "com.ihuman.read",
+        "file_name": "com.ihuman.read_68.apk",
+        "app_activity": "com.ihuman.read.SplashActivity"
+    },
+    {
+        "app_name": "弈客少儿围棋",
+        "package_name": "com.yikeweiqi.ifk",
+        "file_name": "com.yikeweiqi.ifk_69.apk",
+        "app_activity": "com.yikeweiqi.ifk.MainActivity"
+    },
+    {
+        "app_name": "和服女孩",
+        "package_name": "com.lemonbab.DressDesignerKimono.huawei",
+        "file_name": "com.lemonbab.DressDesignerKimono.huawei_70.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "芭比公主的服装店",
+        "package_name": "com.fatcat.AdaClothingShop.huawei",
+        "file_name": "com.fatcat.AdaClothingShop.huawei_71.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "Good Habits",
+        "package_name": "com.sinyee.jojo.jofoodstuffII",
+        "file_name": "com.sinyee.jojo.jofoodstuffII_72.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "史莱姆粘液模拟器",
+        "package_name": "com.happybirdfly.slimemakesimulation.hw",
+        "file_name": "com.happybirdfly.slimemakesimulation.hw_73.apk",
+        "app_activity": "org.cocos2dx.javascript.SplashActivity"
+    },
+    {
+        "app_name": "学校牙齿医生",
+        "package_name": "com.hello.SchoolDentistDoctor.huawei",
+        "file_name": "com.hello.SchoolDentistDoctor.huawei_74.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "班级优化大师",
+        "package_name": "com.seewo.easicare.pro",
+        "file_name": "com.seewo.easicare.pro_75.apk",
+        "app_activity": "com.seewo.easicare.component.CareLauncherActivity"
+    },
+    {
+        "app_name": "Life: Cleanup",
+        "package_name": "com.sinyee.babybus.organizedII",
+        "file_name": "com.sinyee.babybus.organizedII_76.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Earthquake Safety Tips 2",
+        "package_name": "com.sinyee.babybus.earthquakeII",
+        "file_name": "com.sinyee.babybus.earthquakeII_77.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Earthquake-resistant building",
+        "package_name": "com.sinyee.babybus.earthquakeIV",
+        "file_name": "com.sinyee.babybus.earthquakeIV_78.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "奇趣 Plus",
+        "package_name": "com.kidcastle.kidapp.plus",
+        "file_name": "com.kidcastle.kidapp.plus_79.apk",
+        "app_activity": "com.jidebao.kotlin.samples.ui.SplashActivity"
+    },
+    {
+        "app_name": "Travel Safety Tips",
+        "package_name": "com.sinyee.babybus.travelsafety",
+        "file_name": "com.sinyee.babybus.travelsafety_80.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "儿童涂色画画",
+        "package_name": "com.newbee.doodle",
+        "file_name": "com.newbee.doodle_81.apk",
+        "app_activity": "com.gdt.SplashActivity"
+    },
+    {
+        "app_name": "What Babies Do",
+        "package_name": "com.sinyee.babybus.behaviour",
+        "file_name": "com.sinyee.babybus.behaviour_82.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Drawing Board",
+        "package_name": "com.sinyee.babybus.paintingIII",
+        "file_name": "com.sinyee.babybus.paintingIII_83.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "托卡校园奇妙小镇",
+        "package_name": "com.gzzdd.mjsgxzyyb",
+        "file_name": "com.gzzdd.mjsgxzyyb_84.apk",
+        "app_activity": "com.gzzdd.mjsgxzyyb.CgzzddmjsgxzyybStartActivity"
+    },
+    {
+        "app_name": "涂鸦精灵med画画",
+        "package_name": "com.fanghenet.draw",
+        "file_name": "com.fanghenet.draw_85.apk",
+        "app_activity": "com.fanghenet.draw.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "好爸爸人教译林外研版",
+        "package_name": "com.yixinjiang.goodbaba.app.presentation.pep",
+        "file_name": "com.yixinjiang.goodbaba.app.presentation.pep_86.apk",
+        "app_activity": "com.yixinjiang.goodbaba.app.presentation.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "Pictionary",
+        "package_name": "com.sinyee.babybus.babydrawing",
+        "file_name": "com.sinyee.babybus.babydrawing_87.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Miffy",
+        "package_name": "com.smartgames.miffy.huawei",
+        "file_name": "com.smartgames.miffy.huawei_88.apk",
+        "app_activity": "com.sg.util.SGUtilUnityActivity"
+    },
+    {
+        "app_name": "千奇百科岛",
+        "package_name": "com.drpanda.dk001",
+        "file_name": "com.drpanda.dk001_89.apk",
+        "app_activity": "com.drpanda.dk001.main.MainActivity"
+    },
+    {
+        "app_name": "Fun Fruit",
+        "package_name": "com.sinyee.fruit.activity",
+        "file_name": "com.sinyee.fruit.activity_90.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "洪恩超能英语",
+        "package_name": "com.ihuman.ff",
+        "file_name": "com.ihuman.ff_91.apk",
+        "app_activity": "com.ihuman.ff.ui.LaunchActivity"
+    },
+    {
+        "app_name": "Fire Safety",
+        "package_name": "com.sinyee.babybus.firemanII",
+        "file_name": "com.sinyee.babybus.firemanII_92.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "小企鹅乐园",
+        "package_name": "com.tencent.qqlivekid",
+        "file_name": "com.tencent.qqlivekid_93.apk",
+        "app_activity": "com.tencent.qqlivekid.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "美人鱼公主城堡探索记",
+        "package_name": "com.fatcat.MermaidPrincessTownAdventureDesign.huawei",
+        "file_name": "com.fatcat.MermaidPrincessTownAdventureDesign.huawei_94.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "精灵公主装扮比赛",
+        "package_name": "com.fatcat.FairyPrincessDressupVSWitchMakeup.huawei",
+        "file_name": "com.fatcat.FairyPrincessDressupVSWitchMakeup.huawei_95.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "宝宝诊所日记",
+        "package_name": "com.sinyee.babybus.babyhospitalIII",
+        "file_name": "com.sinyee.babybus.babyhospitalIII_96.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Little Police",
+        "package_name": "com.sinyee.babybus.policemen",
+        "file_name": "com.sinyee.babybus.policemen_97.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Princess",
+        "package_name": "com.sinyee.babybus.princess",
+        "file_name": "com.sinyee.babybus.princess_98.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Math Block",
+        "package_name": "com.sinyee.babybus.logicII",
+        "file_name": "com.sinyee.babybus.logicII_99.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Brain Trainer",
+        "package_name": "com.sinyee.babybus.logical",
+        "file_name": "com.sinyee.babybus.logical_100.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "一起画画涂色学习",
+        "package_name": "com.bigruby.DrawingHorseColoring.huawei",
+        "file_name": "com.bigruby.DrawingHorseColoring.huawei_101.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "小八哥",
+        "package_name": "co.dianwan.engbb",
+        "file_name": "co.dianwan.engbb_102.apk",
+        "app_activity": "co.dianwan.engbb.MainActivity"
+    },
+    {
+        "app_name": "阿尔法蛋",
+        "package_name": "com.slc.sr.mobile",
+        "file_name": "com.slc.sr.mobile_103.apk",
+        "app_activity": "com.slc.sr.mobile.ui.home.StartActivity"
+    },
+    {
+        "app_name": "Make Delicious Cake",
+        "package_name": "com.hello.MakeDeliciousCake.huawei",
+        "file_name": "com.hello.MakeDeliciousCake.huawei_104.apk",
+        "app_activity": "com.hello.MakeDeliciousCake.huawei.UnityPlayerActivity"
+    },
+    {
+        "app_name": "宝宝巴士科学",
+        "package_name": "com.ailiyong.world.course",
+        "file_name": "com.ailiyong.world.course_105.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Preschool",
+        "package_name": "com.edokiacademy.montessoripreschool.huawei",
+        "file_name": "com.edokiacademy.montessoripreschool.huawei_106.apk",
+        "app_activity": "com.edokiacademy.edokisdk.common.EdokiUnityPlayerActivity"
+    },
+    {
+        "app_name": "Photo Studio",
+        "package_name": "com.sinyee.babybus.photograph",
+        "file_name": "com.sinyee.babybus.photograph_107.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "电话手表",
+        "package_name": "com.readboy.smartwatch",
+        "file_name": "com.readboy.smartwatch_108.apk",
+        "app_activity": "com.readboy.smartwatch.StartActivity"
+    },
+    {
+        "app_name": "Ice Cream Games",
+        "package_name": "com.sinyee.babybus.icecream",
+        "file_name": "com.sinyee.babybus.icecream_109.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Little Panda",
+        "package_name": "com.sinyee.babybus.village",
+        "file_name": "com.sinyee.babybus.village_110.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Labo Brick Car 2 Game for Kids Create and Race CarsTrucksBuses",
+        "package_name": "com.laboladoapp.labo_brick_car2.huawei",
+        "file_name": "com.laboladoapp.labo_brick_car2.huawei_111.apk",
+        "app_activity": "com.laboladoapp.corona.SplashActivity"
+    },
+    {
+        "app_name": "Town: Supermarket",
+        "package_name": "com.sinyee.babybus.shopkeeper",
+        "file_name": "com.sinyee.babybus.shopkeeper_112.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Food Cooking",
+        "package_name": "com.sinyee.babybus.foodstreetII",
+        "file_name": "com.sinyee.babybus.foodstreetII_113.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "火花思维课堂",
+        "package_name": "cn.huohua.edustudent",
+        "file_name": "cn.huohua.edustudent_114.apk",
+        "app_activity": "cn.huohua.edustudent.activity.StudentLauncherV2"
+    },
+    {
+        "app_name": "空姐化妆装扮沙龙",
+        "package_name": "com.fatcat.SkyGirlMakeupDreamwork.huawei",
+        "file_name": "com.fatcat.SkyGirlMakeupDreamwork.huawei_115.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "My Hospital",
+        "package_name": "com.sinyee.babybus.babyhospital",
+        "file_name": "com.sinyee.babybus.babyhospital_116.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "途途课堂",
+        "package_name": "com.gaotu100.tutu",
+        "file_name": "com.gaotu100.tutu_117.apk",
+        "app_activity": "com.gaotu100.superclass.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "小伴龙",
+        "package_name": "com.xiaobanlong.main",
+        "file_name": "com.xiaobanlong.main_118.apk",
+        "app_activity": "com.xiaobanlong.main.SplashActivity"
+    },
+    {
+        "app_name": "小镇生活忙碌的医院",
+        "package_name": "com.bigruby.TownLifeBusyHospital.huawei",
+        "file_name": "com.bigruby.TownLifeBusyHospital.huawei_119.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "My Little Green Guard",
+        "package_name": "com.sinyee.babybus.greenguard",
+        "file_name": "com.sinyee.babybus.greenguard_120.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Fashion Flower DIY",
+        "package_name": "com.sinyee.babybus.greenhouse",
+        "file_name": "com.sinyee.babybus.greenhouse_121.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "美人鱼婚礼城堡世界",
+        "package_name": "com.bigruby.MermaidWeddingWorld.huawei",
+        "file_name": "com.bigruby.MermaidWeddingWorld.huawei_122.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "洪恩成语",
+        "package_name": "com.ihuman.guoxue",
+        "file_name": "com.ihuman.guoxue_123.apk",
+        "app_activity": "org.cocos2dx.lua.SplashActivity"
+    },
+    {
+        "app_name": "洪恩小画家",
+        "package_name": "com.ihuman.art",
+        "file_name": "com.ihuman.art_124.apk",
+        "app_activity": "com.ihuman.art.SplashActivity"
+    },
+    {
+        "app_name": "芭比公主浪漫婚礼策划",
+        "package_name": "com.ginastar.RomanticWeddingPlanner.huawei",
+        "file_name": "com.ginastar.RomanticWeddingPlanner.huawei_125.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "樱桃小镇模拟世界",
+        "package_name": "com.gztz.ytxzmnsj",
+        "file_name": "com.gztz.ytxzmnsj_126.apk",
+        "app_activity": "android.support.multiapp.ui.MainActivity"
+    },
+    {
+        "app_name": "Nail Art Contest",
+        "package_name": "com.ginastar.NailArtContest.huawei",
+        "file_name": "com.ginastar.NailArtContest.huawei_127.apk",
+        "app_activity": "com.ginastar.NailArtContest.huawei.UnityPlayerActivity"
+    },
+    {
+        "app_name": "厨房美食烹饪制作",
+        "package_name": "com.fatcat.CookingFoodsInTheKitchen.huawei",
+        "file_name": "com.fatcat.CookingFoodsInTheKitchen.huawei_128.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "洪恩十万问",
+        "package_name": "com.ihuman.ibaike",
+        "file_name": "com.ihuman.ibaike_129.apk",
+        "app_activity": "com.ihuman.ibaike.SplashActivity"
+    },
+    {
+        "app_name": "Coloring Pages",
+        "package_name": "com.sinyee.babybus.drawingII",
+        "file_name": "com.sinyee.babybus.drawingII_130.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Underground City",
+        "package_name": "com.sinyee.babybus.animalII",
+        "file_name": "com.sinyee.babybus.animalII_131.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "多多快乐童年",
+        "package_name": "com.duoduo.child.games.babysong",
+        "file_name": "com.duoduo.child.games.babysong_132.apk",
+        "app_activity": "com.duoduo.child.story.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "宝宝交通工具认知",
+        "package_name": "com.langtaosha.jiaotong",
+        "file_name": "com.langtaosha.jiaotong_133.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "宝宝巴士ABC",
+        "package_name": "com.sinyee.babybus.abc",
+        "file_name": "com.sinyee.babybus.abc_134.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Ants",
+        "package_name": "com.sinyee.babybus.ant",
+        "file_name": "com.sinyee.babybus.ant_135.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Color Crafts",
+        "package_name": "com.sinyee.babybus.art",
+        "file_name": "com.sinyee.babybus.art_136.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "奇妙逻辑训练",
+        "package_name": "com.sinyee.babybus.cat",
+        "file_name": "com.sinyee.babybus.cat_137.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Surprising Eggs",
+        "package_name": "com.sinyee.babybus.egg",
+        "file_name": "com.sinyee.babybus.egg_138.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Magic Drawing",
+        "package_name": "com.sinyee.babybus.pen",
+        "file_name": "com.sinyee.babybus.pen_139.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Tea Garden",
+        "package_name": "com.sinyee.babybus.tea",
+        "file_name": "com.sinyee.babybus.tea_140.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Child Care",
+        "package_name": "com.vivo.familycare",
+        "file_name": "com.vivo.familycare_141.apk",
+        "app_activity": "com.vivo.familycare.activity.MainActivity"
+    },
+    {
+        "app_name": "叫叫",
+        "package_name": "com.shusheng.JoJoRead",
+        "file_name": "com.shusheng.JoJoRead_142.apk",
+        "app_activity": "com.shusheng.JoJoRead.SplashActivity"
+    },
+    {
+        "app_name": "古诗文",
+        "package_name": "cn.jjpengcheng.poetry",
+        "file_name": "cn.jjpengcheng.poetry_143.apk",
+        "app_activity": "com.fanghe.project.ui.SplashActivity"
+    },
+    {
+        "app_name": "落樱小镇模拟器",
+        "package_name": "com.gztz.mjsjmxhz",
+        "file_name": "com.gztz.mjsjmxhz_144.apk",
+        "app_activity": "com.gztz.mjsjmxhz.CgztzmjsjmxhzStartActivity"
+    },
+    {
+        "app_name": "Marvelous Insects",
+        "package_name": "com.sinyee.babybus.hexapod",
+        "file_name": "com.sinyee.babybus.hexapod_145.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "小伴龙动画屋",
+        "package_name": "com.youban.xblertongpbhw",
+        "file_name": "com.youban.xblertongpbhw_146.apk",
+        "app_activity": "com.xiaobanlong.main.GongXinXieYiActivity"
+    },
+    {
+        "app_name": "超市小当家",
+        "package_name": "com.fatcat.SupermaketSmallHeaded",
+        "file_name": "com.fatcat.SupermaketSmallHeaded_147.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "儿童涂色painter画画",
+        "package_name": "cn.shuoyu.tuse",
+        "file_name": "cn.shuoyu.tuse_148.apk",
+        "app_activity": "cn.shuoyu.tuse.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "宝宝巴士思维",
+        "package_name": "com.sinyee.babybus.mathIII",
+        "file_name": "com.sinyee.babybus.mathIII_149.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "安全警长啦咘啦哆",
+        "package_name": "com.sinyee.babybus.safetytips",
+        "file_name": "com.sinyee.babybus.safetytips_150.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "婚礼化妆沙龙",
+        "package_name": "com.fatcat.weddingmakesalon.huawei",
+        "file_name": "com.fatcat.weddingmakesalon.huawei_151.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "洪恩拼音",
+        "package_name": "com.ihuman.pinyin",
+        "file_name": "com.ihuman.pinyin_152.apk",
+        "app_activity": "org.cocos2dx.lua.SplashActivity"
+    },
+    {
+        "app_name": "My Kindergarten",
+        "package_name": "com.sinyee.babybus.kindergartenII",
+        "file_name": "com.sinyee.babybus.kindergartenII_153.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "我的奇幻乐园",
+        "package_name": "com.ferrero.applayduGP",
+        "file_name": "com.ferrero.applayduGP_154.apk",
+        "app_activity": "com.unity3d.player.UnityPlayerActivity"
+    },
+    {
+        "app_name": "Ice Princess World Castle Life",
+        "package_name": "com.bigruby.IcePrincessDollCastleLife.huawei",
+        "file_name": "com.bigruby.IcePrincessDollCastleLife.huawei_155.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "麦田数学",
+        "package_name": "com.mytian.appstore.ma",
+        "file_name": "com.mytian.appstore.ma_156.apk",
+        "app_activity": "com.mytian.mgarden.Launcher"
+    },
+    {
+        "app_name": "麦田认字",
+        "package_name": "com.mytian.appstore.rz",
+        "file_name": "com.mytian.appstore.rz_157.apk",
+        "app_activity": "com.mytian.mgarden.Launcher"
+    },
+    {
+        "app_name": "Upside Down",
+        "package_name": "com.sinyee.babybus.findchaII",
+        "file_name": "com.sinyee.babybus.findchaII_158.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "烹饪广场美食街",
+        "package_name": "com.Cooking.CookingSquareFoodStreet.huawei",
+        "file_name": "com.Cooking.CookingSquareFoodStreet.huawei_159.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "宝宝巴士汉字",
+        "package_name": "com.sinyee.babybus.homeland",
+        "file_name": "com.sinyee.babybus.homeland_160.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Home Safety",
+        "package_name": "com.sinyee.babybus.homesafe",
+        "file_name": "com.sinyee.babybus.homesafe_161.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "博雅小学堂",
+        "package_name": "cn.boyakids.m",
+        "file_name": "cn.boyakids.m_162.apk",
+        "app_activity": "cn.boyakids.m.activity.SplashActivity"
+    },
+    {
+        "app_name": "帮帮识字",
+        "package_name": "com.zuoyebang.bangbangshizi",
+        "file_name": "com.zuoyebang.bangbangshizi_163.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "宝宝防护手册",
+        "package_name": "com.sinyee.babybus.antiinfection",
+        "file_name": "com.sinyee.babybus.antiinfection_164.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "米朵小镇",
+        "package_name": "com.yyh.mdxz",
+        "file_name": "com.yyh.mdxz_165.apk",
+        "app_activity": "com.yyh.mdxz.CyyhmdxzStartActivity"
+    },
+    {
+        "app_name": "Vacation",
+        "package_name": "com.sinyee.babybus.holiday",
+        "file_name": "com.sinyee.babybus.holiday_166.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Baby Panda Robot kitchen",
+        "package_name": "com.sinyee.babybus.kitchens",
+        "file_name": "com.sinyee.babybus.kitchens_167.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "AI English",
+        "package_name": "com.xuexue.ai.english.android.huawei",
+        "file_name": "com.xuexue.ai.english.android.huawei_168.apk",
+        "app_activity": "com.xuexue.lib.gdx.android.UserAgreementActivity"
+    },
+    {
+        "app_name": "海豚儿童英语",
+        "package_name": "com.dolphinmedia.english",
+        "file_name": "com.dolphinmedia.english_169.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "Baby Panda",
+        "package_name": "com.sinyee.babybus.culture",
+        "file_name": "com.sinyee.babybus.culture_170.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "喜马拉雅儿童",
+        "package_name": "com.ximalaya.ting.kid",
+        "file_name": "com.ximalaya.ting.kid_171.apk",
+        "app_activity": "com.ximalaya.ting.kid.MainActivity"
+    },
+    {
+        "app_name": "Chinese Cuisine",
+        "package_name": "com.duoduo.games.ddfood",
+        "file_name": "com.duoduo.games.ddfood_172.apk",
+        "app_activity": "org.cocos2dx.javascript.SplashActivity"
+    },
+    {
+        "app_name": "Amusement Park",
+        "package_name": "com.duoduo.games.ddpark",
+        "file_name": "com.duoduo.games.ddpark_173.apk",
+        "app_activity": "org.cocos2dx.javascript.SplashActivity"
+    },
+    {
+        "app_name": "Care for animals",
+        "package_name": "com.sinyee.babybus.rescueII",
+        "file_name": "com.sinyee.babybus.rescueII_174.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "宝宝超市",
+        "package_name": "com.sinyee.babybus.shopping",
+        "file_name": "com.sinyee.babybus.shopping_175.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "成长童伴",
+        "package_name": "com.ahxsy.kidswatch",
+        "file_name": "com.ahxsy.kidswatch_176.apk",
+        "app_activity": "com.qihoo.kids.watch.im.boot.MainActivity"
+    },
+    {
+        "app_name": "皇家芭比女孩化妆",
+        "package_name": "com.angelaprincess.makeupangelagirl.huawei",
+        "file_name": "com.angelaprincess.makeupangelagirl.huawei_177.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "头发时尚造型美发沙龙",
+        "package_name": "com.fatcat.BraidedHairstylesSalon.huawei",
+        "file_name": "com.fatcat.BraidedHairstylesSalon.huawei_178.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "超级汽车清洗和维修",
+        "package_name": "com.fatcat.SuperCarWashAndFix.huawei",
+        "file_name": "com.fatcat.SuperCarWashAndFix.huawei_179.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "专注力训练",
+        "package_name": "com.july.qifujiaApp",
+        "file_name": "com.july.qifujiaApp_180.apk",
+        "app_activity": "com.kibi.training.aty.AppCheckActivity"
+    },
+    {
+        "app_name": "乐读",
+        "package_name": "com.dadaabc.zhuozan.dadateacher",
+        "file_name": "com.dadaabc.zhuozan.dadateacher_181.apk",
+        "app_activity": "com.xes.jazhanghui.activity.mvp.start.StartActivity"
+    },
+    {
+        "app_name": "寿司制作店",
+        "package_name": "com.hello.CookingSushiMaker.huawei",
+        "file_name": "com.hello.CookingSushiMaker.huawei_182.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "兜兜龙同步学",
+        "package_name": "com.kimoo.duduro",
+        "file_name": "com.kimoo.duduro_183.apk",
+        "app_activity": "org.cocos2dx.lua.SplashActivity"
+    },
+    {
+        "app_name": "Labo Doodle Step by Step Drawing Art Educational Games for Kids",
+        "package_name": "com.laboladoapp.labo_doodle.huawei",
+        "file_name": "com.laboladoapp.labo_doodle.huawei_184.apk",
+        "app_activity": "com.laboladoapp.corona.SplashActivity"
+    },
+    {
+        "app_name": "冰激凌制作商",
+        "package_name": "com.fatcat.IceCreamConesMaker.huawei",
+        "file_name": "com.fatcat.IceCreamConesMaker.huawei_185.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "我的美人鱼男友",
+        "package_name": "com.fatcat.MyMermaidBoyfriend.huawei",
+        "file_name": "com.fatcat.MyMermaidBoyfriend.huawei_186.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "小盒学生",
+        "package_name": "com.knowbox.rc.student",
+        "file_name": "com.knowbox.rc.student_187.apk",
+        "app_activity": "com.knowbox.rc.PrivacyPolicyActivity"
+    },
+    {
+        "app_name": "Words vs. Zombies",
+        "package_name": "com.xuexue.lms.zhzombie.android",
+        "file_name": "com.xuexue.lms.zhzombie.android_188.apk",
+        "app_activity": "com.xuexue.lms.zhzombie.android.LmsZhzombieActivity"
+    },
+    {
+        "app_name": "小伴龙玩数学",
+        "package_name": "com.youban.ProjectMath",
+        "file_name": "com.youban.ProjectMath_189.apk",
+        "app_activity": "com.youban.ProjectMath.MyUnityPlayerActivity"
+    },
+    {
+        "app_name": "iHuman Math",
+        "package_name": "com.ihuman.imath",
+        "file_name": "com.ihuman.imath_190.apk",
+        "app_activity": "org.cocos2dx.lua.LaunchActivity"
+    },
+    {
+        "app_name": "Little Panda",
+        "package_name": "com.sinyee.babybus.jurassic",
+        "file_name": "com.sinyee.babybus.jurassic_191.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "洪恩动画故事",
+        "package_name": "com.ihuman.story",
+        "file_name": "com.ihuman.story_192.apk",
+        "app_activity": "com.ihuman.story.mobile.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "洪恩写字",
+        "package_name": "com.ihuman.write",
+        "file_name": "com.ihuman.write_193.apk",
+        "app_activity": "com.ihuman.write.AppSplashActivity"
+    },
+    {
+        "app_name": "洪恩国学",
+        "package_name": "com.ihuman.yuedu",
+        "file_name": "com.ihuman.yuedu_194.apk",
+        "app_activity": "com.ihuman.newreading.ui.page.AppStartActivity"
+    },
+    {
+        "app_name": "Supermarket",
+        "package_name": "com.duoduo.games.market",
+        "file_name": "com.duoduo.games.market_195.apk",
+        "app_activity": "org.cocos2dx.javascript.SplashActivity"
+    },
+    {
+        "app_name": "Labo Mechanical Studio Kids",
+        "package_name": "com.laboladoapp.labo_mechanical_studio_free.huawei",
+        "file_name": "com.laboladoapp.labo_mechanical_studio_free.huawei_196.apk",
+        "app_activity": "com.laboladoapp.corona.SplashActivity"
+    },
+    {
+        "app_name": "小魔女传奇",
+        "package_name": "com.sinyee.babybus.magician",
+        "file_name": "com.sinyee.babybus.magician_197.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "魔法世界小镇家园",
+        "package_name": "com.gztz.mfsjxzjya",
+        "file_name": "com.gztz.mfsjxzjya_198.apk",
+        "app_activity": "com.gztz.mfsjxzjya.CgztzmfsjxzjyaStartActivity"
+    },
+    {
+        "app_name": "天文小智",
+        "package_name": "com.abcdell.ewc",
+        "file_name": "com.abcdell.ewc_199.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "Child Safety",
+        "package_name": "com.sinyee.babybus.dailysafety",
+        "file_name": "com.sinyee.babybus.dailysafety_200.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Police",
+        "package_name": "com.duoduo.games.police",
+        "file_name": "com.duoduo.games.police_201.apk",
+        "app_activity": "org.cocos2dx.javascript.SplashActivity"
+    },
+    {
+        "app_name": "公主校园养成计划",
+        "package_name": "com.fatcat.CampusGrowthPlanDressUp.huawei",
+        "file_name": "com.fatcat.CampusGrowthPlanDressUp.huawei_202.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "迷你小镇城堡",
+        "package_name": "com.mnxzcb.lzg",
+        "file_name": "com.mnxzcb.lzg_203.apk",
+        "app_activity": "com.mnxzcb.lzg.CmnxzcblzgStartActivity"
+    },
+    {
+        "app_name": "宝宝唐诗三百首",
+        "package_name": "com.touchtech.tangshi",
+        "file_name": "com.touchtech.tangshi_204.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "冰雪女王超级舞会",
+        "package_name": "com.fatcat.IceQueenSuperMakeup.huawei",
+        "file_name": "com.fatcat.IceQueenSuperMakeup.huawei_205.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "Animal Dentistry",
+        "package_name": "com.sinyee.babybus.dentist",
+        "file_name": "com.sinyee.babybus.dentist_206.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "爱维宝贝",
+        "package_name": "com.jovision.ivbaby",
+        "file_name": "com.jovision.ivbaby_207.apk",
+        "app_activity": "com.jovision.ivbaby.activity.SplashActivity"
+    },
+    {
+        "app_name": "超级模特成长日记",
+        "package_name": "com.fatcat.SuperModelGrowthDiary.huawei",
+        "file_name": "com.fatcat.SuperModelGrowthDiary.huawei_208.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "宝宝巴士拼音",
+        "package_name": "com.sinyee.babybus.voicerecognition",
+        "file_name": "com.sinyee.babybus.voicerecognition_209.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "迷你小镇全新世界",
+        "package_name": "com.lyuan.magic.and.funz.tona",
+        "file_name": "com.lyuan.magic.and.funz.tona_210.apk",
+        "app_activity": "com.lyuan.magic.and.funz.tona.ClyuanmagicandfunztonaStartActivity"
+    },
+    {
+        "app_name": "Jurassic World",
+        "package_name": "com.sinyee.babybus.dinosaur",
+        "file_name": "com.sinyee.babybus.dinosaur_211.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Tigerschool",
+        "package_name": "com.dami.tigerschool",
+        "file_name": "com.dami.tigerschool_212.apk",
+        "app_activity": "com.dami.tigerschool.loading.LoadingActivity"
+    },
+    {
+        "app_name": "Treasure Island",
+        "package_name": "com.sinyee.babybus.digging",
+        "file_name": "com.sinyee.babybus.digging_213.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "BabyBus Green Inventor",
+        "package_name": "com.sinyee.babybus.greening",
+        "file_name": "com.sinyee.babybus.greening_214.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "My Grafitti",
+        "package_name": "com.sinyee.babybus.paintingII",
+        "file_name": "com.sinyee.babybus.paintingII_215.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "宝宝巴士大全",
+        "package_name": "com.sinyee.babybus.recommend.pad",
+        "file_name": "com.sinyee.babybus.recommend.pad_216.apk",
+        "app_activity": "com.sinyee.babybus.recommendapp.privacy.LaunchActivity"
+    },
+    {
+        "app_name": "婚纱设计师",
+        "package_name": "com.fatcat.WeddingDressDesigner.huawei",
+        "file_name": "com.fatcat.WeddingDressDesigner.huawei_217.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "数感星球",
+        "package_name": "com.flickering.mathufo",
+        "file_name": "com.flickering.mathufo_218.apk",
+        "app_activity": "com.flickering.mathufo.MainActivity"
+    },
+    {
+        "app_name": "Coloring Book",
+        "package_name": "com.sinyee.babybus.initiation",
+        "file_name": "com.sinyee.babybus.initiation_219.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Find Numbers",
+        "package_name": "com.sinyee.babybus.findnumber",
+        "file_name": "com.sinyee.babybus.findnumber_220.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "儿歌多多小朋友版",
+        "package_name": "com.duoduo.games.earlyedu",
+        "file_name": "com.duoduo.games.earlyedu_221.apk",
+        "app_activity": "com.duoduo.child.story.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "Puzzle Town",
+        "package_name": "com.sinyee.babybus.downbound",
+        "file_name": "com.sinyee.babybus.downbound_222.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Chinese Customs",
+        "package_name": "com.sinyee.babybus.newyear",
+        "file_name": "com.sinyee.babybus.newyear_223.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "一起作业老师",
+        "package_name": "com.yiqizuoye.teacher",
+        "file_name": "com.yiqizuoye.teacher_224.apk",
+        "app_activity": "com.yiqizuoye.teacher.login.TeacherWelcomeActivity"
+    },
+    {
+        "app_name": "贝乐虎启蒙",
+        "package_name": "com.ubestkid.collection.a",
+        "file_name": "com.ubestkid.collection.a_225.apk",
+        "app_activity": "com.ubestkid.collection.a.SplashActivity"
+    },
+    {
+        "app_name": "Healthy Baby",
+        "package_name": "com.sinyee.babybus.lovehealthy",
+        "file_name": "com.sinyee.babybus.lovehealthy_226.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "凡达小镇全新世界",
+        "package_name": "com.leyunewworld.afd",
+        "file_name": "com.leyunewworld.afd_227.apk",
+        "app_activity": "com.leyunewworld.afd.CleyunewworldafdStartActivity"
+    },
+    {
+        "app_name": "Christmas Train Game",
+        "package_name": "com.laboladoapp.labo_christmas_train.huawei",
+        "file_name": "com.laboladoapp.labo_christmas_train.huawei_228.apk",
+        "app_activity": "com.laboladoapp.corona.SplashActivity"
+    },
+    {
+        "app_name": "小学语文同步点读",
+        "package_name": "com.pelbs.book1076",
+        "file_name": "com.pelbs.book1076_229.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "小学英语同步点读",
+        "package_name": "com.pelbs.book1078",
+        "file_name": "com.pelbs.book1078_230.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "初中英语同步点读",
+        "package_name": "com.pelbs.book1081",
+        "file_name": "com.pelbs.book1081_231.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "Magic Brush",
+        "package_name": "com.sinyee.babybus.drawing",
+        "file_name": "com.sinyee.babybus.drawing_232.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "洪恩ABC",
+        "package_name": "com.ihuman.english",
+        "file_name": "com.ihuman.english_233.apk",
+        "app_activity": "com.ihuman.english.SplashActivity"
+    },
+    {
+        "app_name": "Goodnight,My Baby",
+        "package_name": "com.sinyee.babybus.goodnight",
+        "file_name": "com.sinyee.babybus.goodnight_234.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "叽里呱啦",
+        "package_name": "com.jiliguala.niuwa",
+        "file_name": "com.jiliguala.niuwa_235.apk",
+        "app_activity": "com.jiliguala.niuwa.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "宝宝巴士HD",
+        "package_name": "com.bb.happykids.huawei",
+        "file_name": "com.bb.happykids.huawei_236.apk",
+        "app_activity": "com.sinyee.babybus.android.main.SplashActivity"
+    },
+    {
+        "app_name": "House Cleaning",
+        "package_name": "com.sinyee.babybus.assistant",
+        "file_name": "com.sinyee.babybus.assistant_237.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "The Adventurous Cloud",
+        "package_name": "com.sinyee.babybus.angie",
+        "file_name": "com.sinyee.babybus.angie_238.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Pet House Design",
+        "package_name": "com.sinyee.babybus.build",
+        "file_name": "com.sinyee.babybus.build_239.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Candy Shop",
+        "package_name": "com.sinyee.babybus.candy",
+        "file_name": "com.sinyee.babybus.candy_240.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Happy Clean",
+        "package_name": "com.sinyee.babybus.clean",
+        "file_name": "com.sinyee.babybus.clean_241.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "My Home",
+        "package_name": "com.sinyee.babybus.diary",
+        "file_name": "com.sinyee.babybus.diary_242.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Cooking Restaurant",
+        "package_name": "com.sinyee.babybus.diner",
+        "file_name": "com.sinyee.babybus.diner_243.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Animal Puzzle",
+        "package_name": "com.sinyee.babybus.diyII",
+        "file_name": "com.sinyee.babybus.diyII_244.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Baby Panda",
+        "package_name": "com.sinyee.babybus.grove",
+        "file_name": "com.sinyee.babybus.grove_245.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Pony Care Club",
+        "package_name": "com.sinyee.babybus.horse",
+        "file_name": "com.sinyee.babybus.horse_246.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "PandaHotel",
+        "package_name": "com.sinyee.babybus.hotel",
+        "file_name": "com.sinyee.babybus.hotel_247.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Princess Jewelry Design",
+        "package_name": "com.sinyee.babybus.jewel",
+        "file_name": "com.sinyee.babybus.jewel_248.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Dream Garden",
+        "package_name": "com.sinyee.babybus.manor",
+        "file_name": "com.sinyee.babybus.manor_249.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Baby Panda",
+        "package_name": "com.sinyee.babybus.pilot",
+        "file_name": "com.sinyee.babybus.pilot_250.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Panda Sharing",
+        "package_name": "com.sinyee.babybus.share",
+        "file_name": "com.sinyee.babybus.share_251.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Merry Christmas",
+        "package_name": "com.sinyee.babybus.songV",
+        "file_name": "com.sinyee.babybus.songV_252.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Sports Champion",
+        "package_name": "com.sinyee.babybus.sport",
+        "file_name": "com.sinyee.babybus.sport_253.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "小布咕",
+        "package_name": "com.sinyee.babybus.story",
+        "file_name": "com.sinyee.babybus.story_254.apk",
+        "app_activity": "com.sinyee.babybus.android.privacy.LaunchActivity"
+    },
+    {
+        "app_name": "Heavy Machines",
+        "package_name": "com.sinyee.babybus.truck",
+        "file_name": "com.sinyee.babybus.truck_255.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "宝宝巴士世界",
+        "package_name": "com.sinyee.babybus.world",
+        "file_name": "com.sinyee.babybus.world_256.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "创造全民小镇",
+        "package_name": "com.hele.czqmxz",
+        "file_name": "com.hele.czqmxz_257.apk",
+        "app_activity": "com.hele.czqmxz.CheleczqmxzStartActivity"
+    },
+    {
+        "app_name": "闺蜜美容装扮日记",
+        "package_name": "com.hello.BestiesDiaryStory.huawei",
+        "file_name": "com.hello.BestiesDiaryStory.huawei_258.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "Insect Diary",
+        "package_name": "com.sinyee.babybus.insectII",
+        "file_name": "com.sinyee.babybus.insectII_259.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "My farm",
+        "package_name": "com.kid58.lianyong.agriculturalvehicle",
+        "file_name": "com.kid58.lianyong.agriculturalvehicle_260.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "凡达世界樱花小镇",
+        "package_name": "com.nmcha",
+        "file_name": "com.nmcha_261.apk",
+        "app_activity": "com.nmcha.CnmchaStartActivity"
+    },
+    {
+        "app_name": "Halloween Car:Draw & Race for KidsToddlers Childrens games",
+        "package_name": "com.laboladoapp.labo_halloween_car_free.huawei",
+        "file_name": "com.laboladoapp.labo_halloween_car_free.huawei_262.apk",
+        "app_activity": "com.laboladoapp.corona.SplashActivity"
+    },
+    {
+        "app_name": "奇妙科普馆",
+        "package_name": "com.sinyee.babybus.amusement",
+        "file_name": "com.sinyee.babybus.amusement_263.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "小伴龙拼音",
+        "package_name": "com.youban.xblpy",
+        "file_name": "com.youban.xblpy_264.apk",
+        "app_activity": "com.youban.xblpy.SplashActivity"
+    },
+    {
+        "app_name": "Math Genius",
+        "package_name": "com.sinyee.babybus.happycounting",
+        "file_name": "com.sinyee.babybus.happycounting_265.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "兔小贝拼音",
+        "package_name": "com.qpx.pinying",
+        "file_name": "com.qpx.pinying_266.apk",
+        "app_activity": "com.qpx.app.chinese.UnityPlayerActivity"
+    },
+    {
+        "app_name": "彩虹小马驹护理",
+        "package_name": "com.hello.RainbowPonyCare.huawei",
+        "file_name": "com.hello.RainbowPonyCare.huawei_267.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "Family Life",
+        "package_name": "com.sinyee.jojo.joshopping",
+        "file_name": "com.sinyee.jojo.joshopping_268.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Longman English Plus",
+        "package_name": "com.pearson.lelstudent",
+        "file_name": "com.pearson.lelstudent_269.apk",
+        "app_activity": "com.huangjia.lelstudent.activity.base.StartActivity"
+    },
+    {
+        "app_name": "舞蹈女孩化妆装扮沙龙",
+        "package_name": "com.hello.inspirationalstoryofcelebrities.huawei",
+        "file_name": "com.hello.inspirationalstoryofcelebrities.huawei_270.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "洪恩学堂",
+        "package_name": "com.ihuman.classstudent",
+        "file_name": "com.ihuman.classstudent_271.apk",
+        "app_activity": "com.ihumand.classstudent.SplashActivity"
+    },
+    {
+        "app_name": "儿童画画涂鸦",
+        "package_name": "cn.suoqingning.tuya",
+        "file_name": "cn.suoqingning.tuya_272.apk",
+        "app_activity": "cn.suoqingning.tuya.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "洪恩识字",
+        "package_name": "com.hongen.app.word",
+        "file_name": "com.hongen.app.word_273.apk",
+        "app_activity": "org.cocos2dx.lua.SplashActivity"
+    },
+    {
+        "app_name": "World Recipes",
+        "package_name": "com.sinyee.babybus.delicacy",
+        "file_name": "com.sinyee.babybus.delicacy_274.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "粤教翔云数字教材应用平台",
+        "package_name": "com.digigd.yjxy.student",
+        "file_name": "com.digigd.yjxy.student_275.apk",
+        "app_activity": "com.digigd.yjxy.splash.SplashActivity"
+    },
+    {
+        "app_name": "Animal Farm",
+        "package_name": "com.sinyee.babybus.cultivation",
+        "file_name": "com.sinyee.babybus.cultivation_276.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Hospital",
+        "package_name": "com.duoduo.games.hospital",
+        "file_name": "com.duoduo.games.hospital_277.apk",
+        "app_activity": "org.cocos2dx.javascript.SplashActivity"
+    },
+    {
+        "app_name": "小学英语",
+        "package_name": "com.iyuba.talkshow.childenglish",
+        "file_name": "com.iyuba.talkshow.childenglish_278.apk",
+        "app_activity": "com.iyuba.talkshow.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "智伴优学",
+        "package_name": "com.zbkj.gz.zib",
+        "file_name": "com.zbkj.gz.zib_279.apk",
+        "app_activity": "com.zbkj.gz.zib.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "Dental Care",
+        "package_name": "com.sinyee.babybus.dentistII",
+        "file_name": "com.sinyee.babybus.dentistII_280.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "360儿童卫士",
+        "package_name": "com.qihoo360.antilostwatch",
+        "file_name": "com.qihoo360.antilostwatch_281.apk",
+        "app_activity": "com.qihoo.kids.watch.im.boot.MainActivity"
+    },
+    {
+        "app_name": "Fishing",
+        "package_name": "com.sinyee.babybus.seaworld",
+        "file_name": "com.sinyee.babybus.seaworld_282.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "小花生",
+        "package_name": "com.huili.readingclub",
+        "file_name": "com.huili.readingclub_283.apk",
+        "app_activity": "com.huili.readingclub.activity.LauncherActivity"
+    },
+    {
+        "app_name": "儿童益智切水果",
+        "package_name": "com.mizhongtech.qief",
+        "file_name": "com.mizhongtech.qief_284.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "兔小贝识字",
+        "package_name": "com.qpx.app.chinese",
+        "file_name": "com.qpx.app.chinese_285.apk",
+        "app_activity": "com.qpx.app.chinese.UnityPlayerActivity"
+    },
+    {
+        "app_name": "我的小镇医疗中心",
+        "package_name": "com.bigruby.TownCentralHospital.huawei",
+        "file_name": "com.bigruby.TownCentralHospital.huawei_286.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "The Car Race",
+        "package_name": "com.sinyee.babybus.bumpercars",
+        "file_name": "com.sinyee.babybus.bumpercars_287.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Connect the Numbers",
+        "package_name": "com.sinyee.babybus.numberconnect",
+        "file_name": "com.sinyee.babybus.numberconnect_288.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Hide and Seek",
+        "package_name": "com.sinyee.babybus.hideandseek",
+        "file_name": "com.sinyee.babybus.hideandseek_289.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "奇妙故事创造家",
+        "package_name": "com.sinyee.babybus.storyworld",
+        "file_name": "com.sinyee.babybus.storyworld_290.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "爱奇艺奇巴布",
+        "package_name": "com.qiyi.video.child",
+        "file_name": "com.qiyi.video.child_291.apk",
+        "app_activity": "com.qiyi.video.child.WelcomeActivity"
+    },
+    {
+        "app_name": "Luka阅读养成",
+        "package_name": "ai.ling.luka.app",
+        "file_name": "ai.ling.luka.app_292.apk",
+        "app_activity": "ai.ling.luka.app.page.activity.StartupActivity"
+    },
+    {
+        "app_name": "Dream Castle",
+        "package_name": "com.sinyee.babybus.designer",
+        "file_name": "com.sinyee.babybus.designer_293.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Truck Team",
+        "package_name": "com.sinyee.babybus.engineering",
+        "file_name": "com.sinyee.babybus.engineering_294.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Color Mixing",
+        "package_name": "com.sinyee.babybus.magichouse",
+        "file_name": "com.sinyee.babybus.magichouse_295.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "宝宝救护手册",
+        "package_name": "com.sinyee.babybus.ambulance",
+        "file_name": "com.sinyee.babybus.ambulance_296.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Animal Paradise",
+        "package_name": "com.sinyee.babybus.animal",
+        "file_name": "com.sinyee.babybus.animal_297.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "大明星化妆舞会",
+        "package_name": "com.fatcat.SuperstarMakeupProm",
+        "file_name": "com.fatcat.SuperstarMakeupProm_298.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "宝宝成长乐园",
+        "package_name": "com.sinyee.babybus.brushteethII",
+        "file_name": "com.sinyee.babybus.brushteethII_299.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Baby Panda Care 2",
+        "package_name": "com.sinyee.babybus.careII",
+        "file_name": "com.sinyee.babybus.careII_300.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "奇妙的职业",
+        "package_name": "com.sinyee.babybus.career",
+        "file_name": "com.sinyee.babybus.career_301.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "阿布睡前故事",
+        "package_name": "com.android.abustory",
+        "file_name": "com.android.abustory_302.apk",
+        "app_activity": "com.android.abustory.modules.LauncherActivity"
+    },
+    {
+        "app_name": "小狐狸ABC",
+        "package_name": "com.runfox.english.schoolliving",
+        "file_name": "com.runfox.english.schoolliving_303.apk",
+        "app_activity": "com.runfox.english.schoolliving.PrivacyActivity"
+    },
+    {
+        "app_name": "Panda",
+        "package_name": "com.sinyee.babybus.coffee",
+        "file_name": "com.sinyee.babybus.coffee_304.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "宝宝艺术日记",
+        "package_name": "com.sinyee.babybus.colour",
+        "file_name": "com.sinyee.babybus.colour_305.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "尤雅小世界",
+        "package_name": "com.gztz.yyxsj",
+        "file_name": "com.gztz.yyxsj_306.apk",
+        "app_activity": "android.support.multiapp.ui.MainActivity"
+    },
+    {
+        "app_name": "冰雪公主爱换装",
+        "package_name": "com.gzdd.bxgzahz",
+        "file_name": "com.gzdd.bxgzahz_307.apk",
+        "app_activity": "com.gzdd.bxgzahz.CgzddbxgzahzStartActivity"
+    },
+    {
+        "app_name": "Good Habits",
+        "package_name": "com.sinyee.babybus.custom",
+        "file_name": "com.sinyee.babybus.custom_308.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Healthy Eater",
+        "package_name": "com.sinyee.babybus.dining",
+        "file_name": "com.sinyee.babybus.dining_309.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "DIY Festival Crafts",
+        "package_name": "com.sinyee.babybus.diyIII",
+        "file_name": "com.sinyee.babybus.diyIII_310.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "宝宝巴士",
+        "package_name": "com.sinyee.babybus.recommendapp",
+        "file_name": "com.sinyee.babybus.recommendapp_311.apk",
+        "app_activity": "com.sinyee.babybus.recommendapp.privacy.LaunchActivity"
+    },
+    {
+        "app_name": "叫叫识字",
+        "package_name": "com.tinmanarts.JoJoSherlock",
+        "file_name": "com.tinmanarts.JoJoSherlock_312.apk",
+        "app_activity": "com.tinmanarts.JoJoSherlock.feature.splash.SplashActivity"
+    },
+    {
+        "app_name": "宝宝甜品店",
+        "package_name": "com.sinyee.babybus.drinks",
+        "file_name": "com.sinyee.babybus.drinks_313.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Baby Panda Compare",
+        "package_name": "com.sinyee.babybus.duibis",
+        "file_name": "com.sinyee.babybus.duibis_314.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Car World",
+        "package_name": "com.sinyee.babybus.automobilecity",
+        "file_name": "com.sinyee.babybus.automobilecity_315.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Learning Books",
+        "package_name": "com.sinyee.babybus.collectionI",
+        "file_name": "com.sinyee.babybus.collectionI_316.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "史莱姆工坊",
+        "package_name": "com.cooking.ColorfulSlimeWorkshop.huawei",
+        "file_name": "com.cooking.ColorfulSlimeWorkshop.huawei_317.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "Get Organized",
+        "package_name": "com.sinyee.babybus.organized",
+        "file_name": "com.sinyee.babybus.organized_318.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "喵喵少儿英语",
+        "package_name": "com.tenbillionbyte.catenglish",
+        "file_name": "com.tenbillionbyte.catenglish_319.apk",
+        "app_activity": "com.tenbillionbyte.catenglish.AppActivity"
+    },
+    {
+        "app_name": "Earthquake Rescue",
+        "package_name": "com.sinyee.babybus.earthquakeIII",
+        "file_name": "com.sinyee.babybus.earthquakeIII_320.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "读书瞳",
+        "package_name": "com.k123du.huiben",
+        "file_name": "com.k123du.huiben_321.apk",
+        "app_activity": "com.k123du.huiben.activity.SplashActivity"
+    },
+    {
+        "app_name": "Friends of the Forest",
+        "package_name": "com.sinyee.babybus.forest",
+        "file_name": "com.sinyee.babybus.forest_322.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "悟空数学",
+        "package_name": "air.com.gongfubb.wk123",
+        "file_name": "air.com.gongfubb.wk123_323.apk",
+        "app_activity": "com.gongfubb.unityplugin.MyUnityPlayerActivity"
+    },
+    {
+        "app_name": "成语字典",
+        "package_name": "com.tiantian.guoxue",
+        "file_name": "com.tiantian.guoxue_324.apk",
+        "app_activity": "com.fanghe.project.ui.SplashActivity"
+    },
+    {
+        "app_name": "Body Adventure",
+        "package_name": "com.sinyee.babybus.digestion",
+        "file_name": "com.sinyee.babybus.digestion_325.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "奇妙农场体验",
+        "package_name": "com.sinyee.babybus.garden",
+        "file_name": "com.sinyee.babybus.garden_326.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "制作泰国料理厨房做饭",
+        "package_name": "com.cooking.CookingThaiFood.huawei",
+        "file_name": "com.cooking.CookingThaiFood.huawei_327.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "有道少儿词典",
+        "package_name": "com.youdao.kiddict",
+        "file_name": "com.youdao.kiddict_328.apk",
+        "app_activity": "com.youdao.kiddict.MainActivity"
+    },
+    {
+        "app_name": "Panda Sports Games",
+        "package_name": "com.sinyee.babybus.talkingkiki",
+        "file_name": "com.sinyee.babybus.talkingkiki_329.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Little Panda Captain",
+        "package_name": "com.sinyee.babybus.boat",
+        "file_name": "com.sinyee.babybus.boat_330.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "宝宝魔力画笔",
+        "package_name": "com.sinyee.babybus.book",
+        "file_name": "com.sinyee.babybus.book_331.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Pregnancy Care",
+        "package_name": "com.sinyee.babybus.born",
+        "file_name": "com.sinyee.babybus.born_332.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Little Panda",
+        "package_name": "com.sinyee.babybus.cake",
+        "file_name": "com.sinyee.babybus.cake_333.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Baby Panda Care",
+        "package_name": "com.sinyee.babybus.care",
+        "file_name": "com.sinyee.babybus.care_334.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Transportation",
+        "package_name": "com.sinyee.babybus.cars",
+        "file_name": "com.sinyee.babybus.cars_335.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Fantasy Land",
+        "package_name": "com.sinyee.babybus.cube",
+        "file_name": "com.sinyee.babybus.cube_336.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Cooking Party",
+        "package_name": "com.sinyee.babybus.diet",
+        "file_name": "com.sinyee.babybus.diet_337.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Math Farm",
+        "package_name": "com.sinyee.babybus.farm",
+        "file_name": "com.sinyee.babybus.farm_338.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Chinese Recipes",
+        "package_name": "com.sinyee.babybus.food",
+        "file_name": "com.sinyee.babybus.food_339.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Help",
+        "package_name": "com.sinyee.babybus.help",
+        "file_name": "com.sinyee.babybus.help_340.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Brave Jobs",
+        "package_name": "com.sinyee.babybus.hero",
+        "file_name": "com.sinyee.babybus.hero_341.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "宝宝数字世界",
+        "package_name": "com.sinyee.babybus.math",
+        "file_name": "com.sinyee.babybus.math_342.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Cool Party",
+        "package_name": "com.sinyee.babybus.meet",
+        "file_name": "com.sinyee.babybus.meet_343.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "宝宝巴士阅读",
+        "package_name": "com.sinyee.babybus.read",
+        "file_name": "com.sinyee.babybus.read_344.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "宝宝服装秀",
+        "package_name": "com.sinyee.babybus.show",
+        "file_name": "com.sinyee.babybus.show_345.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+
+    {
+        "app_name": "Baby Panda",
+        "package_name": "com.sinyee.babybus.soda",
+        "file_name": "com.sinyee.babybus.soda_2.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Kiki",
+        "package_name": "com.sinyee.babybus.sort",
+        "file_name": "com.sinyee.babybus.sort_3.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "School Bus",
+        "package_name": "com.sinyee.babybus.taxi",
+        "file_name": "com.sinyee.babybus.taxi_4.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Labyrinth Town",
+        "package_name": "com.sinyee.babybus.town",
+        "file_name": "com.sinyee.babybus.town_5.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "史莱姆制作乐园",
+        "package_name": "com.bin.xqhh",
+        "file_name": "com.bin.xqhh_6.apk",
+        "app_activity": "com.bin.xqhh.GDTADManagerActivity"
+    },
+    {
+        "app_name": "Ship",
+        "package_name": "com.sinyee.babybus.navigation",
+        "file_name": "com.sinyee.babybus.navigation_7.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "My Kindergarten",
+        "package_name": "com.sinyee.babybus.kindergarten",
+        "file_name": "com.sinyee.babybus.kindergarten_8.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Little Photo Shop",
+        "package_name": "com.sinyee.babybus.photostudio",
+        "file_name": "com.sinyee.babybus.photostudio_9.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Treasure Adventure",
+        "package_name": "com.sinyee.babybus.treasure",
+        "file_name": "com.sinyee.babybus.treasure_10.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "孩子通家长端",
+        "package_name": "com.haizitong.hzt.jia",
+        "file_name": "com.haizitong.hzt.jia_11.apk",
+        "app_activity": "com.haizitong.minhang.codes.ui.RootActivity"
+    },
+    {
+        "app_name": "干净的妙妙",
+        "package_name": "com.sinyee.babybus.miumiu",
+        "file_name": "com.sinyee.babybus.miumiu_12.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "画画涂色Color填色",
+        "package_name": "cn.musimiao.color",
+        "file_name": "cn.musimiao.color_13.apk",
+        "app_activity": "cn.musimiao.color.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "Sports Diary",
+        "package_name": "com.sinyee.babybus.motion",
+        "file_name": "com.sinyee.babybus.motion_14.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "米依小镇世界",
+        "package_name": "com.mc.myxzsj",
+        "file_name": "com.mc.myxzsj_15.apk",
+        "app_activity": "com.mc.myxzsj.CmcmyxzsjStartActivity"
+    },
+    {
+        "app_name": "My Numbers",
+        "package_name": "com.sinyee.babybus.number",
+        "file_name": "com.sinyee.babybus.number_16.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "淘云互动",
+        "package_name": "com.iflytek.hi_panda_parent",
+        "file_name": "com.iflytek.hi_panda_parent_17.apk",
+        "app_activity": "com.iflytek.hi_panda_parent.ui.home.StartActivity"
+    },
+    {
+        "app_name": "幼师口袋",
+        "package_name": "com.ibplus.client",
+        "file_name": "com.ibplus.client_18.apk",
+        "app_activity": "com.ibplus.client.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "Fashion Nail Shop",
+        "package_name": "com.ginastar.FashionNailShop.huawei",
+        "file_name": "com.ginastar.FashionNailShop.huawei_19.apk",
+        "app_activity": "com.ginastar.FashionNailShop.huawei.UnityPlayerActivity"
+    },
+    {
+        "app_name": "救援行动",
+        "package_name": "com.fatcat.RescueAction.huawei",
+        "file_name": "com.fatcat.RescueAction.huawei_20.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "Pet Care Center",
+        "package_name": "com.sinyee.babybus.petsII",
+        "file_name": "com.sinyee.babybus.petsII_21.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Camping Fun",
+        "package_name": "com.sinyee.babybus.picnic",
+        "file_name": "com.sinyee.babybus.picnic_22.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "麦田拼音",
+        "package_name": "com.mytian.pinyin.huawei",
+        "file_name": "com.mytian.pinyin.huawei_23.apk",
+        "app_activity": "com.mytian.mgarden.Launcher"
+    },
+    {
+        "app_name": "Detective Diary",
+        "package_name": "com.sinyee.babybus.police",
+        "file_name": "com.sinyee.babybus.police_24.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Magic Words",
+        "package_name": "com.sinyee.babybus.polite",
+        "file_name": "com.sinyee.babybus.polite_25.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Animated Stickers",
+        "package_name": "com.sinyee.babybus.puzzle",
+        "file_name": "com.sinyee.babybus.puzzle_26.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "奇妙就诊时光",
+        "package_name": "com.sinyee.babybus.babyhospitalII",
+        "file_name": "com.sinyee.babybus.babyhospitalII_27.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "帮帮拼音",
+        "package_name": "com.sxjy.PaopaoPinyin",
+        "file_name": "com.sxjy.PaopaoPinyin_28.apk",
+        "app_activity": "com.zuoyebang.player.PerpUnityActivity"
+    },
+    {
+        "app_name": "Auto Repair Shop",
+        "package_name": "com.sinyee.babybus.repair",
+        "file_name": "com.sinyee.babybus.repair_29.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Pet Line Puzzle",
+        "package_name": "com.sinyee.babybus.rescue",
+        "file_name": "com.sinyee.babybus.rescue_30.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "樱花小镇王国",
+        "package_name": "com.fscy.yhxzwg",
+        "file_name": "com.fscy.yhxzwg_31.apk",
+        "app_activity": "com.fscy.yhxzwg.CfscyyhxzwgStartActivity"
+    },
+    {
+        "app_name": "宝宝巴士奇妙屋",
+        "package_name": "com.sinyee.babybus.talk2kiki",
+        "file_name": "com.sinyee.babybus.talk2kiki_32.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Four Seasons",
+        "package_name": "com.sinyee.babybus.season",
+        "file_name": "com.sinyee.babybus.season_33.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Play in the Dark",
+        "package_name": "com.sinyee.babybus.shadow",
+        "file_name": "com.sinyee.babybus.shadow_34.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Snack-making",
+        "package_name": "com.sinyee.babybus.snacks",
+        "file_name": "com.sinyee.babybus.snacks_35.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "奇妙拼图世界",
+        "package_name": "com.sinyee.babybus.splice",
+        "file_name": "com.sinyee.babybus.splice_36.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "宝宝涂鸦乐园",
+        "package_name": "com.sinyee.babybus.stroke",
+        "file_name": "com.sinyee.babybus.stroke_37.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Baby Panda",
+        "package_name": "com.sinyee.babybus.tailor",
+        "file_name": "com.sinyee.babybus.tailor_38.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "宝宝爱刷牙",
+        "package_name": "com.sinyee.babybus.brushteeth",
+        "file_name": "com.sinyee.babybus.brushteeth_39.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Olingo",
+        "package_name": "com.zuoyebang.dora",
+        "file_name": "com.zuoyebang.dora_40.apk",
+        "app_activity": "com.unity3d.player.OverrideUnityPlayerActivity"
+    },
+    {
+        "app_name": "Magic Numbers",
+        "package_name": "com.sinyee.babybus.numberwriter",
+        "file_name": "com.sinyee.babybus.numberwriter_41.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Daily Habits",
+        "package_name": "com.sinyee.babybus.toilet",
+        "file_name": "com.sinyee.babybus.toilet_42.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Summer Travels",
+        "package_name": "com.sinyee.babybus.travel",
+        "file_name": "com.sinyee.babybus.travel_43.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Space Adventure",
+        "package_name": "com.sinyee.babybus.astronaut",
+        "file_name": "com.sinyee.babybus.astronaut_44.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Block World",
+        "package_name": "com.sinyee.babybus.changeable",
+        "file_name": "com.sinyee.babybus.changeable_45.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "豚小蒙",
+        "package_name": "com.htcm.htsoundpaint",
+        "file_name": "com.htcm.htsoundpaint_46.apk",
+        "app_activity": "com.htcm.htsoundpaint.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "Earthquake Safety Tips",
+        "package_name": "com.sinyee.babybus.earthquake",
+        "file_name": "com.sinyee.babybus.earthquake_47.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "烹饪美食农场",
+        "package_name": "com.cooking.CookingCuisineFarm.huawei",
+        "file_name": "com.cooking.CookingCuisineFarm.huawei_48.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "贝乐虎识字",
+        "package_name": "com.ubestkid.hanzi.a.huawei",
+        "file_name": "com.ubestkid.hanzi.a.huawei_49.apk",
+        "app_activity": "com.ubestkid.hanzi.a.main.SplashActivity"
+    },
+    {
+        "app_name": "钱儿频道",
+        "package_name": "fm.qian.michael",
+        "file_name": "fm.qian.michael_50.apk",
+        "app_activity": "fm.qian.michael.MainActivity"
+    },
+    {
+        "app_name": "奇妙恐龙科普",
+        "package_name": "com.sinyee.babybus.dinosaurIII",
+        "file_name": "com.sinyee.babybus.dinosaurIII_51.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Labo Brick Train Build Game For Kids & Toodlers",
+        "package_name": "com.laboladoapp.labo_brick_train_5y_free.huawei",
+        "file_name": "com.laboladoapp.labo_brick_train_5y_free.huawei_52.apk",
+        "app_activity": "com.laboladoapp.corona.SplashActivity"
+    },
+    {
+        "app_name": "奇鹿",
+        "package_name": "com.luqifei.deerbook",
+        "file_name": "com.luqifei.deerbook_53.apk",
+        "app_activity": "com.luqifei.deerbook.MainActivity"
+    },
+    {
+        "app_name": "Sweet Shop",
+        "package_name": "com.sinyee.babybus.factory",
+        "file_name": "com.sinyee.babybus.factory_54.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Train",
+        "package_name": "com.sinyee.babybus.trainII",
+        "file_name": "com.sinyee.babybus.trainII_55.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+
+    {
+        "app_name": "公主娃娃屋装饰大改造",
+        "package_name": "com.bigruby.HouseDesignDecorateYourHome.huawei",
+        "file_name": "com.bigruby.HouseDesignDecorateYourHome.huawei_1.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "Shape Color Size",
+        "package_name": "com.sinyee.babybus.feeling",
+        "file_name": "com.sinyee.babybus.feeling_2.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "儿童学拼音",
+        "package_name": "com.baby.learn.letters",
+        "file_name": "com.baby.learn.letters_3.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "怪物医院世界模拟医生",
+        "package_name": "com.bigruby.MonsterHospitalWorld.huawei",
+        "file_name": "com.bigruby.MonsterHospitalWorld.huawei_4.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "哈啰拼音",
+        "package_name": "com.kct.pinyin",
+        "file_name": "com.kct.pinyin_5.apk",
+        "app_activity": "com.mytian.appstore.ph.UnityPlayerActivity"
+    },
+    {
+        "app_name": "Penguin Run",
+        "package_name": "com.sinyee.babybus.penguin",
+        "file_name": "com.sinyee.babybus.penguin_6.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "凡达小镇自由世界",
+        "package_name": "com.gzlostar.vatartozysj",
+        "file_name": "com.gzlostar.vatartozysj_7.apk",
+        "app_activity": "com.gzlostar.vatartozysj.CgzlostarvatartozysjStartActivity"
+    },
+    {
+        "app_name": "Down The Mountain",
+        "package_name": "com.xuexue.lms.ccmountain.android.huawei",
+        "file_name": "com.xuexue.lms.ccmountain.android.huawei_8.apk",
+        "app_activity": "com.xuexue.lms.ccmountain.android.LmsCcmountainActivity"
+    },
+    {
+        "app_name": "Shapes",
+        "package_name": "com.sinyee.education.shape",
+        "file_name": "com.sinyee.education.shape_9.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "姐弟大作战",
+        "package_name": "com.hello.WarSisterVSBrother.huawei",
+        "file_name": "com.hello.WarSisterVSBrother.huawei_10.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "宝宝学数字数学启蒙",
+        "package_name": "com.wordtiger.babyshuzi",
+        "file_name": "com.wordtiger.babyshuzi_11.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "央视少儿",
+        "package_name": "com.ctvit.cctvchildren",
+        "file_name": "com.ctvit.cctvchildren_12.apk",
+        "app_activity": "com.ctvit.cctvchildren.ui.main.view.activity.IndexNewActivity"
+    },
+    {
+        "app_name": "Outing Day",
+        "package_name": "com.duoduo.games.ddoutingplay",
+        "file_name": "com.duoduo.games.ddoutingplay_13.apk",
+        "app_activity": "org.cocos2dx.javascript.SplashActivity"
+    },
+    {
+        "app_name": "美甲设计搭配",
+        "package_name": "com.bigruby.FashionNailShop.huawei",
+        "file_name": "com.bigruby.FashionNailShop.huawei_14.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "魔法小镇梦幻之旅",
+        "package_name": "com.feitukj.mfxzmhzl",
+        "file_name": "com.feitukj.mfxzmhzl_15.apk",
+        "app_activity": "com.feitukj.mfxzmhzl.CfeitukjmfxzmhzlStartActivity"
+    },
+    {
+        "app_name": "宠物小医生",
+        "package_name": "com.fatcat.PetVetDoctor.huawei",
+        "file_name": "com.fatcat.PetVetDoctor.huawei_16.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "宝贝启步",
+        "package_name": "com.qibu.child",
+        "file_name": "com.qibu.child_17.apk",
+        "app_activity": "com.qibu.child.ui.common.splash.SplashActivity"
+    },
+    {
+        "app_name": "Baby Panda Daily Necessities",
+        "package_name": "com.sinyee.babybus.dailycommodities",
+        "file_name": "com.sinyee.babybus.dailycommodities_18.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "猿编程萌新",
+        "package_name": "com.fenbi.ada.steam.student.android",
+        "file_name": "com.fenbi.ada.steam.student.android_19.apk",
+        "app_activity": "com.fenbi.ada.steam.student.android.SplashActivity"
+    },
+    {
+        "app_name": "得力爱探索",
+        "package_name": "com.delicloud.ar.universe",
+        "file_name": "com.delicloud.ar.universe_20.apk",
+        "app_activity": "com.unity3d.player.UnityPlayerActivity"
+    },
+    {
+        "app_name": "儿童手绘画画板",
+        "package_name": "cn.islake.tuya",
+        "file_name": "cn.islake.tuya_21.apk",
+        "app_activity": "cn.islake.tuya.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "儿童涂色涂鸦",
+        "package_name": "cn.weixiaowenghua.tiaose",
+        "file_name": "cn.weixiaowenghua.tiaose_22.apk",
+        "app_activity": "cn.weixiaowenghua.tiaose.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "小悟空自己读",
+        "package_name": "com.gongfubb.zjd",
+        "file_name": "com.gongfubb.zjd_23.apk",
+        "app_activity": "com.gongfubb.unityplugin.MyUnityPlayerActivity"
+    },
+    {
+        "app_name": "Prince Invitation",
+        "package_name": "com.hello.PrinceInvitation.hauwei",
+        "file_name": "com.hello.PrinceInvitation.hauwei_24.apk",
+        "app_activity": "com.hello.PrinceInvitation.hauwei.UnityPlayerActivity"
+    },
+    {
+        "app_name": "派对主题乐园",
+        "package_name": "com.kid58.lianyong.park",
+        "file_name": "com.kid58.lianyong.park_25.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "最佳烹饪食谱家庭厨房",
+        "package_name": "com.cooking.BestCookingRecipe.huawei",
+        "file_name": "com.cooking.BestCookingRecipe.huawei_26.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "Baby Panda Papermaking",
+        "package_name": "com.sinyee.babybus.papermaking",
+        "file_name": "com.sinyee.babybus.papermaking_27.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "艾尔莎公主舞会装扮故事",
+        "package_name": "com.fatcat.PrincessGrandDressUpProm.huawei",
+        "file_name": "com.fatcat.PrincessGrandDressUpProm.huawei_28.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "拼音点读",
+        "package_name": "com.hp.pyddzs",
+        "file_name": "com.hp.pyddzs_29.apk",
+        "app_activity": "com.example.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "小斑斑",
+        "package_name": "com.fenbi.android.eva",
+        "file_name": "com.fenbi.android.eva_30.apk",
+        "app_activity": "com.fenbi.android.zebraenglish.activity.portal.WelcomeActivity"
+    },
+    {
+        "app_name": "冰雪公主的盛大婚礼",
+        "package_name": "com.ginastar.IceQueenGrandWedding.huawei",
+        "file_name": "com.ginastar.IceQueenGrandWedding.huawei_31.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "Forest Adventure",
+        "package_name": "com.sinyee.babybus.expedition",
+        "file_name": "com.sinyee.babybus.expedition_32.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "宝宝学英语",
+        "package_name": "com.bruce.english",
+        "file_name": "com.bruce.english_33.apk",
+        "app_activity": "com.bruce.english.SplashActivity"
+    },
+    {
+        "app_name": "根源盒子",
+        "package_name": "com.genyuanxue.app",
+        "file_name": "com.genyuanxue.app_34.apk",
+        "app_activity": "com.genyuanxue.app.ui.MainActivity"
+    },
+    {
+        "app_name": "Animal World",
+        "package_name": "com.sinyee.babybus.zoo",
+        "file_name": "com.sinyee.babybus.zoo_35.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "小金猴AI启蒙",
+        "package_name": "cn.mama.aistory",
+        "file_name": "cn.mama.aistory_36.apk",
+        "app_activity": "cn.mama.aistory.MainActivity"
+    },
+    {
+        "app_name": "孩子通",
+        "package_name": "com.haizitong.hzt.yuan",
+        "file_name": "com.haizitong.hzt.yuan_37.apk",
+        "app_activity": "com.haizitong.minhang.codes.ui.RootActivity"
+    },
+    {
+        "app_name": "Happy Farm",
+        "package_name": "com.duoduo.games.ddfarm",
+        "file_name": "com.duoduo.games.ddfarm_38.apk",
+        "app_activity": "org.cocos2dx.javascript.SplashActivity"
+    },
+    {
+        "app_name": "Rescue",
+        "package_name": "com.duoduo.games.ddhelp",
+        "file_name": "com.duoduo.games.ddhelp_39.apk",
+        "app_activity": "org.cocos2dx.javascript.SplashActivity"
+    },
+    {
+        "app_name": "English for Kids",
+        "package_name": "com.xuexue.lms.english.android",
+        "file_name": "com.xuexue.lms.english.android_40.apk",
+        "app_activity": "com.xuexue.lms.english.android.LmsEnglishActivity"
+    },
+    {
+        "app_name": "宝宝学拼音",
+        "package_name": "com.wordtiger.babypingyin",
+        "file_name": "com.wordtiger.babypingyin_41.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "Tell the Difference",
+        "package_name": "com.sinyee.babybus.monster",
+        "file_name": "com.sinyee.babybus.monster_42.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "凡达世界小镇",
+        "package_name": "com.yyh.mjsjbfsh",
+        "file_name": "com.yyh.mjsjbfsh_43.apk",
+        "app_activity": "com.yyh.mjsjbfsh.CyyhmjsjbfshStartActivity"
+    },
+    {
+        "app_name": "小伴龙识字",
+        "package_name": "com.youban.xblliteracy",
+        "file_name": "com.youban.xblliteracy_44.apk",
+        "app_activity": "com.youban.xblliteracy.MyUnityPlayerActivity"
+    },
+    {
+        "app_name": "Cooking Cosmetic Box Cake",
+        "package_name": "com.vstarapps.CosmeticBoxCake.huawei",
+        "file_name": "com.vstarapps.CosmeticBoxCake.huawei_45.apk",
+        "app_activity": "com.vstarapps.CosmeticBoxCake.huawei.UnityPlayerActivity"
+    },
+    {
+        "app_name": "美人鱼化妆沙龙",
+        "package_name": "com.fatcat.MermaidFashionMakeup",
+        "file_name": "com.fatcat.MermaidFashionMakeup_46.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "淘淘学古诗",
+        "package_name": "com.ttsi.appstore.gs",
+        "file_name": "com.ttsi.appstore.gs_47.apk",
+        "app_activity": "com.cocos.game.AppActivity"
+    },
+    {
+        "app_name": "淘淘爱拼音",
+        "package_name": "com.ttsi.appstore.py",
+        "file_name": "com.ttsi.appstore.py_48.apk",
+        "app_activity": "com.cocos.game.AppActivity"
+    },
+    {
+        "app_name": "育之有道",
+        "package_name": "com.shanjian.qingzhi",
+        "file_name": "com.shanjian.qingzhi_49.apk",
+        "app_activity": "com.example.educated.MainActivity"
+    },
+    {
+        "app_name": "儿童双语绘本",
+        "package_name": "com.njmizhilan.kidvideo",
+        "file_name": "com.njmizhilan.kidvideo_50.apk",
+        "app_activity": "com.fanghe.project.ui.SplashActivity"
+    },
+    {
+        "app_name": "宝宝儿童来拼图",
+        "package_name": "com.touchtech.etpintu",
+        "file_name": "com.touchtech.etpintu_51.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "芭比环游世界",
+        "package_name": "com.hello.GirlTravelAround.huawei",
+        "file_name": "com.hello.GirlTravelAround.huawei_52.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "Vegetables",
+        "package_name": "com.sinyee.babybus.vegetable",
+        "file_name": "com.sinyee.babybus.vegetable_53.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Baby Panda Learns Body Parts",
+        "package_name": "com.sinyee.babybus.body2",
+        "file_name": "com.sinyee.babybus.body2_54.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Tangram",
+        "package_name": "com.sinyee.babybus.spell",
+        "file_name": "com.sinyee.babybus.spell_55.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Kids Math",
+        "package_name": "com.xuexue.lms.math.android",
+        "file_name": "com.xuexue.lms.math.android_56.apk",
+        "app_activity": "com.xuexue.lms.math.android.LmsMathActivity"
+    },
+    {
+        "app_name": "疯狂婚礼发型设计",
+        "package_name": "com.fatcat.CrazyWeddingHairDesign.huawei",
+        "file_name": "com.fatcat.CrazyWeddingHairDesign.huawei_57.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "Preschool Learning",
+        "package_name": "com.sinyee.jojo.jopuzzle",
+        "file_name": "com.sinyee.jojo.jopuzzle_58.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Todo Math",
+        "package_name": "com.enuma.todomathcn",
+        "file_name": "com.enuma.todomathcn_59.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "汉语拼音拼读学习",
+        "package_name": "com.shineyie.pinyincards",
+        "file_name": "com.shineyie.pinyincards_60.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "Dental Clinic",
+        "package_name": "com.duoduo.games.ddtooth",
+        "file_name": "com.duoduo.games.ddtooth_61.apk",
+        "app_activity": "org.cocos2dx.javascript.SplashActivity"
+    },
+    {
+        "app_name": "传统美食制作",
+        "package_name": "com.cooking.CookingChineseFoods.huawei",
+        "file_name": "com.cooking.CookingChineseFoods.huawei_62.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "大明星成长计划",
+        "package_name": "com.fatcat.StarSingerGrowUp.huawei",
+        "file_name": "com.fatcat.StarSingerGrowUp.huawei_63.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "2Kids学拼音",
+        "package_name": "cn.kidsapp.Pinyin",
+        "file_name": "cn.kidsapp.Pinyin_64.apk",
+        "app_activity": "cn.kidsapp.Pinyin.NewPinyin"
+    },
+    {
+        "app_name": "Labo Marble Ball Race",
+        "package_name": "com.laboladoapp.labo_marble_race1.huawei",
+        "file_name": "com.laboladoapp.labo_marble_race1.huawei_65.apk",
+        "app_activity": "com.laboladoapp.corona.SplashActivity"
+    },
+    {
+        "app_name": "看图识字",
+        "package_name": "com.bruce.learning",
+        "file_name": "com.bruce.learning_66.apk",
+        "app_activity": "com.bruce.learning.SplashActivity"
+    },
+    {
+        "app_name": "Book of Vehicles",
+        "package_name": "com.sinyee.babybus.carsII",
+        "file_name": "com.sinyee.babybus.carsII_67.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "小鹿听听",
+        "package_name": "com.fxtrip.xltt",
+        "file_name": "com.fxtrip.xltt_68.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "装扮迷你少女换装",
+        "package_name": "com.gzlzg.zbmnsnhz",
+        "file_name": "com.gzlzg.zbmnsnhz_69.apk",
+        "app_activity": "com.gzlzg.zbmnsnhz.CgzlzgzbmnsnhzStartActivity"
+    },
+    {
+        "app_name": "Ice Dance Closething Store",
+        "package_name": "com.ginastar.IceDanceClosethingStore.huawei",
+        "file_name": "com.ginastar.IceDanceClosethingStore.huawei_70.apk",
+        "app_activity": "com.ginastar.IceDanceClosethingStore.huawei.UnityPlayerActivity"
+    },
+    {
+        "app_name": "Learning Alphabet",
+        "package_name": "com.sinyee.babybus.english",
+        "file_name": "com.sinyee.babybus.english_71.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Animal Family",
+        "package_name": "com.sinyee.babybus.gender",
+        "file_name": "com.sinyee.babybus.gender_72.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "奇妙好习惯",
+        "package_name": "com.sinyee.babybus.habits",
+        "file_name": "com.sinyee.babybus.habits_73.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "凡达孩童全新世界",
+        "package_name": "com.gzzdd.fdhtqxsj",
+        "file_name": "com.gzzdd.fdhtqxsj_74.apk",
+        "app_activity": "com.gzzdd.fdhtqxsj.CgzzddfdhtqxsjStartActivity"
+    },
+    {
+        "app_name": "Bird Kingdom",
+        "package_name": "com.sinyee.babybus.bird",
+        "file_name": "com.sinyee.babybus.bird_75.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Learning Cards",
+        "package_name": "com.sinyee.babybus.card",
+        "file_name": "com.sinyee.babybus.card_76.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Magical Seeds",
+        "package_name": "com.sinyee.babybus.seed",
+        "file_name": "com.sinyee.babybus.seed_77.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "2Kids数学天天练",
+        "package_name": "cn.kidsapp.mathPractice.huawei",
+        "file_name": "cn.kidsapp.mathPractice.huawei_78.apk",
+        "app_activity": "cn.kidsapp.mathPractice.NewHanzi"
+    },
+    {
+        "app_name": "回旋寿司合成经营店",
+        "package_name": "com.cooking.IdleSushiOwner.huawei",
+        "file_name": "com.cooking.IdleSushiOwner.huawei_79.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "Life Diary",
+        "package_name": "com.sinyee.babybus.labour",
+        "file_name": "com.sinyee.babybus.labour_80.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "Chinese Festival",
+        "package_name": "com.duoduo.games.festival",
+        "file_name": "com.duoduo.games.festival_81.apk",
+        "app_activity": "org.cocos2dx.javascript.SplashActivity"
+    },
+    {
+        "app_name": "Memory in Action",
+        "package_name": "com.sinyee.babybus.memory",
+        "file_name": "com.sinyee.babybus.memory_82.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "家庭别墅装饰设计",
+        "package_name": "com.bigruby.FamilyVillaDecoration.huawei",
+        "file_name": "com.bigruby.FamilyVillaDecoration.huawei_83.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "吉壁小镇",
+        "package_name": "com.gzzdd.mjthsj",
+        "file_name": "com.gzzdd.mjthsj_84.apk",
+        "app_activity": "com.gzzdd.mjthsj.CgzzddmjthsjStartActivity"
+    },
+    {
+        "app_name": "Creative Shapes World",
+        "package_name": "com.sinyee.babybus.spell2",
+        "file_name": "com.sinyee.babybus.spell2_85.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "陶瓷艺术",
+        "package_name": "com.fatcat.PotteryArt.huawei",
+        "file_name": "com.fatcat.PotteryArt.huawei_86.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "宝宝音乐多多",
+        "package_name": "com.sinyee.babybus.cookingpercussion",
+        "file_name": "com.sinyee.babybus.cookingpercussion_87.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    }
+]

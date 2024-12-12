@@ -1,0 +1,170 @@
+[
+    {
+        "app_name": "FM调频收音机软件",
+        "package_name": "com.apa.fmtpsyj",
+        "file_name": "com.apa.fmtpsyj_1.apk",
+        "app_activity": "com.duot.radio.activity.SplashActivity"
+    },
+    {
+        "app_name": "云上南阳",
+        "package_name": "cn.hnr.cloudnanyang",
+        "file_name": "cn.hnr.cloudnanyang_2.apk",
+        "app_activity": "cn.hnr.cloudnanyang.WelcomeActivity"
+    },
+    {
+        "app_name": "漫播",
+        "package_name": "com.uxin.kilaaudio",
+        "file_name": "com.uxin.kilaaudio_3.apk",
+        "app_activity": "com.uxin.kilaaudio.splash.SplashActivity"
+    },
+    {
+        "app_name": "爱音斯坦FM",
+        "package_name": "com.fm.aiyinsitan",
+        "file_name": "com.fm.aiyinsitan_4.apk",
+        "app_activity": "com.fm.aiyinsitan.mvp.view.activity.AdSplashActivity"
+    },
+    {
+        "app_name": "荔枝",
+        "package_name": "com.yibasan.lizhifm",
+        "file_name": "com.yibasan.lizhifm_5.apk",
+        "app_activity": "com.yibasan.lizhifm.activities.EntryToNavActivity"
+    },
+    {
+        "app_name": "FM手机调频收音机",
+        "package_name": "sjgbdt.two",
+        "file_name": "sjgbdt.two_6.apk",
+        "app_activity": "com.duoduoapp.fm.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "SADA FM",
+        "package_name": "com.example.sadas",
+        "file_name": "com.example.sadas_7.apk",
+        "app_activity": "com.example.sadas.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "喜马拉雅穿戴",
+        "package_name": "com.ximalayaos.app.sport",
+        "file_name": "com.ximalayaos.app.sport_8.apk",
+        "app_activity": "com.ximalayaos.app.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "小雅",
+        "package_name": "com.orion.xiaoya.speakerclient",
+        "file_name": "com.orion.xiaoya.speakerclient_9.apk",
+        "app_activity": "com.orion.xiaoya.speakerclient.SplashActivity"
+    },
+    {
+        "app_name": "听听FM",
+        "package_name": "com.audio.tingting",
+        "file_name": "com.audio.tingting_10.apk",
+        "app_activity": "com.audio.tingting.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "情感在线",
+        "package_name": "com.bjky.app.qgzx",
+        "file_name": "com.bjky.app.qgzx_11.apk",
+        "app_activity": "com.bjky.app.flutterapp.MainActivity"
+    },
+    {
+        "app_name": "云听",
+        "package_name": "com.shinyv.cnr",
+        "file_name": "com.shinyv.cnr_12.apk",
+        "app_activity": "com.shinyv.cnr.StartActivity_"
+    },
+    {
+        "app_name": "手机收音机",
+        "package_name": "syj.youngfhsher",
+        "file_name": "syj.youngfhsher_13.apk",
+        "app_activity": "com.yydd.fm.activity.SplashActivity"
+    },
+    {
+        "app_name": "深爱听",
+        "package_name": "com.szmg.radioapp",
+        "file_name": "com.szmg.radioapp_14.apk",
+        "app_activity": "com.linker.xlyt.module.homepage.StartActivity"
+    },
+    {
+        "app_name": "听见广播",
+        "package_name": "cn.cbct.seefm",
+        "file_name": "cn.cbct.seefm_15.apk",
+        "app_activity": "cn.cbct.seefm.ui.main.WelcomeActivity"
+    },
+    {
+        "app_name": "Sure",
+        "package_name": "com.qk.qingka",
+        "file_name": "com.qk.qingka_16.apk",
+        "app_activity": "com.qk.qingka.main.LauncherActivity"
+    },
+    {
+        "app_name": "叮咚FM电台",
+        "package_name": "com.pansoft.dingdongfm3",
+        "file_name": "com.pansoft.dingdongfm3_17.apk",
+        "app_activity": "com.jnbt.ddfm.activities.WelcomeActivity"
+    },
+    {
+        "app_name": "Ximalaya",
+        "package_name": "com.ximalaya.ting.android",
+        "file_name": "com.ximalaya.ting.android_18.apk",
+        "app_activity": "com.ximalaya.ting.android.host.activity.MainActivity"
+    },
+    {
+        "app_name": "荔枝播客",
+        "package_name": "com.lizhi.podcast",
+        "file_name": "com.lizhi.podcast_19.apk",
+        "app_activity": "com.lizhi.podcast.ui.EntryPointActivity"
+    },
+    {
+        "app_name": "花生FM",
+        "package_name": "com.juntian.radiopeanut",
+        "file_name": "com.juntian.radiopeanut_20.apk",
+        "app_activity": "com.juntian.radiopeanut.mvp.ui.activity.SplanActivity"
+    },
+    {
+        "app_name": "阿基米德",
+        "package_name": "org.ajmd",
+        "file_name": "org.ajmd_21.apk",
+        "app_activity": "org.ajmd.main.ui.LaunchActivity"
+    },
+    {
+        "app_name": "九头鸟FM",
+        "package_name": "com.linker.hbyt",
+        "file_name": "com.linker.hbyt_22.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "喜欢听",
+        "package_name": "com.linker.xlyt",
+        "file_name": "com.linker.xlyt_23.apk",
+        "app_activity": "com.linker.xlyt.module.homepage.StartActivity"
+    },
+    {
+        "app_name": "粤听",
+        "package_name": "com.teamnet.hula",
+        "file_name": "com.teamnet.hula_24.apk",
+        "app_activity": "com.gdtv.module.main.view.activity.SplashActivity_v2"
+    },
+    {
+        "app_name": "华语之声",
+        "package_name": "com.fm.hy960",
+        "file_name": "com.fm.hy960_25.apk",
+        "app_activity": "com.fm.hy960.app.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "一路听天下",
+        "package_name": "com.t1678.app",
+        "file_name": "com.t1678.app_26.apk",
+        "app_activity": "com.t1678.app.MainActivity"
+    },
+    {
+        "app_name": "凤凰FM",
+        "package_name": "com.ifeng.fhdt",
+        "file_name": "com.ifeng.fhdt_27.apk",
+        "app_activity": "com.ifeng.fhdt.activity.StartActivity"
+    },
+    {
+        "app_name": "声播",
+        "package_name": "com.tme.atool",
+        "file_name": "com.tme.atool_28.apk",
+        "app_activity": "com.lazy.lite.splash.EntryActivity"
+    }
+]

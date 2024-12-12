@@ -1,0 +1,830 @@
+[
+    {
+        "app_name": "中国联合航空",
+        "package_name": "com.jetair.cuair",
+        "file_name": "com.jetair.cuair_1.apk",
+        "app_activity": "com.jetair.cuair.MainActivity"
+    },
+    {
+        "app_name": "全国火车票实时查",
+        "package_name": "com.shyl.train",
+        "file_name": "com.shyl.train_2.apk",
+        "app_activity": "com.shyl.train.StartLoadData"
+    },
+    {
+        "app_name": "Airmacau",
+        "package_name": "com.neusoft.airmacau",
+        "file_name": "com.neusoft.airmacau_3.apk",
+        "app_activity": "com.neusoft.airmacau.avtivity.MainActivity"
+    },
+    {
+        "app_name": "北部湾航空",
+        "package_name": "com.eking.gxair",
+        "file_name": "com.eking.gxair_4.apk",
+        "app_activity": "com.xc.tjhk.ui.contacts.activity.SplashActivity"
+    },
+    {
+        "app_name": "帝豪国旅",
+        "package_name": "com.wzdh.b2capp",
+        "file_name": "com.wzdh.b2capp_5.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "香港航空",
+        "package_name": "com.hkairlines.apps",
+        "file_name": "com.hkairlines.apps_6.apk",
+        "app_activity": "com.iotecksolutions.todoapp.MainActivity"
+    },
+    {
+        "app_name": "Omio",
+        "package_name": "com.goeuro.rosie",
+        "file_name": "com.goeuro.rosie_7.apk",
+        "app_activity": "com.goeuro.rosie.app.TopLevelActivity"
+    },
+    {
+        "app_name": "铁行特价机票",
+        "package_name": "com.woyaou.txair",
+        "file_name": "com.woyaou.txair_8.apk",
+        "app_activity": "com.woyaou.WelcomeActivity"
+    },
+    {
+        "app_name": "中国国航",
+        "package_name": "com.rytong.airchina",
+        "file_name": "com.rytong.airchina_9.apk",
+        "app_activity": "com.rytong.airchina.unility.splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "一起飞",
+        "package_name": "com.dong28.yiqifei",
+        "file_name": "com.dong28.yiqifei_10.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "国旅运通",
+        "package_name": "com.cits.express.android",
+        "file_name": "com.cits.express.android_11.apk",
+        "app_activity": "com.cits.express.android.loading.LoadingActivity"
+    },
+    {
+        "app_name": "山航掌尚飞",
+        "package_name": "com.huicent",
+        "file_name": "com.huicent_12.apk",
+        "app_activity": "com.huicent.splash.ui.SplashActivity"
+    },
+    {
+        "app_name": "高铁管家",
+        "package_name": "com.gtgj.view",
+        "file_name": "com.gtgj.view_13.apk",
+        "app_activity": "com.gtgj.view.LaunchActivity"
+    },
+    {
+        "app_name": "首都航空",
+        "package_name": "com.capitalairlines.dingpiao",
+        "file_name": "com.capitalairlines.dingpiao_14.apk",
+        "app_activity": "com.xc.tjhk.ui.contacts.activity.SplashActivity"
+    },
+    {
+        "app_name": "易航商旅",
+        "package_name": "com.yihang.thbao",
+        "file_name": "com.yihang.thbao_15.apk",
+        "app_activity": "com.tianhang.thbao.modules.main.ui.SplashActivity"
+    },
+    {
+        "app_name": "AirAsia MOVE",
+        "package_name": "com.airasia.mobile",
+        "file_name": "com.airasia.mobile_16.apk",
+        "app_activity": "com.airasia.mobile.MainActivity2"
+    },
+    {
+        "app_name": "隧e通",
+        "package_name": "com.luqiao.tunneltone",
+        "file_name": "com.luqiao.tunneltone_17.apk",
+        "app_activity": "com.qdsyt.SplashActivity"
+    },
+    {
+        "app_name": "广州三和商旅",
+        "package_name": "com.compangy.gzsh",
+        "file_name": "com.compangy.gzsh_18.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "凯航商旅",
+        "package_name": "com.compangy.khsh",
+        "file_name": "com.compangy.khsh_19.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "珞珈差旅",
+        "package_name": "com.compangy.ljsl",
+        "file_name": "com.compangy.ljsl_20.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "有票",
+        "package_name": "com.youpiao.client",
+        "file_name": "com.youpiao.client_21.apk",
+        "app_activity": "com.youpiao.client.enteractivity.SplashActivity"
+    },
+    {
+        "app_name": "瑞航易行",
+        "package_name": "net.rlair.b2capp",
+        "file_name": "net.rlair.b2capp_22.apk",
+        "app_activity": "net.rlair.b2capp.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "南方航空",
+        "package_name": "com.csair.mbp",
+        "file_name": "com.csair.mbp_23.apk",
+        "app_activity": "com.csair.mbp.launcher.WelcomeActivity"
+    },
+    {
+        "app_name": "联友商旅",
+        "package_name": "com.lymobility.shanglv",
+        "file_name": "com.lymobility.shanglv_24.apk",
+        "app_activity": "com.ikamobile.smeclient.misc.SplashActivity"
+    },
+    {
+        "app_name": "码码通",
+        "package_name": "com.jieyi.citycomm.jilin",
+        "file_name": "com.jieyi.citycomm.jilin_25.apk",
+        "app_activity": "com.jieyisoft.jilinmamatong.activity.LaunchActivity"
+    },
+    {
+        "app_name": "荣昌公交",
+        "package_name": "com.cictec.rongchang.intelligence.travel",
+        "file_name": "com.cictec.rongchang.intelligence.travel_26.apk",
+        "app_activity": "com.cictec.rongchang.intelligence.travel.LoadingActivity"
+    },
+    {
+        "app_name": "白云机场",
+        "package_name": "com.travelsky.baiyun.airportairline",
+        "file_name": "com.travelsky.baiyun.airportairline_27.apk",
+        "app_activity": "com.travelsky.airport.mskymf.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "嘉华易行",
+        "package_name": "com.tripkgjh.jhyx",
+        "file_name": "com.tripkgjh.jhyx_28.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "美瀛差旅",
+        "package_name": "net.mtrip.tmcapp",
+        "file_name": "net.mtrip.tmcapp_29.apk",
+        "app_activity": "net.mtrip.MainActivity"
+    },
+    {
+        "app_name": "同利费控",
+        "package_name": "com.yjtravel.etclh5",
+        "file_name": "com.yjtravel.etclh5_30.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "福州航空",
+        "package_name": "net.yeesky.fzair",
+        "file_name": "net.yeesky.fzair_31.apk",
+        "app_activity": "com.xc.tjhk.ui.contacts.activity.SplashActivity"
+    },
+    {
+        "app_name": "祥鹏航空",
+        "package_name": "net.yeesky.hnair",
+        "file_name": "net.yeesky.hnair_32.apk",
+        "app_activity": "com.xc.tjhk.ui.contacts.activity.SplashActivity"
+    },
+    {
+        "app_name": "铁路12306",
+        "package_name": "com.MobileTicket",
+        "file_name": "com.MobileTicket_33.apk",
+        "app_activity": "com.MobileTicket.ui.activity.WelcomeGuideActivity"
+    },
+    {
+        "app_name": "丰谊商旅",
+        "package_name": "fy.app",
+        "file_name": "fy.app_34.apk",
+        "app_activity": "fy.app.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "巴巴快巴",
+        "package_name": "com.hundsun.InternetSaleTicket",
+        "file_name": "com.hundsun.InternetSaleTicket_35.apk",
+        "app_activity": "com.hundsun.InternetSaleTicket.activity.StartPageActivity"
+    },
+    {
+        "app_name": "86巴士",
+        "package_name": "com.boundless.bus86",
+        "file_name": "com.boundless.bus86_36.apk",
+        "app_activity": "com.boundless.bus86.ui.MainActivity"
+    },
+    {
+        "app_name": "鱼游差旅",
+        "package_name": "com.catl.ctravel",
+        "file_name": "com.catl.ctravel_37.apk",
+        "app_activity": "huawei.w3.smartcom.itravel.business.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "365司机助手",
+        "package_name": "cn.bus365.driver",
+        "file_name": "cn.bus365.driver_39.apk",
+        "app_activity": "cn.bus365.driver.ui.LogoActivity"
+    },
+    {
+        "app_name": "航旅纵横",
+        "package_name": "com.umetrip.android.msky.app",
+        "file_name": "com.umetrip.android.msky.app_40.apk",
+        "app_activity": "com.umetrip.android.msky.app.module.startup.SplashActivity"
+    },
+    {
+        "app_name": "企业商旅行",
+        "package_name": "com.liantuobusiness.tmcxing",
+        "file_name": "com.liantuobusiness.tmcxing_41.apk",
+        "app_activity": "com.liantuobusiness.tmcxing.activity.SplashActivity"
+    },
+    {
+        "app_name": "长春E出行",
+        "package_name": "com.bwton.msx.ccb",
+        "file_name": "com.bwton.msx.ccb_42.apk",
+        "app_activity": "com.bwton.metro.lanuch.LanuchActivity"
+    },
+    {
+        "app_name": "嘉州通",
+        "package_name": "com.bwton.msx.lsb",
+        "file_name": "com.bwton.msx.lsb_43.apk",
+        "app_activity": "com.bwton.msx.lsb.StartUpActivity"
+    },
+    {
+        "app_name": "石家庄轨道交通",
+        "package_name": "com.bwton.msx.sjz",
+        "file_name": "com.bwton.msx.sjz_44.apk",
+        "app_activity": "com.bwton.metro.lanuch.LanuchActivity"
+    },
+    {
+        "app_name": "乐速通",
+        "package_name": "com.bjetc.mobile",
+        "file_name": "com.bjetc.mobile_45.apk",
+        "app_activity": "com.bjetc.mobile.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "出行365",
+        "package_name": "cn.nova.phone",
+        "file_name": "cn.nova.phone_46.apk",
+        "app_activity": "cn.nova.phone.ui.LogoActivity"
+    },
+    {
+        "app_name": "愉客行",
+        "package_name": "com.yukexing.mobileticket",
+        "file_name": "com.yukexing.mobileticket_47.apk",
+        "app_activity": "com.yukexing.mobileticket.activity.AdvertisingStartActivity"
+    },
+    {
+        "app_name": "腾云",
+        "package_name": "com.travelsky.etermclouds",
+        "file_name": "com.travelsky.etermclouds_49.apk",
+        "app_activity": "com.travelsky.etermclouds.login.WelcomeActivity"
+    },
+    {
+        "app_name": "飞联天下",
+        "package_name": "com.tojoy.airtraffic",
+        "file_name": "com.tojoy.airtraffic_50.apk",
+        "app_activity": "com.tojoy.airtraffic.ui.splash.SplashActivityKt"
+    },
+    {
+        "app_name": "团子出行",
+        "package_name": "com.zh.carbyticket",
+        "file_name": "com.zh.carbyticket_51.apk",
+        "app_activity": "com.bst.app.main.SplashActivity"
+    },
+    {
+        "app_name": "看个比赛",
+        "package_name": "com.kgbs.ticket",
+        "file_name": "com.kgbs.ticket_52.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "云滴出行",
+        "package_name": "cn.ayundi.user",
+        "file_name": "cn.ayundi.user_53.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "漾泉行",
+        "package_name": "com.whpe.qrcode.shanxi.yangquanxing",
+        "file_name": "com.whpe.qrcode.shanxi.yangquanxing_54.apk",
+        "app_activity": "com.whpe.qrcode.shanxi.yangquanxing.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "白银公交",
+        "package_name": "com.zd.traveller.baiyin",
+        "file_name": "com.zd.traveller.baiyin_55.apk",
+        "app_activity": "com.sutpc.bjfy.customer.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "掌上东美",
+        "package_name": "cn.dmair.dmsapp",
+        "file_name": "cn.dmair.dmsapp_56.apk",
+        "app_activity": "crc640c74b3bff38e69d2.MainActivity"
+    },
+    {
+        "app_name": "空港易行",
+        "package_name": "com.elsw.cip.users",
+        "file_name": "com.elsw.cip.users_57.apk",
+        "app_activity": "com.elsw.cip.users.ui.activity.WelComeActivity"
+    },
+    {
+        "app_name": "路路通",
+        "package_name": "com.lltskb.lltskb",
+        "file_name": "com.lltskb.lltskb_58.apk",
+        "app_activity": "com.lltskb.lltskb.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "粤通卡",
+        "package_name": "com.uroad.unitoll",
+        "file_name": "com.uroad.unitoll_59.apk",
+        "app_activity": "com.uroad.unitoll.ui.activity.Launch0Activity"
+    },
+    {
+        "app_name": "金华行",
+        "package_name": "com.jhx.app",
+        "file_name": "com.jhx.app_60.apk",
+        "app_activity": "com.bwton.metro.lanuch.LaunchActivityJinHua"
+    },
+    {
+        "app_name": "微付充",
+        "package_name": "com.micropay.pay",
+        "file_name": "com.micropay.pay_61.apk",
+        "app_activity": "com.micropay.pay.activity.InitActivity"
+    },
+    {
+        "app_name": "铁行汽车票",
+        "package_name": "com.tiexing.bus",
+        "file_name": "com.tiexing.bus_62.apk",
+        "app_activity": "com.woyaou.WelcomeActivity"
+    },
+    {
+        "app_name": "湘潭出行",
+        "package_name": "com.whpe.qrcode.hunan_xiangtan",
+        "file_name": "com.whpe.qrcode.hunan_xiangtan_63.apk",
+        "app_activity": "com.whpe.qrcode.hunan_xiangtan.activity.ActivitySplash"
+    },
+    {
+        "app_name": "Wei Trip",
+        "package_name": "com.ctrip.ct.weichaitrip",
+        "file_name": "com.ctrip.ct.weichaitrip_64.apk",
+        "app_activity": "com.ctrip.ct.ui.activity.BusinessActivity"
+    },
+    {
+        "app_name": "公务行",
+        "package_name": "mc.myapplication",
+        "file_name": "mc.myapplication_65.apk",
+        "app_activity": "zhx.application.AppStartActivity"
+    },
+    {
+        "app_name": "阳光商旅",
+        "package_name": "com.soltrip.SoltripBusinessTravel",
+        "file_name": "com.soltrip.SoltripBusinessTravel_66.apk",
+        "app_activity": "huawei.w3.smartcom.itravel.business.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "一票通",
+        "package_name": "com.haisi.app",
+        "file_name": "com.haisi.app_67.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "西藏汽车票",
+        "package_name": "com.bst.xzp.ticket",
+        "file_name": "com.bst.xzp.ticket_68.apk",
+        "app_activity": "com.zh.carbyticket.ui.Splash"
+    },
+    {
+        "app_name": "掌上火车票",
+        "package_name": "com.ffgamestudio.fast12306",
+        "file_name": "com.ffgamestudio.fast12306_69.apk",
+        "app_activity": "com.ffgamestudio.fast12306.MainActivity"
+    },
+    {
+        "app_name": "畅帆商旅",
+        "package_name": "com.changfunfly.businesstravel",
+        "file_name": "com.changfunfly.businesstravel_70.apk",
+        "app_activity": "com.himyidea.businesstravel.activity.usandload.WelcomeActivity"
+    },
+    {
+        "app_name": "纵航商旅机票",
+        "package_name": "com.zhsl.air",
+        "file_name": "com.zhsl.air_71.apk",
+        "app_activity": "com.woyaou.mode.common.WelcomeActivity"
+    },
+    {
+        "app_name": "渤海湾船票",
+        "package_name": "cn.chuanpiao51.ship",
+        "file_name": "cn.chuanpiao51.ship_72.apk",
+        "app_activity": "cn.chuanpiao51.ship.MainActivity"
+    },
+    {
+        "app_name": "特航商旅",
+        "package_name": "com.tehang.TMC",
+        "file_name": "com.tehang.TMC_73.apk",
+        "app_activity": "com.tehang.TMC.MainActivity"
+    },
+    {
+        "app_name": "铁行火车票",
+        "package_name": "com.tiexing",
+        "file_name": "com.tiexing_74.apk",
+        "app_activity": "com.woyaou.WelcomeActivity"
+    },
+    {
+        "app_name": "好运全程司机",
+        "package_name": "com.sdqc56.driver",
+        "file_name": "com.sdqc56.driver_75.apk",
+        "app_activity": "com.sdqc56.driver.activity.SplashActivity"
+    },
+    {
+        "app_name": "一喂汽车票",
+        "package_name": "com.free_ride_pin.yiwei",
+        "file_name": "com.free_ride_pin.yiwei_76.apk",
+        "app_activity": "com.free_ride_pin.yiwei.ui.StartActivity"
+    },
+    {
+        "app_name": "潜江公交",
+        "package_name": "com.whpe.qrcode.hubei.qianjiang",
+        "file_name": "com.whpe.qrcode.hubei.qianjiang_77.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "首领出行App",
+        "package_name": "com.primaair.flyprimaair",
+        "file_name": "com.primaair.flyprimaair_78.apk",
+        "app_activity": "com.primaair.flyprimaair.view.MainActivity"
+    },
+    {
+        "app_name": "熊猫票务",
+        "package_name": "com.pandaticket.travel",
+        "file_name": "com.pandaticket.travel_79.apk",
+        "app_activity": "com.pandaticket.travel.ui.SplashActivity"
+    },
+    {
+        "app_name": "美亚航旅",
+        "package_name": "com.meiya.airprice",
+        "file_name": "com.meiya.airprice_80.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "交通联合",
+        "package_name": "com.crb.cttic",
+        "file_name": "com.crb.cttic_81.apk",
+        "app_activity": "com.alipay.mobile.quinox.LauncherActivity"
+    },
+    {
+        "app_name": "漯停车",
+        "package_name": "com.reformer.cityparking.luohe",
+        "file_name": "com.reformer.cityparking.luohe_82.apk",
+        "app_activity": "com.reformer.cityparking.activity.LauncherActivity"
+    },
+    {
+        "app_name": "马达出行",
+        "package_name": "com.tc.travel.mada",
+        "file_name": "com.tc.travel.mada_83.apk",
+        "app_activity": "com.tc.travel.mada.MainActivity"
+    },
+    {
+        "app_name": "伙力商旅",
+        "package_name": "com.openet.hltmc",
+        "file_name": "com.openet.hltmc_84.apk",
+        "app_activity": "com.openet.hb.view.Loading"
+    },
+    {
+        "app_name": "恒顺商旅",
+        "package_name": "com.logicsolutions.homsomLive",
+        "file_name": "com.logicsolutions.homsomLive_85.apk",
+        "app_activity": "com.module.app.launch.business.LauncherActivity"
+    },
+    {
+        "app_name": "佳行天下",
+        "package_name": "com.app.jiaxing",
+        "file_name": "com.app.jiaxing_86.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "差客e族",
+        "package_name": "com.slwy.shanglvwuyou",
+        "file_name": "com.slwy.shanglvwuyou_87.apk",
+        "app_activity": "com.slwy.shanglvwuyou.main.aty.SplashAty"
+    },
+    {
+        "app_name": "宁波地铁",
+        "package_name": "com.nbmetro.smartmetro",
+        "file_name": "com.nbmetro.smartmetro_88.apk",
+        "app_activity": "com.nbmetro.smartmetro.WelcomeAppActivity"
+    },
+    {
+        "app_name": "广州交通行讯通",
+        "package_name": "gci.com.cn.ui",
+        "file_name": "gci.com.cn.ui_89.apk",
+        "app_activity": "com.gci.xxtuincom.ui.LaunchActivity"
+    },
+    {
+        "app_name": "首都机场",
+        "package_name": "cn.com.bcia.app.travelhelper",
+        "file_name": "cn.com.bcia.app.travelhelper_90.apk",
+        "app_activity": "cn.com.bcia.app.travelhelper.activity.StartActivity"
+    },
+    {
+        "app_name": "融易行",
+        "package_name": "com.ronglvonline.app",
+        "file_name": "com.ronglvonline.app_91.apk",
+        "app_activity": "com.ronglvonline.app.MainActivity"
+    },
+    {
+        "app_name": "深圳航空",
+        "package_name": "com.air.sz",
+        "file_name": "com.air.sz_92.apk",
+        "app_activity": "com.air.sz.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "中天商旅",
+        "package_name": "plus.H59B7064B",
+        "file_name": "plus.H59B7064B_93.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "ETC发行",
+        "package_name": "com.anshibo.app",
+        "file_name": "com.anshibo.app_94.apk",
+        "app_activity": "com.anshibo.login.activity.StartActivity"
+    },
+    {
+        "app_name": "航班管家",
+        "package_name": "com.flightmanager.view",
+        "file_name": "com.flightmanager.view_95.apk",
+        "app_activity": "com.flightmanager.hb.view.Loading"
+    },
+    {
+        "app_name": "长龙航空",
+        "package_name": "cn.loongair.loongairapp",
+        "file_name": "cn.loongair.loongairapp_96.apk",
+        "app_activity": "cn.loongair.loongairapp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "同行抢票助手",
+        "package_name": "com.jlg.peer",
+        "file_name": "com.jlg.peer_97.apk",
+        "app_activity": "com.jlg.peer.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "西藏航空",
+        "package_name": "com.tibet.airlines",
+        "file_name": "com.tibet.airlines_98.apk",
+        "app_activity": "com.tibet.airlines.LoadingActivity"
+    },
+    {
+        "app_name": "航优优机票",
+        "package_name": "com.hyy",
+        "file_name": "com.hyy_99.apk",
+        "app_activity": "com.woyaou.mode.common.WelcomeActivity"
+    },
+    {
+        "app_name": "壹行天下",
+        "package_name": "io.dcloud.H5A6DF4A7",
+        "file_name": "io.dcloud.H5A6DF4A7_100.apk",
+        "app_activity": "io.dcloud.H5A6DF4A7.MainActivity"
+    },
+    {
+        "app_name": "东方航空",
+        "package_name": "com.rytong.ceair",
+        "file_name": "com.rytong.ceair_101.apk",
+        "app_activity": "com.rytong.ceair.main.SplashActivity"
+    },
+    {
+        "app_name": "海南航空",
+        "package_name": "com.rytong.hnair",
+        "file_name": "com.rytong.hnair_102.apk",
+        "app_activity": "com.hnair.airlines.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "舟道网",
+        "package_name": "com.myzhoudao.EnterpriseZhoudaoApp",
+        "file_name": "com.myzhoudao.EnterpriseZhoudaoApp_103.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "亿通行",
+        "package_name": "enfc.metro",
+        "file_name": "enfc.metro_104.apk",
+        "app_activity": "enfc.metro.main.StartActivity"
+    },
+    {
+        "app_name": "飞行加",
+        "package_name": "cn.westair.westairStore",
+        "file_name": "cn.westair.westairStore_105.apk",
+        "app_activity": "com.westair.ticket.module.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "石油商旅",
+        "package_name": "com.soltrip.petrobusinesstravel",
+        "file_name": "com.soltrip.petrobusinesstravel_106.apk",
+        "app_activity": "huawei.w3.smartcom.itravel.business.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "程多多",
+        "package_name": "plus.H5569E9073",
+        "file_name": "plus.H5569E9073_107.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "机场通",
+        "package_name": "com.travelsky.baiyun.airportpass",
+        "file_name": "com.travelsky.baiyun.airportpass_109.apk",
+        "app_activity": "com.travelsky.baiyun.airportpass.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "万峰畅行",
+        "package_name": "com.bst.qxn.ticket",
+        "file_name": "com.bst.qxn.ticket_110.apk",
+        "app_activity": "com.bst.app.main.SplashActivity"
+    },
+    {
+        "app_name": "吉祥航空",
+        "package_name": "org.zywx.wbpalmstar.widgetone.uex11296876",
+        "file_name": "org.zywx.wbpalmstar.widgetone.uex11296876_111.apk",
+        "app_activity": "org.zywx.wbpalmstar.widgetone.uex11296876.module.main.view.SplashActivity"
+    },
+    {
+        "app_name": "114票务机票火车票汽车票",
+        "package_name": "com.woyaou",
+        "file_name": "com.woyaou_112.apk",
+        "app_activity": "com.woyaou.WelcomeActivity"
+    },
+    {
+        "app_name": "同学号Pro",
+        "package_name": "com.i84txh.pro",
+        "file_name": "com.i84txh.pro_113.apk",
+        "app_activity": "com.aibus.school.flutter_project_school_main.MainActivity"
+    },
+    {
+        "app_name": "微米买火车票",
+        "package_name": "battymole.trainticket",
+        "file_name": "battymole.trainticket_114.apk",
+        "app_activity": "battymole.trainticket.a.SplashView"
+    },
+    {
+        "app_name": "行啊TC",
+        "package_name": "com.travelsky.mrt.oneetrip4tc",
+        "file_name": "com.travelsky.mrt.oneetrip4tc_115.apk",
+        "app_activity": "com.travelsky.mrt.oneetrip4tc.guide.WelcomeActivity"
+    },
+    {
+        "app_name": "智行火车票",
+        "package_name": "com.yipiao",
+        "file_name": "com.yipiao_116.apk",
+        "app_activity": "com.squareup.leakcanary.internal.DisplayLeakActivity"
+    },
+    {
+        "app_name": "公务易行",
+        "package_name": "com.office.line",
+        "file_name": "com.office.line_117.apk",
+        "app_activity": "com.office.line.ui.activitys.StartPageActivity"
+    },
+    {
+        "app_name": "深圳e巴士",
+        "package_name": "zxzs.ppgj",
+        "file_name": "zxzs.ppgj_118.apk",
+        "app_activity": "zxzs.ppgj.ui.activity.WelComeActivity"
+    },
+    {
+        "app_name": "怀化行",
+        "package_name": "com.whpe.qrcode.hunan.huaihua",
+        "file_name": "com.whpe.qrcode.hunan.huaihua_119.apk",
+        "app_activity": "com.whpe.qrcode.hunan.huaihua.activity.ActivitySplash"
+    },
+    {
+        "app_name": "宁停车",
+        "package_name": "com.ecaray.epark.pub.nanjing",
+        "file_name": "com.ecaray.epark.pub.nanjing_120.apk",
+        "app_activity": "com.ecaray.epark.pub.nanjing.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "企橙商旅",
+        "package_name": "com.qic.android",
+        "file_name": "com.qic.android_121.apk",
+        "app_activity": "com.qic.trip.main.SplashActivity"
+    },
+    {
+        "app_name": "分贝通",
+        "package_name": "com.finhub.fenbeitong",
+        "file_name": "com.finhub.fenbeitong_122.apk",
+        "app_activity": "com.finhub.fenbeitong.ui.index.WelcomeActivity"
+    },
+    {
+        "app_name": "铁友火车票",
+        "package_name": "com.tieyou.train.ark",
+        "file_name": "com.tieyou.train.ark_123.apk",
+        "app_activity": "com.squareup.leakcanary.internal.DisplayLeakActivity"
+    },
+    {
+        "app_name": "途牛商旅",
+        "package_name": "com.tuniu.tnbt",
+        "file_name": "com.tuniu.tnbt_124.apk",
+        "app_activity": "com.tuniu.tnbt.activity.LaunchActivity"
+    },
+    {
+        "app_name": "陕易通",
+        "package_name": "com.sxjk.syt",
+        "file_name": "com.sxjk.syt_125.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "国铁吉讯",
+        "package_name": "com.crgt.ilife",
+        "file_name": "com.crgt.ilife_126.apk",
+        "app_activity": "com.crgt.ilife.plugin.sessionmanager.fg.main.NewSplashActivity"
+    },
+    {
+        "app_name": "铂雅飞行",
+        "package_name": "com.aviation.mobile",
+        "file_name": "com.aviation.mobile_127.apk",
+        "app_activity": "com.aviation.mobile.view.activity.LauncherActivity"
+    },
+    {
+        "app_name": "甄旅",
+        "package_name": "com.shzltrip.m",
+        "file_name": "com.shzltrip.m_128.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "饶城通",
+        "package_name": "com.ibuscloud.shangraobus",
+        "file_name": "com.ibuscloud.shangraobus_129.apk",
+        "app_activity": "com.dtchuxing.app.ui.SplashActivity"
+    },
+    {
+        "app_name": "铁行抢火车票",
+        "package_name": "com.tiexing.train",
+        "file_name": "com.tiexing.train_130.apk",
+        "app_activity": "com.woyaou.mode.common.WelcomeActivity"
+    },
+    {
+        "app_name": "吉利商旅Pro",
+        "package_name": "com.geely.travel.geelytravel",
+        "file_name": "com.geely.travel.geelytravel_131.apk",
+        "app_activity": "com.geely.travel.geelytravel.ui.login.WelcomeActivity"
+    },
+    {
+        "app_name": "猫猫出行",
+        "package_name": "net.zhikejia.maomaotrip",
+        "file_name": "net.zhikejia.maomaotrip_132.apk",
+        "app_activity": "net.zhikejia.maomaotrip.MainActivity"
+    },
+    {
+        "app_name": "贵州好行",
+        "package_name": "com.bst.gz.ticket",
+        "file_name": "com.bst.gz.ticket_133.apk",
+        "app_activity": "com.bst.app.main.SplashActivity"
+    },
+    {
+        "app_name": "差旅随行",
+        "package_name": "com.travelsky.bluesky",
+        "file_name": "com.travelsky.bluesky_134.apk",
+        "app_activity": "com.travelsky.newbluesky.login.activity.FlashActivity"
+    },
+    {
+        "app_name": "春秋航空",
+        "package_name": "com.china3s.android",
+        "file_name": "com.china3s.android_135.apk",
+        "app_activity": "com.china3s.android.home.view.Main"
+    },
+    {
+        "app_name": "中电建商旅",
+        "package_name": "cn.powerchinabusiness.zdjsl",
+        "file_name": "cn.powerchinabusiness.zdjsl_136.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "西铁行",
+        "package_name": "com.bwton.xitie",
+        "file_name": "com.bwton.xitie_137.apk",
+        "app_activity": "com.bwton.xitie.MainActivity"
+    },
+    {
+        "app_name": "华客行",
+        "package_name": "cn.cdtrans.hkx",
+        "file_name": "cn.cdtrans.hkx_138.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "嘉宝商旅",
+        "package_name": "mectrip.app",
+        "file_name": "mectrip.app_139.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "巴士管家",
+        "package_name": "com.chebada",
+        "file_name": "com.chebada_140.apk",
+        "app_activity": "com.chebada.main.splash.WelcomeActivity"
+    },
+    {
+        "app_name": "都匀公交",
+        "package_name": "com.whpe.qrcode.guizhou.duyun",
+        "file_name": "com.whpe.qrcode.guizhou.duyun_141.apk",
+        "app_activity": "com.whpe.qrcode.guizhou.duyun.activity.ActivitySplash"
+    }
+]

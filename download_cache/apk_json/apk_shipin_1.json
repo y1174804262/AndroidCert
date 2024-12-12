@@ -1,0 +1,1918 @@
+[
+    {
+        "app_name": "指尖剪辑视频编辑",
+        "package_name": "videoslideshow.photoedit.videoflying",
+        "file_name": "videoslideshow.photoedit.videoflying_1.apk",
+        "app_activity": "com.qnet.appbase.ui.start.StartActivity"
+    },
+    {
+        "app_name": "峰剧场",
+        "package_name": "cn.theatre.feng",
+        "file_name": "cn.theatre.feng_2.apk",
+        "app_activity": "cn.theatre.feng.activity.SplashActivity"
+    },
+    {
+        "app_name": "周六影视大全",
+        "package_name": "com.zhouliu.video",
+        "file_name": "com.zhouliu.video_3.apk",
+        "app_activity": "com.zhouliu.video.ui.LauncherActivity"
+    },
+    {
+        "app_name": "私密视频影视播放器",
+        "package_name": "com.mexvier.playe",
+        "file_name": "com.mexvier.playe_4.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "自动巴巴",
+        "package_name": "com.qihuapp.douwa",
+        "file_name": "com.qihuapp.douwa_5.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "一起看电视",
+        "package_name": "com.luping2.lj",
+        "file_name": "com.luping2.lj_6.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "天天看电影",
+        "package_name": "com.bihuadh.J",
+        "file_name": "com.bihuadh.J_7.apk",
+        "app_activity": "com.zy.localvideoplayer.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "88影视网播放器",
+        "package_name": "com.lu.rlapi",
+        "file_name": "com.lu.rlapi_8.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "去水印王",
+        "package_name": "com.bolanw1.qsyw",
+        "file_name": "com.bolanw1.qsyw_9.apk",
+        "app_activity": "com.weimei.watermarkmaster.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "蜗牛视频",
+        "package_name": "com.hn.catv",
+        "file_name": "com.hn.catv_10.apk",
+        "app_activity": "com.hn.catv.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "Basbas",
+        "package_name": "com.basbas.phone",
+        "file_name": "com.basbas.phone_11.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "动画制作精灵",
+        "package_name": "top.yanmen.desk.animatic",
+        "file_name": "top.yanmen.desk.animatic_12.apk",
+        "app_activity": "top.yanmen.desk.animatic.ui.start.QnetStartActivity"
+    },
+    {
+        "app_name": "牛咔视频",
+        "package_name": "com.xweisoft.nbs",
+        "file_name": "com.xweisoft.nbs_13.apk",
+        "app_activity": "com.xweisoft.nbs.ui.load.LoadActivity"
+    },
+    {
+        "app_name": "汉邦高科彩虹云",
+        "package_name": "com.jco.caihongyun",
+        "file_name": "com.jco.caihongyun_14.apk",
+        "app_activity": "com.jco.jcoplus.account.activity.StartActivity"
+    },
+    {
+        "app_name": "海信爱家",
+        "package_name": "com.hisense.ms.fly2tv",
+        "file_name": "com.hisense.ms.fly2tv_15.apk",
+        "app_activity": "com.hisense.ms.fly2tv.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "快视万能播放器",
+        "package_name": "kuaishibofangqi.com",
+        "file_name": "kuaishibofangqi.com_16.apk",
+        "app_activity": "com.jnyl.player.activity.SplashActivity"
+    },
+    {
+        "app_name": "看片电视剧播放器",
+        "package_name": "com.jfhwkl.ghb",
+        "file_name": "com.jfhwkl.ghb_17.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "大芒",
+        "package_name": "com.mgtv.noah",
+        "file_name": "com.mgtv.noah_18.apk",
+        "app_activity": "com.mgtv.newbee.ui.activity.NBSplashActivity"
+    },
+    {
+        "app_name": "欧乐影院播放器",
+        "package_name": "com.qingsongtp.sptp",
+        "file_name": "com.qingsongtp.sptp_20.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "拍社圈",
+        "package_name": "com.jibei.capture.circle",
+        "file_name": "com.jibei.capture.circle_21.apk",
+        "app_activity": "com.jibei.capture.circle.presentation.start.StartActivity"
+    },
+    {
+        "app_name": "怪兽短剧",
+        "package_name": "com.guaishou.drama",
+        "file_name": "com.guaishou.drama_22.apk",
+        "app_activity": "com.gxhy.fts.view.impl.SplashActivity"
+    },
+    {
+        "app_name": "伊颜视频播放器",
+        "package_name": "com.yijiawl.yase",
+        "file_name": "com.yijiawl.yase_23.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "央视频",
+        "package_name": "com.cctv.yangshipin.app.androidp",
+        "file_name": "com.cctv.yangshipin.app.androidp_24.apk",
+        "app_activity": "com.tencent.videolite.android.ui.SplashActivity"
+    },
+    {
+        "app_name": "橙色视频播放",
+        "package_name": "com.chengseship.yer",
+        "file_name": "com.chengseship.yer_25.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "蚂蚁看看",
+        "package_name": "uni.UNI8EFADFE",
+        "file_name": "uni.UNI8EFADFE_26.apk",
+        "app_activity": "uni.UNI8EFADFE.activity.login.StartActivity"
+    },
+    {
+        "app_name": "搜搜影视大全",
+        "package_name": "com.xunhong.sousou",
+        "file_name": "com.xunhong.sousou_27.apk",
+        "app_activity": "cn.mahua.vod.ui.start.StartActivity"
+    },
+    {
+        "app_name": "关东赛视",
+        "package_name": "com.wy.guandong",
+        "file_name": "com.wy.guandong_28.apk",
+        "app_activity": "com.wy.guandong.ActStart_"
+    },
+    {
+        "app_name": "izdax",
+        "package_name": "cn.izdax.flim",
+        "file_name": "cn.izdax.flim_29.apk",
+        "app_activity": "cn.izdax.flim.activity.MainActivity"
+    },
+    {
+        "app_name": "美剧星球播放器",
+        "package_name": "ps.image.process.editor",
+        "file_name": "ps.image.process.editor_30.apk",
+        "app_activity": "com.film.television.player.common.StartActivity"
+    },
+    {
+        "app_name": "妙看",
+        "package_name": "com.taige.miaokan",
+        "file_name": "com.taige.miaokan_31.apk",
+        "app_activity": "com.taige.mygold.SplashActivity"
+    },
+    {
+        "app_name": "暴风影音",
+        "package_name": "com.storm.smart",
+        "file_name": "com.storm.smart_32.apk",
+        "app_activity": "com.storm.smart.activity.LogoActivity"
+    },
+    {
+        "app_name": "优酷视频",
+        "package_name": "com.youku.phone",
+        "file_name": "com.youku.phone_33.apk",
+        "app_activity": "com.youku.phone.ActivityWelcome"
+    },
+    {
+        "app_name": "虾皮视频",
+        "package_name": "com.iaxvideop.cn",
+        "file_name": "com.iaxvideop.cn_34.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "泰剧迷播放器",
+        "package_name": "tai.drama.fans.player",
+        "file_name": "tai.drama.fans.player_35.apk",
+        "app_activity": "drama.fans.player.common.StartActivity"
+    },
+    {
+        "app_name": "4K循环播放器",
+        "package_name": "com.zhlx.kxunhuan",
+        "file_name": "com.zhlx.kxunhuan_36.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "众易选",
+        "package_name": "com.shandongrenrenlie.hd",
+        "file_name": "com.shandongrenrenlie.hd_37.apk",
+        "app_activity": "com.shandongrenrenlie.hd.ui.page.login.SplashActivity"
+    },
+    {
+        "app_name": "视频播放器大全",
+        "package_name": "com.kgbosaqf.bxg",
+        "file_name": "com.kgbosaqf.bxg_38.apk",
+        "app_activity": "com.zy.fyappcollection.activity.LauncherActivity"
+    },
+    {
+        "app_name": "电影天堂播放器",
+        "package_name": "com.dytt.xgkj",
+        "file_name": "com.dytt.xgkj_39.apk",
+        "app_activity": "com.duoduo.xgplayer.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "红果免费短剧",
+        "package_name": "com.phoenix.read",
+        "file_name": "com.phoenix.read_40.apk",
+        "app_activity": "com.dragon.read.pages.splash.SplashActivity"
+    },
+    {
+        "app_name": "影视大全快看",
+        "package_name": "cn.quicktv.android",
+        "file_name": "cn.quicktv.android_41.apk",
+        "app_activity": "cn.quicktv.android.activity.QuickSplashActivity"
+    },
+    {
+        "app_name": "任旅视界",
+        "package_name": "com.rlshijie.rlsj",
+        "file_name": "com.rlshijie.rlsj_42.apk",
+        "app_activity": "com.rlshijie.rlsj.MainActivity"
+    },
+    {
+        "app_name": "视界",
+        "package_name": "cn.com.people.watch",
+        "file_name": "cn.com.people.watch_43.apk",
+        "app_activity": "com.people.displayui.main.WelcomeActivity"
+    },
+    {
+        "app_name": "掌上影视",
+        "package_name": "com.zhbo.fang.wy.zhan",
+        "file_name": "com.zhbo.fang.wy.zhan_44.apk",
+        "app_activity": "tai.mengzhu.circle.activty.StartActivity"
+    },
+    {
+        "app_name": "每日红包",
+        "package_name": "com.smile.dayvideo",
+        "file_name": "com.smile.dayvideo_45.apk",
+        "app_activity": "com.smile.dayvideo.activities.FlashActivity"
+    },
+    {
+        "app_name": "奇迹影视播放器",
+        "package_name": "qfaj.ukgwd.sfet",
+        "file_name": "qfaj.ukgwd.sfet_46.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "影视大全布丸",
+        "package_name": "com.doudou.ysvideo",
+        "file_name": "com.doudou.ysvideo_47.apk",
+        "app_activity": "com.weikou.beibeivideo.ui.SplashActivity"
+    },
+    {
+        "app_name": "探花视频播放器",
+        "package_name": "com.yijiawl.xiangcao",
+        "file_name": "com.yijiawl.xiangcao_48.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "山海短剧",
+        "package_name": "com.shanhai.duanju",
+        "file_name": "com.shanhai.duanju_49.apk",
+        "app_activity": "com.shxy.shdj.MainActivity"
+    },
+    {
+        "app_name": "牛片",
+        "package_name": "cn.niupian.niupianwang",
+        "file_name": "cn.niupian.niupianwang_50.apk",
+        "app_activity": "cn.niupian.app.business.main.SplashActivity"
+    },
+    {
+        "app_name": "趣影",
+        "package_name": "com.yuyi.yingqu",
+        "file_name": "com.yuyi.yingqu_51.apk",
+        "app_activity": "com.yuyi.yingqu.activity.LauncherActivity"
+    },
+    {
+        "app_name": "诺云直播",
+        "package_name": "com.nuoyun.librestreaming.tool",
+        "file_name": "com.nuoyun.librestreaming.tool_53.apk",
+        "app_activity": "com.nuoyun.librestreaming.tool.modules.start.view.StartActivity"
+    },
+    {
+        "app_name": "央博",
+        "package_name": "com.cctv.apps.museum",
+        "file_name": "com.cctv.apps.museum_54.apk",
+        "app_activity": "com.cctv.apps.museum.SplashActivity"
+    },
+    {
+        "app_name": "人人影视大全",
+        "package_name": "com.hncj.peoplefilm",
+        "file_name": "com.hncj.peoplefilm_55.apk",
+        "app_activity": "com.hncj.videogallery.ui.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "视频剪辑编辑",
+        "package_name": "com.dunjiakj.shortvideo",
+        "file_name": "com.dunjiakj.shortvideo_56.apk",
+        "app_activity": "com.jituo.videoeditor.activity.SplashActivity"
+    },
+    {
+        "app_name": "晓秀",
+        "package_name": "com.jingmai.video.live",
+        "file_name": "com.jingmai.video.live_57.apk",
+        "app_activity": "com.module.app.ui.logo.LogoActivity"
+    },
+    {
+        "app_name": "七七影视大全",
+        "package_name": "com.sevenVideo.app.android",
+        "file_name": "com.sevenVideo.app.android_58.apk",
+        "app_activity": "com.mymv.app.mymv.splash.WelComeActivity"
+    },
+    {
+        "app_name": "PP视频",
+        "package_name": "com.pplive.androidphone",
+        "file_name": "com.pplive.androidphone_59.apk",
+        "app_activity": "com.pplive.androidphone.ui.FirstActivity"
+    },
+    {
+        "app_name": "每日红包短视频",
+        "package_name": "com.xy.intact",
+        "file_name": "com.xy.intact_60.apk",
+        "app_activity": "com.xy.intact.activities.FlashActivity"
+    },
+    {
+        "app_name": "私人影院播放器",
+        "package_name": "com.yijiawl.siren",
+        "file_name": "com.yijiawl.siren_61.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "风行视频",
+        "package_name": "com.funshion.video.mobile",
+        "file_name": "com.funshion.video.mobile_62.apk",
+        "app_activity": "com.funshion.video.activity.StartActivity"
+    },
+    {
+        "app_name": "快迅",
+        "package_name": "com.kuaixun.qiyue",
+        "file_name": "com.kuaixun.qiyue_63.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "新片场",
+        "package_name": "com.xinpianchang.newstudios",
+        "file_name": "com.xinpianchang.newstudios_64.apk",
+        "app_activity": "com.xinpianchang.newstudios.activity.MainActivity"
+    },
+    {
+        "app_name": "麦豆播放器",
+        "package_name": "com.yangkuan.kplayer",
+        "file_name": "com.yangkuan.kplayer_65.apk",
+        "app_activity": "com.yangkuan.kplayer.SplashActivity"
+    },
+    {
+        "app_name": "全能视频播放器",
+        "package_name": "com.bohebofangqi.cn",
+        "file_name": "com.bohebofangqi.cn_66.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "咪咕视频爱看版",
+        "package_name": "com.wondertek.miguaikan",
+        "file_name": "com.wondertek.miguaikan_67.apk",
+        "app_activity": "com.shinemo.miguaikan.biz.splash.SplashActivity"
+    },
+    {
+        "app_name": "QETIQ",
+        "package_name": "com.qetiq.cn",
+        "file_name": "com.qetiq.cn_68.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "微商视频水印",
+        "package_name": "com.jtjsb.wssysp",
+        "file_name": "com.jtjsb.wssysp_69.apk",
+        "app_activity": "com.jtjsb.wssysp.ui.activity.LaunchActivity"
+    },
+    {
+        "app_name": "全能视频音频转换器",
+        "package_name": "com.fastgoods.audio_video_manager",
+        "file_name": "com.fastgoods.audio_video_manager_70.apk",
+        "app_activity": "com.fastgoods.audio_video_manager.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "微商视频制作",
+        "package_name": "com.yuanli.derivativewatermark",
+        "file_name": "com.yuanli.derivativewatermark_71.apk",
+        "app_activity": "com.yuanli.derivativewatermark.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "爱奇艺VR",
+        "package_name": "com.iqiyi.ivrcinema.cb",
+        "file_name": "com.iqiyi.ivrcinema.cb_72.apk",
+        "app_activity": "com.iqiyi.ivrcinema.activity.CbMainActivity"
+    },
+    {
+        "app_name": "视频剪辑器",
+        "package_name": "com.ziyi18.shortvideo",
+        "file_name": "com.ziyi18.shortvideo_73.apk",
+        "app_activity": "com.jituo.videoeditor.activity.SplashActivity"
+    },
+    {
+        "app_name": "红包视频",
+        "package_name": "com.yycl.tzvideo",
+        "file_name": "com.yycl.tzvideo_74.apk",
+        "app_activity": "com.sanmiao.sound.activity.SplashActivity"
+    },
+    {
+        "app_name": "乐唰",
+        "package_name": "com.le.xue.du",
+        "file_name": "com.le.xue.du_75.apk",
+        "app_activity": "com.xue.du.activity.SplashActivity"
+    },
+    {
+        "app_name": "牛牛免费短剧",
+        "package_name": "com.niuniu.ztdh.app",
+        "file_name": "com.niuniu.ztdh.app_76.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "三农头条",
+        "package_name": "com.hoge.android.app.qpd",
+        "file_name": "com.hoge.android.app.qpd_77.apk",
+        "app_activity": "com.hoge.android.app.qpd.MainActivity"
+    },
+    {
+        "app_name": "恒星播放器",
+        "package_name": "cn.coldlake.stellarmobile",
+        "file_name": "cn.coldlake.stellarmobile_78.apk",
+        "app_activity": "cn.coldlake.university.lib.launch.TribeSplashLauncherActivity"
+    },
+    {
+        "app_name": "优酷经典版",
+        "package_name": "com.huawei.hwvplayer.youku",
+        "file_name": "com.huawei.hwvplayer.youku_79.apk",
+        "app_activity": "com.youku.phone.ActivityWelcome"
+    },
+    {
+        "app_name": "私人隐私播放器",
+        "package_name": "com.yunding.srysbfq",
+        "file_name": "com.yunding.srysbfq_80.apk",
+        "app_activity": "com.yunding.srysbfq.module.splash.SplashActivity0"
+    },
+    {
+        "app_name": "趣看",
+        "package_name": "com.qly.app.qukan",
+        "file_name": "com.qly.app.qukan_81.apk",
+        "app_activity": "com.qly.app.qukan.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "寻寻电音",
+        "package_name": "com.xunxun.phonelive",
+        "file_name": "com.xunxun.phonelive_82.apk",
+        "app_activity": "com.xunxun.phonelive.activity.LauncherActivity"
+    },
+    {
+        "app_name": "御风云视频",
+        "package_name": "com.yufengyun.video.android",
+        "file_name": "com.yufengyun.video.android_83.apk",
+        "app_activity": "com.stub.stub01.StartActivity"
+    },
+    {
+        "app_name": "剪辑视频编辑",
+        "package_name": "com.f2bmp4.videoeditor",
+        "file_name": "com.f2bmp4.videoeditor_84.apk",
+        "app_activity": "com.cody.supads.activity.StartActivity"
+    },
+    {
+        "app_name": "今日看影视大全",
+        "package_name": "com.yongxi.jinri",
+        "file_name": "com.yongxi.jinri_85.apk",
+        "app_activity": "cn.mahua.vod.ui.start.StartActivity"
+    },
+    {
+        "app_name": "剧丰收",
+        "package_name": "j.harvest.app",
+        "file_name": "j.harvest.app_86.apk",
+        "app_activity": "dra.jsf.app.ui.SplashActivity"
+    },
+    {
+        "app_name": "埋堆堆",
+        "package_name": "com.tvbc.maiduidui",
+        "file_name": "com.tvbc.maiduidui_87.apk",
+        "app_activity": "com.tvbc.maiduidui.WelcomeActivity"
+    },
+    {
+        "app_name": "江西视频手机报",
+        "package_name": "com.jxnews.csp",
+        "file_name": "com.jxnews.csp_88.apk",
+        "app_activity": "com.app.ui.activity.guide.CspWelcomeActivity"
+    },
+    {
+        "app_name": "万能视频播放器",
+        "package_name": "wnspbfq.app.ggplayer",
+        "file_name": "wnspbfq.app.ggplayer_89.apk",
+        "app_activity": "com.wnspbfq.ggplayer.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "EX播放器",
+        "package_name": "com.lvxingetch.mxplay",
+        "file_name": "com.lvxingetch.mxplay_90.apk",
+        "app_activity": "com.lvxingetch.player.gui.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "皮皮虾lite版",
+        "package_name": "com.sup.android.explore",
+        "file_name": "com.sup.android.explore_91.apk",
+        "app_activity": "com.sup.android.base.MainActivity"
+    },
+    {
+        "app_name": "河马剧场",
+        "package_name": "com.dz.hmjc",
+        "file_name": "com.dz.hmjc_92.apk",
+        "app_activity": "com.dz.business.splash.ui.SplashActivity"
+    },
+    {
+        "app_name": "好看影视大全",
+        "package_name": "com.video.lizhinew",
+        "file_name": "com.video.lizhinew_93.apk",
+        "app_activity": "com.video.lizhi.future.main.acitivity.SplashActivity"
+    },
+    {
+        "app_name": "华为好望",
+        "package_name": "com.huawei.holosens",
+        "file_name": "com.huawei.holosens_94.apk",
+        "app_activity": "com.huawei.holosens.ui.SplashActivity"
+    },
+    {
+        "app_name": "倍速播放器",
+        "package_name": "www.zhengjianzhao000.cn",
+        "file_name": "www.zhengjianzhao000.cn_95.apk",
+        "app_activity": "com.zhangying.appcollection.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "科普鸭",
+        "package_name": "com.haigrid.kepuya",
+        "file_name": "com.haigrid.kepuya_96.apk",
+        "app_activity": "com.haigrid.kepuya.activity.SplashAc"
+    },
+    {
+        "app_name": "5G宽视界",
+        "package_name": "com.unicom.woshipin",
+        "file_name": "com.unicom.woshipin_97.apk",
+        "app_activity": "com.unicom.wotvcommon.busiz.start.SchemeBlankActivity"
+    },
+    {
+        "app_name": "视听海南",
+        "package_name": "com.hoge.android.app.sthainan",
+        "file_name": "com.hoge.android.app.sthainan_98.apk",
+        "app_activity": "com.audiovisualhainan.cn.ui.activity.MainActivity"
+    },
+    {
+        "app_name": "南瓜电影",
+        "package_name": "cn.vcinema.cinema",
+        "file_name": "cn.vcinema.cinema_99.apk",
+        "app_activity": "cn.vcinema.cinema.activity.splash.SplashActivityKt"
+    },
+    {
+        "app_name": "艺术融媒体",
+        "package_name": "com.mscm.artvideo",
+        "file_name": "com.mscm.artvideo_100.apk",
+        "app_activity": "com.mscm.artvideo.activity.SplashActivity"
+    },
+    {
+        "app_name": "荐片视频播放器",
+        "package_name": "com.estsoft.caomeishipin.wu",
+        "file_name": "com.estsoft.caomeishipin.wu_101.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "完美视频播放器",
+        "package_name": "com.kk.xx.newplayer",
+        "file_name": "com.kk.xx.newplayer_102.apk",
+        "app_activity": "com.kk.xx.player.SplashActivity"
+    },
+    {
+        "app_name": "枫以视频",
+        "package_name": "com.app.fengyiFree",
+        "file_name": "com.app.fengyiFree_103.apk",
+        "app_activity": "com.zhangyue.app.shortvideo.main.MainActivity"
+    },
+    {
+        "app_name": "极速隐私播放器",
+        "package_name": "com.speedfast.privacy.player",
+        "file_name": "com.speedfast.privacy.player_104.apk",
+        "app_activity": "com.speedfast.privacy.player.splash.SplashProxyActivity"
+    },
+    {
+        "app_name": "搜狐视频HD",
+        "package_name": "com.sohu.tv",
+        "file_name": "com.sohu.tv_105.apk",
+        "app_activity": "com.sohu.sohuvideo.ui.homepage.MainActivity"
+    },
+    {
+        "app_name": "快乐播",
+        "package_name": "com.rwl.happyplay",
+        "file_name": "com.rwl.happyplay_106.apk",
+        "app_activity": "com.red.betterfly.view.SplashActivity"
+    },
+    {
+        "app_name": "私人电影播放器",
+        "package_name": "com.duoduo.siren",
+        "file_name": "com.duoduo.siren_107.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "青黄听韵播放器",
+        "package_name": "com.yht.app.player.qhty",
+        "file_name": "com.yht.app.player.qhty_108.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "乐视视频",
+        "package_name": "com.letv.android.client",
+        "file_name": "com.letv.android.client_109.apk",
+        "app_activity": "com.letv.android.client.activity.SplashActivity"
+    },
+    {
+        "app_name": "柴门小童",
+        "package_name": "com.sonitalk.ssm",
+        "file_name": "com.sonitalk.ssm_110.apk",
+        "app_activity": "com.sonitalk.ssm.module.home.activity.SplashActivity"
+    },
+    {
+        "app_name": "趣视频",
+        "package_name": "com.xkqd.app.video.qu",
+        "file_name": "com.xkqd.app.video.qu_111.apk",
+        "app_activity": "com.xkqd.app.video.qu.MainActivity"
+    },
+    {
+        "app_name": "世子播播",
+        "package_name": "com.szbb.life",
+        "file_name": "com.szbb.life_112.apk",
+        "app_activity": "com.szbb.life.main.ui.SplashActivity"
+    },
+    {
+        "app_name": "视频剪辑师",
+        "package_name": "com.hehax.shortvideo",
+        "file_name": "com.hehax.shortvideo_113.apk",
+        "app_activity": "com.jituo.videoeditor.activity.SplashActivity"
+    },
+    {
+        "app_name": "趣看影视",
+        "package_name": "com.qukan.qkvideo",
+        "file_name": "com.qukan.qkvideo_114.apk",
+        "app_activity": "com.qukan.qkvideo.ui.startup.StartupActivity"
+    },
+    {
+        "app_name": "繁花剧场",
+        "package_name": "com.dzhong.fhjc",
+        "file_name": "com.dzhong.fhjc_115.apk",
+        "app_activity": "com.dz.business.splash.ui.SplashActivity"
+    },
+    {
+        "app_name": "中国电影资料馆",
+        "package_name": "com.yunyingyuan",
+        "file_name": "com.yunyingyuan_116.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "萌马象",
+        "package_name": "mmx.hzy.app",
+        "file_name": "mmx.hzy.app_117.apk",
+        "app_activity": "mmx.hzy.app.common.SplashActivity"
+    },
+    {
+        "app_name": "私密视频看片播放器",
+        "package_name": "com.mrobt.ugkc",
+        "file_name": "com.mrobt.ugkc_118.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "华数TV",
+        "package_name": "com.wasu.wasuvideoplayer",
+        "file_name": "com.wasu.wasuvideoplayer_119.apk",
+        "app_activity": "com.wasu.cbn.page.splash.SplashProActivity"
+    },
+    {
+        "app_name": "影视大全",
+        "package_name": "com.le123.ysdq",
+        "file_name": "com.le123.ysdq_120.apk",
+        "app_activity": "com.elinkway.infinitemovies.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "开眼",
+        "package_name": "com.wandoujia.eyepetizer",
+        "file_name": "com.wandoujia.eyepetizer_121.apk",
+        "app_activity": "com.wandoujia.eyepetizer.ui.activity.LandingActivity"
+    },
+    {
+        "app_name": "快点投屏",
+        "package_name": "com.jhs.szz",
+        "file_name": "com.jhs.szz_122.apk",
+        "app_activity": "com.zhangying.appcollection.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "乡村逢集",
+        "package_name": "com.yidi.life",
+        "file_name": "com.yidi.life_123.apk",
+        "app_activity": "com.yidi.life.activity.StartApp"
+    },
+    {
+        "app_name": "袋鼠点点短视频",
+        "package_name": "com.zhangyue.app.shortvideo",
+        "file_name": "com.zhangyue.app.shortvideo_124.apk",
+        "app_activity": "com.zhangyue.app.shortvideo.main.MainActivity"
+    },
+    {
+        "app_name": "看看视频大全",
+        "package_name": "com.cstsvideo.wonder",
+        "file_name": "com.cstsvideo.wonder_125.apk",
+        "app_activity": "com.cssq.videoduoduo.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "Neye3C",
+        "package_name": "com.gooclient.anycam.neye3ctwo",
+        "file_name": "com.gooclient.anycam.neye3ctwo_126.apk",
+        "app_activity": "com.gooclient.anycam.activity.welcome.SplashActivity"
+    },
+    {
+        "app_name": "快手直播伴侣",
+        "package_name": "com.kwai.livepartner",
+        "file_name": "com.kwai.livepartner_127.apk",
+        "app_activity": "com.kwai.livepartner.activity.HomeActivity"
+    },
+    {
+        "app_name": "云广视听",
+        "package_name": "com.ynbit.yunguangshiting",
+        "file_name": "com.ynbit.yunguangshiting_128.apk",
+        "app_activity": "com.ynbit.yunguangshiting.MainActivity"
+    },
+    {
+        "app_name": "Tawuz",
+        "package_name": "com.tawuz.kino",
+        "file_name": "com.tawuz.kino_129.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "万能视频影音播放器",
+        "package_name": "bfq.com",
+        "file_name": "bfq.com_130.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "N视频",
+        "package_name": "com.nandu.video",
+        "file_name": "com.nandu.video_131.apk",
+        "app_activity": "com.nandu.video.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "腾讯视频",
+        "package_name": "com.tencent.qqlive",
+        "file_name": "com.tencent.qqlive_132.apk",
+        "app_activity": "com.tencent.qqlive.ona.activity.SplashHomeActivity"
+    },
+    {
+        "app_name": "韩小圈",
+        "package_name": "com.babycloud.hanju",
+        "file_name": "com.babycloud.hanju_133.apk",
+        "app_activity": "com.babycloud.hanju.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "飞越13号房",
+        "package_name": "com.altlab.lbz",
+        "file_name": "com.altlab.lbz_134.apk",
+        "app_activity": "com.altstory.lbz.main.PlayerActivity"
+    },
+    {
+        "app_name": "花火视频播放器",
+        "package_name": "cong.yeseshipin.cn",
+        "file_name": "cong.yeseshipin.cn_135.apk",
+        "app_activity": "com.wanqing.ms.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "多剧视频",
+        "package_name": "com.jumi.rrtv",
+        "file_name": "com.jumi.rrtv_136.apk",
+        "app_activity": "com.rrtv.rrtvtrunk.main.presentation.EmptyActivity"
+    },
+    {
+        "app_name": "视界观",
+        "package_name": "com.sjhl.visionlive",
+        "file_name": "com.sjhl.visionlive_137.apk",
+        "app_activity": "com.mediacloud.app.appfactory.activity.home.HomeActivity"
+    },
+    {
+        "app_name": "聚看影视大全",
+        "package_name": "com.jkysdq.video",
+        "file_name": "com.jkysdq.video_138.apk",
+        "app_activity": "com.jkysdq.video.activity.SplashActivity"
+    },
+    {
+        "app_name": "好兔视频",
+        "package_name": "tv.yilan.howto.app",
+        "file_name": "tv.yilan.howto.app_139.apk",
+        "app_activity": "com.yilan.tech.app.activity.StartActivity"
+    },
+    {
+        "app_name": "夜色播放器",
+        "package_name": "com.bbn.player",
+        "file_name": "com.bbn.player_140.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "悦悦随声听",
+        "package_name": "com.cckidabc.abc",
+        "file_name": "com.cckidabc.abc_141.apk",
+        "app_activity": "com.cckidabc.abc.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "夏",
+        "package_name": "com.xiaxia.xia",
+        "file_name": "com.xiaxia.xia_142.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "深夜爱看影院播放器",
+        "package_name": "com.bbn.shipin",
+        "file_name": "com.bbn.shipin_143.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "OPlayer Lite",
+        "package_name": "com.olimsoft.android.oplayer",
+        "file_name": "com.olimsoft.android.oplayer_144.apk",
+        "app_activity": "com.olimsoft.android.oplayer.StartActivity"
+    },
+    {
+        "app_name": "视频剪辑大师",
+        "package_name": "com.ifeimo.videoeditor",
+        "file_name": "com.ifeimo.videoeditor_145.apk",
+        "app_activity": "com.ifeimo.videoeditor.ui.activity.AppStartActivity"
+    },
+    {
+        "app_name": "片吧影院播放器",
+        "package_name": "com.kuaikuaibofangqi.app",
+        "file_name": "com.kuaikuaibofangqi.app_146.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "云港娱溜溜软件",
+        "package_name": "com.yungang.yuliuliuapp",
+        "file_name": "com.yungang.yuliuliuapp_147.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "Baxlan kino",
+        "package_name": "com.bashlan.baxlan",
+        "file_name": "com.bashlan.baxlan_148.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "本地视频播放解码",
+        "package_name": "com.tfq.localvideo",
+        "file_name": "com.tfq.localvideo_149.apk",
+        "app_activity": "com.yr.videoplayer.main.Activity_Splash"
+    },
+    {
+        "app_name": "火柴短剧",
+        "package_name": "com.kafka.huochai",
+        "file_name": "com.kafka.huochai_150.apk",
+        "app_activity": "com.kafka.huochai.ui.pages.activity.LaunchActivity"
+    },
+    {
+        "app_name": "Suzuk kino",
+        "package_name": "com.dlhaoxin.top",
+        "file_name": "com.dlhaoxin.top_151.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "星芽免费短剧",
+        "package_name": "com.jz.xydj",
+        "file_name": "com.jz.xydj_152.apk",
+        "app_activity": "com.jz.jzdj.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "提词宝",
+        "package_name": "com.app.remind.words",
+        "file_name": "com.app.remind.words_153.apk",
+        "app_activity": "com.aliyun.alivcsolution.SplashActivity"
+    },
+    {
+        "app_name": "夜看播放器",
+        "package_name": "com.yjwl.ny",
+        "file_name": "com.yjwl.ny_154.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "磁力链接播放器",
+        "package_name": "com.just_exe.linksoft",
+        "file_name": "com.just_exe.linksoft_155.apk",
+        "app_activity": "com.just_exe.linksoft.view.SplashActivity"
+    },
+    {
+        "app_name": "云演播",
+        "package_name": "com.ccm.ccm_video_app",
+        "file_name": "com.ccm.ccm_video_app_156.apk",
+        "app_activity": "com.ccm.ccm_video_app.MainActivity"
+    },
+    {
+        "app_name": "爱奇艺随刻",
+        "package_name": "tv.pps.mobile",
+        "file_name": "tv.pps.mobile_157.apk",
+        "app_activity": "tv.pps.mobile.WelcomeActivity"
+    },
+    {
+        "app_name": "沙发影视",
+        "package_name": "com.sofasp.app",
+        "file_name": "com.sofasp.app_158.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "扭拍",
+        "package_name": "uni.UNI18C0689",
+        "file_name": "uni.UNI18C0689_159.apk",
+        "app_activity": "uni.UNI18C0689.MainActivity"
+    },
+    {
+        "app_name": "恒星影音",
+        "package_name": "com.jdasuhawdhnfj.J",
+        "file_name": "com.jdasuhawdhnfj.J_160.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "宅男视频播放器",
+        "package_name": "com.microbent.uj",
+        "file_name": "com.microbent.uj_161.apk",
+        "app_activity": "com.wanqing.ms.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "快码万能播放器",
+        "package_name": "com.kmsoft.fvplayer",
+        "file_name": "com.kmsoft.fvplayer_162.apk",
+        "app_activity": "com.kmsoft.fvplayer.activity.SplashActivity"
+    },
+    {
+        "app_name": "皮皮虾",
+        "package_name": "com.sup.android.superb",
+        "file_name": "com.sup.android.superb_163.apk",
+        "app_activity": "com.sup.android.base.MainActivity"
+    },
+    {
+        "app_name": "心动短剧",
+        "package_name": "com.vjread.venus",
+        "file_name": "com.vjread.venus_164.apk",
+        "app_activity": "com.vjread.venus.ui.SplashActivity"
+    },
+    {
+        "app_name": "央视体育",
+        "package_name": "com.cctv.cctv5ultimate",
+        "file_name": "com.cctv.cctv5ultimate_165.apk",
+        "app_activity": "com.cctv.cctv5ultimate.splashscreen.activity.LaunchActivity"
+    },
+    {
+        "app_name": "星星视频",
+        "package_name": "com.ilikev.video",
+        "file_name": "com.ilikev.video_166.apk",
+        "app_activity": "com.ilikev.video.csj.SplashActivity"
+    },
+    {
+        "app_name": "ELLEone",
+        "package_name": "com.elle.elleplus",
+        "file_name": "com.elle.elleplus_167.apk",
+        "app_activity": "com.elle.elleplus.activity.SplashActivity"
+    },
+    {
+        "app_name": "梨视频",
+        "package_name": "com.mobile.videonews.li.video",
+        "file_name": "com.mobile.videonews.li.video_168.apk",
+        "app_activity": "com.mobile.videonews.li.video.act.StartAty"
+    },
+    {
+        "app_name": "咖啡影评",
+        "package_name": "kafei.yingping.pino",
+        "file_name": "kafei.yingping.pino_170.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "搜狐视频",
+        "package_name": "com.sohu.sohuvideo",
+        "file_name": "com.sohu.sohuvideo_171.apk",
+        "app_activity": "com.sohu.sohuvideo.ui.homepage.MainActivity"
+    },
+    {
+        "app_name": "百搜视频",
+        "package_name": "com.baidu.video",
+        "file_name": "com.baidu.video_172.apk",
+        "app_activity": "com.baidu.video.ui.WelcomActivity"
+    },
+    {
+        "app_name": "华为好望企业版",
+        "package_name": "com.huawei.holosensenterprise",
+        "file_name": "com.huawei.holosensenterprise_173.apk",
+        "app_activity": "com.huawei.holosens.ui.SplashActivity"
+    },
+    {
+        "app_name": "V1短剧",
+        "package_name": "com.v1shortplay.first",
+        "file_name": "com.v1shortplay.first_174.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "配音秀",
+        "package_name": "com.happyteam.dubbingshow",
+        "file_name": "com.happyteam.dubbingshow_175.apk",
+        "app_activity": "com.happyteam.dubbingshow.ui.StartActivity"
+    },
+    {
+        "app_name": "热播影视大全",
+        "package_name": "com.rebo.video",
+        "file_name": "com.rebo.video_176.apk",
+        "app_activity": "com.rebo.video.ui.LauncherActivity"
+    },
+    {
+        "app_name": "快手极速版",
+        "package_name": "com.kuaishou.nebula",
+        "file_name": "com.kuaishou.nebula_177.apk",
+        "app_activity": "com.yxcorp.gifshow.HomeActivity"
+    },
+    {
+        "app_name": "VR 库",
+        "package_name": "com.yunwenyuevr.vrcool",
+        "file_name": "com.yunwenyuevr.vrcool_178.apk",
+        "app_activity": "com.gevek.appstore.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "全能影音播放器",
+        "package_name": "com.allvedio.playerzy",
+        "file_name": "com.allvedio.playerzy_179.apk",
+        "app_activity": "com.wanqing.ll.ms.SpppppActivity"
+    },
+    {
+        "app_name": "聚看韩剧网",
+        "package_name": "cn.lzm.koreatv",
+        "file_name": "cn.lzm.koreatv_180.apk",
+        "app_activity": "cn.lzm.koreatv.activity.KoreatvSplashActivity"
+    },
+    {
+        "app_name": "解码播放器",
+        "package_name": "com.biansheng200H",
+        "file_name": "com.biansheng200H_182.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "凤凰视频",
+        "package_name": "com.ifeng.newvideo",
+        "file_name": "com.ifeng.newvideo_183.apk",
+        "app_activity": "com.ifeng.news2.activity.SplashActivity"
+    },
+    {
+        "app_name": "红豆播放器",
+        "package_name": "com.xinmishipin.rsbn",
+        "file_name": "com.xinmishipin.rsbn_184.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "水印一键去除专家",
+        "package_name": "com.bpuv.vadioutil",
+        "file_name": "com.bpuv.vadioutil_185.apk",
+        "app_activity": "com.bpuv.vadioutil.act.SplashAct"
+    },
+    {
+        "app_name": "草莓万能播放器",
+        "package_name": "yong.yunzhichuplayer",
+        "file_name": "yong.yunzhichuplayer_186.apk",
+        "app_activity": "yong.yunzhichuplayer.ui.SplashActivity"
+    },
+    {
+        "app_name": "剧果果",
+        "package_name": "com.xuetang.app.juguoguo",
+        "file_name": "com.xuetang.app.juguoguo_187.apk",
+        "app_activity": "com.xuetang.app.juguoguo.ui.MainActivity"
+    },
+    {
+        "app_name": "爱编辑视频剪辑器",
+        "package_name": "com.app.abjspjjq",
+        "file_name": "com.app.abjspjjq_188.apk",
+        "app_activity": "com.app.abjspjjq.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "我是演员",
+        "package_name": "com.job109.wsyy",
+        "file_name": "com.job109.wsyy_189.apk",
+        "app_activity": "com.job109.activity.StartActivity"
+    },
+    {
+        "app_name": "HUAWEI Video",
+        "package_name": "com.huawei.himovie",
+        "file_name": "com.huawei.himovie_190.apk",
+        "app_activity": "com.huawei.himovie.ui.login.SplashScreenActivity"
+    },
+    {
+        "app_name": "翼先锋影音",
+        "package_name": "com.xghotplay.bluedo",
+        "file_name": "com.xghotplay.bluedo_191.apk",
+        "app_activity": "com.orange.zhongzo.view.SplashActivity"
+    },
+    {
+        "app_name": "每日一剧视频播放器",
+        "package_name": "com.jianjixiangji.mhrut",
+        "file_name": "com.jianjixiangji.mhrut_192.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "全网视频播放器",
+        "package_name": "quanwngshipzdaqian.com",
+        "file_name": "quanwngshipzdaqian.com_193.apk",
+        "app_activity": "com.zy.fyappcollection.activity.LauncherActivity"
+    },
+    {
+        "app_name": "电影频道",
+        "package_name": "newmediacctv6.com.cctv6",
+        "file_name": "newmediacctv6.com.cctv6_194.apk",
+        "app_activity": "newmediacctv6.com.cctv6.ui.activitys.SplashActivity"
+    },
+    {
+        "app_name": "百视TV",
+        "package_name": "com.bestv.app",
+        "file_name": "com.bestv.app_195.apk",
+        "app_activity": "com.bestv.app.ui.LauncherActivity"
+    },
+    {
+        "app_name": "蓝狐视频",
+        "package_name": "com.jiandjisdudyin.J",
+        "file_name": "com.jiandjisdudyin.J_196.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "白羊影院",
+        "package_name": "com.ftkw.cn",
+        "file_name": "com.ftkw.cn_1.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "谷豆TV",
+        "package_name": "com.sumavision.sanping.gudou",
+        "file_name": "com.sumavision.sanping.gudou_2.apk",
+        "app_activity": "com.sumavision.omc.app.common.SplashActivity"
+    },
+    {
+        "app_name": "Sinzar",
+        "package_name": "com.elipbe.sinzar",
+        "file_name": "com.elipbe.sinzar_3.apk",
+        "app_activity": "com.elipbe.sinzar.InitActivity"
+    },
+    {
+        "app_name": "深夜爱看播放器",
+        "package_name": "com.sxzd.nightvideo",
+        "file_name": "com.sxzd.nightvideo_4.apk",
+        "app_activity": "com.litemob.deepnight.ui.activity.WelcomActivity"
+    },
+    {
+        "app_name": "看片播放器",
+        "package_name": "com.bbn.bofangqi",
+        "file_name": "com.bbn.bofangqi_5.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "湖南IPTV",
+        "package_name": "com.ct.itv",
+        "file_name": "com.ct.itv_6.apk",
+        "app_activity": "com.ct.iptv.activity.A01_AccessActivity"
+    },
+    {
+        "app_name": "绿色盒子",
+        "package_name": "com.lvsehez.youlin",
+        "file_name": "com.lvsehez.youlin_7.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "电影投影",
+        "package_name": "com.bofangqyinsim.J",
+        "file_name": "com.bofangqyinsim.J_8.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "人人视频",
+        "package_name": "com.example.pptv",
+        "file_name": "com.example.pptv_9.apk",
+        "app_activity": "com.pptv.rrtvtrunk.main.presentation.EmptyActivity"
+    },
+    {
+        "app_name": "匠人百科",
+        "package_name": "baike.UNIA0BF6E1",
+        "file_name": "baike.UNIA0BF6E1_10.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "安果播放器",
+        "package_name": "com.anguomob.video.player",
+        "file_name": "com.anguomob.video.player_11.apk",
+        "app_activity": "com.anguomob.video.player.PlayerActivity"
+    },
+    {
+        "app_name": "央视影音",
+        "package_name": "cn.cntv",
+        "file_name": "cn.cntv_12.apk",
+        "app_activity": "com.cctv.mcctv.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "爱奇艺极速版",
+        "package_name": "com.qiyi.video.lite",
+        "file_name": "com.qiyi.video.lite_13.apk",
+        "app_activity": "com.qiyi.video.lite.homepage.HomeActivity"
+    },
+    {
+        "app_name": "泡财经",
+        "package_name": "com.gudong",
+        "file_name": "com.gudong_14.apk",
+        "app_activity": "cn.lccjapp.popfinance.MainActivity"
+    },
+    {
+        "app_name": "超级看影院",
+        "package_name": "com.jdqshijdq.ksiqshij",
+        "file_name": "com.jdqshijdq.ksiqshij_15.apk",
+        "app_activity": "com.jdqshijdq.ksiqshij.SplashActivity"
+    },
+    {
+        "app_name": "妙看极速版",
+        "package_name": "com.taige.mygold",
+        "file_name": "com.taige.mygold_16.apk",
+        "app_activity": "com.taige.mygold.SplashActivity"
+    },
+    {
+        "app_name": "短剧之家",
+        "package_name": "drama.dachuangnanningltd.home",
+        "file_name": "drama.dachuangnanningltd.home_17.apk",
+        "app_activity": "drama.dachuangnanningltd.home.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "好看视频极速版",
+        "package_name": "com.baidu.hkvideo",
+        "file_name": "com.baidu.hkvideo_18.apk",
+        "app_activity": "com.baidu.haokan.app.activity.HomeActivity"
+    },
+    {
+        "app_name": "IPC360",
+        "package_name": "com.ipc360",
+        "file_name": "com.ipc360_19.apk",
+        "app_activity": "com.showmo.activity.OpenSelectActivity"
+    },
+    {
+        "app_name": "秦腔迷",
+        "package_name": "com.couplower.qin",
+        "file_name": "com.couplower.qin_20.apk",
+        "app_activity": "com.xebec.huangmei.views.RSplashActivity"
+    },
+    {
+        "app_name": "比翼",
+        "package_name": "com.jz.cps",
+        "file_name": "com.jz.cps_21.apk",
+        "app_activity": "com.jz.cps.main.SplashActivity"
+    },
+    {
+        "app_name": "人民视频",
+        "package_name": "com.pdmi.studio.newmedia.people.video",
+        "file_name": "com.pdmi.studio.newmedia.people.video_22.apk",
+        "app_activity": "com.cmstop.client.ui.start.SplashActivity"
+    },
+    {
+        "app_name": "西影视频",
+        "package_name": "com.xy.mv",
+        "file_name": "com.xy.mv_23.apk",
+        "app_activity": "com.xysp.ui.LaunchActivity"
+    },
+    {
+        "app_name": "频宝",
+        "package_name": "uni.pinbao",
+        "file_name": "uni.pinbao_24.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "新月视频",
+        "package_name": "com.yijiawl.yequbofangqi",
+        "file_name": "com.yijiawl.yequbofangqi_25.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "一帧视频",
+        "package_name": "com.onezhen.player",
+        "file_name": "com.onezhen.player_26.apk",
+        "app_activity": "com.yixia.youguo.page.SplashActivity"
+    },
+    {
+        "app_name": "可映短剧",
+        "package_name": "com.happy.shortplay",
+        "file_name": "com.happy.shortplay_27.apk",
+        "app_activity": "com.shortplay.homepage.flash.FlashActivity"
+    },
+    {
+        "app_name": "私密视频管家",
+        "package_name": "com.player.autoyq",
+        "file_name": "com.player.autoyq_28.apk",
+        "app_activity": "com.zhangying.appcollection.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "万能看片电视剧",
+        "package_name": "com.henpi.voicexx",
+        "file_name": "com.henpi.voicexx_29.apk",
+        "app_activity": "com.zy.fyappcollection.activity.LauncherActivity"
+    },
+    {
+        "app_name": "MANA",
+        "package_name": "com.app.appmana",
+        "file_name": "com.app.appmana_30.apk",
+        "app_activity": "com.app.appmana.SplashLoadingActivity"
+    },
+    {
+        "app_name": "爱奇艺体育",
+        "package_name": "com.ssports.mobile.video",
+        "file_name": "com.ssports.mobile.video_31.apk",
+        "app_activity": "com.ssports.mobile.video.activity.StartActivity"
+    },
+    {
+        "app_name": "腾牛",
+        "package_name": "com.hengok.niuwang",
+        "file_name": "com.hengok.niuwang_32.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "InfiRayOutdoor",
+        "package_name": "com.infiray.outdoor.wifiapp",
+        "file_name": "com.infiray.outdoor.wifiapp_33.apk",
+        "app_activity": "com.iraytek.xinfrared.wifi_app.MainActivity"
+    },
+    {
+        "app_name": "好看宽屏",
+        "package_name": "com.chinamcloud.hkkp.cw.android",
+        "file_name": "com.chinamcloud.hkkp.cw.android_34.apk",
+        "app_activity": "com.mediacloud.app.appfactory.activity.home.HomeActivity"
+    },
+    {
+        "app_name": "Migu Video",
+        "package_name": "com.cmcc.cmvideo",
+        "file_name": "com.cmcc.cmvideo_35.apk",
+        "app_activity": "com.cmcc.cmvideo.splash.SplashActivity"
+    },
+    {
+        "app_name": "无障碍影视",
+        "package_name": "com.rz.cjr",
+        "file_name": "com.rz.cjr_36.apk",
+        "app_activity": "com.rz.cjr.main.activity.LaunchActivity"
+    },
+    {
+        "app_name": "绿茶播放器",
+        "package_name": "com.ydcjijdicsjc.J",
+        "file_name": "com.ydcjijdicsjc.J_37.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "AcFun",
+        "package_name": "tv.acfundanmaku.video",
+        "file_name": "tv.acfundanmaku.video_38.apk",
+        "app_activity": "tv.acfun.core.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "糖豆",
+        "package_name": "com.bokecc.dance",
+        "file_name": "com.bokecc.dance_39.apk",
+        "app_activity": "com.bokecc.dance.activity.BaseSplashActivity"
+    },
+    {
+        "app_name": "好剧影视大全",
+        "package_name": "com.fchzw.jrnxjh",
+        "file_name": "com.fchzw.jrnxjh_41.apk",
+        "app_activity": "com.fchzw.jrnxjh.activity.SplashActivity"
+    },
+    {
+        "app_name": "指尖录屏",
+        "package_name": "com.qtec.capturerecorder.receditor.screenrecorder",
+        "file_name": "com.qtec.capturerecorder.receditor.screenrecorder_42.apk",
+        "app_activity": "com.qtech.screenrecorder.ui.StartActivity"
+    },
+    {
+        "app_name": "所见sosee",
+        "package_name": "com.project.sosee",
+        "file_name": "com.project.sosee_43.apk",
+        "app_activity": "com.project.main.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "中吴网",
+        "package_name": "wireless.forum",
+        "file_name": "wireless.forum_44.apk",
+        "app_activity": "wireless.forum.NewWelcomeActivity"
+    },
+    {
+        "app_name": "广西视听",
+        "package_name": "com.besto.beautifultv",
+        "file_name": "com.besto.beautifultv_45.apk",
+        "app_activity": "com.besto.beautifultv.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "一键去水印下载",
+        "package_name": "com.video.nowatermark.editor.downloader",
+        "file_name": "com.video.nowatermark.editor.downloader_46.apk",
+        "app_activity": "com.video.nowatermark.editor.downloader.ui.start.StartActivity"
+    },
+    {
+        "app_name": "每日影视大全",
+        "package_name": "com.cstoolsfilmcommentary.everyday",
+        "file_name": "com.cstoolsfilmcommentary.everyday_47.apk",
+        "app_activity": "com.wifikey.tenthousands.app_wifi_flutter.MainActivity"
+    },
+    {
+        "app_name": "阳光短剧",
+        "package_name": "com.zj.yangguang",
+        "file_name": "com.zj.yangguang_48.apk",
+        "app_activity": "com.lb.project.activity.LauncherActivity"
+    },
+    {
+        "app_name": "梨园行戏曲",
+        "package_name": "uni.UNIA317E51",
+        "file_name": "uni.UNIA317E51_49.apk",
+        "app_activity": "com.daoran.lyhxq.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "爱优影视大全",
+        "package_name": "com.video.aiyounew",
+        "file_name": "com.video.aiyounew_50.apk",
+        "app_activity": "com.video.lizhi.future.main.acitivity.SplashActivity"
+    },
+    {
+        "app_name": "视频一键创作助手",
+        "package_name": "com.tm.magicvideo",
+        "file_name": "com.tm.magicvideo_51.apk",
+        "app_activity": "com.tm.textvideo.WelcomeActivity"
+    },
+    {
+        "app_name": "Yoosee",
+        "package_name": "com.yoosee",
+        "file_name": "com.yoosee_52.apk",
+        "app_activity": "com.jwkj.activity.LogoActivity"
+    },
+    {
+        "app_name": "星辰影院",
+        "package_name": "com.xingyeyingshi.app",
+        "file_name": "com.xingyeyingshi.app_53.apk",
+        "app_activity": "com.zy.fyappcollection.activity.LauncherActivity"
+    },
+    {
+        "app_name": "藏片阁播放器",
+        "package_name": "com.zhlx.pianku",
+        "file_name": "com.zhlx.pianku_54.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "i秀",
+        "package_name": "com.goushuaiyunduan.magiclibrary",
+        "file_name": "com.goushuaiyunduan.magiclibrary_55.apk",
+        "app_activity": "com.ixiu.cn.ui.BootActivity"
+    },
+    {
+        "app_name": "伊人视频剪辑",
+        "package_name": "com.yinyuejianji.hcnzo",
+        "file_name": "com.yinyuejianji.hcnzo_56.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "MediaPlayer",
+        "package_name": "com.lixiangdong.mediaplayer",
+        "file_name": "com.lixiangdong.mediaplayer_57.apk",
+        "app_activity": "com.lixiangdong.mediaplayer.activity.SplashAdActivity"
+    },
+    {
+        "app_name": "微视中国",
+        "package_name": "com.xinlang.microchina",
+        "file_name": "com.xinlang.microchina_58.apk",
+        "app_activity": "com.xinlang.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "小橙子",
+        "package_name": "com.yqjd.xcz",
+        "file_name": "com.yqjd.xcz_59.apk",
+        "app_activity": "com.microx.peanut.activity.SplashActivity"
+    },
+    {
+        "app_name": "喜番免费短剧",
+        "package_name": "com.kwai.theater",
+        "file_name": "com.kwai.theater_60.apk",
+        "app_activity": "com.kwai.theater.api.component.HomeActivity"
+    },
+    {
+        "app_name": "万能视频电影播放器",
+        "package_name": "com.twx.player",
+        "file_name": "com.twx.player_61.apk",
+        "app_activity": "com.example.module_video.ui.activity.BeginActivity"
+    },
+    {
+        "app_name": "51VV",
+        "package_name": "com.vv51.vvim",
+        "file_name": "com.vv51.vvim_62.apk",
+        "app_activity": "com.vv51.vvim.ui.welcome.LaunchActivity"
+    },
+    {
+        "app_name": "影视大全播放器软件",
+        "package_name": "com.yydd.ysdq",
+        "file_name": "com.yydd.ysdq_64.apk",
+        "app_activity": "com.ydsx.mediaplayer.activity.WelcomePageActivity"
+    },
+    {
+        "app_name": "乐视视频Pad",
+        "package_name": "com.letv.android.client.pad",
+        "file_name": "com.letv.android.client.pad_65.apk",
+        "app_activity": "com.letv.android.client.activity.SplashActivity"
+    },
+    {
+        "app_name": "铸造说",
+        "package_name": "com.bzw.zzs",
+        "file_name": "com.bzw.zzs_66.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "吉吉影音",
+        "package_name": "com.seven.jjvods",
+        "file_name": "com.seven.jjvods_67.apk",
+        "app_activity": "com.seven.jjvods.view.SplashActivity"
+    },
+    {
+        "app_name": "欢喜首映",
+        "package_name": "com.huanxi.video",
+        "file_name": "com.huanxi.video_68.apk",
+        "app_activity": "com.huanxi.video.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "好看视频",
+        "package_name": "com.baidu.haokan",
+        "file_name": "com.baidu.haokan_69.apk",
+        "app_activity": "com.baidu.haokan.app.activity.HomeActivity"
+    },
+    {
+        "app_name": "魅夜视频播放器",
+        "package_name": "com.zhlx.video",
+        "file_name": "com.zhlx.video_70.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "爱电影视",
+        "package_name": "com.idianVideo.app.android",
+        "file_name": "com.idianVideo.app.android_71.apk",
+        "app_activity": "com.mymv.app.mymv.splash.WelComeActivity"
+    },
+    {
+        "app_name": "闪视频",
+        "package_name": "com.rmt.shanshipin",
+        "file_name": "com.rmt.shanshipin_72.apk",
+        "app_activity": "tide.juyun.com.ui.activitys.WelcomeActivityNewActivity"
+    },
+    {
+        "app_name": "西瓜视频",
+        "package_name": "com.ss.android.article.video",
+        "file_name": "com.ss.android.article.video_73.apk",
+        "app_activity": "com.ss.android.article.video.activity.SplashActivity"
+    },
+    {
+        "app_name": "国音传奇",
+        "package_name": "com.zhongguodianshang.zhongguodianshang",
+        "file_name": "com.zhongguodianshang.zhongguodianshang_74.apk",
+        "app_activity": "com.example.chaoyun.SplashActivityV2"
+    },
+    {
+        "app_name": "越看越有",
+        "package_name": "com.play.skit",
+        "file_name": "com.play.skit_75.apk",
+        "app_activity": "com.play.skit.login.SplashActivity"
+    },
+    {
+        "app_name": "追剧影视大全",
+        "package_name": "com.follow.video",
+        "file_name": "com.follow.video_76.apk",
+        "app_activity": "com.follow.video.ui.LauncherActivity"
+    },
+    {
+        "app_name": "VLCC Player",
+        "package_name": "com.vlcctv.player",
+        "file_name": "com.vlcctv.player_77.apk",
+        "app_activity": "org.videolan.vlc.StartActivity"
+    },
+    {
+        "app_name": "炫之坞",
+        "package_name": "com.xingzhits.app",
+        "file_name": "com.xingzhits.app_78.apk",
+        "app_activity": "com.example.app.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "陪秀",
+        "package_name": "com.guowai.duansp",
+        "file_name": "com.guowai.duansp_79.apk",
+        "app_activity": "com.guowai.duansp.LauncherActivity"
+    },
+    {
+        "app_name": "剧好多影评",
+        "package_name": "juhaoduo.juhao.dupo",
+        "file_name": "juhaoduo.juhao.dupo_80.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "先询",
+        "package_name": "com.lxkj.xx",
+        "file_name": "com.lxkj.xx_81.apk",
+        "app_activity": "com.lxkj.xx.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "优狐视频播放器",
+        "package_name": "com.bbn.youhu",
+        "file_name": "com.bbn.youhu_82.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "剧多多影院播放器",
+        "package_name": "com.yijiawl.kk",
+        "file_name": "com.yijiawl.kk_83.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "开心剧场",
+        "package_name": "com.tm.happytheater",
+        "file_name": "com.tm.happytheater_84.apk",
+        "app_activity": "com.lxb.happytheater.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "爱奇艺VR(Glass版)",
+        "package_name": "com.iqiyi.ivrcinema.huaweivrglass",
+        "file_name": "com.iqiyi.ivrcinema.huaweivrglass_86.apk",
+        "app_activity": "com.iqiyi.vractivity.huawei.HuaweiMainActivity"
+    },
+    {
+        "app_name": "百看影视大全",
+        "package_name": "com.baikantv.videonew",
+        "file_name": "com.baikantv.videonew_87.apk",
+        "app_activity": "com.video.lizhi.future.main.acitivity.SplashActivity"
+    },
+    {
+        "app_name": "哔哩哔哩",
+        "package_name": "tv.danmaku.bili",
+        "file_name": "tv.danmaku.bili_88.apk",
+        "app_activity": "tv.danmaku.bili.MainActivityV2"
+    },
+    {
+        "app_name": "Dilkan",
+        "package_name": "cn.ulinix.app.dilkan",
+        "file_name": "cn.ulinix.app.dilkan_89.apk",
+        "app_activity": "cn.ulinix.app.dilkan.MainActivity"
+    },
+    {
+        "app_name": "一席",
+        "package_name": "com.taguxdesign.yixi",
+        "file_name": "com.taguxdesign.yixi_90.apk",
+        "app_activity": "com.taguxdesign.yixi.activity.NewSplashActivity"
+    },
+    {
+        "app_name": "来看短剧",
+        "package_name": "com.laikan.video",
+        "file_name": "com.laikan.video_91.apk",
+        "app_activity": "com.rongliang.base.activity.SplashActivity"
+    },
+    {
+        "app_name": "策驰视频播放器",
+        "package_name": "com.sfg.wtuws",
+        "file_name": "com.sfg.wtuws_92.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "影咖vmovie",
+        "package_name": "vmovie.filmcoffee.cn",
+        "file_name": "vmovie.filmcoffee.cn_93.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "润疆秀",
+        "package_name": "com.runjiang.phonelive",
+        "file_name": "com.runjiang.phonelive_94.apk",
+        "app_activity": "com.runjiang.phonelive.activity.LauncherActivity"
+    },
+    {
+        "app_name": "影音视频播放器",
+        "package_name": "com.quickq.playersy",
+        "file_name": "com.quickq.playersy_95.apk",
+        "app_activity": "com.wanqing.ms.LaunchActivity"
+    },
+    {
+        "app_name": "南瓜电影极速版",
+        "package_name": "cn.vcinema.light",
+        "file_name": "cn.vcinema.light_96.apk",
+        "app_activity": "cn.vcinema.light.activity.SplashActivity"
+    },
+    {
+        "app_name": "mongol ntv",
+        "package_name": "com.ezen.cntv",
+        "file_name": "com.ezen.cntv_97.apk",
+        "app_activity": "com.cntv.mongolntv.MainActivity"
+    },
+    {
+        "app_name": "Qilan",
+        "package_name": "com.qilan.cn",
+        "file_name": "com.qilan.cn_98.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "快领红包短视频",
+        "package_name": "com.kling.hbao",
+        "file_name": "com.kling.hbao_99.apk",
+        "app_activity": "com.kling.hbao.activities.FlashActivity"
+    },
+    {
+        "app_name": "柿子电影",
+        "package_name": "com.fqdy.groot",
+        "file_name": "com.fqdy.groot_100.apk",
+        "app_activity": "com.fqdy.groot.MainActivity"
+    },
+    {
+        "app_name": "视频观天下",
+        "package_name": "com.jryy.app.news.spgtx",
+        "file_name": "com.jryy.app.news.spgtx_101.apk",
+        "app_activity": "com.jryy.app.news.spgtx.MainActivity"
+    },
+    {
+        "app_name": "熊猫频道",
+        "package_name": "cn.cntv.app.ipanda",
+        "file_name": "cn.cntv.app.ipanda_102.apk",
+        "app_activity": "cn.cntv.app.componenthome.ui.SplashActivity"
+    },
+    {
+        "app_name": "AView",
+        "package_name": "com.jco.aiview",
+        "file_name": "com.jco.aiview_103.apk",
+        "app_activity": "com.jco.jcoplus.account.activity.StartActivity"
+    },
+
+    {
+        "app_name": "CCTV手机电视",
+        "package_name": "com.cctv4g.cctvmobiletv",
+        "file_name": "com.cctv4g.cctvmobiletv_1.apk",
+        "app_activity": "com.cctv4g.cctvmobiletv.activitys.SplashActivity"
+    },
+    {
+        "app_name": "爱看电视",
+        "package_name": "org.fungo.akdstv",
+        "file_name": "org.fungo.akdstv_2.apk",
+        "app_activity": "org.fungo.akdstv.SplashActivity"
+    },
+    {
+        "app_name": "河山云",
+        "package_name": "com.smart.zjk",
+        "file_name": "com.smart.zjk_3.apk",
+        "app_activity": "com.smart.zjk.main.SplashActivity"
+    },
+    {
+        "app_name": "手机电视高清直播",
+        "package_name": "com.zbx.ct.tvzhibo",
+        "file_name": "com.zbx.ct.tvzhibo_4.apk",
+        "app_activity": "com.tvmain.mvp.view.activity.SplanshActivity"
+    },
+    {
+        "app_name": "Kinohana",
+        "package_name": "com.mukapat.tv.cinema",
+        "file_name": "com.mukapat.tv.cinema_5.apk",
+        "app_activity": "com.mukapat.tv.cinema.activities.MainActivity"
+    },
+    {
+        "app_name": "零零七影视",
+        "package_name": "com.llqzs.llqbfq",
+        "file_name": "com.llqzs.llqbfq_6.apk",
+        "app_activity": "com.mediaplay.eleven.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "广元手机台",
+        "package_name": "com.dfsx.gytv",
+        "file_name": "com.dfsx.gytv_7.apk",
+        "app_activity": "com.dfsx.home.ui.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "梨园",
+        "package_name": "com.xsrm.news.liyuan",
+        "file_name": "com.xsrm.news.liyuan_8.apk",
+        "app_activity": "com.dxrm.aijiyuan._activity._launcher.LauncherActivity"
+    },
+    {
+        "app_name": "天天电视直播",
+        "package_name": "org.fungo.fungolive",
+        "file_name": "org.fungo.fungolive_9.apk",
+        "app_activity": "org.stagex.danmaku.activity.SplashActivity"
+    },
+    {
+        "app_name": "熊猫视频",
+        "package_name": "com.shinyv.pandamtv",
+        "file_name": "com.shinyv.pandamtv_10.apk",
+        "app_activity": "com.sctv.media.main.ui.activitys.LauncherActivity"
+    },
+    {
+        "app_name": "云端珠峰",
+        "package_name": "com.rkzrm.c843675392b1bbb9daca644b438a54beb",
+        "file_name": "com.rkzrm.c843675392b1bbb9daca644b438a54beb_11.apk",
+        "app_activity": "com.txl.app.HomeActivity"
+    },
+    {
+        "app_name": "央视体育VIP",
+        "package_name": "com.neulion.android.cntv",
+        "file_name": "com.neulion.android.cntv_12.apk",
+        "app_activity": "com.neulion.android.cntv.LauncherActivity"
+    },
+    {
+        "app_name": "直播中国",
+        "package_name": "com.cbn.ibcp.videoApplication",
+        "file_name": "com.cbn.ibcp.videoApplication_13.apk",
+        "app_activity": "com.cbn.ibcp.tvmobile.page.splash.SplashActivity"
+    },
+    {
+        "app_name": "电视直播多多",
+        "package_name": "com.rumtel.pandatv",
+        "file_name": "com.rumtel.pandatv_14.apk",
+        "app_activity": "com.rumtel.pandatv.ui.SplashActivity"
+    },
+    {
+        "app_name": "Z视介",
+        "package_name": "com.chinablue.tv",
+        "file_name": "com.chinablue.tv_15.apk",
+        "app_activity": "com.chinablue.tv.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "5G云TV",
+        "package_name": "cn.bestv.m5gtv",
+        "file_name": "cn.bestv.m5gtv_16.apk",
+        "app_activity": "com.bestv.app.StartActivity"
+    },
+    {
+        "app_name": "芒果TV",
+        "package_name": "com.hunantv.imgo.activity",
+        "file_name": "com.hunantv.imgo.activity_17.apk",
+        "app_activity": "com.hunantv.imgo.activity.MainActivity"
+    },
+    {
+        "app_name": "1905电影网",
+        "package_name": "com.m1905.mobilefree",
+        "file_name": "com.m1905.mobilefree_18.apk",
+        "app_activity": "com.m1905.mobilefree.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "Koznak",
+        "package_name": "cn.wlantv.kznk",
+        "file_name": "cn.wlantv.kznk_19.apk",
+        "app_activity": "cn.wlantv.kznk.ui.launch.LauncherActivity"
+    },
+    {
+        "app_name": "汕头橄榄台",
+        "package_name": "com.cutv.shakeshakestglt",
+        "file_name": "com.cutv.shakeshakestglt_20.apk",
+        "app_activity": "com.cutv.act.FirstSplashActivity"
+    },
+    {
+        "app_name": "智慧岳阳",
+        "package_name": "com.wisdom.yueyang",
+        "file_name": "com.wisdom.yueyang_21.apk",
+        "app_activity": "com.gut.yueyang.activity.SplashActivity"
+    },
+    {
+        "app_name": "全民电视直播",
+        "package_name": "org.fungo.fungoliveallstar",
+        "file_name": "org.fungo.fungoliveallstar_22.apk",
+        "app_activity": "org.stagex.danmaku.activity.SplashActivity"
+    },
+    {
+        "app_name": "影视大全看看",
+        "package_name": "com.rumtel.mobiletv",
+        "file_name": "com.rumtel.mobiletv_23.apk",
+        "app_activity": "com.rumtel.mobiletv.activity.SplashActivity"
+    },
+    {
+        "app_name": "吉智视频",
+        "package_name": "com.jisetv.iptv.activity",
+        "file_name": "com.jisetv.iptv.activity_24.apk",
+        "app_activity": "com.jisetv.iptv.splashscreen.activity.SplashScreenActivity"
+    },
+    {
+        "app_name": "电视直播专家",
+        "package_name": "com.dszb.app",
+        "file_name": "com.dszb.app_25.apk",
+        "app_activity": "com.dszb.app.ui.SplashActivity"
+    },
+    {
+        "app_name": "天翼超高清",
+        "package_name": "com.telecom.video",
+        "file_name": "com.telecom.video_26.apk",
+        "app_activity": "com.telecom.video.WelcomeActivity"
+    },
+    {
+        "app_name": "智慧佳木斯",
+        "package_name": "com.shadt.jiamusi",
+        "file_name": "com.shadt.jiamusi_27.apk",
+        "app_activity": "com.shadt.activity.GuidePagerActivity"
+    }
+
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "app_name": "哈尼妹妹",
+        "package_name": "com.scoy.honeymei",
+        "file_name": "com.scoy.honeymei_1.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "大地影院",
+        "package_name": "com.ddcinemaapp",
+        "file_name": "com.ddcinemaapp_2.apk",
+        "app_activity": "com.ddcinemaapp.business.LaunchActivity"
+    },
+    {
+        "app_name": "CGV电影",
+        "package_name": "com.cgv.cn.movie",
+        "file_name": "com.cgv.cn.movie_3.apk",
+        "app_activity": "com.cgv.cn.movie.MainActivity"
+    },
+    {
+        "app_name": "保利票务",
+        "package_name": "com.poly.mobile",
+        "file_name": "com.poly.mobile_4.apk",
+        "app_activity": "com.poly.mobile.SplashActivity"
+    },
+    {
+        "app_name": "票豆",
+        "package_name": "com.doutix.app",
+        "file_name": "com.doutix.app_5.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "好票",
+        "package_name": "haopiao.cloud",
+        "file_name": "haopiao.cloud_6.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "幸福看",
+        "package_name": "cn.mopon.film.xflh",
+        "file_name": "cn.mopon.film.xflh_7.apk",
+        "app_activity": "cn.mopon.film.xflh.activity.MainActivity"
+    },
+    {
+        "app_name": "中影电影通",
+        "package_name": "cn.mopon.film.zygj",
+        "file_name": "cn.mopon.film.zygj_8.apk",
+        "app_activity": "cn.mopon.film.zygj.ui.activtiy.WelcomeActivity"
+    },
+    {
+        "app_name": "卢米埃影城",
+        "package_name": "com.lumiai.XXXXX",
+        "file_name": "com.lumiai.XXXXX_9.apk",
+        "app_activity": "com.lumiai.XXXXX.activity.SplashActivity"
+    },
+    {
+        "app_name": "绍野文旅",
+        "package_name": "com.sobot.shaoyewl",
+        "file_name": "com.sobot.shaoyewl_10.apk",
+        "app_activity": "com.sobot.shaoyewl.activity.SpreadActivity"
+    },
+    {
+        "app_name": "摩天轮票务",
+        "package_name": "com.juqitech.niumowang",
+        "file_name": "com.juqitech.niumowang_11.apk",
+        "app_activity": "com.juqitech.niumowang.LoadingActivity"
+    },
+    {
+        "app_name": "猫眼专业版",
+        "package_name": "com.sankuai.moviepro",
+        "file_name": "com.sankuai.moviepro_12.apk",
+        "app_activity": "com.sankuai.moviepro.mvp.views.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "奥映",
+        "package_name": "com.ascar.app",
+        "file_name": "com.ascar.app_13.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "票星球",
+        "package_name": "com.piaoyou.piaoxingqiu",
+        "file_name": "com.piaoyou.piaoxingqiu_14.apk",
+        "app_activity": "com.piaoyou.piaoxingqiu.home.loading.LoadingActivity"
+    },
+    {
+        "app_name": "淘票票",
+        "package_name": "com.taobao.movie.android",
+        "file_name": "com.taobao.movie.android_15.apk",
+        "app_activity": "com.taobao.movie.android.app.home.activity.MainActivity"
+    },
+    {
+        "app_name": "拍拍票",
+        "package_name": "com.mq.paipaipiao",
+        "file_name": "com.mq.paipaipiao_16.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "即省",
+        "package_name": "com.jishengjs.app",
+        "file_name": "com.jishengjs.app_17.apk",
+        "app_activity": "com.jishengjs.app.MainActivity"
+    },
+    {
+        "app_name": "万达电影",
+        "package_name": "com.wandafilm.app",
+        "file_name": "com.wandafilm.app_18.apk",
+        "app_activity": "com.wandafilm.app.MainActivity"
+    },
+    {
+        "app_name": "保利电影",
+        "package_name": "com.zhonglan.polyapp",
+        "file_name": "com.zhonglan.polyapp_19.apk",
+        "app_activity": "com.zhonglan.polyapp.activity.MainActivity"
+    },
+    {
+        "app_name": "院线通电影票",
+        "package_name": "com.eshore.efilm",
+        "file_name": "com.eshore.efilm_20.apk",
+        "app_activity": "com.eshore.efilm.Efilm"
+    },
+    {
+        "app_name": "博纳影城",
+        "package_name": "com.ykse.ticket.bona",
+        "file_name": "com.ykse.ticket.bona_21.apk",
+        "app_activity": "com.ykse.ticket.app.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "猫眼",
+        "package_name": "com.sankuai.movie",
+        "file_name": "com.sankuai.movie_22.apk",
+        "app_activity": "com.sankuai.movie.welcome.Welcome"
+    },
+    {
+        "app_name": "影店",
+        "package_name": "com.jiaying.activity",
+        "file_name": "com.jiaying.activity_23.apk",
+        "app_activity": "com.jiaying.ydw.main.SplashActivity"
+    },
+    {
+        "app_name": "E票电影",
+        "package_name": "com.epiaom",
+        "file_name": "com.epiaom_24.apk",
+        "app_activity": "com.epiaom.ui.SplashActivity"
+    },
+    {
+        "app_name": "票好友商家版",
+        "package_name": "com.rain.phy",
+        "file_name": "com.rain.phy_25.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "大麦",
+        "package_name": "cn.damai",
+        "file_name": "cn.damai_26.apk",
+        "app_activity": "cn.damai.launcher.splash.SplashMainActivity"
+    },
+    {
+        "app_name": "时光网",
+        "package_name": "com.mtime",
+        "file_name": "com.mtime_27.apk",
+        "app_activity": "com.mtime.bussiness.splash.SplashNewActivity"
+    },
+    {
+        "app_name": "横店电影城",
+        "package_name": "com.kokozu.hengdian",
+        "file_name": "com.kokozu.hengdian_28.apk",
+        "app_activity": "com.kokozu.hengdian.MainActivity"
+    },
+    {
+        "app_name": "卖座电影",
+        "package_name": "com.hyx.maizuo.main",
+        "file_name": "com.hyx.maizuo.main_29.apk",
+        "app_activity": "com.hyx.maizuo.main.startup.EntranceActivity"
+    },
+    {
+        "app_name": "金逸电影",
+        "package_name": "com.jycinema.sie",
+        "file_name": "com.jycinema.sie_30.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "最美电影",
+        "package_name": "com.zrfilm",
+        "file_name": "com.zrfilm_31.apk",
+        "app_activity": "com.zrfilm.PermissionsMainActivity"
+    },
+    {
+        "app_name": "票牛商家版",
+        "package_name": "com.piaoniu.merchant.client",
+        "file_name": "com.piaoniu.merchant.client_32.apk",
+        "app_activity": "com.piaoniu.merchant.client.MainActivity"
+    },
+    {
+        "app_name": "毒舌影视",
+        "package_name": "com.dushe.movie",
+        "file_name": "com.dushe.movie_33.apk",
+        "app_activity": "com.youhaoxi.dsuniplugin.DSMainActivity"
+    }
+]

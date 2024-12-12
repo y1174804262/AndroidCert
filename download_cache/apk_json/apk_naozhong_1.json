@@ -1,0 +1,266 @@
+[
+    {
+        "app_name": "普通闹钟",
+        "package_name": "com.nomral.naz",
+        "file_name": "com.nomral.naz_1.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "学习作业计时器",
+        "package_name": "com.fxx.jishiq",
+        "file_name": "com.fxx.jishiq_2.apk",
+        "app_activity": "com.example.unimpdemo.activity.BootActivity"
+    },
+    {
+        "app_name": "Vv小秘书",
+        "package_name": "com.limainfo.vv",
+        "file_name": "com.limainfo.vv_3.apk",
+        "app_activity": "com.limainfo.vv.MainActivity"
+    },
+    {
+        "app_name": "地点闹钟",
+        "package_name": "cn.orangesun.locationclock",
+        "file_name": "cn.orangesun.locationclock_4.apk",
+        "app_activity": "cn.orangesun.locationclock.ui.SplashActivity"
+    },
+    {
+        "app_name": "助眠时钟",
+        "package_name": "com.changlianzx.sleepclock",
+        "file_name": "com.changlianzx.sleepclock_5.apk",
+        "app_activity": "com.changlianzx.sleepclock.activitys.SplashActivity"
+    },
+    {
+        "app_name": "桌面时钟iclock语音闹钟",
+        "package_name": "com.shuoyu.clock",
+        "file_name": "com.shuoyu.clock_6.apk",
+        "app_activity": "com.shuoyu.clock.ui.SplashActivity"
+    },
+    {
+        "app_name": "起床闹钟Alarm",
+        "package_name": "com.fanghe.clock",
+        "file_name": "com.fanghe.clock_7.apk",
+        "app_activity": "com.fanghe.clock.customui.SplashActivity"
+    },
+    {
+        "app_name": "桌面时间",
+        "package_name": "com.fugui.clock",
+        "file_name": "com.fugui.clock_8.apk",
+        "app_activity": "com.fugui.clock.OtherMainActivity"
+    },
+    {
+        "app_name": "手机悬浮时钟",
+        "package_name": "com.xmy.desktopclock",
+        "file_name": "com.xmy.desktopclock_9.apk",
+        "app_activity": "com.xmy.desktopclock.act.xmyWelcomeActivity"
+    },
+    {
+        "app_name": "时间官",
+        "package_name": "com.wuxi.timer",
+        "file_name": "com.wuxi.timer_10.apk",
+        "app_activity": "com.wuxi.timer.activities.SplashActivity"
+    },
+    {
+        "app_name": "ColorClock",
+        "package_name": "com.wizeyes.colorclock",
+        "file_name": "com.wizeyes.colorclock_11.apk",
+        "app_activity": "com.wizeyes.colorclock.ui.page.guide.GuideActivity"
+    },
+    {
+        "app_name": "EnergyAlarm",
+        "package_name": "com.bozhong.energy",
+        "file_name": "com.bozhong.energy_12.apk",
+        "app_activity": "com.bozhong.energy.ui.home.SplashActivity"
+    },
+    {
+        "app_name": "恰到桌面时钟",
+        "package_name": "cn.childclock.childclock",
+        "file_name": "cn.childclock.childclock_13.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "iClock闹钟",
+        "package_name": "com.nanjingqal.nziclock",
+        "file_name": "com.nanjingqal.nziclock_14.apk",
+        "app_activity": "com.nanjingqal.nziclock.appbase.base.SplashActivity"
+    },
+    {
+        "app_name": "手机闹钟oneClock闹铃",
+        "package_name": "cn.feichong.clock",
+        "file_name": "cn.feichong.clock_15.apk",
+        "app_activity": "cn.feichong.clock.ui.SplashActivity"
+    },
+    {
+        "app_name": "Digital Clock Widget",
+        "package_name": "com.lixiangdong.LCDWatch.Pro",
+        "file_name": "com.lixiangdong.LCDWatch.Pro_16.apk",
+        "app_activity": "lixiangdong.com.digitalclockdomo.activity.SplashAdActivity"
+    },
+    {
+        "app_name": "Smart Timer",
+        "package_name": "org.ccc.st",
+        "file_name": "org.ccc.st_17.apk",
+        "app_activity": "org.ccc.base.activity.others.SplashAdActivity"
+    },
+    {
+        "app_name": "时光闹钟",
+        "package_name": "com.ea.flutter_app",
+        "file_name": "com.ea.flutter_app_18.apk",
+        "app_activity": "com.ea.flutter_app.MainActivity"
+    },
+    {
+        "app_name": "正点报时",
+        "package_name": "dev.MakPersonalStudio.AlarmClock",
+        "file_name": "dev.MakPersonalStudio.AlarmClock_19.apk",
+        "app_activity": "dev.MakPersonalStudio.AlarmClock.MainActivity"
+    },
+    {
+        "app_name": "提醒小秘书",
+        "package_name": "com.yuanli.mvpdailytasks",
+        "file_name": "com.yuanli.mvpdailytasks_20.apk",
+        "app_activity": "com.yuanli.mvpdailytasks.mvp.ui.activity.StartPageActivity"
+    },
+    {
+        "app_name": "漂浮时钟",
+        "package_name": "com.biggerlens.missionclock",
+        "file_name": "com.biggerlens.missionclock_21.apk",
+        "app_activity": "com.biggerlens.missionclock.WelcomeActivity"
+    },
+    {
+        "app_name": "记得日历",
+        "package_name": "com.rmbr.android",
+        "file_name": "com.rmbr.android_22.apk",
+        "app_activity": "com.rmbr.android.ui.LauncherActivity"
+    },
+    {
+        "app_name": "语音报时闹钟",
+        "package_name": "com.hima.android",
+        "file_name": "com.hima.android_23.apk",
+        "app_activity": "com.xiaohao.android.gzdsq.extend.SplashActivity"
+    },
+    {
+        "app_name": "Yike",
+        "package_name": "com.pc.time",
+        "file_name": "com.pc.time_24.apk",
+        "app_activity": "com.pc.time.ui.SplashActivity"
+    },
+    {
+        "app_name": "语音闹钟",
+        "package_name": "ej.easyjoy.alarmandreminder.cn",
+        "file_name": "ej.easyjoy.alarmandreminder.cn_25.apk",
+        "app_activity": "com.lemon.clock.ui.LogoActivity"
+    },
+    {
+        "app_name": "柒号翻页时钟",
+        "package_name": "com.luoyu.flipclock",
+        "file_name": "com.luoyu.flipclock_26.apk",
+        "app_activity": "com.luoyu.flipclock.FirstActivity"
+    },
+    {
+        "app_name": "手机闹钟",
+        "package_name": "com.doudoubird.alarmcolck",
+        "file_name": "com.doudoubird.alarmcolck_27.apk",
+        "app_activity": "com.doudoubird.alarmcolck.activity.SplashActivityGDT"
+    },
+    {
+        "app_name": "自律悬浮闹钟",
+        "package_name": "com.xmb.floatalarmclock",
+        "file_name": "com.xmb.floatalarmclock_28.apk",
+        "app_activity": "com.xmb.floatalarmclock.act.WelcomeActivity"
+    },
+    {
+        "app_name": "嘀嗒时钟",
+        "package_name": "com.eoiioe.didaclock",
+        "file_name": "com.eoiioe.didaclock_29.apk",
+        "app_activity": "com.eoiioe.clock.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "One AlarmClock",
+        "package_name": "com.erciyuan.clock",
+        "file_name": "com.erciyuan.clock_30.apk",
+        "app_activity": "com.dotools.dtclock.activity.SplashActivity"
+    },
+    {
+        "app_name": "每日闹钟",
+        "package_name": "com.beixiao.clock",
+        "file_name": "com.beixiao.clock_31.apk",
+        "app_activity": "com.smclock.ui.SplashActivity"
+    },
+    {
+        "app_name": "怪物闹钟",
+        "package_name": "com.aokj.guaitime",
+        "file_name": "com.aokj.guaitime_32.apk",
+        "app_activity": "com.sinoangel.sazalarm.SplashActivityStartUp"
+    },
+    {
+        "app_name": "时册",
+        "package_name": "www.shicecloud.com",
+        "file_name": "www.shicecloud.com_33.apk",
+        "app_activity": "www.shicecloud.com.activity.StartUpActivity"
+    },
+    {
+        "app_name": "整点报时",
+        "package_name": "cn.yishengnet.time",
+        "file_name": "cn.yishengnet.time_34.apk",
+        "app_activity": "cn.yishengnet.time.ui.SplashActivity"
+    },
+    {
+        "app_name": "时间管理iTime手机闹钟",
+        "package_name": "cn.musimiao.itimeis",
+        "file_name": "cn.musimiao.itimeis_35.apk",
+        "app_activity": "cn.feichongtech.newmymvpkotlin.activity.SplashActivity"
+    },
+    {
+        "app_name": "闹钟铃声多",
+        "package_name": "com.eodrtx.doijqb",
+        "file_name": "com.eodrtx.doijqb_36.apk",
+        "app_activity": "com.eodrtx.doijqb.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "悬浮秒表",
+        "package_name": "com.shsuoqingning.timer",
+        "file_name": "com.shsuoqingning.timer_37.apk",
+        "app_activity": "com.shsuoqingning.timer.ui.SplashActivity"
+    },
+    {
+        "app_name": "起床闹铃",
+        "package_name": "com.work.clock",
+        "file_name": "com.work.clock_38.apk",
+        "app_activity": "com.base.clock.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "哒哒天气闹钟",
+        "package_name": "com.dadawh.alarm",
+        "file_name": "com.dadawh.alarm_39.apk",
+        "app_activity": "com.dadawh.alarm.activity.LunchActivity"
+    },
+    {
+        "app_name": "Click Assistant",
+        "package_name": "com.xundao.floatingclock",
+        "file_name": "com.xundao.floatingclock_40.apk",
+        "app_activity": "com.xundao.floatingclock.ui.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "AhQ Clock",
+        "package_name": "cn.ezandroid.aq.clock",
+        "file_name": "cn.ezandroid.aq.clock_41.apk",
+        "app_activity": "cn.ezandroid.aq.clock.SplashActivity"
+    },
+    {
+        "app_name": "口袋时钟",
+        "package_name": "com.kkdai.nn",
+        "file_name": "com.kkdai.nn_43.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "桌面悬浮时钟",
+        "package_name": "com.twx.clock",
+        "file_name": "com.twx.clock_44.apk",
+        "app_activity": "com.twx.clock.ui.activity.BeginViewActivity"
+    },
+    {
+        "app_name": "智能闹钟时钟",
+        "package_name": "com.xq.pclock",
+        "file_name": "com.xq.pclock_45.apk",
+        "app_activity": "com.xq.pclock.MainActivity"
+    }
+]

@@ -1,0 +1,326 @@
+[
+    {
+        "app_name": "竺岸农鲜",
+        "package_name": "uni.UNIB0483C1",
+        "file_name": "uni.UNIB0483C1_1.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "菜大王",
+        "package_name": "com.w347316533.uom",
+        "file_name": "com.w347316533.uom_2.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "一米市集",
+        "package_name": "com.yimishiji.app",
+        "file_name": "com.yimishiji.app_3.apk",
+        "app_activity": "com.yimishiji.app.flux.ui.activitys.SplashActivity"
+    },
+    {
+        "app_name": "冻品到家",
+        "package_name": "com.dpdaojia.dongpindaojia",
+        "file_name": "com.dpdaojia.dongpindaojia_4.apk",
+        "app_activity": "com.dpdaojia.dongpindaojia.MainActivity"
+    },
+    {
+        "app_name": "鲜速达",
+        "package_name": "uni.UNI8EA2080",
+        "file_name": "uni.UNI8EA2080_5.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "奇麟鲜品商家版",
+        "package_name": "com.easyder.qinlin.supplier",
+        "file_name": "com.easyder.qinlin.supplier_6.apk",
+        "app_activity": "com.easyder.qinlin.supplier.ui.SplashActivity"
+    },
+    {
+        "app_name": "大润发优鲜",
+        "package_name": "com.rt.market.fresh",
+        "file_name": "com.rt.market.fresh_7.apk",
+        "app_activity": "com.rt.market.fresh.welcome.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "显眼包",
+        "package_name": "com.luohuagu.magicorchard",
+        "file_name": "com.luohuagu.magicorchard_8.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "清美云超",
+        "package_name": "com.tramy.cloud_shop",
+        "file_name": "com.tramy.cloud_shop_9.apk",
+        "app_activity": "com.tramy.cloud_shop.mvp.ui.activity.InitActivity"
+    },
+    {
+        "app_name": "聚商联采",
+        "package_name": "com.jqxjt.xcx",
+        "file_name": "com.jqxjt.xcx_10.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "胖柚商家端",
+        "package_name": "com.example.JiaYiHuiMerchantClient",
+        "file_name": "com.example.JiaYiHuiMerchantClient_11.apk",
+        "app_activity": "com.example.JiaYiHuiMerchantClient.MainActivity"
+    },
+    {
+        "app_name": "光头集配",
+        "package_name": "com.zk.balddeliveryclient",
+        "file_name": "com.zk.balddeliveryclient_12.apk",
+        "app_activity": "com.zk.balddeliveryclient.activity.SplashActivity"
+    },
+    {
+        "app_name": "冻鲜宜",
+        "package_name": "com.ewaga.ybxshop",
+        "file_name": "com.ewaga.ybxshop_13.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "纽澜地",
+        "package_name": "com.niulandi.shop",
+        "file_name": "com.niulandi.shop_14.apk",
+        "app_activity": "com.niulandi.shop.MainActivity"
+    },
+    {
+        "app_name": "农卷风",
+        "package_name": "com.sxmd.tornado",
+        "file_name": "com.sxmd.tornado_15.apk",
+        "app_activity": "com.sxmd.tornado.ui.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "兰兰冷冻食品",
+        "package_name": "com.mjyx.LanLanFrozenFood",
+        "file_name": "com.mjyx.LanLanFrozenFood_16.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "无忧2020",
+        "package_name": "com.shengxian.wuyou2020",
+        "file_name": "com.shengxian.wuyou2020_17.apk",
+        "app_activity": "com.shengxian.wuyou2020.activity.LauncherActivity"
+    },
+    {
+        "app_name": "味全智慧营运",
+        "package_name": "com.boc.weiquan",
+        "file_name": "com.boc.weiquan_18.apk",
+        "app_activity": "com.boc.weiquan.ui.activity.MainActivity"
+    },
+    {
+        "app_name": "久日鲜选",
+        "package_name": "com.jrxx",
+        "file_name": "com.jrxx_19.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "天天果园",
+        "package_name": "com.ttxg.fruitday",
+        "file_name": "com.ttxg.fruitday_20.apk",
+        "app_activity": "com.ttxg.fruitday.LaunchActivity"
+    },
+    {
+        "app_name": "胖柚",
+        "package_name": "com.bailunsi.zh_consumer_mall",
+        "file_name": "com.bailunsi.zh_consumer_mall_21.apk",
+        "app_activity": "com.bailunsi.zh_consumer_mall.MainActivity"
+    },
+    {
+        "app_name": "叮咚买菜",
+        "package_name": "com.yaya.zone",
+        "file_name": "com.yaya.zone_22.apk",
+        "app_activity": "cn.me.android.splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "绿色快线",
+        "package_name": "com.digagr.qnusermp",
+        "file_name": "com.digagr.qnusermp_23.apk",
+        "app_activity": "com.digagr.qnusermp.ui.MainActivity"
+    },
+    {
+        "app_name": "朝阳到家",
+        "package_name": "com.umarkcloud.chaoyang",
+        "file_name": "com.umarkcloud.chaoyang_24.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "本来生活",
+        "package_name": "com.android.benlailife.activity",
+        "file_name": "com.android.benlailife.activity_25.apk",
+        "app_activity": "com.benlai.android.splash.LaunchXActivity"
+    },
+    {
+        "app_name": "优佳悦享",
+        "package_name": "com.yjmsy.m",
+        "file_name": "com.yjmsy.m_26.apk",
+        "app_activity": "com.yjmsy.m.activity.SplashActivity"
+    },
+    {
+        "app_name": "盒马",
+        "package_name": "com.wudaokou.hippo",
+        "file_name": "com.wudaokou.hippo_27.apk",
+        "app_activity": "com.wudaokou.hippo.launcher.splash.SplashActivity"
+    },
+    {
+        "app_name": "京东秒送商家",
+        "package_name": "com.jd.mrd.jingming",
+        "file_name": "com.jd.mrd.jingming_28.apk",
+        "app_activity": "com.jd.mrd.jingming.login.WelcomeActivity"
+    },
+    {
+        "app_name": "多当家超市",
+        "package_name": "com.duodangjia.client",
+        "file_name": "com.duodangjia.client_29.apk",
+        "app_activity": "com.duodangjia.client.MainActivity"
+    },
+    {
+        "app_name": "共采云",
+        "package_name": "com.barter.procure.app",
+        "file_name": "com.barter.procure.app_30.apk",
+        "app_activity": "com.barter.procure.app.activity.SplashActivity"
+    },
+    {
+        "app_name": "市井到家",
+        "package_name": "com.sjdjdd.www",
+        "file_name": "com.sjdjdd.www_31.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "春播",
+        "package_name": "com.chunbo.chunbomall",
+        "file_name": "com.chunbo.chunbomall_32.apk",
+        "app_activity": "com.chunbo.activity.LaunchActivity"
+    },
+    {
+        "app_name": "美菜商城",
+        "package_name": "com.meicai.mall",
+        "file_name": "com.meicai.mall_33.apk",
+        "app_activity": "com.meicai.mall.welcome.act.WelComeActivity"
+    },
+    {
+        "app_name": "拼不拼果",
+        "package_name": "com.shuyuan.pbpg",
+        "file_name": "com.shuyuan.pbpg_34.apk",
+        "app_activity": "com.lingdong.gm.activity.GMWebActivity"
+    },
+    {
+        "app_name": "京客隆",
+        "package_name": "com.bm.jkl",
+        "file_name": "com.bm.jkl_35.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "T11",
+        "package_name": "com.jy.t11",
+        "file_name": "com.jy.t11_36.apk",
+        "app_activity": "com.jy.t11.LoadingActivity"
+    },
+    {
+        "app_name": "中粮我买网",
+        "package_name": "com.womai",
+        "file_name": "com.womai_37.apk",
+        "app_activity": "vue.activity.Activity_Welcom"
+    },
+    {
+        "app_name": "冻品批发港",
+        "package_name": "uni.UNIEB2E855",
+        "file_name": "uni.UNIEB2E855_38.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "食行生鲜",
+        "package_name": "com.gem.tastyfood",
+        "file_name": "com.gem.tastyfood_39.apk",
+        "app_activity": "com.gem.tastyfood.LaunchActivity"
+    },
+    {
+        "app_name": "朴朴超市",
+        "package_name": "com.pupumall.customer",
+        "file_name": "com.pupumall.customer_40.apk",
+        "app_activity": "com.pupumall.customer.activity.SplashActivity"
+    },
+    {
+        "app_name": "百果园",
+        "package_name": "com.pagoda.buy",
+        "file_name": "com.pagoda.buy_41.apk",
+        "app_activity": "com.pagoda.buy.ui.MainActivity"
+    },
+    {
+        "app_name": "云书菜市集",
+        "package_name": "yunscs.com",
+        "file_name": "yunscs.com_43.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "普冷库购",
+        "package_name": "com.gfscold.buy",
+        "file_name": "com.gfscold.buy_44.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "绿果网",
+        "package_name": "com.xingw.lg",
+        "file_name": "com.xingw.lg_46.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "廣南生鮮",
+        "package_name": "com.gnh.gdh",
+        "file_name": "com.gnh.gdh_47.apk",
+        "app_activity": "com.gnh.gdh.activity.LauncherActivity"
+    },
+    {
+        "app_name": "便民买菜",
+        "package_name": "com.ddmsoftware.bmmc",
+        "file_name": "com.ddmsoftware.bmmc_48.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "菜婶到家",
+        "package_name": "com.csdaojia.app",
+        "file_name": "com.csdaojia.app_49.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "肉交所",
+        "package_name": "com.wei.roujiaosuo",
+        "file_name": "com.wei.roujiaosuo_50.apk",
+        "app_activity": "com.wei.roujiaosuo.IndexAty"
+    },
+    {
+        "app_name": "京东到家",
+        "package_name": "com.jingdong.pdj",
+        "file_name": "com.jingdong.pdj_51.apk",
+        "app_activity": "pdj.start.NewStartActivity"
+    },
+    {
+        "app_name": "翘歌",
+        "package_name": "com.barbecue.app",
+        "file_name": "com.barbecue.app_52.apk",
+        "app_activity": "com.puyue.www.qiaoge.activity.SplashActivity"
+    },
+    {
+        "app_name": "21度网上商城",
+        "package_name": "com.wangrui.a21du",
+        "file_name": "com.wangrui.a21du_53.apk",
+        "app_activity": "com.wangrui.a21du.login.FirstActivity"
+    },
+    {
+        "app_name": "辰石商城",
+        "package_name": "com.cqcsqg.app",
+        "file_name": "com.cqcsqg.app_54.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "小6买菜",
+        "package_name": "com.shoyoo.x6mc.android",
+        "file_name": "com.shoyoo.x6mc.android_55.apk",
+        "app_activity": "com.shoyoo.x6mc.android.MainActivity"
+    },
+    {
+        "app_name": "莲花GO",
+        "package_name": "com.cplotus.app",
+        "file_name": "com.cplotus.app_56.apk",
+        "app_activity": "com.cplotus.app.activity.UmengSplashActivity"
+    }
+]

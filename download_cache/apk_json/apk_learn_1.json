@@ -1,0 +1,2820 @@
+[
+    {
+        "app_name": "古筝大师",
+        "package_name": "com.jack.myguzheng",
+        "file_name": "com.jack.myguzheng_1.apk",
+        "app_activity": "com.jack.myguzheng.SplashActivity"
+    },
+    {
+        "app_name": "全能答题",
+        "package_name": "com.ducv.qndt",
+        "file_name": "com.ducv.qndt_2.apk",
+        "app_activity": "com.guzhen.main.LaunchActivity"
+    },
+    {
+        "app_name": "作业帮",
+        "package_name": "com.baidu.homework",
+        "file_name": "com.baidu.homework_3.apk",
+        "app_activity": "com.baidu.homework.activity.init.InitActivity"
+    },
+    {
+        "app_name": "学而思启蒙",
+        "package_name": "com.tal.imonkey.chinese",
+        "file_name": "com.tal.imonkey.chinese_4.apk",
+        "app_activity": "com.tal.imonkey.business.launch.activity.LauncherActivity"
+    },
+    {
+        "app_name": "安全教育平台",
+        "package_name": "com.jzzs.ParentsHelper",
+        "file_name": "com.jzzs.ParentsHelper_5.apk",
+        "app_activity": "com.jzzs.ParentsHelper.WelcomeActivity"
+    },
+    {
+        "app_name": "答题有妙招",
+        "package_name": "com.growtelemen.abund",
+        "file_name": "com.growtelemen.abund_6.apk",
+        "app_activity": "com.air.stepward.module.lauch.AliasMainActivity"
+    },
+    {
+        "app_name": "舞蹈教考通",
+        "package_name": "com.innoresearch.cda",
+        "file_name": "com.innoresearch.cda_7.apk",
+        "app_activity": "com.innoresearch.cda.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "学信网",
+        "package_name": "cn.com.chsi.chsiapp",
+        "file_name": "cn.com.chsi.chsiapp_8.apk",
+        "app_activity": "cn.com.chsi.chsiapp.GuideActivity"
+    },
+    {
+        "app_name": "7239玩乐园",
+        "package_name": "com.wanheyu.shaoyu",
+        "file_name": "com.wanheyu.shaoyu_9.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "福禄成语",
+        "package_name": "com.qwgf.flcy",
+        "file_name": "com.qwgf.flcy_10.apk",
+        "app_activity": "com.dati.shenguanji.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "知鸟",
+        "package_name": "com.pingan.xueyuan",
+        "file_name": "com.pingan.xueyuan_11.apk",
+        "app_activity": "com.pingan.course.module.startup.activity.LoadingActivity"
+    },
+    {
+        "app_name": "嗨学课堂",
+        "package_name": "com.haixue.app.android.HaixueAcademy.h4",
+        "file_name": "com.haixue.app.android.HaixueAcademy.h4_12.apk",
+        "app_activity": "com.haixue.academy.main.WelcomeActivity"
+    },
+    {
+        "app_name": "蓝基因",
+        "package_name": "com.lanjiyin.lanjiyin",
+        "file_name": "com.lanjiyin.lanjiyin_13.apk",
+        "app_activity": "com.lanjiyin.lanjiyin.activity.SplashActivity"
+    },
+    {
+        "app_name": "河马爱学",
+        "package_name": "com.aitutor.hippo",
+        "file_name": "com.aitutor.hippo_14.apk",
+        "app_activity": "com.bytedance.edu.tutor.SplashActivity"
+    },
+    {
+        "app_name": "纳米盒",
+        "package_name": "com.jinxin.namibox",
+        "file_name": "com.jinxin.namibox_15.apk",
+        "app_activity": "com.jinxin.namibox.ui.SplashActivity"
+    },
+    {
+        "app_name": "钢琴块",
+        "package_name": "com.shengma.piano2",
+        "file_name": "com.shengma.piano2_16.apk",
+        "app_activity": "com.jiehong.education.activity.SplashActivity"
+    },
+    {
+        "app_name": "高途素养",
+        "package_name": "com.gaotu100.ketang",
+        "file_name": "com.gaotu100.ketang_17.apk",
+        "app_activity": "com.gaotu100.superclass.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "练字棒棒",
+        "package_name": "com.hdkj.zbbai",
+        "file_name": "com.hdkj.zbbai_18.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "中国大学MOOC",
+        "package_name": "com.netease.edu.ucmooc",
+        "file_name": "com.netease.edu.ucmooc_19.apk",
+        "app_activity": "com.netease.edu.ucmooc.activity.ActivityWelcome"
+    },
+    {
+        "app_name": "班级小管家",
+        "package_name": "com.banjixiaoguanjia.app",
+        "file_name": "com.banjixiaoguanjia.app_21.apk",
+        "app_activity": "com.banjixiaoguanjia.app.MainActivity"
+    },
+    {
+        "app_name": "云岭先锋",
+        "package_name": "com.redrcd.ylxf",
+        "file_name": "com.redrcd.ylxf_22.apk",
+        "app_activity": "com.redrcd.ylxf.SDK_Runtime"
+    },
+    {
+        "app_name": "不背单词",
+        "package_name": "cn.com.langeasy.LangEasyLexis",
+        "file_name": "cn.com.langeasy.LangEasyLexis_23.apk",
+        "app_activity": "cn.com.langeasy.LangEasyLexis.activity.SplashActivity"
+    },
+    {
+        "app_name": "王牌智慧星",
+        "package_name": "com.ghwr.feswpzhx",
+        "file_name": "com.ghwr.feswpzhx_24.apk",
+        "app_activity": "com.xmiles.game.commongamenew.activity.TransferActivity"
+    },
+    {
+        "app_name": "如意答题",
+        "package_name": "com.wishfulquiz.rydt",
+        "file_name": "com.wishfulquiz.rydt_25.apk",
+        "app_activity": "com.luliang.common.activity.TransferActivity"
+    },
+    {
+        "app_name": "易校园",
+        "package_name": "cn.com.yunma.school.app",
+        "file_name": "cn.com.yunma.school.app_26.apk",
+        "app_activity": "com.yunma.app.ui.start.SplashActivity"
+    },
+    {
+        "app_name": "优学派家长管理",
+        "package_name": "com.noahph.pad_mng",
+        "file_name": "com.noahph.pad_mng_27.apk",
+        "app_activity": "com.noahph.pad_mng.MainActivity"
+    },
+    {
+        "app_name": "国家电网题库",
+        "package_name": "cn.wangxiao.gjdwzhuntiku",
+        "file_name": "cn.wangxiao.gjdwzhuntiku_28.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "最强答题王",
+        "package_name": "com.gaoge.answerking",
+        "file_name": "com.gaoge.answerking_29.apk",
+        "app_activity": "com.geyou.game.SplashActivity"
+    },
+    {
+        "app_name": "高途高中规划",
+        "package_name": "com.gaotu100.jingpin",
+        "file_name": "com.gaotu100.jingpin_30.apk",
+        "app_activity": "com.gaotu100.superclass.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "答题吉星",
+        "package_name": "com.articulconcis.enemy",
+        "file_name": "com.articulconcis.enemy_31.apk",
+        "app_activity": "com.air.stepward.module.lauch.AliasMainActivity"
+    },
+    {
+        "app_name": "喜鹊儿",
+        "package_name": "com.kingosoft.activity_kb_common",
+        "file_name": "com.kingosoft.activity_kb_common_32.apk",
+        "app_activity": "com.kingosoft.activity_kb_common.LogoImageActivity"
+    },
+    {
+        "app_name": "纸条",
+        "package_name": "zwzt.fangqiu.edu.com.zwzt",
+        "file_name": "zwzt.fangqiu.edu.com.zwzt_33.apk",
+        "app_activity": "com.zwzt.feature_splash.SplashActivity"
+    },
+    {
+        "app_name": "智学网",
+        "package_name": "com.iflytek.elpmobile.smartlearning",
+        "file_name": "com.iflytek.elpmobile.smartlearning_34.apk",
+        "app_activity": "com.iflytek.elpmobile.smartlearning.ui.SplashActivity"
+    },
+    {
+        "app_name": "智学网学生端",
+        "package_name": "com.iflytek.elpmobile.student",
+        "file_name": "com.iflytek.elpmobile.student_35.apk",
+        "app_activity": "com.iflytek.elpmobile.student.ui.SplashActivity"
+    },
+    {
+        "app_name": "232乐玩",
+        "package_name": "com.lewanx.moyua",
+        "file_name": "com.lewanx.moyua_36.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "WakeUp课程表",
+        "package_name": "com.suda.yzune.wakeupschedule",
+        "file_name": "com.suda.yzune.wakeupschedule_37.apk",
+        "app_activity": "com.suda.yzune.wakeupschedule.SplashActivity"
+    },
+    {
+        "app_name": "掌门1对1辅导",
+        "package_name": "com.zmlearn.course.am",
+        "file_name": "com.zmlearn.course.am_38.apk",
+        "app_activity": "com.zmlearn.course.am.login.WelcomeActivity"
+    },
+    {
+        "app_name": "豌豆素质",
+        "package_name": "com.klzz.vipthink.pad",
+        "file_name": "com.klzz.vipthink.pad_39.apk",
+        "app_activity": "com.klzz.think.mainpage.splash.SplashActivity"
+    },
+    {
+        "app_name": "有谱么",
+        "package_name": "me.yoopu.app.songbook",
+        "file_name": "me.yoopu.app.songbook_40.apk",
+        "app_activity": "me.yoopu.app.songbook.activities.LoginActivity"
+    },
+    {
+        "app_name": "得到",
+        "package_name": "com.luojilab.player",
+        "file_name": "com.luojilab.player_41.apk",
+        "app_activity": "com.luojilab.business.welcome.SplashActivity"
+    },
+    {
+        "app_name": "升学e网通",
+        "package_name": "com.mistong.ewt360",
+        "file_name": "com.mistong.ewt360_42.apk",
+        "app_activity": "com.mistong.ewt360.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "句读",
+        "package_name": "tech.caicheng.judourili",
+        "file_name": "tech.caicheng.judourili_43.apk",
+        "app_activity": "tech.caicheng.judourili.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "成语派对",
+        "package_name": "com.xiangyao.cypd",
+        "file_name": "com.xiangyao.cypd_44.apk",
+        "app_activity": "com.dati.shenguanji.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "好课在线",
+        "package_name": "net.haozaixian",
+        "file_name": "net.haozaixian_45.apk",
+        "app_activity": "com.baidu.homework.activity.init.InitActivity"
+    },
+    {
+        "app_name": "作业帮编程",
+        "package_name": "com.zuoyebang.xiaolusuyang",
+        "file_name": "com.zuoyebang.xiaolusuyang_46.apk",
+        "app_activity": "com.baidu.homework.activity.init.InitActivity"
+    },
+    {
+        "app_name": "新华字典",
+        "package_name": "cn.dictcn.android.digitize.swg_xhzd_21003",
+        "file_name": "cn.dictcn.android.digitize.swg_xhzd_21003_47.apk",
+        "app_activity": "cn.dictcn.android.digitize.module.init.ui.InitActivity"
+    },
+    {
+        "app_name": "巴巴星球",
+        "package_name": "com.newbabab.star",
+        "file_name": "com.newbabab.star_48.apk",
+        "app_activity": "vip.qufenqian.app_skin.activity.MainActivity"
+    },
+    {
+        "app_name": "学科网",
+        "package_name": "com.xkw.client",
+        "file_name": "com.xkw.client_49.apk",
+        "app_activity": "com.zxxk.page.main.LauncherActivity"
+    },
+    {
+        "app_name": "刷刷乐开花",
+        "package_name": "com.weilasi.sslkh",
+        "file_name": "com.weilasi.sslkh_50.apk",
+        "app_activity": "com.jingling.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "掌通家园",
+        "package_name": "com.seebaby",
+        "file_name": "com.seebaby_51.apk",
+        "app_activity": "com.seebaby.login.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "小叶子钢琴",
+        "package_name": "com.theone.aipeilian",
+        "file_name": "com.theone.aipeilian_52.apk",
+        "app_activity": "com.theone.aipeilian.ui.MainActivity"
+    },
+    {
+        "app_name": "魔幻古筝",
+        "package_name": "com.meetstudio.app.Zither",
+        "file_name": "com.meetstudio.app.Zither_53.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "有道精品课",
+        "package_name": "com.youdao.course",
+        "file_name": "com.youdao.course_54.apk",
+        "app_activity": "com.youdao.course.activity.StartJumperActivity"
+    },
+    {
+        "app_name": "成语极速版",
+        "package_name": "com.chituo.cyjsb",
+        "file_name": "com.chituo.cyjsb_55.apk",
+        "app_activity": "com.dati.shenguanji.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "人教点读",
+        "package_name": "com.pep.diandu",
+        "file_name": "com.pep.diandu_56.apk",
+        "app_activity": "com.pep.diandu.main.SplashActivity"
+    },
+    {
+        "app_name": "西窗烛",
+        "package_name": "com.hustzp.com.xichuangzhu",
+        "file_name": "com.hustzp.com.xichuangzhu_57.apk",
+        "app_activity": "com.hustzp.com.xichuangzhu.SplashActivity"
+    },
+    {
+        "app_name": "新概念AI版",
+        "package_name": "com.qqxue.newconcept",
+        "file_name": "com.qqxue.newconcept_58.apk",
+        "app_activity": "com.qqxue.newconcept.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "沪学习",
+        "package_name": "com.dyedu.hxedu",
+        "file_name": "com.dyedu.hxedu_59.apk",
+        "app_activity": "com.jinxin.namibox.ui.SplashActivity"
+    },
+    {
+        "app_name": "全知识",
+        "package_name": "com.allhistory.dls.marble",
+        "file_name": "com.allhistory.dls.marble_60.apk",
+        "app_activity": "com.pwrd.dls.marble.other.activity.SplashActivity"
+    },
+    {
+        "app_name": "小猿口算",
+        "package_name": "com.fenbi.android.leo",
+        "file_name": "com.fenbi.android.leo_61.apk",
+        "app_activity": "com.fenbi.android.leo.activity.RouterActivity"
+    },
+    {
+        "app_name": "万能打印机",
+        "package_name": "com.limir.printer",
+        "file_name": "com.limir.printer_62.apk",
+        "app_activity": "com.limir.print.SplashActivity"
+    },
+    {
+        "app_name": "E听说中学",
+        "package_name": "com.ets100.secondary",
+        "file_name": "com.ets100.secondary_63.apk",
+        "app_activity": "com.ets100.secondary.ui.main.SplashScreenActivity"
+    },
+    {
+        "app_name": "学而思网校",
+        "package_name": "com.xueersi.parentsmeeting",
+        "file_name": "com.xueersi.parentsmeeting_64.apk",
+        "app_activity": "com.xueersi.parentsmeeting.module.home.LaunchActivity"
+    },
+    {
+        "app_name": "喜气答答",
+        "package_name": "com.concedchop.brace",
+        "file_name": "com.concedchop.brace_65.apk",
+        "app_activity": "com.air.stepward.module.lauch.AliasMainActivity"
+    },
+    {
+        "app_name": "樱花动漫",
+        "package_name": "com.shumanshek.diofk",
+        "file_name": "com.shumanshek.diofk_66.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "研途考研",
+        "package_name": "com.yantu.ytvip",
+        "file_name": "com.yantu.ytvip_67.apk",
+        "app_activity": "com.yantu.ytvip.ui.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "妙看四季",
+        "package_name": "com.dbibrq.byqmksj",
+        "file_name": "com.dbibrq.byqmksj_68.apk",
+        "app_activity": "com.relax.game.commongamenew.activity.TransferActivity"
+    },
+    {
+        "app_name": "小熊美术",
+        "package_name": "com.meishubao.artaiclass",
+        "file_name": "com.meishubao.artaiclass_69.apk",
+        "app_activity": "com.meishubao.artaiclass.SplashActivity"
+    },
+    {
+        "app_name": "洪恩智能编程",
+        "package_name": "com.ihuman.aikaka",
+        "file_name": "com.ihuman.aikaka_70.apk",
+        "app_activity": "com.ihuman.aikaka.SplashActivity"
+    },
+    {
+        "app_name": "完美校园",
+        "package_name": "com.newcapec.mobile.ncp",
+        "file_name": "com.newcapec.mobile.ncp_71.apk",
+        "app_activity": "com.wanxiao.basebusiness.activity.SplashActivity"
+    },
+    {
+        "app_name": "练字大师",
+        "package_name": "com.hangzhouwanjia.lianzidashi",
+        "file_name": "com.hangzhouwanjia.lianzidashi_72.apk",
+        "app_activity": "com.hangzhouwanjia.lianzidashi.MainActivity"
+    },
+    {
+        "app_name": "古诗文网",
+        "package_name": "org.gushiwen.gushiwen",
+        "file_name": "org.gushiwen.gushiwen_73.apk",
+        "app_activity": "org.gushiwen.gushiwen.HomeActivity"
+    },
+    {
+        "app_name": "医考帮",
+        "package_name": "com.yikaobang.yixue",
+        "file_name": "com.yikaobang.yixue_74.apk",
+        "app_activity": "com.psychiatrygarden.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "火花思维",
+        "package_name": "cn.huohua.eduparent",
+        "file_name": "cn.huohua.eduparent_75.apk",
+        "app_activity": "cn.huohua.eduparent.activity.Launcher"
+    },
+    {
+        "app_name": "学浪",
+        "package_name": "com.bytedance.ep.android",
+        "file_name": "com.bytedance.ep.android_76.apk",
+        "app_activity": "com.bytedance.ep.host.SplashActivity"
+    },
+    {
+        "app_name": "魔方还原",
+        "package_name": "com.lippa.mofang",
+        "file_name": "com.lippa.mofang_77.apk",
+        "app_activity": "com.juguo.module_host.activity.SplashActivity"
+    },
+    {
+        "app_name": "答题我特牛",
+        "package_name": "com.broachcompe.abject",
+        "file_name": "com.broachcompe.abject_78.apk",
+        "app_activity": "com.air.stepward.module.lauch.AliasMainActivity"
+    },
+    {
+        "app_name": "有米成语",
+        "package_name": "com.qlyq.ymcy",
+        "file_name": "com.qlyq.ymcy_79.apk",
+        "app_activity": "com.dati.shenguanji.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "一起学围棋",
+        "package_name": "com.jucai.happygo",
+        "file_name": "com.jucai.happygo_80.apk",
+        "app_activity": "com.jucai.happygo.MainActivity"
+    },
+    {
+        "app_name": "有道纵横棋院",
+        "package_name": "com.youdao.square",
+        "file_name": "com.youdao.square_81.apk",
+        "app_activity": "com.youdao.square.activity.SplashActivity"
+    },
+    {
+        "app_name": "有道领世",
+        "package_name": "com.youdao.lingshi.aicard",
+        "file_name": "com.youdao.lingshi.aicard_82.apk",
+        "app_activity": "com.youdao.splash.activity.StartJumperActivity"
+    },
+    {
+        "app_name": "VIPKid Global",
+        "package_name": "com.vipkid.ark.international.parent",
+        "file_name": "com.vipkid.ark.international.parent_83.apk",
+        "app_activity": "com.dami.international.study.loading.LoadingActivity"
+    },
+    {
+        "app_name": "OKmath全科启蒙",
+        "package_name": "com.cxy61.openkidsmath",
+        "file_name": "com.cxy61.openkidsmath_84.apk",
+        "app_activity": "com.cxy61.openkidsmath.MainActivity"
+    },
+    {
+        "app_name": "五子棋单机版",
+        "package_name": "com.gobangussd.gobangwcc",
+        "file_name": "com.gobangussd.gobangwcc_85.apk",
+        "app_activity": "com.taihuihuang.appdemo.activity.SplashActivity"
+    },
+    {
+        "app_name": "有道智慧学习",
+        "package_name": "com.youdao.wisdom",
+        "file_name": "com.youdao.wisdom_86.apk",
+        "app_activity": "com.youdao.wisdom.SplashActivity"
+    },
+    {
+        "app_name": "快搜搜题",
+        "package_name": "com.questions.liteai",
+        "file_name": "com.questions.liteai_87.apk",
+        "app_activity": "com.questions.liteai.activities.SplashActivity"
+    },
+    {
+        "app_name": "手机知网",
+        "package_name": "com.cnki.client",
+        "file_name": "com.cnki.client_88.apk",
+        "app_activity": "com.cnki.client.core.tramp.SplashActivity"
+    },
+    {
+        "app_name": "新东方",
+        "package_name": "cn.xdf.woxue.student",
+        "file_name": "cn.xdf.woxue.student_89.apk",
+        "app_activity": "cn.xdf.woxue.student.activity.SplashActivity"
+    },
+    {
+        "app_name": "作业帮直播课",
+        "package_name": "com.zuoyebang.airclass",
+        "file_name": "com.zuoyebang.airclass_90.apk",
+        "app_activity": "com.baidu.homework.activity.init.InitActivity"
+    },
+    {
+        "app_name": "天学网学生",
+        "package_name": "com.up366.mobile",
+        "file_name": "com.up366.mobile_92.apk",
+        "app_activity": "com.up366.mobile.SplashActivity"
+    },
+    {
+        "app_name": "好医生",
+        "package_name": "com.haoyisheng.mobile.app",
+        "file_name": "com.haoyisheng.mobile.app_93.apk",
+        "app_activity": "com.haoyisheng.mobile.app.views.activity.AppInitActivity"
+    },
+    {
+        "app_name": "环球网校",
+        "package_name": "com.edu24ol.newclass",
+        "file_name": "com.edu24ol.newclass_94.apk",
+        "app_activity": "com.edu24ol.newclass.ui.splash.StartActivity"
+    },
+    {
+        "app_name": "锦书在线",
+        "package_name": "com.yqxue.yqxue",
+        "file_name": "com.yqxue.yqxue_95.apk",
+        "app_activity": "com.yqxue.yqxue.splash.SplashActivity"
+    },
+    {
+        "app_name": "PuzzleSchool",
+        "package_name": "com.GiTeam.PuzzleSchool",
+        "file_name": "com.GiTeam.PuzzleSchool_96.apk",
+        "app_activity": "com.GiTeam.App.PrivacyActivity"
+    },
+    {
+        "app_name": "掌上悦看",
+        "package_name": "com.jz.xydj.zhangshangyk",
+        "file_name": "com.jz.xydj.zhangshangyk_97.apk",
+        "app_activity": "com.alipay.sdk.m.i0.nblscg7"
+    },
+    {
+        "app_name": "知到",
+        "package_name": "com.able.wisdomtree",
+        "file_name": "com.able.wisdomtree_98.apk",
+        "app_activity": "com.able.wisdomtree.jpush.OutLineActivity"
+    },
+    {
+        "app_name": "HUAWEI EduCenter",
+        "package_name": "com.huawei.educenter",
+        "file_name": "com.huawei.educenter_99.apk",
+        "app_activity": "com.huawei.educenter.MainActivity"
+    },
+    {
+        "app_name": "题拍拍",
+        "package_name": "com.tal.tiku",
+        "file_name": "com.tal.tiku_100.apk",
+        "app_activity": "com.tal.tiku.splash.SplashActivity"
+    },
+    {
+        "app_name": "彩虹妙看",
+        "package_name": "com.rfn.cmoechmk",
+        "file_name": "com.rfn.cmoechmk_101.apk",
+        "app_activity": "com.relax.game.commongamenew.activity.TransferActivity"
+    },
+    {
+        "app_name": "好运答题",
+        "package_name": "com.exacerbexactin.appris",
+        "file_name": "com.exacerbexactin.appris_102.apk",
+        "app_activity": "com.air.stepward.module.lauch.AliasMainActivity"
+    },
+    {
+        "app_name": "希望学",
+        "package_name": "com.xiwang.zaixian",
+        "file_name": "com.xiwang.zaixian_103.apk",
+        "app_activity": "com.xueersi.parentsmeeting.module.home.LaunchActivity"
+    },
+    {
+        "app_name": "天天练",
+        "package_name": "com.leleketang.SchoolFantasy",
+        "file_name": "com.leleketang.SchoolFantasy_104.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "答题来喜",
+        "package_name": "com.chidecurt.emanci",
+        "file_name": "com.chidecurt.emanci_105.apk",
+        "app_activity": "com.air.stepward.module.lauch.AliasMainActivity"
+    },
+    {
+        "app_name": "智慧比拼",
+        "package_name": "mind.wisdomduel.wit",
+        "file_name": "mind.wisdomduel.wit_106.apk",
+        "app_activity": "cn.gm.u3d.ui.main.MainActivity"
+    },
+    {
+        "app_name": "才子闯成语",
+        "package_name": "com.xinglv.czccy",
+        "file_name": "com.xinglv.czccy_107.apk",
+        "app_activity": "com.dati.shenguanji.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "金喜成语",
+        "package_name": "com.wanze.jxcy",
+        "file_name": "com.wanze.jxcy_108.apk",
+        "app_activity": "com.dati.shenguanji.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "霁月乐看",
+        "package_name": "com.wanze.qylk",
+        "file_name": "com.wanze.qylk_109.apk",
+        "app_activity": "com.jingling.splash.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "扇贝阅读",
+        "package_name": "com.shanbay.news",
+        "file_name": "com.shanbay.news_110.apk",
+        "app_activity": "com.shanbay.biz.skeleton.splash.SplashActivity"
+    },
+    {
+        "app_name": "大家来找茬",
+        "package_name": "com.funny.spot",
+        "file_name": "com.funny.spot_111.apk",
+        "app_activity": "com.gdt.SplashActivity"
+    },
+    {
+        "app_name": "学而思",
+        "package_name": "com.xes.jazhanghui.activity",
+        "file_name": "com.xes.jazhanghui.activity_112.apk",
+        "app_activity": "com.tal.xes.xeslogin.view.activity.StartActivity"
+    },
+    {
+        "app_name": "999乐园",
+        "package_name": "com.jinhong.wuyuji",
+        "file_name": "com.jinhong.wuyuji_113.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "百度文库",
+        "package_name": "com.baidu.wenku",
+        "file_name": "com.baidu.wenku_114.apk",
+        "app_activity": "com.baidu.wenku.splash.view.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "欧拉数理化",
+        "package_name": "com.ola100.app",
+        "file_name": "com.ola100.app_115.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "JOJOUP",
+        "package_name": "com.read.box.book",
+        "file_name": "com.read.box.book_116.apk",
+        "app_activity": "com.read.box.book.app.LaunchActivity"
+    },
+    {
+        "app_name": "到梦空间",
+        "package_name": "com.jingcai.apps.qualitydev",
+        "file_name": "com.jingcai.apps.qualitydev_117.apk",
+        "app_activity": "com.jingcai.apps.qualitydev.qualitync.SplashActivity"
+    },
+    {
+        "app_name": "蜗居趣看",
+        "package_name": "com.drama.wojuqkan",
+        "file_name": "com.drama.wojuqkan_118.apk",
+        "app_activity": "com.alipay.sdk.m.f0.mkparc6"
+    },
+    {
+        "app_name": "普通话水平测试自考王",
+        "package_name": "com.tianxiang.skputonghua",
+        "file_name": "com.tianxiang.skputonghua_119.apk",
+        "app_activity": "com.tianxiang.skputonghua.ui.main.GuideActivity"
+    },
+    {
+        "app_name": "财宝成语",
+        "package_name": "com.weilasi.cbcy",
+        "file_name": "com.weilasi.cbcy_120.apk",
+        "app_activity": "com.dati.shenguanji.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "作业帮领航",
+        "package_name": "com.zybang.zyblinghang",
+        "file_name": "com.zybang.zyblinghang_121.apk",
+        "app_activity": "com.baidu.homework.activity.init.InitActivity"
+    },
+    {
+        "app_name": "AI音乐学园",
+        "package_name": "com.immusician.music",
+        "file_name": "com.immusician.music_122.apk",
+        "app_activity": "com.immusician.unity.SplashActivity"
+    },
+    {
+        "app_name": "保密观",
+        "package_name": "com.founder.jincheng",
+        "file_name": "com.founder.jincheng_123.apk",
+        "app_activity": "com.founder.baomiguan.MainActivity"
+    },
+    {
+        "app_name": "MBA大师",
+        "package_name": "com.mba.logic",
+        "file_name": "com.mba.logic_124.apk",
+        "app_activity": "com.mba.logic.module.common.ui.SplashActivity"
+    },
+    {
+        "app_name": "成语喜来福",
+        "package_name": "com.newanswer.idiomhappiness",
+        "file_name": "com.newanswer.idiomhappiness_125.apk",
+        "app_activity": "com.alipay.sdk.interior.hsqhbfi1"
+    },
+    {
+        "app_name": "秀才点金手",
+        "package_name": "com.goldentouch.xcdjs",
+        "file_name": "com.goldentouch.xcdjs_126.apk",
+        "app_activity": "com.luliang.common.activity.TransferActivity"
+    },
+    {
+        "app_name": "新东方在线",
+        "package_name": "com.koolearn.android",
+        "file_name": "com.koolearn.android_127.apk",
+        "app_activity": "com.koolearn.android.WelComeActivity"
+    },
+    {
+        "app_name": "大学搜题酱",
+        "package_name": "com.zmzx.college.search",
+        "file_name": "com.zmzx.college.search_128.apk",
+        "app_activity": "com.zmzx.college.search.activity.init.InitActivity"
+    },
+    {
+        "app_name": "点点智多星",
+        "package_name": "com.wisdomstar.ddzdx",
+        "file_name": "com.wisdomstar.ddzdx_129.apk",
+        "app_activity": "com.luliang.common.activity.TransferActivity"
+    },
+    {
+        "app_name": "梦想脑力王",
+        "package_name": "com.dreambrain.king.mxnlw",
+        "file_name": "com.dreambrain.king.mxnlw_130.apk",
+        "app_activity": "com.xmiles.game.commongamenew.activity.TransferActivity"
+    },
+    {
+        "app_name": "爱优刷刷看",
+        "package_name": "com.maxvideo.loveyoubrushing",
+        "file_name": "com.maxvideo.loveyoubrushing_131.apk",
+        "app_activity": "cn.app.video.main.MainActivity"
+    },
+    {
+        "app_name": "作业帮家长版",
+        "package_name": "com.zuoyebang.knowledge",
+        "file_name": "com.zuoyebang.knowledge_132.apk",
+        "app_activity": "com.baidu.homework.activity.init.InitActivity"
+    },
+    {
+        "app_name": "绚星云学习",
+        "package_name": "com.yxt.phoenix",
+        "file_name": "com.yxt.phoenix_133.apk",
+        "app_activity": "com.yxt.phoenix.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "成语学堂",
+        "package_name": "com.xingchen.cyxt",
+        "file_name": "com.xingchen.cyxt_134.apk",
+        "app_activity": "com.dati.shenguanji.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "天气达人",
+        "package_name": "com.weipai.tqdr",
+        "file_name": "com.weipai.tqdr_135.apk",
+        "app_activity": "com.nice.weather.launch.LaunchActivity"
+    },
+    {
+        "app_name": "简小知",
+        "package_name": "com.jz.jxz",
+        "file_name": "com.jz.jxz_136.apk",
+        "app_activity": "com.jz.jxz.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "链工宝",
+        "package_name": "com.hxak.liangongbao",
+        "file_name": "com.hxak.liangongbao_137.apk",
+        "app_activity": "com.hxak.liangongbao.login.ui.IntroductionActivity"
+    },
+    {
+        "app_name": "之了课堂",
+        "package_name": "com.zlketang.mm",
+        "file_name": "com.zlketang.mm_138.apk",
+        "app_activity": "com.zlketang.shenji.ui.SplashActivity"
+    },
+    {
+        "app_name": "半月谈",
+        "package_name": "com.bytxmt.banyuetan",
+        "file_name": "com.bytxmt.banyuetan_139.apk",
+        "app_activity": "com.bytxmt.banyuetan.activity.LauncherActivity"
+    },
+    {
+        "app_name": "高途",
+        "package_name": "com.gaotu100.superclass",
+        "file_name": "com.gaotu100.superclass_140.apk",
+        "app_activity": "com.gaotu100.superclass.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "古筝软件",
+        "package_name": "com.fengyueyu.zither",
+        "file_name": "com.fengyueyu.zither_141.apk",
+        "app_activity": "com.taihuihuang.appdemo.activity.SplashActivity"
+    },
+    {
+        "app_name": "阿虎医考",
+        "package_name": "com.ahuxueshu",
+        "file_name": "com.ahuxueshu_142.apk",
+        "app_activity": "com.ahuxueshu.main.SplashActivity"
+    },
+    {
+        "app_name": "网易公开课",
+        "package_name": "com.netease.vopen",
+        "file_name": "com.netease.vopen_143.apk",
+        "app_activity": "com.netease.vopen.feature.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "晴云指南",
+        "package_name": "com.qyzn.guide",
+        "file_name": "com.qyzn.guide_144.apk",
+        "app_activity": "com.nice.weather.launch.LaunchActivity"
+    },
+    {
+        "app_name": "小猿优课",
+        "package_name": "com.yuantiku.husky",
+        "file_name": "com.yuantiku.husky_145.apk",
+        "app_activity": "com.yuanfudao.tutor.activity.ProjectMainActivity"
+    },
+    {
+        "app_name": "猿辅导",
+        "package_name": "com.yuantiku.tutor",
+        "file_name": "com.yuantiku.tutor_146.apk",
+        "app_activity": "com.yuanfudao.tutor.activity.ProjectMainActivity"
+    },
+    {
+        "app_name": "倍速点学",
+        "package_name": "com.youjing.beisudianxue",
+        "file_name": "com.youjing.beisudianxue_147.apk",
+        "app_activity": "com.youjing.yingyudiandu.StartActivity"
+    },
+    {
+        "app_name": "学习强国",
+        "package_name": "cn.xuexi.android",
+        "file_name": "cn.xuexi.android_148.apk",
+        "app_activity": "com.alibaba.android.rimet.biz.SplashActivity"
+    },
+    {
+        "app_name": "今日校园",
+        "package_name": "com.wisedu.cpdaily",
+        "file_name": "com.wisedu.cpdaily_149.apk",
+        "app_activity": "com.wisorg.wisedu.login.WelcomeActivity"
+    },
+    {
+        "app_name": "超级课程表",
+        "package_name": "com.xtuone.android.syllabus",
+        "file_name": "com.xtuone.android.syllabus_150.apk",
+        "app_activity": "com.xtuone.android.friday.InitActivity"
+    },
+    {
+        "app_name": "读书郎家长助手",
+        "package_name": "com.readboy.rbmanager",
+        "file_name": "com.readboy.rbmanager_151.apk",
+        "app_activity": "com.readboy.rbmanager.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "一起作业",
+        "package_name": "com.A17zuoye.mobile.homework",
+        "file_name": "com.A17zuoye.mobile.homework_152.apk",
+        "app_activity": "com.A17zuoye.mobile.homework.main.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "隐藏计算器",
+        "package_name": "cn.musimiao.calculator",
+        "file_name": "cn.musimiao.calculator_153.apk",
+        "app_activity": "com.allen.calculator2.ui.SplashActivity"
+    },
+    {
+        "app_name": "背duo分单词",
+        "package_name": "com.gotu.dict",
+        "file_name": "com.gotu.dict_154.apk",
+        "app_activity": "com.gotu.dict.feature.cover.CoverActivity"
+    },
+    {
+        "app_name": "猿辅导素养课",
+        "package_name": "com.yuantiku.collie",
+        "file_name": "com.yuantiku.collie_155.apk",
+        "app_activity": "com.yuanfudao.tutor.activity.ProjectMainActivity"
+    },
+    {
+        "app_name": "智慧教育",
+        "package_name": "com.dianjiao.eduyun",
+        "file_name": "com.dianjiao.eduyun_156.apk",
+        "app_activity": "com.nd.smartcan.appfactory.demo.SplashActivity"
+    },
+    {
+        "app_name": "答题天才",
+        "package_name": "com.vvcv.dttc",
+        "file_name": "com.vvcv.dttc_157.apk",
+        "app_activity": "com.guzhen.main.LaunchActivity"
+    },
+    {
+        "app_name": "小灯塔",
+        "package_name": "com.i61.dengta",
+        "file_name": "com.i61.dengta_158.apk",
+        "app_activity": "com.i61.dengta.ui.SplashActivity"
+    },
+    {
+        "app_name": "百词斩",
+        "package_name": "com.jiongji.andriod.card",
+        "file_name": "com.jiongji.andriod.card_159.apk",
+        "app_activity": "com.baicizhan.main.activity.LoadingPageActivity"
+    },
+    {
+        "app_name": "斯尔教育",
+        "package_name": "com.yizhilu.caidiantong",
+        "file_name": "com.yizhilu.caidiantong_160.apk",
+        "app_activity": "com.yizhilu.caidiantong.activity.SplashActivity"
+    },
+    {
+        "app_name": "学小易",
+        "package_name": "com.xuexiaoyi.xxy",
+        "file_name": "com.xuexiaoyi.xxy_161.apk",
+        "app_activity": "com.xuexiaoyi.entrance.splash.SplashActivity"
+    },
+    {
+        "app_name": "答题乐翻天",
+        "package_name": "com.funcalore.dtlft",
+        "file_name": "com.funcalore.dtlft_162.apk",
+        "app_activity": "com.luliang.common.activity.TransferActivity"
+    },
+    {
+        "app_name": "学宝",
+        "package_name": "com.haojiazhang.activity",
+        "file_name": "com.haojiazhang.activity_163.apk",
+        "app_activity": "com.haojiazhang.activity.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "ABC英语角",
+        "package_name": "com.xueersi.abczone",
+        "file_name": "com.xueersi.abczone_164.apk",
+        "app_activity": "com.xueersi.parentsmeeting.modules.launch.login.LaunchActivity"
+    },
+    {
+        "app_name": "智慧中小学",
+        "package_name": "com.eduyun.app.factory.ykt",
+        "file_name": "com.eduyun.app.factory.ykt_165.apk",
+        "app_activity": "com.nd.smartcan.appfactory.demo.SplashActivity"
+    },
+    {
+        "app_name": "步步向前",
+        "package_name": "com.cbwy.bbxq",
+        "file_name": "com.cbwy.bbxq_166.apk",
+        "app_activity": "com.guzhen.main.LaunchActivity"
+    },
+    {
+        "app_name": "安全学院",
+        "package_name": "com.jyzx.aqsc",
+        "file_name": "com.jyzx.aqsc_167.apk",
+        "app_activity": "com.example.module.main.LaunchingActivity"
+    },
+    {
+        "app_name": "Excel电子表格手机版",
+        "package_name": "com.yipeinet.excelzl",
+        "file_name": "com.yipeinet.excelzl_168.apk",
+        "app_activity": "com.yipeinet.excelzl.app.activity.main.LaunchActivity"
+    },
+    {
+        "app_name": "古文岛",
+        "package_name": "com.guwendao.gwd",
+        "file_name": "com.guwendao.gwd_169.apk",
+        "app_activity": "com.guwendao.gwd.MainActivity"
+    },
+    {
+        "app_name": "猿编程",
+        "package_name": "com.ada.tethys.student",
+        "file_name": "com.ada.tethys.student_170.apk",
+        "app_activity": "com.ada.tethys.student.PhoneWelcomeActivity"
+    },
+    {
+        "app_name": "拼音打字练习",
+        "package_name": "com.zhangpei.pinyindazi",
+        "file_name": "com.zhangpei.pinyindazi_171.apk",
+        "app_activity": "com.zhangpei.pinyindazi.SplashActivity"
+    },
+    {
+        "app_name": "智能口语大师",
+        "package_name": "cn.shuwenkeji.kouyudashi",
+        "file_name": "cn.shuwenkeji.kouyudashi_172.apk",
+        "app_activity": "com.coldshua.chongya.chongya_client_flutter.MainActivity"
+    },
+    {
+        "app_name": "TalkAI练口语",
+        "package_name": "com.app.chatspeak2023",
+        "file_name": "com.app.chatspeak2023_173.apk",
+        "app_activity": "com.app.chatspeak2023.MainActivity"
+    },
+    {
+        "app_name": "以观书法",
+        "package_name": "com.ltzk.mbsf",
+        "file_name": "com.ltzk.mbsf_174.apk",
+        "app_activity": "com.ltzk.mbsf.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "希沃白板",
+        "package_name": "com.seewo.en",
+        "file_name": "com.seewo.en_175.apk",
+        "app_activity": "com.seewo.en.activity.VersionFeatureActivity"
+    },
+    {
+        "app_name": "点语成才",
+        "package_name": "com.yucai.podycc",
+        "file_name": "com.yucai.podycc_176.apk",
+        "app_activity": "com.xmiles.game.commongamenew.activity.TransferActivity"
+    },
+    {
+        "app_name": "掌上华医",
+        "package_name": "com.huayi.cme",
+        "file_name": "com.huayi.cme_177.apk",
+        "app_activity": "com.huayi.cme.ui.SplashActivity"
+    },
+    {
+        "app_name": "青于蓝",
+        "package_name": "com.jysd.qingyulan",
+        "file_name": "com.jysd.qingyulan_178.apk",
+        "app_activity": "com.jysd.qingyulan.MainActivity"
+    },
+    {
+        "app_name": "科普中国",
+        "package_name": "com.sevenplus.chinascience",
+        "file_name": "com.sevenplus.chinascience_179.apk",
+        "app_activity": "com.sevenplus.chinascience.activity.SplashActivity"
+    },
+    {
+        "app_name": "成语小福星",
+        "package_name": "com.idiomstar.cyxfx",
+        "file_name": "com.idiomstar.cyxfx_180.apk",
+        "app_activity": "com.luliang.common.activity.TransferActivity"
+    },
+    {
+        "app_name": "洋葱学园",
+        "package_name": "com.yangcong345.android.phone",
+        "file_name": "com.yangcong345.android.phone_181.apk",
+        "app_activity": "com.yangcong345.main.phone.splash.SplashActivity"
+    },
+    {
+        "app_name": "国资e学",
+        "package_name": "com.hualu.sasacedu",
+        "file_name": "com.hualu.sasacedu_182.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "海豚AI学",
+        "package_name": "com.fenbi.android.aries",
+        "file_name": "com.fenbi.android.aries_183.apk",
+        "app_activity": "com.fenbi.android.aries.activity.RouterActivity"
+    },
+    {
+        "app_name": "斑马百科",
+        "package_name": "com.fenbi.android.pedia",
+        "file_name": "com.fenbi.android.pedia_184.apk",
+        "app_activity": "com.fenbi.android.zebraenglish.activity.portal.WelcomeActivity"
+    },
+    {
+        "app_name": "小猿搜题",
+        "package_name": "com.fenbi.android.solar",
+        "file_name": "com.fenbi.android.solar_185.apk",
+        "app_activity": "com.fenbi.android.solar.activity.RouterActivity"
+    },
+    {
+        "app_name": "火星搜题",
+        "package_name": "com.fenbi.android.souti",
+        "file_name": "com.fenbi.android.souti_186.apk",
+        "app_activity": "com.fenbi.android.souti.WelcomeActivity"
+    },
+    {
+        "app_name": "中国象棋",
+        "package_name": "com.xikunlun.chinesechess",
+        "file_name": "com.xikunlun.chinesechess_187.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "易班",
+        "package_name": "com.yiban.app",
+        "file_name": "com.yiban.app_188.apk",
+        "app_activity": "com.yiban.app.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "简单一百",
+        "package_name": "com.jiandan.jd100",
+        "file_name": "com.jiandan.jd100_189.apk",
+        "app_activity": "com.mobilelesson.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "作业帮口算",
+        "package_name": "com.zybang.parent",
+        "file_name": "com.zybang.parent_190.apk",
+        "app_activity": "com.zybang.parent.activity.init.InitActivity"
+    },
+    {
+        "app_name": "兴趣岛",
+        "package_name": "com.qlchat.xingqudao",
+        "file_name": "com.qlchat.xingqudao_191.apk",
+        "app_activity": "com.qlchat.xingqudao.SplashActivity"
+    },
+    {
+        "app_name": "ClassIn",
+        "package_name": "cn.eeo.classin",
+        "file_name": "cn.eeo.classin_192.apk",
+        "app_activity": "cn.eeo.startup.ui.LogoSplashActivity"
+    },
+    {
+        "app_name": "智海趣答",
+        "package_name": "com.fwo.olsgazhqd",
+        "file_name": "com.fwo.olsgazhqd_193.apk",
+        "app_activity": "com.xmiles.game.commongamenew.activity.TransferActivity"
+    },
+    {
+        "app_name": "少年得到",
+        "package_name": "com.dedao.juvenile",
+        "file_name": "com.dedao.juvenile_194.apk",
+        "app_activity": "com.dedao.juvenile.business.splash.SplashActivity"
+    },
+    {
+        "app_name": "福宝答题",
+        "package_name": "com.fortunebaby.fbdt",
+        "file_name": "com.fortunebaby.fbdt_195.apk",
+        "app_activity": "com.luliang.common.activity.TransferActivity"
+    },
+
+    {
+        "app_name": "云端学习",
+        "package_name": "com.tbc.android.defaults",
+        "file_name": "com.tbc.android.defaults_201.apk",
+        "app_activity": "com.tbc.android.defaults.MainActivity"
+    },
+    {
+        "app_name": "酷玩地球",
+        "package_name": "com.yilumi.globe.huawei",
+        "file_name": "com.yilumi.globe.huawei_202.apk",
+        "app_activity": "com.yilumi.globe.huawei.MainActivity",
+        "app_activity": "com.yilumi.globe.huawei.MainActivity"
+    },
+    {
+        "app_name": "知享学堂",
+        "package_name": "com.edusoho.zhixiang",
+        "file_name": "com.edusoho.zhixiang_203.apk",
+        "app_activity": "com.edusoho.zhixiang.KuozhiActivity"
+    },
+    {
+        "app_name": "MOJi辞書",
+        "package_name": "com.mojitec.mojidict",
+        "file_name": "com.mojitec.mojidict_204.apk",
+        "app_activity": "com.mojitec.mojidict.ui.SplashActivity"
+    },
+    {
+        "app_name": "乾之易",
+        "package_name": "com.qdzskj.qzy",
+        "file_name": "com.qdzskj.qzy_205.apk",
+        "app_activity": "com.embarcadero.firemonkey.FMXNativeActivity"
+    },
+    {
+        "app_name": "考途",
+        "package_name": "com.gsx.tiku",
+        "file_name": "com.gsx.tiku_206.apk",
+        "app_activity": "com.gsx.tiku.activity.CoverActivity"
+    },
+    {
+        "app_name": "XuetangX",
+        "package_name": "com.xuetangx.mobile",
+        "file_name": "com.xuetangx.mobile_207.apk",
+        "app_activity": "com.xuetangx.mobile.MainActivity"
+    },
+    {
+        "app_name": "来音吉他",
+        "package_name": "com.xihang.guitar",
+        "file_name": "com.xihang.guitar_208.apk",
+        "app_activity": "com.xihang.guitar.MainActivity"
+    },
+    {
+        "app_name": "讲真",
+        "package_name": "com.dgegbj.jiangzhen",
+        "file_name": "com.dgegbj.jiangzhen_209.apk",
+        "app_activity": "com.dgegbj.jiangzhen.ui.LaunchActivity"
+    },
+    {
+        "app_name": "粤语学习",
+        "package_name": "com.qiyang.yueyu",
+        "file_name": "com.qiyang.yueyu_210.apk",
+        "app_activity": "com.qiyang.yueyu.yueyu_ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "北辰遴选",
+        "package_name": "com.beichenapp",
+        "file_name": "com.beichenapp_211.apk",
+        "app_activity": "com.beichenapp.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "小盒学习",
+        "package_name": "com.knowbox.rc.student.pk",
+        "file_name": "com.knowbox.rc.student.pk_212.apk",
+        "app_activity": "com.knowbox.rc.PrivacyPolicyActivity"
+    },
+    {
+        "app_name": "磨题帮",
+        "package_name": "com.samapp.mtestmcn",
+        "file_name": "com.samapp.mtestmcn_213.apk",
+        "app_activity": "com.samapp.mtestmcn.SplashActivity"
+    },
+    {
+        "app_name": "成语小诸葛",
+        "package_name": "com.linghui.cyxzg",
+        "file_name": "com.linghui.cyxzg_214.apk",
+        "app_activity": "com.dati.shenguanji.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "建造师快题库",
+        "package_name": "com.android.tiku.architect",
+        "file_name": "com.android.tiku.architect_215.apk",
+        "app_activity": "com.hqwx.android.tiku.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "慕课网",
+        "package_name": "cn.com.open.mooc",
+        "file_name": "cn.com.open.mooc_216.apk",
+        "app_activity": "com.imooc.component.imoocmain.splash.MCSplashActivity"
+    },
+    {
+        "app_name": "新时代e支部",
+        "package_name": "com.daren.dbuild_province.wujiu",
+        "file_name": "com.daren.dbuild_province.wujiu_217.apk",
+        "app_activity": "com.daren.app.welcome.AdvertisingActivity"
+    },
+    {
+        "app_name": "融学",
+        "package_name": "com.chinahrt.qx",
+        "file_name": "com.chinahrt.qx_218.apk",
+        "app_activity": "com.chinahrt.rx.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "日语五十音图",
+        "package_name": "com.izaodao.gps",
+        "file_name": "com.izaodao.gps_219.apk",
+        "app_activity": "com.izaodao.gps.activity.SplashActivity"
+    },
+    {
+        "app_name": "公主化妆换装",
+        "package_name": "com.newbee.princess",
+        "file_name": "com.newbee.princess_220.apk",
+        "app_activity": "com.gdt.SplashActivity"
+    },
+    {
+        "app_name": "中华历史",
+        "package_name": "org.raphets.history",
+        "file_name": "org.raphets.history_221.apk",
+        "app_activity": "org.raphets.history.ui.other.SplashActivity"
+    },
+    {
+        "app_name": "羊驼日语",
+        "package_name": "com.ytejapanese.client",
+        "file_name": "com.ytejapanese.client_222.apk",
+        "app_activity": "com.ytejapanese.client.ui.init.InitActivity"
+    },
+    {
+        "app_name": "冲鸭韩语",
+        "package_name": "com.chongya.korean",
+        "file_name": "com.chongya.korean_223.apk",
+        "app_activity": "com.chongya.korean.ui.page.LaunchActivity"
+    },
+    {
+        "app_name": "秀才宝典",
+        "package_name": "com.palmscholar.xcbd",
+        "file_name": "com.palmscholar.xcbd_224.apk",
+        "app_activity": "com.luliang.common.activity.TransferActivity"
+    },
+    {
+        "app_name": "课后网",
+        "package_name": "com.net.zdsoft.netstudy.netstudy_v5_mobile_app",
+        "file_name": "com.net.zdsoft.netstudy.netstudy_v5_mobile_app_225.apk",
+        "app_activity": "net.zdsoft.netstudy.SplashActivity"
+    },
+    {
+        "app_name": "网易云课堂",
+        "package_name": "com.netease.edu.study",
+        "file_name": "com.netease.edu.study_226.apk",
+        "app_activity": "com.netease.edu.study.activity.ActivityWelcome"
+    },
+    {
+        "app_name": "一答多金",
+        "package_name": "com.onemoregold.yddj",
+        "file_name": "com.onemoregold.yddj_227.apk",
+        "app_activity": "com.luliang.common.activity.TransferActivity"
+    },
+    {
+        "app_name": "一趣答题",
+        "package_name": "com.afunquiz.yqdt",
+        "file_name": "com.afunquiz.yqdt_228.apk",
+        "app_activity": "com.luliang.common.activity.TransferActivity"
+    },
+    {
+        "app_name": "学插画兼职赚钱",
+        "package_name": "com.jzd.xchmh",
+        "file_name": "com.jzd.xchmh_229.apk",
+        "app_activity": "com.zwz.nnzwyh.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "Chess Alliance",
+        "package_name": "com.zebra.ichess",
+        "file_name": "com.zebra.ichess_230.apk",
+        "app_activity": "com.zebra.ichess.activity.home.WelcomeActivity"
+    },
+    {
+        "app_name": "打字训练",
+        "package_name": "com.dzt.dzzs",
+        "file_name": "com.dzt.dzzs_231.apk",
+        "app_activity": "com.vtyping.pinyin.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "食安快线通用版",
+        "package_name": "com.SAKX.EducationCN",
+        "file_name": "com.SAKX.EducationCN_232.apk",
+        "app_activity": "com.SAKX.EducationCN.ui.SplashActivity"
+    },
+    {
+        "app_name": "魔方星球（Cubestation）",
+        "package_name": "com.gan.cubestation",
+        "file_name": "com.gan.cubestation_233.apk",
+        "app_activity": "com.goldze.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "幸福农家院",
+        "package_name": "com.weflyai.njy",
+        "file_name": "com.weflyai.njy_234.apk",
+        "app_activity": "org.cocos2dx.javascript.activity.MainActivity"
+    },
+    {
+        "app_name": "来音古筝",
+        "package_name": "com.xihang.guzheng",
+        "file_name": "com.xihang.guzheng_235.apk",
+        "app_activity": "com.xihang.guzheng.MainActivity"
+    },
+    {
+        "app_name": "成语金字塔",
+        "package_name": "com.wanze.cyjzt",
+        "file_name": "com.wanze.cyjzt_236.apk",
+        "app_activity": "com.dati.shenguanji.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "觉晓法考",
+        "package_name": "com.juexiao.fakao",
+        "file_name": "com.juexiao.fakao_237.apk",
+        "app_activity": "com.juexiao.launch.welcom.WelcomActivity"
+    },
+    {
+        "app_name": "学天教育",
+        "package_name": "com.xuetian.jiaoyu",
+        "file_name": "com.xuetian.jiaoyu_238.apk",
+        "app_activity": "com.xuetian.jiaoyu.SplashActivity"
+    },
+    {
+        "app_name": "全历史",
+        "package_name": "com.allhistory.history",
+        "file_name": "com.allhistory.history_239.apk",
+        "app_activity": "com.allhistory.history.other.activity.SplashActivity"
+    },
+    {
+        "app_name": "七天学堂",
+        "package_name": "cc.septnet.student",
+        "file_name": "cc.septnet.student_240.apk",
+        "app_activity": "cc.septnet.student.MainActivity"
+    },
+    {
+        "app_name": "大象英语",
+        "package_name": "com.lansi.reading",
+        "file_name": "com.lansi.reading_241.apk",
+        "app_activity": "com.lansi.reading.IndexActivity"
+    },
+    {
+        "app_name": "普通话学习言鸟",
+        "package_name": "com.huahua.learningpth",
+        "file_name": "com.huahua.learningpth_242.apk",
+        "app_activity": "com.huahua.learningpth_new.NewWelcomeActivity"
+    },
+    {
+        "app_name": "iGuzheng爱弹古筝",
+        "package_name": "com.pkq.sfxqu",
+        "file_name": "com.pkq.sfxqu_243.apk",
+        "app_activity": "com.example.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "易百查",
+        "package_name": "com.ebaicha.app",
+        "file_name": "com.ebaicha.app_244.apk",
+        "app_activity": "com.ebaicha.app.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "休闲乐看",
+        "package_name": "com.finedrama.xiuxianview",
+        "file_name": "com.finedrama.xiuxianview_245.apk",
+        "app_activity": "nwtah3.ggc5.gwqlvp3.dunuwsmesa2.ixgjh6"
+    },
+    {
+        "app_name": "律学法考",
+        "package_name": "com.zlzx.app",
+        "file_name": "com.zlzx.app_246.apk",
+        "app_activity": "com.zlzx.app.ui.main.activity.SplashZlActivity"
+    },
+    {
+        "app_name": "职业健康培训",
+        "package_name": "com.huayi.zyjk",
+        "file_name": "com.huayi.zyjk_247.apk",
+        "app_activity": "com.huayi.zyjk.ui.SplashActivity"
+    },
+    {
+        "app_name": "默默记单词",
+        "package_name": "com.words.shorthand",
+        "file_name": "com.words.shorthand_248.apk",
+        "app_activity": "com.words.shorthand.activity.MySplashActivity"
+    },
+    {
+        "app_name": "家长通",
+        "package_name": "com.jinshu.jzt",
+        "file_name": "com.jinshu.jzt_249.apk",
+        "app_activity": "com.yiqizuoye.jzt.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "出口成章",
+        "package_name": "com.sainti.eduread",
+        "file_name": "com.sainti.eduread_250.apk",
+        "app_activity": "com.sainti.eduread.home.SplashScreenActivity"
+    },
+    {
+        "app_name": "Math",
+        "package_name": "com.microsoft.math",
+        "file_name": "com.microsoft.math_251.apk",
+        "app_activity": "com.microsoft.bing.reactnative.lib.MainActivity"
+    },
+    {
+        "app_name": "新东方乐词背单词",
+        "package_name": "com.xdf.recite",
+        "file_name": "com.xdf.recite_252.apk",
+        "app_activity": "com.xdf.recite.android.ui.activity.load.WelcomeActivity"
+    },
+    {
+        "app_name": "钢琴教练",
+        "package_name": "com.meet.pianolearn",
+        "file_name": "com.meet.pianolearn_253.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "千聊",
+        "package_name": "com.thinkwu.live",
+        "file_name": "com.thinkwu.live_254.apk",
+        "app_activity": "com.thinkwu.live.ui.activity.start.InitActivity"
+    },
+    {
+        "app_name": "U校园",
+        "package_name": "cn.unipus.ucampus.student",
+        "file_name": "cn.unipus.ucampus.student_255.apk",
+        "app_activity": "cn.unipus.ucampus.student.activity.SplashActivity"
+    },
+    {
+        "app_name": "成语赐福",
+        "package_name": "com.juhe.cycf",
+        "file_name": "com.juhe.cycf_256.apk",
+        "app_activity": "com.dati.shenguanji.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "鲸学伴",
+        "package_name": "com.jingxueban.app",
+        "file_name": "com.jingxueban.app_257.apk",
+        "app_activity": "com.jingxueban.app.activitys.LoadingActivity"
+    },
+    {
+        "app_name": "成语乐一乐",
+        "package_name": "com.zousi.cylyl",
+        "file_name": "com.zousi.cylyl_258.apk",
+        "app_activity": "com.dati.shenguanji.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "乐音",
+        "package_name": "com.example.musicstudent",
+        "file_name": "com.example.musicstudent_259.apk",
+        "app_activity": "com.example.musicstudent.SplashActivity"
+    },
+    {
+        "app_name": "古筝模拟器",
+        "package_name": "com.ymkj.xinguzheng",
+        "file_name": "com.ymkj.xinguzheng_260.apk",
+        "app_activity": "com.ymkj.xinguzheng.SplashActivity1"
+    },
+    {
+        "app_name": "鑫考云校园",
+        "package_name": "com.xinkao.jiaxiaohulian",
+        "file_name": "com.xinkao.jiaxiaohulian_261.apk",
+        "app_activity": "com.xinkao.jiaxiaohulian.activity.auth.StartPageActivity"
+    },
+    {
+        "app_name": "随时问",
+        "package_name": "com.tal.anytimeask",
+        "file_name": "com.tal.anytimeask_262.apk",
+        "app_activity": "com.tal.tiku.splash.SplashActivity"
+    },
+    {
+        "app_name": "解题高手",
+        "package_name": "com.puzzlemaster.jtgs",
+        "file_name": "com.puzzlemaster.jtgs_263.apk",
+        "app_activity": "com.luliang.common.activity.TransferActivity"
+    },
+    {
+        "app_name": "不厌书法",
+        "package_name": "com.buyanchuantong.buyanshufa",
+        "file_name": "com.buyanchuantong.buyanshufa_264.apk",
+        "app_activity": "com.buyanchuantong.buyanshufa.SplashActivity"
+    },
+    {
+        "app_name": "我要自学网",
+        "package_name": "com.fzisen.app51zxw",
+        "file_name": "com.fzisen.app51zxw_265.apk",
+        "app_activity": "com.fzisen.app51zxw.android.activity.LanchurActivity"
+    },
+    {
+        "app_name": "豌豆围棋",
+        "package_name": "com.i61.ailesson",
+        "file_name": "com.i61.ailesson_266.apk",
+        "app_activity": "com.i61.ailesson.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "青春快看",
+        "package_name": "com.wns.qckk",
+        "file_name": "com.wns.qckk_267.apk",
+        "app_activity": "com.jingling.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "羿过教育",
+        "package_name": "com.yiguojy.edu",
+        "file_name": "com.yiguojy.edu_268.apk",
+        "app_activity": "com.yiguojy.module.app.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "小学宝",
+        "package_name": "com.haojiazhang.xxb.speed",
+        "file_name": "com.haojiazhang.xxb.speed_269.apk",
+        "app_activity": "com.haojiazhang.activity.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "军职在线",
+        "package_name": "com.moocxuetang",
+        "file_name": "com.moocxuetang_270.apk",
+        "app_activity": "com.mooc.splash.ui.SplashActivity"
+    },
+    {
+        "app_name": "7733盒子",
+        "package_name": "leituoer.hezi.leya",
+        "file_name": "leituoer.hezi.leya_271.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "学起Plus",
+        "package_name": "net.chinaedu.alioth",
+        "file_name": "net.chinaedu.alioth_272.apk",
+        "app_activity": "net.chinaedu.alioth.module.web.WebActivity"
+    },
+    {
+        "app_name": "书法字典大全",
+        "package_name": "com.zivn.cloudbrush3",
+        "file_name": "com.zivn.cloudbrush3_273.apk",
+        "app_activity": "com.zivn.cloudbrush3.launch.LoadActivity"
+    },
+    {
+        "app_name": "辐射模拟器",
+        "package_name": "com.dashujuPro.bomb.xml",
+        "file_name": "com.dashujuPro.bomb.xml_274.apk",
+        "app_activity": "com.dashujuPro.bomb.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "妙懂历史",
+        "package_name": "com.cnhsqk.history.student",
+        "file_name": "com.cnhsqk.history.student_275.apk",
+        "app_activity": "com.unity3d.player.PrivacyActivity"
+    },
+    {
+        "app_name": "小学英语同步辅导",
+        "package_name": "com.xiaoyu.yingyu",
+        "file_name": "com.xiaoyu.yingyu_276.apk",
+        "app_activity": "com.xiaoyu.yingyu.activity.SplashActivity"
+    },
+    {
+        "app_name": "智慧校园",
+        "package_name": "com.orhon.SmartCloud",
+        "file_name": "com.orhon.SmartCloud_277.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "牛听听",
+        "package_name": "com.benew.ntt",
+        "file_name": "com.benew.ntt_278.apk",
+        "app_activity": "com.benew.ntt.StartMainActivity"
+    },
+    {
+        "app_name": "包学习",
+        "package_name": "com.wyzwedu.www.baoxuexiapp",
+        "file_name": "com.wyzwedu.www.baoxuexiapp_279.apk",
+        "app_activity": "com.wyzwedu.www.baoxuexiapp.controller.WelcomeActivity"
+    },
+    {
+        "app_name": "新博少儿对弈平台",
+        "package_name": "com.cngames.weiqi_shaoer_mobile",
+        "file_name": "com.cngames.weiqi_shaoer_mobile_280.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "学法减分宝典",
+        "package_name": "vip.chebb.xuefajianfen",
+        "file_name": "vip.chebb.xuefajianfen_281.apk",
+        "app_activity": "vip.chebb.xuefajianfen.MainActivity"
+    },
+    {
+        "app_name": "方太幸福家",
+        "package_name": "com.fq.android.happylife.fangtai",
+        "file_name": "com.fq.android.happylife.fangtai_282.apk",
+        "app_activity": "com.fq.android.happylife.fangtai.happylife.view.splash.SplashActivity"
+    },
+    {
+        "app_name": "校外培训家长端",
+        "package_name": "net.whty.app.eyu.trainingjz",
+        "file_name": "net.whty.app.eyu.trainingjz_283.apk",
+        "app_activity": "net.whty.app.LaunchActivity"
+    },
+    {
+        "app_name": "百度知道",
+        "package_name": "com.baidu.iknow",
+        "file_name": "com.baidu.iknow_284.apk",
+        "app_activity": "com.baidu.iknow.activity.common.PrologueActivity"
+    },
+    {
+        "app_name": "橙啦",
+        "package_name": "com.xcgl.chengla",
+        "file_name": "com.xcgl.chengla_201.apk",
+        "app_activity": "com.xcgl.chengla.modules.SplashActivity"
+    },
+    {
+        "app_name": "云优学在线",
+        "package_name": "com.yunyxzx.edu",
+        "file_name": "com.yunyxzx.edu_202.apk",
+        "app_activity": "com.yunyxzx.module.app.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "滑记",
+        "package_name": "ai.qianmo.huajiapp",
+        "file_name": "ai.qianmo.huajiapp_288.apk",
+        "app_activity": "ai.qianmo.huajiapp.MainActivity"
+    },
+    {
+        "app_name": "全球学术快报",
+        "package_name": "com.cnki.android.cnkimobile",
+        "file_name": "com.cnki.android.cnkimobile_289.apk",
+        "app_activity": "com.cnki.android.cnkimoble.activity.SplashActivity"
+    },
+    {
+        "app_name": "羊驼韩语",
+        "package_name": "com.ytekorean.client",
+        "file_name": "com.ytekorean.client_290.apk",
+        "app_activity": "com.ytekorean.client.ui.init.InitActivity"
+    },
+    {
+        "app_name": "墨趣书法",
+        "package_name": "com.moqu.lnkfun",
+        "file_name": "com.moqu.lnkfun_291.apk",
+        "app_activity": "com.moqu.lnkfun.LauncherActivity"
+    },
+    {
+        "app_name": "试题通",
+        "package_name": "com.baiyi.shiti",
+        "file_name": "com.baiyi.shiti_292.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "智慧之星",
+        "package_name": "com.tgtts.yvxkzhzx",
+        "file_name": "com.tgtts.yvxkzhzx_293.apk",
+        "app_activity": "com.common.game.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "外研U学校园版",
+        "package_name": "com.hexinedu.sigma.assistant",
+        "file_name": "com.hexinedu.sigma.assistant_294.apk",
+        "app_activity": "com.fltrp.organ.greens.ui.SplashActivity"
+    },
+    {
+        "app_name": "成语嘉年华",
+        "package_name": "com.zhaoxin.cyjnh",
+        "file_name": "com.zhaoxin.cyjnh_295.apk",
+        "app_activity": "com.lingdong.gm.activity.GMWebActivity"
+    },
+    {
+        "app_name": "故宫展览",
+        "package_name": "net.artron.gugong",
+        "file_name": "net.artron.gugong_296.apk",
+        "app_activity": "net.artron.gugong.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "青书学堂",
+        "package_name": "edu.www.qsxt",
+        "file_name": "edu.www.qsxt_297.apk",
+        "app_activity": "elearning.LaunchingActivity"
+    },
+    {
+        "app_name": "秀才来答题",
+        "package_name": "com.scholar.xcldt",
+        "file_name": "com.scholar.xcldt_298.apk",
+        "app_activity": "com.luliang.common.activity.TransferActivity"
+    },
+    {
+        "app_name": "现代汉语词典",
+        "package_name": "cn.dictcn.android.digitize.swg_xdhycd_21004",
+        "file_name": "cn.dictcn.android.digitize.swg_xdhycd_21004_299.apk",
+        "app_activity": "cn.dictcn.android.digitize.module.init.ui.InitActivity"
+    },
+    {
+        "app_name": "一起中学学生",
+        "package_name": "com.shensz.student",
+        "file_name": "com.shensz.student_300.apk",
+        "app_activity": "com.A17zuoye.mobile.homework.StudentProtocolActivity"
+    },
+    {
+        "app_name": "贵州网院",
+        "package_name": "com.dreamit.gzwlxy",
+        "file_name": "com.dreamit.gzwlxy_301.apk",
+        "app_activity": "com.dreamit.gzwlxy.SplashActivity"
+    },
+    {
+        "app_name": "猿题库",
+        "package_name": "com.fenbi.android.gaozhong",
+        "file_name": "com.fenbi.android.gaozhong_302.apk",
+        "app_activity": "com.fenbi.android.s.activity.portal.WelcomeActivity"
+    },
+    {
+        "app_name": "夜曲编程",
+        "package_name": "com.chaoui.np",
+        "file_name": "com.chaoui.np_303.apk",
+        "app_activity": "com.chaoui.np.MainActivity"
+    },
+    {
+        "app_name": "瑞达法考",
+        "package_name": "com.ruida.ruidaschool",
+        "file_name": "com.ruida.ruidaschool_304.apk",
+        "app_activity": "com.ruida.ruidaschool.app.activity.PrivacyPermissionActivity"
+    },
+    {
+        "app_name": "中国象棋单机",
+        "package_name": "com.example.haodichess",
+        "file_name": "com.example.haodichess_305.apk",
+        "app_activity": "com.example.haodichess.activity.SplashActivity"
+    },
+    {
+        "app_name": "作业帮图书",
+        "package_name": "com.zuoyebang.zybbook",
+        "file_name": "com.zuoyebang.zybbook_306.apk",
+        "app_activity": "com.baidu.homework.activity.init.InitActivity"
+    },
+    {
+        "app_name": "人卫",
+        "package_name": "com.pmph.irenwei",
+        "file_name": "com.pmph.irenwei_307.apk",
+        "app_activity": "cn.pmph.splash.SplashActivity"
+    },
+    {
+        "app_name": "雨课堂",
+        "package_name": "com.xuetangx.ykt",
+        "file_name": "com.xuetangx.ykt_308.apk",
+        "app_activity": "com.xuetangx.ykt.MainActivity"
+    },
+    {
+        "app_name": "核桃编程家长端",
+        "package_name": "com.hetao101.parents",
+        "file_name": "com.hetao101.parents_309.apk",
+        "app_activity": "com.hetao101.parents.module.main.ui.LaunchActivity"
+    },
+    {
+        "app_name": "Lian",
+        "package_name": "cn.lianqinba.strings",
+        "file_name": "cn.lianqinba.strings_310.apk",
+        "app_activity": "cn.lianqinba.strings.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "医学电子书包",
+        "package_name": "com.mvw.nationalmedicalPhone",
+        "file_name": "com.mvw.nationalmedicalPhone_311.apk",
+        "app_activity": "com.mvw.nationalmedicalPhone.activity.SplashActivity"
+    },
+    {
+        "app_name": "众合在线",
+        "package_name": "com.zhongheschool.online",
+        "file_name": "com.zhongheschool.online_312.apk",
+        "app_activity": "com.zhongheschool.online.RequestUserPremissKotlin"
+    },
+    {
+        "app_name": "党建云",
+        "package_name": "com.tfkj.partybuildingcloud",
+        "file_name": "com.tfkj.partybuildingcloud_313.apk",
+        "app_activity": "com.tfkj.partybuildingcloud.login.CheckUpdateActivity"
+    },
+    {
+        "app_name": "云上智农",
+        "package_name": "com.longping.farmcourses",
+        "file_name": "com.longping.farmcourses_314.apk",
+        "app_activity": "com.longping.farmcourses.splash.WelcomeActivity"
+    },
+    {
+        "app_name": "快题库",
+        "package_name": "com.android.tiku.union",
+        "file_name": "com.android.tiku.union_315.apk",
+        "app_activity": "com.hqwx.android.tiku.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "研修宝",
+        "package_name": "com.yanxiu.gphone.faceshow",
+        "file_name": "com.yanxiu.gphone.faceshow_316.apk",
+        "app_activity": "com.yanxiu.gphone.faceshow.splash.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "五子棋双人",
+        "package_name": "com.guanheng.gobang",
+        "file_name": "com.guanheng.gobang_317.apk",
+        "app_activity": "com.guanheng.gobang.activity.StarActivity"
+    },
+    {
+        "app_name": "学习公社",
+        "package_name": "com.nd.hy.android.edu.study.commune",
+        "file_name": "com.nd.hy.android.edu.study.commune_318.apk",
+        "app_activity": "com.nd.hy.android.edu.study.commune.view.SplashActivity"
+    },
+    {
+        "app_name": "河南校讯通",
+        "package_name": "com.xxt.jxlxandroid",
+        "file_name": "com.xxt.jxlxandroid_319.apk",
+        "app_activity": "com.xxt.load.activity.LoadActivity"
+    },
+    {
+        "app_name": "Anji记忆卡",
+        "package_name": "com.app.ankichinas",
+        "file_name": "com.app.ankichinas_320.apk",
+        "app_activity": "com.ichi2.anki.IntentHandler"
+    },
+    {
+        "app_name": "分之道",
+        "package_name": "com.qunyu.dividedroad",
+        "file_name": "com.qunyu.dividedroad_321.apk",
+        "app_activity": "com.qunyu.dividedroad.aac.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "头脑智慧星",
+        "package_name": "com.vrainstar.tnzhx",
+        "file_name": "com.vrainstar.tnzhx_322.apk",
+        "app_activity": "com.luliang.common.activity.TransferActivity"
+    },
+    {
+        "app_name": "小彼恩",
+        "package_name": "com.hb.xiaobien",
+        "file_name": "com.hb.xiaobien_323.apk",
+        "app_activity": "com.hb.xiaobien.MainActivity"
+    },
+    {
+        "app_name": "经典象棋单机版",
+        "package_name": "com.girl.chesstwo",
+        "file_name": "com.girl.chesstwo_324.apk",
+        "app_activity": "com.girl.chesstwo.activity.SplashActivity"
+    },
+    {
+        "app_name": "好分数",
+        "package_name": "com.yunxiao.haofenshu",
+        "file_name": "com.yunxiao.haofenshu_325.apk",
+        "app_activity": "com.yunxiao.haofenshu.start.launcher.StudentSplashActivity"
+    },
+    {
+        "app_name": "智学网教师端",
+        "package_name": "com.iflytek.elpmobile.marktool",
+        "file_name": "com.iflytek.elpmobile.marktool_326.apk",
+        "app_activity": "com.iflytek.elpmobile.marktool.ui.view.SplashActivity"
+    },
+    {
+        "app_name": "薄荷阅读",
+        "package_name": "com.chaoui.mintreading",
+        "file_name": "com.chaoui.mintreading_327.apk",
+        "app_activity": "com.chaoui.mintreading.MainActivity"
+    },
+    {
+        "app_name": "贵州招考",
+        "package_name": "com.gzszk.gzgzptuser",
+        "file_name": "com.gzszk.gzgzptuser_328.apk",
+        "app_activity": "com.c2.mobile.library.SplashActivity"
+    },
+    {
+        "app_name": "懂音律",
+        "package_name": "com.xihang.konwrhythm",
+        "file_name": "com.xihang.konwrhythm_329.apk",
+        "app_activity": "com.xihang.konwrhythm.business.login.SplashActivity"
+    },
+    {
+        "app_name": "适趣AI中文",
+        "package_name": "com.zhilehuo.sqertongshizi",
+        "file_name": "com.zhilehuo.sqertongshizi_330.apk",
+        "app_activity": "com.zhilehuo.sqertongshizi.activity.LauncherActivity"
+    },
+    {
+        "app_name": "中公题库",
+        "package_name": "com.eoffcn.questions",
+        "file_name": "com.eoffcn.questions_331.apk",
+        "app_activity": "com.eoffcn.questions.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "摸鱼玩乐园",
+        "package_name": "com.moyuwan.moyu",
+        "file_name": "com.moyuwan.moyu_332.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "华图教师",
+        "package_name": "com.huatu.teacheronline",
+        "file_name": "com.huatu.teacheronline_333.apk",
+        "app_activity": "com.huatu.handheld_huatu.business.guide.SplashActivity"
+    },
+    {
+        "app_name": "综评学生版",
+        "package_name": "com.example.administrator.studentevaluate_android",
+        "file_name": "com.example.administrator.studentevaluate_android_334.apk",
+        "app_activity": "cn.mhqcedu.flutter_students.MainActivity"
+    },
+    {
+        "app_name": "高顿",
+        "package_name": "com.xbcx.gdwx3",
+        "file_name": "com.xbcx.gdwx3_335.apk",
+        "app_activity": "com.xbcx.gdwx3.account.page.WelcomeActivity"
+    },
+    {
+        "app_name": "小叶子钢琴1v1陪练",
+        "package_name": "com.xiaoyezi.student",
+        "file_name": "com.xiaoyezi.student_336.apk",
+        "app_activity": "com.xiaoyezi.pandastudent.index.ui.SplashActivity"
+    },
+    {
+        "app_name": "经济师快题库",
+        "package_name": "com.android.tiku.economist",
+        "file_name": "com.android.tiku.economist_338.apk",
+        "app_activity": "com.hqwx.android.tiku.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "爱乐奇",
+        "package_name": "com.alo7.android.student",
+        "file_name": "com.alo7.android.student_339.apk",
+        "app_activity": "com.alo7.android.student.activity.SplashActivity"
+    },
+    {
+        "app_name": "伯索云学堂",
+        "package_name": "com.plaso.yxt",
+        "file_name": "com.plaso.yxt_340.apk",
+        "app_activity": "com.plaso.student.lib.login.Login"
+    },
+    {
+        "app_name": "python教程",
+        "package_name": "com.zengmumu.ems",
+        "file_name": "com.zengmumu.ems_341.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "人人讲",
+        "package_name": "com.rayclear.renrenjiang",
+        "file_name": "com.rayclear.renrenjiang_342.apk",
+        "app_activity": "com.rayclear.renrenjiang.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "99围棋",
+        "package_name": "com.play.wqfive",
+        "file_name": "com.play.wqfive_343.apk",
+        "app_activity": "com.juguo.module_host.activity.LauncherActivity"
+    },
+    {
+        "app_name": "答题万福",
+        "package_name": "com.tenthousand.dtwf",
+        "file_name": "com.tenthousand.dtwf_344.apk",
+        "app_activity": "com.luliang.common.activity.TransferActivity"
+    },
+    {
+        "app_name": "大力家长",
+        "package_name": "com.kongming.android.h.parent",
+        "file_name": "com.kongming.android.h.parent_345.apk",
+        "app_activity": "com.kongming.parent.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "炭炭背单词",
+        "package_name": "com.maimemo.momolist.android",
+        "file_name": "com.maimemo.momolist.android_346.apk",
+        "app_activity": "com.maimemo.momolist.android.feature.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "准题库",
+        "package_name": "cn.wangxiao.zhuntiku",
+        "file_name": "cn.wangxiao.zhuntiku_347.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "探月校园版",
+        "package_name": "com.codemao.lunarb2c",
+        "file_name": "com.codemao.lunarb2c_348.apk",
+        "app_activity": "com.codemao.lunarb2c.activity.FirstActivity"
+    },
+    {
+        "app_name": "MindLine",
+        "package_name": "czh.mindnode",
+        "file_name": "czh.mindnode_349.apk",
+        "app_activity": "czh.mindnode.MainActivity"
+    },
+
+    {
+        "app_name": "昭昭医考",
+        "package_name": "com.bbj.elearning",
+        "file_name": "com.bbj.elearning_401.apk",
+        "app_activity": "com.bbj.elearning.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "古文典籍大全",
+        "package_name": "com.qxc.gwdjdq",
+        "file_name": "com.qxc.gwdjdq_402.apk",
+        "app_activity": "com.qxc.gwdjdq.activity.common.WelcomeActivity"
+    },
+    {
+        "app_name": "赞美诗新编",
+        "package_name": "com.shuangyingh.idxiaoh",
+        "file_name": "com.shuangyingh.idxiaoh_403.apk",
+        "app_activity": "com.dokiwei.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "学堂云",
+        "package_name": "com.xuetangx.xuetangcloud",
+        "file_name": "com.xuetangx.xuetangcloud_404.apk",
+        "app_activity": "com.xuetangx.xuetangcloud.MainActivity"
+    },
+    {
+        "app_name": "维萨里3D解剖",
+        "package_name": "com.ruanyikeji.vesal.vesal",
+        "file_name": "com.ruanyikeji.vesal.vesal_405.apk",
+        "app_activity": "com.ruanyikeji.vesal.vesal.MainActivity"
+    },
+    {
+        "app_name": "技能云南平台",
+        "package_name": "com.jinengdk.nan",
+        "file_name": "com.jinengdk.nan_406.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "初中生物",
+        "package_name": "com.kaoba.midbiology",
+        "file_name": "com.kaoba.midbiology_407.apk",
+        "app_activity": "com.kaoba.midbiology.bio_ui.activity.main.LauncherActivity"
+    },
+    {
+        "app_name": "峰学蔚来",
+        "package_name": "com.fxwl.fxvip",
+        "file_name": "com.fxwl.fxvip_408.apk",
+        "app_activity": "com.fxwl.fxvip.ui.main.activity.DefaultAliasActivity"
+    },
+    {
+        "app_name": "初中语文",
+        "package_name": "com.hhxx.juniorlanguage",
+        "file_name": "com.hhxx.juniorlanguage_409.apk",
+        "app_activity": "com.hhxx.juniorlanguage.activity.LoadingActivity"
+    },
+    {
+        "app_name": "天下姚李",
+        "package_name": "cn.ixunke.yaoli",
+        "file_name": "cn.ixunke.yaoli_410.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "人人急救",
+        "package_name": "io.dcloud.H597A6040",
+        "file_name": "io.dcloud.H597A6040_411.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "Scratch中文教程",
+        "package_name": "com.yilumi.scratchfree.huawei",
+        "file_name": "com.yilumi.scratchfree.huawei_412.apk",
+        "app_activity": "com.yilumi.scratchfree.STHuaWeiSplashActivity"
+    },
+    {
+        "app_name": "网易有道博闻",
+        "package_name": "com.youdao.bowen",
+        "file_name": "com.youdao.bowen_413.apk",
+        "app_activity": "com.youdao.bowen.activity.StartJumperActivity"
+    },
+    {
+        "app_name": "及象教育",
+        "package_name": "com.sunland.jxiangapp",
+        "file_name": "com.sunland.jxiangapp_414.apk",
+        "app_activity": "com.sunland.dailystudy.MainActivity"
+    },
+    {
+        "app_name": "核桃围棋",
+        "package_name": "com.hetao101.hetaogo",
+        "file_name": "com.hetao101.hetaogo_415.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "妙音围棋",
+        "package_name": "com.miaoyin.weiqi",
+        "file_name": "com.miaoyin.weiqi_416.apk",
+        "app_activity": "com.miaoyin.weiqi.ui.login.SplashActivity"
+    },
+    {
+        "app_name": "冲鸭日语",
+        "package_name": "com.houlang.JPFiftyTone",
+        "file_name": "com.houlang.JPFiftyTone_417.apk",
+        "app_activity": "com.houlang.jpFiftyTone.activity.LaunchActivity"
+    },
+    {
+        "app_name": "斑斑驾道定制版",
+        "package_name": "com.ctl.student",
+        "file_name": "com.ctl.student_418.apk",
+        "app_activity": "com.ctl.student.ui.SplashAdActivity"
+    },
+    {
+        "app_name": "梨花声音研修院",
+        "package_name": "com.lizhiweike.lihua",
+        "file_name": "com.lizhiweike.lihua_419.apk",
+        "app_activity": "com.lihua.splash.SplashActivity"
+    },
+    {
+        "app_name": "壹生",
+        "package_name": "hbyc.china.medical.view",
+        "file_name": "hbyc.china.medical.view_420.apk",
+        "app_activity": "hbyc.china.medical.view.modules.init.InitActivity"
+    },
+    {
+        "app_name": "师训宝学员端",
+        "package_name": "com.open.face2facestudent",
+        "file_name": "com.open.face2facestudent_421.apk",
+        "app_activity": "com.open.face2facestudent.business.main.SplashActivity"
+    },
+    {
+        "app_name": "编程猫在线",
+        "package_name": "com.codemao.grow",
+        "file_name": "com.codemao.grow_422.apk",
+        "app_activity": "com.codemao.grow.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "点个猫",
+        "package_name": "com.codemao.nemo",
+        "file_name": "com.codemao.nemo_423.apk",
+        "app_activity": "com.codemao.nemo.activity.FirstActivity"
+    },
+    {
+        "app_name": "成语梦想家",
+        "package_name": "com.wangbang.cymxj",
+        "file_name": "com.wangbang.cymxj_424.apk",
+        "app_activity": "com.dati.shenguanji.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "探月少儿编程",
+        "package_name": "com.codemao.lunar",
+        "file_name": "com.codemao.lunar_425.apk",
+        "app_activity": "com.codemao.lunar.activity.FirstActivity"
+    },
+    {
+        "app_name": "课后网",
+        "package_name": "com.net.zdsoft.netstudy.netstudy_v5_mobile_app",
+        "file_name": "com.net.zdsoft.netstudy.netstudy_v5_mobile_app_426.apk",
+        "app_activity": "net.zdsoft.netstudy.SplashActivity"
+    },
+    {
+        "app_name": "才士智能学习题库",
+        "package_name": "com.cswx.doorknowquestionbank",
+        "file_name": "com.cswx.doorknowquestionbank_428.apk",
+        "app_activity": "com.cswx.doorknowquestionbank.ui.LaunchActivity"
+    },
+    {
+        "app_name": "一答多金",
+        "package_name": "com.onemoregold.yddj",
+        "file_name": "com.onemoregold.yddj_429.apk",
+        "app_activity": "com.luliang.common.activity.TransferActivity"
+    },
+    {
+        "app_name": "标准日本语",
+        "package_name": "com.PEP.biaori",
+        "file_name": "com.PEP.biaori_430.apk",
+        "app_activity": "com.PEP.biaori.activity.SplashActivity"
+    },
+    {
+        "app_name": "橙果错题本",
+        "package_name": "com.orange.note",
+        "file_name": "com.orange.note_431.apk",
+        "app_activity": "com.orange.note.home.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "一起长大",
+        "package_name": "com.yiqizhangda.parent",
+        "file_name": "com.yiqizhangda.parent_432.apk",
+        "app_activity": "com.kid17.parent.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "复原魔方",
+        "package_name": "com.yishupro.mofan",
+        "file_name": "com.yishupro.mofan_433.apk",
+        "app_activity": "com.yishupro.mofan.mvp.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "师学宝",
+        "package_name": "cn.teacheredu.www",
+        "file_name": "cn.teacheredu.www_434.apk",
+        "app_activity": "cn.teacheredu.www.activity.SplashActivity"
+    },
+    {
+        "app_name": "广西餐安",
+        "package_name": "com.SAKX.EducationGX",
+        "file_name": "com.SAKX.EducationGX_435.apk",
+        "app_activity": "com.SAKX.EducationGX.ui.SplashActivity"
+    },
+    {
+        "app_name": "初中历史",
+        "package_name": "com.kaoba.midhistory",
+        "file_name": "com.kaoba.midhistory_436.apk",
+        "app_activity": "com.kaoba.midhistory.geo_ui.activity.main.LauncherActivity"
+    },
+    {
+        "app_name": "华智公考",
+        "package_name": "cn.huazhi.reader",
+        "file_name": "cn.huazhi.reader_437.apk",
+        "app_activity": "cn.huazhi.reader.costoon.system.SplashActivity"
+    },
+    {
+        "app_name": "成语金字塔",
+        "package_name": "com.wanze.cyjzt",
+        "file_name": "com.wanze.cyjzt_439.apk",
+        "app_activity": "com.dati.shenguanji.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "Q学友",
+        "package_name": "com.qxueyou.learning",
+        "file_name": "com.qxueyou.learning_440.apk",
+        "app_activity": "com.qxueyou.learning.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "贝壳经纪学堂",
+        "package_name": "com.lianjia.zhidao",
+        "file_name": "com.lianjia.zhidao_441.apk",
+        "app_activity": "com.lianjia.zhidao.module.homepage.activity.SplashActivity"
+    },
+    {
+        "app_name": "会计学堂",
+        "package_name": "com.apicloud.A6999270760613",
+        "file_name": "com.apicloud.A6999270760613_442.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "央音考级",
+        "package_name": "com.kaoji.yzy",
+        "file_name": "com.kaoji.yzy_443.apk",
+        "app_activity": "com.kaoji.yzy.MainActivity"
+    },
+    {
+        "app_name": "中华珍宝馆",
+        "package_name": "net.ltfc.chinese_art_gallery",
+        "file_name": "net.ltfc.chinese_art_gallery_444.apk",
+        "app_activity": "net.ltfc.chinese_art_gallery.activity.StartActivity"
+    },
+    {
+        "app_name": "向阳花守护家长端",
+        "package_name": "com.shmrt.xyhguard",
+        "file_name": "com.shmrt.xyhguard_445.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "我的地球",
+        "package_name": "com.un.real.myearth",
+        "file_name": "com.un.real.myearth_446.apk",
+        "app_activity": "com.un.real.myearth.MainActivity"
+    },
+    {
+        "app_name": "单机围棋",
+        "package_name": "com.interesting.weiqi",
+        "file_name": "com.interesting.weiqi_447.apk",
+        "app_activity": "com.taihuihuang.appdemo.activity.SplashActivity"
+    },
+    {
+        "app_name": "东奥继教学堂",
+        "package_name": "com.dongao.app.dongaoacc",
+        "file_name": "com.dongao.app.dongaoacc_448.apk",
+        "app_activity": "com.dongao.app.dongaoacc.newVersion.CEWelcomeActivity"
+    },
+    {
+        "app_name": "手机电子琴",
+        "package_name": "com.guanheng.piano",
+        "file_name": "com.guanheng.piano_449.apk",
+        "app_activity": "com.guanheng.piano.activity.StarActivity"
+    },
+    {
+        "app_name": "金榜时代考研",
+        "package_name": "com.ddx.jbsd.cc",
+        "file_name": "com.ddx.jbsd.cc_450.apk",
+        "app_activity": "com.ddx.jbsd.cc.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "物理大师",
+        "package_name": "com.physicmaster",
+        "file_name": "com.physicmaster_451.apk",
+        "app_activity": "cn.idashi.app.ui.common.StartPageActivity"
+    },
+    {
+        "app_name": "围棋宝典",
+        "package_name": "com.droidpiggy.weiqi",
+        "file_name": "com.droidpiggy.weiqi_452.apk",
+        "app_activity": "com.droidpiggy.weiqi.DroidWeiqiActivity"
+    },
+    {
+        "app_name": "在线100分",
+        "package_name": "com.zaixian100f.app",
+        "file_name": "com.zaixian100f.app_453.apk",
+        "app_activity": "com.zaixian100f.presentation.main.MainActivity"
+    },
+    {
+        "app_name": "解题高手",
+        "package_name": "com.puzzlemaster.jtgs",
+        "file_name": "com.puzzlemaster.jtgs_454.apk",
+        "app_activity": "com.luliang.common.activity.TransferActivity"
+    },
+    {
+        "app_name": "小盒课堂",
+        "package_name": "cn.knowbox.androidaiclass",
+        "file_name": "cn.knowbox.androidaiclass_455.apk",
+        "app_activity": "cn.knowbox.androidaiclass.PrivacyPolicyActivity"
+    },
+    {
+        "app_name": "亦申",
+        "package_name": "com.baijiayun.yishenwangxiao",
+        "file_name": "com.baijiayun.yishenwangxiao_456.apk",
+        "app_activity": "com.nj.baijiayun.module_main.SplashActivity"
+    },
+    {
+        "app_name": "师学通",
+        "package_name": "xa.cn.teacher",
+        "file_name": "xa.cn.teacher_457.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "七天网络",
+        "package_name": "com.sepnet.teacher",
+        "file_name": "com.sepnet.teacher_458.apk",
+        "app_activity": "com.sepnet.teacher.main.MainTabActivity"
+    },
+    {
+        "app_name": "闯词",
+        "package_name": "com.chuangci.ai",
+        "file_name": "com.chuangci.ai_459.apk",
+        "app_activity": "demo.MainActivity"
+    },
+    {
+        "app_name": "小星星趣弹钢琴陪练",
+        "package_name": "com.qtai.funplay",
+        "file_name": "com.qtai.funplay_460.apk",
+        "app_activity": "com.qtai.funplay.view.LaunchActivity"
+    },
+    {
+        "app_name": "中小学同步课堂",
+        "package_name": "com.zkhcsoft.spk",
+        "file_name": "com.zkhcsoft.spk_461.apk",
+        "app_activity": "com.zkhcsoft.spk.ui.aty.SplashAd3Activity"
+    },
+    {
+        "app_name": "心理系",
+        "package_name": "com.xlx.tiku",
+        "file_name": "com.xlx.tiku_462.apk",
+        "app_activity": "com.tiku.tiku.MainActivity"
+    },
+    {
+        "app_name": "包学习",
+        "package_name": "com.wyzwedu.www.baoxuexiapp",
+        "file_name": "com.wyzwedu.www.baoxuexiapp_463.apk",
+        "app_activity": "com.wyzwedu.www.baoxuexiapp.controller.WelcomeActivity"
+    },
+    {
+        "app_name": "学家云",
+        "package_name": "com.xes.xuejiayun",
+        "file_name": "com.xes.xuejiayun_464.apk",
+        "app_activity": "com.tal.xes.xeslogin.view.activity.StartActivity"
+    },
+    {
+        "app_name": "比邻好学",
+        "package_name": "com.blinglearn.app",
+        "file_name": "com.blinglearn.app_465.apk",
+        "app_activity": "com.blinglearn.app.MainActivity"
+    },
+    {
+        "app_name": "小学英语同步学软件",
+        "package_name": "com.wlq.tbxapp",
+        "file_name": "com.wlq.tbxapp_466.apk",
+        "app_activity": "com.wlq.tbxapp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "101教育PPT",
+        "package_name": "com.nd.pptshell",
+        "file_name": "com.nd.pptshell_467.apk",
+        "app_activity": "com.nd.smartcan.appfactory.demo.SplashActivity"
+    },
+    {
+        "app_name": "点读通",
+        "package_name": "DDT.QQ78551393",
+        "file_name": "DDT.QQ78551393_468.apk",
+        "app_activity": "DDT.QQ78551393.main"
+    },
+    {
+        "app_name": "舒尔特方格",
+        "package_name": "com.rong.Shure",
+        "file_name": "com.rong.Shure_469.apk",
+        "app_activity": "com.rong.Shure.activity.MainActivity"
+    },
+    {
+        "app_name": "说题",
+        "package_name": "com.ttluoshi.drawappst",
+        "file_name": "com.ttluoshi.drawappst_470.apk",
+        "app_activity": "com.ttluoshi.h5.StartSplashActivity"
+    },
+    {
+        "app_name": "安全员考试宝典",
+        "package_name": "com.zizhiguanjia.flutter_exam",
+        "file_name": "com.zizhiguanjia.flutter_exam_471.apk",
+        "app_activity": "com.zizhiguanjia.model_init.ui.InitActivity"
+    },
+    {
+        "app_name": "刺猬英语",
+        "package_name": "com.ciweiabc.popcorn",
+        "file_name": "com.ciweiabc.popcorn_472.apk",
+        "app_activity": "com.ciweiabc.popcorn.MainActivity"
+    },
+    {
+        "app_name": "猜图大师",
+        "package_name": "com.guesspic.ctds1ds73ru9sa",
+        "file_name": "com.guesspic.ctds1ds73ru9sa_473.apk",
+        "app_activity": "com.app.activity.SplashActivity"
+    },
+    {
+        "app_name": "手机编程",
+        "package_name": "com.chou.code",
+        "file_name": "com.chou.code_474.apk",
+        "app_activity": "com.chou.code.activity.MainActivity"
+    },
+    {
+        "app_name": "古诗词典",
+        "package_name": "com.kk.poem",
+        "file_name": "com.kk.poem_475.apk",
+        "app_activity": "com.kk.poem.activity.SplashActivity"
+    },
+    {
+        "app_name": "百晓松学习",
+        "package_name": "cn.songdd.studyhelper",
+        "file_name": "cn.songdd.studyhelper_476.apk",
+        "app_activity": "cn.songdd.studyhelper.xsapp.function.InitActivity"
+    },
+    {
+        "app_name": "Pitaya",
+        "package_name": "com.mobile.shannon.pax",
+        "file_name": "com.mobile.shannon.pax_477.apk",
+        "app_activity": "com.mobile.pitaya.appdomestic.SplashActivityDomestic"
+    },
+    {
+        "app_name": "XIYOU英语",
+        "package_name": "com.xiyou.english",
+        "file_name": "com.xiyou.english_478.apk",
+        "app_activity": "com.xiyou.lib_main.activity.SplashActivity"
+    },
+    {
+        "app_name": "法语GO",
+        "package_name": "com.china.french",
+        "file_name": "com.china.french_479.apk",
+        "app_activity": "com.china.french.ui.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "德语GO",
+        "package_name": "com.china.german",
+        "file_name": "com.china.german_480.apk",
+        "app_activity": "com.china.german.ui.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "中公网校",
+        "package_name": "com.eoffcn.mobile",
+        "file_name": "com.eoffcn.mobile_481.apk",
+        "app_activity": "com.eoffcn.mobile.online.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "hope",
+        "package_name": "com.ailian.hope",
+        "file_name": "com.ailian.hope_482.apk",
+        "app_activity": "com.ailian.hope.ui.GuiDeActivity"
+    },
+    {
+        "app_name": "田园管家",
+        "package_name": "com.ssydance.tianyuan",
+        "file_name": "com.ssydance.tianyuan_483.apk",
+        "app_activity": "org.cocos2dx.javascript.check.CheckActivity"
+    },
+    {
+        "app_name": "Rocket Flight Simulator",
+        "package_name": "com.skyapps.RocketShipSpaceshipBuilder",
+        "file_name": "com.skyapps.RocketShipSpaceshipBuilder_484.apk",
+        "app_activity": "com.unity3d.player.UnityPlayerActivity"
+    },
+    {
+        "app_name": "立知课堂",
+        "package_name": "com.litchi.live",
+        "file_name": "com.litchi.live_485.apk",
+        "app_activity": "com.litchi.live.feature.VersionFeatureActivity"
+    },
+    {
+        "app_name": "非常小宝",
+        "package_name": "com.unusualbaby.fcxb",
+        "file_name": "com.unusualbaby.fcxb_486.apk",
+        "app_activity": "com.timeschoolbag.gsxb.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "圆桌课堂",
+        "package_name": "com.hzwx.roundtablepad",
+        "file_name": "com.hzwx.roundtablepad_487.apk",
+        "app_activity": "com.hzwx.roundtablepad.view.WelcomeActivity"
+    },
+    {
+        "app_name": "法宣在线",
+        "package_name": "com.fxphone",
+        "file_name": "com.fxphone_488.apk",
+        "app_activity": "fxphone.com.fxphone.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "小火花",
+        "package_name": "cn.huohua.ai",
+        "file_name": "cn.huohua.ai_489.apk",
+        "app_activity": "cn.huohua.ai.activity.NewLauncherActivity"
+    },
+    {
+        "app_name": "栗子同学",
+        "package_name": "com.zhongzilian.chestnutapp",
+        "file_name": "com.zhongzilian.chestnutapp_490.apk",
+        "app_activity": "com.zhongzilian.chestnutapp.MainActivity"
+    },
+    {
+        "app_name": "只语打字训练",
+        "package_name": "com.zyxx.dzxl",
+        "file_name": "com.zyxx.dzxl_491.apk",
+        "app_activity": "com.zyxx.dzxl.MainActivity"
+    },
+    {
+        "app_name": "医博士",
+        "package_name": "com.hunan",
+        "file_name": "com.hunan_492.apk",
+        "app_activity": "com.hunan.ui.welcome.SplashActivity"
+    },
+    {
+        "app_name": "螺蛳大语文",
+        "package_name": "com.weiyu.sp.lsjy",
+        "file_name": "com.weiyu.sp.lsjy_493.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "绚星",
+        "package_name": "com.lecai",
+        "file_name": "com.lecai_494.apk",
+        "app_activity": "com.lecai.module.welcome.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "妙懂物理",
+        "package_name": "com.cnhsqk.physics.student",
+        "file_name": "com.cnhsqk.physics.student_495.apk",
+        "app_activity": "com.unity3d.player.PrivacyActivity"
+    },
+    {
+        "app_name": "浙卫培训学习",
+        "package_name": "com.huayi.zw",
+        "file_name": "com.huayi.zw_496.apk",
+        "app_activity": "com.huayi.zw.ui.SplashActivity"
+    },
+    {
+        "app_name": "UMU互动",
+        "package_name": "cn.tc.umu",
+        "file_name": "cn.tc.umu_497.apk",
+        "app_activity": "com.umu.activity.login.SplashActivity"
+    },
+    {
+        "app_name": "知乎知学堂",
+        "package_name": "com.zhihu.zhixuetang.android",
+        "file_name": "com.zhihu.zhixuetang.android_498.apk",
+        "app_activity": "com.zhihu.android.ravenclaw.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "新东方一点一看",
+        "package_name": "cn.xdf.ucan.troy.diandiankan",
+        "file_name": "cn.xdf.ucan.troy.diandiankan_499.apk",
+        "app_activity": "cn.xdf.ucan.troy.module.main.splash.SplashActivity"
+    },
+    {
+        "app_name": "职行力",
+        "package_name": "com.xmexe.exe",
+        "file_name": "com.xmexe.exe_500.apk",
+        "app_activity": "com.xmexe.exe.MainActivity"
+    },
+    {
+        "app_name": "原创力文档",
+        "package_name": "com.book118",
+        "file_name": "com.book118_501.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "53伴学",
+        "package_name": "com.diyiyin.online53",
+        "file_name": "com.diyiyin.online53_502.apk",
+        "app_activity": "com.diyiyin.online53.start.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "专技天下",
+        "package_name": "com.zgzjzj",
+        "file_name": "com.zgzjzj_503.apk",
+        "app_activity": "com.zgzjzj.home.SplashActivity"
+    },
+    {
+        "app_name": "益题库",
+        "package_name": "com.education.yitiku",
+        "file_name": "com.education.yitiku_504.apk",
+        "app_activity": "com.education.yitiku.module.login.SplashActivity"
+    },
+    {
+        "app_name": "万题库",
+        "package_name": "com.exam8.wantiku",
+        "file_name": "com.exam8.wantiku_505.apk",
+        "app_activity": "com.exam8.newer.tiku.test_activity.WelcomePhoneActivity"
+    },
+    {
+        "app_name": "贵州招考",
+        "package_name": "com.gzszk.gzgzptuser",
+        "file_name": "com.gzszk.gzgzptuser_506.apk",
+        "app_activity": "com.c2.mobile.library.SplashActivity"
+    },
+    {
+        "app_name": "考公雷达",
+        "package_name": "com.jiaoyudxkedi.skdw",
+        "file_name": "com.jiaoyudxkedi.skdw_507.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "组卷",
+        "package_name": "com.zxxk.zujuan",
+        "file_name": "com.zxxk.zujuan_508.apk",
+        "app_activity": "com.zxxk.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "答题点金",
+        "package_name": "com.ikcv.dtdj",
+        "file_name": "com.ikcv.dtdj_509.apk",
+        "app_activity": "com.guzhen.main.LaunchActivity"
+    },
+    {
+        "app_name": "五林五子棋",
+        "package_name": "com.magicflute.renjuworld",
+        "file_name": "com.magicflute.renjuworld_510.apk",
+        "app_activity": "com.magicflute.renjuworld.SplashActivity"
+    },
+    {
+        "app_name": "学魁图书",
+        "package_name": "com.xkb.books",
+        "file_name": "com.xkb.books_511.apk",
+        "app_activity": "com.xkb.books.ui.baseActivity.SplashActivity"
+    },
+    {
+        "app_name": "Light English Learning",
+        "package_name": "com.jiaming.en",
+        "file_name": "com.jiaming.en_512.apk",
+        "app_activity": "com.jiaming.bdc.EntryActivity"
+    },
+    {
+        "app_name": "AESjni",
+        "package_name": "com.jiaming.ru",
+        "file_name": "com.jiaming.ru_513.apk",
+        "app_activity": "com.jiaming.bdc.EntryActivity"
+    },
+    {
+        "app_name": "火花口语",
+        "package_name": "com.sparktalk.app",
+        "file_name": "com.sparktalk.app_514.apk",
+        "app_activity": "android.talk.ai.at.ui.guides.AiTalkSplashActivityAiTalk"
+    },
+    {
+        "app_name": "文案",
+        "package_name": "com.yc.copywriting",
+        "file_name": "com.yc.copywriting_515.apk",
+        "app_activity": "com.yc.copywriting.ui.SplashActivity"
+    },
+    {
+        "app_name": "消防设施操作员实操平台",
+        "package_name": "com.youlu.operatorstudy",
+        "file_name": "com.youlu.operatorstudy_516.apk",
+        "app_activity": "com.unity3d.player.UnityPlayerActivity"
+    },
+    {
+        "app_name": "雪球课堂",
+        "package_name": "com.xueqiulearning.classroom",
+        "file_name": "com.xueqiulearning.classroom_517.apk",
+        "app_activity": "com.xueqiulearning.classroom.main.ui.SplashActivity"
+    },
+    {
+        "app_name": "妙趣多多",
+        "package_name": "com.wittyfun.mqdd",
+        "file_name": "com.wittyfun.mqdd_518.apk",
+        "app_activity": "com.luliang.common.activity.TransferActivity"
+    },
+    {
+        "app_name": "零基础学钢琴",
+        "package_name": "com.chongchong.easypiano",
+        "file_name": "com.chongchong.easypiano_519.apk",
+        "app_activity": "com.chongchong.easypiano.StartActivity"
+    },
+    {
+        "app_name": "金英杰医学",
+        "package_name": "com.jiaoyu.jinyingjie",
+        "file_name": "com.jiaoyu.jinyingjie_520.apk",
+        "app_activity": "com.jiaoyu.jinyingjie.StartActivity"
+    },
+    {
+        "app_name": "工学云",
+        "package_name": "com.smilingmobile.practice",
+        "file_name": "com.smilingmobile.practice_521.apk",
+        "app_activity": "com.smilingmobile.practice.MainActivity"
+    },
+    {
+        "app_name": "力扣",
+        "package_name": "com.lingkou.leetcode",
+        "file_name": "com.lingkou.leetcode_522.apk",
+        "app_activity": "com.lingkou.app_splash.splash.SplashActivity"
+    },
+    {
+        "app_name": "云班课",
+        "package_name": "com.mosoink.teach",
+        "file_name": "com.mosoink.teach_523.apk",
+        "app_activity": "com.mosoink.teach.MainActivity"
+    },
+    {
+        "app_name": "鸭题库",
+        "package_name": "com.youxuedianzi.yatikuApp",
+        "file_name": "com.youxuedianzi.yatikuApp_524.apk",
+        "app_activity": "com.youxuedianzi.yatikuApp.ServerAndPrivacyActivity"
+    },
+    {
+        "app_name": "初中物理",
+        "package_name": "com.kaoba.midphysics",
+        "file_name": "com.kaoba.midphysics_525.apk",
+        "app_activity": "com.kaoba.midphysics.phy_ui.main.view.LauncherActivity"
+    },
+    {
+        "app_name": "中国法律Pro",
+        "package_name": "com.yz.lawproject",
+        "file_name": "com.yz.lawproject_526.apk",
+        "app_activity": "com.zhkj.law.ui.act.SplashActivity"
+    },
+    {
+        "app_name": "云学馆",
+        "package_name": "com.hzhf.yxg.prod",
+        "file_name": "com.hzhf.yxg.prod_527.apk",
+        "app_activity": "com.hzhf.yxg.MainActivity"
+    },
+    {
+        "app_name": "人体解剖学图集",
+        "package_name": "com.MagicBody.HumanAnatomyAtlasFree",
+        "file_name": "com.MagicBody.HumanAnatomyAtlasFree_528.apk",
+        "app_activity": "com.MagicBody.HumanAnatomyAtlasFree.sdk.PrivacyActivity"
+    },
+    {
+        "app_name": "云鹊医",
+        "package_name": "com.picahealth.yunque",
+        "file_name": "com.picahealth.yunque_529.apk",
+        "app_activity": "com.picahealth.yunque.activitys.mainpage.InitWelcomeActivityVideo"
+    },
+    {
+        "app_name": "导游证雷大大",
+        "package_name": "cn.ixunke.woniu101",
+        "file_name": "cn.ixunke.woniu101_530.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "中移智慧校园",
+        "package_name": "com.cmcc.smartschool",
+        "file_name": "com.cmcc.smartschool_531.apk",
+        "app_activity": "cn.mashang.groups.ui.Welcome"
+    }
+
+]

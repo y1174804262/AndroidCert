@@ -1,0 +1,740 @@
+[
+    {
+        "app_name": "每日菜谱大全",
+        "package_name": "com.cookmenu.daliysy",
+        "file_name": "com.cookmenu.daliysy_1.apk",
+        "app_activity": "com.zhangying.appcollection.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "美善品Cookidoo",
+        "package_name": "com.vorwerk.cookidoo.cn",
+        "file_name": "com.vorwerk.cookidoo.cn_2.apk",
+        "app_activity": "com.cookidoo.android.presentation.splash.SplashScreenActivity"
+    },
+    {
+        "app_name": "食谱大师",
+        "package_name": "com.hncj.recipemaster",
+        "file_name": "com.hncj.recipemaster_3.apk",
+        "app_activity": "com.hncj.recipemaster.MainActivity"
+    },
+    {
+        "app_name": "厨艺达人",
+        "package_name": "com.gengyun.culinaryTalent",
+        "file_name": "com.gengyun.culinaryTalent_4.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "片刻即享",
+        "package_name": "com.bebe.pkjx",
+        "file_name": "com.bebe.pkjx_5.apk",
+        "app_activity": "com.guzhen.main.LaunchActivity"
+    },
+    {
+        "app_name": "特色家常菜谱大全",
+        "package_name": "caihuamianfei.caipu1",
+        "file_name": "caihuamianfei.caipu1_6.apk",
+        "app_activity": "caihuamianfei.caipu1.HGHFirsthActivity"
+    },
+    {
+        "app_name": "辟谷轻断食减肥食谱软件",
+        "package_name": "com.general.ogzi",
+        "file_name": "com.general.ogzi_7.apk",
+        "app_activity": "com.zy.app.devappcollection.SplashActivity"
+    },
+    {
+        "app_name": "简单辟谷",
+        "package_name": "com.general.ulyg",
+        "file_name": "com.general.ulyg_8.apk",
+        "app_activity": "com.zy.app.devappcollection.SplashActivity"
+    },
+    {
+        "app_name": "名厨之家",
+        "package_name": "cn.cookhome.mcapp",
+        "file_name": "cn.cookhome.mcapp_9.apk",
+        "app_activity": "io.zd.chef.splash.SplashActivity"
+    },
+    {
+        "app_name": "欢享时光",
+        "package_name": "com.lgrv.hxsg",
+        "file_name": "com.lgrv.hxsg_10.apk",
+        "app_activity": "com.guzhen.main.LaunchActivity"
+    },
+    {
+        "app_name": "红火刷刷",
+        "package_name": "com.qwgf.hhss",
+        "file_name": "com.qwgf.hhss_11.apk",
+        "app_activity": "com.jingling.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "热量减肥食谱",
+        "package_name": "com.jlg.recipe",
+        "file_name": "com.jlg.recipe_12.apk",
+        "app_activity": "com.jlg.recipe.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "今日菜谱",
+        "package_name": "com.houyikj.jinricaipu",
+        "file_name": "com.houyikj.jinricaipu_13.apk",
+        "app_activity": "com.houyikj.jinricaipu.SplashActivity"
+    },
+    {
+        "app_name": "健康饮食",
+        "package_name": "fei.sao.waw",
+        "file_name": "fei.sao.waw_14.apk",
+        "app_activity": "com.zy.app.cxappcollection.activity.CXLaunchActivity"
+    },
+    {
+        "app_name": "大厨低卡减肥食谱",
+        "package_name": "com.aswn.recipe",
+        "file_name": "com.aswn.recipe_15.apk",
+        "app_activity": "com.aswn.recipe.MainActivity"
+    },
+    {
+        "app_name": "小美餐厅",
+        "package_name": "shipu.okpqt.xican",
+        "file_name": "shipu.okpqt.xican_16.apk",
+        "app_activity": "shipu.okpqt.xican.activty.StartActivity"
+    },
+    {
+        "app_name": "辟谷减肥断食食谱",
+        "package_name": "com.biguzhuizh.wb",
+        "file_name": "com.biguzhuizh.wb_17.apk",
+        "app_activity": "com.zy.app.loseweightdiary.activity.StartActivity"
+    },
+    {
+        "app_name": "老板上个菜",
+        "package_name": "lkji.jkiuo.kjiu",
+        "file_name": "lkji.jkiuo.kjiu_18.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "食在西餐",
+        "package_name": "com.kfsle.szxc",
+        "file_name": "com.kfsle.szxc_19.apk",
+        "app_activity": "com.relax.sdkdemo.StartActivity"
+    },
+    {
+        "app_name": "下厨房",
+        "package_name": "com.xiachufang",
+        "file_name": "com.xiachufang_20.apk",
+        "app_activity": "com.xiachufang.startpage.ui.StartPageActivity"
+    },
+    {
+        "app_name": "家常菜",
+        "package_name": "cn.ecook.jiachangcai",
+        "file_name": "cn.ecook.jiachangcai_21.apk",
+        "app_activity": "cn.ecook.jiachangcai.PrivacyDescActivity"
+    },
+    {
+        "app_name": "美食菜谱",
+        "package_name": "com.kasercook",
+        "file_name": "com.kasercook_22.apk",
+        "app_activity": "com.kasercook.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "美食侦探",
+        "package_name": "com.naturevoice.food.android",
+        "file_name": "com.naturevoice.food.android_23.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "美食宝典",
+        "package_name": "com.chuangyuan.msbd",
+        "file_name": "com.chuangyuan.msbd_24.apk",
+        "app_activity": "com.lingdong.gm.activity.GMWebActivity"
+    },
+    {
+        "app_name": "万能汤匙美味",
+        "package_name": "com.hema.cookmaker",
+        "file_name": "com.hema.cookmaker_25.apk",
+        "app_activity": "com.hema.cookmaker.ui.activity.WelcomActivity"
+    },
+    {
+        "app_name": "Weston Kitchen",
+        "package_name": "com.westonha.cookcube",
+        "file_name": "com.westonha.cookcube_26.apk",
+        "app_activity": "com.westonha.cookcube.SplashActivity"
+    },
+    {
+        "app_name": "美食百味",
+        "package_name": "com.msbw.food",
+        "file_name": "com.msbw.food_27.apk",
+        "app_activity": "com.relax.sdkdemo.StartActivity"
+    },
+    {
+        "app_name": "减肥日记",
+        "package_name": "com.weight.slimmingxx",
+        "file_name": "com.weight.slimmingxx_28.apk",
+        "app_activity": "com.zy.app.loseweightdiary.activity.StartActivity"
+    },
+    {
+        "app_name": "美味秘境",
+        "package_name": "com.boln.mwmj",
+        "file_name": "com.boln.mwmj_29.apk",
+        "app_activity": "com.guzhen.main.LaunchActivity"
+    },
+    {
+        "app_name": "一起下厨",
+        "package_name": "com.xmexe.yqxiachu",
+        "file_name": "com.xmexe.yqxiachu_30.apk",
+        "app_activity": "com.xmexe.exe.MainActivity"
+    },
+    {
+        "app_name": "如意多宝",
+        "package_name": "com.cdjpt.ruyifu",
+        "file_name": "com.cdjpt.ruyifu_31.apk",
+        "app_activity": "com.shgy.app.commongamenew.activity.TransferActivity"
+    },
+    {
+        "app_name": "嘉肴健康美食菜谱",
+        "package_name": "com.jiayao.caipu",
+        "file_name": "com.jiayao.caipu_32.apk",
+        "app_activity": "com.jiayao.caipu.main.activity.LaunchActivity"
+    },
+    {
+        "app_name": "小白菜谱",
+        "package_name": "com.yuanli.simplerecipes",
+        "file_name": "com.yuanli.simplerecipes_33.apk",
+        "app_activity": "com.yuanli.simplerecipes.ui.activity.GuidePagesActivity"
+    },
+    {
+        "app_name": "宜搜宝",
+        "package_name": "tcfzyp.lqsyitcc.hsdzhy",
+        "file_name": "tcfzyp.lqsyitcc.hsdzhy_34.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "小白学做菜",
+        "package_name": "com.kongling.cookbook",
+        "file_name": "com.kongling.cookbook_35.apk",
+        "app_activity": "com.kongling.cookbook.activity.LeadActivity"
+    },
+    {
+        "app_name": "厨艺宝",
+        "package_name": "youi.tech.com.wangying",
+        "file_name": "youi.tech.com.wangying_36.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "豆果美食",
+        "package_name": "com.douguo.recipe",
+        "file_name": "com.douguo.recipe_37.apk",
+        "app_activity": "com.douguo.recipe.MainActivity"
+    },
+    {
+        "app_name": "看看有味",
+        "package_name": "com.rlve.kkyw",
+        "file_name": "com.rlve.kkyw_38.apk",
+        "app_activity": "com.guzhen.main.LaunchActivity"
+    },
+    {
+        "app_name": "厨房当家营养瘦身食谱软件",
+        "package_name": "www.shoushen121.apk",
+        "file_name": "www.shoushen121.apk_39.apk",
+        "app_activity": "com.zy.app.devappcollection.StartActivity"
+    },
+    {
+        "app_name": "群厨会",
+        "package_name": "com.ufs.cheftalk",
+        "file_name": "com.ufs.cheftalk_40.apk",
+        "app_activity": "com.ufs.cheftalk.activity.SplashActivity"
+    },
+    {
+        "app_name": "香哈菜谱",
+        "package_name": "com.xiangha",
+        "file_name": "com.xiangha_41.apk",
+        "app_activity": "com.xiangha.WelcomeStart"
+    },
+    {
+        "app_name": "素食家",
+        "package_name": "com.sushijia",
+        "file_name": "com.sushijia_42.apk",
+        "app_activity": "com.sushijia.MainActivity"
+    },
+    {
+        "app_name": "美食每日菜谱",
+        "package_name": "com.sxcanghai.cookery",
+        "file_name": "com.sxcanghai.cookery_43.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "帮厨",
+        "package_name": "com.lelovelife.android.recipebox",
+        "file_name": "com.lelovelife.android.recipebox_44.apk",
+        "app_activity": "com.lelovelife.android.recipebox.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "燕麦烘焙",
+        "package_name": "com.lifeskilleducation.android.chushi",
+        "file_name": "com.lifeskilleducation.android.chushi_45.apk",
+        "app_activity": "com.lifeskilleducation.android.chushi.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "饭团菜谱",
+        "package_name": "cn.judingkeji.caipu",
+        "file_name": "cn.judingkeji.caipu_46.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "小蚕",
+        "package_name": "com.xiaocan.huixhc",
+        "file_name": "com.xiaocan.huixhc_47.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "爸爸的美味面馆",
+        "package_name": "com.shgdeg.aghgrf.aga",
+        "file_name": "com.shgdeg.aghgrf.aga_48.apk",
+        "app_activity": "tai.mengzhu.circle.activty.StartActivity"
+    },
+    {
+        "app_name": "吃啥菜谱",
+        "package_name": "com.ludoven.cooking",
+        "file_name": "com.ludoven.cooking_49.apk",
+        "app_activity": "com.ludoven.cooking.ui.user.SplashActivity"
+    },
+    {
+        "app_name": "知行蜜觅",
+        "package_name": "com.misleadassault.broch",
+        "file_name": "com.misleadassault.broch_50.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "TOKIT",
+        "package_name": "com.tokit.app",
+        "file_name": "com.tokit.app_51.apk",
+        "app_activity": "com.tokit.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "美食菜谱减肥宝典",
+        "package_name": "www.AIznwxykq.xy",
+        "file_name": "www.AIznwxykq.xy_52.apk",
+        "app_activity": "com.zhangying.appcollection.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "食物艺术语",
+        "package_name": "eat.zmkho.food",
+        "file_name": "eat.zmkho.food_53.apk",
+        "app_activity": "tai.mengzhu.circle.activty.StartActivity"
+    },
+    {
+        "app_name": "可口披萨",
+        "package_name": "com.caipu.cenpisawy",
+        "file_name": "com.caipu.cenpisawy_54.apk",
+        "app_activity": "com.viterbibi.innsimulation.ui.activity.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "满汉全席",
+        "package_name": "com.mhfeast.ch",
+        "file_name": "com.mhfeast.ch_55.apk",
+        "app_activity": "com.mhfeast.ch.activity.FistActivity"
+    },
+    {
+        "app_name": "汤头",
+        "package_name": "com.dskang.tonguetip",
+        "file_name": "com.dskang.tonguetip_56.apk",
+        "app_activity": "com.dskang.tonguetip.activity.SplashActivity"
+    },
+    {
+        "app_name": "爱下厨",
+        "package_name": "com.joyoung.joyoungsmart",
+        "file_name": "com.joyoung.joyoungsmart_57.apk",
+        "app_activity": "com.joyoungsoft.activity.LoadingActivity"
+    },
+    {
+        "app_name": "爱上荔枝",
+        "package_name": "com.hyst80.islizhi",
+        "file_name": "com.hyst80.islizhi_58.apk",
+        "app_activity": "com.hyst80.islizhi.main.ui.activity.MainActivity"
+    },
+    {
+        "app_name": "美大智厨",
+        "package_name": "com.meida.smartkitchen",
+        "file_name": "com.meida.smartkitchen_59.apk",
+        "app_activity": "com.meida.smartkitchen.MainActivity"
+    },
+    {
+        "app_name": "美食点点乐",
+        "package_name": "com.ruike.msddl",
+        "file_name": "com.ruike.msddl_60.apk",
+        "app_activity": "com.lingdong.gm.activity.GMWebActivity"
+    },
+    {
+        "app_name": "美食厨房",
+        "package_name": "com.junling.food",
+        "file_name": "com.junling.food_61.apk",
+        "app_activity": "com.junling.food.SplashActivity"
+    },
+    {
+        "app_name": "小优美食汇",
+        "package_name": "com.runru.recipe2",
+        "file_name": "com.runru.recipe2_62.apk",
+        "app_activity": "com.runru.recipe2.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "家常菜食谱大全",
+        "package_name": "com.just_cookbook.cb",
+        "file_name": "com.just_cookbook.cb_63.apk",
+        "app_activity": "com.just_cookbook.cb.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "做菜宝典",
+        "package_name": "uni.UNI161295D",
+        "file_name": "uni.UNI161295D_64.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "魔糕一尺烘焙",
+        "package_name": "uni.UNIDA88EA3",
+        "file_name": "uni.UNIDA88EA3_65.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "厨艺帮手",
+        "package_name": "hobgh.kurgj.hyeu",
+        "file_name": "hobgh.kurgj.hyeu_66.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "阳光餐厅",
+        "package_name": "com.chu.shen.mastor",
+        "file_name": "com.chu.shen.mastor_67.apk",
+        "app_activity": "com.chu.shen.mastor.activty.StartActivity"
+    },
+    {
+        "app_name": "简约辟谷",
+        "package_name": "www.Voice.changer.cy",
+        "file_name": "www.Voice.changer.cy_68.apk",
+        "app_activity": "com.zy.app.devappcollection.SplashActivity"
+    },
+    {
+        "app_name": "天天菜谱大全",
+        "package_name": "com.rehwco.ikmooym",
+        "file_name": "com.rehwco.ikmooym_69.apk",
+        "app_activity": "com.rehwco.ikmooym.ui.activities.SplashActivity"
+    },
+    {
+        "app_name": "减脂菜谱",
+        "package_name": "com.xqyjf.xq",
+        "file_name": "com.xqyjf.xq_70.apk",
+        "app_activity": "com.zy.app.loseweightdiary.activity.StartActivity"
+    },
+    {
+        "app_name": "万得厨",
+        "package_name": "com.yingzi.yzapp",
+        "file_name": "com.yingzi.yzapp_71.apk",
+        "app_activity": "com.yingzi.yzapp.MainActivity"
+    },
+    {
+        "app_name": "男性健康养生食谱",
+        "package_name": "com.jrsy.nxjk",
+        "file_name": "com.jrsy.nxjk_72.apk",
+        "app_activity": "cn.feichongtech.newmymvpkotlin.activity.OpenScreenActivity"
+    },
+    {
+        "app_name": "懒人食谱",
+        "package_name": "com.lanren.food.release",
+        "file_name": "com.lanren.food.release_73.apk",
+        "app_activity": "com.aso114.project.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "好好吃饭",
+        "package_name": "com.evans.recipe",
+        "file_name": "com.evans.recipe_74.apk",
+        "app_activity": "com.evans.recipe.MainActivity"
+    },
+    {
+        "app_name": "懒饭",
+        "package_name": "com.xiachufang.lazycook",
+        "file_name": "com.xiachufang.lazycook_75.apk",
+        "app_activity": "com.xiachufang.lazycook.ui.main.home.HomeActivity"
+    },
+    {
+        "app_name": "食物大观园",
+        "package_name": "com.swdgy.food",
+        "file_name": "com.swdgy.food_76.apk",
+        "app_activity": "com.relax.sdkdemo.StartActivity"
+    },
+    {
+        "app_name": "添可厨房",
+        "package_name": "com.tek.merry.kitchen",
+        "file_name": "com.tek.merry.kitchen_77.apk",
+        "app_activity": "com.tek.merry.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "快乐天菜",
+        "package_name": "com.shuyuan.kltc",
+        "file_name": "com.shuyuan.kltc_78.apk",
+        "app_activity": "com.lingdong.gm.activity.GMWebActivity"
+    },
+    {
+        "app_name": "孕妇食谱大全",
+        "package_name": "me.hibb.recipepre.android",
+        "file_name": "me.hibb.recipepre.android_79.apk",
+        "app_activity": "mybaby.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "小厨在家",
+        "package_name": "com.ebanswers.smartkitchen",
+        "file_name": "com.ebanswers.smartkitchen_80.apk",
+        "app_activity": "com.ebanswers.smartkitchen.wxapi.WXEntryActivity"
+    },
+    {
+        "app_name": "法拉费之王",
+        "package_name": "com.ywrvilljlmp.spsokmyrgj.vxxrtxoov",
+        "file_name": "com.ywrvilljlmp.spsokmyrgj.vxxrtxoov_81.apk",
+        "app_activity": "com.qingxiang.zdzq.activty.StartActivity"
+    },
+    {
+        "app_name": "浪漫餐厅",
+        "package_name": "com.nnaita.micxgg.naln",
+        "file_name": "com.nnaita.micxgg.naln_82.apk",
+        "app_activity": "tai.mengzhu.circle.activty.StartActivity"
+    },
+    {
+        "app_name": "简速点餐宝",
+        "package_name": "bj.catering.jiansu.cloud",
+        "file_name": "bj.catering.jiansu.cloud_83.apk",
+        "app_activity": "bj.catering.jiansu.cloud.MainActivity"
+    },
+    {
+        "app_name": "田螺云厨",
+        "package_name": "com.kitchenidea.tt",
+        "file_name": "com.kitchenidea.tt_84.apk",
+        "app_activity": "com.kitchenidea.tt.GuidActivity"
+    },
+    {
+        "app_name": "家常菜谱大全软件",
+        "package_name": "com.suoqingning.caipu",
+        "file_name": "com.suoqingning.caipu_85.apk",
+        "app_activity": "com.suoqingning.caipu.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "爱美食",
+        "package_name": "com.hengshuokeji.aims",
+        "file_name": "com.hengshuokeji.aims_86.apk",
+        "app_activity": "com.hengshuokeji.aims.mvp.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "私房享看",
+        "package_name": "com.qianshao.sfxk",
+        "file_name": "com.qianshao.sfxk_87.apk",
+        "app_activity": "com.geyou.game.ActivitySplash"
+    },
+    {
+        "app_name": "减肥记事",
+        "package_name": "com.qwerty",
+        "file_name": "com.qwerty_88.apk",
+        "app_activity": "com.zy.fyappcollection.activity.LauncherActivity"
+    },
+    {
+        "app_name": "光通航行宝",
+        "package_name": "com.dqogn.ohanqur",
+        "file_name": "com.dqogn.ohanqur_89.apk",
+        "app_activity": "com.dqogn.ohanqur.MainActivity"
+    },
+    {
+        "app_name": "谁是大厨神",
+        "package_name": "com.wuju.ssdcsapp",
+        "file_name": "com.wuju.ssdcsapp_90.apk",
+        "app_activity": "com.example.baseapp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "全球菜谱",
+        "package_name": "com.quanqiucaipu",
+        "file_name": "com.quanqiucaipu_91.apk",
+        "app_activity": "com.quanqiucaipu.MainActivity"
+    },
+    {
+        "app_name": "烘焙学院",
+        "package_name": "com.yc.baking",
+        "file_name": "com.yc.baking_92.apk",
+        "app_activity": "com.yc.baking.ui.SplashActivity"
+    },
+    {
+        "app_name": "随食",
+        "package_name": "com.wode.wendang.afour",
+        "file_name": "com.wode.wendang.afour_93.apk",
+        "app_activity": "com.wode.wendang.afour.activty.StartActivity"
+    },
+    {
+        "app_name": "欧米奇在线",
+        "package_name": "com.xhgroup.omq",
+        "file_name": "com.xhgroup.omq_94.apk",
+        "app_activity": "com.xhgroup.omq.mvp.view.activity.splash.SplashV2Activity"
+    },
+    {
+        "app_name": "海氏烘焙",
+        "package_name": "com.hauswirt.oven",
+        "file_name": "com.hauswirt.oven_95.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "轻食计划",
+        "package_name": "com.plan.qsjh",
+        "file_name": "com.plan.qsjh_96.apk",
+        "app_activity": "com.xm.hb.GamePlayerActivity"
+    },
+    {
+        "app_name": "未来厨房",
+        "package_name": "com.eryanet.kitchen",
+        "file_name": "com.eryanet.kitchen_97.apk",
+        "app_activity": "com.eryanet.lampblack.view.WelcomeActivity"
+    },
+    {
+        "app_name": "美味天天点",
+        "package_name": "redpop.deliciousdaily.everyday",
+        "file_name": "redpop.deliciousdaily.everyday_98.apk",
+        "app_activity": "cn.gm.u3d.ui.main.MainActivity"
+    },
+    {
+        "app_name": "DiningCity",
+        "package_name": "asia.diningcity.android",
+        "file_name": "asia.diningcity.android_99.apk",
+        "app_activity": "asia.diningcity.android.activities.DCSplashActivity"
+    },
+    {
+        "app_name": "福泽有礼",
+        "package_name": "com.lshy.fzyl",
+        "file_name": "com.lshy.fzyl_100.apk",
+        "app_activity": "com.walk.home.health.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "辟谷轻断食追踪",
+        "package_name": "com.tiantijianfei.lc",
+        "file_name": "com.tiantijianfei.lc_101.apk",
+        "app_activity": "com.zy.app.loseweightdiary.activity.StartActivity"
+    },
+    {
+        "app_name": "家常菜做法",
+        "package_name": "com.jingrui.cookbook",
+        "file_name": "com.jingrui.cookbook_102.apk",
+        "app_activity": "com.jingrui.cookbook.EntranceActivity"
+    },
+    {
+        "app_name": "口袋厨房",
+        "package_name": "com.hengxingfdc.kkddcf",
+        "file_name": "com.hengxingfdc.kkddcf_103.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "热量减肥食谱日记",
+        "package_name": "sdf.rty.tre",
+        "file_name": "sdf.rty.tre_104.apk",
+        "app_activity": "com.zy.app.cxappcollection.activity.CXLaunchActivity"
+    },
+    {
+        "app_name": "东方美食",
+        "package_name": "com.goojje.dfmeishi",
+        "file_name": "com.goojje.dfmeishi_105.apk",
+        "app_activity": "com.goojje.dfmeishi.ui.launch_screen.LaunchScreenActivity"
+    },
+    {
+        "app_name": "ROKI智能烹饪",
+        "package_name": "com.robam.roki",
+        "file_name": "com.robam.roki_106.apk",
+        "app_activity": "com.robam.roki.ui.form.WelcomeActivity"
+    },
+    {
+        "app_name": "家常菜谱大全",
+        "package_name": "com.shyl_menu",
+        "file_name": "com.shyl_menu_107.apk",
+        "app_activity": "com.shyl_menu.StartLoadData"
+    },
+    {
+        "app_name": "烘焙帮",
+        "package_name": "com.hongbeibang.app",
+        "file_name": "com.hongbeibang.app_108.apk",
+        "app_activity": "com.hongbeibang.app.StartActivity"
+    },
+    {
+        "app_name": "辟谷轻断食减肥食谱",
+        "package_name": "com.jianfeigeneral.or",
+        "file_name": "com.jianfeigeneral.or_109.apk",
+        "app_activity": "com.zy.app.devappcollection.SplashActivity"
+    },
+    {
+        "app_name": "Brisk It Grills",
+        "package_name": "com.briskitgrill.app",
+        "file_name": "com.briskitgrill.app_110.apk",
+        "app_activity": "com.zoontek.rnbootsplash.RNBootSplashActivity"
+    },
+    {
+        "app_name": "私厨食谱大全",
+        "package_name": "cn.szyy2106.recipe",
+        "file_name": "cn.szyy2106.recipe_111.apk",
+        "app_activity": "cn.szyy2106.recipe.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "佬香鸡",
+        "package_name": "com.longl.laoxiang",
+        "file_name": "com.longl.laoxiang_112.apk",
+        "app_activity": "io.dcloud.uniapp.UniAppActivity"
+    },
+    {
+        "app_name": "美食杰",
+        "package_name": "com.jesson.meishi",
+        "file_name": "com.jesson.meishi_113.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "家常菜谱教程",
+        "package_name": "com.fupqxnre.txfhtxnj",
+        "file_name": "com.fupqxnre.txfhtxnj_114.apk",
+        "app_activity": "com.fupqxnre.txfhtxnj.ui.activities.SplashActivity"
+    },
+    {
+        "app_name": "美食印记",
+        "package_name": "com.food.nice.msyj",
+        "file_name": "com.food.nice.msyj_115.apk",
+        "app_activity": "com.geek.superpower.ui.activity.CNDCGJSplashActivity"
+    },
+    {
+        "app_name": "懒人菜谱助手",
+        "package_name": "com.youzan.lazycook",
+        "file_name": "com.youzan.lazycook_116.apk",
+        "app_activity": "com.youzan.lazycook.ui.activity.MainActivity"
+    },
+    {
+        "app_name": "美味人间",
+        "package_name": "com.ch.mwrj",
+        "file_name": "com.ch.mwrj_117.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "菜谱大全Food懒人一周食谱",
+        "package_name": "cn.doufeidan.recipe",
+        "file_name": "cn.doufeidan.recipe_118.apk",
+        "app_activity": "cn.john.ui.boot.BootLoaderActivity"
+    },
+    {
+        "app_name": "每日菜谱",
+        "package_name": "com.cooking.listzy",
+        "file_name": "com.cooking.listzy_119.apk",
+        "app_activity": "com.zy.fyappcollection.activity.LauncherActivity"
+    },
+    {
+        "app_name": "食谱大全",
+        "package_name": "com.jnzc.shipudaquan",
+        "file_name": "com.jnzc.shipudaquan_120.apk",
+        "app_activity": "com.jnzc.shipudaquan.Welcome"
+    },
+    {
+        "app_name": "家常菜谱",
+        "package_name": "com.cooker.food",
+        "file_name": "com.cooker.food_121.apk",
+        "app_activity": "com.aso114.project.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "Velosan kitchen",
+        "package_name": "com.xuntong.foodie",
+        "file_name": "com.xuntong.foodie_122.apk",
+        "app_activity": "com.xuntong.foodie.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "美食天下",
+        "package_name": "com.jingdian.tianxiameishi.android",
+        "file_name": "com.jingdian.tianxiameishi.android_123.apk",
+        "app_activity": "com.meishichina.android.activity.WelcomeActivity"
+    }
+]

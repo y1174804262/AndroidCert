@@ -1,0 +1,1436 @@
+[
+    {
+        "app_name": "英语翻译",
+        "package_name": "com.joyband.yyfygbymcwl",
+        "file_name": "com.joyband.yyfygbymcwl_1.apk",
+        "app_activity": "com.tad.SplashActivity"
+    },
+    {
+        "app_name": "English-Chinese translation",
+        "package_name": "com.hhll.translatecnen",
+        "file_name": "com.hhll.translatecnen_2.apk",
+        "app_activity": "com.hhll.translatecnen.activity.StartActivity"
+    },
+    {
+        "app_name": "印尼语翻译",
+        "package_name": "com.hhll.translatecnid",
+        "file_name": "com.hhll.translatecnid_3.apk",
+        "app_activity": "com.hhll.translatecnen.activity.StartActivity"
+    },
+    {
+        "app_name": "中日翻译",
+        "package_name": "com.hhll.translatecnja",
+        "file_name": "com.hhll.translatecnja_4.apk",
+        "app_activity": "com.hhll.translatecnen.activity.StartActivity"
+    },
+    {
+        "app_name": "中韩翻译",
+        "package_name": "com.hhll.translatecnko",
+        "file_name": "com.hhll.translatecnko_5.apk",
+        "app_activity": "com.hhll.translatecnen.activity.StartActivity"
+    },
+    {
+        "app_name": "老挝语翻译",
+        "package_name": "com.hhll.translatecnlo",
+        "file_name": "com.hhll.translatecnlo_6.apk",
+        "app_activity": "com.hhll.translatecnen.activity.StartActivity"
+    },
+    {
+        "app_name": "缅甸语翻译",
+        "package_name": "com.hhll.translatecnmy",
+        "file_name": "com.hhll.translatecnmy_7.apk",
+        "app_activity": "com.hhll.translatecnen.activity.StartActivity"
+    },
+    {
+        "app_name": "泰语翻译软件",
+        "package_name": "com.hhll.translatecnth",
+        "file_name": "com.hhll.translatecnth_8.apk",
+        "app_activity": "com.hhll.translatecnen.activity.StartActivity"
+    },
+    {
+        "app_name": "越南语翻译",
+        "package_name": "com.hhll.translatecnvi",
+        "file_name": "com.hhll.translatecnvi_9.apk",
+        "app_activity": "com.hhll.translatecnen.activity.StartActivity"
+    },
+    {
+        "app_name": "德语翻译助手",
+        "package_name": "com.fufutran.german",
+        "file_name": "com.fufutran.german_10.apk",
+        "app_activity": "com.fufutran.german.module.main.view.LauncherActivity"
+    },
+    {
+        "app_name": "蓝星在线",
+        "package_name": "com.weyo.jfdg.werh",
+        "file_name": "com.weyo.jfdg.werh_11.apk",
+        "app_activity": "tai.mengzhu.circle.activty.StartActivity"
+    },
+    {
+        "app_name": "金牌翻译",
+        "package_name": "com.csdfpo.mfgxxs.yraet",
+        "file_name": "com.csdfpo.mfgxxs.yraet_12.apk",
+        "app_activity": "com.photo.aslkd.cthree.activity.StartActivity"
+    },
+    {
+        "app_name": "轻松翻译中英互译",
+        "package_name": "com.qsfy.app",
+        "file_name": "com.qsfy.app_13.apk",
+        "app_activity": "com.commonLib.libs.base.ui.SplashFullVideoActivity"
+    },
+    {
+        "app_name": "布丁翻译",
+        "package_name": "bd.fy.zhishi",
+        "file_name": "bd.fy.zhishi_14.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "繁体字转换器",
+        "package_name": "com.luoyu.fantijianti",
+        "file_name": "com.luoyu.fantijianti_15.apk",
+        "app_activity": "com.luoyu.fantijianti.FirstActivity"
+    },
+    {
+        "app_name": "拍照翻译英语",
+        "package_name": "com.jack.myphototranslate",
+        "file_name": "com.jack.myphototranslate_16.apk",
+        "app_activity": "com.jack.myphototranslates.SplashActivity"
+    },
+    {
+        "app_name": "牛津外研英汉汉英词典",
+        "package_name": "cn.dictcn.android.digitize.oxford_bilingdict_17200",
+        "file_name": "cn.dictcn.android.digitize.oxford_bilingdict_17200_17.apk",
+        "app_activity": "cn.dictcn.android.digitize.activity.StartActivity"
+    },
+    {
+        "app_name": "全球翻译通",
+        "package_name": "com.ysg.translator",
+        "file_name": "com.ysg.translator_18.apk",
+        "app_activity": "com.ysg.translator.ui.SplashActivity"
+    },
+    {
+        "app_name": "英文翻译器王",
+        "package_name": "com.bigone.ddmakephoto",
+        "file_name": "com.bigone.ddmakephoto_19.apk",
+        "app_activity": "com.bigone.ddmakephoto.ui.activitys.SplashActivity"
+    },
+    {
+        "app_name": "韩语翻译宝典神器",
+        "package_name": "com.kor.oqirhgrk",
+        "file_name": "com.kor.oqirhgrk_20.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "汉英翻译器",
+        "package_name": "com.sq.translate",
+        "file_name": "com.sq.translate_21.apk",
+        "app_activity": "com.sq.translate.activity.SplashActivity"
+    },
+    {
+        "app_name": "文本翻译器",
+        "package_name": "com.aokj.texttranslator",
+        "file_name": "com.aokj.texttranslator_22.apk",
+        "app_activity": "com.allever.app.translation.text.SplashActivityStartUp"
+    },
+    {
+        "app_name": "单词训练营",
+        "package_name": "cn.zhayadeutsch.bdc",
+        "file_name": "cn.zhayadeutsch.bdc_23.apk",
+        "app_activity": "cn.zhayadeutsch.bdc.MainActivity"
+    },
+    {
+        "app_name": "蒙语翻译官",
+        "package_name": "com.menghanfany.jhk",
+        "file_name": "com.menghanfany.jhk_24.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "英语翻译中文",
+        "package_name": "com.fo.translatefo",
+        "file_name": "com.fo.translatefo_25.apk",
+        "app_activity": "com.sq.translate.activity.SplashActivity"
+    },
+    {
+        "app_name": "德语翻译",
+        "package_name": "com.youyu.translation.language_translation",
+        "file_name": "com.youyu.translation.language_translation_26.apk",
+        "app_activity": "com.youyu.translation.language_translation.MainActivity"
+    },
+    {
+        "app_name": "AI全能翻译",
+        "package_name": "com.aiqnfywiap.wt",
+        "file_name": "com.aiqnfywiap.wt_27.apk",
+        "app_activity": "NARbodSao.mnKkobnAhiGQ"
+    },
+    {
+        "app_name": "多国英文翻译",
+        "package_name": "com.zjt.mytranslate",
+        "file_name": "com.zjt.mytranslate_28.apk",
+        "app_activity": "com.zjt.mytranslate.component.splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "小白翻译",
+        "package_name": "com.xz.easytranslator",
+        "file_name": "com.xz.easytranslator_29.apk",
+        "app_activity": "com.xz.easytranslator.module.main.SplashActivity"
+    },
+    {
+        "app_name": "日文翻译",
+        "package_name": "com.translate.xyzfyi",
+        "file_name": "com.translate.xyzfyi_30.apk",
+        "app_activity": "com.interpreter.transcribe.MainActivity"
+    },
+    {
+        "app_name": "英语词典",
+        "package_name": "com.dict.byzmhw",
+        "file_name": "com.dict.byzmhw_31.apk",
+        "app_activity": "com.tad.SplashActivity"
+    },
+    {
+        "app_name": "在线翻译器",
+        "package_name": "com.te.translatete",
+        "file_name": "com.te.translatete_32.apk",
+        "app_activity": "com.sq.translate.activity.SplashActivity"
+    },
+    {
+        "app_name": "柬埔寨翻译",
+        "package_name": "com.translate.cambodia",
+        "file_name": "com.translate.cambodia_33.apk",
+        "app_activity": "com.translate.cambodia.MainActivity"
+    },
+    {
+        "app_name": "中英语翻译",
+        "package_name": "com.apa.yyfyapa",
+        "file_name": "com.apa.yyfyapa_34.apk",
+        "app_activity": "com.apa.fanyi.Activity.LauncherActivity"
+    },
+    {
+        "app_name": "潮汕话翻译全能王",
+        "package_name": "com.portugu.fanyi",
+        "file_name": "com.portugu.fanyi_35.apk",
+        "app_activity": "com.portugu.fanyi.activity.LauncherActivity"
+    },
+    {
+        "app_name": "外研社大家的日语",
+        "package_name": "cn.dictcn.android.digitize.wys_japan",
+        "file_name": "cn.dictcn.android.digitize.wys_japan_36.apk",
+        "app_activity": "cn.dictcn.android.digitize.module.init.ui.InitActivity"
+    },
+    {
+        "app_name": "外研社西班牙语",
+        "package_name": "cn.dictcn.android.digitize.wys_spain",
+        "file_name": "cn.dictcn.android.digitize.wys_spain_37.apk",
+        "app_activity": "cn.dictcn.android.digitize.activity.StartActivity"
+    },
+    {
+        "app_name": "AI翻译助手",
+        "package_name": "com.yidianguiji.aifyzs",
+        "file_name": "com.yidianguiji.aifyzs_38.apk",
+        "app_activity": "com.yidianguiji.aifyzs.mvvm.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "英语汪",
+        "package_name": "me.shouheng.language",
+        "file_name": "me.shouheng.language_39.apk",
+        "app_activity": "me.shouheng.language.view.MainActivity"
+    },
+    {
+        "app_name": "爱译客",
+        "package_name": "com.gaminik.i18n",
+        "file_name": "com.gaminik.i18n_40.apk",
+        "app_activity": "com.gaminik.cn.CnMainActivity"
+    },
+    {
+        "app_name": "国语助手",
+        "package_name": "com.elipbe.dict",
+        "file_name": "com.elipbe.dict_41.apk",
+        "app_activity": "com.elipbe.dict.MainActivity"
+    },
+    {
+        "app_name": "康熙字典",
+        "package_name": "com.kk.dict.dictkx",
+        "file_name": "com.kk.dict.dictkx_42.apk",
+        "app_activity": "com.kk.dict.activity.SplashActivity"
+    },
+    {
+        "app_name": "外研社韩语",
+        "package_name": "cn.dictcn.android.digitize.wys_korean",
+        "file_name": "cn.dictcn.android.digitize.wys_korean_43.apk",
+        "app_activity": "cn.dictcn.android.digitize.activity.StartActivity"
+    },
+    {
+        "app_name": "德语助手",
+        "package_name": "com.eusoft.dehelper",
+        "file_name": "com.eusoft.dehelper_44.apk",
+        "app_activity": "com.eusoft.dict.activity.SplashActivity"
+    },
+    {
+        "app_name": "泰文翻译",
+        "package_name": "com.thailand.translllate",
+        "file_name": "com.thailand.translllate_45.apk",
+        "app_activity": "com.singxa.interpreter.MainActivity"
+    },
+    {
+        "app_name": "泰D词典",
+        "package_name": "com.thdict.zh",
+        "file_name": "com.thdict.zh_46.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "lecture",
+        "package_name": "com.lect.mate",
+        "file_name": "com.lect.mate_47.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "环球翻译官",
+        "package_name": "com.tjyc.huanqfyg",
+        "file_name": "com.tjyc.huanqfyg_48.apk",
+        "app_activity": "com.tjyc.huanqfyg.ui.SplashActivity"
+    },
+    {
+        "app_name": "法语翻译",
+        "package_name": "com.frenchlarn.translation",
+        "file_name": "com.frenchlarn.translation_49.apk",
+        "app_activity": "com.frenchlarn.translation.act.SplashPreActivity"
+    },
+    {
+        "app_name": "英语翻译官",
+        "package_name": "com.joyband.tranlatorbyfinalhw",
+        "file_name": "com.joyband.tranlatorbyfinalhw_50.apk",
+        "app_activity": "com.tad.SplashActivity"
+    },
+    {
+        "app_name": "蒙汉翻译君",
+        "package_name": "com.elipbe.mu",
+        "file_name": "com.elipbe.mu_51.apk",
+        "app_activity": "com.elipbe.ztrans.ui.activity.InitActivity"
+    },
+    {
+        "app_name": "哈汉翻译君",
+        "package_name": "com.elipbe.qa",
+        "file_name": "com.elipbe.qa_52.apk",
+        "app_activity": "com.elipbe.ztrans.ui.activity.InitActivity"
+    },
+    {
+        "app_name": "维汉翻译君",
+        "package_name": "com.elipbe.uy",
+        "file_name": "com.elipbe.uy_53.apk",
+        "app_activity": "com.elipbe.ztrans.ui.activity.InitActivity"
+    },
+    {
+        "app_name": "藏汉翻译君",
+        "package_name": "com.elipbe.za",
+        "file_name": "com.elipbe.za_54.apk",
+        "app_activity": "com.elipbe.ztrans.ui.activity.InitActivity"
+    },
+    {
+        "app_name": "俄语翻译官",
+        "package_name": "com.cntransendic.translate",
+        "file_name": "com.cntransendic.translate_55.apk",
+        "app_activity": "com.cntransendic.translate.act.SplashPreActivity"
+    },
+    {
+        "app_name": "诺原字幕翻译",
+        "package_name": "com.nuoyuan.subtitle",
+        "file_name": "com.nuoyuan.subtitle_56.apk",
+        "app_activity": "com.nuoyuan.subtitle.module.SplashActivity"
+    },
+    {
+        "app_name": "英语翻译助手",
+        "package_name": "cn.weilaihongtech.translator",
+        "file_name": "cn.weilaihongtech.translator_57.apk",
+        "app_activity": "cn.qiaolatech.translate2.MainActivity"
+    },
+    {
+        "app_name": "AI智能翻译通",
+        "package_name": "com.hy.aifanyitong",
+        "file_name": "com.hy.aifanyitong_58.apk",
+        "app_activity": "com.feisu.app.SplashActivity"
+    },
+    {
+        "app_name": "外语拍照翻译机",
+        "package_name": "com.chenxing.phototranslation",
+        "file_name": "com.chenxing.phototranslation_59.apk",
+        "app_activity": "com.twx.adlibrary.SplashActivity"
+    },
+    {
+        "app_name": "iTWS",
+        "package_name": "com.qjzn.earphone",
+        "file_name": "com.qjzn.earphone_60.apk",
+        "app_activity": "com.qjzn.earphone.view.IndexActivity"
+    },
+    {
+        "app_name": "智能翻译宝",
+        "package_name": "com.znfybiap.wd",
+        "file_name": "com.znfybiap.wd_61.apk",
+        "app_activity": "com.main.wd.activity.LauncherActivity"
+    },
+    {
+        "app_name": "同声传译",
+        "package_name": "com.syncxyz.translation",
+        "file_name": "com.syncxyz.translation_62.apk",
+        "app_activity": "com.syncxyz.translation.act.SplashPreActivity"
+    },
+    {
+        "app_name": "中英文翻译",
+        "package_name": "com.tr.translatefi",
+        "file_name": "com.tr.translatefi_63.apk",
+        "app_activity": "com.sq.translate.activity.SplashActivity"
+    },
+    {
+        "app_name": "翻译小助手",
+        "package_name": "com.lingzhi.mytranslate",
+        "file_name": "com.lingzhi.mytranslate_64.apk",
+        "app_activity": "com.lingzhi.mytranslate.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "中英互译官",
+        "package_name": "com.tanyun.zyhyg",
+        "file_name": "com.tanyun.zyhyg_65.apk",
+        "app_activity": "com.geetol.ten_languagetranslation.activity.LaunchActivity"
+    },
+    {
+        "app_name": "猫语交流翻译器",
+        "package_name": "apache.translate.pets",
+        "file_name": "apache.translate.pets_66.apk",
+        "app_activity": "apache.rio.pets.ui.SplashActivity"
+    },
+    {
+        "app_name": "文言文翻译助手",
+        "package_name": "com.singxie.wyw",
+        "file_name": "com.singxie.wyw_67.apk",
+        "app_activity": "com.singxie.wyw.SplashActivity"
+    },
+    {
+        "app_name": "现代藏语对照词典",
+        "package_name": "com.dacd.dictionarydlc.dictionarydlc",
+        "file_name": "com.dacd.dictionarydlc.dictionarydlc_68.apk",
+        "app_activity": "com.dacd.dictionarydlc.dictionarydlc.SplashActivity"
+    },
+    {
+        "app_name": "全能翻译宝",
+        "package_name": "com.fanyiiap.wd",
+        "file_name": "com.fanyiiap.wd_69.apk",
+        "app_activity": "com.main.wd.activity.LauncherActivity"
+    },
+    {
+        "app_name": "云杰翻译",
+        "package_name": "xyz.g2tools.translator",
+        "file_name": "xyz.g2tools.translator_70.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "AR拍照翻译器",
+        "package_name": "com.yczj.arpzfyq",
+        "file_name": "com.yczj.arpzfyq_71.apk",
+        "app_activity": "com.yczj.arpzfyq.ui.SplashActivity"
+    },
+    {
+        "app_name": "中英语音同声翻译",
+        "package_name": "com.cjtec.translate",
+        "file_name": "com.cjtec.translate_72.apk",
+        "app_activity": "com.cjtec.translate.mvp.activity.SplashActivity"
+    },
+    {
+        "app_name": "译妙蛙翻译官",
+        "package_name": "com.lp.translate",
+        "file_name": "com.lp.translate_73.apk",
+        "app_activity": "com.lp.translate.activity.basic.SplashActivity"
+    },
+    {
+        "app_name": "随手翻译",
+        "package_name": "com.ptranslation.pt",
+        "file_name": "com.ptranslation.pt_74.apk",
+        "app_activity": "com.ptranslation.pt.ui.guide.WelcomeActivity"
+    },
+    {
+        "app_name": "萝卜词典",
+        "package_name": "com.smartsheng.radishdict",
+        "file_name": "com.smartsheng.radishdict_75.apk",
+        "app_activity": "com.smartsheng.radishdict.MainActivity"
+    },
+    {
+        "app_name": "英语翻译",
+        "package_name": "cn.qiaolatech.fanyi",
+        "file_name": "cn.qiaolatech.fanyi_76.apk",
+        "app_activity": "cn.qiaolatech.translate2.MainActivity"
+    },
+    {
+        "app_name": "人猫人狗翻译器",
+        "package_name": "weilaihongtech.translate.pet",
+        "file_name": "weilaihongtech.translate.pet_77.apk",
+        "app_activity": "apache.rio.pets.ui.SplashActivity"
+    },
+    {
+        "app_name": "缅甸语翻译助手",
+        "package_name": "com.burma.translator",
+        "file_name": "com.burma.translator_78.apk",
+        "app_activity": "com.transyi.german_translate.MainActivity"
+    },
+    {
+        "app_name": "中英互译神器",
+        "package_name": "com.major.tanstool",
+        "file_name": "com.major.tanstool_79.apk",
+        "app_activity": "com.major.tanstool.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "出国翻译软件",
+        "package_name": "com.hjkj66.cgfy",
+        "file_name": "com.hjkj66.cgfy_80.apk",
+        "app_activity": "com.geetol.interpreter.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "论文翻译",
+        "package_name": "com.minshiting.translator",
+        "file_name": "com.minshiting.translator_81.apk",
+        "app_activity": "cn.qiaolatech.translate2.MainActivity"
+    },
+    {
+        "app_name": "Xalhar翻译",
+        "package_name": "com.xalhar.fanyi",
+        "file_name": "com.xalhar.fanyi_82.apk",
+        "app_activity": "com.xalhar.fanyi.MainActivity"
+    },
+    {
+        "app_name": "韩语学习神器",
+        "package_name": "com.hanyuskd.xue",
+        "file_name": "com.hanyuskd.xue_83.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "译准翻译官",
+        "package_name": "com.yizhun.translationaccuracy",
+        "file_name": "com.yizhun.translationaccuracy_84.apk",
+        "app_activity": "com.yizhun.translationaccuracy.view.login.SplashActivity"
+    },
+    {
+        "app_name": "同声译",
+        "package_name": "com.cstor.cstortranslantion",
+        "file_name": "com.cstor.cstortranslantion_85.apk",
+        "app_activity": "com.cstor.cstortranslantion.ui.start.WelcomeActivity"
+    },
+    {
+        "app_name": "中英互译翻译器",
+        "package_name": "com.lvxing.transl",
+        "file_name": "com.lvxing.transl_86.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "英语翻译软件王",
+        "package_name": "com.bm.trans",
+        "file_name": "com.bm.trans_87.apk",
+        "app_activity": "com.trans.trans_project.activity.SplashActiviy"
+    },
+    {
+        "app_name": "拍照翻译",
+        "package_name": "cn.njchulitech.translator",
+        "file_name": "cn.njchulitech.translator_88.apk",
+        "app_activity": "com.yourcompany.translate.MainActivity"
+    },
+    {
+        "app_name": "迅捷翻译",
+        "package_name": "com.hudun.translation",
+        "file_name": "com.hudun.translation_89.apk",
+        "app_activity": "com.hudun.translation.ui.activity.LaunchPageActivity"
+    },
+    {
+        "app_name": "全球翻译官",
+        "package_name": "com.yiling.translate.app",
+        "file_name": "com.yiling.translate.app_90.apk",
+        "app_activity": "com.yiling.translate.module.main.YLSplashActivity"
+    },
+    {
+        "app_name": "PDF扫描翻译全能王",
+        "package_name": "cn.jjpengcheng.translator",
+        "file_name": "cn.jjpengcheng.translator_91.apk",
+        "app_activity": "cn.qiaolatech.translate2.MainActivity"
+    },
+    {
+        "app_name": "英语拍照翻译官",
+        "package_name": "yypzfyg.zhaoxu.cn",
+        "file_name": "yypzfyg.zhaoxu.cn_92.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "文言文翻译",
+        "package_name": "lf.ranslate.wyw",
+        "file_name": "lf.ranslate.wyw_93.apk",
+        "app_activity": "lf.MainRun.Start_main_Run_Activity"
+    },
+    {
+        "app_name": "你们的翻译官",
+        "package_name": "com.xuanzhen.translate",
+        "file_name": "com.xuanzhen.translate_94.apk",
+        "app_activity": "com.xuanzhen.translate.xuanzmodule.main.XuanzSplashActivity"
+    },
+    {
+        "app_name": "查查日语词典",
+        "package_name": "net.ichacha.jp",
+        "file_name": "net.ichacha.jp_95.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "东噶大辞典",
+        "package_name": "com.example.zangdic",
+        "file_name": "com.example.zangdic_96.apk",
+        "app_activity": "com.example.zangdic.MainActivity"
+    },
+    {
+        "app_name": "智能翻译君",
+        "package_name": "com.hy.translate",
+        "file_name": "com.hy.translate_97.apk",
+        "app_activity": "com.hy.translate.activity.SplashActivity"
+    },
+    {
+        "app_name": "论文英译汉",
+        "package_name": "cn.jinrishuiyin.translator",
+        "file_name": "cn.jinrishuiyin.translator_98.apk",
+        "app_activity": "cn.qiaolatech.translate2.MainActivity"
+    },
+    {
+        "app_name": "中英互译Deepl拍照翻译",
+        "package_name": "cn.jingliangtech.translator",
+        "file_name": "cn.jingliangtech.translator_99.apk",
+        "app_activity": "cn.qiaolatech.translate2.MainActivity"
+    },
+    {
+        "app_name": "实时翻译",
+        "package_name": "com.yuanyu.shishifanyi",
+        "file_name": "com.yuanyu.shishifanyi_100.apk",
+        "app_activity": "com.yuanyu.shishifanyi.ui.activitys.StartPageActivity"
+    },
+    {
+        "app_name": "Mr.Translator",
+        "package_name": "com.qb.qtranslator",
+        "file_name": "com.qb.qtranslator_101.apk",
+        "app_activity": "com.qb.qtranslator.qactivity.SplashActivity"
+    },
+    {
+        "app_name": "麦阿尼阿汉词典",
+        "package_name": "com.newmoon.arabic.dictionary",
+        "file_name": "com.newmoon.arabic.dictionary_102.apk",
+        "app_activity": "com.newmoon.arabic.dictionary.Activities.Splash.SplashActivity"
+    },
+    {
+        "app_name": "英语翻译君",
+        "package_name": "teredy.com.translator",
+        "file_name": "teredy.com.translator_103.apk",
+        "app_activity": "cn.qiaolatech.translate2.MainActivity"
+    },
+    {
+        "app_name": "蒙古文翻译词典",
+        "package_name": "com.sjfc.mgwfycd",
+        "file_name": "com.sjfc.mgwfycd_104.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "AI扫描翻译王",
+        "package_name": "com.daiwenwei.translator",
+        "file_name": "com.daiwenwei.translator_105.apk",
+        "app_activity": "cn.qiaolatech.translate2.MainActivity"
+    },
+    {
+        "app_name": "猫狗语翻译交流器",
+        "package_name": "com.example.wurenxiangwo.catdog",
+        "file_name": "com.example.wurenxiangwo.catdog_106.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "翻译王",
+        "package_name": "com.yodao.ai",
+        "file_name": "com.yodao.ai_107.apk",
+        "app_activity": "com.yodao.ai.app.translate.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "春兰思AI智能翻译平台",
+        "package_name": "com.cnasoft.translate",
+        "file_name": "com.cnasoft.translate_108.apk",
+        "app_activity": "com.cnasoft.translate.MainActivity"
+    },
+    {
+        "app_name": "粤语翻译",
+        "package_name": "com.yiyou.cantonesetranslation",
+        "file_name": "com.yiyou.cantonesetranslation_109.apk",
+        "app_activity": "com.yiyou.cantonesetranslation.ui.main.activity.LauncherActivity"
+    },
+    {
+        "app_name": "西语助手",
+        "package_name": "com.eusoft.eshelper",
+        "file_name": "com.eusoft.eshelper_110.apk",
+        "app_activity": "com.eusoft.dict.activity.SplashActivity"
+    },
+    {
+        "app_name": "疯狂翻译师",
+        "package_name": "com.backlight.translation",
+        "file_name": "com.backlight.translation_111.apk",
+        "app_activity": "com.backlight.translation.MainActivity"
+    },
+    {
+        "app_name": "中英翻译君",
+        "package_name": "com.rjiang.zyfyj",
+        "file_name": "com.rjiang.zyfyj_112.apk",
+        "app_activity": "com.geetol.ten_languagetranslation.activity.LaunchActivity"
+    },
+    {
+        "app_name": "拍照翻译君",
+        "package_name": "com.translate.software",
+        "file_name": "com.translate.software_113.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "环旅翻译器",
+        "package_name": "com.blueteam.trans",
+        "file_name": "com.blueteam.trans_114.apk",
+        "app_activity": "com.blueteam.audio.activity.SplashActivity"
+    },
+    {
+        "app_name": "云岭翻译",
+        "package_name": "com.kmust.itranslation",
+        "file_name": "com.kmust.itranslation_115.apk",
+        "app_activity": "com.kmust.itranslation.MainActivity"
+    },
+    {
+        "app_name": "新法汉词典",
+        "package_name": "cn.dictcn.android.digitize.yw_xfh_11001",
+        "file_name": "cn.dictcn.android.digitize.yw_xfh_11001_116.apk",
+        "app_activity": "cn.dictcn.android.digitize.activity.StartActivity"
+    },
+    {
+        "app_name": "论文翻译助手",
+        "package_name": "cn.gemaodiannet.translator",
+        "file_name": "cn.gemaodiannet.translator_117.apk",
+        "app_activity": "cn.qiaolatech.translate2.MainActivity"
+    },
+    {
+        "app_name": "智能翻译王",
+        "package_name": "com.smart.translation.king",
+        "file_name": "com.smart.translation.king_118.apk",
+        "app_activity": "com.translator.simple.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "日语翻译官",
+        "package_name": "com.japanesetran.japa",
+        "file_name": "com.japanesetran.japa_119.apk",
+        "app_activity": "com.japanesetran.japa.act.SplashPreActivity"
+    },
+    {
+        "app_name": "粤语翻译神器",
+        "package_name": "com.luoyu.yueyu",
+        "file_name": "com.luoyu.yueyu_120.apk",
+        "app_activity": "com.luoyu.yueyu.FirstActivity"
+    },
+    {
+        "app_name": "藏汉翻译",
+        "package_name": "com.cdtec.zytrans",
+        "file_name": "com.cdtec.zytrans_121.apk",
+        "app_activity": "com.cdtec.zytrans.splash.SplashActivity"
+    },
+    {
+        "app_name": "截图翻译器",
+        "package_name": "com.luo.screentranslator",
+        "file_name": "com.luo.screentranslator_122.apk",
+        "app_activity": "com.luo.screentranslator.AD.FirstActivity"
+    },
+    {
+        "app_name": "巧学背单词",
+        "package_name": "com.maituo.memorizewords",
+        "file_name": "com.maituo.memorizewords_123.apk",
+        "app_activity": "com.maituo.memorizewords.activity.SplashActivity"
+    },
+    {
+        "app_name": "翻译应用软件",
+        "package_name": "zykj.com.translate",
+        "file_name": "zykj.com.translate_124.apk",
+        "app_activity": "com.zongyikj.com.translator.MainActivity"
+    },
+    {
+        "app_name": "云福哈萨克语",
+        "package_name": "com.yunchuan.kazakh",
+        "file_name": "com.yunchuan.kazakh_125.apk",
+        "app_activity": "com.yunchuan.kazakh.SplashActivity"
+    },
+    {
+        "app_name": "德语翻译官",
+        "package_name": "com.germanlator.trans",
+        "file_name": "com.germanlator.trans_126.apk",
+        "app_activity": "com.cntransendic.translate.act.SplashPreActivity"
+    },
+    {
+        "app_name": "越语翻译全能王",
+        "package_name": "com.wordtrans.vietnam",
+        "file_name": "com.wordtrans.vietnam_127.apk",
+        "app_activity": "com.wordtrans.vietnam.activity.LauncherActivity"
+    },
+    {
+        "app_name": "英文翻译王",
+        "package_name": "com.ni.translateni",
+        "file_name": "com.ni.translateni_128.apk",
+        "app_activity": "com.sq.translate.activity.SplashActivity"
+    },
+    {
+        "app_name": "超级单词表",
+        "package_name": "com.jtsee.superwords",
+        "file_name": "com.jtsee.superwords_129.apk",
+        "app_activity": "com.jtsee.superwords.MainActivity"
+    },
+    {
+        "app_name": "欧路词典",
+        "package_name": "com.eusoft.eudic",
+        "file_name": "com.eusoft.eudic_130.apk",
+        "app_activity": "com.eusoft.dict.activity.SplashActivity"
+    },
+    {
+        "app_name": "iTourBuds",
+        "package_name": "com.translator.translatordevice",
+        "file_name": "com.translator.translatordevice_131.apk",
+        "app_activity": "com.translator.translatordevice.login.SplashActivity"
+    },
+    {
+        "app_name": "新牛津英汉双解大词典",
+        "package_name": "cn.dictcn.android.digitize.oxford_necdict_17001",
+        "file_name": "cn.dictcn.android.digitize.oxford_necdict_17001_132.apk",
+        "app_activity": "cn.dictcn.android.digitize.module.init.ui.InitActivity"
+    },
+    {
+        "app_name": "外研社法语",
+        "package_name": "cn.dictcn.android.digitize.wys_fycd_8033",
+        "file_name": "cn.dictcn.android.digitize.wys_fycd_8033_133.apk",
+        "app_activity": "cn.dictcn.android.digitize.module.init.ui.InitActivity"
+    },
+    {
+        "app_name": "出国翻译器",
+        "package_name": "com.ideack.speech",
+        "file_name": "com.ideack.speech_134.apk",
+        "app_activity": "com.ideack.speech.view.aty.SplashAty"
+    },
+    {
+        "app_name": "手机文档翻译",
+        "package_name": "cn.qiutinghe.translator",
+        "file_name": "cn.qiutinghe.translator_135.apk",
+        "app_activity": "cn.qiaolatech.translate2.MainActivity"
+    },
+    {
+        "app_name": "随身翻译官",
+        "package_name": "com.ssfyg.app",
+        "file_name": "com.ssfyg.app_136.apk",
+        "app_activity": "com.commonLib.libs.base.ui.SplashFullVideoActivity"
+    },
+    {
+        "app_name": "PROMT.One Translator",
+        "package_name": "com.promt.hwcn",
+        "file_name": "com.promt.hwcn_137.apk",
+        "app_activity": "com.promt.pmtappfree.HwTRRUActivity"
+    },
+    {
+        "app_name": "网易有道词典",
+        "package_name": "com.youdao.dict",
+        "file_name": "com.youdao.dict_138.apk",
+        "app_activity": "com.youdao.dict.activity.DictSplashActivity"
+    },
+    {
+        "app_name": "班智达翻译",
+        "package_name": "tech.bzd.lotsa",
+        "file_name": "tech.bzd.lotsa_139.apk",
+        "app_activity": "tech.bzd.lotsa.MainActivity"
+    },
+    {
+        "app_name": "智能语音翻译官",
+        "package_name": "com.znfyg.app",
+        "file_name": "com.znfyg.app_140.apk",
+        "app_activity": "com.commonLib.libs.base.ui.SplashFullVideoActivity"
+    },
+    {
+        "app_name": "Navi韩语社",
+        "package_name": "com.sjfc.navihys",
+        "file_name": "com.sjfc.navihys_141.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "Navi日语社",
+        "package_name": "com.sjfc.navirys",
+        "file_name": "com.sjfc.navirys_142.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "阳光老挝语",
+        "package_name": "com.laostudy.lwyread",
+        "file_name": "com.laostudy.lwyread_143.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "阿拉伯语翻译通",
+        "package_name": "com.sjfc.albfyt",
+        "file_name": "com.sjfc.albfyt_144.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "扎雅德语词典",
+        "package_name": "cn.zhayadeutsch.zydycd",
+        "file_name": "cn.zhayadeutsch.zydycd_145.apk",
+        "app_activity": "cn.zhayadeutsch.zydycd.MainActivity"
+    },
+    {
+        "app_name": "藏语翻译",
+        "package_name": "com.yunchuan.zangyu",
+        "file_name": "com.yunchuan.zangyu_146.apk",
+        "app_activity": "com.yunchuan.zangyu.SplashActivity"
+    },
+    {
+        "app_name": "俄语翻译通",
+        "package_name": "com.sjfc.eyfyt",
+        "file_name": "com.sjfc.eyfyt_147.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "哈汉翻译通",
+        "package_name": "com.sjfc.hhfyt",
+        "file_name": "com.sjfc.hhfyt_148.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "老挝语翻译通",
+        "package_name": "com.sjfc.lwfyt",
+        "file_name": "com.sjfc.lwfyt_149.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "蒙汉翻译通",
+        "package_name": "com.sjfc.mhfyt",
+        "file_name": "com.sjfc.mhfyt_150.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "iTerjiman",
+        "package_name": "com.elipbe.trans",
+        "file_name": "com.elipbe.trans_151.apk",
+        "app_activity": "com.elipbe.trans.MainActivity"
+    },
+    {
+        "app_name": "泰语翻译通",
+        "package_name": "com.sjfc.tyfyt",
+        "file_name": "com.sjfc.tyfyt_152.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "维汉翻译通",
+        "package_name": "com.sjfc.wyfyt",
+        "file_name": "com.sjfc.wyfyt_153.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "彝文翻译通",
+        "package_name": "com.sjfc.ywfyt",
+        "file_name": "com.sjfc.ywfyt_154.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "拍照立即翻译",
+        "package_name": "com.pzfyssiap.wd",
+        "file_name": "com.pzfyssiap.wd_155.apk",
+        "app_activity": "tbUhyMRfF.CDNZnVXoSF"
+    },
+    {
+        "app_name": "同声语音翻译机软件",
+        "package_name": "com.yuanli.phonetictranslation",
+        "file_name": "com.yuanli.phonetictranslation_156.apk",
+        "app_activity": "com.yuanli.phonetictranslation.mvp.ui.activity.flashActivity"
+    },
+    {
+        "app_name": "拍照翻译王",
+        "package_name": "com.mayt.ai.smarttranslate",
+        "file_name": "com.mayt.ai.smarttranslate_157.apk",
+        "app_activity": "com.mayt.ai.smarttranslate.Activity.StartingActivity"
+    },
+    {
+        "app_name": "即刻翻译",
+        "package_name": "com.ifanyi.dm.translator",
+        "file_name": "com.ifanyi.dm.translator_158.apk",
+        "app_activity": "com.ifanyi.dm.translator.SplashActivity"
+    },
+    {
+        "app_name": "彩云小译",
+        "package_name": "com.caiyuninterpreter.activity",
+        "file_name": "com.caiyuninterpreter.activity_159.apk",
+        "app_activity": "com.caiyuninterpreter.activity.activity.SplashActivity"
+    },
+    {
+        "app_name": "快译英语翻译",
+        "package_name": "com.kmsoft.translator",
+        "file_name": "com.kmsoft.translator_160.apk",
+        "app_activity": "com.kmsoft.translator.activity.SplashActivity"
+    },
+    {
+        "app_name": "柬埔寨语翻译通",
+        "package_name": "com.sjfc.jpzfyt",
+        "file_name": "com.sjfc.jpzfyt_161.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "语音翻译器",
+        "package_name": "com.speechlanguage.translation",
+        "file_name": "com.speechlanguage.translation_162.apk",
+        "app_activity": "com.speechlanguage.translation.act.SplashPreActivity"
+    },
+    {
+        "app_name": "俄语学习通",
+        "package_name": "com.eyuxue.ksje",
+        "file_name": "com.eyuxue.ksje_163.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "英汉翻译",
+        "package_name": "com.multilingual.translate",
+        "file_name": "com.multilingual.translate_164.apk",
+        "app_activity": "com.multilingual.translate.act.SplashPreActivity"
+    },
+    {
+        "app_name": "阿语翻译助手",
+        "package_name": "com.arabic.translationn",
+        "file_name": "com.arabic.translationn_165.apk",
+        "app_activity": "com.arabic.translationn.activity.LauncherActivity"
+    },
+    {
+        "app_name": "同声翻译超级版",
+        "package_name": "android.translate.xuedianba",
+        "file_name": "android.translate.xuedianba_166.apk",
+        "app_activity": "com.okmyapp.trans.WelcomeActivity"
+    },
+    {
+        "app_name": "印尼语翻译通",
+        "package_name": "com.sjfc.yinnifyt",
+        "file_name": "com.sjfc.yinnifyt_167.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "实时翻译官",
+        "package_name": "com.realtime.translator",
+        "file_name": "com.realtime.translator_168.apk",
+        "app_activity": "com.translate.android.menu.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "韩语翻译器",
+        "package_name": "com.multilingual.translat.multilingual_translat",
+        "file_name": "com.multilingual.translat.multilingual_translat_169.apk",
+        "app_activity": "com.multilingual.translat.multilingual_translat.MainActivity"
+    },
+    {
+        "app_name": "iTourTranslator",
+        "package_name": "com.tangdi.baiguotong",
+        "file_name": "com.tangdi.baiguotong_170.apk",
+        "app_activity": "com.tangdi.baiguotong.modules.login.SplashActivity"
+    },
+    {
+        "app_name": "同声翻译",
+        "package_name": "com.yanlv.translate3",
+        "file_name": "com.yanlv.translate3_171.apk",
+        "app_activity": "com.yanlv.translate3.ui.activitys.StartPageActivity"
+    },
+    {
+        "app_name": "同传翻译",
+        "package_name": "com.yanlv.translate4",
+        "file_name": "com.yanlv.translate4_172.apk",
+        "app_activity": "com.yanlv.translate4.ui.activitys.StartPageActivity"
+    },
+    {
+        "app_name": "百度翻译",
+        "package_name": "com.baidu.baidutranslate",
+        "file_name": "com.baidu.baidutranslate_173.apk",
+        "app_activity": "com.baidu.baidutranslate.activity.SplashActivity"
+    },
+    {
+        "app_name": "DB翻译",
+        "package_name": "com.db.translate.app",
+        "file_name": "com.db.translate.app_174.apk",
+        "app_activity": "com.example.screent.MainWebSplashActivity"
+    },
+    {
+        "app_name": "泰语翻译助手",
+        "package_name": "plus.H50168B11",
+        "file_name": "plus.H50168B11_175.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "沉浸式翻译",
+        "package_name": "com.chenjin.she",
+        "file_name": "com.chenjin.she_176.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "图片文字扫描王",
+        "package_name": "com.kuaifanxin.imagescanking",
+        "file_name": "com.kuaifanxin.imagescanking_177.apk",
+        "app_activity": "com.jtjsb.takingphotos.WelcomeActivity"
+    },
+    {
+        "app_name": "邻国泰语",
+        "package_name": "wtyt.dsty.com",
+        "file_name": "wtyt.dsty.com_178.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "英语翻译帮",
+        "package_name": "com.yyfyb.byzxy",
+        "file_name": "com.yyfyb.byzxy_179.apk",
+        "app_activity": "com.tad.SplashActivity"
+    },
+    {
+        "app_name": "彩豆翻译",
+        "package_name": "com.jiadi.fanyiruanjian",
+        "file_name": "com.jiadi.fanyiruanjian_180.apk",
+        "app_activity": "com.jiadi.fanyiruanjian.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "全能翻译王",
+        "package_name": "com.litemob.fanyi",
+        "file_name": "com.litemob.fanyi_181.apk",
+        "app_activity": "com.litemob.mfanyi.activity.StartActivity"
+    },
+    {
+        "app_name": "智慧宫翻译",
+        "package_name": "com.zhg",
+        "file_name": "com.zhg_182.apk",
+        "app_activity": "com.zhg.MainActivity"
+    },
+    {
+        "app_name": "西语翻译器",
+        "package_name": "com.spain.fanyi",
+        "file_name": "com.spain.fanyi_183.apk",
+        "app_activity": "com.spain.fanyi.flutter_spanish_translate.MainActivity"
+    },
+    {
+        "app_name": "班智达词典",
+        "package_name": "tech.bzd.dict",
+        "file_name": "tech.bzd.dict_184.apk",
+        "app_activity": "tech.bzd.dict.MainActivity"
+    },
+    {
+        "app_name": "藏汉翻译通",
+        "package_name": "com.sjfc.zhhy",
+        "file_name": "com.sjfc.zhhy_185.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "翻译鹅",
+        "package_name": "com.mingyangtek.fye",
+        "file_name": "com.mingyangtek.fye_186.apk",
+        "app_activity": "com.mingyangtek.fye.activity.SplashActivity"
+    },
+    {
+        "app_name": "康熙古汉语字典",
+        "package_name": "com.luoyu.kangxi",
+        "file_name": "com.luoyu.kangxi_187.apk",
+        "app_activity": "com.luoyu.kangxi.FirstActivity"
+    },
+    {
+        "app_name": "简易翻译",
+        "package_name": "com.lalala.translate.tools",
+        "file_name": "com.lalala.translate.tools_188.apk",
+        "app_activity": "com.tools.app.ui.SplashActivity"
+    },
+    {
+        "app_name": "翻译管家",
+        "package_name": "com.fygj.byzxy",
+        "file_name": "com.fygj.byzxy_189.apk",
+        "app_activity": "com.tad.SplashActivity"
+    },
+    {
+        "app_name": "中华词典",
+        "package_name": "com.zss.zhzd",
+        "file_name": "com.zss.zhzd_190.apk",
+        "app_activity": "com.example.newdictionaries.activity.AdSplashActivity"
+    },
+    {
+        "app_name": "越南语翻译通",
+        "package_name": "com.sjfc.ynyfyt",
+        "file_name": "com.sjfc.ynyfyt_191.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "文言文翻译字典",
+        "package_name": "com.luoyu.wenyanwen",
+        "file_name": "com.luoyu.wenyanwen_192.apk",
+        "app_activity": "com.luoyu.wenyanwen.FirstActivity"
+    },
+    {
+        "app_name": "语音翻译",
+        "package_name": "com.vocienyxtrans.translation",
+        "file_name": "com.vocienyxtrans.translation_193.apk",
+        "app_activity": "com.vocienyxtrans.translation.act.SplashPreActivity"
+    },
+    {
+        "app_name": "藏文翻译词典",
+        "package_name": "com.sjfc.zwfycd",
+        "file_name": "com.sjfc.zwfycd_194.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "中英翻译通",
+        "package_name": "com.cschidu.zyfyt",
+        "file_name": "com.cschidu.zyfyt_195.apk",
+        "app_activity": "com.geetol.ten_languagetranslation.activity.LaunchActivity"
+    },
+    {
+        "app_name": "金牌翻译官",
+        "package_name": "cylxx.jpfyg.kmou",
+        "file_name": "cylxx.jpfyg.kmou_196.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "法语翻译学习",
+        "package_name": "com.transyi.french",
+        "file_name": "com.transyi.french_197.apk",
+        "app_activity": "com.transyi.french.MainActivity"
+    },
+    {
+        "app_name": "TransGull",
+        "package_name": "com.fanyiou.translator",
+        "file_name": "com.fanyiou.translator_198.apk",
+        "app_activity": "com.mvp.activity.SplashActivity"
+    },
+    {
+        "app_name": "英语音标零基础学习",
+        "package_name": "com.yyybxx.byzxy",
+        "file_name": "com.yyybxx.byzxy_199.apk",
+        "app_activity": "com.tad.SplashActivity"
+    },
+    {
+        "app_name": "出国游翻译",
+        "package_name": "com.zhongkeyixun.translator",
+        "file_name": "com.zhongkeyixun.translator_200.apk",
+        "app_activity": "cn.zhongkeyixun.translate9.MainActivity"
+    },
+    {
+        "app_name": "英汉互译",
+        "package_name": "com.wordbook.sunshine",
+        "file_name": "com.wordbook.sunshine_201.apk",
+        "app_activity": "com.wordbook.sunshine.page.splash.SplashActivity"
+    },
+    {
+        "app_name": "TibeticEnglish",
+        "package_name": "com.mvtrail.xiaomi.tibeticenglish",
+        "file_name": "com.mvtrail.xiaomi.tibeticenglish_202.apk",
+        "app_activity": "com.mvtrail.common.act.SplashActivity"
+    },
+    {
+        "app_name": "口语翻译官",
+        "package_name": "com.runjian.oraltrans",
+        "file_name": "com.runjian.oraltrans_203.apk",
+        "app_activity": "com.runjian.oraltrans.ui.main.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "维汉翻译",
+        "package_name": "com.barmak.trans",
+        "file_name": "com.barmak.trans_204.apk",
+        "app_activity": "com.barmak.trans.splash.SplashActivity"
+    },
+    {
+        "app_name": "Our Translator",
+        "package_name": "com.example.quickapplication",
+        "file_name": "com.example.quickapplication_205.apk",
+        "app_activity": "com.example.quickapplication.activity.SplashActivity"
+    },
+    {
+        "app_name": "韩语翻译官",
+        "package_name": "com.cntokoreantrans.korean",
+        "file_name": "com.cntokoreantrans.korean_206.apk",
+        "app_activity": "com.cntokoreantrans.korean.act.SplashPreActivity"
+    },
+    {
+        "app_name": "拍照翻译官",
+        "package_name": "com.mayt.ai.picturetransistor",
+        "file_name": "com.mayt.ai.picturetransistor_207.apk",
+        "app_activity": "com.mayt.ai.picturetransistor.Activity.StartingActivity"
+    },
+    {
+        "app_name": "西班牙语U学院",
+        "package_name": "com.easysay.espanol",
+        "file_name": "com.easysay.espanol_208.apk",
+        "app_activity": "com.easysay.espanol.ui.welcome.LogoSplashActivity"
+    },
+    {
+        "app_name": "语音翻译器Voice",
+        "package_name": "com.jack.myviocetranslate",
+        "file_name": "com.jack.myviocetranslate_209.apk",
+        "app_activity": "com.jack.myviocetranslate.SplashActivity1"
+    },
+    {
+        "app_name": "LiveTranslator",
+        "package_name": "co.timekettle.livetranslator",
+        "file_name": "co.timekettle.livetranslator_210.apk",
+        "app_activity": "com.timekettle.module_main.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "免费全能翻译官",
+        "package_name": "com.mfqnfyg.app",
+        "file_name": "com.mfqnfyg.app_211.apk",
+        "app_activity": "com.commonLib.libs.base.ui.SplashFullVideoActivity"
+    },
+    {
+        "app_name": "汉英翻译器全能宝",
+        "package_name": "com.cnlanguage.toen",
+        "file_name": "com.cnlanguage.toen_212.apk",
+        "app_activity": "com.cnlanguage.toen.activity.LauncherActivity"
+    },
+    {
+        "app_name": "随身智能翻译器",
+        "package_name": "cn.younina.translator",
+        "file_name": "cn.younina.translator_213.apk",
+        "app_activity": "cn.qiaolatech.translate2.MainActivity"
+    },
+    {
+        "app_name": "字幕翻译君",
+        "package_name": "com.qijia.subtitling",
+        "file_name": "com.qijia.subtitling_214.apk",
+        "app_activity": "com.qijia.subtitling.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "Deep论文翻译",
+        "package_name": "cn.lalwangluo.translator",
+        "file_name": "cn.lalwangluo.translator_215.apk",
+        "app_activity": "cn.qiaolatech.translate2.MainActivity"
+    },
+    {
+        "app_name": "翻译狗",
+        "package_name": "com.qingxun.translationdog",
+        "file_name": "com.qingxun.translationdog_216.apk",
+        "app_activity": "com.qingxun.translationdog.activity.WelcomActivity"
+    },
+    {
+        "app_name": "英语音翻译器",
+        "package_name": "com.ymkj.englishvoicetranslate",
+        "file_name": "com.ymkj.englishvoicetranslate_217.apk",
+        "app_activity": "com.ymkj.englishvoicetranslate.SplashActivity"
+    },
+    {
+        "app_name": "安卓翻译官",
+        "package_name": "com.jmtec.translator",
+        "file_name": "com.jmtec.translator_218.apk",
+        "app_activity": "com.jmtec.translator.ui.guide.WelcomeActivity"
+    },
+    {
+        "app_name": "中英翻译器",
+        "package_name": "com.englishlearnertool.translation",
+        "file_name": "com.englishlearnertool.translation_219.apk",
+        "app_activity": "com.cntransendic.translate.act.SplashPreActivity"
+    },
+    {
+        "app_name": "全能翻译",
+        "package_name": "com.th.translateth",
+        "file_name": "com.th.translateth_220.apk",
+        "app_activity": "com.sq.translate.activity.SplashActivity"
+    },
+    {
+        "app_name": "智能拍照翻译",
+        "package_name": "com.timepreface.translate",
+        "file_name": "com.timepreface.translate_221.apk",
+        "app_activity": "com.sgx.translate.sgxmodule.sgxmain.SgxSplashActivity"
+    },
+    {
+        "app_name": "韩语翻译助手",
+        "package_name": "com.yiyoutran.korean",
+        "file_name": "com.yiyoutran.korean_222.apk",
+        "app_activity": "com.yiyoutran.korean.kor_module.main.activity.LauncherActivity"
+    },
+    {
+        "app_name": "出国翻译宝",
+        "package_name": "com.xindihe.cgfyb",
+        "file_name": "com.xindihe.cgfyb_223.apk",
+        "app_activity": "com.geetol.interpreter.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "环俄网俄语词典",
+        "package_name": "com.huanenet.word",
+        "file_name": "com.huanenet.word_224.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "汉藏英辞典",
+        "package_name": "com.dacd.dictionary",
+        "file_name": "com.dacd.dictionary_225.apk",
+        "app_activity": "com.dacd.dictionary.SplashActivity"
+    },
+    {
+        "app_name": "语音英语翻译大师",
+        "package_name": "com.twx.translate",
+        "file_name": "com.twx.translate_226.apk",
+        "app_activity": "com.twx.adlibrary.SplashActivity"
+    },
+    {
+        "app_name": "粤语翻译帮",
+        "package_name": "com.easysay.yueyutranslation",
+        "file_name": "com.easysay.yueyutranslation_227.apk",
+        "app_activity": "com.easysay.yueyutranslation.ui.common.LogoSplashActivity"
+    },
+    {
+        "app_name": "英语翻译通",
+        "package_name": "com.joyband.tranlatorbymcwl",
+        "file_name": "com.joyband.tranlatorbymcwl_228.apk",
+        "app_activity": "com.tad.SplashActivity"
+    },
+    {
+        "app_name": "拍照翻译大全",
+        "package_name": "com.weigaitech.translator",
+        "file_name": "com.weigaitech.translator_229.apk",
+        "app_activity": "cn.qiaolatech.translate2.MainActivity"
+    },
+    {
+        "app_name": "英语翻译全能王",
+        "package_name": "com.ymkj.englishtranslates",
+        "file_name": "com.ymkj.englishtranslates_230.apk",
+        "app_activity": "com.ymkj.englishtranslates.splash.SplashActivity1"
+    },
+    {
+        "app_name": "藏译通",
+        "package_name": "com.iflytek.tebitan_translate",
+        "file_name": "com.iflytek.tebitan_translate_231.apk",
+        "app_activity": "com.iflytek.tebitan_translate.login.SplashActivity"
+    },
+    {
+        "app_name": "手语词库",
+        "package_name": "uni.UNIFE87F24",
+        "file_name": "uni.UNIFE87F24_232.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "在线翻译神器",
+        "package_name": "com.transfer.diversify",
+        "file_name": "com.transfer.diversify_233.apk",
+        "app_activity": "com.transfer.diversify.activity.LauncherActivity"
+    },
+    {
+        "app_name": "中英文翻译智能王",
+        "package_name": "com.cnaeng.trans",
+        "file_name": "com.cnaeng.trans_234.apk",
+        "app_activity": "com.example.flutter_lang_scheme.MainActivity"
+    },
+    {
+        "app_name": "安卓英语翻译官",
+        "package_name": "com.xenia.trans",
+        "file_name": "com.xenia.trans_235.apk",
+        "app_activity": "com.xenia.trans.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "Dear Translate",
+        "package_name": "com.youdao.translator",
+        "file_name": "com.youdao.translator_236.apk",
+        "app_activity": "com.youdao.translator.activity.LaunchActivity"
+    },
+    {
+        "app_name": "语音翻译官",
+        "package_name": "com.maiyatang.voice",
+        "file_name": "com.maiyatang.voice_237.apk",
+        "app_activity": "com.maiyatang.voice.activity.StartingActivity"
+    },
+    {
+        "app_name": "简明汉语字典",
+        "package_name": "com.ruoxiaoya.simple_dictionary",
+        "file_name": "com.ruoxiaoya.simple_dictionary_238.apk",
+        "app_activity": "com.ruoxiaoya.simple_dictionary.MainActivity"
+    },
+    {
+        "app_name": "AI翻译通",
+        "package_name": "com.hnmg.translate.master",
+        "file_name": "com.hnmg.translate.master_239.apk",
+        "app_activity": "com.tools.app.ui.SplashActivity"
+    }
+]

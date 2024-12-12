@@ -1,0 +1,410 @@
+[
+    {
+        "app_name": "洋老板",
+        "package_name": "com.ibalife.ibaboss",
+        "file_name": "com.ibalife.ibaboss_1.apk",
+        "app_activity": "com.ibalife.ibaboss.MainActivity"
+    },
+    {
+        "app_name": "华人Hbuy",
+        "package_name": "au.com.hbuy.aotong",
+        "file_name": "au.com.hbuy.aotong_2.apk",
+        "app_activity": "au.com.hbuy.aotong.loginregister.activity.SplashActivity"
+    },
+    {
+        "app_name": "别样海外购",
+        "package_name": "com.borderxlab.bieyang",
+        "file_name": "com.borderxlab.bieyang_3.apk",
+        "app_activity": "com.borderxlab.bieyang.presentation.activity.SplashActivity"
+    },
+    {
+        "app_name": "doorzo日淘",
+        "package_name": "com.doorzo.hw",
+        "file_name": "com.doorzo.hw_4.apk",
+        "app_activity": "com.sig.wameiji.MainActivity"
+    },
+    {
+        "app_name": "呜噜呜噜",
+        "package_name": "com.wooloo.mall",
+        "file_name": "com.wooloo.mall_5.apk",
+        "app_activity": "com.wooloo.mall.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "OKWO物流",
+        "package_name": "ru.okwo.app",
+        "file_name": "ru.okwo.app_6.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "海带",
+        "package_name": "com.seatent.haidaiApp",
+        "file_name": "com.seatent.haidaiApp_7.apk",
+        "app_activity": "com.seatent.haidaiApp.MainActivity"
+    },
+    {
+        "app_name": "觅蜂海淘",
+        "package_name": "com.adways.overbees",
+        "file_name": "com.adways.overbees_8.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "cdf澳门上葡京店",
+        "package_name": "com.cdfmembers.shopglp",
+        "file_name": "com.cdfmembers.shopglp_9.apk",
+        "app_activity": "com.shop2cn.hello.SplashActivity"
+    },
+    {
+        "app_name": "游箱",
+        "package_name": "com.carryonex.app",
+        "file_name": "com.carryonex.app_10.apk",
+        "app_activity": "com.carryonex.app.view.activity.splash.StartUpActivity"
+    },
+    {
+        "app_name": "bonpont",
+        "package_name": "com.azoya.cecsbp",
+        "file_name": "com.azoya.cecsbp_11.apk",
+        "app_activity": "com.haituncun.app.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "FragranceNet",
+        "package_name": "com.azoya.cecsfn",
+        "file_name": "com.azoya.cecsfn_12.apk",
+        "app_activity": "com.haituncun.app.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "海购格子",
+        "package_name": "com.huiming.huimingstore",
+        "file_name": "com.huiming.huimingstore_13.apk",
+        "app_activity": "com.huiming.huimingstore.ui.splash.SplashVMActivity"
+    },
+    {
+        "app_name": "ModeSens",
+        "package_name": "com.modesens.androidapp",
+        "file_name": "com.modesens.androidapp_14.apk",
+        "app_activity": "com.modesens.androidapp.mainmodule.LaunchActivity"
+    },
+    {
+        "app_name": "Mytheresa美遴世",
+        "package_name": "com.mytheresa.app.mytheresa",
+        "file_name": "com.mytheresa.app.mytheresa_15.apk",
+        "app_activity": "com.mytheresa.app.mytheresa.MainActivity"
+    },
+    {
+        "app_name": "秒货街",
+        "package_name": "com.company.dawei.dawei",
+        "file_name": "com.company.dawei.dawei_16.apk",
+        "app_activity": "com.company.dawei.dawei.MainActivity"
+    },
+    {
+        "app_name": "会订货",
+        "package_name": "com.chengzi.hdh",
+        "file_name": "com.chengzi.hdh_17.apk",
+        "app_activity": "com.chengzi.apiunion.activity.LaunchActivity"
+    },
+    {
+        "app_name": "az全球购",
+        "package_name": "com.azgo.globalstore",
+        "file_name": "com.azgo.globalstore_19.apk",
+        "app_activity": "com.azgo.globalstore.MainActivity"
+    },
+    {
+        "app_name": "VITKAC",
+        "package_name": "com.azoya.vitkac",
+        "file_name": "com.azoya.vitkac_20.apk",
+        "app_activity": "com.haituncun.app.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "樱岛屋",
+        "package_name": "com.sig.fashion",
+        "file_name": "com.sig.fashion_21.apk",
+        "app_activity": "com.sig.wameiji.MainActivity"
+    },
+    {
+        "app_name": "拔草哦",
+        "package_name": "cn.seven.bacaoo",
+        "file_name": "cn.seven.bacaoo_22.apk",
+        "app_activity": "cn.seven.bacaoo.spash.SpashActivity"
+    },
+    {
+        "app_name": "友阿海外购",
+        "package_name": "com.hnmall.haiwaigou",
+        "file_name": "com.hnmall.haiwaigou_23.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "亚马逊购物",
+        "package_name": "cn.amazon.mShop.android",
+        "file_name": "cn.amazon.mShop.android_24.apk",
+        "app_activity": "com.amazon.mshop.page.activity.LauncherActivity"
+    },
+    {
+        "app_name": "Heyvva",
+        "package_name": "com.xshoudai.store",
+        "file_name": "com.xshoudai.store_25.apk",
+        "app_activity": "com.xshoudai.store.MainActivity"
+    },
+    {
+        "app_name": "国际妈咪",
+        "package_name": "com.guojimami.app",
+        "file_name": "com.guojimami.app_26.apk",
+        "app_activity": "com.global.mami.module.home.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "平行进口车海外代购",
+        "package_name": "com.axehome.www.sea_sell",
+        "file_name": "com.axehome.www.sea_sell_27.apk",
+        "app_activity": "com.axehome.www.sea_sell.ui.activitys.SplashActivity"
+    },
+    {
+        "app_name": "识季",
+        "package_name": "com.intramirror.shiji",
+        "file_name": "com.intramirror.shiji_28.apk",
+        "app_activity": "com.intramirror.shiji.FlashActivity"
+    },
+    {
+        "app_name": "中德商通",
+        "package_name": "com.sgefinder.app",
+        "file_name": "com.sgefinder.app_29.apk",
+        "app_activity": "com.sgefinder.app.MainActivity"
+    },
+    {
+        "app_name": "洋码头",
+        "package_name": "com.ymatou.shop",
+        "file_name": "com.ymatou.shop_30.apk",
+        "app_activity": "com.ymatou.shop.SplashActivity"
+    },
+    {
+        "app_name": "日淘市集Lite",
+        "package_name": "com.wonderfull.ritao_lite",
+        "file_name": "com.wonderfull.ritao_lite_31.apk",
+        "app_activity": "com.wonderfull.ritao.MainActivity"
+    },
+    {
+        "app_name": "闪亮时刻海淘",
+        "package_name": "com.blinghour.app.BlingHourApp",
+        "file_name": "com.blinghour.app.BlingHourApp_32.apk",
+        "app_activity": "com.blinghour.app.BlingHourApp.MainActivity"
+    },
+    {
+        "app_name": "豌豆公主",
+        "package_name": "com.wonderfull.mobileshop",
+        "file_name": "com.wonderfull.mobileshop_33.apk",
+        "app_activity": "com.wonderfull.mobileshop.biz.splash.StartActivity"
+    },
+    {
+        "app_name": "拼直邮Group",
+        "package_name": "pin.guojimami.app",
+        "file_name": "pin.guojimami.app_34.apk",
+        "app_activity": "com.global.mami.module.home.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "ARTI",
+        "package_name": "com.wta.NewCloudApp.jiuwei207279",
+        "file_name": "com.wta.NewCloudApp.jiuwei207279_35.apk",
+        "app_activity": "com.haituncun.app.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "Febee商城",
+        "package_name": "com.wta.NewCloudApp.jiuwei207375",
+        "file_name": "com.wta.NewCloudApp.jiuwei207375_36.apk",
+        "app_activity": "com.haituncun.app.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "澳洲PO官网",
+        "package_name": "com.wta.NewCloudApp.jiuwei208517",
+        "file_name": "com.wta.NewCloudApp.jiuwei208517_37.apk",
+        "app_activity": "com.haituncun.app.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "乐淘一番",
+        "package_name": "com.rebornid.mall",
+        "file_name": "com.rebornid.mall_38.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "日拍特",
+        "package_name": "uni.UNI64720F1",
+        "file_name": "uni.UNI64720F1_39.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "NARUMON南六门",
+        "package_name": "com.narumon.android",
+        "file_name": "com.narumon.android_40.apk",
+        "app_activity": "com.zozo.zozochina.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "PICKPICK",
+        "package_name": "com.baijun.pickpick",
+        "file_name": "com.baijun.pickpick_41.apk",
+        "app_activity": "com.anjiu.flutter_pickpick.MainActivity"
+    },
+    {
+        "app_name": "海外购",
+        "package_name": "com.hzjk.haima",
+        "file_name": "com.hzjk.haima_42.apk",
+        "app_activity": "com.hzjk.haima.activity.mainHome.AdvertActivity"
+    },
+    {
+        "app_name": "alias",
+        "package_name": "org.alias",
+        "file_name": "org.alias_43.apk",
+        "app_activity": "com.onesell.android.main.MainActivity"
+    },
+    {
+        "app_name": "可利购",
+        "package_name": "com.gngnetwork.kgoods",
+        "file_name": "com.gngnetwork.kgoods_44.apk",
+        "app_activity": "com.gngnetwork.kgoods.ui.activity.MainActivity"
+    },
+    {
+        "app_name": "SCHUBACK",
+        "package_name": "com.azoya.schuback",
+        "file_name": "com.azoya.schuback_45.apk",
+        "app_activity": "com.haituncun.app.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "日淘姬",
+        "package_name": "uni.UNI2145334",
+        "file_name": "uni.UNI2145334_46.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "55海淘",
+        "package_name": "com.haitao",
+        "file_name": "com.haitao_47.apk",
+        "app_activity": "com.haitao.ui.activity.launch.SplashActivity"
+    },
+    {
+        "app_name": "海拍客",
+        "package_name": "com.ytmallapp",
+        "file_name": "com.ytmallapp_48.apk",
+        "app_activity": "com.ytmallapp.SplashActivity"
+    },
+    {
+        "app_name": "红布林",
+        "package_name": "com.aplum.androidapp",
+        "file_name": "com.aplum.androidapp_49.apk",
+        "app_activity": "com.aplum.androidapp.SplashActivity"
+    },
+    {
+        "app_name": "魔卡姬",
+        "package_name": "com.sig.card",
+        "file_name": "com.sig.card_51.apk",
+        "app_activity": "com.sig.wameiji.MainActivity"
+    },
+    {
+        "app_name": "CHHES",
+        "package_name": "uni.UNI7472432",
+        "file_name": "uni.UNI7472432_52.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "海淘1号",
+        "package_name": "com.yht.haowuquanshu",
+        "file_name": "com.yht.haowuquanshu_53.apk",
+        "app_activity": "com.yht.haitao.act.welcome.SplashActivity"
+    },
+    {
+        "app_name": "挖煤姬",
+        "package_name": "com.sig.wameiji",
+        "file_name": "com.sig.wameiji_54.apk",
+        "app_activity": "com.sig.wameiji.MainActivity"
+    },
+    {
+        "app_name": "SSENSE",
+        "package_name": "com.ssense",
+        "file_name": "com.ssense_55.apk",
+        "app_activity": "com.lt.app.MainActivity"
+    },
+    {
+        "app_name": "cdfi中免国际",
+        "package_name": "com.eftpay.cdfbeauty",
+        "file_name": "com.eftpay.cdfbeauty_56.apk",
+        "app_activity": "com.shop2cn.hello.SplashActivity"
+    },
+    {
+        "app_name": "泰海淘",
+        "package_name": "com.jxk.taihaitao",
+        "file_name": "com.jxk.taihaitao_57.apk",
+        "app_activity": "com.jxk.taihaitao.mvp.ui.activity.PrivacyPolicyActivity"
+    },
+    {
+        "app_name": "洋葱OMALL",
+        "package_name": "com.msyc.onion",
+        "file_name": "com.msyc.onion_58.apk",
+        "app_activity": "com.msyc.onion.ui.activities.SplashActivity"
+    },
+    {
+        "app_name": "冰冰购",
+        "package_name": "com.bingfan.android",
+        "file_name": "com.bingfan.android_59.apk",
+        "app_activity": "com.bingfan.android.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "海淘免税店",
+        "package_name": "com.vanwell.module.zhefenglepink.app",
+        "file_name": "com.vanwell.module.zhefenglepink.app_60.apk",
+        "app_activity": "com.vanwell.module.zhefengle.app.act.GLLaunchActivity"
+    },
+    {
+        "app_name": "柬中免",
+        "package_name": "com.cdfgkhm.shopcambodia",
+        "file_name": "com.cdfgkhm.shopcambodia_61.apk",
+        "app_activity": "com.shop2cn.hello.SplashActivity"
+    },
+    {
+        "app_name": "迷橙",
+        "package_name": "com.rosevision.ofashion",
+        "file_name": "com.rosevision.ofashion_62.apk",
+        "app_activity": "com.rosevision.ofashion.activity.SplashActivity"
+    },
+    {
+        "app_name": "CNS Cargo",
+        "package_name": "com.cnsthai.cnscargo",
+        "file_name": "com.cnsthai.cnscargo_63.apk",
+        "app_activity": "com.cnsthai.cnscargo.activity.SplashActivity"
+    },
+    {
+        "app_name": "新罗免税店",
+        "package_name": "com.shilladfs.shillaCnMobile",
+        "file_name": "com.shilladfs.shillaCnMobile_64.apk",
+        "app_activity": "com.shilladfs.shillaCnMobile.SplashActivity"
+    },
+    {
+        "app_name": "二姑娘",
+        "package_name": "com.ergn.app",
+        "file_name": "com.ergn.app_65.apk",
+        "app_activity": "com.ergn.app.MainActivity"
+    },
+    {
+        "app_name": "樱淘GO",
+        "package_name": "bh.yingtaogo",
+        "file_name": "bh.yingtaogo_66.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "奢批",
+        "package_name": "com.luxury.android",
+        "file_name": "com.luxury.android_67.apk",
+        "app_activity": "com.luxury.android.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "喵叽淘",
+        "package_name": "com.meokii.shopping",
+        "file_name": "com.meokii.shopping_68.apk",
+        "app_activity": "com.meokii.shopping.MainActivity"
+    },
+    {
+        "app_name": "CETTIRE希提提",
+        "package_name": "cn.cettire.storeapp",
+        "file_name": "cn.cettire.storeapp_69.apk",
+        "app_activity": "com.cetreptst.cettire_app.MainActivity"
+    },
+    {
+        "app_name": "百大易购",
+        "package_name": "com.bdegopro.android",
+        "file_name": "com.bdegopro.android_70.apk",
+        "app_activity": "com.bdegopro.android.SplashActivity"
+    }
+]

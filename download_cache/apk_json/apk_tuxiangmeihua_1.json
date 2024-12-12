@@ -1,0 +1,2962 @@
+[
+    {
+        "app_name": "海鱼相机",
+        "package_name": "com.kmbml.haiyu",
+        "file_name": "com.kmbml.haiyu_1.apk",
+        "app_activity": "com.example.camera.MainActivity"
+    },
+    {
+        "app_name": "妙拍",
+        "package_name": "com.miaopai.camera",
+        "file_name": "com.miaopai.camera_2.apk",
+        "app_activity": "com.miaopai.camera.MainActivity"
+    },
+    {
+        "app_name": "免费证件照制作",
+        "package_name": "com.remphoto.camera",
+        "file_name": "com.remphoto.camera_3.apk",
+        "app_activity": "remphoto.camera.SplashPreActivity"
+    },
+    {
+        "app_name": "Test hairstyle",
+        "package_name": "com.lyy.lovehair",
+        "file_name": "com.lyy.lovehair_4.apk",
+        "app_activity": "com.lyy.lovehair.LaunchActivity"
+    },
+    {
+        "app_name": "Bg Eraser",
+        "package_name": "com.apowersoft.backgrounderaser",
+        "file_name": "com.apowersoft.backgrounderaser_5.apk",
+        "app_activity": "com.backgrounderaser.main.page.splash.SplashActivity"
+    },
+    {
+        "app_name": "ImgMeta Photo Editor",
+        "package_name": "com.bayes.imgmeta",
+        "file_name": "com.bayes.imgmeta_6.apk",
+        "app_activity": "com.bayes.imgmeta.WelcomeActivity"
+    },
+    {
+        "app_name": "Koloro滤镜君",
+        "package_name": "com.cerdillac.persetforlightroom.cn",
+        "file_name": "com.cerdillac.persetforlightroom.cn_7.apk",
+        "app_activity": "com.lightcone.cerdillac.koloro.activity.SplashActivity"
+    },
+    {
+        "app_name": "抠图免费",
+        "package_name": "com.hanyuan.backgroundchanger",
+        "file_name": "com.hanyuan.backgroundchanger_8.apk",
+        "app_activity": "com.hanyuan.backgroundchanger.activity_splash"
+    },
+    {
+        "app_name": "星颜相机",
+        "package_name": "com.xingyan.camera",
+        "file_name": "com.xingyan.camera_9.apk",
+        "app_activity": "com.visual.beauty.camera.MainActivity"
+    },
+    {
+        "app_name": "Photo collage",
+        "package_name": "com.rm.piceditor",
+        "file_name": "com.rm.piceditor_10.apk",
+        "app_activity": "com.cody.supads.activity.StartActivity"
+    },
+    {
+        "app_name": "萌鸭写真",
+        "package_name": "com.cuteduck.photo",
+        "file_name": "com.cuteduck.photo_11.apk",
+        "app_activity": "com.zfxm.pipi.wallpaper.launcher.MyLauncherActivity"
+    },
+    {
+        "app_name": "盐橘相机",
+        "package_name": "com.ybnhiks.zifubhn",
+        "file_name": "com.ybnhiks.zifubhn_12.apk",
+        "app_activity": "com.ybnhiks.zifubhn.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "p图神器",
+        "package_name": "com.imagebea.veight",
+        "file_name": "com.imagebea.veight_13.apk",
+        "app_activity": "com.quexin.ptu.activity.StartActivity"
+    },
+    {
+        "app_name": "一键logo设计",
+        "package_name": "cn.hudun.androidlogodesign",
+        "file_name": "cn.hudun.androidlogodesign_14.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "BreadCollage",
+        "package_name": "com.wscreativity.breadcollage",
+        "file_name": "com.wscreativity.breadcollage_15.apk",
+        "app_activity": "com.wscreativity.breadcollage.MainActivity"
+    },
+    {
+        "app_name": "Manlook",
+        "package_name": "com.risingcabbage.muscle.editor.cn",
+        "file_name": "com.risingcabbage.muscle.editor.cn_16.apk",
+        "app_activity": "com.risingcabbage.muscle.editor.activity.SplashActivity"
+    },
+    {
+        "app_name": "趣享相册拼图",
+        "package_name": "cn.jingliangtech.pintu",
+        "file_name": "cn.jingliangtech.pintu_17.apk",
+        "app_activity": "cn.jingliangtech.pintu.ui.SplashActivity"
+    },
+    {
+        "app_name": "轻图",
+        "package_name": "com.photovision.camera",
+        "file_name": "com.photovision.camera_18.apk",
+        "app_activity": "com.yrk.photovision.SplashActivity"
+    },
+    {
+        "app_name": "ReLens大光圈虚化单反相机",
+        "package_name": "com.accordion.pro.camera.cn",
+        "file_name": "com.accordion.pro.camera.cn_19.apk",
+        "app_activity": "com.gzy.depthEditor.app.page.splash.SplashActivity"
+    },
+    {
+        "app_name": "微美颜",
+        "package_name": "com.gangduo.microbeauty",
+        "file_name": "com.gangduo.microbeauty_20.apk",
+        "app_activity": "com.gangduo.microbeauty.uis.MainActivity"
+    },
+    {
+        "app_name": "TimeCut补帧视频编辑器",
+        "package_name": "com.accarunit.slowmotion.cn",
+        "file_name": "com.accarunit.slowmotion.cn_21.apk",
+        "app_activity": "com.gzy.timecut.activity.SplashActivity"
+    },
+    {
+        "app_name": "手机ps修图",
+        "package_name": "com.jayu.picture",
+        "file_name": "com.jayu.picture_22.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "LitPhoto",
+        "package_name": "com.coffee.image.compress",
+        "file_name": "com.coffee.image.compress_23.apk",
+        "app_activity": "com.gaocang.image.shit.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "照片美图拼图",
+        "package_name": "com.xiaowu.mitoapp",
+        "file_name": "com.xiaowu.mitoapp_24.apk",
+        "app_activity": "com.xiaowu.pipcamera.LaunchActivity"
+    },
+    {
+        "app_name": "最美证件照",
+        "package_name": "com.xfd.formalphoto",
+        "file_name": "com.xfd.formalphoto_25.apk",
+        "app_activity": "com.xfd.formalphoto.ui.activity.IndexActivity"
+    },
+    {
+        "app_name": "去除马赛克",
+        "package_name": "com.yfkj.retouch",
+        "file_name": "com.yfkj.retouch_26.apk",
+        "app_activity": "com.yfkj.retouch.activity.FirstPage"
+    },
+    {
+        "app_name": "智能修复老照片",
+        "package_name": "com.lingbao.photorepaint",
+        "file_name": "com.lingbao.photorepaint_27.apk",
+        "app_activity": "com.lingbao.photorepaint.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "灵动相机",
+        "package_name": "com.lingdongxiangji.ldxj",
+        "file_name": "com.lingdongxiangji.ldxj_28.apk",
+        "app_activity": "com.nice.finevideo.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "Clica美颜滤镜",
+        "package_name": "com.jjym.mixcamera",
+        "file_name": "com.jjym.mixcamera_29.apk",
+        "app_activity": "com.jjym.mixcamera.SplashActivity"
+    },
+    {
+        "app_name": "抖映相机",
+        "package_name": "com.evanescbarren.exhor",
+        "file_name": "com.evanescbarren.exhor_30.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "宠物相机",
+        "package_name": "com.weilaihongtech.catcamera",
+        "file_name": "com.weilaihongtech.catcamera_31.apk",
+        "app_activity": "com.newwatermarker.camera.BootActivity"
+    },
+    {
+        "app_name": "P图照片编辑",
+        "package_name": "com.cixel.lanress",
+        "file_name": "com.cixel.lanress_32.apk",
+        "app_activity": "com.qnet.appbase.ui.start.StartActivity"
+    },
+    {
+        "app_name": "测脸",
+        "package_name": "com.yanding.faceanalysis",
+        "file_name": "com.yanding.faceanalysis_33.apk",
+        "app_activity": "com.haoyee.mojinclx.splash.SplashActivity"
+    },
+    {
+        "app_name": "魔图",
+        "package_name": "jyfz.huwzi.zhie",
+        "file_name": "jyfz.huwzi.zhie_34.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "竹影相机",
+        "package_name": "camera.june.zhuyingxj",
+        "file_name": "camera.june.zhuyingxj_35.apk",
+        "app_activity": "vch.qqf.image.MainActivity"
+    },
+    {
+        "app_name": "90fps画质助手",
+        "package_name": "hfgl.fpshz.dqsl",
+        "file_name": "hfgl.fpshz.dqsl_36.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "照片拼图拼接",
+        "package_name": "imagecollage.photoeditor.eswc",
+        "file_name": "imagecollage.photoeditor.eswc_37.apk",
+        "app_activity": "com.qnet.appbase.ui.start.StartActivity"
+    },
+    {
+        "app_name": "证件照Auto",
+        "package_name": "com.qx.papers.app",
+        "file_name": "com.qx.papers.app_38.apk",
+        "app_activity": "com.jk.photo.application.controller.LoadingActivity"
+    },
+    {
+        "app_name": "GIF动图",
+        "package_name": "com.zixuan.gifmaker",
+        "file_name": "com.zixuan.gifmaker_39.apk",
+        "app_activity": "com.jiuan.gifmaker.ui.fragments.activities.SplashActivity"
+    },
+    {
+        "app_name": "AI神笔马良",
+        "package_name": "com.chiying.aipaintking",
+        "file_name": "com.chiying.aipaintking_40.apk",
+        "app_activity": "com.chiying.aipaintking.app.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "欢乐特效",
+        "package_name": "com.cheerful.show",
+        "file_name": "com.cheerful.show_41.apk",
+        "app_activity": "com.zfxm.pipi.wallpaper.launcher.MyLauncherActivity"
+    },
+    {
+        "app_name": "INSTAX",
+        "package_name": "com.ins.taxpic",
+        "file_name": "com.ins.taxpic_42.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "图片转PDF",
+        "package_name": "com.example.yinleme.imgzh",
+        "file_name": "com.example.yinleme.imgzh_43.apk",
+        "app_activity": "com.example.yinleme.zhuanzhuandashi.activity.ui.activity.kt.StartPageActivity"
+    },
+    {
+        "app_name": "AI Art Photo Editor",
+        "package_name": "com.fullstack.ptu",
+        "file_name": "com.fullstack.ptu_45.apk",
+        "app_activity": "com.fullstack.ptu.ui.activity.AppPrivacyPolicyAgreeActivity"
+    },
+    {
+        "app_name": "图片编辑拼图",
+        "package_name": "photocollage.photoeditor.imageeditor",
+        "file_name": "photocollage.photoeditor.imageeditor_46.apk",
+        "app_activity": "com.qnet.appbase.ui.start.StartActivity"
+    },
+    {
+        "app_name": "WHEE",
+        "package_name": "com.meitu.whee",
+        "file_name": "com.meitu.whee_47.apk",
+        "app_activity": "com.meitu.whee.MainActivity"
+    },
+    {
+        "app_name": "妙影相机",
+        "package_name": "com.authoexacerb.adhere",
+        "file_name": "com.authoexacerb.adhere_48.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "可奈相机",
+        "package_name": "ai.tc.motu",
+        "file_name": "ai.tc.motu_49.apk",
+        "app_activity": "ai.tc.motu.LaunchActivity"
+    },
+    {
+        "app_name": "Face时光相机",
+        "package_name": "com.palmmob.facer",
+        "file_name": "com.palmmob.facer_50.apk",
+        "app_activity": "com.bjpalmmob.face2.LaunchActivity"
+    },
+    {
+        "app_name": "工作水印相机",
+        "package_name": "com.aaidenyy.shuiyinlliu",
+        "file_name": "com.aaidenyy.shuiyinlliu_51.apk",
+        "app_activity": "com.aaidenyy.shuiyinlliu.activity.asdlash.ASpfglashActivity"
+    },
+    {
+        "app_name": "codeformer",
+        "package_name": "com.dubi.dongyan",
+        "file_name": "com.dubi.dongyan_52.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "最美证件照",
+        "package_name": "us.pinguo.idcamera",
+        "file_name": "us.pinguo.idcamera_54.apk",
+        "app_activity": "com.camera360.idcameraflutterapp.MainActivity"
+    },
+    {
+        "app_name": "稿定设计",
+        "package_name": "com.hlg.daydaytobusiness",
+        "file_name": "com.hlg.daydaytobusiness_55.apk",
+        "app_activity": "com.hlg.daydaytobusiness.ui.main.splash.SplashActivity"
+    },
+    {
+        "app_name": "画质猫",
+        "package_name": "com.xiaolei.yxzs1",
+        "file_name": "com.xiaolei.yxzs1_56.apk",
+        "app_activity": "com.e4a.runtime.android.StartActivity"
+    },
+    {
+        "app_name": "手机照片恢复大师",
+        "package_name": "cn.yunxiaozhi.photo.recovery.restore.diskdigger",
+        "file_name": "cn.yunxiaozhi.photo.recovery.restore.diskdigger_57.apk",
+        "app_activity": "cn.yunxiaozhi.photo.recovery.restore.diskdigger.ui.other.WelActivity"
+    },
+    {
+        "app_name": "视频通话美颜大师",
+        "package_name": "com.spthmy.xmy",
+        "file_name": "com.spthmy.xmy_58.apk",
+        "app_activity": "com.wxmy.jz.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "爱颜秀",
+        "package_name": "camera.february.aiyanxiu.one",
+        "file_name": "camera.february.aiyanxiu.one_59.apk",
+        "app_activity": "vch.qqf.image.MainActivity"
+    },
+    {
+        "app_name": "灵魂宠物",
+        "package_name": "com.animalface.camera",
+        "file_name": "com.animalface.camera_60.apk",
+        "app_activity": "com.animal.face.ui.MainActivity"
+    },
+    {
+        "app_name": "Hairstyle Try On",
+        "package_name": "com.zhanlang.changehaircut",
+        "file_name": "com.zhanlang.changehaircut_61.apk",
+        "app_activity": "com.zhanlang.changehaircut.activities.SplashAdActivityActivity"
+    },
+    {
+        "app_name": "天天特效",
+        "package_name": "com.everday.show",
+        "file_name": "com.everday.show_62.apk",
+        "app_activity": "com.zfxm.pipi.wallpaper.launcher.MyLauncherActivity"
+    },
+    {
+        "app_name": "禾花相机",
+        "package_name": "camera.february.hehuaxj.one",
+        "file_name": "camera.february.hehuaxj.one_63.apk",
+        "app_activity": "vch.qqf.image.MainActivity"
+    },
+    {
+        "app_name": "最美证件照制作",
+        "package_name": "com.wanmiqing.easyphoto",
+        "file_name": "com.wanmiqing.easyphoto_64.apk",
+        "app_activity": "com.wanmiqing.easyphoto.ui.activity.IndexActivity"
+    },
+    {
+        "app_name": "AI魔法头像",
+        "package_name": "com.aimagic.avatar",
+        "file_name": "com.aimagic.avatar_65.apk",
+        "app_activity": "com.aimagic.avatar.model.splash.SplashActivity"
+    },
+    {
+        "app_name": "时光特效",
+        "package_name": "com.concudenou.corpu",
+        "file_name": "com.concudenou.corpu_66.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "搞笑P图",
+        "package_name": "gaoxiao.p.chart.artifact",
+        "file_name": "gaoxiao.p.chart.artifact_67.apk",
+        "app_activity": "com.rampage.fighter.activity.StartActivity"
+    },
+    {
+        "app_name": "图片恢复",
+        "package_name": "com.zlj.picture.recover.restore.master",
+        "file_name": "com.zlj.picture.recover.restore.master_68.apk",
+        "app_activity": "com.zlj.picture.recover.restore.master.ui.other.WelActivity"
+    },
+    {
+        "app_name": "一键换发型",
+        "package_name": "com.shengmitech.hairstyle",
+        "file_name": "com.shengmitech.hairstyle_69.apk",
+        "app_activity": "com.shengmitech.hairstyle.ui.SplashActivity"
+    },
+    {
+        "app_name": "Coco Cam",
+        "package_name": "com.imendon.cococam",
+        "file_name": "com.imendon.cococam_70.apk",
+        "app_activity": "com.imendon.cococam.app.launch.LaunchActivity"
+    },
+    {
+        "app_name": "哇塞相机",
+        "package_name": "com.camera.wasai",
+        "file_name": "com.camera.wasai_71.apk",
+        "app_activity": "com.aimagic.avatar.modules.init.splash.SplashActivity"
+    },
+    {
+        "app_name": "媚姬",
+        "package_name": "com.gyyw.boylove",
+        "file_name": "com.gyyw.boylove_72.apk",
+        "app_activity": "com.camera03.album.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "爱证件",
+        "package_name": "com.mostidphoto.com",
+        "file_name": "com.mostidphoto.com_73.apk",
+        "app_activity": "com.mostidphoto.com.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "图怪兽",
+        "package_name": "com.ips_app",
+        "file_name": "com.ips_app_74.apk",
+        "app_activity": "com.ips_app.activity.FlashActivity"
+    },
+    {
+        "app_name": "Image Editor",
+        "package_name": "com.honeymoon.stone.jean.poweredit",
+        "file_name": "com.honeymoon.stone.jean.poweredit_75.apk",
+        "app_activity": "com.honeymoon.stone.jean.poweredit.PreloadActivity"
+    },
+    {
+        "app_name": "微颜视频美颜",
+        "package_name": "com.wxmyds.xmy",
+        "file_name": "com.wxmyds.xmy_76.apk",
+        "app_activity": "com.wxmy.jz.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "随心改水印相机",
+        "package_name": "com.today.watermarkcamera",
+        "file_name": "com.today.watermarkcamera_77.apk",
+        "app_activity": "com.today.watermarkcamera.activity.SplashActivity"
+    },
+    {
+        "app_name": "YanJu",
+        "package_name": "com.wscreativity.yanju",
+        "file_name": "com.wscreativity.yanju_78.apk",
+        "app_activity": "com.wscreativity.yanju.app.launch.LaunchActivity"
+    },
+    {
+        "app_name": "九幺",
+        "package_name": "com.lhzjxf.dmtxxj",
+        "file_name": "com.lhzjxf.dmtxxj_79.apk",
+        "app_activity": "com.videoedit.newcamera6.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "美图证件照",
+        "package_name": "com.meitu.mtzjz",
+        "file_name": "com.meitu.mtzjz_80.apk",
+        "app_activity": "com.meitu.mtzjz.ui.SplashActivity"
+    },
+    {
+        "app_name": "美易",
+        "package_name": "com.meiyi.wallpaper",
+        "file_name": "com.meiyi.wallpaper_81.apk",
+        "app_activity": "com.onekeybeautify.picture.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "闪光特效",
+        "package_name": "com.ppflash.effect",
+        "file_name": "com.ppflash.effect_82.apk",
+        "app_activity": "com.zfxm.pipi.wallpaper.launcher.MyLauncherActivity"
+    },
+    {
+        "app_name": "压缩图片",
+        "package_name": "com.maoying.picturecompression",
+        "file_name": "com.maoying.picturecompression_83.apk",
+        "app_activity": "com.maoying.picturecompression.activity.SplashActivity"
+    },
+    {
+        "app_name": "无痕去水印",
+        "package_name": "com.hudun.androidwatermark",
+        "file_name": "com.hudun.androidwatermark_84.apk",
+        "app_activity": "com.hudun.androidwatermark.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "Poster maker",
+        "package_name": "cn.leminet.poster",
+        "file_name": "cn.leminet.poster_85.apk",
+        "app_activity": "cn.leminet.poster.mvp.ui.SplashActivity"
+    },
+    {
+        "app_name": "写真照相馆",
+        "package_name": "mydxx.mktx.mklw",
+        "file_name": "mydxx.mktx.mklw_86.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "必拍相机",
+        "package_name": "com.visual.bipai.camera",
+        "file_name": "com.visual.bipai.camera_87.apk",
+        "app_activity": "com.visual.bipai.camera.MainActivity"
+    },
+    {
+        "app_name": "星绘",
+        "package_name": "com.butterfly.unicorn",
+        "file_name": "com.butterfly.unicorn_88.apk",
+        "app_activity": "com.butterfly.business.home.splash.SplashActivity"
+    },
+    {
+        "app_name": "AI绘画王",
+        "package_name": "com.yingsheng.aidrawing",
+        "file_name": "com.yingsheng.aidrawing_89.apk",
+        "app_activity": "com.yingsheng.aidrawing.view.main.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "233乐园相册",
+        "package_name": "com.orxqtf.tajlpk.tfpwcq",
+        "file_name": "com.orxqtf.tajlpk.tfpwcq_90.apk",
+        "app_activity": "com.kmecpj.twmzxr.dqgbsp.common.StartActivity"
+    },
+    {
+        "app_name": "证件照相馆",
+        "package_name": "com.boniu.mdzhengjianzhao",
+        "file_name": "com.boniu.mdzhengjianzhao_91.apk",
+        "app_activity": "com.boniu.mdzhengjianzhao.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "AI测脸型配发型",
+        "package_name": "com.baize.hairstyle",
+        "file_name": "com.baize.hairstyle_92.apk",
+        "app_activity": "com.bd.baize.baizeWelcomeActivity"
+    },
+    {
+        "app_name": "一键改图",
+        "package_name": "com.weidu.psimageedit",
+        "file_name": "com.weidu.psimageedit_93.apk",
+        "app_activity": "com.weidu.psimageedit.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "Pitu",
+        "package_name": "com.tencent.ttpic",
+        "file_name": "com.tencent.ttpic_94.apk",
+        "app_activity": "com.tencent.ttpic.main.MainActivity"
+    },
+    {
+        "app_name": "Fui Frame",
+        "package_name": "com.joey.fui",
+        "file_name": "com.joey.fui_95.apk",
+        "app_activity": "com.joey.fui.bz.welcome.SplashActivity"
+    },
+    {
+        "app_name": "妙鸭相机",
+        "package_name": "com.talkclub.android",
+        "file_name": "com.talkclub.android_96.apk",
+        "app_activity": "com.youku.talkclub.ActivityWelcome"
+    },
+    {
+        "app_name": "相机达人攻略",
+        "package_name": "camera.may.xiangjidarengl",
+        "file_name": "camera.may.xiangjidarengl_97.apk",
+        "app_activity": "vch.qqf.image.MainActivity"
+    },
+    {
+        "app_name": "微商抠图拼图",
+        "package_name": "cn.qizhenyun.grabcut",
+        "file_name": "cn.qizhenyun.grabcut_98.apk",
+        "app_activity": "com.common.tang.activity.SplashActivity"
+    },
+    {
+        "app_name": "91秀相机",
+        "package_name": "com.jyxx.jyxxj",
+        "file_name": "com.jyxx.jyxxj_99.apk",
+        "app_activity": "com.sxb.new_imageedit_16.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "水印拍照",
+        "package_name": "com.ddmh.magic.camera",
+        "file_name": "com.ddmh.magic.camera_100.apk",
+        "app_activity": "com.ddmh.magic.camera.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "水印云",
+        "package_name": "com.shuiyinyun.app",
+        "file_name": "com.shuiyinyun.app_101.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "AI绘画生成器",
+        "package_name": "com.aipainting.tool",
+        "file_name": "com.aipainting.tool_102.apk",
+        "app_activity": "com.aipainting.tool.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "证件照换衣服",
+        "package_name": "com.lyy.zjzxg",
+        "file_name": "com.lyy.zjzxg_103.apk",
+        "app_activity": "com.lyy.zjzxg.Activity.LaunchActivity"
+    },
+    {
+        "app_name": "Emoji表情贴图",
+        "package_name": "net.ishare20.emojisticker",
+        "file_name": "net.ishare20.emojisticker_104.apk",
+        "app_activity": "net.ishare20.emojisticker.SplashActivity"
+    },
+    {
+        "app_name": "美时视频美颜",
+        "package_name": "com.qyapp.msbeauty",
+        "file_name": "com.qyapp.msbeauty_105.apk",
+        "app_activity": "com.qyapp.msbeauty.activity.SplashActivity"
+    },
+    {
+        "app_name": "Pro knockout - Mix Photo Editor",
+        "package_name": "com.godimage.knockout.free.cn",
+        "file_name": "com.godimage.knockout.free.cn_106.apk",
+        "app_activity": "com.godimage.knockout.WelcomeActivity"
+    },
+    {
+        "app_name": "全能抠图",
+        "package_name": "com.xmei.xphoto",
+        "file_name": "com.xmei.xphoto_107.apk",
+        "app_activity": "com.xmei.xphoto.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "强力照片恢复精灵",
+        "package_name": "pic.shartine.mobile",
+        "file_name": "pic.shartine.mobile_108.apk",
+        "app_activity": "cn.xiaoting.photo.rai.ui.activity.login.SplashActivity"
+    },
+    {
+        "app_name": "PS软件P图",
+        "package_name": "com.qewbnnrun.cvrrtpss",
+        "file_name": "com.qewbnnrun.cvrrtpss_109.apk",
+        "app_activity": "com.example.beautycameraproject.StartUpPageActivity"
+    },
+    {
+        "app_name": "改图鸭",
+        "package_name": "jyfz.gtbk.zkel",
+        "file_name": "jyfz.gtbk.zkel_110.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "照片修复",
+        "package_name": "com.puwu.rephoto",
+        "file_name": "com.puwu.rephoto_111.apk",
+        "app_activity": "com.puwu.rephoto.Activity.SplashActivity"
+    },
+    {
+        "app_name": "丽影相机",
+        "package_name": "com.liying.camera",
+        "file_name": "com.liying.camera_112.apk",
+        "app_activity": "com.jb.zcamera.splash.SplashActivity"
+    },
+    {
+        "app_name": "酷影APP",
+        "package_name": "com.coolshow.effect",
+        "file_name": "com.coolshow.effect_113.apk",
+        "app_activity": "com.zfxm.pipi.wallpaper.launcher.MyLauncherActivity"
+    },
+    {
+        "app_name": "Ai画图",
+        "package_name": "com.jincaihuitu.cn",
+        "file_name": "com.jincaihuitu.cn_114.apk",
+        "app_activity": "com.jincaihuitu.cn.ui.SplashActivity"
+    },
+    {
+        "app_name": "颜趣",
+        "package_name": "com.sgapp.yanqu",
+        "file_name": "com.sgapp.yanqu_115.apk",
+        "app_activity": "com.ingenuity.other.ui.StartActivity"
+    },
+    {
+        "app_name": "微视频号制作",
+        "package_name": "com.vxsoft.vlogmaster",
+        "file_name": "com.vxsoft.vlogmaster_116.apk",
+        "app_activity": "com.vxsoft.vlogmaster.splash.SplashActivity"
+    },
+    {
+        "app_name": "宠物翻译",
+        "package_name": "com.shengmi.pet",
+        "file_name": "com.shengmi.pet_117.apk",
+        "app_activity": "apache.rio.pets.ui.SplashActivity"
+    },
+    {
+        "app_name": "Canva可画",
+        "package_name": "cn.canva.editor",
+        "file_name": "cn.canva.editor_118.apk",
+        "app_activity": "com.canva.app.editor.splash.DataConsentSplashActivity"
+    },
+    {
+        "app_name": "你我当年",
+        "package_name": "com.bigwinepot.nwdn",
+        "file_name": "com.bigwinepot.nwdn_119.apk",
+        "app_activity": "com.bigwinepot.nwdn.MainActivity"
+    },
+    {
+        "app_name": "女娲修图",
+        "package_name": "com.daqidao.doutusix",
+        "file_name": "com.daqidao.doutusix_120.apk",
+        "app_activity": "com.lezhi.doutusix.ac.LauncherDoutuActivity"
+    },
+    {
+        "app_name": "最美证件照",
+        "package_name": "com.mostbeautiful.identification",
+        "file_name": "com.mostbeautiful.identification_121.apk",
+        "app_activity": "com.mostbeautiful.identification.ui.activity.IndexActivity"
+    },
+    {
+        "app_name": "爱推文",
+        "package_name": "com.aidraw.novel",
+        "file_name": "com.aidraw.novel_122.apk",
+        "app_activity": "com.aidraw.novel.module_main.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "试发型相机",
+        "package_name": "com.jm.dflh",
+        "file_name": "com.jm.dflh_123.apk",
+        "app_activity": "com.jm.dflh.MainActivity"
+    },
+    {
+        "app_name": "画质助手",
+        "package_name": "com.rework.puzzle",
+        "file_name": "com.rework.puzzle_124.apk",
+        "app_activity": "com.qf.pinturuanjian.SplashActivity"
+    },
+    {
+        "app_name": "image connect mobile",
+        "package_name": "com.image.cameraconnect",
+        "file_name": "com.image.cameraconnect_125.apk",
+        "app_activity": "com.zhlm.sonycamera.ui.act.SplashActivity"
+    },
+    {
+        "app_name": "百丽",
+        "package_name": "com.jylx.blx",
+        "file_name": "com.jylx.blx_126.apk",
+        "app_activity": "com.videoedit.newimageedit15.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "丽宫",
+        "package_name": "com.jylx.lgx",
+        "file_name": "com.jylx.lgx_127.apk",
+        "app_activity": "com.camera03.album.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "改图鸭Pro",
+        "package_name": "com.fengping.gaituya",
+        "file_name": "com.fengping.gaituya_128.apk",
+        "app_activity": "com.fengping.gaituya.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "Jane",
+        "package_name": "cn.poco.jane",
+        "file_name": "cn.poco.jane_129.apk",
+        "app_activity": "cn.poco.jane.MainActivity"
+    },
+    {
+        "app_name": "图片合成器",
+        "package_name": "cn.poco.pMix",
+        "file_name": "cn.poco.pMix_130.apk",
+        "app_activity": "cn.poco.pMix.welcome.output.WelcomeActivity"
+    },
+    {
+        "app_name": "PS修图",
+        "package_name": "com.liubowang.photoretouch",
+        "file_name": "com.liubowang.photoretouch_131.apk",
+        "app_activity": "com.liubowang.photoretouch.ui.SplashAdActivity"
+    },
+    {
+        "app_name": "印章大师",
+        "package_name": "com.monet.certmake",
+        "file_name": "com.monet.certmake_132.apk",
+        "app_activity": "com.monet.certmake.ui.activity.WelComeActivity"
+    },
+    {
+        "app_name": "妙装秀",
+        "package_name": "com.miaozhuang.show",
+        "file_name": "com.miaozhuang.show_133.apk",
+        "app_activity": "com.zfxm.pipi.wallpaper.launcher.MyLauncherActivity"
+    },
+    {
+        "app_name": "长图拼接大师",
+        "package_name": "com.mike.changtu",
+        "file_name": "com.mike.changtu_134.apk",
+        "app_activity": "com.mike.changtu.SplashActivity"
+    },
+    {
+        "app_name": "照片清晰修复",
+        "package_name": "com.pang.bigimg",
+        "file_name": "com.pang.bigimg_135.apk",
+        "app_activity": "com.pang.bigimg.ui.SplashActivity"
+    },
+    {
+        "app_name": "Devil",
+        "package_name": "com.biggerlens.restoration",
+        "file_name": "com.biggerlens.restoration_136.apk",
+        "app_activity": "com.biggerlens.restoration.activity.StartActivity"
+    },
+    {
+        "app_name": "月兔女生化妆镜子",
+        "package_name": "cn.jinrishuiyin.jz",
+        "file_name": "cn.jinrishuiyin.jz_137.apk",
+        "app_activity": "cn.jinrishuiyin.jz.ui.SplashActivity"
+    },
+    {
+        "app_name": "文字图片制作",
+        "package_name": "com.myd.textstickertool",
+        "file_name": "com.myd.textstickertool_138.apk",
+        "app_activity": "com.myd.textstickertool.ui.SplashActivity"
+    },
+    {
+        "app_name": "草莓涂涂",
+        "package_name": "com.no.color.cn",
+        "file_name": "com.no.color.cn_139.apk",
+        "app_activity": "com.nocolor.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "甜猫",
+        "package_name": "tian.mao.winkxjzl",
+        "file_name": "tian.mao.winkxjzl_140.apk",
+        "app_activity": "com.sxb.new_imageedit_11.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "编辑水印打卡相机",
+        "package_name": "com.bianji.mm",
+        "file_name": "com.bianji.mm_141.apk",
+        "app_activity": "com.bianji.mm.page.splash.NewGroMoreAdSplashActivity"
+    },
+    {
+        "app_name": "红心相机",
+        "package_name": "camera.photo.hearts",
+        "file_name": "camera.photo.hearts_142.apk",
+        "app_activity": "vch.qqf.image.MainActivity"
+    },
+    {
+        "app_name": "Face Pic",
+        "package_name": "com.lingbao.facepic",
+        "file_name": "com.lingbao.facepic_143.apk",
+        "app_activity": "com.lingbao.facepic.view.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "美趣AI",
+        "package_name": "com.xinglihe.aiimage",
+        "file_name": "com.xinglihe.aiimage_144.apk",
+        "app_activity": "com.xinglihe.aiimage.module.WelComeActivity"
+    },
+    {
+        "app_name": "头像吧",
+        "package_name": "com.dancing.touxiangba",
+        "file_name": "com.dancing.touxiangba_145.apk",
+        "app_activity": "com.dancing.touxiangba.activity.SplashActivity"
+    },
+    {
+        "app_name": "照片恢复",
+        "package_name": "com.ihioaa.aipfuj.hzun",
+        "file_name": "com.ihioaa.aipfuj.hzun_146.apk",
+        "app_activity": "com.lite.pint.activty.StartActivity"
+    },
+    {
+        "app_name": "快映",
+        "package_name": "com.photo.xiuqutu",
+        "file_name": "com.photo.xiuqutu_147.apk",
+        "app_activity": "com.photo.xiuqutu.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "酷雀水印管家",
+        "package_name": "com.dachuang.shuiyin",
+        "file_name": "com.dachuang.shuiyin_148.apk",
+        "app_activity": "com.dachuang.shuiyin.MainActivity"
+    },
+    {
+        "app_name": "视频换脸秀",
+        "package_name": "com.zsyj.swapface",
+        "file_name": "com.zsyj.swapface_149.apk",
+        "app_activity": "com.zsyj.swapface.ui.welcome.SplashActivity"
+    },
+    {
+        "app_name": "调色Lr滤镜大师",
+        "package_name": "cn.chaoyoutek.lvjing",
+        "file_name": "cn.chaoyoutek.lvjing_150.apk",
+        "app_activity": "cn.chaoyoutek.lvjing.ui.SplashActivity"
+    },
+    {
+        "app_name": "拍照特效相机",
+        "package_name": "uni.UNIDF7EABD",
+        "file_name": "uni.UNIDF7EABD_151.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "照片恢复大师",
+        "package_name": "cn.zhilianda.photo.scanner.pro",
+        "file_name": "cn.zhilianda.photo.scanner.pro_152.apk",
+        "app_activity": "cn.zhilianda.photo.scanner.pro.ui.other.WelActivity"
+    },
+    {
+        "app_name": "加画框",
+        "package_name": "com.jiahk.jiahuakuang",
+        "file_name": "com.jiahk.jiahuakuang_153.apk",
+        "app_activity": "com.jiahk.jiahuakuang.MainActivity"
+    },
+    {
+        "app_name": "拼图魔法师",
+        "package_name": "com.aojaen.pintu",
+        "file_name": "com.aojaen.pintu_154.apk",
+        "app_activity": "com.aojaen.pintu.MainActivity"
+    },
+    {
+        "app_name": "图片编辑助理",
+        "package_name": "com.kingwin.picture",
+        "file_name": "com.kingwin.picture_155.apk",
+        "app_activity": "com.gdt.SplashActivity"
+    },
+    {
+        "app_name": "魅影",
+        "package_name": "mei.camera.xinxigj",
+        "file_name": "mei.camera.xinxigj_156.apk",
+        "app_activity": "com.camerafive.basics.ui.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "一键抠图",
+        "package_name": "com.shuojie.easyphoto",
+        "file_name": "com.shuojie.easyphoto_157.apk",
+        "app_activity": "com.shuojie.easyphoto.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "logo设计工厂",
+        "package_name": "com.linbao.logosjgc",
+        "file_name": "com.linbao.logosjgc_158.apk",
+        "app_activity": "com.linbao.logosjgc.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "LR调色滤镜",
+        "package_name": "com.yizhen.lrtiaose",
+        "file_name": "com.yizhen.lrtiaose_159.apk",
+        "app_activity": "com.yizhen.lrtiaose.LauncherActivity"
+    },
+    {
+        "app_name": "我的卡通形象",
+        "package_name": "xyz.ai123.myp2c",
+        "file_name": "xyz.ai123.myp2c_160.apk",
+        "app_activity": "xyz.ai123.myp2c.MainActivity"
+    },
+    {
+        "app_name": "免费证件照王",
+        "package_name": "com.remxcqwphotoo.camera",
+        "file_name": "com.remxcqwphotoo.camera_161.apk",
+        "app_activity": "com.remxcqwphotoo.camera.SplashPreActivity"
+    },
+    {
+        "app_name": "codyformer",
+        "package_name": "gzry.cody.sjhf",
+        "file_name": "gzry.cody.sjhf_162.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "手机照片全能恢复",
+        "package_name": "com.aixunzhe.recovery",
+        "file_name": "com.aixunzhe.recovery_163.apk",
+        "app_activity": "ty.ah.CR"
+    },
+    {
+        "app_name": "抠图去水印",
+        "package_name": "cn.matting.doufd",
+        "file_name": "cn.matting.doufd_164.apk",
+        "app_activity": "com.example.unimpdemo.activity.BootActivity"
+    },
+    {
+        "app_name": "视频换脸",
+        "package_name": "com.yhzphl.cn",
+        "file_name": "com.yhzphl.cn_165.apk",
+        "app_activity": "com.yuanhe.cn.view.activity.YHSplashActivity"
+    },
+    {
+        "app_name": "工作现场水印相机",
+        "package_name": "com.bnkc.camerawork.live",
+        "file_name": "com.bnkc.camerawork.live_166.apk",
+        "app_activity": "com.bnkc.camerawork.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "随心拍",
+        "package_name": "com.easyshot.camera",
+        "file_name": "com.easyshot.camera_167.apk",
+        "app_activity": "com.easyshot.camera.MainActivity"
+    },
+    {
+        "app_name": "MIX",
+        "package_name": "lvjing.com.lr.mix.fugudashi",
+        "file_name": "lvjing.com.lr.mix.fugudashi_168.apk",
+        "app_activity": "com.jinmo.module_splash.SplashActivity"
+    },
+    {
+        "app_name": "捏Ta",
+        "package_name": "art.nieta.app",
+        "file_name": "art.nieta.app_169.apk",
+        "app_activity": "art.nieta.app.MainActivity"
+    },
+    {
+        "app_name": "捏Ta",
+        "package_name": "art.nieta.app",
+        "file_name": "art.nieta.app_170.apk",
+        "app_activity": "art.nieta.app.MainActivity"
+    },
+    {
+        "app_name": "in",
+        "package_name": "com.jiuyan.infashion",
+        "file_name": "com.jiuyan.infashion_171.apk",
+        "app_activity": "com.jiuyan.infashion.LaunchActivity"
+    },
+    {
+        "app_name": "秒画趣拍",
+        "package_name": "aiwan.zhuo.miaoh",
+        "file_name": "aiwan.zhuo.miaoh_172.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "手机照片恢复精灵",
+        "package_name": "com.zlj.data.recover.restore.elf",
+        "file_name": "com.zlj.data.recover.restore.elf_173.apk",
+        "app_activity": "com.zlj.data.recover.restore.elf.ui.other.WelActivity"
+    },
+    {
+        "app_name": "AI绘画软件Unidream",
+        "package_name": "com.hugelettuce.art.generator.cn",
+        "file_name": "com.hugelettuce.art.generator.cn_174.apk",
+        "app_activity": "com.hugelettuce.art.generator.activity.SplashActivity"
+    },
+    {
+        "app_name": "嗨格式抠图大师",
+        "package_name": "com.auntec.himatting",
+        "file_name": "com.auntec.himatting_175.apk",
+        "app_activity": "com.auntec.himatting.MainActivity"
+    },
+    {
+        "app_name": "MIX",
+        "package_name": "com.pinguo.edit.sdk",
+        "file_name": "com.pinguo.edit.sdk_176.apk",
+        "app_activity": "us.pinguo.mix.modules.splash.SplashActivity"
+    },
+    {
+        "app_name": "彩视",
+        "package_name": "cn.colorv",
+        "file_name": "cn.colorv_177.apk",
+        "app_activity": "cn.colorv.modules.main.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "证件照",
+        "package_name": "com.lugenglv.idcamera",
+        "file_name": "com.lugenglv.idcamera_178.apk",
+        "app_activity": "com.lugenglv.idcamera.ui.activity.IndexActivity"
+    },
+    {
+        "app_name": "手机P图软件",
+        "package_name": "empty.pic.photoshop",
+        "file_name": "empty.pic.photoshop_179.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "P图软件",
+        "package_name": "com.fd.ptu",
+        "file_name": "com.fd.ptu_181.apk",
+        "app_activity": "com.fd.ps.activity.SplashActivity"
+    },
+    {
+        "app_name": "无痕消除笔",
+        "package_name": "com.fengsu.easypen",
+        "file_name": "com.fengsu.easypen_182.apk",
+        "app_activity": "com.fengsu.easypen.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "帧率猫",
+        "package_name": "com.yxxinglin.xzid91396",
+        "file_name": "com.yxxinglin.xzid91396_183.apk",
+        "app_activity": "com.e4a.runtime.android.StartActivity"
+    },
+    {
+        "app_name": "微商水印Pro",
+        "package_name": "com.sqn.watermark",
+        "file_name": "com.sqn.watermark_184.apk",
+        "app_activity": "com.sqn.watermark.SplashActivity"
+    },
+    {
+        "app_name": "魔兔",
+        "package_name": "com.meice.wallpaper_app",
+        "file_name": "com.meice.wallpaper_app_185.apk",
+        "app_activity": "com.meice.wallpaper_app.SplashActivity"
+    },
+    {
+        "app_name": "微商截图王",
+        "package_name": "com.xmy.weishang",
+        "file_name": "com.xmy.weishang_186.apk",
+        "app_activity": "com.xcshot.xmy.xmyWelcomeActivity"
+    },
+    {
+        "app_name": "PsExpress",
+        "package_name": "com.photo.express",
+        "file_name": "com.photo.express_187.apk",
+        "app_activity": "com.photo.express.MainActivity"
+    },
+    {
+        "app_name": "一键照片修复",
+        "package_name": "com.jm.pxf",
+        "file_name": "com.jm.pxf_188.apk",
+        "app_activity": "com.jm.pxf.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "runway",
+        "package_name": "com.run.lihuan",
+        "file_name": "com.run.lihuan_189.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "爱颜相机",
+        "package_name": "camera.shot.aiyan",
+        "file_name": "camera.shot.aiyan_190.apk",
+        "app_activity": "vch.qqf.image.MainActivity"
+    },
+    {
+        "app_name": "老照片修复精灵",
+        "package_name": "com.repair.photopay",
+        "file_name": "com.repair.photopay_191.apk",
+        "app_activity": "com.moku.activity.MainActivity"
+    },
+    {
+        "app_name": "图片编辑加字",
+        "package_name": "com.yilesoft.app.picaddtext",
+        "file_name": "com.yilesoft.app.picaddtext_192.apk",
+        "app_activity": "com.yilesoft.app.beautifulwords.SplashActivity"
+    },
+    {
+        "app_name": "抠图大师",
+        "package_name": "com.mike.koutu",
+        "file_name": "com.mike.koutu_193.apk",
+        "app_activity": "com.mike.koutu.SplashActivity"
+    },
+    {
+        "app_name": "茄子水印相机",
+        "package_name": "com.qcd.eggplant",
+        "file_name": "com.qcd.eggplant_194.apk",
+        "app_activity": "com.qcd.eggplant.presentation.activity.SplashActivity"
+    },
+    {
+        "app_name": "创客贴设计",
+        "package_name": "com.chuangkit",
+        "file_name": "com.chuangkit_195.apk",
+        "app_activity": "com.chuangkit.splash.SplashActivity"
+    },
+    {
+        "app_name": "一键换脸",
+        "package_name": "com.rfzphl.cn",
+        "file_name": "com.rfzphl.cn_196.apk",
+        "app_activity": "com.rfzphl.cn.ui.RFStartActivity"
+    },
+    {
+        "app_name": "Polarr",
+        "package_name": "photo.editor.polarr",
+        "file_name": "photo.editor.polarr_197.apk",
+        "app_activity": "co.polarr.polarrphotoeditor.EditorActivity"
+    },
+    {
+        "app_name": "Photo Retouch p图修图软件",
+        "package_name": "com.biggerlens.photoretouch",
+        "file_name": "com.biggerlens.photoretouch_198.apk",
+        "app_activity": "com.biggerlens.photoretouch.SplashActivity"
+    },
+    {
+        "app_name": "AI发型师",
+        "package_name": "hairdresser.jjpengcheng.cn",
+        "file_name": "hairdresser.jjpengcheng.cn_200.apk",
+        "app_activity": "com.shengmitech.hairstyle.ui.SplashActivity2"
+    },
+    {
+        "app_name": "AI绘画专家",
+        "package_name": "com.zhangyu.aiart",
+        "file_name": "com.zhangyu.aiart_201.apk",
+        "app_activity": "com.zhangyu.aiart.activity.SplashActivity"
+    },
+    {
+        "app_name": "手机照片恢复助手",
+        "package_name": "com.caidan.datarecovery",
+        "file_name": "com.caidan.datarecovery_202.apk",
+        "app_activity": "ll.gk.TX"
+    },
+    {
+        "app_name": "嗨圈",
+        "package_name": "com.xiamenmlq.circle",
+        "file_name": "com.xiamenmlq.circle_203.apk",
+        "app_activity": "com.xiamenmlq.circle.view.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "漫改相机",
+        "package_name": "cn.fivebit.anime",
+        "file_name": "cn.fivebit.anime_204.apk",
+        "app_activity": "cn.fivebit.anime.MainActivity"
+    },
+    {
+        "app_name": "闪拍相机",
+        "package_name": "com.flash.shoot.effect",
+        "file_name": "com.flash.shoot.effect_205.apk",
+        "app_activity": "com.zfxm.pipi.wallpaper.launcher.MyLauncherActivity"
+    },
+    {
+        "app_name": "手机图片编辑器",
+        "package_name": "com.baijiu.tppsq.snapseed",
+        "file_name": "com.baijiu.tppsq.snapseed_206.apk",
+        "app_activity": "com.xly.psapp.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "玩美修图水印",
+        "package_name": "com.wlh.watermark",
+        "file_name": "com.wlh.watermark_207.apk",
+        "app_activity": "com.wlh.watermark.BootActivity"
+    },
+    {
+        "app_name": "幻颜秀秀",
+        "package_name": "com.android.huanyanxiuxiu",
+        "file_name": "com.android.huanyanxiuxiu_208.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "潮颜相机",
+        "package_name": "com.jgkoq.dbgsfdq",
+        "file_name": "com.jgkoq.dbgsfdq_209.apk",
+        "app_activity": "com.jgkoq.dbgsfdq.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "照片处理工具",
+        "package_name": "photo.dkiqt.paiban",
+        "file_name": "photo.dkiqt.paiban_210.apk",
+        "app_activity": "photo.dkiqt.paiban.activity.StartActivity"
+    },
+    {
+        "app_name": "水仙",
+        "package_name": "qnahj.water.xianx",
+        "file_name": "qnahj.water.xianx_211.apk",
+        "app_activity": "com.wxy.camera15.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "大神P图",
+        "package_name": "com.energysh.onlinecamera1",
+        "file_name": "com.energysh.onlinecamera1_212.apk",
+        "app_activity": "com.energysh.onlinecamera1.activity.FirstActivity"
+    },
+    {
+        "app_name": "拼图君",
+        "package_name": "com.bayes.collage",
+        "file_name": "com.bayes.collage_213.apk",
+        "app_activity": "com.bayes.collage.WelcomeActivity"
+    },
+    {
+        "app_name": "梅花相机",
+        "package_name": "camera.July.meihuaxj",
+        "file_name": "camera.July.meihuaxj_214.apk",
+        "app_activity": "vch.qqf.image.MainActivity"
+    },
+    {
+        "app_name": "手机照片拼图",
+        "package_name": "com.xq.ptu",
+        "file_name": "com.xq.ptu_215.apk",
+        "app_activity": "com.xq.photo_collage.MainActivity"
+    },
+    {
+        "app_name": "AI特效相机",
+        "package_name": "com.onekeybeautify.picture",
+        "file_name": "com.onekeybeautify.picture_216.apk",
+        "app_activity": "com.onekeybeautify.picture.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "酷雀AI智能抠图",
+        "package_name": "com.dachuang.koutu",
+        "file_name": "com.dachuang.koutu_217.apk",
+        "app_activity": "com.dachuang.koutu.MainActivity"
+    },
+    {
+        "app_name": "AI试衣换装",
+        "package_name": "com.tyzj.aicloth",
+        "file_name": "com.tyzj.aicloth_218.apk",
+        "app_activity": "com.ltmb.aicloths.WelcomeActivity"
+    },
+    {
+        "app_name": "PS抠图秀",
+        "package_name": "com.juhe.cutout",
+        "file_name": "com.juhe.cutout_219.apk",
+        "app_activity": "com.juhe.cutout.ui.SplashActivity"
+    },
+    {
+        "app_name": "photopea图片编辑",
+        "package_name": "com.wyphoto.peatpbjvtw",
+        "file_name": "com.wyphoto.peatpbjvtw_220.apk",
+        "app_activity": "com.vcamera.meitu.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "相机拍照指南",
+        "package_name": "camera.june.xjpaizhaozhinan",
+        "file_name": "camera.june.xjpaizhaozhinan_221.apk",
+        "app_activity": "vch.qqf.image.MainActivity"
+    },
+    {
+        "app_name": "Perfect Me",
+        "package_name": "com.accordion.perfectme",
+        "file_name": "com.accordion.perfectme_222.apk",
+        "app_activity": "com.accordion.perfectme.activity.SplashActivity"
+    },
+    {
+        "app_name": "ptpro画质大师",
+        "package_name": "pthz.lsrhuazhi.clds",
+        "file_name": "pthz.lsrhuazhi.clds_223.apk",
+        "app_activity": "com.sxb.new_camera_11.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "蜜语",
+        "package_name": "com.xinyancy.ljhfo",
+        "file_name": "com.xinyancy.ljhfo_224.apk",
+        "app_activity": "com.sxb.newcamera1.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "绿叶修图",
+        "package_name": "com.qqxvjpiu.acbuth",
+        "file_name": "com.qqxvjpiu.acbuth_225.apk",
+        "app_activity": "com.fwlst.module_splash.SplashActivity"
+    },
+    {
+        "app_name": "极光抠图",
+        "package_name": "com.dongen.aicamera",
+        "file_name": "com.dongen.aicamera_226.apk",
+        "app_activity": "com.dongen.aicamera.app.main.SplashActivity"
+    },
+    {
+        "app_name": "星拍相机",
+        "package_name": "com.yuhuanchen.xingpai",
+        "file_name": "com.yuhuanchen.xingpai_227.apk",
+        "app_activity": "com.example.camera.MainActivity"
+    },
+    {
+        "app_name": "蛋啵",
+        "package_name": "com.meitu.mtbaby",
+        "file_name": "com.meitu.mtbaby_228.apk",
+        "app_activity": "com.meitu.mtbaby.startup.SplashActivity"
+    },
+    {
+        "app_name": "瞬火",
+        "package_name": "com.jqdsp.shunfire",
+        "file_name": "com.jqdsp.shunfire_229.apk",
+        "app_activity": "com.jqdsp.shunfire.ui.activity.SplashUI"
+    },
+    {
+        "app_name": "ColorCollect",
+        "package_name": "com.wizeyes.colorcapture",
+        "file_name": "com.wizeyes.colorcapture_230.apk",
+        "app_activity": "com.wizeyes.colorcapture.ui.page.splash.SplashActivity"
+    },
+    {
+        "app_name": "水印相机今日拍照",
+        "package_name": "com.hcj.markcamera",
+        "file_name": "com.hcj.markcamera_231.apk",
+        "app_activity": "com.hcj.markcamera.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "筑梦AI",
+        "package_name": "cn.qduoduo.aidrawing",
+        "file_name": "cn.qduoduo.aidrawing_232.apk",
+        "app_activity": "cn.qduoduo.aidrawing.MainActivity"
+    },
+    {
+        "app_name": "RiZaCam",
+        "package_name": "com.mendon.riza",
+        "file_name": "com.mendon.riza_233.apk",
+        "app_activity": "com.mendon.riza.app.launch.LaunchActivity"
+    },
+    {
+        "app_name": "换装相机",
+        "package_name": "com.dress.camera",
+        "file_name": "com.dress.camera_234.apk",
+        "app_activity": "com.zfxm.pipi.wallpaper.launcher.MyLauncherActivity"
+    },
+    {
+        "app_name": "秋月",
+        "package_name": "com.lljy.kirakira",
+        "file_name": "com.lljy.kirakira_235.apk",
+        "app_activity": "com.sxb.new_camera_16.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "一寸证件照",
+        "package_name": "com.njfh.cert",
+        "file_name": "com.njfh.cert_236.apk",
+        "app_activity": "com.certificate.photo.SplashActivity"
+    },
+    {
+        "app_name": "去马赛克",
+        "package_name": "com.jst.watermark",
+        "file_name": "com.jst.watermark_238.apk",
+        "app_activity": "com.jst.watermark.activity.StartActivity"
+    },
+    {
+        "app_name": "掌上拼图",
+        "package_name": "com.fengping.palmpuzzle",
+        "file_name": "com.fengping.palmpuzzle_239.apk",
+        "app_activity": "com.fengping.palmpuzzle.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "PhotoBox",
+        "package_name": "com.lezhi.meitubao",
+        "file_name": "com.lezhi.meitubao_240.apk",
+        "app_activity": "com.lezhi.meitubao.view.activity.LauncherActivity"
+    },
+    {
+        "app_name": "换发型",
+        "package_name": "com.isay.ydhairpaint",
+        "file_name": "com.isay.ydhairpaint_241.apk",
+        "app_activity": "com.haoyee.mojinclx.splash.SplashActivity"
+    },
+    {
+        "app_name": "迅捷抠图",
+        "package_name": "com.hudun.quickcutout",
+        "file_name": "com.hudun.quickcutout_242.apk",
+        "app_activity": "com.shuojie.easyphoto.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "醒图",
+        "package_name": "com.xt.retouch",
+        "file_name": "com.xt.retouch_243.apk",
+        "app_activity": "com.xt.retouch.uilauncher.LaunchActivity"
+    },
+    {
+        "app_name": "APRIL",
+        "package_name": "us.pinguo.april_collage",
+        "file_name": "us.pinguo.april_collage_244.apk",
+        "app_activity": "us.pinguo.april.MainActivity"
+    },
+    {
+        "app_name": "美颜管家",
+        "package_name": "com.yyyx.mymanager",
+        "file_name": "com.yyyx.mymanager_245.apk",
+        "app_activity": "com.yyyx.mymanager.activity.SplashActivity"
+    },
+    {
+        "app_name": "伊人",
+        "package_name": "com.gyyw.yrxj",
+        "file_name": "com.gyyw.yrxj_246.apk",
+        "app_activity": "com.sxb.new_camera_10.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "PicWish",
+        "package_name": "com.wangxutech.picwish",
+        "file_name": "com.wangxutech.picwish_247.apk",
+        "app_activity": "com.wangxutech.picwish.module.main.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "MIX拼图",
+        "package_name": "com.hitiantian.pintu",
+        "file_name": "com.hitiantian.pintu_248.apk",
+        "app_activity": "com.hitiantian.pintu.ui.SplashActivity"
+    },
+    {
+        "app_name": "图片加文字",
+        "package_name": "com.huankaifa.tpjwz",
+        "file_name": "com.huankaifa.tpjwz_249.apk",
+        "app_activity": "com.huankaifa.tpjwz.ZhuyeActivity"
+    },
+    {
+        "app_name": "证件照免费拍",
+        "package_name": "com.niyiidcamera.photo",
+        "file_name": "com.niyiidcamera.photo_250.apk",
+        "app_activity": "com.niyiidcamera.photo.SplashPreActivity"
+    },
+    {
+        "app_name": "GIF制作",
+        "package_name": "com.vavapps.gif",
+        "file_name": "com.vavapps.gif_251.apk",
+        "app_activity": "com.vavapps.gif.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "脸猫",
+        "package_name": "com.windandrain.facecat",
+        "file_name": "com.windandrain.facecat_252.apk",
+        "app_activity": "com.windandrain.facecat.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "照片时光机",
+        "package_name": "com.lezhi.retouch",
+        "file_name": "com.lezhi.retouch_253.apk",
+        "app_activity": "com.lezhi.retouch.activity.LauncherActivity"
+    },
+    {
+        "app_name": "魔镜测脸型",
+        "package_name": "com.haoyee.mojinclx",
+        "file_name": "com.haoyee.mojinclx_254.apk",
+        "app_activity": "com.haoyee.mojinclx.splash.SplashActivity"
+    },
+    {
+        "app_name": "光迷相机",
+        "package_name": "com.hanze.guangmixj",
+        "file_name": "com.hanze.guangmixj_255.apk",
+        "app_activity": "com.example.camera.MainActivity"
+    },
+    {
+        "app_name": "智能证件照",
+        "package_name": "com.mcr.idcamera",
+        "file_name": "com.mcr.idcamera_256.apk",
+        "app_activity": "com.mcr.idcamera.ui.activity.IndexActivity"
+    },
+    {
+        "app_name": "风云抠图",
+        "package_name": "com.xxrl.pic.picturerepair",
+        "file_name": "com.xxrl.pic.picturerepair_257.apk",
+        "app_activity": "com.xxrl.pic.picturerepair.controller.LoadingActivity"
+    },
+    {
+        "app_name": "青柠设计",
+        "package_name": "com.biku.design",
+        "file_name": "com.biku.design_258.apk",
+        "app_activity": "com.biku.base.activity.SplashActivity"
+    },
+    {
+        "app_name": "万能深度手机照片恢复精灵",
+        "package_name": "com.anqinglala.recover",
+        "file_name": "com.anqinglala.recover_259.apk",
+        "app_activity": "com.sqm.basedemeo.activity.SplashActivity"
+    },
+    {
+        "app_name": "P图抠图",
+        "package_name": "com.fugui.ps",
+        "file_name": "com.fugui.ps_260.apk",
+        "app_activity": "com.fugui.ps.MainActivity"
+    },
+    {
+        "app_name": "GIF动图制作",
+        "package_name": "com.gifediting.gifmake",
+        "file_name": "com.gifediting.gifmake_261.apk",
+        "app_activity": "com.gifediting.gifmake.SplashActivity"
+    },
+    {
+        "app_name": "微恢复助手",
+        "package_name": "cn.zhixiaohui.wechat.recovery.helper",
+        "file_name": "cn.zhixiaohui.wechat.recovery.helper_262.apk",
+        "app_activity": "cn.zhixiaohui.wechat.recovery.helper.ui.other.WelActivity"
+    },
+    {
+        "app_name": "证照拍",
+        "package_name": "com.dongqi.capture",
+        "file_name": "com.dongqi.capture_263.apk",
+        "app_activity": "com.dongqi.capture.newui.Splash2Activity"
+    },
+    {
+        "app_name": "光影",
+        "package_name": "com.jylx.gyxj",
+        "file_name": "com.jylx.gyxj_264.apk",
+        "app_activity": "com.videoedit.newcamera6.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "元道经纬相机",
+        "package_name": "com.ydtx.camera",
+        "file_name": "com.ydtx.camera_265.apk",
+        "app_activity": "com.ydtx.camera.activity.SplashActivitynew"
+    },
+    {
+        "app_name": "美美视频",
+        "package_name": "com.meimei.microbeauty",
+        "file_name": "com.meimei.microbeauty_266.apk",
+        "app_activity": "com.gangduo.microbeauty.uis.activity.SplashActivity"
+    },
+    {
+        "app_name": "Styler",
+        "package_name": "com.xl.styler",
+        "file_name": "com.xl.styler_267.apk",
+        "app_activity": "com.xl.styler.app.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "美鸭写真",
+        "package_name": "com.bromel.picture.meiya",
+        "file_name": "com.bromel.picture.meiya_268.apk",
+        "app_activity": "com.bromel.picture.meiya.ui.activity.SplashScreenActivity"
+    },
+    {
+        "app_name": "Ps图片处理工坊",
+        "package_name": "com.xinhongdian.ps",
+        "file_name": "com.xinhongdian.ps_269.apk",
+        "app_activity": "com.lanyueming.ps.MainActivity"
+    },
+    {
+        "app_name": "定位考勤打卡",
+        "package_name": "com.cdtt.watermark",
+        "file_name": "com.cdtt.watermark_270.apk",
+        "app_activity": "com.cdtt.watermark.SplashActivity"
+    },
+    {
+        "app_name": "lightroomcl",
+        "package_name": "com.pgfdusezfnb.wvhmurhmhy.hjwsis",
+        "file_name": "com.pgfdusezfnb.wvhmurhmhy.hjwsis_271.apk",
+        "app_activity": "com.qingxiang.zdzq.activty.StartActivity"
+    },
+    {
+        "app_name": "PS海报设计",
+        "package_name": "com.chaopin.poster",
+        "file_name": "com.chaopin.poster_272.apk",
+        "app_activity": "com.biku.base.activity.SplashActivity"
+    },
+
+    {
+        "app_name": "梦幻AI绘图画",
+        "package_name": "com.xsdr.aidraw",
+        "file_name": "com.xsdr.aidraw_1.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "相机摄影知识",
+        "package_name": "camera.february.xiangjisyzs.two",
+        "file_name": "camera.february.xiangjisyzs.two_2.apk",
+        "app_activity": "vch.qqf.image.MainActivity"
+    },
+    {
+        "app_name": "AI写真",
+        "package_name": "com.pinshi.aiphoto",
+        "file_name": "com.pinshi.aiphoto_3.apk",
+        "app_activity": "com.pingshi.smartalbum.actiivity.SplashActivity"
+    },
+    {
+        "app_name": "古风相机",
+        "package_name": "com.ancient.camerazy",
+        "file_name": "com.ancient.camerazy_4.apk",
+        "app_activity": "com.zhangying.AntiqueCamera.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "发型秀秀",
+        "package_name": "com.weimei.hairstyle",
+        "file_name": "com.weimei.hairstyle_5.apk",
+        "app_activity": "com.weimei.hairstyle.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "爱拍相机",
+        "package_name": "com.emotioconde.atone",
+        "file_name": "com.emotioconde.atone_6.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "王速证件照",
+        "package_name": "com.wangsuapp.idphoto",
+        "file_name": "com.wangsuapp.idphoto_7.apk",
+        "app_activity": "com.wangsuapp.idphoto.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "Dazz Cam滤镜",
+        "package_name": "com.nimingshud.dong",
+        "file_name": "com.nimingshud.dong_8.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "表情包制作器",
+        "package_name": "com.jbxk.nytp",
+        "file_name": "com.jbxk.nytp_9.apk",
+        "app_activity": "com.example.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "证件照研究院",
+        "package_name": "com.leqi.IDPhotoVerify",
+        "file_name": "com.leqi.IDPhotoVerify_10.apk",
+        "app_activity": "com.leqi.institute.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "Hairstyle try on Hair Styler",
+        "package_name": "com.qz.hairstyle",
+        "file_name": "com.qz.hairstyle_11.apk",
+        "app_activity": "com.qz.hairstyle.StartActivity"
+    },
+    {
+        "app_name": "图片搜搜",
+        "package_name": "com.bstoneinfo.pics",
+        "file_name": "com.bstoneinfo.pics_12.apk",
+        "app_activity": "com.estoneinfo.pics.app.StartActivity"
+    },
+    {
+        "app_name": "彩虹相机",
+        "package_name": "com.lxdcaihong.rtfdiuojikhg",
+        "file_name": "com.lxdcaihong.rtfdiuojikhg_13.apk",
+        "app_activity": "com.vcamera.meitu.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "爆笑p图",
+        "package_name": "hilarious.pchart.artifact",
+        "file_name": "hilarious.pchart.artifact_14.apk",
+        "app_activity": "com.beauty.pchart.artifact.common.StartActivity"
+    },
+    {
+        "app_name": "光影修图",
+        "package_name": "editor.guang.ying",
+        "file_name": "editor.guang.ying_15.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "BigjpgP图神器",
+        "package_name": "com.wpfbjp.pty",
+        "file_name": "com.wpfbjp.pty_16.apk",
+        "app_activity": "com.vtb.base.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "微商截图宝",
+        "package_name": "com.yiguo.wsjtb",
+        "file_name": "com.yiguo.wsjtb_17.apk",
+        "app_activity": "com.yiguo.wsjtb.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "VOUN相框",
+        "package_name": "rdxsz.xiangkuan.bianji",
+        "file_name": "rdxsz.xiangkuan.bianji_18.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "海马体照相馆",
+        "package_name": "cn.mainto.maintoapp",
+        "file_name": "cn.mainto.maintoapp_19.apk",
+        "app_activity": "cn.mainto.android.module.login.activity.SplashActivity"
+    },
+    {
+        "app_name": "九宫格切图制作",
+        "package_name": "com.snmi.ninecut",
+        "file_name": "com.snmi.ninecut_20.apk",
+        "app_activity": "com.snmi.ninecut.splash.StartActivity"
+    },
+    {
+        "app_name": "像素画家",
+        "package_name": "com.zebrapixel.pixelart",
+        "file_name": "com.zebrapixel.pixelart_21.apk",
+        "app_activity": "crc64659f1344e71968f9.MainActivity"
+    },
+    {
+        "app_name": "照片拼图趣",
+        "package_name": "com.wfhappyi.pintu",
+        "file_name": "com.wfhappyi.pintu_22.apk",
+        "app_activity": "com.wfhappyi.pintu.intro.SplashMainActivity"
+    },
+    {
+        "app_name": "智能直播助手",
+        "package_name": "com.fengsu.liveassistant",
+        "file_name": "com.fengsu.liveassistant_23.apk",
+        "app_activity": "com.fengsu.liveassistant.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "图片编辑P图制作",
+        "package_name": "com.shineyie.editpictureone.editpictureone",
+        "file_name": "com.shineyie.editpictureone.editpictureone_24.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "魔法抠图",
+        "package_name": "com.szy.pscutout",
+        "file_name": "com.szy.pscutout_25.apk",
+        "app_activity": "com.szy.pscutout.ui.welcome.SplashActivity"
+    },
+    {
+        "app_name": "天天抠图拼图",
+        "package_name": "com.teredy.pintu",
+        "file_name": "com.teredy.pintu_26.apk",
+        "app_activity": "com.teredy.pintu.ui.SplashActivity"
+    },
+    {
+        "app_name": "奇趣相机",
+        "package_name": "com.bjjh.qiquxj",
+        "file_name": "com.bjjh.qiquxj_27.apk",
+        "app_activity": "com.example.camera.MainActivity"
+    },
+    {
+        "app_name": "趣拼图",
+        "package_name": "com.qicaidun.puzzletoolbox",
+        "file_name": "com.qicaidun.puzzletoolbox_28.apk",
+        "app_activity": "com.qicaidun.puzzletoolbox.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "神灯素材助手",
+        "package_name": "com.linkstars.aladdin",
+        "file_name": "com.linkstars.aladdin_29.apk",
+        "app_activity": "com.linkstars.aladdin.MainActivity"
+    },
+    {
+        "app_name": "动态表情包制作",
+        "package_name": "com.cutdd.gifexp",
+        "file_name": "com.cutdd.gifexp_30.apk",
+        "app_activity": "com.cutdd.gifexp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "照妖镜工具箱",
+        "package_name": "zhaoyaojing.gongjuxiang.zhishi",
+        "file_name": "zhaoyaojing.gongjuxiang.zhishi_31.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "魔法橡皮擦",
+        "package_name": "com.lyy.pretouch",
+        "file_name": "com.lyy.pretouch_32.apk",
+        "app_activity": "com.lyy.pretouch.u.SplashActivity"
+    },
+    {
+        "app_name": "大咖玩图",
+        "package_name": "com.inda.wantu",
+        "file_name": "com.inda.wantu_33.apk",
+        "app_activity": "com.ks.app.ui.AppStartActivity"
+    },
+    {
+        "app_name": "拼图照片编辑",
+        "package_name": "com.showhappy.collage.photoeditor",
+        "file_name": "com.showhappy.collage.photoeditor_34.apk",
+        "app_activity": "com.cody.supads.activity.StartActivity"
+    },
+    {
+        "app_name": "Photo Cut Out",
+        "package_name": "com.xinmang.photocut",
+        "file_name": "com.xinmang.photocut_35.apk",
+        "app_activity": "com.xinmang.photocut.SplashAdActivity"
+    },
+    {
+        "app_name": "AI修图大师照片版",
+        "package_name": "com.photo.hyds",
+        "file_name": "com.photo.hyds_36.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "MosaicGraffiti",
+        "package_name": "com.liubowang.mosaicgraffiti",
+        "file_name": "com.liubowang.mosaicgraffiti_37.apk",
+        "app_activity": "www.wm.com.mosaicgraffiti.SplashAdActivity"
+    },
+    {
+        "app_name": "gg修改器",
+        "package_name": "com.mlangg.change",
+        "file_name": "com.mlangg.change_38.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "vscocamera",
+        "package_name": "kobe.kbvsc.camera",
+        "file_name": "kobe.kbvsc.camera_39.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "AI修复",
+        "package_name": "com.xiaoyun.airepair",
+        "file_name": "com.xiaoyun.airepair_40.apk",
+        "app_activity": "com.xiaoyun.airepair.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "漫画生成器",
+        "package_name": "com.dashujupro.paint",
+        "file_name": "com.dashujupro.paint_41.apk",
+        "app_activity": "com.dashujupro.paint.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "AI修图抠图工具",
+        "package_name": "com.yuanli.almattingtool",
+        "file_name": "com.yuanli.almattingtool_42.apk",
+        "app_activity": "com.yuanli.almattingtool.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "证件照",
+        "package_name": "com.uedzen.autophoto",
+        "file_name": "com.uedzen.autophoto_43.apk",
+        "app_activity": "com.uedzen.autophoto.activity.MainActivity"
+    },
+    {
+        "app_name": "魔法橡皮擦消除笔",
+        "package_name": "com.luoyu.xiangpica",
+        "file_name": "com.luoyu.xiangpica_44.apk",
+        "app_activity": "com.luoyu.xiangpica.FirstActivity"
+    },
+    {
+        "app_name": "光影证件照",
+        "package_name": "cn.neoimaging.idphoto",
+        "file_name": "cn.neoimaging.idphoto_45.apk",
+        "app_activity": "cn.neoimaging.splash.SplashActivity"
+    },
+    {
+        "app_name": "自拍照相机",
+        "package_name": "com.lrcam.photoxg",
+        "file_name": "com.lrcam.photoxg_46.apk",
+        "app_activity": "com.allbeauty.camerayq.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "切图大师",
+        "package_name": "com.jtqt.future",
+        "file_name": "com.jtqt.future_47.apk",
+        "app_activity": "com.fwlst.module_splash.SplashActivity"
+    },
+    {
+        "app_name": "GFX工具箱",
+        "package_name": "asnf.ioef.wnefi",
+        "file_name": "asnf.ioef.wnefi_48.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "照片恢复修复大师",
+        "package_name": "com.lezhi.retouchspare3",
+        "file_name": "com.lezhi.retouchspare3_49.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "水印相机微商",
+        "package_name": "apache.camera.syws",
+        "file_name": "apache.camera.syws_50.apk",
+        "app_activity": "apache.camera.syws.ui.BootActivity"
+    },
+    {
+        "app_name": "情侣头像匹配",
+        "package_name": "com.avatar.edit",
+        "file_name": "com.avatar.edit_51.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "发型多多",
+        "package_name": "com.zztudio.expisfo",
+        "file_name": "com.zztudio.expisfo_52.apk",
+        "app_activity": "com.bd.yifang.yifangWelcomeActivity"
+    },
+    {
+        "app_name": "Picture collage",
+        "package_name": "com.show.piccollagemaker",
+        "file_name": "com.show.piccollagemaker_53.apk",
+        "app_activity": "com.cody.supads.activity.StartActivity"
+    },
+    {
+        "app_name": "换发型软件",
+        "package_name": "com.niucc.huanfaxing",
+        "file_name": "com.niucc.huanfaxing_54.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "换背景",
+        "package_name": "com.kx.cutout",
+        "file_name": "com.kx.cutout_55.apk",
+        "app_activity": "com.kx.cutout.ui.SplashActivity"
+    },
+    {
+        "app_name": "老照片高清修复",
+        "package_name": "com.lemeng.hdfix.an",
+        "file_name": "com.lemeng.hdfix.an_56.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "照片马赛克",
+        "package_name": "yuanlai.com.masaike",
+        "file_name": "yuanlai.com.masaike_57.apk",
+        "app_activity": "yuanlai.com.masaike.SplashActivity"
+    },
+    {
+        "app_name": "图片合并",
+        "package_name": "com.photo.synthesis.diy",
+        "file_name": "com.photo.synthesis.diy_58.apk",
+        "app_activity": "com.photo.synthesis.diy.activity.StartActivity"
+    },
+    {
+        "app_name": "老照片修复",
+        "package_name": "com.lzpxfzj.android",
+        "file_name": "com.lzpxfzj.android_59.apk",
+        "app_activity": "com.lzpxfzj.android.module.view.StartUpPageActivity"
+    },
+    {
+        "app_name": "迅捷图片转换器",
+        "package_name": "com.hudun.picconversion",
+        "file_name": "com.hudun.picconversion_60.apk",
+        "app_activity": "com.hudun.picconversion.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "PE修图抠图软件",
+        "package_name": "com.bestworld.photoEdit",
+        "file_name": "com.bestworld.photoEdit_61.apk",
+        "app_activity": "org.cocos2dx.lua.AppActivity"
+    },
+    {
+        "app_name": "CREATORS CONNECT APP",
+        "package_name": "com.creator.xjylxc",
+        "file_name": "com.creator.xjylxc_62.apk",
+        "app_activity": "com.camera.alphalinker.ui.activity.home.SplashActivity"
+    },
+    {
+        "app_name": "照片拼图",
+        "package_name": "com.ppuzaa.ionyht.nai",
+        "file_name": "com.ppuzaa.ionyht.nai_63.apk",
+        "app_activity": "com.ppuzaa.ionyht.nai.activity.StartActivity"
+    },
+    {
+        "app_name": "Fotor",
+        "package_name": "com.everimaging.photoeffectstudio",
+        "file_name": "com.everimaging.photoeffectstudio_64.apk",
+        "app_activity": "com.everimaging.fotor.SplashActivity"
+    },
+    {
+        "app_name": "美容相机",
+        "package_name": "com.letsgo.facebuzx",
+        "file_name": "com.letsgo.facebuzx_65.apk",
+        "app_activity": "com.allbeauty.camerayq.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "视频无水印",
+        "package_name": "com.liuniantech.shipin",
+        "file_name": "com.liuniantech.shipin_66.apk",
+        "app_activity": "com.liuniantech.shipin.activities.LaunchActivity"
+    },
+    {
+        "app_name": "AI智能修复老照片",
+        "package_name": "com.ffwei.aiphoto",
+        "file_name": "com.ffwei.aiphoto_67.apk",
+        "app_activity": "com.ffwei.aiphoto.StartActivity"
+    },
+    {
+        "app_name": "抠图师",
+        "package_name": "org.duoduo.cutout.master",
+        "file_name": "org.duoduo.cutout.master_68.apk",
+        "app_activity": "com.qnet.appbase.ui.start.StartActivity"
+    },
+    {
+        "app_name": "证件照换底色",
+        "package_name": "com.leqi.HuandisePhoto",
+        "file_name": "com.leqi.HuandisePhoto_69.apk",
+        "app_activity": "com.leqi.idphotolite.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "老照片修复软件",
+        "package_name": "com.lifel.app",
+        "file_name": "com.lifel.app_70.apk",
+        "app_activity": "com.lifel.app.activity.InitNewActivity"
+    },
+    {
+        "app_name": "图生视频",
+        "package_name": "cszy.tssp.sjhv",
+        "file_name": "cszy.tssp.sjhv_71.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "Gif Maker",
+        "package_name": "com.mvtrail.gifmaker.xiaomi",
+        "file_name": "com.mvtrail.gifmaker.xiaomi_72.apk",
+        "app_activity": "com.mvtrail.gifmaker.component.SplashActivity"
+    },
+    {
+        "app_name": "底色证件照",
+        "package_name": "com.zjzphotoid.passport",
+        "file_name": "com.zjzphotoid.passport_73.apk",
+        "app_activity": "com.zjzphotoid.passport.ui.activity.EnterActivity"
+    },
+    {
+        "app_name": "美颜宝",
+        "package_name": "cn.qiaolatech.mycamera",
+        "file_name": "cn.qiaolatech.mycamera_74.apk",
+        "app_activity": "cn.qiaolatech.mycamera.SplashActivity"
+    },
+    {
+        "app_name": "视频美颜秀秀",
+        "package_name": "com.cgame.vbeauty",
+        "file_name": "com.cgame.vbeauty_75.apk",
+        "app_activity": "com.cgame.vbeauty.activity.SplashActivity"
+    },
+    {
+        "app_name": "小精灵美化包",
+        "package_name": "gysh.spirit.meihuabao",
+        "file_name": "gysh.spirit.meihuabao_76.apk",
+        "app_activity": "com.vbase.newimageedit2.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "照片美易art",
+        "package_name": "com.finger.image.editor",
+        "file_name": "com.finger.image.editor_77.apk",
+        "app_activity": "com.qnet.appbase.ui.start.StartActivity"
+    },
+    {
+        "app_name": "Avatar Creator",
+        "package_name": "com.xinxiu.AvatarMaker",
+        "file_name": "com.xinxiu.AvatarMaker_78.apk",
+        "app_activity": "com.xinxiu.AvatarMaker.Base.SplashActivity"
+    },
+    {
+        "app_name": "Easy Background Eraser",
+        "package_name": "com.lyy.lantu",
+        "file_name": "com.lyy.lantu_79.apk",
+        "app_activity": "com.lyy.lantu.SplashAct"
+    },
+    {
+        "app_name": "照片恢复卫士",
+        "package_name": "com.yctech.recovery",
+        "file_name": "com.yctech.recovery_80.apk",
+        "app_activity": "com.yctech.recovery.activity.GuideActivity"
+    },
+    {
+        "app_name": "时光影音修复馆",
+        "package_name": "com.keemoo.picture",
+        "file_name": "com.keemoo.picture_81.apk",
+        "app_activity": "com.keemoo.picture.MainActivity"
+    },
+    {
+        "app_name": "小柚子",
+        "package_name": "com.lhzjxf.xyzxj",
+        "file_name": "com.lhzjxf.xyzxj_82.apk",
+        "app_activity": "com.sxb.new_image_edit_3.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "美甜相机",
+        "package_name": "com.dustcamera.app",
+        "file_name": "com.dustcamera.app_83.apk",
+        "app_activity": "com.zhangying.appcollection.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "照片P图",
+        "package_name": "com.fisheditor.photocollage",
+        "file_name": "com.fisheditor.photocollage_84.apk",
+        "app_activity": "com.cody.supads.activity.StartActivity"
+    },
+    {
+        "app_name": "美颜P图相机",
+        "package_name": "com.fhx.psxt",
+        "file_name": "com.fhx.psxt_85.apk",
+        "app_activity": "com.fhx.psxt.Activity.LauncherActivity"
+    },
+    {
+        "app_name": "AI抠图魔术师",
+        "package_name": "com.lingbao.magician",
+        "file_name": "com.lingbao.magician_86.apk",
+        "app_activity": "com.lingbao.magician.activity.SplashActivity"
+    },
+    {
+        "app_name": "AI智能抠图软件",
+        "package_name": "com.yuanli.aimatting",
+        "file_name": "com.yuanli.aimatting_87.apk",
+        "app_activity": "com.yuanli.aimatting.mvp.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "封面一键制作大师",
+        "package_name": "com2fx8.covermk",
+        "file_name": "com2fx8.covermk_88.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "酷秀相机",
+        "package_name": "disq.wqd.qwqdf",
+        "file_name": "disq.wqd.qwqdf_89.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "发型设计搭配小助",
+        "package_name": "com.tyysd.aifxsj",
+        "file_name": "com.tyysd.aifxsj_90.apk",
+        "app_activity": "com.lxb.hairdesign.aty.StartActivity"
+    },
+    {
+        "app_name": "好映",
+        "package_name": "com.aijijiang.haoying",
+        "file_name": "com.aijijiang.haoying_91.apk",
+        "app_activity": "com.aijijiang.haoying.SplashActivity"
+    },
+    {
+        "app_name": "扩图",
+        "package_name": "photoeditor.shartine.mobile",
+        "file_name": "photoeditor.shartine.mobile_92.apk",
+        "app_activity": "com.myandroid.views.ui.SplashActivity"
+    },
+    {
+        "app_name": "魔狸猫AI绘画",
+        "package_name": "com.aidraw.mteaicawque",
+        "file_name": "com.aidraw.mteaicawque_93.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "美颜拍照相机",
+        "package_name": "com.yshb.camera",
+        "file_name": "com.yshb.camera_94.apk",
+        "app_activity": "com.yshb.camera.activity.SplashActivity"
+    },
+    {
+        "app_name": "自由水印相机",
+        "package_name": "com.wl.tools.camera",
+        "file_name": "com.wl.tools.camera_95.apk",
+        "app_activity": "com.wl.engine.powerful.camerax.modules.activity.SplashActivity"
+    },
+    {
+        "app_name": "StyleArt",
+        "package_name": "com.meice.aidraw",
+        "file_name": "com.meice.aidraw_96.apk",
+        "app_activity": "com.meice.aidraw.main.ui.SplashActivity"
+    },
+    {
+        "app_name": "趣拍证件照",
+        "package_name": "com.zhengda.qpzjz.android",
+        "file_name": "com.zhengda.qpzjz.android_97.apk",
+        "app_activity": "com.qb.zjz.module.home.ui.SplashActivity"
+    },
+    {
+        "app_name": "照片恢复宝",
+        "package_name": "cn.yunzhimi.topspeed.recovery",
+        "file_name": "cn.yunzhimi.topspeed.recovery_98.apk",
+        "app_activity": "cn.yunzhimi.topspeed.recovery.ui.other.WelYzmActivity"
+    },
+    {
+        "app_name": "元道经纬度水印相机",
+        "package_name": "com.yuan.daoxingsji",
+        "file_name": "com.yuan.daoxingsji_99.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "P图大师",
+        "package_name": "com.cerdillac.phototool.cn",
+        "file_name": "com.cerdillac.phototool.cn_100.apk",
+        "app_activity": "lightcone.com.pack.activity.SplashActivity"
+    },
+    {
+        "app_name": "相框装裱大师",
+        "package_name": "cn.weilaihongtech.photoframe",
+        "file_name": "cn.weilaihongtech.photoframe_101.apk",
+        "app_activity": "cn.weilaihongtech.photoframe.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "拼立得",
+        "package_name": "com.shengfeng.puzzle",
+        "file_name": "com.shengfeng.puzzle_102.apk",
+        "app_activity": "com.shengfeng.puzzle.activity.StartActivity"
+    },
+    {
+        "app_name": "人形姬",
+        "package_name": "cn.lolitabot.app",
+        "file_name": "cn.lolitabot.app_103.apk",
+        "app_activity": "cn.lolitabot.app.MainActivity"
+    },
+    {
+        "app_name": "MewX AI",
+        "package_name": "com.mewxai.painting",
+        "file_name": "com.mewxai.painting_104.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "AI智绘",
+        "package_name": "com.haidong.aipainting",
+        "file_name": "com.haidong.aipainting_105.apk",
+        "app_activity": "com.haidong.aipainting.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "美图修修",
+        "package_name": "com.meitxxclq.qilichu",
+        "file_name": "com.meitxxclq.qilichu_106.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "切图",
+        "package_name": "com.yc.crop",
+        "file_name": "com.yc.crop_107.apk",
+        "app_activity": "com.yc.crop.ui.SplashActivity"
+    },
+    {
+        "app_name": "一寸照",
+        "package_name": "com.shineyie.passportphoto",
+        "file_name": "com.shineyie.passportphoto_108.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "视频提取",
+        "package_name": "com.smallyin.videoextract",
+        "file_name": "com.smallyin.videoextract_109.apk",
+        "app_activity": "com.smallyin.videoextract.ui.SplashActivity"
+    },
+    {
+        "app_name": "春雨秀",
+        "package_name": "com.xiao.mengcamera",
+        "file_name": "com.xiao.mengcamera_110.apk",
+        "app_activity": "com.camera.eight.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "AI写真秀",
+        "package_name": "com.painter.ai",
+        "file_name": "com.painter.ai_111.apk",
+        "app_activity": "com.painter.ai.StartActivity"
+    },
+    {
+        "app_name": "电子证件照",
+        "package_name": "com.jakj.zjz",
+        "file_name": "com.jakj.zjz_112.apk",
+        "app_activity": "com.jakj.zjz.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "图片大小调整",
+        "package_name": "com.saturn.imgcompsx",
+        "file_name": "com.saturn.imgcompsx_113.apk",
+        "app_activity": "com.saturn.imgcompsx.ZeroActivity"
+    },
+    {
+        "app_name": "Gif制作器",
+        "package_name": "com.mike.gifmaker",
+        "file_name": "com.mike.gifmaker_114.apk",
+        "app_activity": "com.mike.gifmaker.SplashActivityTT"
+    },
+    {
+        "app_name": "相片编辑大师",
+        "package_name": "quxx.aven.xcvbe",
+        "file_name": "quxx.aven.xcvbe_115.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "拼长图",
+        "package_name": "com.maoying.longpicture",
+        "file_name": "com.maoying.longpicture_116.apk",
+        "app_activity": "com.maoying.longpicture.adActivity.SplashActivity"
+    },
+    {
+        "app_name": "codeformerapp",
+        "package_name": "com.dongshu.masaike",
+        "file_name": "com.dongshu.masaike_117.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "切片相机",
+        "package_name": "com.xintu.qiepianxj",
+        "file_name": "com.xintu.qiepianxj_118.apk",
+        "app_activity": "com.example.camera.MainActivity"
+    },
+    {
+        "app_name": "天天玩图",
+        "package_name": "com.ksks.wantu",
+        "file_name": "com.ksks.wantu_119.apk",
+        "app_activity": "com.ks.app.ui.AppStartActivity"
+    },
+    {
+        "app_name": "格式化工厂",
+        "package_name": "com.xiaoyun.conversion",
+        "file_name": "com.xiaoyun.conversion_120.apk",
+        "app_activity": "com.xiaoyun.conversion.activity.GuideActivity"
+    },
+    {
+        "app_name": "照片修图",
+        "package_name": "com.noya.collage.photocollage",
+        "file_name": "com.noya.collage.photocollage_121.apk",
+        "app_activity": "com.cody.supads.activity.StartActivity"
+    },
+    {
+        "app_name": "证件照美丽拍",
+        "package_name": "com.diaoyueyuan.beautifulcamera",
+        "file_name": "com.diaoyueyuan.beautifulcamera_122.apk",
+        "app_activity": "com.diaoyueyuan.beautifulcamera.ui.activity.IndexActivity"
+    },
+    {
+        "app_name": "AI发型设计相机",
+        "package_name": "com.xxl.hairstyle",
+        "file_name": "com.xxl.hairstyle_123.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "Photo Compressor",
+        "package_name": "com.bayescom.imgcompress",
+        "file_name": "com.bayescom.imgcompress_124.apk",
+        "app_activity": "com.bayescom.imgcompress.WelcomeActivity"
+    },
+    {
+        "app_name": "lrc图片调色工坊",
+        "package_name": "com.poxiao.imgedit",
+        "file_name": "com.poxiao.imgedit_125.apk",
+        "app_activity": "com.poxiao.imgedit.activitys.SplashActivity"
+    },
+    {
+        "app_name": "表情包定制",
+        "package_name": "com.bqb.byzxy",
+        "file_name": "com.bqb.byzxy_126.apk",
+        "app_activity": "com.tad.SplashAdActivity"
+    },
+    {
+        "app_name": "Fotor懒设计",
+        "package_name": "com.everimaging.designmobilecn",
+        "file_name": "com.everimaging.designmobilecn_127.apk",
+        "app_activity": "com.everimaging.fotor.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "头像空间",
+        "package_name": "com.orangemedia.avatar",
+        "file_name": "com.orangemedia.avatar_128.apk",
+        "app_activity": "com.orangemedia.avatar.view.activity.LaunchActivity"
+    },
+    {
+        "app_name": "修图P图编辑",
+        "package_name": "com.qew.photo.pro",
+        "file_name": "com.qew.photo.pro_129.apk",
+        "app_activity": "com.qnet.appbase.ui.start.StartActivity"
+    },
+    {
+        "app_name": "独孤发型设计",
+        "package_name": "com.dugu.hairstyling",
+        "file_name": "com.dugu.hairstyling_130.apk",
+        "app_activity": "com.dugu.hairstyling.MainActivity"
+    },
+    {
+        "app_name": "创新艺术字",
+        "package_name": "xyz.ai123.fonts",
+        "file_name": "xyz.ai123.fonts_131.apk",
+        "app_activity": "xyz.ai123.fonts.MainActivity"
+    },
+    {
+        "app_name": "抖商去水印",
+        "package_name": "com.yc.dyqsy",
+        "file_name": "com.yc.dyqsy_132.apk",
+        "app_activity": "com.yc.dyqsy.launcher.LauchActivity"
+    },
+    {
+        "app_name": "昕影秀",
+        "package_name": "camera.July.xinyingxiu",
+        "file_name": "camera.July.xinyingxiu_133.apk",
+        "app_activity": "vch.qqf.image.MainActivity"
+    },
+    {
+        "app_name": "gif动图表情包制作",
+        "package_name": "com.wl.gifdongtuzhizuo",
+        "file_name": "com.wl.gifdongtuzhizuo_134.apk",
+        "app_activity": "com.wl.gifdongtuzhizuo.start.StartActivity"
+    },
+    {
+        "app_name": "Cutisan壁纸",
+        "package_name": "com.imuuzi.cutisan",
+        "file_name": "com.imuuzi.cutisan_135.apk",
+        "app_activity": "com.imuuzi.cutisan.activity.FirstActivity"
+    },
+    {
+        "app_name": "一键去水印微商助手",
+        "package_name": "com.jingliangtech.camera",
+        "file_name": "com.jingliangtech.camera_136.apk",
+        "app_activity": "com.jingliangtech.camera.SplashActivity"
+    },
+    {
+        "app_name": "头像制作",
+        "package_name": "com.txdz.byzxy",
+        "file_name": "com.txdz.byzxy_137.apk",
+        "app_activity": "com.tad.SplashAdActivity"
+    },
+    {
+        "app_name": "Remo",
+        "package_name": "gdspxh.ydsfzi.com.agcmlq",
+        "file_name": "gdspxh.ydsfzi.com.agcmlq_138.apk",
+        "app_activity": "com.kmecpj.twmzxr.dqgbsp.activity.StartActivity"
+    },
+    {
+        "app_name": "经纬水印相机打卡",
+        "package_name": "com.thorace.gwaterm",
+        "file_name": "com.thorace.gwaterm_139.apk",
+        "app_activity": "com.thorace.gwaterm.camera.activitys.splash.HelloActivity"
+    },
+    {
+        "app_name": "超级百变秀",
+        "package_name": "com.ksks.bbx",
+        "file_name": "com.ksks.bbx_140.apk",
+        "app_activity": "com.ks.app.ui.AppStartActivity"
+    },
+    {
+        "app_name": "美易p图",
+        "package_name": "com.bocanlongy.meiyiptuccegr",
+        "file_name": "com.bocanlongy.meiyiptuccegr_141.apk",
+        "app_activity": "com.dokiwei.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "老照片Ai修复",
+        "package_name": "com.tm.lzpxf",
+        "file_name": "com.tm.lzpxf_142.apk",
+        "app_activity": "com.tm.lzpxf.StartActivity"
+    },
+    {
+        "app_name": "全能特效",
+        "package_name": "com.shareused.cord",
+        "file_name": "com.shareused.cord_143.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "指划修图por",
+        "package_name": "com.fgzhi.huaxt",
+        "file_name": "com.fgzhi.huaxt_144.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "照片修复机",
+        "package_name": "com.lezhi.retouchspare",
+        "file_name": "com.lezhi.retouchspare_145.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "LINE Camera",
+        "package_name": "com.linec.zhaobian",
+        "file_name": "com.linec.zhaobian_146.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "模糊照片修复",
+        "package_name": "com.sf.odlpic",
+        "file_name": "com.sf.odlpic_147.apk",
+        "app_activity": "com.sf.odlpic.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "青柠手帐极速版",
+        "package_name": "com.biku.note",
+        "file_name": "com.biku.note_148.apk",
+        "app_activity": "com.biku.note.activity.SplashActivity"
+    },
+    {
+        "app_name": "玩美彩妆",
+        "package_name": "com.perfectcorp.youcammakeupcn",
+        "file_name": "com.perfectcorp.youcammakeupcn_149.apk",
+        "app_activity": "com.cyberlink.youcammakeup.activity.SplashActivity"
+    },
+    {
+        "app_name": "美术加AI",
+        "package_name": "com.meishujia.ai",
+        "file_name": "com.meishujia.ai_150.apk",
+        "app_activity": "com.meishujia.ai.activity.LaunchActivity"
+    },
+    {
+        "app_name": "手机抠图换背景",
+        "package_name": "com.keyi.shoujikoutu",
+        "file_name": "com.keyi.shoujikoutu_151.apk",
+        "app_activity": "com.keyi.shoujikoutu.ui.MainActivity"
+    },
+    {
+        "app_name": "抠图精灵PS",
+        "package_name": "com.teredy.matting",
+        "file_name": "com.teredy.matting_152.apk",
+        "app_activity": "apache.rio.camera.SplashActivity"
+    },
+    {
+        "app_name": "结婚证件照",
+        "package_name": "com.puwu.marryphoto",
+        "file_name": "com.puwu.marryphoto_153.apk",
+        "app_activity": "com.puwu.marryphoto.Activity.SplashActivity"
+    },
+    {
+        "app_name": "手机照片恢复神器",
+        "package_name": "com.yanggu.picfix",
+        "file_name": "com.yanggu.picfix_154.apk",
+        "app_activity": "lj.wi.GL"
+    },
+    {
+        "app_name": "漫画脸相机",
+        "package_name": "com.boniu.mdcartooncamera",
+        "file_name": "com.boniu.mdcartooncamera_155.apk",
+        "app_activity": "com.boniu.mdcartooncamera.WelcomeActivity"
+    },
+    {
+        "app_name": "图片变清晰",
+        "package_name": "com.yc.photoclear",
+        "file_name": "com.yc.photoclear_156.apk",
+        "app_activity": "com.yc.photoclear.ui.SplashActivity"
+    },
+    {
+        "app_name": "一寸照片制作器",
+        "package_name": "com.leqi.OneInchPhoto",
+        "file_name": "com.leqi.OneInchPhoto_157.apk",
+        "app_activity": "com.leqi.OneInchPhoto.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "女生头像",
+        "package_name": "com.lingke.portrait",
+        "file_name": "com.lingke.portrait_158.apk",
+        "app_activity": "com.lingke.portrait.SplashActivity"
+    },
+    {
+        "app_name": "好看头像",
+        "package_name": "com.hktx.byzxy",
+        "file_name": "com.hktx.byzxy_159.apk",
+        "app_activity": "com.tad.SplashAdActivity"
+    },
+    {
+        "app_name": "爱鸭写真馆",
+        "package_name": "com.kuxin.aiyaxiezhen",
+        "file_name": "com.kuxin.aiyaxiezhen_160.apk",
+        "app_activity": "com.kuxin.aiyaxiezhen.MainActivity"
+    },
+    {
+        "app_name": "像素绘图",
+        "package_name": "com.pingdiguo.squaredraw",
+        "file_name": "com.pingdiguo.squaredraw_161.apk",
+        "app_activity": "com.pingdiguo.main.PolicyActivity"
+    },
+    {
+        "app_name": "免费证件照换底",
+        "package_name": "cn.xkycp.idphoto",
+        "file_name": "cn.xkycp.idphoto_162.apk",
+        "app_activity": "cn.xkycp.idphoto.activity.SplashActivity"
+    },
+    {
+        "app_name": "Shadow League",
+        "package_name": "com.tus.pimg",
+        "file_name": "com.tus.pimg_163.apk",
+        "app_activity": "com.tus.pimg.SplashActivity"
+    },
+    {
+        "app_name": "二维码生成",
+        "package_name": "com.jiuan.qrcode",
+        "file_name": "com.jiuan.qrcode_164.apk",
+        "app_activity": "com.jiuan.qrcode.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "P图扣图师",
+        "package_name": "company.szkj.piximage",
+        "file_name": "company.szkj.piximage_165.apk",
+        "app_activity": "company.szkj.usersystem.USFirstAlertActivity"
+    },
+    {
+        "app_name": "照片唱歌秀",
+        "package_name": "com.tm.texiaostore",
+        "file_name": "com.tm.texiaostore_166.apk",
+        "app_activity": "com.tm.photoediting.ui.activity.WelcomActivity"
+    },
+    {
+        "app_name": "美咔写真",
+        "package_name": "com.leqi.meika",
+        "file_name": "com.leqi.meika_167.apk",
+        "app_activity": "com.leqi.meekaphotoapplication.activity.SplashActivity"
+    },
+    {
+        "app_name": "海报设计室",
+        "package_name": "com.dongqi.posterdesign",
+        "file_name": "com.dongqi.posterdesign_168.apk",
+        "app_activity": "com.dongqi.posterdesign.WelcomeActivity"
+    },
+    {
+        "app_name": "AI照片抠图大师",
+        "package_name": "com.bny.ktphoto",
+        "file_name": "com.bny.ktphoto_169.apk",
+        "app_activity": "com.bny.ktphoto.Bny_StartActivity"
+    },
+    {
+        "app_name": "图片变漫画",
+        "package_name": "com.kuowen.tupianbianmanhua",
+        "file_name": "com.kuowen.tupianbianmanhua_170.apk",
+        "app_activity": "com.kuowen.tupianbianmanhua.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "刷圈兔",
+        "package_name": "com.jiangsu.shuaquanwang",
+        "file_name": "com.jiangsu.shuaquanwang_171.apk",
+        "app_activity": "com.jiangsu.shuaquanwang.actvivty.LuncherActivity"
+    },
+    {
+        "app_name": "微商换头像",
+        "package_name": "com.YiGeTechnology.XiaoWai",
+        "file_name": "com.YiGeTechnology.XiaoWai_172.apk",
+        "app_activity": "com.YiGeTechnology.XiaoWai.MVP_View.SplashActivity"
+    },
+    {
+        "app_name": "悦颜相机",
+        "package_name": "com.yueyand.xiangjieur",
+        "file_name": "com.yueyand.xiangjieur_173.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "印章设计",
+        "package_name": "com.yunchuan.stamp",
+        "file_name": "com.yunchuan.stamp_174.apk",
+        "app_activity": "com.yunchuan.stamp.SplashActivity"
+    },
+    {
+        "app_name": "图片处理",
+        "package_name": "com.xiaoyun.change.photorepair",
+        "file_name": "com.xiaoyun.change.photorepair_175.apk",
+        "app_activity": "com.xiaoyun.change.photorepair.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "水印修改宝",
+        "package_name": "com.zhaoxin.gaishuiyin",
+        "file_name": "com.zhaoxin.gaishuiyin_176.apk",
+        "app_activity": "com.zhaoxin.gaishuiyin.appbase.base.SplashActivity"
+    },
+    {
+        "app_name": "抠图美图室",
+        "package_name": "com.wangsuapp.cutimage",
+        "file_name": "com.wangsuapp.cutimage_177.apk",
+        "app_activity": "com.wangsuapp.cutimage.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "七彩",
+        "package_name": "com.lhzydw.qcx",
+        "file_name": "com.lhzydw.qcx_178.apk",
+        "app_activity": "com.videoedit.newcamera14.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "漫画头像制作",
+        "package_name": "com.keyi.manhuatouxiang",
+        "file_name": "com.keyi.manhuatouxiang_179.apk",
+        "app_activity": "com.keyi.app.SplashActivity"
+    },
+    {
+        "app_name": "素描相机铅笔画",
+        "package_name": "com.luoyu.sumiao",
+        "file_name": "com.luoyu.sumiao_180.apk",
+        "app_activity": "com.luoyu.sumiao.FirstActivity"
+    },
+    {
+        "app_name": "instaCram",
+        "package_name": "aalih.bfakj.sbwj",
+        "file_name": "aalih.bfakj.sbwj_181.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "GIF工具箱",
+        "package_name": "com.lqw.giftoolbox",
+        "file_name": "com.lqw.giftoolbox_182.apk",
+        "app_activity": "com.lqw.giftoolbox.activity.LauncherActivity"
+    },
+    {
+        "app_name": "24fps",
+        "package_name": "com.fps.meixues",
+        "file_name": "com.fps.meixues_183.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "智己",
+        "package_name": "com.zhi.ji",
+        "file_name": "com.zhi.ji_184.apk",
+        "app_activity": "com.zhi.ji.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "小画家涂鸦画画",
+        "package_name": "top.shuoguoit.penman",
+        "file_name": "top.shuoguoit.penman_185.apk",
+        "app_activity": "com.kevinstudio.penman.activity.KSplashActivity"
+    },
+    {
+        "app_name": "一键换背景",
+        "package_name": "cn.perfect.imgmatting",
+        "file_name": "cn.perfect.imgmatting_186.apk",
+        "app_activity": "cn.perfect.imgmatting.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "照片处理器",
+        "package_name": "com.maoying.editor",
+        "file_name": "com.maoying.editor_187.apk",
+        "app_activity": "com.maoying.editor.activity.SplashActivity"
+    },
+    {
+        "app_name": "照片p图编辑",
+        "package_name": "com.mengmmef.oriejmgr.jckaygpb",
+        "file_name": "com.mengmmef.oriejmgr.jckaygpb_188.apk",
+        "app_activity": "com.kessi.photopipcollagemaker.CSJSplashActivity"
+    },
+    {
+        "app_name": "清颜证件照",
+        "package_name": "com.njmizhilan.qingyan",
+        "file_name": "com.njmizhilan.qingyan_189.apk",
+        "app_activity": "com.njmizhilan.qingyan.ui.activity.IndexActivity"
+    },
+    {
+        "app_name": "绘画画板",
+        "package_name": "com.example.mysketchpadx",
+        "file_name": "com.example.mysketchpadx_190.apk",
+        "app_activity": "com.example.mysketchpadx.PrivacyActivity"
+    },
+    {
+        "app_name": "Novytool画质助手",
+        "package_name": "com.novvto.huazzs",
+        "file_name": "com.novvto.huazzs_191.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "抠图酱",
+        "package_name": "com.rywl.aicutout",
+        "file_name": "com.rywl.aicutout_192.apk",
+        "app_activity": "com.rywl.aicutout.SplashActivity"
+    },
+    {
+        "app_name": "PS修图手机版",
+        "package_name": "yxfs.txgt.zhcq",
+        "file_name": "yxfs.txgt.zhcq_193.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "海报工厂",
+        "package_name": "haibao.com.gongchang.jisuban",
+        "file_name": "haibao.com.gongchang.jisuban_194.apk",
+        "app_activity": "com.jinmo.module_splash.SplashActivity"
+    },
+    {
+        "app_name": "抖抖去水印",
+        "package_name": "com.doudoushuiyin.android",
+        "file_name": "com.doudoushuiyin.android_195.apk",
+        "app_activity": "com.doudoushuiyin.android.aaui.activity.SplashActivity"
+    },
+    {
+        "app_name": "香草",
+        "package_name": "com.utbftxrg.vsdkbpesx",
+        "file_name": "com.utbftxrg.vsdkbpesx_196.apk",
+        "app_activity": "com.fwlst.module_splash.SplashActivity"
+    },
+    {
+        "app_name": "Ai抠图换背景",
+        "package_name": "com.lanyueming.cutpic",
+        "file_name": "com.lanyueming.cutpic_197.apk",
+        "app_activity": "com.lanyueming.cutpic.activitys.SplashActivity"
+    },
+    {
+        "app_name": "Shadow League",
+        "package_name": "com.shadowleague.image",
+        "file_name": "com.shadowleague.image_198.apk",
+        "app_activity": "com.shadowleague.image.SplashActivity"
+    },
+    {
+        "app_name": "月舞",
+        "package_name": "com.lhzyty.ywx",
+        "file_name": "com.lhzyty.ywx_199.apk",
+        "app_activity": "com.sxb.new_camera_11.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "拼图P图",
+        "package_name": "com.juhe.puzzle",
+        "file_name": "com.juhe.puzzle_200.apk",
+        "app_activity": "com.juhe.puzzle.ui.SplashActivity"
+    },
+    {
+        "app_name": "妩媚秀",
+        "package_name": "wum.fax.bhdwdx",
+        "file_name": "wum.fax.bhdwdx_201.apk",
+        "app_activity": "com.sxb.new_imageedit_13.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "拼图海报工厂",
+        "package_name": "cn.lanpingtech.pintu",
+        "file_name": "cn.lanpingtech.pintu_202.apk",
+        "app_activity": "cn.lanpingtech.pintu.ui.SplashActivity"
+    },
+    {
+        "app_name": "抠图改图王",
+        "package_name": "com.haidong.cutoutedit",
+        "file_name": "com.haidong.cutoutedit_203.apk",
+        "app_activity": "com.haidong.cutoutedit.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "Carman轮匠",
+        "package_name": "com.carfrd.carman",
+        "file_name": "com.carfrd.carman_204.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "红桃",
+        "package_name": "com.gyyw.htxj",
+        "file_name": "com.gyyw.htxj_205.apk",
+        "app_activity": "com.videoedit.newimageedit15.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "一拍即传",
+        "package_name": "us.pinguo.pat360.cameraman",
+        "file_name": "us.pinguo.pat360.cameraman_206.apk",
+        "app_activity": "us.pinguo.pat360.cameraman.home.CMFlashActivity"
+    },
+    {
+        "app_name": "GIF Helper",
+        "package_name": "com.didikee.gifparser",
+        "file_name": "com.didikee.gifparser_207.apk",
+        "app_activity": "com.didikee.gifparser.ui.SplashAdActivity"
+    },
+    {
+        "app_name": "今日打卡水印拍照",
+        "package_name": "com.ietnzpiv.omjsdns",
+        "file_name": "com.ietnzpiv.omjsdns_208.apk",
+        "app_activity": "com.ietnzpiv.omjsdns.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "AI绘画宝",
+        "package_name": "com.ss.androidaiactshuihuabao.aidou",
+        "file_name": "com.ss.androidaiactshuihuabao.aidou_209.apk",
+        "app_activity": "com.iccapp.aipaint.entrance.activity.SplashActivity"
+    },
+    {
+        "app_name": "Image Editing",
+        "package_name": "com.lyst.my",
+        "file_name": "com.lyst.my_210.apk",
+        "app_activity": "com.lyst.my.WelcomeActivity"
+    },
+    {
+        "app_name": "AI Salt",
+        "package_name": "online.beautiful.as.salt",
+        "file_name": "online.beautiful.as.salt_211.apk",
+        "app_activity": "online.beautiful.as.salt.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "发型设计相机",
+        "package_name": "com.app.dpxj",
+        "file_name": "com.app.dpxj_212.apk",
+        "app_activity": "com.app.dpxj.activity.SplashActivity"
+    },
+    {
+        "app_name": "PSCC图片编辑",
+        "package_name": "glxx.pscc.bhes",
+        "file_name": "glxx.pscc.bhes_213.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "动感秀",
+        "package_name": "cn.yiqi.video",
+        "file_name": "cn.yiqi.video_214.apk",
+        "app_activity": "cn.yiqi.video.SplashActivity"
+    },
+    {
+        "app_name": "HairStyleSalon",
+        "package_name": "com.biggerlens.hairstylesalon.inapp",
+        "file_name": "com.biggerlens.hairstylesalon.inapp_215.apk",
+        "app_activity": "com.biggerlens.hairstylesalon.StartActivity"
+    },
+    {
+        "app_name": "照片拼接编辑器",
+        "package_name": "photocollage.photoeditor.eswc",
+        "file_name": "photocollage.photoeditor.eswc_216.apk",
+        "app_activity": "com.qnet.appbase.ui.start.StartActivity"
+    },
+    {
+        "app_name": "Remini照片修图",
+        "package_name": "lhypg.mxgu.xytg",
+        "file_name": "lhypg.mxgu.xytg_217.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "姓氏头像",
+        "package_name": "io.xstx.dzkj2022",
+        "file_name": "io.xstx.dzkj2022_218.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "相册查看编辑器",
+        "package_name": "com.oaksd.pic.edit",
+        "file_name": "com.oaksd.pic.edit_219.apk",
+        "app_activity": "com.oaksd.pic.edit.activity.StartActivity"
+    },
+    {
+        "app_name": "照片漫画",
+        "package_name": "com.manhua.zhaopians",
+        "file_name": "com.manhua.zhaopians_220.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "拼图秀秀",
+        "package_name": "com.xinxiu.pintu",
+        "file_name": "com.xinxiu.pintu_221.apk",
+        "app_activity": "com.xinxiu.pintu.Activity.SplashAdActivity"
+    },
+    {
+        "app_name": "remove抠图软件",
+        "package_name": "shuffle.remove.back",
+        "file_name": "shuffle.remove.back_222.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "抠图宝",
+        "package_name": "hetu.xphoto.cc",
+        "file_name": "hetu.xphoto.cc_223.apk",
+        "app_activity": "hetu.xphoto.cc.MainActivity"
+    },
+    {
+        "app_name": "抠图证件照",
+        "package_name": "com.fanghenet.grabcut",
+        "file_name": "com.fanghenet.grabcut_224.apk",
+        "app_activity": "com.fanghenet.grabcut.tang.activity.SplashActivity"
+    },
+    {
+        "app_name": "图片编辑加文字",
+        "package_name": "com.kfx008.tupianbianji",
+        "file_name": "com.kfx008.tupianbianji_225.apk",
+        "app_activity": "com.kfx008.tupianbianji.ui.Activity.Main.StartActivity"
+    },
+    {
+        "app_name": "animix",
+        "package_name": "com.cue.animix.cn",
+        "file_name": "com.cue.animix.cn_226.apk",
+        "app_activity": "com.cue.animix.ui.splash.SplashActivity"
+    }
+
+]

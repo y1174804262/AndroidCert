@@ -1,0 +1,476 @@
+[
+    {
+        "app_name": "熊猫签证",
+        "package_name": "com.pandavisa",
+        "file_name": "com.pandavisa_1.apk",
+        "app_activity": "com.pandavisa.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "我的旅记",
+        "package_name": "com.travel.mylj",
+        "file_name": "com.travel.mylj_2.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "TripSource China",
+        "package_name": "com.yl.travel.eclick.cn.majiabaoOne",
+        "file_name": "com.yl.travel.eclick.cn.majiabaoOne_3.apk",
+        "app_activity": "com.travel.SplashActivity"
+    },
+    {
+        "app_name": "途简单",
+        "package_name": "com.sheemee.toojd",
+        "file_name": "com.sheemee.toojd_4.apk",
+        "app_activity": "com.sheemee.toojd.MainActivity"
+    },
+    {
+        "app_name": "易派客商旅",
+        "package_name": "cn.vetech.vip.ui.ypk",
+        "file_name": "cn.vetech.vip.ui.ypk_5.apk",
+        "app_activity": "cn.vetech.vip.ui.ypk.MainActivity"
+    },
+    {
+        "app_name": "周边游",
+        "package_name": "com.jjtongc.travel",
+        "file_name": "com.jjtongc.travel_6.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "天下游助手",
+        "package_name": "tianxiayou.zhushou.jdq",
+        "file_name": "tianxiayou.zhushou.jdq_7.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "旅游规划",
+        "package_name": "com.yxhtian.travel",
+        "file_name": "com.yxhtian.travel_8.apk",
+        "app_activity": "com.huxt.project.adui.SplashActivity"
+    },
+    {
+        "app_name": "阿哈路书",
+        "package_name": "lushu.xoosh.cn.xoosh",
+        "file_name": "lushu.xoosh.cn.xoosh_9.apk",
+        "app_activity": "lushu.xoosh.cn.xoosh.MainActivity"
+    },
+    {
+        "app_name": "锦鲤旅游记",
+        "package_name": "com.cadl.jllyj",
+        "file_name": "com.cadl.jllyj_10.apk",
+        "app_activity": "com.guzhen.main.LaunchActivity"
+    },
+    {
+        "app_name": "出去玩旅游线路规划",
+        "package_name": "com.goplay.taketrip",
+        "file_name": "com.goplay.taketrip_11.apk",
+        "app_activity": "com.goplay.taketrip.SplashActivity"
+    },
+    {
+        "app_name": "天津高速通",
+        "package_name": "com.uroad.tianjincxfw",
+        "file_name": "com.uroad.tianjincxfw_12.apk",
+        "app_activity": "com.uroad.tianjincxfw.module.check.CheckDeviceActivity"
+    },
+    {
+        "app_name": "中航服商旅",
+        "package_name": "cn.caschina.ticket",
+        "file_name": "cn.caschina.ticket_13.apk",
+        "app_activity": "cn.caschina.ticket.activity.SplashActivity"
+    },
+    {
+        "app_name": "足迹",
+        "package_name": "com.iq.zuji",
+        "file_name": "com.iq.zuji_14.apk",
+        "app_activity": "com.iq.zuji.SplashActivity"
+    },
+    {
+        "app_name": "自游宝",
+        "package_name": "com.runru.self_tours",
+        "file_name": "com.runru.self_tours_15.apk",
+        "app_activity": "com.runru.self_tours.activity.StarActivity"
+    },
+    {
+        "app_name": "WDA ASIA",
+        "package_name": "com.example.swimmingusers",
+        "file_name": "com.example.swimmingusers_16.apk",
+        "app_activity": "com.example.swimmingusers.MainActivity"
+    },
+    {
+        "app_name": "12326",
+        "package_name": "com.travelsky.ias.app",
+        "file_name": "com.travelsky.ias.app_17.apk",
+        "app_activity": "com.travelsky.ias.app.SplashActivity"
+    },
+    {
+        "app_name": "及游册",
+        "package_name": "life.suoxing.travelog",
+        "file_name": "life.suoxing.travelog_18.apk",
+        "app_activity": "life.suoxing.travelog.MainActivity"
+    },
+    {
+        "app_name": "飞巴商旅",
+        "package_name": "com.flybycloud.feiba",
+        "file_name": "com.flybycloud.feiba_19.apk",
+        "app_activity": "com.flybycloud.feiba.activity.SplashActivity"
+    },
+    {
+        "app_name": "蒙马充电",
+        "package_name": "com.mengma.chargeapp.prod",
+        "file_name": "com.mengma.chargeapp.prod_20.apk",
+        "app_activity": "com.mengma.chargeapp.prod.MainActivity"
+    },
+    {
+        "app_name": "旅途管家",
+        "package_name": "com.tojoy.kangbosstrip",
+        "file_name": "com.tojoy.kangbosstrip_21.apk",
+        "app_activity": "cn.ztrip.MainActivity"
+    },
+    {
+        "app_name": "旷野时空",
+        "package_name": "com.directibilater.spons",
+        "file_name": "com.directibilater.spons_22.apk",
+        "app_activity": "com.air.stepward.module.lauch.AliasMainActivity"
+    },
+    {
+        "app_name": "隐藏针孔红点摄像头扫描探测器",
+        "package_name": "com.teredy.finder",
+        "file_name": "com.teredy.finder_23.apk",
+        "app_activity": "com.sqcatfix.emptyproject.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "监控眼防窃听检测",
+        "package_name": "cn.shengmitech.qieting",
+        "file_name": "cn.shengmitech.qieting_24.apk",
+        "app_activity": "com.sqcatfix.emptyproject.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "徒步行程规划",
+        "package_name": "com.wpcloud.travel",
+        "file_name": "com.wpcloud.travel_25.apk",
+        "app_activity": "com.huxt.basicdemo.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "旅途随身听",
+        "package_name": "com.chisheng.walkman",
+        "file_name": "com.chisheng.walkman_26.apk",
+        "app_activity": "com.chisheng.walkman.lding.ui.InitActivity"
+    },
+    {
+        "app_name": "航天易行",
+        "package_name": "com.dlhangtian.hangtianeasygo",
+        "file_name": "com.dlhangtian.hangtianeasygo_27.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "天津航空",
+        "package_name": "com.TianjinAirlines.androidApp",
+        "file_name": "com.TianjinAirlines.androidApp_28.apk",
+        "app_activity": "com.xc.tjhk.ui.contacts.activity.SplashActivity"
+    },
+    {
+        "app_name": "Me Uni",
+        "package_name": "com.meuni.app",
+        "file_name": "com.meuni.app_29.apk",
+        "app_activity": "com.meuni.app.MainActivity"
+    },
+    {
+        "app_name": "趣途刷刷",
+        "package_name": "com.gzfy.qtss",
+        "file_name": "com.gzfy.qtss_30.apk",
+        "app_activity": "com.shgy.app.commongamenew.activity.TransferActivity"
+    },
+    {
+        "app_name": "麦淘亲子",
+        "package_name": "com.maitao.mtqzy",
+        "file_name": "com.maitao.mtqzy_31.apk",
+        "app_activity": "com.maitao.mtqzy.main.SplashActivity"
+    },
+    {
+        "app_name": "Cuti Cuti Langkawi",
+        "package_name": "com.cuticutilangkawi.ccl",
+        "file_name": "com.cuticutilangkawi.ccl_32.apk",
+        "app_activity": "com.cuticutilangkawi.ccl.MainActivity"
+    },
+    {
+        "app_name": "途咕咕",
+        "package_name": "com.tugugu.www",
+        "file_name": "com.tugugu.www_33.apk",
+        "app_activity": "com.xianlan.ai.login.SplashActivity"
+    },
+    {
+        "app_name": "臻心生活",
+        "package_name": "com.pandun.jmt",
+        "file_name": "com.pandun.jmt_34.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "出差宝库",
+        "package_name": "com.baoku.android",
+        "file_name": "com.baoku.android_35.apk",
+        "app_activity": "com.baoku.android.ui.splach.SplachActivity"
+    },
+    {
+        "app_name": "My HKG",
+        "package_name": "com.hongkongairport.app.myflight",
+        "file_name": "com.hongkongairport.app.myflight_36.apk",
+        "app_activity": "com.hongkongairport.app.myflight.splash.SplashActivity"
+    },
+    {
+        "app_name": "片场",
+        "package_name": "cc.mocation.app",
+        "file_name": "cc.mocation.app_37.apk",
+        "app_activity": "cc.mocation.app.module.splish.SplashActivity"
+    },
+    {
+        "app_name": "Anywheel",
+        "package_name": "com.ytyiot.ebike.anywheel",
+        "file_name": "com.ytyiot.ebike.anywheel_38.apk",
+        "app_activity": "com.ytyiot.ebike.mvp.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "足迹时光机",
+        "package_name": "cn.androidguy.footprintmap",
+        "file_name": "cn.androidguy.footprintmap_39.apk",
+        "app_activity": "cn.androidguy.footprintmap.MainActivity"
+    },
+    {
+        "app_name": "空港嘉华",
+        "package_name": "com.yjtravel",
+        "file_name": "com.yjtravel_40.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "中青旅商旅",
+        "package_name": "com.cytsbiz.android",
+        "file_name": "com.cytsbiz.android_41.apk",
+        "app_activity": "com.cytsbiz.android.ui.splach.SplachActivity"
+    },
+    {
+        "app_name": "玩猴旅行",
+        "package_name": "pro.haichuang.whly240",
+        "file_name": "pro.haichuang.whly240_42.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "Current Info",
+        "package_name": "com.lefan.current",
+        "file_name": "com.lefan.current_43.apk",
+        "app_activity": "com.lefan.current.SplashActivity"
+    },
+    {
+        "app_name": "驿程差旅",
+        "package_name": "com.mst.businesstravel",
+        "file_name": "com.mst.businesstravel_44.apk",
+        "app_activity": "com.mst.businesstravel.ui.SplashActivity"
+    },
+    {
+        "app_name": "China Train Booking",
+        "package_name": "com.train.cht.chttrains",
+        "file_name": "com.train.cht.chttrains_45.apk",
+        "app_activity": "com.train.cht.chttrains.activity.SplashActivity"
+    },
+    {
+        "app_name": "美亚商旅",
+        "package_name": "com.meiya.app.ge",
+        "file_name": "com.meiya.app.ge_46.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "旅游线路设计实训系统",
+        "package_name": "lvyouxianlu.xunzhen",
+        "file_name": "lvyouxianlu.xunzhen_47.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "穷游行程助手",
+        "package_name": "com.qyer.android.plan",
+        "file_name": "com.qyer.android.plan_48.apk",
+        "app_activity": "com.qyer.android.plan.activity.launcher.SplashActivity"
+    },
+    {
+        "app_name": "粤商旅",
+        "package_name": "com.hmammon.yueshu",
+        "file_name": "com.hmammon.yueshu_49.apk",
+        "app_activity": "com.hmammon.yueshu.guide.activity.GuidePageActivity"
+    },
+    {
+        "app_name": "Garb",
+        "package_name": "com.teaas.iashf",
+        "file_name": "com.teaas.iashf_50.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "出国旅游英语",
+        "package_name": "com.honghesoft.travelenglish",
+        "file_name": "com.honghesoft.travelenglish_51.apk",
+        "app_activity": "com.honghesoft.travelenglish.AtyLauncher"
+    },
+    {
+        "app_name": "奇遇",
+        "package_name": "fun.qiyu.app",
+        "file_name": "fun.qiyu.app_52.apk",
+        "app_activity": "fun.qiyu.app.MainActivity"
+    },
+    {
+        "app_name": "中文世界地图",
+        "package_name": "net.cnmaps.googlemap",
+        "file_name": "net.cnmaps.googlemap_53.apk",
+        "app_activity": "net.cnmaps.googlemap.SplashActivity"
+    },
+    {
+        "app_name": "足迹地图",
+        "package_name": "com.iq.zujimap",
+        "file_name": "com.iq.zujimap_54.apk",
+        "app_activity": "com.iq.zujimap.ui.act.MainActivity"
+    },
+    {
+        "app_name": "机场贵宾服务",
+        "package_name": "com.tbiavvip.tbiaapp",
+        "file_name": "com.tbiavvip.tbiaapp_55.apk",
+        "app_activity": "com.tbiavvip.tbiaapp.MainActivity"
+    },
+    {
+        "app_name": "路线规划",
+        "package_name": "com.evans.travel",
+        "file_name": "com.evans.travel_56.apk",
+        "app_activity": "com.huxt.project.adui.SplashActivity"
+    },
+    {
+        "app_name": "研学智",
+        "package_name": "com.example.yanxue",
+        "file_name": "com.example.yanxue_57.apk",
+        "app_activity": "com.example.yanxue.MainActivity"
+    },
+    {
+        "app_name": "摄像头检测",
+        "package_name": "com.anqing.finder",
+        "file_name": "com.anqing.finder_58.apk",
+        "app_activity": "com.sqcatfix.emptyproject.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "瑞和车队",
+        "package_name": "com.rhjc56.lisp.app.fleet",
+        "file_name": "com.rhjc56.lisp.app.fleet_59.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "携龙商旅",
+        "package_name": "com.xielong.xl",
+        "file_name": "com.xielong.xl_60.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "简足迹",
+        "package_name": "com.xiushun.footprint",
+        "file_name": "com.xiushun.footprint_61.apk",
+        "app_activity": "com.xiushun.footprint.ui.MainActivity"
+    },
+    {
+        "app_name": "摩尼工具箱",
+        "package_name": "moni.dingwei.chaoxu",
+        "file_name": "moni.dingwei.chaoxu_62.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "睿铨通（VCcert）",
+        "package_name": "com.jixiucloud.vccert",
+        "file_name": "com.jixiucloud.vccert_63.apk",
+        "app_activity": "com.jixiucloud.vccert.MainActivity"
+    },
+    {
+        "app_name": "换乘案内",
+        "package_name": "com.anneitech.jptransit",
+        "file_name": "com.anneitech.jptransit_64.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "穷游助手",
+        "package_name": "com.qiongyoufa.xsy",
+        "file_name": "com.qiongyoufa.xsy_65.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "出国翻译官",
+        "package_name": "com.qicai.translate",
+        "file_name": "com.qicai.translate_66.apk",
+        "app_activity": "com.qicai.translate.ui.StartAppActivity"
+    },
+    {
+        "app_name": "六合文旅集团",
+        "package_name": "com.liuhe.shop",
+        "file_name": "com.liuhe.shop_67.apk",
+        "app_activity": "com.liuhe.shop.SplashActivity"
+    },
+    {
+        "app_name": "蜀南商旅",
+        "package_name": "cn.vetech.vip.ui.snwl",
+        "file_name": "cn.vetech.vip.ui.snwl_68.apk",
+        "app_activity": "cn.vetech.vip.ui.snwl.MainActivity"
+    },
+    {
+        "app_name": "英行商旅",
+        "package_name": "com.yh.tmc",
+        "file_name": "com.yh.tmc_69.apk",
+        "app_activity": "com.yh.MainActivity"
+    },
+    {
+        "app_name": "小旅星",
+        "package_name": "com.triplenty.app",
+        "file_name": "com.triplenty.app_70.apk",
+        "app_activity": "com.triplenty.app.MainActivity"
+    },
+    {
+        "app_name": "宁旅商旅",
+        "package_name": "com.hztmc.nlslapp",
+        "file_name": "com.hztmc.nlslapp_71.apk",
+        "app_activity": "com.hztmc.nlslapp.MainActivity"
+    },
+    {
+        "app_name": "今日旅行",
+        "package_name": "ning.zuo.jinri",
+        "file_name": "ning.zuo.jinri_72.apk",
+        "app_activity": "com.vtb.newlvxing3.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "杉禾航空",
+        "package_name": "com.benben.ticketreservation",
+        "file_name": "com.benben.ticketreservation_73.apk",
+        "app_activity": "com.benben.ticketreservation.SplashActivity"
+    },
+    {
+        "app_name": "掌上航班助手",
+        "package_name": "com.cakge.ylpxhvs",
+        "file_name": "com.cakge.ylpxhvs_74.apk",
+        "app_activity": "com.cakge.ylpxhvs.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "WasTrans",
+        "package_name": "com.wooask.wastrans",
+        "file_name": "com.wooask.wastrans_75.apk",
+        "app_activity": "com.wooask.wastrans.login.Ac_Welcome"
+    },
+    {
+        "app_name": "趣自驾",
+        "package_name": "com.grozal.roadbook",
+        "file_name": "com.grozal.roadbook_76.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "日本换乘",
+        "package_name": "com.tripsters.transfer",
+        "file_name": "com.tripsters.transfer_77.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "针孔偷拍摄像头探测器",
+        "package_name": "cn.moduoketech.finder",
+        "file_name": "cn.moduoketech.finder_78.apk",
+        "app_activity": "com.sqcatfix.emptyproject.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "笨鸟停车",
+        "package_name": "com.bntc.ytk",
+        "file_name": "com.bntc.ytk_79.apk",
+        "app_activity": "com.bntc.ytk.WelcomeActivity"
+    }
+]

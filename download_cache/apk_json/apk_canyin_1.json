@@ -1,0 +1,554 @@
+[
+    {
+        "app_name": "秦小白生活",
+        "package_name": "com.qxb.mall",
+        "file_name": "com.qxb.mall_1.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "丽华快餐",
+        "package_name": "io.lihua.build",
+        "file_name": "io.lihua.build_2.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "鼎锅在线",
+        "package_name": "uni.UNI3DA0903",
+        "file_name": "uni.UNI3DA0903_3.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "客必得",
+        "package_name": "com.kebide.app",
+        "file_name": "com.kebide.app_4.apk",
+        "app_activity": "com.kebide.app.MainActivity"
+    },
+    {
+        "app_name": "放心食",
+        "package_name": "com.restAssuredFood.cn",
+        "file_name": "com.restAssuredFood.cn_5.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "OpenRice",
+        "package_name": "com.openrice.android",
+        "file_name": "com.openrice.android_6.apk",
+        "app_activity": "com.openrice.android.ui.activity.splashscreen.SplashScreenActivity"
+    },
+    {
+        "app_name": "团花酿",
+        "package_name": "com.tuanhuaniang.mm",
+        "file_name": "com.tuanhuaniang.mm_7.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "茶猫",
+        "package_name": "com.teacat.teaclient",
+        "file_name": "com.teacat.teaclient_8.apk",
+        "app_activity": "com.cotticoffee.cotticlient.MainActivity"
+    },
+    {
+        "app_name": "依日三餐",
+        "package_name": "com.clx.yrsc.app",
+        "file_name": "com.clx.yrsc.app_9.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "babi_store",
+        "package_name": "com.xs1h.store",
+        "file_name": "com.xs1h.store_10.apk",
+        "app_activity": "com.xs1h.store.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "FanDine",
+        "package_name": "agilie.fandine",
+        "file_name": "agilie.fandine_11.apk",
+        "app_activity": "agilie.fandine.ui.activities.SplashActivity"
+    },
+    {
+        "app_name": "易企餐",
+        "package_name": "uni.UNI429E39A",
+        "file_name": "uni.UNI429E39A_12.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "WeBite",
+        "package_name": "com.mem.WeBite",
+        "file_name": "com.mem.WeBite_13.apk",
+        "app_activity": "com.mem.life.ui.launch.LaunchActivity"
+    },
+    {
+        "app_name": "鸿食灰太狼",
+        "package_name": "top.szhsbwc.app",
+        "file_name": "top.szhsbwc.app_14.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "大人来也",
+        "package_name": "com.mystery",
+        "file_name": "com.mystery_15.apk",
+        "app_activity": "com.mystery.MainActivity"
+    },
+    {
+        "app_name": "如糖",
+        "package_name": "com.jojotu.jojotoo",
+        "file_name": "com.jojotu.jojotoo_16.apk",
+        "app_activity": "com.jojotoo.app.splash.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "融e点",
+        "package_name": "nanning.lianwo",
+        "file_name": "nanning.lianwo_17.apk",
+        "app_activity": "com.ronda.barcodescanner.MainActivity"
+    },
+    {
+        "app_name": "氢鱼数字食堂",
+        "package_name": "com.hifish.cashier",
+        "file_name": "com.hifish.cashier_18.apk",
+        "app_activity": "com.hifish.cashier.module.start.StartActivity"
+    },
+    {
+        "app_name": "歪麦霸王餐",
+        "package_name": "com.waimaiii.waimaiii",
+        "file_name": "com.waimaiii.waimaiii_19.apk",
+        "app_activity": "com.waimaiii.waimaiii.MainActivity"
+    },
+    {
+        "app_name": "美食笔记",
+        "package_name": "com.chuangyuan.msbj",
+        "file_name": "com.chuangyuan.msbj_20.apk",
+        "app_activity": "com.lingdong.gm.activity.GMWebActivity"
+    },
+    {
+        "app_name": "E-GetS Store",
+        "package_name": "com.egets.stores",
+        "file_name": "com.egets.stores_21.apk",
+        "app_activity": "com.egets.stores.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "首客首享",
+        "package_name": "com.btg.customer",
+        "file_name": "com.btg.customer_22.apk",
+        "app_activity": "com.btg.customer.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "简单点点",
+        "package_name": "com.bluebud.JDDD",
+        "file_name": "com.bluebud.JDDD_23.apk",
+        "app_activity": "com.bluebud.JDDD.StartPageActivity"
+    },
+    {
+        "app_name": "名厨",
+        "package_name": "cn.com.greatchef",
+        "file_name": "cn.com.greatchef_24.apk",
+        "app_activity": "cn.com.greatchef.activity.SplashActivity"
+    },
+    {
+        "app_name": "扬子餐饮",
+        "package_name": "com.ace.yz.restaurant",
+        "file_name": "com.ace.yz.restaurant_25.apk",
+        "app_activity": "com.ace.yz.restaurant.activity.StartActivity"
+    },
+    {
+        "app_name": "SANTOKER烘豆帮",
+        "package_name": "com.santoker.roastassistant",
+        "file_name": "com.santoker.roastassistant_26.apk",
+        "app_activity": "com.santoker.app.android.MainActivity"
+    },
+    {
+        "app_name": "WNFSSA",
+        "package_name": "com.wntime.demo",
+        "file_name": "com.wntime.demo_27.apk",
+        "app_activity": "com.wntime.demo.activity.MainActivity"
+    },
+    {
+        "app_name": "央厨餐饮",
+        "package_name": "com.jvtd.central_kitchen_dining",
+        "file_name": "com.jvtd.central_kitchen_dining_28.apk",
+        "app_activity": "com.jvtd.central_kitchen_dining.MainActivity"
+    },
+    {
+        "app_name": "趁现",
+        "package_name": "com.yuandeyi.xq",
+        "file_name": "com.yuandeyi.xq_29.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "聚快送",
+        "package_name": "com.candao.fastDeliveryMarchant",
+        "file_name": "com.candao.fastDeliveryMarchant_30.apk",
+        "app_activity": "com.candao.fastDeliveryMarchant.MainActivity"
+    },
+    {
+        "app_name": "鹅叁宝",
+        "package_name": "com.esanbao.app",
+        "file_name": "com.esanbao.app_31.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "肥鲜到家商家版",
+        "package_name": "com.merbxywaimai.app",
+        "file_name": "com.merbxywaimai.app_32.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "管事儿",
+        "package_name": "uni.UNI09F303C",
+        "file_name": "uni.UNI09F303C_33.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "开心虎",
+        "package_name": "com.sx.kaixinhu",
+        "file_name": "com.sx.kaixinhu_34.apk",
+        "app_activity": "com.sx.kaixinhu.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "威弘",
+        "package_name": "com.wh.b",
+        "file_name": "com.wh.b_35.apk",
+        "app_activity": "com.wh.b.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "肯德基",
+        "package_name": "com.yek.android.kfc.activitys",
+        "file_name": "com.yek.android.kfc.activitys_36.apk",
+        "app_activity": "com.yum.brandkfc.SplashAct"
+    },
+    {
+        "app_name": "喜喜优选",
+        "package_name": "com.ircloud.ydh.agents.ydh01258929",
+        "file_name": "com.ircloud.ydh.agents.ydh01258929_37.apk",
+        "app_activity": "com.ircloud.ydh.agents.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "工银e生活",
+        "package_name": "com.icbc.elife",
+        "file_name": "com.icbc.elife_38.apk",
+        "app_activity": "com.icbc.elife.LoadingActivity"
+    },
+    {
+        "app_name": "正新鸡排",
+        "package_name": "com.wm.chicken_steak",
+        "file_name": "com.wm.chicken_steak_39.apk",
+        "app_activity": "com.wm.chicken_steak.MainActivity"
+    },
+    {
+        "app_name": "一席御厨",
+        "package_name": "com.mingchu.www",
+        "file_name": "com.mingchu.www_40.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "美味商家",
+        "package_name": "cn.mwee.mwboss",
+        "file_name": "cn.mwee.mwboss_41.apk",
+        "app_activity": "cn.mwee.mwboss.activity.SplashActivity"
+    },
+    {
+        "app_name": "用友餐饮云",
+        "package_name": "com.honghuotai.user",
+        "file_name": "com.honghuotai.user_42.apk",
+        "app_activity": "com.honghuotai.user.ui.guide.SplashActivity"
+    },
+    {
+        "app_name": "行云扫码点餐",
+        "package_name": "com.zjw.xysmartdr",
+        "file_name": "com.zjw.xysmartdr_43.apk",
+        "app_activity": "com.zjw.xysmartdr.module.login.SplashActivity"
+    },
+    {
+        "app_name": "德克士",
+        "package_name": "com.dicos.prod",
+        "file_name": "com.dicos.prod_44.apk",
+        "app_activity": "com.dicos.LaunchActivity"
+    },
+    {
+        "app_name": "指点饭圈",
+        "package_name": "com.berzd.dshuser",
+        "file_name": "com.berzd.dshuser_45.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "McDonald",
+        "package_name": "com.mcdonalds.gma.cn",
+        "file_name": "com.mcdonalds.gma.cn_46.apk",
+        "app_activity": "com.mcdonalds.gma.cn.activity.LaunchActivity"
+    },
+    {
+        "app_name": "库迪咖啡",
+        "package_name": "com.cotticoffee.cotticlient",
+        "file_name": "com.cotticoffee.cotticlient_47.apk",
+        "app_activity": "com.cotticoffee.cotticlient.MainActivity"
+    },
+    {
+        "app_name": "小调羹点餐",
+        "package_name": "com.ynwtandroid.fork",
+        "file_name": "com.ynwtandroid.fork_48.apk",
+        "app_activity": "com.ynwtandroid.fork.LogoActivity"
+    },
+    {
+        "app_name": "佰味城市",
+        "package_name": "com.benben.chushi",
+        "file_name": "com.benben.chushi_49.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "美食大比拼",
+        "package_name": "com.ruike.msdbp",
+        "file_name": "com.ruike.msdbp_50.apk",
+        "app_activity": "com.lingdong.gm.activity.GMWebActivity"
+    },
+    {
+        "app_name": "简易云点餐",
+        "package_name": "com.uafoo.mealOrder",
+        "file_name": "com.uafoo.mealOrder_51.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "小馋猫惠点餐",
+        "package_name": "uni.UNIDBD5DA9",
+        "file_name": "uni.UNIDBD5DA9_52.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "惜食魔法袋",
+        "package_name": "com.xs.app.user",
+        "file_name": "com.xs.app.user_53.apk",
+        "app_activity": "com.xs.app.user.ui.MainActivity"
+    },
+    {
+        "app_name": "红酒世界",
+        "package_name": "com.keruiyun.redwine",
+        "file_name": "com.keruiyun.redwine_54.apk",
+        "app_activity": "com.keruiyun.redwine.MainActivity"
+    },
+    {
+        "app_name": "海峡姐妹",
+        "package_name": "com.zsw.huixiang",
+        "file_name": "com.zsw.huixiang_55.apk",
+        "app_activity": "com.zsw.huixiang.MainActivity"
+    },
+    {
+        "app_name": "CHEF 2 CHEF",
+        "package_name": "com.epermarket.android.chef_flutter",
+        "file_name": "com.epermarket.android.chef_flutter_56.apk",
+        "app_activity": "com.example.chef_flutter.MainActivity"
+    },
+    {
+        "app_name": "番外食",
+        "package_name": "com.tylee.chating.view.activity",
+        "file_name": "com.tylee.chating.view.activity_57.apk",
+        "app_activity": "com.tylee.chating.view.activity.SplashBeforeActivity"
+    },
+    {
+        "app_name": "HEYTEA GO",
+        "package_name": "com.heyteago",
+        "file_name": "com.heyteago_58.apk",
+        "app_activity": "com.heyteago.MainActivity"
+    },
+    {
+        "app_name": "咖啡约吧",
+        "package_name": "com.inhe.kafei",
+        "file_name": "com.inhe.kafei_59.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "Chope",
+        "package_name": "com.chope.gui",
+        "file_name": "com.chope.gui_60.apk",
+        "app_activity": "com.chope.gui.activity.ChopeSplashActivity"
+    },
+    {
+        "app_name": "八方来菜",
+        "package_name": "com.shuyuan.bflc",
+        "file_name": "com.shuyuan.bflc_61.apk",
+        "app_activity": "com.lingdong.gm.activity.GMWebActivity"
+    },
+    {
+        "app_name": "海底捞",
+        "package_name": "com.haidilao",
+        "file_name": "com.haidilao_62.apk",
+        "app_activity": "com.haidilao.hailehui.biz.ActivityWelcome"
+    },
+    {
+        "app_name": "汉堡王中国",
+        "package_name": "cn.atpchina.mobileapp",
+        "file_name": "cn.atpchina.mobileapp_63.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "飞掌柜",
+        "package_name": "com.feiqilai",
+        "file_name": "com.feiqilai_64.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "饭折",
+        "package_name": "cn.fanzhe",
+        "file_name": "cn.fanzhe_65.apk",
+        "app_activity": "cn.fanzhe.MainActivity"
+    },
+    {
+        "app_name": "美团拍店",
+        "package_name": "com.sankuai.meituan.pai",
+        "file_name": "com.sankuai.meituan.pai_66.apk",
+        "app_activity": "com.sankuai.meituan.pai.MainActivity"
+    },
+    {
+        "app_name": "叮叮收银",
+        "package_name": "com.example.dingdingshouyin",
+        "file_name": "com.example.dingdingshouyin_67.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "菇乡宝",
+        "package_name": "com.diandi.qy",
+        "file_name": "com.diandi.qy_68.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "沙拉食刻",
+        "package_name": "com.shalashike.slskapp",
+        "file_name": "com.shalashike.slskapp_69.apk",
+        "app_activity": "com.shalashike.slskapp.business.splash.view.SplashActivity"
+    },
+    {
+        "app_name": "一席御厨厨师端",
+        "package_name": "com.mingchucs.www",
+        "file_name": "com.mingchucs.www_70.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "长和饭店",
+        "package_name": "htw.food.main",
+        "file_name": "htw.food.main_71.apk",
+        "app_activity": "htw.food.main.MainActivity"
+    },
+    {
+        "app_name": "冻品会",
+        "package_name": "com.dph",
+        "file_name": "com.dph_72.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "inm",
+        "package_name": "com.inm",
+        "file_name": "com.inm_73.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "掌上东胜",
+        "package_name": "com.zsds.zhangshangdongsheng",
+        "file_name": "com.zsds.zhangshangdongsheng_74.apk",
+        "app_activity": "com.zsds.zhangshangdongsheng.SplashActivity"
+    },
+    {
+        "app_name": "职工加班餐",
+        "package_name": "cn.wanyuanyun.eighteen",
+        "file_name": "cn.wanyuanyun.eighteen_75.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "予集",
+        "package_name": "uni.UNIEB38412",
+        "file_name": "uni.UNIEB38412_76.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "贝瑞咖啡",
+        "package_name": "com.belray.coffee",
+        "file_name": "com.belray.coffee_77.apk",
+        "app_activity": "com.belray.coffee.SplashActivity"
+    },
+    {
+        "app_name": "小梅园",
+        "package_name": "com.ircloud.ydh.agents.ydh03083283",
+        "file_name": "com.ircloud.ydh.agents.ydh03083283_78.apk",
+        "app_activity": "com.ircloud.ydh.agents.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "JO鸡尾酒",
+        "package_name": "com.smarthito.smartmixer",
+        "file_name": "com.smarthito.smartmixer_79.apk",
+        "app_activity": "com.smarthito.smartmixer.welcome.SplashActivity"
+    },
+    {
+        "app_name": "美味不用等",
+        "package_name": "com.puscene.client",
+        "file_name": "com.puscene.client_80.apk",
+        "app_activity": "com.puscene.client.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "后勤优管",
+        "package_name": "com.yftech.android.shell",
+        "file_name": "com.yftech.android.shell_81.apk",
+        "app_activity": "com.yftech.android.shell.MainActivity"
+    },
+    {
+        "app_name": "必胜客",
+        "package_name": "com.yumc.phsuperapp",
+        "file_name": "com.yumc.phsuperapp_82.apk",
+        "app_activity": "com.yum.ph.SplashAct"
+    },
+    {
+        "app_name": "Starbucks",
+        "package_name": "com.starbucks.cn",
+        "file_name": "com.starbucks.cn_83.apk",
+        "app_activity": "com.starbucks.cn.home.revamp.launch.RevampLaunchActivity"
+    },
+    {
+        "app_name": "店内点菜系统",
+        "package_name": "uniwaiter.app",
+        "file_name": "uniwaiter.app_84.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "每食优享",
+        "package_name": "com.sx.everymeal",
+        "file_name": "com.sx.everymeal_85.apk",
+        "app_activity": "com.sx.everymeal.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "店饭宝商家端",
+        "package_name": "com.dianfb.merchant",
+        "file_name": "com.dianfb.merchant_86.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "觅食蜂",
+        "package_name": "com.doweidu.mishidai",
+        "file_name": "com.doweidu.mishidai_87.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "赶芒",
+        "package_name": "plus.H563EF94C",
+        "file_name": "plus.H563EF94C_88.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "食安泸州",
+        "package_name": "cn.gjbigdata.zhihuishiyaojian",
+        "file_name": "cn.gjbigdata.zhihuishiyaojian_89.apk",
+        "app_activity": "cn.gjbigdata.zhihuishiyaojian.fuctions.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "i餐饮",
+        "package_name": "com.ihk.merchant",
+        "file_name": "com.ihk.merchant_90.apk",
+        "app_activity": "com.mskj.ihk.ihkbusiness.ui.FlashActivity"
+    },
+    {
+        "app_name": "瑞幸咖啡",
+        "package_name": "com.lucky.luckyclient",
+        "file_name": "com.lucky.luckyclient_91.apk",
+        "app_activity": "com.luckin.client.main.splash.SplashActivity"
+    },
+    {
+        "app_name": "客太蝉",
+        "package_name": "com.ketaichan.jiuge",
+        "file_name": "com.ketaichan.jiuge_92.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    }
+]

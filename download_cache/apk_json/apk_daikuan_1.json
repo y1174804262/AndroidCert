@@ -1,0 +1,1353 @@
+[
+    {
+        "app_name": "恒小花",
+        "package_name": "com.puhui.hyj",
+        "file_name": "com.puhui.hyj_1.apk",
+        "app_activity": "com.puhui.duoduodai.start.activity.CML_AppStartActivity"
+    },
+    {
+        "app_name": "分期乐",
+        "package_name": "com.fenqile.fenqile",
+        "file_name": "com.fenqile.fenqile_2.apk",
+        "app_activity": "com.fenqile.ui.home.ComplianceActivity"
+    },
+    {
+        "app_name": "无忧借款",
+        "package_name": "com.hk.wyjk",
+        "file_name": "com.hk.wyjk_3.apk",
+        "app_activity": "com.hk.wyjk.MainActivity"
+    },
+    {
+        "app_name": "优逸花",
+        "package_name": "com.msxf.newzy",
+        "file_name": "com.msxf.newzy_4.apk",
+        "app_activity": "com.msxf.newzy.ui.SplashActivity"
+    },
+    {
+        "app_name": "时光分期",
+        "package_name": "com.rong.fastloan",
+        "file_name": "com.rong.fastloan_5.apk",
+        "app_activity": "com.rong.fastloan.app.activity.SplashActivity"
+    },
+    {
+        "app_name": "万达贷",
+        "package_name": "com.wandaloans.timesloan",
+        "file_name": "com.wandaloans.timesloan_6.apk",
+        "app_activity": "com.wdloans.shidai.module.startup.StartupAgentActivity"
+    },
+    {
+        "app_name": "逾期债务助手",
+        "package_name": "com.juyou.zwyh",
+        "file_name": "com.juyou.zwyh_7.apk",
+        "app_activity": "com.program.dept.SplashActivity"
+    },
+    {
+        "app_name": "债务逾期处理平台",
+        "package_name": "com.shszm.zwyqclpt",
+        "file_name": "com.shszm.zwyqclpt_8.apk",
+        "app_activity": "com.cqszm.zwyqjjcs.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "金质花",
+        "package_name": "com.jmx.fapp",
+        "file_name": "com.jmx.fapp_9.apk",
+        "app_activity": "com.jmx.fapp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "晋商消费金融",
+        "package_name": "io.dcloud.H59193852",
+        "file_name": "io.dcloud.H59193852_10.apk",
+        "app_activity": "io.dcloud.H59193852.MVP.View.Activity.WelcomeActivity"
+    },
+    {
+        "app_name": "你我贷借款",
+        "package_name": "com.niwodai.universityloan",
+        "file_name": "com.niwodai.universityloan_11.apk",
+        "app_activity": "com.niwodai.loan.lead.WelComeAcV349"
+    },
+    {
+        "app_name": "钱小乐",
+        "package_name": "com.shuqu.banyanrich",
+        "file_name": "com.shuqu.banyanrich_12.apk",
+        "app_activity": "com.shuqu.banyan.guider.SplashActivity"
+    },
+    {
+        "app_name": "还呗",
+        "package_name": "com.shuhekeji",
+        "file_name": "com.shuhekeji_13.apk",
+        "app_activity": "com.dataseed.huanbei.ui.BootActivity"
+    },
+    {
+        "app_name": "橙小花",
+        "package_name": "com.catech.credit",
+        "file_name": "com.catech.credit_14.apk",
+        "app_activity": "com.catech.credit.view.splash.SplashActivity"
+    },
+    {
+        "app_name": "省呗",
+        "package_name": "com.samoyed.credit",
+        "file_name": "com.samoyed.credit_15.apk",
+        "app_activity": "com.samoyed.credit.activity.SplashActivity"
+    },
+    {
+        "app_name": "吉分期",
+        "package_name": "com.jidai.cn",
+        "file_name": "com.jidai.cn_16.apk",
+        "app_activity": "com.jidai.cn.ui.SplashActivity"
+    },
+    {
+        "app_name": "洋钱花",
+        "package_name": "com.yangqian.team",
+        "file_name": "com.yangqian.team_17.apk",
+        "app_activity": "com.yangqian.team.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "民生助粒Pro",
+        "package_name": "com.msyd.client",
+        "file_name": "com.msyd.client_18.apk",
+        "app_activity": "com.msyd.client.area.startUp.StartUpActivity"
+    },
+    {
+        "app_name": "人品贷极速版",
+        "package_name": "com.enniu.fastrpd",
+        "file_name": "com.enniu.fastrpd_19.apk",
+        "app_activity": "com.enniu.fastrpd.agreement.AgreementAct"
+    },
+    {
+        "app_name": "借钱放心花",
+        "package_name": "fangxinyongyiyuz.com",
+        "file_name": "fangxinyongyiyuz.com_20.apk",
+        "app_activity": "com.huahuajie.deyou.GuidActivity"
+    },
+    {
+        "app_name": "星图金融",
+        "package_name": "com.suning.mobile.epa",
+        "file_name": "com.suning.mobile.epa_21.apk",
+        "app_activity": "com.suning.mobile.epa.ui.init.SplashActivity"
+    },
+    {
+        "app_name": "分期贷款花",
+        "package_name": "com.fqdkh.oa",
+        "file_name": "com.fqdkh.oa_22.apk",
+        "app_activity": "com.example.flutter_module.host.MainActivity"
+    },
+    {
+        "app_name": "小鱼贷",
+        "package_name": "com.xiaoyu.team",
+        "file_name": "com.xiaoyu.team_23.apk",
+        "app_activity": "com.xiaoyu.team.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "小微钱铺",
+        "package_name": "com.czbank.qp",
+        "file_name": "com.czbank.qp_24.apk",
+        "app_activity": "com.zsbank.mars.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "滴滴金融",
+        "package_name": "com.xiaojukeji.finance",
+        "file_name": "com.xiaojukeji.finance_25.apk",
+        "app_activity": "com.xiaojukeji.finance.main.startup.FinSplashActivity"
+    },
+    {
+        "app_name": "东成贷",
+        "package_name": "com.dcd.www",
+        "file_name": "com.dcd.www_26.apk",
+        "app_activity": "com.dcd.www.MainActivity"
+    },
+    {
+        "app_name": "华夏金租",
+        "package_name": "com.leiming.jinzu",
+        "file_name": "com.leiming.jinzu_27.apk",
+        "app_activity": "com.leiming.jinzu.guide.GuideActivity"
+    },
+    {
+        "app_name": "还享借",
+        "package_name": "cn.shuhe.cashloan",
+        "file_name": "cn.shuhe.cashloan_28.apk",
+        "app_activity": "cn.shuhe.cashloan.ui.BootActivity"
+    },
+    {
+        "app_name": "乐享分期",
+        "package_name": "com.mashanghua.jieli",
+        "file_name": "com.mashanghua.jieli_29.apk",
+        "app_activity": "com.mashanghua.jieli.ui.SplashActivity"
+    },
+    {
+        "app_name": "小钱花贷款",
+        "package_name": "com.daikuanqianbao.haoyou",
+        "file_name": "com.daikuanqianbao.haoyou_30.apk",
+        "app_activity": "com.daikuanqianbao.haoyou.ui.SplashActivity"
+    },
+    {
+        "app_name": "星贷",
+        "package_name": "com.shichang.ysr",
+        "file_name": "com.shichang.ysr_31.apk",
+        "app_activity": "com.yoc.loan.wallet.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "救急钱包",
+        "package_name": "com.jiuji.go",
+        "file_name": "com.jiuji.go_32.apk",
+        "app_activity": "com.jiuji.go.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "负债逾期上岸",
+        "package_name": "com.kuanghua.yqjjcs",
+        "file_name": "com.kuanghua.yqjjcs_33.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "钱有余",
+        "package_name": "com.qianyouyu",
+        "file_name": "com.qianyouyu_34.apk",
+        "app_activity": "com.qianyouyu.policy.SplashActivity"
+    },
+    {
+        "app_name": "蒙商消费金融",
+        "package_name": "com.baoyin.credit",
+        "file_name": "com.baoyin.credit_35.apk",
+        "app_activity": "com.baoyin.credit.SplashActivity"
+    },
+    {
+        "app_name": "柚借",
+        "package_name": "com.shuyou.youjie",
+        "file_name": "com.shuyou.youjie_36.apk",
+        "app_activity": "com.shuyou.youjie.activities.StartPageAty"
+    },
+    {
+        "app_name": "中原消费金融",
+        "package_name": "com.hnzycfc.zyxj",
+        "file_name": "com.hnzycfc.zyxj_37.apk",
+        "app_activity": "com.hnzycfc.zyxj.splash.SplashActivity"
+    },
+    {
+        "app_name": "臻享分期",
+        "package_name": "com.hzlz.zxfq",
+        "file_name": "com.hzlz.zxfq_38.apk",
+        "app_activity": "com.hzlz.zxfq.MainActivity"
+    },
+    {
+        "app_name": "新呗贷款",
+        "package_name": "com.paihua.too",
+        "file_name": "com.paihua.too_39.apk",
+        "app_activity": "com.paihua.too.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "闪贷分期",
+        "package_name": "com.sdfq.by",
+        "file_name": "com.sdfq.by_40.apk",
+        "app_activity": "com.sdfq.by.MainActivity"
+    },
+    {
+        "app_name": "放心贷款",
+        "package_name": "fangxindaikuanxindi.com",
+        "file_name": "fangxindaikuanxindi.com_41.apk",
+        "app_activity": "com.huahuajie.deyou.GuidActivity"
+    },
+    {
+        "app_name": "白猫贷",
+        "package_name": "com.baimaodai.loan",
+        "file_name": "com.baimaodai.loan_42.apk",
+        "app_activity": "com.baimaodai.baimaodai.activity.SplashActivity"
+    },
+    {
+        "app_name": "苏银消金",
+        "package_name": "com.jsbchina.sykj",
+        "file_name": "com.jsbchina.sykj_43.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.main.MainActivity"
+    },
+    {
+        "app_name": "花鸭借钱",
+        "package_name": "com.xiaodai.credit",
+        "file_name": "com.xiaodai.credit_44.apk",
+        "app_activity": "pp.xiaodai.credit.splash.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "信用飞",
+        "package_name": "com.xinyongfei.xyf",
+        "file_name": "com.xinyongfei.xyf_45.apk",
+        "app_activity": "com.xinyongfei.xyf.view.activity.LauncherActivity"
+    },
+    {
+        "app_name": "宁银金融",
+        "package_name": "com.cf.dbank",
+        "file_name": "com.cf.dbank_46.apk",
+        "app_activity": "com.cf.dbank.ui.activity.ChooseIPActivity"
+    },
+    {
+        "app_name": "洋钱罐借款",
+        "package_name": "com.lingyue.zebraloan",
+        "file_name": "com.lingyue.zebraloan_47.apk",
+        "app_activity": "com.lingyue.banana.activities.BananaLaunchActivity"
+    },
+    {
+        "app_name": "诚易融",
+        "package_name": "cn.cyrong.cyr",
+        "file_name": "cn.cyrong.cyr_48.apk",
+        "app_activity": "cn.cyrong.cyr.MainActivity"
+    },
+    {
+        "app_name": "债务逾期上岸助手",
+        "package_name": "com.cqszm.zwyqjjcs",
+        "file_name": "com.cqszm.zwyqjjcs_49.apk",
+        "app_activity": "com.zwz.nnzwyh.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "应急分期借款",
+        "package_name": "com.yjfqjk.oa",
+        "file_name": "com.yjfqjk.oa_50.apk",
+        "app_activity": "com.yjfqjk.oa.MainActivity"
+    },
+    {
+        "app_name": "58好借",
+        "package_name": "com.wuba.borrowfinancials",
+        "file_name": "com.wuba.borrowfinancials_51.apk",
+        "app_activity": "com.wuba.borrowfinancials.welcome.SplashActivity"
+    },
+    {
+        "app_name": "吉享花",
+        "package_name": "com.lvxin.jxh",
+        "file_name": "com.lvxin.jxh_52.apk",
+        "app_activity": "com.lvxin.jxh.aty.LauchActivity"
+    },
+    {
+        "app_name": "随借",
+        "package_name": "com.suixingpay.cashloan",
+        "file_name": "com.suixingpay.cashloan_53.apk",
+        "app_activity": "com.suixingpay.cashloan.MainActivity"
+    },
+    {
+        "app_name": "浩瀚钱包",
+        "package_name": "uni.UNICAB44FD",
+        "file_name": "uni.UNICAB44FD_54.apk",
+        "app_activity": "uni.UNICAB44FD.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "桔多多",
+        "package_name": "com.juzifenqi.app",
+        "file_name": "com.juzifenqi.app_55.apk",
+        "app_activity": "com.juzifenqi.app.main.welcome.LauncherActivity"
+    },
+    {
+        "app_name": "分子借钱",
+        "package_name": "com.fzjq",
+        "file_name": "com.fzjq_56.apk",
+        "app_activity": "com.fzjq.load.LoadingActivity"
+    },
+    {
+        "app_name": "平安消费金融",
+        "package_name": "com.pacf",
+        "file_name": "com.pacf_57.apk",
+        "app_activity": "com.pacf.mvp.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "平安担保",
+        "package_name": "com.paem",
+        "file_name": "com.paem_58.apk",
+        "app_activity": "com.paem.bussiness.home.activity.StartActivity"
+    },
+    {
+        "app_name": "海尔消费金融",
+        "package_name": "com.haiercash",
+        "file_name": "com.haiercash_59.apk",
+        "app_activity": "com.haiercash.activity.Start_Page_new"
+    },
+    {
+        "app_name": "借钱贷款呗",
+        "package_name": "com.lehuahtj.com",
+        "file_name": "com.lehuahtj.com_60.apk",
+        "app_activity": "com.lehuahtj.com.ui.SplashActivity"
+    },
+    {
+        "app_name": "拍拍贷借款",
+        "package_name": "com.ppdai.loan",
+        "file_name": "com.ppdai.loan_61.apk",
+        "app_activity": "com.ppdai.loan.business.main.PPDHomeActivity"
+    },
+    {
+        "app_name": "阳光闪贷保",
+        "package_name": "com.sinosig.phapp",
+        "file_name": "com.sinosig.phapp_62.apk",
+        "app_activity": "com.sinosig.phapp.ui.startview.SplashActivity"
+    },
+    {
+        "app_name": "易花花",
+        "package_name": "com.linzi.pland",
+        "file_name": "com.linzi.pland_63.apk",
+        "app_activity": "com.yihuahua.www.project.splash.StartingActivity"
+    },
+    {
+        "app_name": "我来贷款王",
+        "package_name": "com.wolaidaikuanwang.wldk",
+        "file_name": "com.wolaidaikuanwang.wldk_64.apk",
+        "app_activity": "com.wolaidaikuanwang.wldk.ui.SplashActivity"
+    },
+    {
+        "app_name": "一品贷",
+        "package_name": "com.onepin.market",
+        "file_name": "com.onepin.market_65.apk",
+        "app_activity": "com.onepin.market.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "秒借备用金",
+        "package_name": "com.syhb.oa",
+        "file_name": "com.syhb.oa_66.apk",
+        "app_activity": "com.syhb.oa.MainActivity"
+    },
+    {
+        "app_name": "火山融",
+        "package_name": "com.huoshan.huoshanrong",
+        "file_name": "com.huoshan.huoshanrong_67.apk",
+        "app_activity": "com.huoshan.huoshanrong.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "榕树贷款",
+        "package_name": "com.shuqu.banyan",
+        "file_name": "com.shuqu.banyan_68.apk",
+        "app_activity": "com.shuqu.banyan.guider.SplashActivity"
+    },
+    {
+        "app_name": "杭银金融",
+        "package_name": "tomcat360.com.hyxfjr",
+        "file_name": "tomcat360.com.hyxfjr_69.apk",
+        "app_activity": "com.hyxfjr.splash.SplashActivity"
+    },
+    {
+        "app_name": "贝赢分期极速版",
+        "package_name": "com.ytxdff.beiyfq",
+        "file_name": "com.ytxdff.beiyfq_70.apk",
+        "app_activity": "com.ytxdff.beiyfq.modules.launch.activity.BYLaunchActivity"
+    },
+    {
+        "app_name": "浩瀚借钱",
+        "package_name": "com.haohan.hhjq",
+        "file_name": "com.haohan.hhjq_71.apk",
+        "app_activity": "com.binc.xzz.ui.SplashActivity"
+    },
+    {
+        "app_name": "花花",
+        "package_name": "huahuaxijunnew.com",
+        "file_name": "huahuaxijunnew.com_72.apk",
+        "app_activity": "com.huahuajie.deyou.GuidActivity"
+    },
+    {
+        "app_name": "够花",
+        "package_name": "com.haiercash.gouhua",
+        "file_name": "com.haiercash.gouhua_73.apk",
+        "app_activity": "com.haiercash.gouhua.activity.SplashActivity"
+    },
+    {
+        "app_name": "360分期",
+        "package_name": "com.qibu.mall",
+        "file_name": "com.qibu.mall_74.apk",
+        "app_activity": "com.qihoo.loan.LunchActivity"
+    },
+    {
+        "app_name": "360借条",
+        "package_name": "com.qibu.qfqb",
+        "file_name": "com.qibu.qfqb_75.apk",
+        "app_activity": "com.qihoo.loan.LunchActivity"
+    },
+    {
+        "app_name": "360信用钱包",
+        "package_name": "com.qibu.xyqb",
+        "file_name": "com.qibu.xyqb_76.apk",
+        "app_activity": "com.qihoo.loan.LunchActivity"
+    },
+    {
+        "app_name": "众邦众易贷",
+        "package_name": "com.zbank.zbankloan",
+        "file_name": "com.zbank.zbankloan_77.apk",
+        "app_activity": "com.zbank.zbankloan.ui.SplashActivity"
+    },
+    {
+        "app_name": "小象分期",
+        "package_name": "com.duoduoqianbaoxm.app",
+        "file_name": "com.duoduoqianbaoxm.app_78.apk",
+        "app_activity": "com.duoduoqianbaoxm.app.ui.SplashActivity"
+    },
+    {
+        "app_name": "建信消费金融",
+        "package_name": "com.ccbft.consumerfinance",
+        "file_name": "com.ccbft.consumerfinance_79.apk",
+        "app_activity": "com.ccbft.consumerfinance.SplashActivity"
+    },
+    {
+        "app_name": "秒贷备用金",
+        "package_name": "com.ruitaiyuan.miaodai",
+        "file_name": "com.ruitaiyuan.miaodai_80.apk",
+        "app_activity": "com.ruitaiyuan.miaodai.MainActivity"
+    },
+    {
+        "app_name": "债务还款优化",
+        "package_name": "com.zwz.zwhkyh",
+        "file_name": "com.zwz.zwhkyh_81.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "信用分期贷款花",
+        "package_name": "xinyongfenxiangx.com",
+        "file_name": "xinyongfenxiangx.com_82.apk",
+        "app_activity": "com.huahuajie.deyou.GuidActivity"
+    },
+    {
+        "app_name": "柚卡",
+        "package_name": "com.hnzycfc.tqh",
+        "file_name": "com.hnzycfc.tqh_83.apk",
+        "app_activity": "com.hnzycfc.zyxj.splash.SplashActivity"
+    },
+    {
+        "app_name": "小橙易卡",
+        "package_name": "cq.xcyk.lahs",
+        "file_name": "cq.xcyk.lahs_84.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "中银消费金融",
+        "package_name": "cn.boccfc.loan.finance",
+        "file_name": "cn.boccfc.loan.finance_85.apk",
+        "app_activity": "com.csii.iap.ui.SplashActivity"
+    },
+    {
+        "app_name": "备用金分期",
+        "package_name": "com.wolai.daikuanwang",
+        "file_name": "com.wolai.daikuanwang_86.apk",
+        "app_activity": "com.wolai.daikuanwang.ui.SplashActivity"
+    },
+    {
+        "app_name": "哈银消金",
+        "package_name": "com.hrbbcfc.client",
+        "file_name": "com.hrbbcfc.client_87.apk",
+        "app_activity": "com.hrbbcfc.client.business.PermissionsActivity"
+    },
+    {
+        "app_name": "安逸花",
+        "package_name": "com.msxf.ayh",
+        "file_name": "com.msxf.ayh_88.apk",
+        "app_activity": "com.msxf.ayh.ui.SplashActivity"
+    },
+    {
+        "app_name": "马上分期",
+        "package_name": "com.msxf.msg",
+        "file_name": "com.msxf.msg_89.apk",
+        "app_activity": "com.msxf.msg.ui.SplashActivity"
+    },
+    {
+        "app_name": "现金分期还",
+        "package_name": "com.yingjibeiyongjin.yjbyj",
+        "file_name": "com.yingjibeiyongjin.yjbyj_90.apk",
+        "app_activity": "com.yingjibeiyongjin.yjbyj.ui.SplashActivity"
+    },
+    {
+        "app_name": "快借备用金",
+        "package_name": "com.huixianghua.android",
+        "file_name": "com.huixianghua.android_91.apk",
+        "app_activity": "com.huixianghua.android.MainActivity"
+    },
+    {
+        "app_name": "富元汇",
+        "package_name": "com.fujfu.fyh",
+        "file_name": "com.fujfu.fyh_92.apk",
+        "app_activity": "com.fujfu.fyh.MainActivity"
+    },
+    {
+        "app_name": "我来数科",
+        "package_name": "co.welab.wolaidai",
+        "file_name": "co.welab.wolaidai_93.apk",
+        "app_activity": "co.welab.wolaidai.MainActivity"
+    },
+    {
+        "app_name": "中信消费金融",
+        "package_name": "com.eciticcfc",
+        "file_name": "com.eciticcfc_94.apk",
+        "app_activity": "com.eciticcfc.ui.start.StartActivity"
+    },
+    {
+        "app_name": "马上逾期上岸",
+        "package_name": "com.clzq.msyqsa",
+        "file_name": "com.clzq.msyqsa_95.apk",
+        "app_activity": "com.clzq.msyqsa.MainActivity"
+    },
+    {
+        "app_name": "移动手机货",
+        "package_name": "com.droid.credit",
+        "file_name": "com.droid.credit_96.apk",
+        "app_activity": "com.xye.bank.view.activity.app.WelcomeActivity"
+    },
+    {
+        "app_name": "微花钱包",
+        "package_name": "com.weihua.team",
+        "file_name": "com.weihua.team_97.apk",
+        "app_activity": "com.weihua.team.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "招贷",
+        "package_name": "com.cmbchina.zhaodai",
+        "file_name": "com.cmbchina.zhaodai_98.apk",
+        "app_activity": "com.cmbchina.cmf.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "好分期",
+        "package_name": "com.renrendai.haohuan",
+        "file_name": "com.renrendai.haohuan_99.apk",
+        "app_activity": "com.ucredit.paydayloan.SplashActivity"
+    },
+    {
+        "app_name": "闪信",
+        "package_name": "com.shanxin.app",
+        "file_name": "com.shanxin.app_100.apk",
+        "app_activity": "com.shanxin.app.MainActivity"
+    },
+    {
+        "app_name": "微贷分期",
+        "package_name": "com.jiekuan.wdfq",
+        "file_name": "com.jiekuan.wdfq_101.apk",
+        "app_activity": "com.example.flutter_module.host.MainActivity"
+    },
+    {
+        "app_name": "小源钱包",
+        "package_name": "com.gyxd.xyqb",
+        "file_name": "com.gyxd.xyqb_102.apk",
+        "app_activity": "com.jufu.kakahua.wallet.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "还享花",
+        "package_name": "cn.shuhe.enjoypay",
+        "file_name": "cn.shuhe.enjoypay_103.apk",
+        "app_activity": "cn.shuhe.enjoypay.ui.BootActivity"
+    },
+    {
+        "app_name": "龙享花",
+        "package_name": "com.longxianghua.app",
+        "file_name": "com.longxianghua.app_104.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "携程金融",
+        "package_name": "com.ctrip.jr",
+        "file_name": "com.ctrip.jr_105.apk",
+        "app_activity": "com.ctrip.jr.SplashActivity"
+    },
+    {
+        "app_name": "360周转灵",
+        "package_name": "com.qibu.zzloan",
+        "file_name": "com.qibu.zzloan_106.apk",
+        "app_activity": "com.qihoo.loan.LunchActivity"
+    },
+    {
+        "app_name": "宜享花",
+        "package_name": "com.yixianghua",
+        "file_name": "com.yixianghua_107.apk",
+        "app_activity": "com.yixianghua.SplashActivity"
+    },
+    {
+        "app_name": "恒易花",
+        "package_name": "com.hengh.hyihua",
+        "file_name": "com.hengh.hyihua_108.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "幸福花",
+        "package_name": "com.happycfc.finance",
+        "file_name": "com.happycfc.finance_110.apk",
+        "app_activity": "com.happycfc.finance.splash.SplashActivity"
+    },
+    {
+        "app_name": "小花钱包",
+        "package_name": "com.xhqb.app",
+        "file_name": "com.xhqb.app_111.apk",
+        "app_activity": "com.xhqb.app.welcome.activity.SplashActivity"
+    },
+    {
+        "app_name": "青橙山",
+        "package_name": "com.bangnihuan",
+        "file_name": "com.bangnihuan_112.apk",
+        "app_activity": "com.wimift.vflow.activity.SplashActivity"
+    },
+    {
+        "app_name": "中邮钱包",
+        "package_name": "com.youcash.ZYWallet",
+        "file_name": "com.youcash.ZYWallet_113.apk",
+        "app_activity": "com.youcash.ZYWallet.BridgeActivity"
+    },
+    {
+        "app_name": "京东金融",
+        "package_name": "com.jd.jrapp",
+        "file_name": "com.jd.jrapp_114.apk",
+        "app_activity": "com.jd.jrapp.bm.mainbox.main.MainActivity"
+    },
+    {
+        "app_name": "逾期债务减免",
+        "package_name": "com.dly.xyyqgj",
+        "file_name": "com.dly.xyyqgj_115.apk",
+        "app_activity": "com.dly.xyyqgj.MainActivity"
+    },
+    {
+        "app_name": "豆豆钱",
+        "package_name": "com.vcredit.ddcash",
+        "file_name": "com.vcredit.ddcash_116.apk",
+        "app_activity": "com.vcredit.ddcash.start.LaunchActivity"
+    },
+    {
+        "app_name": "51微卡包",
+        "package_name": "com.wuyiweikabaoapp.charlie",
+        "file_name": "com.wuyiweikabaoapp.charlie_117.apk",
+        "app_activity": "com.duoshan.yixin.main.home.activity.SplashActivity"
+    },
+    {
+        "app_name": "借款钞市",
+        "package_name": "com.jiekuanchaoshi.team",
+        "file_name": "com.jiekuanchaoshi.team_118.apk",
+        "app_activity": "com.jiekuanchaoshi.team.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "大象债务处理",
+        "package_name": "com.zh.gdyq",
+        "file_name": "com.zh.gdyq_119.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "黑猫搞定逾期",
+        "package_name": "com.yinliu.loan",
+        "file_name": "com.yinliu.loan_120.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "富宝袋",
+        "package_name": "com.fsk.fzf.fkd",
+        "file_name": "com.fsk.fzf.fkd_121.apk",
+        "app_activity": "com.fsk.fzf.fkd.adc.starter.activity.SplashActivity"
+    },
+    {
+        "app_name": "够借",
+        "package_name": "com.soyoo.goujie",
+        "file_name": "com.soyoo.goujie_122.apk",
+        "app_activity": "com.soyoo.goujie.activities.SplashActivity"
+    },
+    {
+        "app_name": "融360",
+        "package_name": "com.rong360.app",
+        "file_name": "com.rong360.app_123.apk",
+        "app_activity": "com.rong360.app.activity.GuideActivity"
+    },
+    {
+        "app_name": "小薪意",
+        "package_name": "cn.xiaoxinyi.android",
+        "file_name": "cn.xiaoxinyi.android_124.apk",
+        "app_activity": "cn.xiaoxinyi.android.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "吉客有钱",
+        "package_name": "com.cstech.jkyq",
+        "file_name": "com.cstech.jkyq_125.apk",
+        "app_activity": "com.cstech.jkyq.aty.LauchActivity"
+    },
+    {
+        "app_name": "好车e贷",
+        "package_name": "com.ugoodtech.goodcareasyloan",
+        "file_name": "com.ugoodtech.goodcareasyloan_126.apk",
+        "app_activity": "com.ugoodtech.goodcareasyloan.func.loading.LoadingActivity"
+    },
+    {
+        "app_name": "鲸享橙",
+        "package_name": "com.qcs.plus",
+        "file_name": "com.qcs.plus_127.apk",
+        "app_activity": "com.wimift.vflow.activity.SplashActivity"
+    },
+    {
+        "app_name": "国美易卡",
+        "package_name": "com.gomejr.icash",
+        "file_name": "com.gomejr.icash_128.apk",
+        "app_activity": "com.gomejr.icash.business.login.splash.SplashActivity"
+    },
+    {
+        "app_name": "KOO钱包",
+        "package_name": "com.koo.koou",
+        "file_name": "com.koo.koou_129.apk",
+        "app_activity": "com.koo.koou.bu.main.LauncherActivity"
+    },
+    {
+        "app_name": "节俭花",
+        "package_name": "com.hanhua.sz.app",
+        "file_name": "com.hanhua.sz.app_130.apk",
+        "app_activity": "com.hanhua.sz.app.activities.SplashAty"
+    },
+    {
+        "app_name": "北银消费金融",
+        "package_name": "com.mobile.byxf",
+        "file_name": "com.mobile.byxf_132.apk",
+        "app_activity": "com.mobile.ynetbank.splashscreen.WelcomeActivity"
+    },
+    {
+        "app_name": "盛银消费金融",
+        "package_name": "cn.com.syxfjr.android",
+        "file_name": "cn.com.syxfjr.android_133.apk",
+        "app_activity": "tech.madp.core.DefaultActivity"
+    },
+    {
+        "app_name": "秒享借",
+        "package_name": "com.xw.mxj",
+        "file_name": "com.xw.mxj_134.apk",
+        "app_activity": "com.example.flutter_module.host.MainActivity"
+    },
+    {
+        "app_name": "奇富借条",
+        "package_name": "com.qihoo.loan",
+        "file_name": "com.qihoo.loan_135.apk",
+        "app_activity": "com.qihoo.loan.LunchActivity"
+    },
+    {
+        "app_name": "大地时贷险",
+        "package_name": "com.ccicnet.customer",
+        "file_name": "com.ccicnet.customer_136.apk",
+        "app_activity": "com.ccicnet.customer.ui.login.SplashActivity"
+    },
+    {
+        "app_name": "富登信贷",
+        "package_name": "com.FCS.APP.fcsgroup",
+        "file_name": "com.FCS.APP.fcsgroup_137.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "金城小微金融",
+        "package_name": "com.kcbebank.ksme.loan",
+        "file_name": "com.kcbebank.ksme.loan_138.apk",
+        "app_activity": "com.kcbebank.ksme.loan.ui.launch.LauncherActivity"
+    },
+    {
+        "app_name": "招联金融",
+        "package_name": "com.zl.fqbao",
+        "file_name": "com.zl.fqbao_139.apk",
+        "app_activity": "com.mucfc.muapp.ui.welcome.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "真好借",
+        "package_name": "com.mdk.miaodaikuan",
+        "file_name": "com.mdk.miaodaikuan_140.apk",
+        "app_activity": "com.mdk.miaodaikuan.activity.SplashActivity"
+    },
+    {
+        "app_name": "小鱼儿",
+        "package_name": "com.hbxj.haidai",
+        "file_name": "com.hbxj.haidai_141.apk",
+        "app_activity": "com.jfbank.wanka.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "众安贷",
+        "package_name": "com.zaxd.loan",
+        "file_name": "com.zaxd.loan_142.apk",
+        "app_activity": "com.zaxd.loan.view.splash.SplashActivity"
+    },
+    {
+        "app_name": "分期花",
+        "package_name": "com.fenqihua.jiekuan",
+        "file_name": "com.fenqihua.jiekuan_143.apk",
+        "app_activity": "com.example.flutter_module.host.MainActivity"
+    },
+    {
+        "app_name": "好会借",
+        "package_name": "com.goodsee.borrow",
+        "file_name": "com.goodsee.borrow_144.apk",
+        "app_activity": "com.goodsee.borrow.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "橙多分",
+        "package_name": "com.ys.chengduofen",
+        "file_name": "com.ys.chengduofen_145.apk",
+        "app_activity": "com.ys.chengduofen.activity.SplashActivity"
+    },
+    {
+        "app_name": "零花钱贷款",
+        "package_name": "com.xiangjiangyuanlhqdk.app",
+        "file_name": "com.xiangjiangyuanlhqdk.app_146.apk",
+        "app_activity": "com.xiangjiangyuanlhqdk.app.ui.SplashActivity"
+    },
+    {
+        "app_name": "微呗贷款",
+        "package_name": "com.weibei.cot",
+        "file_name": "com.weibei.cot_147.apk",
+        "app_activity": "com.weibei.cot.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "通通分期",
+        "package_name": "com.jiwind.loan",
+        "file_name": "com.jiwind.loan_148.apk",
+        "app_activity": "com.ttfq.app.activity.TTSplashActivity"
+    },
+    {
+        "app_name": "曹操分期花",
+        "package_name": "com.weidaifenqihua.app",
+        "file_name": "com.weidaifenqihua.app_149.apk",
+        "app_activity": "com.haitianjiwdfqh.app.ui.SplashActivity"
+    },
+    {
+        "app_name": "逾期帮",
+        "package_name": "com.cqfl.yqb",
+        "file_name": "com.cqfl.yqb_151.apk",
+        "app_activity": "com.cqfl.yqb.MainActivity"
+    },
+    {
+        "app_name": "福小猫",
+        "package_name": "com.haowudai.fxm",
+        "file_name": "com.haowudai.fxm_152.apk",
+        "app_activity": "com.sj.yqh.SplashActivity"
+    },
+    {
+        "app_name": "有钱花",
+        "package_name": "com.duxiaoman.umoney",
+        "file_name": "com.duxiaoman.umoney_153.apk",
+        "app_activity": "com.duxiaoman.umoney.home.SplashActivity"
+    },
+    {
+        "app_name": "闪借备用金",
+        "package_name": "com.sjbyj.oa",
+        "file_name": "com.sjbyj.oa_154.apk",
+        "app_activity": "com.sjbyj.oa.MainActivity"
+    },
+    {
+        "app_name": "国家助学贷款",
+        "package_name": "com.cdb.sla",
+        "file_name": "com.cdb.sla_155.apk",
+        "app_activity": "com.csii.tech.ui.SplashActivity"
+    },
+    {
+        "app_name": "小白备用金",
+        "package_name": "uni.xiaobaibeiyongjin.lahs",
+        "file_name": "uni.xiaobaibeiyongjin.lahs_156.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "度小满金融",
+        "package_name": "com.duxiaoman.wallet",
+        "file_name": "com.duxiaoman.wallet_157.apk",
+        "app_activity": "com.duxiaoman.wallet.home.SplashActivity"
+    },
+    {
+        "app_name": "尚诚消费金融尊享版",
+        "package_name": "com.cupdata.shangcheng.release",
+        "file_name": "com.cupdata.shangcheng.release_158.apk",
+        "app_activity": "com.cupdata.activitys.SplashActivity"
+    },
+    {
+        "app_name": "捷信金融",
+        "package_name": "com.hcc.app",
+        "file_name": "com.hcc.app_159.apk",
+        "app_activity": "com.adastragrp.hccn.capp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "微借花",
+        "package_name": "com.mdk.xinmdk",
+        "file_name": "com.mdk.xinmdk_160.apk",
+        "app_activity": "com.miaodaikuan.ninemdk.ui.SplashActivity"
+    },
+    {
+        "app_name": "南银法巴消金",
+        "package_name": "cn.com.njxmxbank.mbank",
+        "file_name": "cn.com.njxmxbank.mbank_161.apk",
+        "app_activity": "com.csii.ui.MyLoadingActivity"
+    },
+    {
+        "app_name": "微客金融",
+        "package_name": "com.rmtool.app",
+        "file_name": "com.rmtool.app_162.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "宁波银行宁来花",
+        "package_name": "com.nbcb.nlhapp",
+        "file_name": "com.nbcb.nlhapp_163.apk",
+        "app_activity": "com.nbcb.nlhapp.ui.activity.ChooseIPActivity"
+    },
+    {
+        "app_name": "招联好期贷",
+        "package_name": "com.mucfc.hqdapp",
+        "file_name": "com.mucfc.hqdapp_164.apk",
+        "app_activity": "com.mucfc.muapp.ui.welcome.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "极融借款",
+        "package_name": "com.imassbank.loan",
+        "file_name": "com.imassbank.loan_165.apk",
+        "app_activity": "com.niwodai.loan.lead.WelComeAcV349"
+    },
+    {
+        "app_name": "芒哩",
+        "package_name": "com.mangojr.mangohua",
+        "file_name": "com.mangojr.mangohua_166.apk",
+        "app_activity": "com.mgtb.money.StartUpActivity"
+    },
+    {
+        "app_name": "杭银消费金融",
+        "package_name": "com.hyjr.online",
+        "file_name": "com.hyjr.online_167.apk",
+        "app_activity": "com.hyjr.online.splash.SplashActivity"
+    },
+    {
+        "app_name": "如小意小额贷款",
+        "package_name": "com.ruxiaoyi.prod",
+        "file_name": "com.ruxiaoyi.prod_168.apk",
+        "app_activity": "com.ruxiaoyi.prod.ui.activity.SplashActivity"
+    },
+
+    {
+        "app_name": "微享贷",
+        "package_name": "com.youyou.project",
+        "file_name": "com.youyou.project_1.apk",
+        "app_activity": "com.youyou.project.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "同城借",
+        "package_name": "com.tcheng.tcj.app",
+        "file_name": "com.tcheng.tcj.app_2.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "兴e贷",
+        "package_name": "com.ghbank.eloan",
+        "file_name": "com.ghbank.eloan_3.apk",
+        "app_activity": "com.ghbank.eloan.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "全民负债上岸",
+        "package_name": "com.shdzs.xykyqzx",
+        "file_name": "com.shdzs.xykyqzx_4.apk",
+        "app_activity": "com.shdzs.xykyqzx.MainActivity"
+    },
+    {
+        "app_name": "仲利来服务",
+        "package_name": "com.chailease.customerservice",
+        "file_name": "com.chailease.customerservice_5.apk",
+        "app_activity": "com.chailease.customerservice.login.StartActivity"
+    },
+    {
+        "app_name": "大鹅速借",
+        "package_name": "com.wl.desj",
+        "file_name": "com.wl.desj_6.apk",
+        "app_activity": "com.example.flutter_module.host.MainActivity"
+    },
+    {
+        "app_name": "闪花分期",
+        "package_name": "com.wl.shdq",
+        "file_name": "com.wl.shdq_7.apk",
+        "app_activity": "com.wl.shdq.MainActivity"
+    },
+    {
+        "app_name": "立马搞定逾期",
+        "package_name": "com.kuanghua.lmgdyq",
+        "file_name": "com.kuanghua.lmgdyq_8.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "有借有还",
+        "package_name": "youjieyouhuanxindi.com",
+        "file_name": "youjieyouhuanxindi.com_9.apk",
+        "app_activity": "com.huahuajie.deyou.GuidActivity"
+    },
+    {
+        "app_name": "小微分期借",
+        "package_name": "uni.xyfqj.lahs",
+        "file_name": "uni.xyfqj.lahs_10.apk",
+        "app_activity": "com.exabangongyi.bankl_lead.bank_lender_project.MainActivity"
+    },
+    {
+        "app_name": "债帮手",
+        "package_name": "com.rongshen.zbs",
+        "file_name": "com.rongshen.zbs_11.apk",
+        "app_activity": "com.jyfw.yqgdyq.ui.SplashActivity"
+    },
+    {
+        "app_name": "灵用钱",
+        "package_name": "com.haoyouwyjt.app",
+        "file_name": "com.haoyouwyjt.app_12.apk",
+        "app_activity": "com.haoyouwyjt.app.acitvity.ui.SplashActivity"
+    },
+    {
+        "app_name": "马上负债上岸",
+        "package_name": "com.lt.msfzsa",
+        "file_name": "com.lt.msfzsa_13.apk",
+        "app_activity": "com.lt.msfzsa.MainActivity"
+    },
+    {
+        "app_name": "好借应急花",
+        "package_name": "cq.haojieyingjihua.cttm",
+        "file_name": "cq.haojieyingjihua.cttm_14.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "云起钱包",
+        "package_name": "com.yunqiqianbao.app",
+        "file_name": "com.yunqiqianbao.app_15.apk",
+        "app_activity": "com.yunqiqianbao.app.MainActivity"
+    },
+    {
+        "app_name": "智信优选",
+        "package_name": "com.lingmai.zhixinyouxuan",
+        "file_name": "com.lingmai.zhixinyouxuan_16.apk",
+        "app_activity": "com.dsrongdanapp.zhxj.activity.StartActivity"
+    },
+    {
+        "app_name": "贝贝云",
+        "package_name": "com.demlution.aabeibeizhu",
+        "file_name": "com.demlution.aabeibeizhu_17.apk",
+        "app_activity": "com.demlution.aabeibeizhu.MainActivity"
+    },
+    {
+        "app_name": "有信逾期上岸",
+        "package_name": "com.ztt.yxyqsa",
+        "file_name": "com.ztt.yxyqsa_18.apk",
+        "app_activity": "com.ztt.yxyqsa.MainActivity"
+    },
+    {
+        "app_name": "搞定欠款纠纷",
+        "package_name": "com.cdlex.gdqkjf",
+        "file_name": "com.cdlex.gdqkjf_19.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "闪电易分期",
+        "package_name": "cq.shandianyijie.cttm",
+        "file_name": "cq.shandianyijie.cttm_20.apk",
+        "app_activity": "com.exabangongyi.bankl_lead.bank_lender_project.MainActivity"
+    },
+    {
+        "app_name": "征信苏州",
+        "package_name": "com.secs",
+        "file_name": "com.secs_21.apk",
+        "app_activity": "com.secs.MainActivity"
+    },
+    {
+        "app_name": "逾期债务重组",
+        "package_name": "com.gzl.yqzwcz",
+        "file_name": "com.gzl.yqzwcz_22.apk",
+        "app_activity": "com.cqszm.zwyqjjcs.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "小白分",
+        "package_name": "uni.xiaobaifen.lahs",
+        "file_name": "uni.xiaobaifen.lahs_23.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "好e借",
+        "package_name": "com.yeahka.easyget",
+        "file_name": "com.yeahka.easyget_24.apk",
+        "app_activity": "com.yeahka.easyget.MainActivity"
+    },
+    {
+        "app_name": "车E金服",
+        "package_name": "uni.UNI5B5CA66",
+        "file_name": "uni.UNI5B5CA66_25.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "曹操搞定逾期",
+        "package_name": "com.clzq.ccgdyq",
+        "file_name": "com.clzq.ccgdyq_26.apk",
+        "app_activity": "com.clzq.ccgdyq.MainActivity"
+    },
+    {
+        "app_name": "优信",
+        "package_name": "com.zhaiwu.yxhj",
+        "file_name": "com.zhaiwu.yxhj_27.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "重庆信易贷",
+        "package_name": "uni.UNI10E0F68",
+        "file_name": "uni.UNI10E0F68_28.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "安易融",
+        "package_name": "com.hzwtz.ayr",
+        "file_name": "com.hzwtz.ayr_29.apk",
+        "app_activity": "cn.ayrong.ayr.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "债无虑",
+        "package_name": "com.zwl.szfx",
+        "file_name": "com.zwl.szfx_30.apk",
+        "app_activity": "com.zwl.szfx.MainActivity"
+    },
+    {
+        "app_name": "债权债务通",
+        "package_name": "com.zhaiwuzyb.yi",
+        "file_name": "com.zhaiwuzyb.yi_31.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "百兴贷",
+        "package_name": "com.bxbank.enterprise",
+        "file_name": "com.bxbank.enterprise_32.apk",
+        "app_activity": "com.baixin.mobilebank.SplashActivity"
+    },
+    {
+        "app_name": "债优化",
+        "package_name": "com.shs.zwgj",
+        "file_name": "com.shs.zwgj_33.apk",
+        "app_activity": "com.shs.zwgj.MainActivity"
+    },
+    {
+        "app_name": "富融贷",
+        "package_name": "com.fubang.fbdd.app",
+        "file_name": "com.fubang.fbdd.app_34.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "博赢处理债务逾期",
+        "package_name": "com.ssd.yqxsb",
+        "file_name": "com.ssd.yqxsb_35.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "融呗",
+        "package_name": "com.sankuai.haoweidai",
+        "file_name": "com.sankuai.haoweidai_36.apk",
+        "app_activity": "com.sankuai.jieyidai.MainActivity"
+    },
+    {
+        "app_name": "云易花",
+        "package_name": "com.ahm.ym",
+        "file_name": "com.ahm.ym_37.apk",
+        "app_activity": "com.ahm.ym.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "搞定负债逾期",
+        "package_name": "com.shdzs.sdzwyh",
+        "file_name": "com.shdzs.sdzwyh_38.apk",
+        "app_activity": "com.shdzs.sdzwyh.MainActivity"
+    },
+    {
+        "app_name": "债帮帮",
+        "package_name": "com.hc.zbb",
+        "file_name": "com.hc.zbb_39.apk",
+        "app_activity": "com.hc.zbb.MainActivity"
+    },
+    {
+        "app_name": "放心花",
+        "package_name": "com.hk.fxh",
+        "file_name": "com.hk.fxh_40.apk",
+        "app_activity": "com.hk.fxh.MainActivity"
+    },
+    {
+        "app_name": "好信管家",
+        "package_name": "com.haoxinhua",
+        "file_name": "com.haoxinhua_41.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "上岸宝",
+        "package_name": "com.jd.sab",
+        "file_name": "com.jd.sab_42.apk",
+        "app_activity": "com.jd.sab.MainActivity"
+    },
+    {
+        "app_name": "铃融e经销商",
+        "package_name": "cn.com.jlcwgs.jxs",
+        "file_name": "cn.com.jlcwgs.jxs_43.apk",
+        "app_activity": "cn.com.MainActivity"
+    },
+    {
+        "app_name": "应急快贷款",
+        "package_name": "com.hema.lend",
+        "file_name": "com.hema.lend_44.apk",
+        "app_activity": "com.hema.lend.WelcomeActivity"
+    },
+    {
+        "app_name": "致越APP",
+        "package_name": "info.zykj.app",
+        "file_name": "info.zykj.app_45.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "掌上处理逾期",
+        "package_name": "com.cqfl.zsclyq",
+        "file_name": "com.cqfl.zsclyq_46.apk",
+        "app_activity": "com.cqfl.zsclyq.MainActivity"
+    },
+    {
+        "app_name": "唯享花",
+        "package_name": "com.gzhsdph.app",
+        "file_name": "com.gzhsdph.app_47.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "债务清",
+        "package_name": "com.ldd.zwq",
+        "file_name": "com.ldd.zwq_48.apk",
+        "app_activity": "com.ldd.zwq.MainActivity"
+    },
+    {
+        "app_name": "阳光消费",
+        "package_name": "com.cebscf.bjygxfjr",
+        "file_name": "com.cebscf.bjygxfjr_49.apk",
+        "app_activity": "com.example.hellotiny.SplashActivity"
+    },
+    {
+        "app_name": "富业贷",
+        "package_name": "com.fuxin.fxdd.app",
+        "file_name": "com.fuxin.fxdd.app_50.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "杭州e融",
+        "package_name": "com.hzfi.hangzhouerong",
+        "file_name": "com.hzfi.hangzhouerong_51.apk",
+        "app_activity": "com.wisdom.benefit.hangzhou.guide.WelcomeActivity"
+    },
+    {
+        "app_name": "小龙钱包",
+        "package_name": "com.longxianghuahlsd.app",
+        "file_name": "com.longxianghuahlsd.app_52.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "银小花",
+        "package_name": "com.yxing.yxh.app",
+        "file_name": "com.yxing.yxh.app_53.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "新易花",
+        "package_name": "com.guoxin.xyh",
+        "file_name": "com.guoxin.xyh_54.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "快花分期借",
+        "package_name": "uni.khfqj.lahs",
+        "file_name": "uni.khfqj.lahs_55.apk",
+        "app_activity": "com.exabangongyi.bankl_lead.bank_lender_project.MainActivity"
+    },
+    {
+        "app_name": "省呗优享版",
+        "package_name": "com.samoyed.credit.yxb",
+        "file_name": "com.samoyed.credit.yxb_56.apk",
+        "app_activity": "com.samoyed.credit.activity.SplashActivity"
+    },
+    {
+        "app_name": "乐享融",
+        "package_name": "cn.itechzwbbg.kadana",
+        "file_name": "cn.itechzwbbg.kadana_57.apk",
+        "app_activity": "com.sankuai.jieyidai.MainActivity"
+    },
+    {
+        "app_name": "雨商贷",
+        "package_name": "com.xyd.businessloans",
+        "file_name": "com.xyd.businessloans_58.apk",
+        "app_activity": "com.xyd.businessloans.view.activity.sys.StartActivity"
+    },
+    {
+        "app_name": "龙速贷",
+        "package_name": "com.longhai.lhdd.app",
+        "file_name": "com.longhai.lhdd.app_59.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "时光信用花",
+        "package_name": "cq.sgxyhqb.lahs",
+        "file_name": "cq.sgxyhqb.lahs_60.apk",
+        "app_activity": "com.exabangongyi.bankl_lead.bank_lender_project.MainActivity"
+    }
+]

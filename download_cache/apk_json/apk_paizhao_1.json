@@ -1,0 +1,2728 @@
+[
+    {
+        "app_name": "视频美颜专家",
+        "package_name": "com.lingqing.myexpert",
+        "file_name": "com.lingqing.myexpert_1.apk",
+        "app_activity": "com.lingqing.myexpert.activity.SplashActivity"
+    },
+    {
+        "app_name": "UseePlus",
+        "package_name": "com.i4season.useeplus",
+        "file_name": "com.i4season.useeplus_2.apk",
+        "app_activity": "com.i4season.useeplus.uirelated.maininitframe.InitFrameActivity"
+    },
+    {
+        "app_name": "元道相机mark",
+        "package_name": "com.teredy.watermark",
+        "file_name": "com.teredy.watermark_3.apk",
+        "app_activity": "com.cdtt.watermark.SplashActivity"
+    },
+    {
+        "app_name": "美照证件照",
+        "package_name": "com.sctengruidi.idptotos",
+        "file_name": "com.sctengruidi.idptotos_4.apk",
+        "app_activity": "com.example.unimpdemo.activity.SplashActivity"
+    },
+    {
+        "app_name": "工程相机",
+        "package_name": "com.xpx365.projphoto",
+        "file_name": "com.xpx365.projphoto_5.apk",
+        "app_activity": "com.xpx365.projphoto.SplashActivity"
+    },
+    {
+        "app_name": "玛卡相机",
+        "package_name": "sshy.kesw.oaqt",
+        "file_name": "sshy.kesw.oaqt_6.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "Souing",
+        "package_name": "camera.cn.cp",
+        "file_name": "camera.cn.cp_7.apk",
+        "app_activity": "camera.cn.cp.SplashActivity"
+    },
+    {
+        "app_name": "贴贴TieTie",
+        "package_name": "com.wemomo.tietie",
+        "file_name": "com.wemomo.tietie_8.apk",
+        "app_activity": "com.wemomo.tietie.welcome.SplashActivity"
+    },
+    {
+        "app_name": "BiBi Cam",
+        "package_name": "com.goplus.bibicam",
+        "file_name": "com.goplus.bibicam_9.apk",
+        "app_activity": "com.goplus.activity.ActivityStart"
+    },
+    {
+        "app_name": "魅脸",
+        "package_name": "grreg.ewrgerg.sadd",
+        "file_name": "grreg.ewrgerg.sadd_10.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "水印相机打卡神器",
+        "package_name": "com.xiangji.daka",
+        "file_name": "com.xiangji.daka_11.apk",
+        "app_activity": "com.xiangji.daka.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "马克水印相机",
+        "package_name": "com.ai.marki",
+        "file_name": "com.ai.marki_12.apk",
+        "app_activity": "com.ai.marki.camera2.biz.MainActivity"
+    },
+    {
+        "app_name": "精美电子证件照",
+        "package_name": "com.lixiangdong.idphotomaker",
+        "file_name": "com.lixiangdong.idphotomaker_13.apk",
+        "app_activity": "com.lixiangdong.idphotomaker.activity.SplashActivity"
+    },
+    {
+        "app_name": "Wuta Cam",
+        "package_name": "com.benqu.wuta",
+        "file_name": "com.benqu.wuta_14.apk",
+        "app_activity": "com.benqu.wuta.activities.splash.SplashActivity"
+    },
+    {
+        "app_name": "智能证件照",
+        "package_name": "com.njchulitech.aicamera",
+        "file_name": "com.njchulitech.aicamera_15.apk",
+        "app_activity": "com.njchulitech.aicamera.ui.activity.IndexActivity"
+    },
+    {
+        "app_name": "水印相机时间打卡",
+        "package_name": "com.ido.watermark.camera",
+        "file_name": "com.ido.watermark.camera_16.apk",
+        "app_activity": "com.ido.watermark.camera.activity.SplashActivity"
+    },
+    {
+        "app_name": "元道经纬水印",
+        "package_name": "cn.weixiaowenghua.xiangji",
+        "file_name": "cn.weixiaowenghua.xiangji_17.apk",
+        "app_activity": "cn.weixiaowenghua.xiangji.SplashActivity"
+    },
+    {
+        "app_name": "每天工作水印相机",
+        "package_name": "com.watermarkcamera.daily.huawei",
+        "file_name": "com.watermarkcamera.daily.huawei_18.apk",
+        "app_activity": "com.wifikey.tenthousands.flutter_watermark.MainActivity"
+    },
+    {
+        "app_name": "美漫相机",
+        "package_name": "com.hidong.beautycamera",
+        "file_name": "com.hidong.beautycamera_19.apk",
+        "app_activity": "com.hidong.beautycamera.app.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "水印相机万能精灵",
+        "package_name": "com.shuiyin.jingling",
+        "file_name": "com.shuiyin.jingling_20.apk",
+        "app_activity": "com.shuiyin.jingling.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "最美证件照",
+        "package_name": "com.certificate.photo",
+        "file_name": "com.certificate.photo_21.apk",
+        "app_activity": "com.certificate.photo.SplashActivity"
+    },
+    {
+        "app_name": "LoFi Cam",
+        "package_name": "com.camera.loficam",
+        "file_name": "com.camera.loficam_22.apk",
+        "app_activity": "com.camera.loficam.module_home.ui.activity.MainActivity"
+    },
+    {
+        "app_name": "一键美相机",
+        "package_name": "day.day.cameraupup",
+        "file_name": "day.day.cameraupup_23.apk",
+        "app_activity": "vch.qqf.image.MainActivity"
+    },
+    {
+        "app_name": "麻豆约拍",
+        "package_name": "com.madouyuepai.meiying",
+        "file_name": "com.madouyuepai.meiying_24.apk",
+        "app_activity": "com.madouyuepai.meiying.ui.SplashActivity"
+    },
+    {
+        "app_name": "众视界",
+        "package_name": "com.ntk.DaZhong",
+        "file_name": "com.ntk.DaZhong_25.apk",
+        "app_activity": "com.ntk.activity.LoadingActivity"
+    },
+    {
+        "app_name": "落日相机",
+        "package_name": "camera.june.luorixiangji",
+        "file_name": "camera.june.luorixiangji_26.apk",
+        "app_activity": "vch.qqf.image.MainActivity"
+    },
+    {
+        "app_name": "ZY Cami",
+        "package_name": "com.zhiyun.cama",
+        "file_name": "com.zhiyun.cama_27.apk",
+        "app_activity": "com.zhiyun.cama.splash.SplashActivity"
+    },
+    {
+        "app_name": "时间水印相机",
+        "package_name": "com.punch.in.camera",
+        "file_name": "com.punch.in.camera_28.apk",
+        "app_activity": "com.punch.in.camera.activity.StartActivity"
+    },
+    {
+        "app_name": "点滴打卡水印相机",
+        "package_name": "com.cstoolswatermarkcamera.drop",
+        "file_name": "com.cstoolswatermarkcamera.drop_29.apk",
+        "app_activity": "com.wifikey.tenthousands.flutter_watermark.MainActivity"
+    },
+    {
+        "app_name": "Chic Cam",
+        "package_name": "com.meitu.chic",
+        "file_name": "com.meitu.chic_30.apk",
+        "app_activity": "com.meitu.chic.startup.SplashActivity"
+    },
+    {
+        "app_name": "文字制作水印",
+        "package_name": "cn.chaoyoutek.xiutu",
+        "file_name": "cn.chaoyoutek.xiutu_31.apk",
+        "app_activity": "cn.chaoyoutek.xiutu.ui.boot.BootLoaderActivity"
+    },
+    {
+        "app_name": "元道水印GPS时间相机",
+        "package_name": "cn.ganchaoli.jingwei",
+        "file_name": "cn.ganchaoli.jingwei_32.apk",
+        "app_activity": "cn.ganchaoli.jingwei.logic.activity.BootPage"
+    },
+    {
+        "app_name": "手机模拟位置修改",
+        "package_name": "cn.njxianshe.mngps",
+        "file_name": "cn.njxianshe.mngps_33.apk",
+        "app_activity": "cn.njxianshe.mngps.mngpscd.common.LauncherActivity"
+    },
+    {
+        "app_name": "OldRoll复古胶片相机",
+        "package_name": "com.accordion.analogcam.cn",
+        "file_name": "com.accordion.analogcam.cn_34.apk",
+        "app_activity": "com.lightcone.analogcam.activity.SplashActivity"
+    },
+    {
+        "app_name": "Wide Camera",
+        "package_name": "com.lerp.pano",
+        "file_name": "com.lerp.pano_35.apk",
+        "app_activity": "com.lerp.panocamera.ui.MainActivity"
+    },
+    {
+        "app_name": "水印相机免费拍照",
+        "package_name": "com.youliang.shuiyin",
+        "file_name": "com.youliang.shuiyin_36.apk",
+        "app_activity": "com.youliang.shuiyin.HomeSplashActivity"
+    },
+    {
+        "app_name": "Gimbal Show",
+        "package_name": "com.xky.honji.gimbal",
+        "file_name": "com.xky.honji.gimbal_37.apk",
+        "app_activity": "com.xky.honji.activity.SplashScreenActivity"
+    },
+    {
+        "app_name": "Dazz Cam",
+        "package_name": "com.dazzkegd.cam",
+        "file_name": "com.dazzkegd.cam_38.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "秒拍",
+        "package_name": "com.yixia.videoeditor",
+        "file_name": "com.yixia.videoeditor_39.apk",
+        "app_activity": "com.yixia.videoeditor.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "B612咔叽",
+        "package_name": "com.campmobile.snowcamera",
+        "file_name": "com.campmobile.snowcamera_40.apk",
+        "app_activity": "com.linecorp.b612.android.activity.ActivityCamera"
+    },
+    {
+        "app_name": "Beauty Makeup Camera",
+        "package_name": "com.beautycamera.app",
+        "file_name": "com.beautycamera.app_41.apk",
+        "app_activity": "com.beautycamera.app.activity.LaunchActivity"
+    },
+    {
+        "app_name": "Hohem Joy",
+        "package_name": "com.hohem.hohemjoy",
+        "file_name": "com.hohem.hohemjoy_42.apk",
+        "app_activity": "com.hohemtech.hohempro.activity.SplashActivity"
+    },
+    {
+        "app_name": "universalWatermarkCamera",
+        "package_name": "com.biggercamera.watermarkcamera",
+        "file_name": "com.biggercamera.watermarkcamera_43.apk",
+        "app_activity": "com.biggercamera.watermarkcamera.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "卡哇相机",
+        "package_name": "camera.may.kawaxiangji",
+        "file_name": "camera.may.kawaxiangji_44.apk",
+        "app_activity": "vch.qqf.image.MainActivity"
+    },
+    {
+        "app_name": "snapseedretro",
+        "package_name": "com.sansp.olo.shab.ll",
+        "file_name": "com.sansp.olo.shab.ll_45.apk",
+        "app_activity": "com.image.edit.mten.activity.StartActivity"
+    },
+    {
+        "app_name": "拍立得复古相机",
+        "package_name": "cn.weixiaowenghua.Polaroid",
+        "file_name": "cn.weixiaowenghua.Polaroid_46.apk",
+        "app_activity": "cn.weixiaowenghua.Polaroid.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "最美电子证件照",
+        "package_name": "com.jk.photo.application",
+        "file_name": "com.jk.photo.application_47.apk",
+        "app_activity": "com.jk.photo.application.controller.LoadingActivity"
+    },
+    {
+        "app_name": "POCO Camera",
+        "package_name": "my.PCamera",
+        "file_name": "my.PCamera_48.apk",
+        "app_activity": "cn.poco.photo.ui.StartActivity"
+    },
+    {
+        "app_name": "Dazz复古胶片相机",
+        "package_name": "com.camera.zdazz",
+        "file_name": "com.camera.zdazz_49.apk",
+        "app_activity": "com.camera.zdazz.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "万能水印相机打卡",
+        "package_name": "com.cqaizhe.wannengcamera",
+        "file_name": "com.cqaizhe.wannengcamera_50.apk",
+        "app_activity": "com.cqaizhe.wannengcamera.activity.StartupPageActivity"
+    },
+    {
+        "app_name": "AI IDPhoto",
+        "package_name": "idphoto.passport.portrait",
+        "file_name": "idphoto.passport.portrait_51.apk",
+        "app_activity": "com.coocent.photos.id.activity.LaunchActivity"
+    },
+    {
+        "app_name": "拍立得相机",
+        "package_name": "zzkd.jiaopian.xiangji",
+        "file_name": "zzkd.jiaopian.xiangji_52.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "人像相机",
+        "package_name": "com.juhshdcdihfdcj.J",
+        "file_name": "com.juhshdcdihfdcj.J_53.apk",
+        "app_activity": "com.zy.app.appcollection6.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "一寸二寸最美证件照",
+        "package_name": "com.chengdutiantian.idphoto",
+        "file_name": "com.chengdutiantian.idphoto_54.apk",
+        "app_activity": "com.chengdutiantian.idphoto.ui.activity.IndexActivity"
+    },
+    {
+        "app_name": "Onlymo胶片相机",
+        "package_name": "com.seerlah.onlymo",
+        "file_name": "com.seerlah.onlymo_55.apk",
+        "app_activity": "com.seerlah.onlymo.module.main.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "Promovte专业摄像机",
+        "package_name": "com.mwosw.prompt",
+        "file_name": "com.mwosw.prompt_56.apk",
+        "app_activity": "com.mwosw.prompt.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "美颜拍照",
+        "package_name": "com.rainning.beauty.camera",
+        "file_name": "com.rainning.beauty.camera_57.apk",
+        "app_activity": "com.cody.supads.activity.StartActivity"
+    },
+    {
+        "app_name": "火山证件照",
+        "package_name": "com.lilaitech.volcano",
+        "file_name": "com.lilaitech.volcano_58.apk",
+        "app_activity": "com.lilaitech.volcano.ui.activity.IndexActivity"
+    },
+    {
+        "app_name": "Foodie",
+        "package_name": "com.linecorp.foodcamcn.android",
+        "file_name": "com.linecorp.foodcamcn.android_59.apk",
+        "app_activity": "com.linecorp.foodcam.android.camera.CameraActivity"
+    },
+    {
+        "app_name": "DJI Ronin",
+        "package_name": "com.dji.ronin",
+        "file_name": "com.dji.ronin_60.apk",
+        "app_activity": "com.dji.ronin.RoninHubActivity"
+    },
+    {
+        "app_name": "水印相机",
+        "package_name": "com.tencent.zebra",
+        "file_name": "com.tencent.zebra_61.apk",
+        "app_activity": "com.android.camera.splash.SplashActivity"
+    },
+    {
+        "app_name": "现场水印相机",
+        "package_name": "com.watermarkcamera.live",
+        "file_name": "com.watermarkcamera.live_62.apk",
+        "app_activity": "com.wifikey.tenthousands.flutter_watermark.MainActivity"
+    },
+    {
+        "app_name": "INS滤镜相机",
+        "package_name": "cn.suoqingning.insxiangji",
+        "file_name": "cn.suoqingning.insxiangji_63.apk",
+        "app_activity": "cn.suoqingning.insxiangji.ui.SplashActivity"
+    },
+    {
+        "app_name": "CharmChat",
+        "package_name": "com.call.vchatbeauty",
+        "file_name": "com.call.vchatbeauty_64.apk",
+        "app_activity": "com.meitu.vchatbeauty.startup.SplashActivity"
+    },
+    {
+        "app_name": "智能绘画专业版",
+        "package_name": "com.xiangchen.drawmajor",
+        "file_name": "com.xiangchen.drawmajor_65.apk",
+        "app_activity": "com.xiangchen.drawmajor.view.main.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "自定义水印相机",
+        "package_name": "com.helloxj.xlook",
+        "file_name": "com.helloxj.xlook_66.apk",
+        "app_activity": "com.helloxj.xlook.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "一甜相机",
+        "package_name": "com.kwai.m2u",
+        "file_name": "com.kwai.m2u_67.apk",
+        "app_activity": "com.kwai.m2u.launch.M2uRouterActivity"
+    },
+    {
+        "app_name": "Remo复古相机",
+        "package_name": "com.seerlah.remocamera",
+        "file_name": "com.seerlah.remocamera_68.apk",
+        "app_activity": "com.seerlah.remocamera.module.main.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "Proframe原质专业相机App",
+        "package_name": "com.risingcabbage.hd.camera.cn",
+        "file_name": "com.risingcabbage.hd.camera.cn_69.apk",
+        "app_activity": "com.lightcone.procamera.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "StarGazing",
+        "package_name": "com.zwoasi.mount",
+        "file_name": "com.zwoasi.mount_70.apk",
+        "app_activity": "com.zwoasi.zwoequatorial.SplashActivity"
+    },
+    {
+        "app_name": "舞娘相机",
+        "package_name": "ning.jiwn.crmea",
+        "file_name": "ning.jiwn.crmea_71.apk",
+        "app_activity": "com.videoedit.newcamera8.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "元道水印相机cam经纬度",
+        "package_name": "com.shuoyu.watercam",
+        "file_name": "com.shuoyu.watercam_72.apk",
+        "app_activity": "com.shuoyu.watercam.bridge.BootActivity"
+    },
+    {
+        "app_name": "小红屋全景相机",
+        "package_name": "com.hozo.easypanorama",
+        "file_name": "com.hozo.easypanorama_73.apk",
+        "app_activity": "com.hozo.easypanorama.view.LaunchActivity"
+    },
+    {
+        "app_name": "今日水印相机",
+        "package_name": "com.xhey.xcamera",
+        "file_name": "com.xhey.xcamera_74.apk",
+        "app_activity": "com.xhey.xcamera.ui.camera.SplashActivity"
+    },
+    {
+        "app_name": "SelfieCity",
+        "package_name": "com.meitu.wheecam",
+        "file_name": "com.meitu.wheecam_75.apk",
+        "app_activity": "com.meitu.wheecam.main.startup.StartupActivity"
+    },
+    {
+        "app_name": "小柠檬",
+        "package_name": "ssyk.myxjj.tsxv",
+        "file_name": "ssyk.myxjj.tsxv_76.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "免费证件照美颜大师",
+        "package_name": "com.my.idphoto",
+        "file_name": "com.my.idphoto_77.apk",
+        "app_activity": "com.my.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "型影",
+        "package_name": "com.adnonstop.mancamera2017",
+        "file_name": "com.adnonstop.mancamera2017_78.apk",
+        "app_activity": "com.adnonstop.mancamera2017.CamHomme"
+    },
+    {
+        "app_name": "Cam Homme",
+        "package_name": "com.adnonstop.mancameramini",
+        "file_name": "com.adnonstop.mancameramini_79.apk",
+        "app_activity": "com.adnonstop.mancamera2017.CamHomme"
+    },
+    {
+        "app_name": "xe炸图辅助器",
+        "package_name": "xe.zhatusih.vtb",
+        "file_name": "xe.zhatusih.vtb_80.apk",
+        "app_activity": "com.vtb.image.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "美萌自拍照相机",
+        "package_name": "com.moshang.camera",
+        "file_name": "com.moshang.camera_81.apk",
+        "app_activity": "com.moshang.camera.SplashActivity"
+    },
+    {
+        "app_name": "最后一卷胶片",
+        "package_name": "com.pixelorange.filmroll",
+        "file_name": "com.pixelorange.filmroll_82.apk",
+        "app_activity": "com.pixelorange.filmroll.CameraActivity"
+    },
+    {
+        "app_name": "完美美颜",
+        "package_name": "com.qznet.perfectface",
+        "file_name": "com.qznet.perfectface_83.apk",
+        "app_activity": "com.qznet.perfectface.activity.SplashActivity"
+    },
+    {
+        "app_name": "BeautyCam",
+        "package_name": "com.meitu.meiyancamera",
+        "file_name": "com.meitu.meiyancamera_84.apk",
+        "app_activity": "com.meitu.myxj.home.activity.NewHomeActivity"
+    },
+    {
+        "app_name": "青柠相机",
+        "package_name": "mydxx.mqxj.sfde",
+        "file_name": "mydxx.mqxj.sfde_85.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "YI IoT",
+        "package_name": "com.yunyi.smartcamera",
+        "file_name": "com.yunyi.smartcamera_86.apk",
+        "app_activity": "com.ants360.yicamera.activity.SplashActivityChina"
+    },
+    {
+        "app_name": "甜盐相机",
+        "package_name": "com.yiruike.sodacn.android",
+        "file_name": "com.yiruike.sodacn.android_87.apk",
+        "app_activity": "com.linecorp.sodacam.android.camera.CameraActivity"
+    },
+    {
+        "app_name": "P图秀秀",
+        "package_name": "com.specialang.image",
+        "file_name": "com.specialang.image_88.apk",
+        "app_activity": "com.specialang.image.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "美颜自拍神器",
+        "package_name": "com.mdj.myzpsq",
+        "file_name": "com.mdj.myzpsq_89.apk",
+        "app_activity": "com.android.demo.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "DZ复古胶片相机",
+        "package_name": "com.camera.retroarg",
+        "file_name": "com.camera.retroarg_90.apk",
+        "app_activity": "com.camera.retroarg.ui.splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "DZZ复古CCD胶片相机",
+        "package_name": "com.cspk.pkdzzfgjpxj",
+        "file_name": "com.cspk.pkdzzfgjpxj_91.apk",
+        "app_activity": "com.cspk.pkdzzfgjpxj.LauncherActivity"
+    },
+    {
+        "app_name": "照片修改",
+        "package_name": "com.image.edit.iseven",
+        "file_name": "com.image.edit.iseven_92.apk",
+        "app_activity": "pic.kdoqtt.editor.activity.StartActivity"
+    },
+    {
+        "app_name": "工程水印相机",
+        "package_name": "com.qphine.project.camera",
+        "file_name": "com.qphine.project.camera_93.apk",
+        "app_activity": "com.andruby.movieplayer.MainActivity"
+    },
+    {
+        "app_name": "经纬定位相机",
+        "package_name": "cn.sqcat.jwcamera",
+        "file_name": "cn.sqcat.jwcamera_94.apk",
+        "app_activity": "cn.sqcat.jwcamera.SplashActivity"
+    },
+    {
+        "app_name": "MolyCamCCD复古胶片相机",
+        "package_name": "com.yizhen.csdolycamfugufd",
+        "file_name": "com.yizhen.csdolycamfugufd_95.apk",
+        "app_activity": "com.yizhen.csdolycamfugufd.LauncherActivity"
+    },
+    {
+        "app_name": "免费水印相机拍照打卡",
+        "package_name": "com.ddraaggonn.pphotoccameraa",
+        "file_name": "com.ddraaggonn.pphotoccameraa_96.apk",
+        "app_activity": "com.ddraaggonn.pphotoccameraa.activitys.actsplash.SplashActivity"
+    },
+    {
+        "app_name": "ProCCD复古CCD相机",
+        "package_name": "com.cerdillac.proccd.cn",
+        "file_name": "com.cerdillac.proccd.cn_97.apk",
+        "app_activity": "com.lightcone.ccdcamera.activity.SplashActivity"
+    },
+    {
+        "app_name": "全民水印相机",
+        "package_name": "com.shuiyin.quanmin",
+        "file_name": "com.shuiyin.quanmin_98.apk",
+        "app_activity": "com.svkj.filemanager.SplashActivity"
+    },
+    {
+        "app_name": "港风复古胶卷",
+        "package_name": "cn.jingliangtech.fugucamera",
+        "file_name": "cn.jingliangtech.fugucamera_99.apk",
+        "app_activity": "cn.jingliangtech.fugucamera.ui.SplashActivity"
+    },
+    {
+        "app_name": "胶卷相机",
+        "package_name": "com.lm.rolls.an",
+        "file_name": "com.lm.rolls.an_100.apk",
+        "app_activity": "com.lm.rolls.an.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "极影相机",
+        "package_name": "com.ggnin.iiijj.xya",
+        "file_name": "com.ggnin.iiijj.xya_101.apk",
+        "app_activity": "com.bz.ziti.diy.activity.StartActivity"
+    },
+    {
+        "app_name": "NOMO CAM",
+        "package_name": "com.blink.academy.nomo",
+        "file_name": "com.blink.academy.nomo_102.apk",
+        "app_activity": "com.blink.academy.nomo.ui.activity.splash.NomoSplashActivity"
+    },
+    {
+        "app_name": "微商水印相机",
+        "package_name": "com.chaoyoutek.weishang",
+        "file_name": "com.chaoyoutek.weishang_103.apk",
+        "app_activity": "com.chaoyoutek.weishang.SplashActivity"
+    },
+    {
+        "app_name": "水印相机多多",
+        "package_name": "com.youliang.paizhao",
+        "file_name": "com.youliang.paizhao_104.apk",
+        "app_activity": "com.youliang.paizhao.HomeSplashActivity"
+    },
+    {
+        "app_name": "Faceu激萌",
+        "package_name": "com.lemon.faceu",
+        "file_name": "com.lemon.faceu_105.apk",
+        "app_activity": "com.android.maya.activity.SplashActivity"
+    },
+    {
+        "app_name": "工作蜂水印相机",
+        "package_name": "com.camera.dakaxiangji",
+        "file_name": "com.camera.dakaxiangji_106.apk",
+        "app_activity": "com.android.project.ui.ActionActivity"
+    },
+    {
+        "app_name": "工程效率水印相机",
+        "package_name": "com.csmountainwatermarkcamera.project",
+        "file_name": "com.csmountainwatermarkcamera.project_107.apk",
+        "app_activity": "com.wifikey.tenthousands.flutter_watermark.MainActivity"
+    },
+    {
+        "app_name": "Dazz胶片相机",
+        "package_name": "com.tokcamfilzym.arg",
+        "file_name": "com.tokcamfilzym.arg_108.apk",
+        "app_activity": "com.tokcamfilzym.arg.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "海拔相机HD高度表",
+        "package_name": "cn.xianshe.haibacam",
+        "file_name": "cn.xianshe.haibacam_109.apk",
+        "app_activity": "cn.xianshe.haibacam.ui.SplashActivity"
+    },
+    {
+        "app_name": "水印相机点点",
+        "package_name": "com.shuiyin.diandian",
+        "file_name": "com.shuiyin.diandian_110.apk",
+        "app_activity": "com.shuiyin.diandian.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "素颜相机",
+        "package_name": "shuffle.pretty.camera",
+        "file_name": "shuffle.pretty.camera_111.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "任意修改水印相机",
+        "package_name": "com.rbwl.rbcamera",
+        "file_name": "com.rbwl.rbcamera_112.apk",
+        "app_activity": "com.rbwl.rbcamera.activity.SplashActivity"
+    },
+    {
+        "app_name": "绿幕助手",
+        "package_name": "com.wolf.bluescreen.assistant",
+        "file_name": "com.wolf.bluescreen.assistant_113.apk",
+        "app_activity": "com.wolf.bluescreen.assistant.LaunchActivity"
+    },
+    {
+        "app_name": "智能证件照",
+        "package_name": "com.mengdaishuang.diyphoto",
+        "file_name": "com.mengdaishuang.diyphoto_114.apk",
+        "app_activity": "com.mengdaishuang.diyphoto.ui.activity.IndexActivity"
+    },
+    {
+        "app_name": "Fomz",
+        "package_name": "com.imendon.fomz",
+        "file_name": "com.imendon.fomz_115.apk",
+        "app_activity": "com.imendon.fomz.app.launch.LaunchActivity"
+    },
+    {
+        "app_name": "趣味相机",
+        "package_name": "com.qinglianxiangji.yp",
+        "file_name": "com.qinglianxiangji.yp_116.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "证件照",
+        "package_name": "com.photocamera.identification",
+        "file_name": "com.photocamera.identification_117.apk",
+        "app_activity": "com.photocamera.identification.ui.activity.IndexActivity"
+    },
+    {
+        "app_name": "小鱼考勤表",
+        "package_name": "cn.suoqingning.kaoqin",
+        "file_name": "cn.suoqingning.kaoqin_118.apk",
+        "app_activity": "cn.suoqingning.kaoqin.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "定格相机",
+        "package_name": "cn.aiyo.camera",
+        "file_name": "cn.aiyo.camera_119.apk",
+        "app_activity": "cn.aiyo.camera.activity.SplashActivity"
+    },
+    {
+        "app_name": "好修改水印相机",
+        "package_name": "com.cqyjh.camera",
+        "file_name": "com.cqyjh.camera_120.apk",
+        "app_activity": "com.cqyjh.camera.page.splash.SplashActivity"
+    },
+    {
+        "app_name": "全天定位水印相机",
+        "package_name": "com.hnfywatermark.day",
+        "file_name": "com.hnfywatermark.day_121.apk",
+        "app_activity": "com.wifikey.tenthousands.flutter_watermark.MainActivity"
+    },
+    {
+        "app_name": "唯美相机大师",
+        "package_name": "wech.kmscy.jxcy",
+        "file_name": "wech.kmscy.jxcy_122.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "美食相机",
+        "package_name": "com.msxj.food",
+        "file_name": "com.msxj.food_123.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "樱桃秀",
+        "package_name": "csmnf.ying.taoxiuxj",
+        "file_name": "csmnf.ying.taoxiuxj_124.apk",
+        "app_activity": "com.watermark.camera.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "今时水印相机",
+        "package_name": "com.njjlg.clockcam",
+        "file_name": "com.njjlg.clockcam_125.apk",
+        "app_activity": "com.njjlg.clockcam.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "YI Smart",
+        "package_name": "com.kamivision.yismart",
+        "file_name": "com.kamivision.yismart_126.apk",
+        "app_activity": "com.ants360.yicamera.activity.SplashActivityChina"
+    },
+    {
+        "app_name": "智能证件照",
+        "package_name": "com.leqi.idpicture",
+        "file_name": "com.leqi.idpicture_127.apk",
+        "app_activity": "com.leqi.idpicture.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "promovir专业摄影机",
+        "package_name": "promovir.professional.cameras",
+        "file_name": "promovir.professional.cameras_128.apk",
+        "app_activity": "com.professional.camera.photo.activity.StartActivity"
+    },
+    {
+        "app_name": "水印修改相机",
+        "package_name": "com.ahsj.syxjer",
+        "file_name": "com.ahsj.syxjer_129.apk",
+        "app_activity": "com.ahsj.syxjer.module.splash.WaterMarkSplashActivity"
+    },
+    {
+        "app_name": "如视VR",
+        "package_name": "com.realsee.dimensionplus",
+        "file_name": "com.realsee.dimensionplus_130.apk",
+        "app_activity": "com.realsee.dimensionplus.activity.SplashActivity"
+    },
+    {
+        "app_name": "证件照plus简历求职",
+        "package_name": "com.jiujiangym.camera",
+        "file_name": "com.jiujiangym.camera_131.apk",
+        "app_activity": "com.jiujiangym.camera.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "修改牛水印相机",
+        "package_name": "com.hcn.mm",
+        "file_name": "com.hcn.mm_132.apk",
+        "app_activity": "com.hcn.mm.page.splash.SplashActivity"
+    },
+    {
+        "app_name": "拍照相机",
+        "package_name": "com.lyy.beauty",
+        "file_name": "com.lyy.beauty_133.apk",
+        "app_activity": "com.lyy.beauty.MainActivity"
+    },
+    {
+        "app_name": "Dazz相机",
+        "package_name": "com.mioayalx.jisdazfgd",
+        "file_name": "com.mioayalx.jisdazfgd_134.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "打卡水印相机",
+        "package_name": "com.engineering.markcamera",
+        "file_name": "com.engineering.markcamera_135.apk",
+        "app_activity": "com.android.project.ui.StartActivity"
+    },
+    {
+        "app_name": "全能美颜相机",
+        "package_name": "com.xincamaer.shandongyouyi.example",
+        "file_name": "com.xincamaer.shandongyouyi.example_136.apk",
+        "app_activity": "com.example.xieyisheding.YinsixyActivity"
+    },
+    {
+        "app_name": "轻颜",
+        "package_name": "com.gorgeous.lite",
+        "file_name": "com.gorgeous.lite_137.apk",
+        "app_activity": "com.light.beauty.mainpage.MainActivity"
+    },
+    {
+        "app_name": "经纬相机",
+        "package_name": "cn.njchulitech.cam",
+        "file_name": "cn.njchulitech.cam_138.apk",
+        "app_activity": "cn.njchulitech.cam.SplashActivity"
+    },
+    {
+        "app_name": "每天拍照水印相机",
+        "package_name": "com.paizhao.meitian",
+        "file_name": "com.paizhao.meitian_139.apk",
+        "app_activity": "com.paizhao.meitian.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "Camera360",
+        "package_name": "vStudio.Android.Camera360",
+        "file_name": "vStudio.Android.Camera360_140.apk",
+        "app_activity": "vStudio.Android.Camera360.activity.CameraActivity"
+    },
+    {
+        "app_name": "ButterCam",
+        "package_name": "com.by.butter.camera",
+        "file_name": "com.by.butter.camera_141.apk",
+        "app_activity": "com.by.butter.camera.splash.LauncherActivity"
+    },
+    {
+        "app_name": "Feiyu ON",
+        "package_name": "com.feiyutech.gimbalCamera",
+        "file_name": "com.feiyutech.gimbalCamera_142.apk",
+        "app_activity": "com.feiyutech.gimbalCamera.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "AOCHUAN",
+        "package_name": "com.aochuan.acplay",
+        "file_name": "com.aochuan.acplay_143.apk",
+        "app_activity": "com.jixtech.acplay.activitys.startPage.StartPageActivity"
+    },
+    {
+        "app_name": "元道经纬",
+        "package_name": "cn.luyiyuntech.daka",
+        "file_name": "cn.luyiyuntech.daka_144.apk",
+        "app_activity": "cn.luyiyuntech.daka.SplashActivity"
+    },
+    {
+        "app_name": "美妆镜子",
+        "package_name": "cn.islake.mirror",
+        "file_name": "cn.islake.mirror_145.apk",
+        "app_activity": "cn.islake.mirror.ui.SplashActivity"
+    },
+    {
+        "app_name": "免费水印相机拍照",
+        "package_name": "com.wanneng.shuiyin",
+        "file_name": "com.wanneng.shuiyin_146.apk",
+        "app_activity": "com.wanneng.shuiyin.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "浪漫烟花模拟器",
+        "package_name": "com.lt.lab.fire",
+        "file_name": "com.lt.lab.fire_147.apk",
+        "app_activity": "com.lt.lab.fire.SplashActivity"
+    },
+    {
+        "app_name": "模拟位置GPS定位修改",
+        "package_name": "cn.dingshuidan.shuiyin",
+        "file_name": "cn.dingshuidan.shuiyin_148.apk",
+        "app_activity": "cn.dingshuidan.shuiyin.appbase.base.SplashActivity"
+    },
+    {
+        "app_name": "Rainbow无人机飞行软件",
+        "package_name": "cn.rainbow.drone",
+        "file_name": "cn.rainbow.drone_149.apk",
+        "app_activity": "mobi.heyemoji.drone.ui.connect.ConnectActivity"
+    },
+    {
+        "app_name": "CCD复古胶片相机",
+        "package_name": "com.tetlbm.rhcnq",
+        "file_name": "com.tetlbm.rhcnq_150.apk",
+        "app_activity": "com.camera.zdazz.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "彩豆水印相机",
+        "package_name": "com.boniu.meirishuiyinxiangji",
+        "file_name": "com.boniu.meirishuiyinxiangji_151.apk",
+        "app_activity": "com.boniu.meirishuiyinxiangji.ui.BootActivity"
+    },
+    {
+        "app_name": "Rcam专业摄像机",
+        "package_name": "com.professional.camkarg",
+        "file_name": "com.professional.camkarg_152.apk",
+        "app_activity": "com.professional.camkarg.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "准时打卡水印相机",
+        "package_name": "com.cszswatermark.time",
+        "file_name": "com.cszswatermark.time_153.apk",
+        "app_activity": "com.wifikey.tenthousands.flutter_watermark.MainActivity"
+    },
+    {
+        "app_name": "Planit",
+        "package_name": "com.yingwen.photographertoolschina",
+        "file_name": "com.yingwen.photographertoolschina_154.apk",
+        "app_activity": "com.yingwen.photographertoolschina.MainActivity"
+    },
+    {
+        "app_name": "修改水印打卡相机",
+        "package_name": "com.nanjingqal.watermark",
+        "file_name": "com.nanjingqal.watermark_155.apk",
+        "app_activity": "com.tuo.mymain.SplashActivity"
+    },
+    {
+        "app_name": "电脑摄像头ivcam",
+        "package_name": "com.dnxin.camera",
+        "file_name": "com.dnxin.camera_156.apk",
+        "app_activity": "com.dnxin.camera.ui.activity.home.SplashActivity"
+    },
+    {
+        "app_name": "Timestamp Camera Free",
+        "package_name": "com.jeyluta.timestampcameracnfree",
+        "file_name": "com.jeyluta.timestampcameracnfree_157.apk",
+        "app_activity": "com.example.PermissionActivity"
+    },
+    {
+        "app_name": "Xtherm Power",
+        "package_name": "com.infiRay.XthermPower",
+        "file_name": "com.infiRay.XthermPower_158.apk",
+        "app_activity": "com.infiRay.XthermPower.commonVersion.ui.WellComeActivity"
+    },
+    {
+        "app_name": "工地记工AR工程相机",
+        "package_name": "cn.jingliangtech.gccamera",
+        "file_name": "cn.jingliangtech.gccamera_159.apk",
+        "app_activity": "cn.jingliangtech.gccamera.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "iFlier",
+        "package_name": "com.infoearth.yfb.unmannedaerialvehicleappas",
+        "file_name": "com.infoearth.yfb.unmannedaerialvehicleappas_160.apk",
+        "app_activity": "com.infoearth.yfb.unmannedaerialvehicleappas.UsbActionActivity"
+    },
+    {
+        "app_name": "YI Home China",
+        "package_name": "com.ants360.yicamera",
+        "file_name": "com.ants360.yicamera_161.apk",
+        "app_activity": "com.ants360.yicamera.activity.SplashYiHomeActivity"
+    },
+    {
+        "app_name": "记工时间水印",
+        "package_name": "cn.moduoketech.watercam",
+        "file_name": "cn.moduoketech.watercam_162.apk",
+        "app_activity": "cn.moduoketech.watercam.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "夜视相机",
+        "package_name": "com.dotools.nightcamera",
+        "file_name": "com.dotools.nightcamera_163.apk",
+        "app_activity": "com.dotools.nightcamera.SplashActivity"
+    },
+    {
+        "app_name": "遇彩相机",
+        "package_name": "com.xy.camera.encountercolor",
+        "file_name": "com.xy.camera.encountercolor_164.apk",
+        "app_activity": "com.xy.camera.encountercolor.ui.splash.SplashActivityZs"
+    },
+    {
+        "app_name": "水印宝快速P图",
+        "package_name": "com.teredy.shuiyincam",
+        "file_name": "com.teredy.shuiyincam_165.apk",
+        "app_activity": "com.teredy.shuiyincam.BootActivity"
+    },
+    {
+        "app_name": "免费证件照片",
+        "package_name": "com.pichdxyz.camera",
+        "file_name": "com.pichdxyz.camera_166.apk",
+        "app_activity": "com.pichdxyz.camera.SplashPreActivity"
+    },
+    {
+        "app_name": "水印大师相机",
+        "package_name": "com.watermarkcamera.master",
+        "file_name": "com.watermarkcamera.master_167.apk",
+        "app_activity": "com.wifikey.tenthousands.flutter_watermark.MainActivity"
+    },
+    {
+        "app_name": "极摄",
+        "package_name": "com.photoplanner3d.app.jishe",
+        "file_name": "com.photoplanner3d.app.jishe_168.apk",
+        "app_activity": "com.photoplanner3d.pp_app.MainActivity"
+    },
+    {
+        "app_name": "智能证件照相机",
+        "package_name": "cn.hudun.idphoto",
+        "file_name": "cn.hudun.idphoto_169.apk",
+        "app_activity": "cn.hudun.idphoto.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "原道经纬水印相机",
+        "package_name": "com.csyx.yxydjwsyxj",
+        "file_name": "com.csyx.yxydjwsyxj_170.apk",
+        "app_activity": "com.csyx.yxydjwsyxj.LauncherActivity"
+    },
+    {
+        "app_name": "ins贴纸相机",
+        "package_name": "com.tianmeizipai.xiangjiapp",
+        "file_name": "com.tianmeizipai.xiangjiapp_171.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "水印相机工程打卡",
+        "package_name": "com.njclx.gongchengclock",
+        "file_name": "com.njclx.gongchengclock_172.apk",
+        "app_activity": "com.njclx.gongchengclock.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "免费证件照拍照",
+        "package_name": "com.filterpic.camera",
+        "file_name": "com.filterpic.camera_173.apk",
+        "app_activity": "com.cttz.zjzcamera.SplashPreActivity"
+    },
+    {
+        "app_name": "Beauty Camera",
+        "package_name": "my.beautyCamera",
+        "file_name": "my.beautyCamera_174.apk",
+        "app_activity": "my.beautyCamera.PocoCamera"
+    },
+    {
+        "app_name": "今日经纬相机",
+        "package_name": "com.aqll.jrkaoqin",
+        "file_name": "com.aqll.jrkaoqin_175.apk",
+        "app_activity": "com.cdtt.watermark.SplashActivity"
+    },
+    {
+        "app_name": "playmemories mobile",
+        "package_name": "com.camera.playme",
+        "file_name": "com.camera.playme_176.apk",
+        "app_activity": "com.kssj.playmemorise.activity.SplashActivity"
+    },
+    {
+        "app_name": "时间相机",
+        "package_name": "com.banshouren.xiangji",
+        "file_name": "com.banshouren.xiangji_177.apk",
+        "app_activity": "com.xuanmutech.xiangji.activities.SplashActivity"
+    },
+    {
+        "app_name": "闪拍",
+        "package_name": "byxx.dmtxx.ubh",
+        "file_name": "byxx.dmtxx.ubh_178.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "水映相机",
+        "package_name": "com.xuanmutech.xiangji",
+        "file_name": "com.xuanmutech.xiangji_179.apk",
+        "app_activity": "com.xuanmutech.xiangji.activities.SplashActivity"
+    },
+    {
+        "app_name": "爱打卡水印相机",
+        "package_name": "com.huiyu.lovecamer",
+        "file_name": "com.huiyu.lovecamer_180.apk",
+        "app_activity": "com.huiyu.lovecamer.view.main.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "今月水印相机",
+        "package_name": "com.paizhao.meiri",
+        "file_name": "com.paizhao.meiri_181.apk",
+        "app_activity": "com.paizhao.meiri.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "复古大头贴",
+        "package_name": "com.xiaolimao.printclub",
+        "file_name": "com.xiaolimao.printclub_182.apk",
+        "app_activity": "com.xiaolimao.printclub.ui.activity.SplashUI"
+    },
+    {
+        "app_name": "霜月相机",
+        "package_name": "com.syxj.frostLunar",
+        "file_name": "com.syxj.frostLunar_183.apk",
+        "app_activity": "com.syxj.frostLunar.activity.SplashActivity"
+    },
+    {
+        "app_name": "全能证件照大师",
+        "package_name": "com.xmei.idphoto",
+        "file_name": "com.xmei.idphoto_184.apk",
+        "app_activity": "com.xmei.idphoto.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "韶光相机",
+        "package_name": "com.qs.camera.shaoguang",
+        "file_name": "com.qs.camera.shaoguang_185.apk",
+        "app_activity": "com.udsmm.uilla.ssllppp.QIIIJD"
+    },
+    {
+        "app_name": "水印定制相机",
+        "package_name": "com.ahsj.skxrf",
+        "file_name": "com.ahsj.skxrf_186.apk",
+        "app_activity": "com.ahsj.skxrf.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "趣拍",
+        "package_name": "jyfb.yehk.vget",
+        "file_name": "jyfb.yehk.vget_187.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+
+    {
+        "app_name": "时光照相机",
+        "package_name": "com.time.camera",
+        "file_name": "com.time.camera_18.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "宝丽来",
+        "package_name": "com.polaroidoriginals.po1",
+        "file_name": "com.polaroidoriginals.po1_19.apk",
+        "app_activity": "com.theimpossible.polaroidoriginals.home.splash.SplashActivity"
+    },
+    {
+        "app_name": "ASIAIR",
+        "package_name": "com.zwoasi.asiair",
+        "file_name": "com.zwoasi.asiair_20.apk",
+        "app_activity": "com.zwoastro.air.ui.launch.AirSplashActivity"
+    },
+    {
+        "app_name": "免费水印相机打卡",
+        "package_name": "com.everyday.paizhao",
+        "file_name": "com.everyday.paizhao_21.apk",
+        "app_activity": "com.everyday.paizhao.HomeSplashActivity"
+    },
+    {
+        "app_name": "拼立得拼图",
+        "package_name": "glxx.wnxjds.skuhb",
+        "file_name": "glxx.wnxjds.skuhb_22.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "水印相机今日打卡拍照",
+        "package_name": "com.lbkzys.zhangsi",
+        "file_name": "com.lbkzys.zhangsi_23.apk",
+        "app_activity": "com.lbkzys.zhangsi.ui.SplashActivity"
+    },
+    {
+        "app_name": "水印相机精准打卡",
+        "package_name": "com.shuiyin.jingzhun",
+        "file_name": "com.shuiyin.jingzhun_24.apk",
+        "app_activity": "com.shuiyin.jingzhun.HomeSplashActivity"
+    },
+    {
+        "app_name": "鲲图",
+        "package_name": "win.sanyuehuakai.bluetooth",
+        "file_name": "win.sanyuehuakai.bluetooth_25.apk",
+        "app_activity": "win.sanyuehuakai.bluetooth.MainActivity"
+    },
+    {
+        "app_name": "漫画相机",
+        "package_name": "magic.marvel.beauty.camera",
+        "file_name": "magic.marvel.beauty.camera_26.apk",
+        "app_activity": "com.marvel.beauty.camera.common.StartActivity"
+    },
+    {
+        "app_name": "动图表情包",
+        "package_name": "gyjf.difdtzz.aoejfrgpfj",
+        "file_name": "gyjf.difdtzz.aoejfrgpfj_27.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "Follow相机",
+        "package_name": "com.aimc.aicamera",
+        "file_name": "com.aimc.aicamera_28.apk",
+        "app_activity": "com.aimc.aicamera.login.SplashActivity"
+    },
+    {
+        "app_name": "颜趣相机",
+        "package_name": "cszf.lksaldh.saoljd",
+        "file_name": "cszf.lksaldh.saoljd_29.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "Face换颜相机",
+        "package_name": "com.realcome.picture",
+        "file_name": "com.realcome.picture_30.apk",
+        "app_activity": "com.realcome.xieyisheding.YinsixyActivity"
+    },
+    {
+        "app_name": "微水印相机",
+        "package_name": "effects.camera.production.software",
+        "file_name": "effects.camera.production.software_31.apk",
+        "app_activity": "com.effects.production.software.common.StartActivity"
+    },
+    {
+        "app_name": "nomo相机",
+        "package_name": "com.xjzxc.zt",
+        "file_name": "com.xjzxc.zt_32.apk",
+        "app_activity": "com.zy.app.devappcollection.SplashActivity"
+    },
+    {
+        "app_name": "自拍拼图相机",
+        "package_name": "com.dotsmore.selfiecamera",
+        "file_name": "com.dotsmore.selfiecamera_33.apk",
+        "app_activity": "com.cody.supads.activity.StartActivity"
+    },
+    {
+        "app_name": "梦莲",
+        "package_name": "com.menglian.fdfxsf",
+        "file_name": "com.menglian.fdfxsf_34.apk",
+        "app_activity": "com.qweqweasd.new_camera_20.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "水印相机今日拍照打卡",
+        "package_name": "com.wzolo.luosw",
+        "file_name": "com.wzolo.luosw_35.apk",
+        "app_activity": "com.wzolo.luosw.activitys.actsplash.SplashActivity"
+    },
+    {
+        "app_name": "拍照计数扫描王",
+        "package_name": "com.cstscounter.king",
+        "file_name": "com.cstscounter.king_36.apk",
+        "app_activity": "com.wifikey.tenthousands.app_wifi_flutter.MainActivity"
+    },
+    {
+        "app_name": "心印秀",
+        "package_name": "xincon.mant.dabnbyt",
+        "file_name": "xincon.mant.dabnbyt_37.apk",
+        "app_activity": "com.wxy.camera7.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "3D Flash Camera",
+        "package_name": "com.ylkj.surpermeta",
+        "file_name": "com.ylkj.surpermeta_38.apk",
+        "app_activity": "com.ylkj.surpermeta.activities.LaunchActivity"
+    },
+    {
+        "app_name": "OldRoll相机",
+        "package_name": "bmkqra.kdexwn.com.wbqpon",
+        "file_name": "bmkqra.kdexwn.com.wbqpon_39.apk",
+        "app_activity": "he.chu.yang.activity.StartActivity"
+    },
+    {
+        "app_name": "番茄相机",
+        "package_name": "com.inmiig.qexefn.ajia",
+        "file_name": "com.inmiig.qexefn.ajia_40.apk",
+        "app_activity": "com.fugu.aksdjfl.camera.activity.StartActivity"
+    },
+    {
+        "app_name": "提词king",
+        "package_name": "com.rckj.tcw",
+        "file_name": "com.rckj.tcw_41.apk",
+        "app_activity": "com.rckj.tcw.mvp.ui.SplashActivity"
+    },
+    {
+        "app_name": "最美证件照Pro",
+        "package_name": "com.whshengmi.idphoto",
+        "file_name": "com.whshengmi.idphoto_42.apk",
+        "app_activity": "com.whshengmi.idphoto.MainActivity"
+    },
+    {
+        "app_name": "小漫头像",
+        "package_name": "com.leqi.cartoon",
+        "file_name": "com.leqi.cartoon_43.apk",
+        "app_activity": "com.leqi.aicartoon.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "初照相机",
+        "package_name": "com.baishan.colour.printer",
+        "file_name": "com.baishan.colour.printer_44.apk",
+        "app_activity": "com.baishan.colour.printer.activity.SplashActivity"
+    },
+    {
+        "app_name": "每日考勤水印相机",
+        "package_name": "com.chenhui.Watercampro",
+        "file_name": "com.chenhui.Watercampro_45.apk",
+        "app_activity": "com.chenhui.Watercampro.view.main.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "嗨拍相机",
+        "package_name": "ning.zuo.binhaipai",
+        "file_name": "ning.zuo.binhaipai_46.apk",
+        "app_activity": "com.bitmap04.forest.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "FIMI Navi Mini",
+        "package_name": "com.fimi.app.x8m",
+        "file_name": "com.fimi.app.x8m_47.apk",
+        "app_activity": "com.fimi.app.ui.FimiAoaSplashActivity"
+    },
+    {
+        "app_name": "焦糖相机",
+        "package_name": "com.jiao.tane.xiaji",
+        "file_name": "com.jiao.tane.xiaji_48.apk",
+        "app_activity": "tai.mengzhu.circle.activty.StartActivity"
+    },
+    {
+        "app_name": "可编辑水印相机",
+        "package_name": "cc.shantu.syxj",
+        "file_name": "cc.shantu.syxj_49.apk",
+        "app_activity": "cc.shantu.syxj.ui.LauncherActivity"
+    },
+    {
+        "app_name": "随手拍",
+        "package_name": "yofue.pailide.xiangji",
+        "file_name": "yofue.pailide.xiangji_50.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "AI随拍相机",
+        "package_name": "sqkj.wang.comic",
+        "file_name": "sqkj.wang.comic_51.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "现场定位相机",
+        "package_name": "com.yuanli.beidoulocatecamera",
+        "file_name": "com.yuanli.beidoulocatecamera_52.apk",
+        "app_activity": "com.yuanli.beidoulocatecamera.mvp.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "好车相机",
+        "package_name": "com.yaxon.truckcamera",
+        "file_name": "com.yaxon.truckcamera_53.apk",
+        "app_activity": "com.yaxon.truckcamera.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "对椒约拍",
+        "package_name": "com.djyp.mm",
+        "file_name": "com.djyp.mm_54.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "Lumin",
+        "package_name": "cn.ifootage.light",
+        "file_name": "cn.ifootage.light_55.apk",
+        "app_activity": "cn.ifootage.light.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "魔法证件照",
+        "package_name": "com.magic.identification.photo.idphoto",
+        "file_name": "com.magic.identification.photo.idphoto_56.apk",
+        "app_activity": "com.magic.identification.photo.idphoto.ui.other.WelComeActivity"
+    },
+    {
+        "app_name": "证件照底色编辑",
+        "package_name": "com.fo.zjzcamerafo",
+        "file_name": "com.fo.zjzcamerafo_57.apk",
+        "app_activity": "com.th.zjz.activity.SplashActivity"
+    },
+    {
+        "app_name": "One day camera",
+        "package_name": "com.fullstack.bcamera",
+        "file_name": "com.fullstack.bcamera_58.apk",
+        "app_activity": "com.fullstack.bcamera.activity.LaunchActivity"
+    },
+    {
+        "app_name": "格美相机",
+        "package_name": "com.green.watercamera",
+        "file_name": "com.green.watercamera_59.apk",
+        "app_activity": "com.green.watercamera.main.LoginActivityNew"
+    },
+    {
+        "app_name": "Rainbow航线规划软件",
+        "package_name": "cn.rainbow.drone.v5",
+        "file_name": "cn.rainbow.drone.v5_60.apk",
+        "app_activity": "mobi.heyemoji.drone.ui.connect.ConnectActivity"
+    },
+    {
+        "app_name": "IJOYER",
+        "package_name": "com.ijoyer.mobilecam",
+        "file_name": "com.ijoyer.mobilecam_61.apk",
+        "app_activity": "com.ijoyer.camera.activity.SplashActivity"
+    },
+    {
+        "app_name": "去哪旅拍",
+        "package_name": "com.qnlvpai.zhongben",
+        "file_name": "com.qnlvpai.zhongben_62.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "AlphaEgg",
+        "package_name": "com.vson.alphaeggprinter",
+        "file_name": "com.vson.alphaeggprinter_63.apk",
+        "app_activity": "com.vson.alphaeggprinter.ui.SplashActivity"
+    },
+    {
+        "app_name": "Track IR",
+        "package_name": "com.guide.trackir",
+        "file_name": "com.guide.trackir_64.apk",
+        "app_activity": "com.guide.trackir.MainActivity"
+    },
+    {
+        "app_name": "智能证件照专家",
+        "package_name": "com.nhkj666.znzjzzj",
+        "file_name": "com.nhkj666.znzjzzj_65.apk",
+        "app_activity": "com.dunjiakj.yczjzsp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "考勤水印相机",
+        "package_name": "com.hjkj66.kqsyxj",
+        "file_name": "com.hjkj66.kqsyxj_66.apk",
+        "app_activity": "com.ziyi.tiantianshuiyin.NewWelcomeActivity"
+    },
+    {
+        "app_name": "足记",
+        "package_name": "cc.fotoplace.app",
+        "file_name": "cc.fotoplace.app_67.apk",
+        "app_activity": "cc.fotoplace.app.ui.InitActivity"
+    },
+    {
+        "app_name": "四维看看",
+        "package_name": "com.fdage.turn.dual",
+        "file_name": "com.fdage.turn.dual_68.apk",
+        "app_activity": "com.fdage.turn.dual.page.MainActivity"
+    },
+    {
+        "app_name": "九格相机",
+        "package_name": "com.q71.q71camera",
+        "file_name": "com.q71.q71camera_69.apk",
+        "app_activity": "com.q71.q71camera.q71_main.RequestPermissionAty"
+    },
+    {
+        "app_name": "多彩相机",
+        "package_name": "com.lhzzbl.dctxxj",
+        "file_name": "com.lhzzbl.dctxxj_70.apk",
+        "app_activity": "com.sxb.newcamera3.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "Tender Camera",
+        "package_name": "com.showhappy.beautycam",
+        "file_name": "com.showhappy.beautycam_71.apk",
+        "app_activity": "com.cody.supads.activity.StartActivity"
+    },
+    {
+        "app_name": "快捷证件照",
+        "package_name": "com.xiaoyi.xyidcard",
+        "file_name": "com.xiaoyi.xyidcard_72.apk",
+        "app_activity": "com.xiaoyi.xyidcard.AD.FirstActivity"
+    },
+    {
+        "app_name": "布偶相机",
+        "package_name": "kwxx.kxxj.xkje",
+        "file_name": "kwxx.kxxj.xkje_73.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "水印工作打卡",
+        "package_name": "com.adavic2.watermark",
+        "file_name": "com.adavic2.watermark_75.apk",
+        "app_activity": "com.adavic2.watermark.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "Lysn相机",
+        "package_name": "com.mumuinfo.lysnxj01",
+        "file_name": "com.mumuinfo.lysnxj01_76.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "准点拍照水印相机",
+        "package_name": "com.bnnwatermark.spot",
+        "file_name": "com.bnnwatermark.spot_77.apk",
+        "app_activity": "com.wifikey.tenthousands.flutter_watermark.MainActivity"
+    },
+    {
+        "app_name": "粘土滤镜",
+        "package_name": "nian.tulj.ojewdxsdw",
+        "file_name": "nian.tulj.ojewdxsdw_78.apk",
+        "app_activity": "com.videoedit.newcamera6.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "时空印",
+        "package_name": "at.atcamera",
+        "file_name": "at.atcamera_79.apk",
+        "app_activity": "at.atcamera.Ufrend.UWelcomeActivity"
+    },
+    {
+        "app_name": "花草日记植物识别",
+        "package_name": "top.hcrj",
+        "file_name": "top.hcrj_80.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "相机印",
+        "package_name": "com.gniiykx.jniginn.abaua",
+        "file_name": "com.gniiykx.jniginn.abaua_81.apk",
+        "app_activity": "com.cama.fram.toed.activity.StartActivity"
+    },
+    {
+        "app_name": "元气AI相机",
+        "package_name": "com.cf.awevfx",
+        "file_name": "com.cf.awevfx_82.apk",
+        "app_activity": "com.cf.awevfx.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "今日时间水印工程相机",
+        "package_name": "com.xml.engineeringcamera",
+        "file_name": "com.xml.engineeringcamera_83.apk",
+        "app_activity": "com.xmb.watermarkingcamera.ui.DemoWelcomeActivity"
+    },
+    {
+        "app_name": "时光水印打卡相机",
+        "package_name": "com.xmy.watermarkcamera",
+        "file_name": "com.xmy.watermarkcamera_84.apk",
+        "app_activity": "com.xmb.watermarkingcamera.ui.DemoWelcomeActivity"
+    },
+    {
+        "app_name": "美美滤镜照相机",
+        "package_name": "com.meiyanquannengxangji.app",
+        "file_name": "com.meiyanquannengxangji.app_85.apk",
+        "app_activity": "com.allbeauty.camerayq.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "LastRoll复古胶片相机",
+        "package_name": "com.lm.lastroll.an",
+        "file_name": "com.lm.lastroll.an_86.apk",
+        "app_activity": "com.lm.lastroll.an.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "闪念相机",
+        "package_name": "com.datadance.flashidelcamera",
+        "file_name": "com.datadance.flashidelcamera_87.apk",
+        "app_activity": "com.datadance.flashidelcamera.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "美咖相机",
+        "package_name": "com.kgdxt.jlozthbf",
+        "file_name": "com.kgdxt.jlozthbf_88.apk",
+        "app_activity": "com.fwlst.module_splash.SplashActivity"
+    },
+    {
+        "app_name": "樱桃秀相机",
+        "package_name": "yingt.camls.wbyhb",
+        "file_name": "yingt.camls.wbyhb_89.apk",
+        "app_activity": "com.wxy.camera15.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "花草秒识别",
+        "package_name": "gzqf.hcmsb.idjhcn",
+        "file_name": "gzqf.hcmsb.idjhcn_90.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "摄会社",
+        "package_name": "com.feiyuntech.shs",
+        "file_name": "com.feiyuntech.shs_91.apk",
+        "app_activity": "com.feiyuntech.shs.MainActivity"
+    },
+    {
+        "app_name": "安卓水印相机",
+        "package_name": "com.chenyuda.syxj",
+        "file_name": "com.chenyuda.syxj_92.apk",
+        "app_activity": "com.watermarkcamera.camera.ui.SplashActivity"
+    },
+    {
+        "app_name": "21相机",
+        "package_name": "com.hfzfery.xiangj",
+        "file_name": "com.hfzfery.xiangj_93.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "拍图网",
+        "package_name": "com.paoding.paituwang",
+        "file_name": "com.paoding.paituwang_94.apk",
+        "app_activity": "com.paoding.paituwang.MainActivity"
+    },
+    {
+        "app_name": "原道",
+        "package_name": "com.shengfengPro.photo",
+        "file_name": "com.shengfengPro.photo_95.apk",
+        "app_activity": "com.shengfengPro.photo.splash.view.SplashActivity"
+    },
+    {
+        "app_name": "随手拍水印相机",
+        "package_name": "com.ycp.panocam",
+        "file_name": "com.ycp.panocam_96.apk",
+        "app_activity": "com.ycp.panocam.activity.SplashActivity"
+    },
+    {
+        "app_name": "eWeLink Camera",
+        "package_name": "com.coolkit.ewelinkcamera",
+        "file_name": "com.coolkit.ewelinkcamera_97.apk",
+        "app_activity": "com.coolkit.ewelinkcamera.Activity.SplashActivity"
+    },
+    {
+        "app_name": "今日现场水印相机",
+        "package_name": "com.csgz.todaycamera",
+        "file_name": "com.csgz.todaycamera_98.apk",
+        "app_activity": "com.csgc.camera.biz.SplashActivity"
+    },
+    {
+        "app_name": "万能相机滤镜",
+        "package_name": "com.xysein.igiiyy.gnnhg",
+        "file_name": "com.xysein.igiiyy.gnnhg_99.apk",
+        "app_activity": "tai.mengzhu.circle.activty.StartActivity"
+    },
+    {
+        "app_name": "红底照片",
+        "package_name": "tai.profile.picture",
+        "file_name": "tai.profile.picture_100.apk",
+        "app_activity": "tai.profile.picture.activity.StartActivity"
+    },
+    {
+        "app_name": "拍博士证件照",
+        "package_name": "com.piaopiao.idphoto",
+        "file_name": "com.piaopiao.idphoto_101.apk",
+        "app_activity": "com.piaopiao.idphoto.ui.activity.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "云端地球",
+        "package_name": "com.das.earth.android",
+        "file_name": "com.das.earth.android_102.apk",
+        "app_activity": "com.das.earth.android.me.login.StartUpV2Activity"
+    },
+    {
+        "app_name": "拍特效滤镜相机",
+        "package_name": "www.paitexiao.lvjing.yx",
+        "file_name": "www.paitexiao.lvjing.yx_103.apk",
+        "app_activity": "com.zhangying.appcollection.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "临感VR",
+        "package_name": "com.wuba.lingan",
+        "file_name": "com.wuba.lingan_104.apk",
+        "app_activity": "com.wuba.lingan.client.biz.splash.SplashFullScreenActivity"
+    },
+    {
+        "app_name": "NFR相机",
+        "package_name": "com.tdchain.cameraRight",
+        "file_name": "com.tdchain.cameraRight_105.apk",
+        "app_activity": "com.tdchain.cameraRight.PicSplashAct"
+    },
+    {
+        "app_name": "签到水印相机",
+        "package_name": "com.chiying.watermarkduck",
+        "file_name": "com.chiying.watermarkduck_106.apk",
+        "app_activity": "com.chiying.watermarkduck.SplashActivity"
+    },
+    {
+        "app_name": "Gimbal Go",
+        "package_name": "com.netviv.photo.official",
+        "file_name": "com.netviv.photo.official_107.apk",
+        "app_activity": "com.netviv.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "bling奶油相机",
+        "package_name": "com.duoduo.bling",
+        "file_name": "com.duoduo.bling_108.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "procam相机",
+        "package_name": "glxx.wnxjds.skza",
+        "file_name": "glxx.wnxjds.skza_109.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "Old CCD Cam",
+        "package_name": "com.chenwei.oldccdcam",
+        "file_name": "com.chenwei.oldccdcam_110.apk",
+        "app_activity": "com.jiehong.education.activity.SplashActivity"
+    },
+    {
+        "app_name": "时间相机水印",
+        "package_name": "com.maoying.timecamera",
+        "file_name": "com.maoying.timecamera_111.apk",
+        "app_activity": "com.maoying.timecamera.adActivity.SplashActivity"
+    },
+    {
+        "app_name": "anime photos",
+        "package_name": "com.yingmeng.cartoon",
+        "file_name": "com.yingmeng.cartoon_112.apk",
+        "app_activity": "com.yingmeng.cartoon.activity.LaunchActivity"
+    },
+    {
+        "app_name": "工友水印相机",
+        "package_name": "com.guangren.workcamera",
+        "file_name": "com.guangren.workcamera_113.apk",
+        "app_activity": "com.guangren.workcamera.view.main.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "趣夜拍",
+        "package_name": "quye.qypzhutvtb.baijiayefl",
+        "file_name": "quye.qypzhutvtb.baijiayefl_114.apk",
+        "app_activity": "com.sxb.new_imageedit_11.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "拍摄工作照",
+        "package_name": "com.gtxinxi.gzz",
+        "file_name": "com.gtxinxi.gzz_115.apk",
+        "app_activity": "com.dunjiakj.yczjzsp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "每日工程水印相机",
+        "package_name": "com.gongcheng.meiri",
+        "file_name": "com.gongcheng.meiri_116.apk",
+        "app_activity": "com.gongcheng.meiri.HomeSplashActivity"
+    },
+    {
+        "app_name": "甜美相机",
+        "package_name": "com.shandongyouma.teyoupintu",
+        "file_name": "com.shandongyouma.teyoupintu_117.apk",
+        "app_activity": "com.example.xieyisheding.YinsixyActivity"
+    },
+    {
+        "app_name": "dsphoto相机",
+        "package_name": "com.jii.axn.g",
+        "file_name": "com.jii.axn.g_118.apk",
+        "app_activity": "pictrue.qokghi.editor.activity.StartActivity"
+    },
+    {
+        "app_name": "DZ相机",
+        "package_name": "com.prnxq.tvkw",
+        "file_name": "com.prnxq.tvkw_119.apk",
+        "app_activity": "com.camera.zdazz.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "AI证件照自拍软件",
+        "package_name": "com.hjkj66.aizjz",
+        "file_name": "com.hjkj66.aizjz_120.apk",
+        "app_activity": "com.qqkj66.erzjzps.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "唱拍秀",
+        "package_name": "gzry.cpxjsk.sahbdc",
+        "file_name": "gzry.cpxjsk.sahbdc_121.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "FIFISH",
+        "package_name": "com.qiyuansz.fifish",
+        "file_name": "com.qiyuansz.fifish_122.apk",
+        "app_activity": "com.qiyuansz.fifish.ui.home.SplashActivity"
+    },
+    {
+        "app_name": "水印相机工作打卡",
+        "package_name": "com.stuart.elevenwater",
+        "file_name": "com.stuart.elevenwater_123.apk",
+        "app_activity": "com.stuart.elevenwater.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "标准证件照随手拍",
+        "package_name": "com.lishun.personphoto",
+        "file_name": "com.lishun.personphoto_124.apk",
+        "app_activity": "com.lishun.personphoto.ui.SplashActivity"
+    },
+    {
+        "app_name": "Olden相机",
+        "package_name": "com.seerlah.oldencamera",
+        "file_name": "com.seerlah.oldencamera_125.apk",
+        "app_activity": "com.seerlah.oldencamera.module.main.WelcomeActivity"
+    },
+    {
+        "app_name": "打卡相机",
+        "package_name": "com.stkj.watermarkcameras",
+        "file_name": "com.stkj.watermarkcameras_126.apk",
+        "app_activity": "com.stkj.watermarkcameras.SplashActivity"
+    },
+    {
+        "app_name": "自拍拼图",
+        "package_name": "com.youmapicture.hao",
+        "file_name": "com.youmapicture.hao_127.apk",
+        "app_activity": "com.youmapicture.xieyisheding.YinsixyActivity"
+    },
+    {
+        "app_name": "timestamp camera",
+        "package_name": "com.myw.engineeringcamera",
+        "file_name": "com.myw.engineeringcamera_128.apk",
+        "app_activity": "com.myw.engineeringcamera.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "证件照神器",
+        "package_name": "com.rjiang.zjzsq",
+        "file_name": "com.rjiang.zjzsq_129.apk",
+        "app_activity": "com.cschidu.zjzzzmf.one.LaunchPageActivity"
+    },
+    {
+        "app_name": "逗图相机",
+        "package_name": "com.xmy.doutu",
+        "file_name": "com.xmy.doutu_130.apk",
+        "app_activity": "com.xmy.doutu.ui.xmyDemoWelcomeActivity"
+    },
+    {
+        "app_name": "JZ yuntai",
+        "package_name": "com.jdjz.yuntai",
+        "file_name": "com.jdjz.yuntai_131.apk",
+        "app_activity": "com.feiyutech.gimbalCamera.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "金桔秀",
+        "package_name": "yuese.shipxb.gyjtbv",
+        "file_name": "yuese.shipxb.gyjtbv_132.apk",
+        "app_activity": "com.sxb.new_camera_16.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "iFootageMoco",
+        "package_name": "com.toncentsoft.ifootagemoco",
+        "file_name": "com.toncentsoft.ifootagemoco_133.apk",
+        "app_activity": "com.toncentsoft.ifootagemoco.ui.activity.MainActivity"
+    },
+    {
+        "app_name": "ins咔萌相机",
+        "package_name": "com.bbn.kameng",
+        "file_name": "com.bbn.kameng_134.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "Mo咔相机",
+        "package_name": "com.bbn.moka",
+        "file_name": "com.bbn.moka_135.apk",
+        "app_activity": "com.yl.frame.main.SplashActivity"
+    },
+    {
+        "app_name": "agc相机",
+        "package_name": "lhypg.axxj.opuy",
+        "file_name": "lhypg.axxj.opuy_136.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "工时水印相机",
+        "package_name": "com.bs.shui.app",
+        "file_name": "com.bs.shui.app_137.apk",
+        "app_activity": "com.camera.watermark.app.SplashActivity"
+    },
+    {
+        "app_name": "Gimbal Play",
+        "package_name": "com.netviv.photo.gimbalplay",
+        "file_name": "com.netviv.photo.gimbalplay_138.apk",
+        "app_activity": "com.netviv.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "Fuji",
+        "package_name": "com.yi.sxijis.fju",
+        "file_name": "com.yi.sxijis.fju_139.apk",
+        "app_activity": "tai.mengzhu.circle.activty.StartActivity"
+    },
+    {
+        "app_name": "今天工程水印相机",
+        "package_name": "com.gongcheng.jintian",
+        "file_name": "com.gongcheng.jintian_140.apk",
+        "app_activity": "com.gongcheng.jintian.HomeSplashActivity"
+    },
+    {
+        "app_name": "新日丰全景",
+        "package_name": "com.rifeng.quanjing",
+        "file_name": "com.rifeng.quanjing_141.apk",
+        "app_activity": "com.hozo.easypanorama.view.LaunchActivity"
+    },
+    {
+        "app_name": "画质鸭",
+        "package_name": "shdb.agnie.vdsfg",
+        "file_name": "shdb.agnie.vdsfg_142.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "水印拍照打卡免费",
+        "package_name": "com.hfyd.waterka",
+        "file_name": "com.hfyd.waterka_143.apk",
+        "app_activity": "com.hfyd.waterka.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "鲲图全景相机",
+        "package_name": "com.sanyuehuakai.fangxhx",
+        "file_name": "com.sanyuehuakai.fangxhx_144.apk",
+        "app_activity": "com.sanyuehuakai.fangxhx.MainActivity"
+    },
+    {
+        "app_name": "FeiyuCam",
+        "package_name": "com.feiyutech.feiyucam",
+        "file_name": "com.feiyutech.feiyucam_145.apk",
+        "app_activity": "com.feiyutech.feiyucam.view.videoeditmodule.welcome.WelComeAct"
+    },
+    {
+        "app_name": "wecut相机",
+        "package_name": "gyjf.wecut.kajndb",
+        "file_name": "gyjf.wecut.kajndb_146.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "医拍即合",
+        "package_name": "com.preoperative.postoperative",
+        "file_name": "com.preoperative.postoperative_147.apk",
+        "app_activity": "com.preoperative.postoperative.activity.SplashActivity"
+    },
+    {
+        "app_name": "海马证件照",
+        "package_name": "com.yingfengkj.idphoto",
+        "file_name": "com.yingfengkj.idphoto_148.apk",
+        "app_activity": "com.yingfengkj.idphoto.MainActivity"
+    },
+    {
+        "app_name": "新镜相机",
+        "package_name": "com.xjxj.newmirror",
+        "file_name": "com.xjxj.newmirror_149.apk",
+        "app_activity": "com.xjxj.newmirror.activity.SplashActivity"
+    },
+    {
+        "app_name": "水印相机全能王",
+        "package_name": "com.zsnt.tools.fullcamera",
+        "file_name": "com.zsnt.tools.fullcamera_150.apk",
+        "app_activity": "com.zsnt.tools.fullcamera.MainActivity"
+    },
+    {
+        "app_name": "MOZA Master",
+        "package_name": "com.gudsen.moza_mc1",
+        "file_name": "com.gudsen.moza_mc1_151.apk",
+        "app_activity": "com.gudsen.moza_mc1.MainActivity"
+    },
+    {
+        "app_name": "Hubsan 3",
+        "package_name": "com.hubsan.hubsan3",
+        "file_name": "com.hubsan.hubsan3_152.apk",
+        "app_activity": "com.hubsan.hubsan3.module.welcome.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "证件照制作全能王",
+        "package_name": "com.password.maker.photo.edit",
+        "file_name": "com.password.maker.photo.edit_153.apk",
+        "app_activity": "com.password.maker.photo.edit.MainActivity"
+    },
+    {
+        "app_name": "Retro相机",
+        "package_name": "com.xlh.retro",
+        "file_name": "com.xlh.retro_154.apk",
+        "app_activity": "com.xlh.retro.ScreenActivity"
+    },
+    {
+        "app_name": "真实地点水印相机",
+        "package_name": "com.timestampcamera.zsdd",
+        "file_name": "com.timestampcamera.zsdd_155.apk",
+        "app_activity": "com.timestampcamera.zsdd.EntranceActivity"
+    },
+    {
+        "app_name": "换底证件照",
+        "package_name": "com.ziyi18.hdzjz",
+        "file_name": "com.ziyi18.hdzjz_156.apk",
+        "app_activity": "com.qqkj66.erzjzps.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "全能证件照片",
+        "package_name": "com.junruy.qnzjzp",
+        "file_name": "com.junruy.qnzjzp_157.apk",
+        "app_activity": "com.qqkj66.erzjzps.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "实用智能相机",
+        "package_name": "com.youyi.magicapplication",
+        "file_name": "com.youyi.magicapplication_158.apk",
+        "app_activity": "com.youyi.magicapplication.AD.AppFirstActivity"
+    },
+    {
+        "app_name": "满萌相机",
+        "package_name": "cn.manmeng",
+        "file_name": "cn.manmeng_159.apk",
+        "app_activity": "manmeng.aaa"
+    },
+    {
+        "app_name": "折返摄影",
+        "package_name": "com.siji.zhefan",
+        "file_name": "com.siji.zhefan_160.apk",
+        "app_activity": "com.siji.zhefan.login.SplashActivity"
+    },
+    {
+        "app_name": "完美水印打卡相机",
+        "package_name": "com.shichai.watercamera",
+        "file_name": "com.shichai.watercamera_161.apk",
+        "app_activity": "com.geetol.watercamera.a.ui.activity.NewSplashActivity"
+    },
+    {
+        "app_name": "水印打卡今日拍照",
+        "package_name": "com.photoxe.markesj",
+        "file_name": "com.photoxe.markesj_162.apk",
+        "app_activity": "com.photoxe.markesj.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "资料工程相机",
+        "package_name": "com.doc.syxiangji",
+        "file_name": "com.doc.syxiangji_163.apk",
+        "app_activity": "com.doc.syxiangji.ui.LauncherActivity"
+    },
+    {
+        "app_name": "嗨影",
+        "package_name": "hfgl.xctx.bkos",
+        "file_name": "hfgl.xctx.bkos_164.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "任意水印相机",
+        "package_name": "renyi.record.watermark.camera",
+        "file_name": "renyi.record.watermark.camera_165.apk",
+        "app_activity": "com.record.watermark.camera.common.StartActivity"
+    },
+    {
+        "app_name": "微商相机",
+        "package_name": "com.moutian.wscamera.ui",
+        "file_name": "com.moutian.wscamera.ui_166.apk",
+        "app_activity": "com.moutian.wscamera.ui.SplashActivity"
+    },
+    {
+        "app_name": "易趣镜子",
+        "package_name": "ej.easyjoy.easymirror",
+        "file_name": "ej.easyjoy.easymirror_167.apk",
+        "app_activity": "ej.easyjoy.easymirror.LogoActivity"
+    },
+    {
+        "app_name": "花影相机",
+        "package_name": "fssgd.gaxf.kagr",
+        "file_name": "fssgd.gaxf.kagr_168.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "马克水印打卡",
+        "package_name": "com.jilu.jinri",
+        "file_name": "com.jilu.jinri_169.apk",
+        "app_activity": "com.jilu.jinri.HomeSplashActivity"
+    },
+    {
+        "app_name": "拍特效相机",
+        "package_name": "com.unxtao.aieaig.doxpi",
+        "file_name": "com.unxtao.aieaig.doxpi_170.apk",
+        "app_activity": "pictrue.qokghi.editor.activity.StartActivity"
+    },
+    {
+        "app_name": "颜相机",
+        "package_name": "gzry.bxxj.oiwsujah",
+        "file_name": "gzry.bxxj.oiwsujah_171.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "水印定位相机",
+        "package_name": "com.smallyin.watermark",
+        "file_name": "com.smallyin.watermark_172.apk",
+        "app_activity": "com.smallyin.watermark.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "美相机",
+        "package_name": "com.txxj.hm",
+        "file_name": "com.txxj.hm_173.apk",
+        "app_activity": "com.allbeauty.camerayq.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "趣相机",
+        "package_name": "com.my.qxj802.u.r.c.n.h",
+        "file_name": "com.my.qxj802.u.r.c.n.h_174.apk",
+        "app_activity": "com.android.demo.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "softpink",
+        "package_name": "ning.zuo.softpink",
+        "file_name": "ning.zuo.softpink_175.apk",
+        "app_activity": "com.sxb.newcamera3.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "时光水印相机",
+        "package_name": "com.csnyg.camera",
+        "file_name": "com.csnyg.camera_176.apk",
+        "app_activity": "com.csnyg.camera.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "水印拍照相机",
+        "package_name": "jyfs.kxtn.hyt",
+        "file_name": "jyfs.kxtn.hyt_177.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "相机P图美颜",
+        "package_name": "com.xikuang.zipaimeiyan",
+        "file_name": "com.xikuang.zipaimeiyan_178.apk",
+        "app_activity": "com.example.xieyisheding.YinsixyActivity"
+    },
+    {
+        "app_name": "VscoEditor",
+        "package_name": "com.akcsgek.diwwhngww.lbvnnifzit",
+        "file_name": "com.akcsgek.diwwhngww.lbvnnifzit_179.apk",
+        "app_activity": "com.qingxiang.zdzq.activty.StartActivity"
+    },
+    {
+        "app_name": "证件照修图制作软件",
+        "package_name": "com.leqi.productionDocument",
+        "file_name": "com.leqi.productionDocument_180.apk",
+        "app_activity": "com.leqi.productionDocument.SplashActivity"
+    },
+    {
+        "app_name": "蝶恋",
+        "package_name": "ning.zuo.dielian",
+        "file_name": "ning.zuo.dielian_181.apk",
+        "app_activity": "com.sxb.new_camera_11.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "证件照拍照馆",
+        "package_name": "gyjf.lsfjnsh.eedhfraaa",
+        "file_name": "gyjf.lsfjnsh.eedhfraaa_182.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "Final Cut Camera",
+        "package_name": "com.iy.ewrtyu.iutr",
+        "file_name": "com.iy.ewrtyu.iutr_183.apk",
+        "app_activity": "tai.mengzhu.circle.activty.StartActivity"
+    },
+    {
+        "app_name": "美颜自拍",
+        "package_name": "com.niuniu.beautycam",
+        "file_name": "com.niuniu.beautycam_184.apk",
+        "app_activity": "com.cody.supads.activity.StartActivity"
+    },
+    {
+        "app_name": "Mology",
+        "package_name": "com.meetvr.freeCamera",
+        "file_name": "com.meetvr.freeCamera_185.apk",
+        "app_activity": "com.meetvr.freeCamera.home.SplashActivity"
+    },
+    {
+        "app_name": "工拍拍",
+        "package_name": "com.kai.gongpaipai",
+        "file_name": "com.kai.gongpaipai_186.apk",
+        "app_activity": "com.example.flutter_gpp.MainActivity"
+    },
+    {
+        "app_name": "Ai4u相机",
+        "package_name": "com.hunliji.ai4u",
+        "file_name": "com.hunliji.ai4u_187.apk",
+        "app_activity": "com.hunliji.ai4u.view.SplashActivity"
+    },
+    {
+        "app_name": "Beauty Camera Plus Sweet Cam",
+        "package_name": "com.sweetcamera.app",
+        "file_name": "com.sweetcamera.app_188.apk",
+        "app_activity": "com.sweetcamera.app.main.LaunchActivity"
+    },
+    {
+        "app_name": "地信相机",
+        "package_name": "com.tianqing.dixin",
+        "file_name": "com.tianqing.dixin_189.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "水印制作相机",
+        "package_name": "com.tingniu.wmcame",
+        "file_name": "com.tingniu.wmcame_190.apk",
+        "app_activity": "com.tingniu.wmcame.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "Graphionica",
+        "package_name": "com.graphionica.app.huawei",
+        "file_name": "com.graphionica.app.huawei_191.apk",
+        "app_activity": "com.trimf.insta.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "几帧DV复古摄像机",
+        "package_name": "com.changpeng.oldreel.dv.cn",
+        "file_name": "com.changpeng.oldreel.dv.cn_192.apk",
+        "app_activity": "com.lightcone.camcorder.activity.SplashActivity"
+    },
+    {
+        "app_name": "face自拍相机",
+        "package_name": "www.facezipai",
+        "file_name": "www.facezipai_193.apk",
+        "app_activity": "com.zhangying.appcollection.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "水晶相册本",
+        "package_name": "cszy.sjxj.lowsaj",
+        "file_name": "cszy.sjxj.lowsaj_194.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "二寸证件照拍摄",
+        "package_name": "com.qqkj66.erzjzps",
+        "file_name": "com.qqkj66.erzjzps_195.apk",
+        "app_activity": "com.qqkj66.erzjzps.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "水印相机记录",
+        "package_name": "com.shuiyin.jilu",
+        "file_name": "com.shuiyin.jilu_196.apk",
+        "app_activity": "com.shuiyin.jilu.HomeSplashActivity"
+    },
+    {
+        "app_name": "FullstackIDPhoto",
+        "package_name": "com.fullstack.idphoto",
+        "file_name": "com.fullstack.idphoto_197.apk",
+        "app_activity": "com.fullstack.idphoto.ui.activity.MainActivity"
+    },
+    {
+        "app_name": "VisLive",
+        "package_name": "cn.com.vexel.viscamera",
+        "file_name": "cn.com.vexel.viscamera_198.apk",
+        "app_activity": "cn.com.vexel.viscamera.splash.SplashActivity"
+    },
+    {
+        "app_name": "脸型分析",
+        "package_name": "com.clxapp",
+        "file_name": "com.clxapp_199.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "颜甜相机",
+        "package_name": "com.shandongxikuang.newcamera",
+        "file_name": "com.shandongxikuang.newcamera_200.apk",
+        "app_activity": "com.example.xieyisheding.YinsixyActivity"
+    },
+    {
+        "app_name": "悦拍",
+        "package_name": "com.jixiang.yuepi",
+        "file_name": "com.jixiang.yuepi_201.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "快快水印相机",
+        "package_name": "com.gw.watermarkcamera",
+        "file_name": "com.gw.watermarkcamera_202.apk",
+        "app_activity": "com.gw.watermarkcamera.view.main.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "证照换底",
+        "package_name": "com.yyi.cbgphoto",
+        "file_name": "com.yyi.cbgphoto_203.apk",
+        "app_activity": "com.yyi.cbgphoto.activity.MainActivity"
+    },
+    {
+        "app_name": "Bird Camera",
+        "package_name": "com.birdream.selfie.beauty.camera",
+        "file_name": "com.birdream.selfie.beauty.camera_204.apk",
+        "app_activity": "com.cody.supads.activity.StartActivity"
+    },
+    {
+        "app_name": "手机证件照",
+        "package_name": "com.hehax.sjzjz",
+        "file_name": "com.hehax.sjzjz_205.apk",
+        "app_activity": "com.dunjiakj.yczjzsp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "证件照快制作",
+        "package_name": "com.csnyg.id_photo",
+        "file_name": "com.csnyg.id_photo_206.apk",
+        "app_activity": "com.csnyg.id_photo.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "禾花秀",
+        "package_name": "camera.april.hehuaxiu",
+        "file_name": "camera.april.hehuaxiu_207.apk",
+        "app_activity": "vch.qqf.image.MainActivity"
+    },
+    {
+        "app_name": "甜蜜蜜相机",
+        "package_name": "com.cst.xiaocamera",
+        "file_name": "com.cst.xiaocamera_208.apk",
+        "app_activity": "com.camerafive.basics.ui.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "未来水印相机",
+        "package_name": "com.wl.zpshuiyinxiangji",
+        "file_name": "com.wl.zpshuiyinxiangji_209.apk",
+        "app_activity": "com.wl.zpshuiyinxiangji.start.StartActivity"
+    },
+    {
+        "app_name": "鱼泡水印相机",
+        "package_name": "com.yupao.gcdkxj",
+        "file_name": "com.yupao.gcdkxj_210.apk",
+        "app_activity": "com.yupao.gcdkxj_lib.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "自拍颜值相机",
+        "package_name": "f2bcamera.image.photo.editor",
+        "file_name": "f2bcamera.image.photo.editor_211.apk",
+        "app_activity": "com.cody.supads.activity.StartActivity"
+    },
+    {
+        "app_name": "水印打卡时间地点相机",
+        "package_name": "checkin.time.location.camera",
+        "file_name": "checkin.time.location.camera_212.apk",
+        "app_activity": "com.place.camera.photo.activity.StartActivity"
+    },
+    {
+        "app_name": "真实水印相机",
+        "package_name": "com.liuniantech.xiangji",
+        "file_name": "com.liuniantech.xiangji_213.apk",
+        "app_activity": "com.xuanmutech.xiangji.activities.SplashActivity"
+    },
+    {
+        "app_name": "模仿相机",
+        "package_name": "com.eiffelyk.candy.imitate",
+        "file_name": "com.eiffelyk.candy.imitate_214.apk",
+        "app_activity": "com.eiffelyk.candy.imitate.MainActivity"
+    },
+    {
+        "app_name": "Mark Camera",
+        "package_name": "com.wmedit.camera",
+        "file_name": "com.wmedit.camera_215.apk",
+        "app_activity": "com.todaycamera.project.ui.camera.StartActivity"
+    },
+    {
+        "app_name": "海拔相机",
+        "package_name": "com.haiba",
+        "file_name": "com.haiba_216.apk",
+        "app_activity": "com.haiba.main.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "爱炫相机",
+        "package_name": "com.axxj.camera",
+        "file_name": "com.axxj.camera_217.apk",
+        "app_activity": "com.nice.finevideo.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "无双水印相机",
+        "package_name": "com.devcon.mswmkca",
+        "file_name": "com.devcon.mswmkca_218.apk",
+        "app_activity": "com.devcon.camera.activity.LauncherActivity"
+    },
+    {
+        "app_name": "坐标相机",
+        "package_name": "com.xiang.sy",
+        "file_name": "com.xiang.sy_219.apk",
+        "app_activity": "com.customdesign.flutter_water_camera.MainActivity"
+    },
+    {
+        "app_name": "Panorama assistant",
+        "package_name": "com.cloudcentury.panorama",
+        "file_name": "com.cloudcentury.panorama_220.apk",
+        "app_activity": "com.cloudcentury.djiremotecontrol.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "万能拍同款",
+        "package_name": "com.xieli.takesamestyle",
+        "file_name": "com.xieli.takesamestyle_221.apk",
+        "app_activity": "com.xieli.takesamestyle.activity.SplashActivity"
+    },
+    {
+        "app_name": "水印相机定位打卡",
+        "package_name": "com.photo.kakaxitwelve",
+        "file_name": "com.photo.kakaxitwelve_222.apk",
+        "app_activity": "com.photo.kakaxitwelve.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "完美素颜甜相机",
+        "package_name": "www.khxjshgfd",
+        "file_name": "www.khxjshgfd_223.apk",
+        "app_activity": "com.zhangying.appcollection.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "口型相机",
+        "package_name": "sadw.qweh.wpeq",
+        "file_name": "sadw.qweh.wpeq_224.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "医美易拍",
+        "package_name": "com.hans3d.emep",
+        "file_name": "com.hans3d.emep_225.apk",
+        "app_activity": "com.hans3d.emep.ui.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "快拍秀",
+        "package_name": "kuaipai.lsrxiu.dnjxjp",
+        "file_name": "kuaipai.lsrxiu.dnjxjp_226.apk",
+        "app_activity": "com.sxb.newcamera3.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "水印拍照打卡相机",
+        "package_name": "com.jlg.piccamera",
+        "file_name": "com.jlg.piccamera_227.apk",
+        "app_activity": "com.jlg.piccamera.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "证件照相机",
+        "package_name": "com.cuohong.idcamera",
+        "file_name": "com.cuohong.idcamera_228.apk",
+        "app_activity": "com.cuohong.idcamera.ui.activity.IndexActivity"
+    },
+    {
+        "app_name": "重塑美颜相机",
+        "package_name": "mc.csxj.lj",
+        "file_name": "mc.csxj.lj_229.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "帮拍证件照",
+        "package_name": "com.xuanyou2022.zjz",
+        "file_name": "com.xuanyou2022.zjz_230.apk",
+        "app_activity": "com.xuanyou2022.zjz.activity.SplashActivity"
+    },
+    {
+        "app_name": "萌趣贴贴",
+        "package_name": "com.fantasybyte.sticker",
+        "file_name": "com.fantasybyte.sticker_231.apk",
+        "app_activity": "com.fantasybyte.sticker.SplashActivity"
+    },
+    {
+        "app_name": "雨滴趣味特效相机",
+        "package_name": "ysm.lsgien.sehgn",
+        "file_name": "ysm.lsgien.sehgn_232.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "印漾证件照",
+        "package_name": "cn.fivebit.photo",
+        "file_name": "cn.fivebit.photo_233.apk",
+        "app_activity": "cn.fivebit.photo.MainActivity"
+    },
+    {
+        "app_name": "美颜秀",
+        "package_name": "com.shandongyyxk.xjcamera",
+        "file_name": "com.shandongyyxk.xjcamera_234.apk",
+        "app_activity": "com.example.xieyisheding.YinsixyActivity"
+    },
+    {
+        "app_name": "蛙趣相机",
+        "package_name": "waqu.vtbvhu.xsffl",
+        "file_name": "waqu.vtbvhu.xsffl_235.apk",
+        "app_activity": "com.vtb.base.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "无忧相机",
+        "package_name": "com.excursthat.cumbe",
+        "file_name": "com.excursthat.cumbe_236.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "工作时间打卡水印相机",
+        "package_name": "com.yizhen.watermakercam",
+        "file_name": "com.yizhen.watermakercam_237.apk",
+        "app_activity": "com.yizhen.watermakercam.LauncherActivity"
+    },
+    {
+        "app_name": "时间相机pro",
+        "package_name": "com.weimei.timecamerapro",
+        "file_name": "com.weimei.timecamerapro_238.apk",
+        "app_activity": "com.weimei.timecamerapro.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "炫拍",
+        "package_name": "lhyp.xuno.xynb",
+        "file_name": "lhyp.xuno.xynb_239.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "蓝底证件照",
+        "package_name": "com.bolanw1.ldzjz",
+        "file_name": "com.bolanw1.ldzjz_240.apk",
+        "app_activity": "com.bolanw1.ldzjz.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "Re mini",
+        "package_name": "com.remi.pro.ni",
+        "file_name": "com.remi.pro.ni_241.apk",
+        "app_activity": "tai.mengzhu.circle.activty.StartActivity"
+    },
+    {
+        "app_name": "春色秀",
+        "package_name": "chunse.qzsvbtn.lsrxn",
+        "file_name": "chunse.qzsvbtn.lsrxn_242.apk",
+        "app_activity": "com.videoedit.newcamera6.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "每日拍照水印相机",
+        "package_name": "com.shuiyin.shishi",
+        "file_name": "com.shuiyin.shishi_243.apk",
+        "app_activity": "com.shuiyin.shishi.HomeSplashActivity"
+    },
+    {
+        "app_name": "拍拍相机",
+        "package_name": "com.hnggpad.paipai",
+        "file_name": "com.hnggpad.paipai_244.apk",
+        "app_activity": "com.hnggpad.paipai.act.PermissionActivity"
+    },
+    {
+        "app_name": "ATLI Cam+",
+        "package_name": "com.atliview.cam3",
+        "file_name": "com.atliview.cam3_245.apk",
+        "app_activity": "com.atliview.app.SplashActivity"
+    },
+    {
+        "app_name": "实时水印相机",
+        "package_name": "com.adaecf.watermark",
+        "file_name": "com.adaecf.watermark_246.apk",
+        "app_activity": "com.adaecf.watermark.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "超级水印相机",
+        "package_name": "com.youyi.watercamera",
+        "file_name": "com.youyi.watercamera_247.apk",
+        "app_activity": "com.youyi.watercamera.AD.FirstActivity"
+    },
+    {
+        "app_name": "日杂拍照相机",
+        "package_name": "fghh.st.stg",
+        "file_name": "fghh.st.stg_248.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "爱饰拍极速版",
+        "package_name": "com.sww.aspcommon",
+        "file_name": "com.sww.aspcommon_249.apk",
+        "app_activity": "com.rongji.patelf.ui.index.LaunchActivity"
+    },
+    {
+        "app_name": "多美水印相机",
+        "package_name": "com.vbeauty.watermark.photo",
+        "file_name": "com.vbeauty.watermark.photo_250.apk",
+        "app_activity": "com.vbeauty.watermark.photo.ui.SplashActivity"
+    },
+    {
+        "app_name": "时刻水印相机",
+        "package_name": "com.jxd.watermarkcamera",
+        "file_name": "com.jxd.watermarkcamera_251.apk",
+        "app_activity": "com.jxd.watermarkcamera.view.main.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "一寸证件照随拍",
+        "package_name": "com.dunjiakj.yczjzsp",
+        "file_name": "com.dunjiakj.yczjzsp_252.apk",
+        "app_activity": "com.dunjiakj.yczjzsp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "云朵相机",
+        "package_name": "com.zhaoxin.ydxj",
+        "file_name": "com.zhaoxin.ydxj_253.apk",
+        "app_activity": "com.jingling.feed.ui.FeedMainActivity"
+    },
+    {
+        "app_name": "一寸照证件照处理",
+        "package_name": "com.ynuahcz.zeiganh.jnoi",
+        "file_name": "com.ynuahcz.zeiganh.jnoi_254.apk",
+        "app_activity": "nvf.photo.once.activty.StartActivity"
+    },
+    {
+        "app_name": "今日打卡水印",
+        "package_name": "com.hfyal.freepicc",
+        "file_name": "com.hfyal.freepicc_255.apk",
+        "app_activity": "com.hfyal.freepicc.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "视网么AR",
+        "package_name": "com.pathprint.chat",
+        "file_name": "com.pathprint.chat_256.apk",
+        "app_activity": "com.unity3d.player.UnityPlayerActivity"
+    },
+    {
+        "app_name": "CCD相机Pro",
+        "package_name": "com.jpasn.ksizlfuv",
+        "file_name": "com.jpasn.ksizlfuv_257.apk",
+        "app_activity": "com.camera.zdazz.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "发型幻视图",
+        "package_name": "com.xinbaolinmail.hairstyle",
+        "file_name": "com.xinbaolinmail.hairstyle_258.apk",
+        "app_activity": "com.xinbaolinmail.hairstyle.activity.SplashActivity"
+    },
+    {
+        "app_name": "工地水印相机",
+        "package_name": "relens.large.aperture.camera",
+        "file_name": "relens.large.aperture.camera_259.apk",
+        "app_activity": "com.place.camera.photo.activity.StartActivity"
+    },
+    {
+        "app_name": "快闪水印打卡相机",
+        "package_name": "com.hy.camera",
+        "file_name": "com.hy.camera_260.apk",
+        "app_activity": "com.hy.camera.activity.SplashActivity"
+    },
+    {
+        "app_name": "素颜甜相机",
+        "package_name": "cn.ins.komori.camera",
+        "file_name": "cn.ins.komori.camera_261.apk",
+        "app_activity": "com.zy.app.devappcollection.StartActivity"
+    },
+    {
+        "app_name": "日历相机精灵",
+        "package_name": "com.yuejia.calendarcamera",
+        "file_name": "com.yuejia.calendarcamera_262.apk",
+        "app_activity": "com.yuejia.calendarcamera.ui.activity.user.StartActivity"
+    },
+    {
+        "app_name": "实况水印相机",
+        "package_name": "com.vitas.cameranow",
+        "file_name": "com.vitas.cameranow_263.apk",
+        "app_activity": "com.vitas.coin.ui.act.SplashAct"
+    },
+    {
+        "app_name": "真实时间水印相机",
+        "package_name": "com.timestampcamera.truetimecamera",
+        "file_name": "com.timestampcamera.truetimecamera_264.apk",
+        "app_activity": "com.timestampcamera.truetimecamera.SplashActivity"
+    },
+    {
+        "app_name": "农用相机",
+        "package_name": "com.gago.farmcamera",
+        "file_name": "com.gago.farmcamera_265.apk",
+        "app_activity": "com.gago.farmcamera.LauncherActivity"
+    },
+    {
+        "app_name": "制作证件照助手",
+        "package_name": "com.jtfh.photoidphotosoftware",
+        "file_name": "com.jtfh.photoidphotosoftware_266.apk",
+        "app_activity": "com.geetol.seven_idphoto_two.activitys.SplashActivity"
+    },
+    {
+        "app_name": "330相机",
+        "package_name": "com.ldlsansy.sxji",
+        "file_name": "com.ldlsansy.sxji_267.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "清格相机",
+        "package_name": "jyfh.xhqb.nkre",
+        "file_name": "jyfh.xhqb.nkre_268.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "甜美颜滤镜自拍",
+        "package_name": "tiantianmeiyan.as",
+        "file_name": "tiantianmeiyan.as_269.apk",
+        "app_activity": "com.zhangying.appcollection.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "精准定位水印相机",
+        "package_name": "com.hnfywatermark.accurate",
+        "file_name": "com.hnfywatermark.accurate_270.apk",
+        "app_activity": "com.wifikey.tenthousands.flutter_watermark.MainActivity"
+    },
+    {
+        "app_name": "天天水印相机",
+        "package_name": "com.ziyi.tiantianshuiyin",
+        "file_name": "com.ziyi.tiantianshuiyin_271.apk",
+        "app_activity": "com.ziyi.tiantianshuiyin.NewWelcomeActivity"
+    },
+    {
+        "app_name": "Pokar Camera",
+        "package_name": "com.licheng.magiccamera",
+        "file_name": "com.licheng.magiccamera_272.apk",
+        "app_activity": "com.licheng.magiccamera.MainActivity"
+    },
+    {
+        "app_name": "修证件照",
+        "package_name": "com.gsdfg.dv",
+        "file_name": "com.gsdfg.dv_273.apk",
+        "app_activity": "com.identification.photo.ui.SplashActivity"
+    },
+    {
+        "app_name": "舞姬秀",
+        "package_name": "vco.wujijinyidsfsi.ffl",
+        "file_name": "vco.wujijinyidsfsi.ffl_274.apk",
+        "app_activity": "com.watermark.camera.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "XTU GO",
+        "package_name": "com.gku.xtugo",
+        "file_name": "com.gku.xtugo_275.apk",
+        "app_activity": "com.gku.actioncam.hisilicon.dv.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "拍立享照片直播",
+        "package_name": "www.pailixiang.com.photoshare",
+        "file_name": "www.pailixiang.com.photoshare_276.apk",
+        "app_activity": "www.pailixiang.com.photoshare.ac.LauchActivity"
+    },
+    {
+        "app_name": "大头贴",
+        "package_name": "csxm.hhxj.soajd",
+        "file_name": "csxm.hhxj.soajd_277.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "最美一寸证件照制作",
+        "package_name": "com.qihe.zzj",
+        "file_name": "com.qihe.zzj_278.apk",
+        "app_activity": "com.xinqidian.adcommon.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "refactorCam",
+        "package_name": "com.recam.chafan",
+        "file_name": "com.recam.chafan_279.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "乐其爱结婚登记照",
+        "package_name": "love.leqiai.couple",
+        "file_name": "love.leqiai.couple_280.apk",
+        "app_activity": "love.leqiai.couple.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "美的你",
+        "package_name": "com.imacco.mup004",
+        "file_name": "com.imacco.mup004_281.apk",
+        "app_activity": "com.imacco.mup004.view.impl.home.WelcomeActivity"
+    },
+    {
+        "app_name": "乐其爱相馆",
+        "package_name": "ai.leqi.love",
+        "file_name": "ai.leqi.love_282.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "清拍证件照",
+        "package_name": "com.yq.passport.qp",
+        "file_name": "com.yq.passport.qp_283.apk",
+        "app_activity": "com.yq.passport.ui.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "水珠相机",
+        "package_name": "com.shuizhuxjandroid.cameraaccts",
+        "file_name": "com.shuizhuxjandroid.cameraaccts_284.apk",
+        "app_activity": "waterDrops.aaa"
+    },
+    {
+        "app_name": "拍照打卡水印相机",
+        "package_name": "com.fengling.watermarks.cameras",
+        "file_name": "com.fengling.watermarks.cameras_285.apk",
+        "app_activity": "com.fengling.watermarks.cameras.business.splash.SplashActivity"
+    }
+
+]

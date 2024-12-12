@@ -1,0 +1,578 @@
+[
+    {
+        "app_name": "飞村",
+        "package_name": "com.tianya.zhengecun",
+        "file_name": "com.tianya.zhengecun_1.apk",
+        "app_activity": "com.tianya.zhengecun.appstart.WelcomeActivity"
+    },
+    {
+        "app_name": "领地",
+        "package_name": "com.mornningtime.clighten",
+        "file_name": "com.mornningtime.clighten_2.apk",
+        "app_activity": "com.mornningtime.clighten.SplaActivity"
+    },
+    {
+        "app_name": "我爱提词器",
+        "package_name": "com.yixinhb.teleprompter",
+        "file_name": "com.yixinhb.teleprompter_3.apk",
+        "app_activity": "com.yixinhb.teleprompter.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "田野影像",
+        "package_name": "com.ruanjiang.field_video",
+        "file_name": "com.ruanjiang.field_video_4.apk",
+        "app_activity": "com.ruanjiang.field_video.ui.SplashActivity"
+    },
+    {
+        "app_name": "航拍网",
+        "package_name": "com.kuwai.uav",
+        "file_name": "com.kuwai.uav_5.apk",
+        "app_activity": "com.kuwai.uav.module.login.StartupPageActivity"
+    },
+    {
+        "app_name": "AI提词大师",
+        "package_name": "com.yuanli.linesdevice",
+        "file_name": "com.yuanli.linesdevice_6.apk",
+        "app_activity": "com.yuanli.linesdevice.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "台词宝提词器",
+        "package_name": "com.stephen.teleprompter.treasure",
+        "file_name": "com.stephen.teleprompter.treasure_8.apk",
+        "app_activity": "com.stephen.teleprompter.treasure.SplashActivity"
+    },
+    {
+        "app_name": "祝福猫视频",
+        "package_name": "com.ccy.cykj",
+        "file_name": "com.ccy.cykj_9.apk",
+        "app_activity": "com.ccy.cykj.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "艾视嘉",
+        "package_name": "com.zex.video",
+        "file_name": "com.zex.video_10.apk",
+        "app_activity": "com.zex.video.ui.login.SplashActivity"
+    },
+    {
+        "app_name": "乐松",
+        "package_name": "com.meilian.flying",
+        "file_name": "com.meilian.flying_11.apk",
+        "app_activity": "com.meilian.flying.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "鱼情惠报站",
+        "package_name": "com.bozhou.diaoyu",
+        "file_name": "com.bozhou.diaoyu_12.apk",
+        "app_activity": "com.xtong.fish.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "爱剪辑视频编辑",
+        "package_name": "com.aijianji.clip",
+        "file_name": "com.aijianji.clip_13.apk",
+        "app_activity": "com.aijianji.clip.ui.splash.Splash2Activity"
+    },
+    {
+        "app_name": "抖吧",
+        "package_name": "com.douba.app",
+        "file_name": "com.douba.app_14.apk",
+        "app_activity": "com.douba.app.activity.DouBaStartActivity"
+    },
+    {
+        "app_name": "换脸秀",
+        "package_name": "com.zeg.faceshow",
+        "file_name": "com.zeg.faceshow_15.apk",
+        "app_activity": "com.hfl.action.entrance.activity.SplashActivity"
+    },
+    {
+        "app_name": "舞记",
+        "package_name": "com.laiwujifly.com",
+        "file_name": "com.laiwujifly.com_16.apk",
+        "app_activity": "com.laiwujifly.com.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "拍摄提词器",
+        "package_name": "com.teleprompter.vlog",
+        "file_name": "com.teleprompter.vlog_17.apk",
+        "app_activity": "com.teleprompter.vlog.ui.SplashActivity"
+    },
+    {
+        "app_name": "提词器大师",
+        "package_name": "com.prompt.lines",
+        "file_name": "com.prompt.lines_18.apk",
+        "app_activity": "com.prompt.lines.ui.SplashActivity"
+    },
+    {
+        "app_name": "沙沙动画",
+        "package_name": "com.meice.ssvideo",
+        "file_name": "com.meice.ssvideo_19.apk",
+        "app_activity": "com.meice.ssvideo.SplashActivity"
+    },
+    {
+        "app_name": "快捷去水印",
+        "package_name": "com.cssq.watermark",
+        "file_name": "com.cssq.watermark_20.apk",
+        "app_activity": "com.cssq.watermark.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "行车监控",
+        "package_name": "com.cam.geometry",
+        "file_name": "com.cam.geometry_21.apk",
+        "app_activity": "com.vyou.app.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "短视频一键搬运",
+        "package_name": "com.bputil.videormlogou",
+        "file_name": "com.bputil.videormlogou_22.apk",
+        "app_activity": "com.bputil.videormlogou.act.SplashAct"
+    },
+    {
+        "app_name": "福气旺",
+        "package_name": "com.fuqiwang.videos",
+        "file_name": "com.fuqiwang.videos_23.apk",
+        "app_activity": "com.fuqiwang.videos.MainActivity"
+    },
+    {
+        "app_name": "环游世界",
+        "package_name": "com.yuedao.goworld",
+        "file_name": "com.yuedao.goworld_24.apk",
+        "app_activity": "com.yuedao.goworld.SplashActivity"
+    },
+    {
+        "app_name": "享视",
+        "package_name": "com.xiangshi.bjxsgc",
+        "file_name": "com.xiangshi.bjxsgc_25.apk",
+        "app_activity": "com.xiangshi.bjxsgc.activity.LauncherActivity"
+    },
+    {
+        "app_name": "提词器爱提词",
+        "package_name": "com.iccapp.tici",
+        "file_name": "com.iccapp.tici_26.apk",
+        "app_activity": "com.iccapp.tici.main.SplashScreenActivity"
+    },
+    {
+        "app_name": "极豆视频",
+        "package_name": "com.zebra.jdsp.cn",
+        "file_name": "com.zebra.jdsp.cn_27.apk",
+        "app_activity": "com.zebra.code.login.SplashActivity"
+    },
+    {
+        "app_name": "提客提词器",
+        "package_name": "com.tttci.tik",
+        "file_name": "com.tttci.tik_28.apk",
+        "app_activity": "com.tttci.tik.MainActivity"
+    },
+    {
+        "app_name": "未来拍刻",
+        "package_name": "com.foundao.tweek",
+        "file_name": "com.foundao.tweek_29.apk",
+        "app_activity": "com.foundao.jper.ui.boot.SplashActivity"
+    },
+    {
+        "app_name": "去水印视频解析",
+        "package_name": "com.hongdie.videoeditor",
+        "file_name": "com.hongdie.videoeditor_30.apk",
+        "app_activity": "com.hongdie.videoeditor.LaunchActivity"
+    },
+    {
+        "app_name": "提词大师",
+        "package_name": "com.hdn.tici",
+        "file_name": "com.hdn.tici_31.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "快手创作者版",
+        "package_name": "com.gifshow.kuaishou.bamboo",
+        "file_name": "com.gifshow.kuaishou.bamboo_32.apk",
+        "app_activity": "com.yxcorp.gifshow.HomeActivity"
+    },
+    {
+        "app_name": "全能剪辑大师",
+        "package_name": "com.ws.zgmv.worldscan",
+        "file_name": "com.ws.zgmv.worldscan_33.apk",
+        "app_activity": "com.hongfan.Videoproduction.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "哐啷啷",
+        "package_name": "com.android.kll",
+        "file_name": "com.android.kll_34.apk",
+        "app_activity": "com.android.kll.ui.MainActivity"
+    },
+    {
+        "app_name": "广场舞舞蹈健身大全",
+        "package_name": "guangchangwu.jianshendaquan",
+        "file_name": "guangchangwu.jianshendaquan_35.apk",
+        "app_activity": "guangchangwu.jianshendaquan.TFirsthActivity"
+    },
+    {
+        "app_name": "霸颜",
+        "package_name": "cn.mobile.lupai",
+        "file_name": "cn.mobile.lupai_36.apk",
+        "app_activity": "cn.mobile.lupai.ui.SplashActivity"
+    },
+    {
+        "app_name": "微视频美颜",
+        "package_name": "com.welcome.beautyvideo",
+        "file_name": "com.welcome.beautyvideo_37.apk",
+        "app_activity": "com.videobeauty.app.ui.SplashActivity"
+    },
+    {
+        "app_name": "嗨转",
+        "package_name": "com.yunli.haizhuan",
+        "file_name": "com.yunli.haizhuan_38.apk",
+        "app_activity": "com.yunli.haizhuan.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "纬界极简提词器",
+        "package_name": "com.weijietech.miniprompter",
+        "file_name": "com.weijietech.miniprompter_39.apk",
+        "app_activity": "com.weijietech.miniprompter.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "天街喵",
+        "package_name": "com.tian_jie_miao",
+        "file_name": "com.tian_jie_miao_40.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "可秀",
+        "package_name": "com.dytemplate.kexiu",
+        "file_name": "com.dytemplate.kexiu_41.apk",
+        "app_activity": "com.dytemplate.kexiu.ui.view.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "天天数影",
+        "package_name": "com.cck.ttshuying",
+        "file_name": "com.cck.ttshuying_42.apk",
+        "app_activity": "com.cck.ttshuying.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "亲拍",
+        "package_name": "com.taobao.tixel.magicwand",
+        "file_name": "com.taobao.tixel.magicwand_43.apk",
+        "app_activity": "com.taobao.tixel.magicwand.business.welcome.WelComeActivity"
+    },
+    {
+        "app_name": "春语",
+        "package_name": "com.tengyue.lives",
+        "file_name": "com.tengyue.lives_44.apk",
+        "app_activity": "com.tengyue.lives.activity.LauncherActivity"
+    },
+    {
+        "app_name": "剪同款",
+        "package_name": "com.stds.shot",
+        "file_name": "com.stds.shot_45.apk",
+        "app_activity": "cn.nineton.sayingwrod.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "抖素材",
+        "package_name": "com.yddj.dousc",
+        "file_name": "com.yddj.dousc_46.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "腾讯微视",
+        "package_name": "com.tencent.weishi",
+        "file_name": "com.tencent.weishi_47.apk",
+        "app_activity": "com.tencent.oscar.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "相声小品精选",
+        "package_name": "com.app.xsxpjx",
+        "file_name": "com.app.xsxpjx_48.apk",
+        "app_activity": "com.app.xsxpjx.SplashActivity"
+    },
+    {
+        "app_name": "蒜瓣Learning",
+        "package_name": "com.benben.cruise",
+        "file_name": "com.benben.cruise_49.apk",
+        "app_activity": "com.benben.cruise.ui.SplashActivity"
+    },
+    {
+        "app_name": "幂果录屏软件",
+        "package_name": "com.zhanlang.dailyscreen",
+        "file_name": "com.zhanlang.dailyscreen_50.apk",
+        "app_activity": "com.zhanlang.dailyscreen.activity.SplashAdActivity"
+    },
+    {
+        "app_name": "TiKo短视频",
+        "package_name": "com.sdlm.svideo",
+        "file_name": "com.sdlm.svideo_51.apk",
+        "app_activity": "com.sdlm.svideo.activity.LauncherActivity"
+    },
+    {
+        "app_name": "录制提词器",
+        "package_name": "com.tianying.prompt",
+        "file_name": "com.tianying.prompt_52.apk",
+        "app_activity": "com.tianying.prompt.ui.activity.SpalshActivity"
+    },
+    {
+        "app_name": "太能塔",
+        "package_name": "com.tainengta.mobi.app",
+        "file_name": "com.tainengta.mobi.app_53.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "XScript",
+        "package_name": "com.moyancn.quicksand",
+        "file_name": "com.moyancn.quicksand_54.apk",
+        "app_activity": "com.moyancn.quicksand.MainActivity"
+    },
+    {
+        "app_name": "驿道用车",
+        "package_name": "com.youma.app.dongka",
+        "file_name": "com.youma.app.dongka_55.apk",
+        "app_activity": "com.youma.app.dongka.ui.SplashActivity"
+    },
+    {
+        "app_name": "静听",
+        "package_name": "com.jingtingonline.jtlive",
+        "file_name": "com.jingtingonline.jtlive_56.apk",
+        "app_activity": "com.jingtingonline.jtlive.main.start.SplashActivity"
+    },
+    {
+        "app_name": "红人蜂",
+        "package_name": "com.fengji.numberpeople",
+        "file_name": "com.fengji.numberpeople_57.apk",
+        "app_activity": "com.fengji.module.home.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "DDPAI",
+        "package_name": "com.vyou.vcameraclient",
+        "file_name": "com.vyou.vcameraclient_58.apk",
+        "app_activity": "com.vyou.app.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "视频看天下",
+        "package_name": "com.smart.app.jijia.new.LookWorldShortVideo",
+        "file_name": "com.smart.app.jijia.new.LookWorldShortVideo_59.apk",
+        "app_activity": "com.smart.app.jijia.LookWorldShortVideo.activity.MainActivity"
+    },
+    {
+        "app_name": "Capture2",
+        "package_name": "com.dy.capture",
+        "file_name": "com.dy.capture_60.apk",
+        "app_activity": "com.cap.camera.HomeActivity"
+    },
+    {
+        "app_name": "Talk国际短视频",
+        "package_name": "com.hxd.talkvvideo",
+        "file_name": "com.hxd.talkvvideo_61.apk",
+        "app_activity": "com.hxd.internationalvideoo.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "屏幕录制大师",
+        "package_name": "com.littlea.screencorder.finger",
+        "file_name": "com.littlea.screencorder.finger_62.apk",
+        "app_activity": "com.qtech.screenrecorder.ui.StartActivity"
+    },
+    {
+        "app_name": "台词提词宝",
+        "package_name": "com.whiteshell.lines",
+        "file_name": "com.whiteshell.lines_63.apk",
+        "app_activity": "com.ananas.lines.SplashActivity"
+    },
+    {
+        "app_name": "飚影",
+        "package_name": "com.buiin.shadow",
+        "file_name": "com.buiin.shadow_64.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "骑驴",
+        "package_name": "com.iqilv.qilv",
+        "file_name": "com.iqilv.qilv_65.apk",
+        "app_activity": "com.iqilv.qilv.ui.start.SplashActivity"
+    },
+    {
+        "app_name": "口型达人",
+        "package_name": "com.hzxy.kouxingdaren",
+        "file_name": "com.hzxy.kouxingdaren_66.apk",
+        "app_activity": "com.hzxy.kouxingdaren.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "灵敢提词器",
+        "package_name": "com.xihang.teleprompter",
+        "file_name": "com.xihang.teleprompter_67.apk",
+        "app_activity": "com.xihang.teleprompter.ui.SplashActivity"
+    },
+    {
+        "app_name": "美拍",
+        "package_name": "com.meitu.meipaimv",
+        "file_name": "com.meitu.meipaimv_68.apk",
+        "app_activity": "com.meitu.meipaimv.StartupActivity"
+    },
+    {
+        "app_name": "幻影3D",
+        "package_name": "net.suninsky.wallpaper.album3d",
+        "file_name": "net.suninsky.wallpaper.album3d_69.apk",
+        "app_activity": "net.suninsky.wallpaper.album3d.Activity4HyStart"
+    },
+    {
+        "app_name": "今日早看",
+        "package_name": "com.zaokan.entertainment",
+        "file_name": "com.zaokan.entertainment_70.apk",
+        "app_activity": "com.knew.feed.ui.activity.SplashScreenActivity"
+    },
+    {
+        "app_name": "小怪才",
+        "package_name": "com.xgc",
+        "file_name": "com.xgc_72.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "如影",
+        "package_name": "com.sensetime.aigcvideo",
+        "file_name": "com.sensetime.aigcvideo_73.apk",
+        "app_activity": "com.sensetime.aigcvideo.ui.activity.LaunchSplashActivity"
+    },
+    {
+        "app_name": "秀拍客",
+        "package_name": "com.rd.kx",
+        "file_name": "com.rd.kx_74.apk",
+        "app_activity": "com.rd.kx.MainActivity"
+    },
+    {
+        "app_name": "闪剪",
+        "package_name": "tv.miaotui.app",
+        "file_name": "tv.miaotui.app_75.apk",
+        "app_activity": "tv.miaotui.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "美秀视频制作",
+        "package_name": "com.tingniu.speffectsvid",
+        "file_name": "com.tingniu.speffectsvid_76.apk",
+        "app_activity": "com.aijianji.clip.ui.splash.Splash2Activity"
+    },
+    {
+        "app_name": "悬浮提词器",
+        "package_name": "com.teleprompter.lines",
+        "file_name": "com.teleprompter.lines_77.apk",
+        "app_activity": "com.teleprompter.lines.ui.SplashActivity"
+    },
+    {
+        "app_name": "岘视",
+        "package_name": "com.huicheng.xsmedia",
+        "file_name": "com.huicheng.xsmedia_78.apk",
+        "app_activity": "com.xsmedia.ui.main.XsSplashActivity"
+    },
+    {
+        "app_name": "提词拍摄",
+        "package_name": "com.wteamweb.jjkj.shooting",
+        "file_name": "com.wteamweb.jjkj.shooting_79.apk",
+        "app_activity": "com.wteamweb.jjkj.shooting.MainActivity"
+    },
+    {
+        "app_name": "驼鱼",
+        "package_name": "com.qdd.video.qdd_video_c",
+        "file_name": "com.qdd.video.qdd_video_c_80.apk",
+        "app_activity": "com.qdd.video.qdd_video_c.SplashActivity"
+    },
+    {
+        "app_name": "妙景",
+        "package_name": "com.wonderful.miaoyin",
+        "file_name": "com.wonderful.miaoyin_81.apk",
+        "app_activity": "com.wonderful.miaoyin.ui.activity.SplashUI"
+    },
+    {
+        "app_name": "今日要看",
+        "package_name": "com.yaokan.entertainment",
+        "file_name": "com.yaokan.entertainment_82.apk",
+        "app_activity": "com.knew.feed.ui.activity.SplashScreenActivity"
+    },
+    {
+        "app_name": "便捷下载",
+        "package_name": "com.lcw.easydownload",
+        "file_name": "com.lcw.easydownload_83.apk",
+        "app_activity": "com.lcw.easydownload.activity.SplashActivity"
+    },
+    {
+        "app_name": "非凡行车记录仪",
+        "package_name": "com.svlmultimedia.huawei",
+        "file_name": "com.svlmultimedia.huawei_84.apk",
+        "app_activity": "com.svlmultimedia.videomonitor.baseui.ActivitySplash"
+    },
+    {
+        "app_name": "蒲蝶涟",
+        "package_name": "com.ys.pdl",
+        "file_name": "com.ys.pdl_85.apk",
+        "app_activity": "com.ys.pdl.ui.activity.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "视频看天下极速版",
+        "package_name": "com.smart.app.jijia.xin.light.lookWorldShortVideo",
+        "file_name": "com.smart.app.jijia.xin.light.lookWorldShortVideo_86.apk",
+        "app_activity": "com.smart.app.jijia.xin.light.lookWorldShortVideo.activity.MainActivity"
+    },
+    {
+        "app_name": "FUNSNAP 2",
+        "package_name": "com.funsnap.idol",
+        "file_name": "com.funsnap.idol_87.apk",
+        "app_activity": "com.funsnap.idol.ui.activity.FlashActivity"
+    },
+    {
+        "app_name": "免费广场舞教学大全",
+        "package_name": "guangchangwu.jiaoxuedaq",
+        "file_name": "guangchangwu.jiaoxuedaq_88.apk",
+        "app_activity": "guangchangwu.jiaoxuedaq.TFirsthActivity"
+    },
+    {
+        "app_name": "换颜",
+        "package_name": "com.ruanyiit.facefusion",
+        "file_name": "com.ruanyiit.facefusion_89.apk",
+        "app_activity": "com.ruanyiit.facefusion.MainActivity"
+    },
+    {
+        "app_name": "水印王",
+        "package_name": "com.moutian.moutianshuiyinwang",
+        "file_name": "com.moutian.moutianshuiyinwang_90.apk",
+        "app_activity": "com.moutian.moutianshuiyinwang.activity.SplashActivity"
+    },
+    {
+        "app_name": "Kuaishou",
+        "package_name": "com.smile.gifmaker",
+        "file_name": "com.smile.gifmaker_91.apk",
+        "app_activity": "com.yxcorp.gifshow.HomeActivity"
+    },
+    {
+        "app_name": "开飞VR",
+        "package_name": "com.calf.vr",
+        "file_name": "com.calf.vr_92.apk",
+        "app_activity": "com.unity3d.player.UnityPlayerActivity"
+    },
+    {
+        "app_name": "趣制作",
+        "package_name": "com.zsyj.videomake",
+        "file_name": "com.zsyj.videomake_93.apk",
+        "app_activity": "com.zsyj.videomake.ui.welcome.SplashActivity"
+    },
+    {
+        "app_name": "Effector",
+        "package_name": "com.ss.android.ies.ugc.cam",
+        "file_name": "com.ss.android.ies.ugc.cam_94.apk",
+        "app_activity": "com.bytedance.effectcam.ui.MainActivity"
+    },
+    {
+        "app_name": "最美广场舞",
+        "package_name": "com.ahsj.dance",
+        "file_name": "com.ahsj.dance_95.apk",
+        "app_activity": "com.ahsj.dance.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "快提词",
+        "package_name": "com.iclick.teleprompter",
+        "file_name": "com.iclick.teleprompter_96.apk",
+        "app_activity": "com.iclick.teleprompter.features.splash.SplashActivity"
+    },
+    {
+        "app_name": "快字幕视频制作",
+        "package_name": "com.wonderful.master",
+        "file_name": "com.wonderful.master_97.apk",
+        "app_activity": "com.wonderful.master.SplashActivity"
+    },
+    {
+        "app_name": "噗叽",
+        "package_name": "com.kwai.thanos",
+        "file_name": "com.kwai.thanos_98.apk",
+        "app_activity": "com.yxcorp.gifshow.HomeActivity"
+    }
+]
