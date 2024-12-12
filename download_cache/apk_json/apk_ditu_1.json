@@ -1,0 +1,1502 @@
+[
+    {
+        "app_name": "天眼3D卫星地图",
+        "package_name": "com.chengruiling.jiejingmap",
+        "file_name": "com.chengruiling.jiejingmap_1.apk",
+        "app_activity": "com.yyfddtmjiejzing206.jiejzing206.ui.SplashActivity"
+    },
+    {
+        "app_name": "宏地星网",
+        "package_name": "com.hdkj.hdxw",
+        "file_name": "com.hdkj.hdxw_2.apk",
+        "app_activity": "com.hdkj.hdxw.mvp.splash.SplashActivity"
+    },
+    {
+        "app_name": "经纬度定位",
+        "package_name": "com.fanweilin.coordinatemap",
+        "file_name": "com.fanweilin.coordinatemap_3.apk",
+        "app_activity": "com.fanweilin.coordinatemap.Activity.SplashActivity"
+    },
+    {
+        "app_name": "ETO街景地图",
+        "package_name": "com.szrongcai.eto",
+        "file_name": "com.szrongcai.eto_4.apk",
+        "app_activity": "com.sppsvp.mmvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "三维街景地图",
+        "package_name": "com.lskt.swjjdt",
+        "file_name": "com.lskt.swjjdt_5.apk",
+        "app_activity": "com.daohangmaster.LaunchActivity"
+    },
+    {
+        "app_name": "3D天眼卫星地图",
+        "package_name": "com.duojingkj.sdtywx",
+        "file_name": "com.duojingkj.sdtywx_6.apk",
+        "app_activity": "com.yysdgdjiejfings203.fings203.ui.SplashActivity"
+    },
+    {
+        "app_name": "3D卫星全景地图",
+        "package_name": "com.szwzxx.map",
+        "file_name": "com.szwzxx.map_7.apk",
+        "app_activity": "com.cgjyjjdt.jiejingditu.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "全球街景高清地图",
+        "package_name": "com.qbqj.qqjjgqdt",
+        "file_name": "com.qbqj.qqjjgqdt_8.apk",
+        "app_activity": "com.yfzfjgzu215.gsz215.ui.SplashActivity"
+    },
+    {
+        "app_name": "四维卫星实景地图",
+        "package_name": "com.fhrj.swsjdt",
+        "file_name": "com.fhrj.swsjdt_9.apk",
+        "app_activity": "com.klajdl.klkaold.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "全球高清看世界",
+        "package_name": "com.zcx.qqgqks",
+        "file_name": "com.zcx.qqgqks_10.apk",
+        "app_activity": "com.laldfl.alsdl.ui.home.WelcomeActivity"
+    },
+    {
+        "app_name": "春芽地图视障版",
+        "package_name": "com.huatu.gz.chunya",
+        "file_name": "com.huatu.gz.chunya_11.apk",
+        "app_activity": "com.huatu.gz.chunya.module.start.StartActivity"
+    },
+    {
+        "app_name": "高速路况",
+        "package_name": "net.cnmaps.highway",
+        "file_name": "net.cnmaps.highway_12.apk",
+        "app_activity": "net.cnmaps.highway.SplashActivity"
+    },
+    {
+        "app_name": "高清3D街景地图",
+        "package_name": "com.streetscape.world",
+        "file_name": "com.streetscape.world_13.apk",
+        "app_activity": "com.visitworld.street.ui.activity.login.StartActivity"
+    },
+    {
+        "app_name": "我找车货主",
+        "package_name": "com.saimawzc.shipper",
+        "file_name": "com.saimawzc.shipper_14.apk",
+        "app_activity": "com.saimawzc.shipper.ui.login.SplashActivity"
+    },
+    {
+        "app_name": "智慧北斗卫星导航",
+        "package_name": "com.zhihuibeidou.ditu",
+        "file_name": "com.zhihuibeidou.ditu_15.apk",
+        "app_activity": "com.vvyy.sskk.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "3D卫星高清世界地图",
+        "package_name": "com.fgwl.awgqjjdt",
+        "file_name": "com.fgwl.awgqjjdt_16.apk",
+        "app_activity": "com.caiduoduo.mapvr_ui671.entrance.WelcomeActivity"
+    },
+    {
+        "app_name": "BIGEMAP卫星地图",
+        "package_name": "com.bigemap.earth",
+        "file_name": "com.bigemap.earth_17.apk",
+        "app_activity": "com.bigemap.earth.ui.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "全能工具助手",
+        "package_name": "com.hsh.location",
+        "file_name": "com.hsh.location_18.apk",
+        "app_activity": "com.shunma.footprint.ui.activity.login.StartActivity"
+    },
+    {
+        "app_name": "奥维高清街景互动地图",
+        "package_name": "com.xfwlkj.awgqhddt",
+        "file_name": "com.xfwlkj.awgqhddt_19.apk",
+        "app_activity": "com.miduoduo.mapvr_ui673.entrance.WelcomeActivity"
+    },
+    {
+        "app_name": "船E行",
+        "package_name": "com.huihai.cyx",
+        "file_name": "com.huihai.cyx_20.apk",
+        "app_activity": "com.huihai.cyx.module.MainActivities"
+    },
+    {
+        "app_name": "吉行高速",
+        "package_name": "com.ctfojt.hwjlpublicservice",
+        "file_name": "com.ctfojt.hwjlpublicservice_21.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "定位亲友守护宝",
+        "package_name": "com.posff.locfrds",
+        "file_name": "com.posff.locfrds_22.apk",
+        "app_activity": "com.arg.gps.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "精图地球",
+        "package_name": "uni.UNI8E1957F",
+        "file_name": "uni.UNI8E1957F_23.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "智优停",
+        "package_name": "com.szzhiyiting.park",
+        "file_name": "com.szzhiyiting.park_24.apk",
+        "app_activity": "com.szzhiyiting.park.MainActivity"
+    },
+    {
+        "app_name": "启航者",
+        "package_name": "com.maphao.shipnavigation.show",
+        "file_name": "com.maphao.shipnavigation.show_25.apk",
+        "app_activity": "com.maphao.shipnavigation.show.MainActivity"
+    },
+    {
+        "app_name": "卫星地图看世界",
+        "package_name": "com.dlmf.weixingditujiejing",
+        "file_name": "com.dlmf.weixingditujiejing_26.apk",
+        "app_activity": "com.xbq.weixingditu.WelcomeActivity"
+    },
+    {
+        "app_name": "三维地图发现",
+        "package_name": "com.example.findmapbox",
+        "file_name": "com.example.findmapbox_27.apk",
+        "app_activity": "com.example.testmapbox.MainActivity"
+    },
+    {
+        "app_name": "街景图",
+        "package_name": "net.cnmaps.streetview",
+        "file_name": "net.cnmaps.streetview_28.apk",
+        "app_activity": "net.cnmaps.streetview.SplashActivity"
+    },
+    {
+        "app_name": "高清VR实景地图",
+        "package_name": "com.dlmf.gqvrsjdt",
+        "file_name": "com.dlmf.gqvrsjdt_29.apk",
+        "app_activity": "com.dlmf.gqvrsjdt.WelcomeActivity"
+    },
+    {
+        "app_name": "天眼高清卫星实景地图",
+        "package_name": "com.sandjiejing.ditu",
+        "file_name": "com.sandjiejing.ditu_30.apk",
+        "app_activity": "com.hbapp.map.ui.activity.HBLauncherActivity"
+    },
+    {
+        "app_name": "奥维3d地图卫星地图",
+        "package_name": "com.mubite.wxditu",
+        "file_name": "com.mubite.wxditu_31.apk",
+        "app_activity": "com.dails.tnf.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "安徽充换电",
+        "package_name": "com.ahcce.charge",
+        "file_name": "com.ahcce.charge_32.apk",
+        "app_activity": "com.ahcce.charge.activity.SplashActivity"
+    },
+    {
+        "app_name": "三维地图",
+        "package_name": "com.liuyun.travelpoi",
+        "file_name": "com.liuyun.travelpoi_33.apk",
+        "app_activity": "com.liuyun.travelpoi.activity.SplashActivity"
+    },
+    {
+        "app_name": "新途管车",
+        "package_name": "com.exlive.xintuguanche",
+        "file_name": "com.exlive.xintuguanche_34.apk",
+        "app_activity": "com.exlive.xintuguanche.MainActivity"
+    },
+    {
+        "app_name": "地图高清卫星地图",
+        "package_name": "com.ylyb.dtgqwxdt",
+        "file_name": "com.ylyb.dtgqwxdt_35.apk",
+        "app_activity": "com.ooiado.ioadi.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "壹换电",
+        "package_name": "com.oneswap.saas.swap",
+        "file_name": "com.oneswap.saas.swap_36.apk",
+        "app_activity": "com.oneswap.saas.swap.views.SplashScreenActivity"
+    },
+    {
+        "app_name": "AR地球实况导航",
+        "package_name": "com.ruisi.arshikuang",
+        "file_name": "com.ruisi.arshikuang_37.apk",
+        "app_activity": "com.ruisi.arshikuang.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "奥维高清互动地图",
+        "package_name": "com.djkj.sddq",
+        "file_name": "com.djkj.sddq_38.apk",
+        "app_activity": "com.yqydzdjiejigngs202.jigngs202.ui.SplashActivity"
+    },
+    {
+        "app_name": "互动地图",
+        "package_name": "com.yisheng.map",
+        "file_name": "com.yisheng.map_39.apk",
+        "app_activity": "com.yisheng.map.ui.SplashActivity"
+    },
+    {
+        "app_name": "三维卫星地图",
+        "package_name": "com.sanweiweixing.shijingerath",
+        "file_name": "com.sanweiweixing.shijingerath_40.apk",
+        "app_activity": "com.ysydqd272.yd272.ui.SlLanchActivity272"
+    },
+    {
+        "app_name": "时刻守护",
+        "package_name": "com.xihang.sksh",
+        "file_name": "com.xihang.sksh_41.apk",
+        "app_activity": "com.xihang.sksh.login.activity.SplashActivity"
+    },
+    {
+        "app_name": "一起看地图",
+        "package_name": "com.yiqiditu.app",
+        "file_name": "com.yiqiditu.app_42.apk",
+        "app_activity": "com.yiqiditu.app.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "CMSV9",
+        "package_name": "net.babelstar.gdispatch",
+        "file_name": "net.babelstar.gdispatch_43.apk",
+        "app_activity": "net.babelstar.gdispatch.view.LoginActivity"
+    },
+    {
+        "app_name": "火情宝大众版",
+        "package_name": "com.firepoint_public",
+        "file_name": "com.firepoint_public_44.apk",
+        "app_activity": "com.firepoint_public.MainActivity"
+    },
+    {
+        "app_name": "CarAuto",
+        "package_name": "com.eryanet.carauto",
+        "file_name": "com.eryanet.carauto_45.apk",
+        "app_activity": "com.eryanet.carauto.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "世界街景地图",
+        "package_name": "com.pdf.gaoqingditu",
+        "file_name": "com.pdf.gaoqingditu_46.apk",
+        "app_activity": "com.rjgs.sj.ui.home.WelcomeActivity"
+    },
+    {
+        "app_name": "易查车",
+        "package_name": "com.exlive.videoapp",
+        "file_name": "com.exlive.videoapp_47.apk",
+        "app_activity": "com.exlive.videoapp.MainActivity"
+    },
+    {
+        "app_name": "Bigemap",
+        "package_name": "com.xkzd.gqdt",
+        "file_name": "com.xkzd.gqdt_48.apk",
+        "app_activity": "com.yyddjiegjfsincyg209.fsincyg209.ui.SplashActivity"
+    },
+    {
+        "app_name": "实景地图GPS定位",
+        "package_name": "cn.zhongkeyixuntech.map",
+        "file_name": "cn.zhongkeyixuntech.map_49.apk",
+        "app_activity": "cn.zhongkeyixuntech.map.ui.SplashActivity"
+    },
+    {
+        "app_name": "奥维3D卫星高清街景地图",
+        "package_name": "com.ruirui.gaoqingjiejing",
+        "file_name": "com.ruirui.gaoqingjiejing_50.apk",
+        "app_activity": "com.lzjj.kbcjj.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "奥维3D卫星实景地图",
+        "package_name": "com.ytk.wordmap",
+        "file_name": "com.ytk.wordmap_51.apk",
+        "app_activity": "com.lzxggdjj.xghdjj.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "天眼卫星街景地图",
+        "package_name": "com.duoxuejiaoyu.earth",
+        "file_name": "com.duoxuejiaoyu.earth_52.apk",
+        "app_activity": "com.d3worldpanorama.chiworpan.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "天眼高清实景地图",
+        "package_name": "com.xfwlkj.tygqsjdt",
+        "file_name": "com.xfwlkj.tygqsjdt_53.apk",
+        "app_activity": "com.danduoduo.mapvrui672.entrance.WelcomeActivity"
+    },
+    {
+        "app_name": "3D卫星街景互动地图",
+        "package_name": "com.szxckj.aw3dwxskjj",
+        "file_name": "com.szxckj.aw3dwxskjj_54.apk",
+        "app_activity": "com.szxckj.aw3dwxskjj.activity.SlLanchActivity42"
+    },
+    {
+        "app_name": "高清全景地图",
+        "package_name": "com.rdmro.oxqhzjyl",
+        "file_name": "com.rdmro.oxqhzjyl_55.apk",
+        "app_activity": "com.rdmro.oxqhzjyl.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "海南充电桩",
+        "package_name": "com.extracme.hainan",
+        "file_name": "com.extracme.hainan_56.apk",
+        "app_activity": "com.example.evchargehybridapp.MainActivity"
+    },
+    {
+        "app_name": "Earth地球",
+        "package_name": "com.earth.bdspace",
+        "file_name": "com.earth.bdspace_57.apk",
+        "app_activity": "com.earth.bdspace.ui.activity.EnterActivity"
+    },
+    {
+        "app_name": "奥维互动卫星地图",
+        "package_name": "com.yunshangtong.aowei",
+        "file_name": "com.yunshangtong.aowei_58.apk",
+        "app_activity": "com.roundworld.rwearth.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "三维卫星街景",
+        "package_name": "com.hcsc.jjdt",
+        "file_name": "com.hcsc.jjdt_59.apk",
+        "app_activity": "com.yyfzfjgnzu214.a214.ui.SplashActivity"
+    },
+    {
+        "app_name": "360罗盘指南针",
+        "package_name": "cn.llwl.compass",
+        "file_name": "cn.llwl.compass_60.apk",
+        "app_activity": "com.fanghe.measure.ui.SplashActivity"
+    },
+    {
+        "app_name": "ZNet",
+        "package_name": "com.ztstech.android.znet",
+        "file_name": "com.ztstech.android.znet_61.apk",
+        "app_activity": "com.ztstech.android.znet.FlashActivity"
+    },
+    {
+        "app_name": "地图迦·演播",
+        "package_name": "com.supermap.ditujia_yanbo",
+        "file_name": "com.supermap.ditujia_yanbo_62.apk",
+        "app_activity": "com.supermap.tocmobile.MainActivity"
+    },
+    {
+        "app_name": "联星北斗卫星地图",
+        "package_name": "com.lianxingbeidou.ditu",
+        "file_name": "com.lianxingbeidou.ditu_63.apk",
+        "app_activity": "com.lianxingbeidou.ditu.UI363.activity363.SplashActivity363"
+    },
+    {
+        "app_name": "云服务工具包",
+        "package_name": "com.hns.cloudtool",
+        "file_name": "com.hns.cloudtool_64.apk",
+        "app_activity": "com.hns.cloudtool.ui.login.activity.SplashActivity"
+    },
+    {
+        "app_name": "世界街景实景地图",
+        "package_name": "com.xxjr.sjdt",
+        "file_name": "com.xxjr.sjdt_65.apk",
+        "app_activity": "com.cgdsslt.cgjj.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "天眼3D卫星实景地图",
+        "package_name": "com.xuntusanwei.daohang",
+        "file_name": "com.xuntusanwei.daohang_66.apk",
+        "app_activity": "com.bmapmaster.bmap.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "海拔仪HD高度测量",
+        "package_name": "cn.yisheng.altitude",
+        "file_name": "cn.yisheng.altitude_67.apk",
+        "app_activity": "cn.yisheng.altitude.ui.SplashActivity"
+    },
+    {
+        "app_name": "天眼3D高清地图",
+        "package_name": "com.tjntkj.tysdgqdt",
+        "file_name": "com.tjntkj.tysdgqdt_68.apk",
+        "app_activity": "com.tjntkj.mapvrui2.WelcomeActivity"
+    },
+    {
+        "app_name": "奥维3D高清街景地图",
+        "package_name": "com.fgwl.aw3dgqjjdt",
+        "file_name": "com.fgwl.aw3dgqjjdt_69.apk",
+        "app_activity": "com.lzstreetview.lzview.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "爱看世界街景地图",
+        "package_name": "com.tm.ltrealisticmap",
+        "file_name": "com.tm.ltrealisticmap_70.apk",
+        "app_activity": "com.ltmb.streetview.ui.activity.AppWelcomeActivity2"
+    },
+    {
+        "app_name": "导航星地图",
+        "package_name": "com.rqny.cjditu",
+        "file_name": "com.rqny.cjditu_71.apk",
+        "app_activity": "com.yydksddzh132.zh132.ui.SplashActivity132"
+    },
+    {
+        "app_name": "奥维Map世界地图",
+        "package_name": "com.dwntech.wmaps",
+        "file_name": "com.dwntech.wmaps_72.apk",
+        "app_activity": "com.dwntech.wmaps.MainActivity"
+    },
+    {
+        "app_name": "及思地图",
+        "package_name": "com.gismap.app",
+        "file_name": "com.gismap.app_73.apk",
+        "app_activity": "com.gismap.app.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "通通随行",
+        "package_name": "com.datong.companionapp",
+        "file_name": "com.datong.companionapp_74.apk",
+        "app_activity": "com.wlsx.companionapp.activity.LaunchActivity"
+    },
+    {
+        "app_name": "三维地图看世界",
+        "package_name": "com.beidoujiejing.ditu",
+        "file_name": "com.beidoujiejing.ditu_75.apk",
+        "app_activity": "com.zjqqgqjj.jjdt.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "天眼3D高清卫星地图",
+        "package_name": "com.arydxkj.tygqwxdt",
+        "file_name": "com.arydxkj.tygqwxdt_76.apk",
+        "app_activity": "com.arydxkj.tygqwxdt.WelcomeActivity"
+    },
+    {
+        "app_name": "全球街景3D地图",
+        "package_name": "com.yicheng.jiejing",
+        "file_name": "com.yicheng.jiejing_77.apk",
+        "app_activity": "com.ftxd.ftjj.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "3D实景地图",
+        "package_name": "com.xkzd.sjmap",
+        "file_name": "com.xkzd.sjmap_78.apk",
+        "app_activity": "com.lanuiyd.lanui.ui.SplLaunchActivity"
+    },
+    {
+        "app_name": "手机号定位寻人",
+        "package_name": "com.egzteaz.zzlwwve",
+        "file_name": "com.egzteaz.zzlwwve_79.apk",
+        "app_activity": "com.arg.gps.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "智亳车",
+        "package_name": "com.zhht.aipark.bz",
+        "file_name": "com.zhht.aipark.bz_80.apk",
+        "app_activity": "com.zhht.aipark.bz.ui.SplashActivity"
+    },
+    {
+        "app_name": "增城泊车",
+        "package_name": "com.zhht.aipark.zc",
+        "file_name": "com.zhht.aipark.zc_81.apk",
+        "app_activity": "com.zhht.aipark.zc.ui.SplashActivity"
+    },
+    {
+        "app_name": "宏图实景",
+        "package_name": "com.piesat.realscene",
+        "file_name": "com.piesat.realscene_82.apk",
+        "app_activity": "com.piesat.realscene.activity.common.SplashActivity"
+    },
+    {
+        "app_name": "奥维3D卫星互动地图",
+        "package_name": "com.ydxkj.aw3dwxhddt",
+        "file_name": "com.ydxkj.aw3dwxhddt_83.apk",
+        "app_activity": "com.yqkj.map669.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "精准卫星地图",
+        "package_name": "com.hnrsqll.bhlrpkmx",
+        "file_name": "com.hnrsqll.bhlrpkmx_84.apk",
+        "app_activity": "com.hnrsqll.bhlrpkmx.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "3D卫星高清全景地图",
+        "package_name": "com.nfdata.ditu",
+        "file_name": "com.nfdata.ditu_85.apk",
+        "app_activity": "com.lzdxm.sldjf.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "汇投北斗助手",
+        "package_name": "com.qyjiuzuoshou.weixingdituo",
+        "file_name": "com.qyjiuzuoshou.weixingdituo_86.apk",
+        "app_activity": "com.yzyddfdaoshhang19f91.hang19f91.ui.SplashActivity"
+    },
+    {
+        "app_name": "途乐充",
+        "package_name": "tech.sator.power",
+        "file_name": "tech.sator.power_87.apk",
+        "app_activity": "tech.sator.power.MainActivity"
+    },
+    {
+        "app_name": "货车禁区查询",
+        "package_name": "com.hcb.limit",
+        "file_name": "com.hcb.limit_88.apk",
+        "app_activity": "com.hcb.splash.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "全球实景地图",
+        "package_name": "com.gzhm.earthdt",
+        "file_name": "com.gzhm.earthdt_89.apk",
+        "app_activity": "com.xinlan.imageeditlibrary.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "GPS工具箱",
+        "package_name": "com.leduoworks.gpstoolbox",
+        "file_name": "com.leduoworks.gpstoolbox_90.apk",
+        "app_activity": "com.leduoworks.gpstoolbox.newest.StarterActivity"
+    },
+    {
+        "app_name": "汽车在线",
+        "package_name": "com.coomix.app.car",
+        "file_name": "com.coomix.app.car_91.apk",
+        "app_activity": "com.coomix.app.car.activity.BootActivity"
+    },
+    {
+        "app_name": "渔遥渔鹰",
+        "package_name": "com.aispatial.yc",
+        "file_name": "com.aispatial.yc_92.apk",
+        "app_activity": "com.lt.app.MainActivity"
+    },
+    {
+        "app_name": "高清卫星街景地图导航",
+        "package_name": "cn.liuyun.hdstreetmap",
+        "file_name": "cn.liuyun.hdstreetmap_93.apk",
+        "app_activity": "cn.liuyun.hdstreetmap.activity.SplashActivity"
+    },
+    {
+        "app_name": "3D卫星实景地图",
+        "package_name": "com.baijiu.street",
+        "file_name": "com.baijiu.street_94.apk",
+        "app_activity": "com.baijiu.street.ui.activity.HBLauncherActivity"
+    },
+    {
+        "app_name": "高清街景地图",
+        "package_name": "com.findstreet.travel",
+        "file_name": "com.findstreet.travel_95.apk",
+        "app_activity": "com.findstreet.travel.ui.activity.login.StartActivity"
+    },
+    {
+        "app_name": "芜优出行",
+        "package_name": "com.yidingyun.WitParking",
+        "file_name": "com.yidingyun.WitParking_96.apk",
+        "app_activity": "com.yidingyun.WitParking.Activity.StartActivity"
+    },
+    {
+        "app_name": "探险者地图",
+        "package_name": "com.yangge.earth",
+        "file_name": "com.yangge.earth_97.apk",
+        "app_activity": "com.lz.byyjj.WelcomeActivity"
+    },
+    {
+        "app_name": "VR全景卫星地图",
+        "package_name": "com.xxjr.vrqjdt",
+        "file_name": "com.xxjr.vrqjdt_98.apk",
+        "app_activity": "com.streetscape402.yydd402.ui.SplLaunchActivity402"
+    },
+    {
+        "app_name": "GPS状态",
+        "package_name": "com.eclipsim.gpsstatus",
+        "file_name": "com.eclipsim.gpsstatus_99.apk",
+        "app_activity": "com.djkj.gpsstatus.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "奥维世界街景地图",
+        "package_name": "com.aryhkj.awsjjjdt",
+        "file_name": "com.aryhkj.awsjjjdt_100.apk",
+        "app_activity": "com.aryhkj.mapvr39.SplashActivity"
+    },
+    {
+        "app_name": "3D奥维高清地图",
+        "package_name": "com.qyjkejigosi.aoweisiweimap",
+        "file_name": "com.qyjkejigosi.aoweisiweimap_101.apk",
+        "app_activity": "com.qwer.thirtytwenty.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "精细地图导航",
+        "package_name": "com.nfdata.dhang",
+        "file_name": "com.nfdata.dhang_102.apk",
+        "app_activity": "com.yyf3dddasohkang196.ohkang196.ui.SplashActivity"
+    },
+    {
+        "app_name": "AR指南针",
+        "package_name": "cn.yisheng.arcompass",
+        "file_name": "cn.yisheng.arcompass_103.apk",
+        "app_activity": "com.fanghe.measure.ui.SplashActivity"
+    },
+    {
+        "app_name": "乌航通",
+        "package_name": "com.hfedit.wuhangtong",
+        "file_name": "com.hfedit.wuhangtong_104.apk",
+        "app_activity": "com.hfedit.wuhangtong.app.ui.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "GPS实时海拔",
+        "package_name": "com.lexun99.gps",
+        "file_name": "com.lexun99.gps_105.apk",
+        "app_activity": "com.lexun99.danmu.SplashActivity"
+    },
+    {
+        "app_name": "地球卫星街景地图",
+        "package_name": "com.qiuhua.jiejin",
+        "file_name": "com.qiuhua.jiejin_106.apk",
+        "app_activity": "com.lz.lzsj.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "经纬度GPS坐标定位",
+        "package_name": "cn.yueshuiyao.jingwei",
+        "file_name": "cn.yueshuiyao.jingwei_107.apk",
+        "app_activity": "cn.yueshuiyao.jingwei.ui.SplashActivity"
+    },
+    {
+        "app_name": "Tantu Map",
+        "package_name": "com.tantu.map",
+        "file_name": "com.tantu.map_108.apk",
+        "app_activity": "com.zuzuche.ui.activity.LoadingActivity"
+    },
+    {
+        "app_name": "GPS万能工具",
+        "package_name": "com.wyma.gpstoolkit",
+        "file_name": "com.wyma.gpstoolkit_109.apk",
+        "app_activity": "com.wyma.gpstoolkit.SplashActivity"
+    },
+    {
+        "app_name": "青岛停车",
+        "package_name": "com.qdznjt.qdtc.jtjt",
+        "file_name": "com.qdznjt.qdtc.jtjt_110.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "Petal Maps",
+        "package_name": "com.huawei.maps.app",
+        "file_name": "com.huawei.maps.app_111.apk",
+        "app_activity": "com.huawei.maps.app.petalmaps.splash.SplashActivity"
+    },
+    {
+        "app_name": "奥维三维地图",
+        "package_name": "com.aryckj.swdtgqdt",
+        "file_name": "com.aryckj.swdtgqdt_112.apk",
+        "app_activity": "com.qianduoduo.mapvr_ui674.entrance.WelcomeActivity"
+    },
+    {
+        "app_name": "圈尔",
+        "package_name": "com.app.quaner",
+        "file_name": "com.app.quaner_113.apk",
+        "app_activity": "com.app.quaner.activity.OperationInstructionActivity"
+    },
+    {
+        "app_name": "天眼实况全景地图",
+        "package_name": "app.swdtfx.wjk",
+        "file_name": "app.swdtfx.wjk_114.apk",
+        "app_activity": "app.smart.street.ui.activity.login.StartActivity"
+    },
+    {
+        "app_name": "北方卫星地图",
+        "package_name": "com.baochang.jiejing",
+        "file_name": "com.baochang.jiejing_115.apk",
+        "app_activity": "com.chinaworld.scenicview.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "奥维互动导航3D卫星地图",
+        "package_name": "com.qizhenyun.ditu",
+        "file_name": "com.qizhenyun.ditu_116.apk",
+        "app_activity": "com.sqm.basedemeo.activity.SplashActivity"
+    },
+    {
+        "app_name": "天眼卫星实景地图",
+        "package_name": "com.sskjjditu",
+        "file_name": "com.sskjjditu_117.apk",
+        "app_activity": "com.yupei.zhuocaizheng.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "腾讯地图",
+        "package_name": "com.tencent.map",
+        "file_name": "com.tencent.map_118.apk",
+        "app_activity": "com.tencent.map.WelcomeActivity"
+    },
+    {
+        "app_name": "免费停车",
+        "package_name": "com.ots.gxcw",
+        "file_name": "com.ots.gxcw_119.apk",
+        "app_activity": "com.ots.gxcw.reception.pub.Logon_00"
+    },
+    {
+        "app_name": "北斗侠3D卫星导航",
+        "package_name": "com.yydd.map",
+        "file_name": "com.yydd.map_120.apk",
+        "app_activity": "com.yydd.map.WelcomeActivity"
+    },
+    {
+        "app_name": "深圳外地车",
+        "package_name": "net.cnmaps.shenzhencar",
+        "file_name": "net.cnmaps.shenzhencar_121.apk",
+        "app_activity": "net.cnmaps.shenzhencar.SplashActivity"
+    },
+    {
+        "app_name": "市南慧停车",
+        "package_name": "com.shinan.park",
+        "file_name": "com.shinan.park_122.apk",
+        "app_activity": "com.shinan.park.MainActivity"
+    },
+    {
+        "app_name": "奥维3D高清地图",
+        "package_name": "com.dlmf.aw3dltgqdt",
+        "file_name": "com.dlmf.aw3dltgqdt_123.apk",
+        "app_activity": "com.xbq.mapvrui32.WelcomeActivity"
+    },
+    {
+        "app_name": "奥维3D地图",
+        "package_name": "com.xdkj.awsddt",
+        "file_name": "com.xdkj.awsddt_124.apk",
+        "app_activity": "com.xdkj.awsdgqswdt.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "长春泊车",
+        "package_name": "com.chengtou.parking",
+        "file_name": "com.chengtou.parking_125.apk",
+        "app_activity": "com.chengtou.parking.ui.SplashActivity"
+    },
+    {
+        "app_name": "山东高速智慧出行",
+        "package_name": "com.sdhsg.intelligencetravel",
+        "file_name": "com.sdhsg.intelligencetravel_126.apk",
+        "app_activity": "com.uroad.shandonggst.module.splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "3D高清卫星地图",
+        "package_name": "com.szxgke.wxgqjj",
+        "file_name": "com.szxgke.wxgqjj_127.apk",
+        "app_activity": "com.yyddnw.duoya.ui.LaunchActivity"
+    },
+    {
+        "app_name": "3D卫星地图街景探索",
+        "package_name": "com.rqenergy.jjdt",
+        "file_name": "com.rqenergy.jjdt_128.apk",
+        "app_activity": "com.yy3ddjiejfinzg19f9.finzg19f9.ui.SplashActivity"
+    },
+    {
+        "app_name": "星图地球",
+        "package_name": "com.geovis.earth",
+        "file_name": "com.geovis.earth_129.apk",
+        "app_activity": "com.geovis.earth.MainActivity"
+    },
+    {
+        "app_name": "极速卫星导航",
+        "package_name": "com.laojiukeji.ditu",
+        "file_name": "com.laojiukeji.ditu_130.apk",
+        "app_activity": "com.uadfk.xcflkjdf.activity.LaunchActivity"
+    },
+    {
+        "app_name": "子午地图",
+        "package_name": "com.bjys.android.xmap",
+        "file_name": "com.bjys.android.xmap_131.apk",
+        "app_activity": "com.bjys.android.xmap.ui.activity.LogoActivity"
+    },
+    {
+        "app_name": "奥维实景地图",
+        "package_name": "com.xykj.awsjdt",
+        "file_name": "com.xykj.awsjdt_132.apk",
+        "app_activity": "com.hkjkjsd.khsdh.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "奥维高清地图",
+        "package_name": "com.hongcaitong.ty3ddt",
+        "file_name": "com.hongcaitong.ty3ddt_133.apk",
+        "app_activity": "com.szyd.streetview.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "3D全球卫星实景地图",
+        "package_name": "com.momorufeng.jiejing",
+        "file_name": "com.momorufeng.jiejing_134.apk",
+        "app_activity": "com.ft.mmjj.activity.LaunchActivity"
+    },
+    {
+        "app_name": "记路者",
+        "package_name": "com.mapgoo.cartools",
+        "file_name": "com.mapgoo.cartools_135.apk",
+        "app_activity": "com.mapgoo.cartools.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "高清世界街景地图",
+        "package_name": "com.wl.streetscapemap",
+        "file_name": "com.wl.streetscapemap_136.apk",
+        "app_activity": "com.weilai.a3dstreet.begin.BeginActivity"
+    },
+    {
+        "app_name": "步行者坐标导航",
+        "package_name": "com.bxzzbdh.coordnavi",
+        "file_name": "com.bxzzbdh.coordnavi_137.apk",
+        "app_activity": "com.bxzzbdh.privacy.PrivacyActivity"
+    },
+    {
+        "app_name": "外业精灵",
+        "package_name": "com.tuxin.outerhelper.outerhelper",
+        "file_name": "com.tuxin.outerhelper.outerhelper_138.apk",
+        "app_activity": "com.tuxin.outerhelper.outerhelper.WelcomeActivity"
+    },
+    {
+        "app_name": "四维地图",
+        "package_name": "com.zzruipai.siweisjdt",
+        "file_name": "com.zzruipai.siweisjdt_139.apk",
+        "app_activity": "com.yydlsdjj282.sdjj282.activity.M282Activity"
+    },
+    {
+        "app_name": "3D高清卫星街景地图",
+        "package_name": "com.xykj.gqjjdt",
+        "file_name": "com.xykj.gqjjdt_140.apk",
+        "app_activity": "com.poapjd.sdgqwxjjdt.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "奥维3D高清卫星地图",
+        "package_name": "com.djkj.awsdgq",
+        "file_name": "com.djkj.awsdgq_141.apk",
+        "app_activity": "com.yyfddjiejsinggz201.inggz201.ui.SplashActivity"
+    },
+    {
+        "app_name": "奥维高清卫星地图",
+        "package_name": "com.xbq.awqjdt",
+        "file_name": "com.xbq.awqjdt_142.apk",
+        "app_activity": "com.yckj.mapvr_ui668.WelcomeActivity"
+    },
+    {
+        "app_name": "星链卫星地图",
+        "package_name": "com.xuntujiejing.ditu",
+        "file_name": "com.xuntujiejing.ditu_143.apk",
+        "app_activity": "com.yzysdddhh19.dhh19.ui.SplashActivity"
+    },
+    {
+        "app_name": "汇投北斗伴侣",
+        "package_name": "com.xingzhigaoqingdittu.zuoshou",
+        "file_name": "com.xingzhigaoqingdittu.zuoshou_144.apk",
+        "app_activity": "com.luyy.bdb.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "手机查车",
+        "package_name": "cn.monitor",
+        "file_name": "cn.monitor_145.apk",
+        "app_activity": "cn.exlive.FirstActivity"
+    },
+    {
+        "app_name": "百斗卫星地图",
+        "package_name": "com.ddrgdduq.vuawkzgg",
+        "file_name": "com.ddrgdduq.vuawkzgg_146.apk",
+        "app_activity": "com.ddrgdduq.vuawkzgg.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "新知卫星地图",
+        "package_name": "space.xinzhi.map",
+        "file_name": "space.xinzhi.map_147.apk",
+        "app_activity": "space.xinzhi.map.activity.SplashActivity"
+    },
+    {
+        "app_name": "六寸地图",
+        "package_name": "com.swdtjjdh",
+        "file_name": "com.swdtjjdh_148.apk",
+        "app_activity": "com.tw.estsj.activity.WelcomeQdyActivity"
+    },
+    {
+        "app_name": "新知高清卫星地图",
+        "package_name": "com.xdkj.xzgqdt",
+        "file_name": "com.xdkj.xzgqdt_149.apk",
+        "app_activity": "com.xdkj.xzwxdt.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "奥维天眼实景地图",
+        "package_name": "com.hmkj.awty",
+        "file_name": "com.hmkj.awty_150.apk",
+        "app_activity": "com.weeight.eipanorama.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "奥维卫星街景地图",
+        "package_name": "com.hmkj.awwx",
+        "file_name": "com.hmkj.awwx_151.apk",
+        "app_activity": "com.edge.edgepano.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "定位相机",
+        "package_name": "com.yuanli.mvplocatingcamera",
+        "file_name": "com.yuanli.mvplocatingcamera_152.apk",
+        "app_activity": "com.yuanli.mvplocatingcamera.mvp.ui.activity.StartupPageActivity"
+    },
+    {
+        "app_name": "齐昌地球",
+        "package_name": "com.leihuokeji.qcshop_app",
+        "file_name": "com.leihuokeji.qcshop_app_153.apk",
+        "app_activity": "com.leihuokeji.qcshop_app.qcearth.MainActivity"
+    },
+    {
+        "app_name": "兰图绘",
+        "package_name": "com.jsland.ldmap",
+        "file_name": "com.jsland.ldmap_154.apk",
+        "app_activity": "com.jsland.ldmap.MainActivity"
+    },
+    {
+        "app_name": "汇投北斗地图",
+        "package_name": "com.duoxuecaige.jiejingdituoerrth",
+        "file_name": "com.duoxuecaige.jiejingdituoerrth_155.apk",
+        "app_activity": "com.yyzddjisfej3ing197.ej3ing197.ui.SplashActivity"
+    },
+    {
+        "app_name": "亿景智图",
+        "package_name": "com.dituwuyou",
+        "file_name": "com.dituwuyou_156.apk",
+        "app_activity": "com.dituwuyou.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "高清卫星街景地图",
+        "package_name": "com.qifan.jiejing",
+        "file_name": "com.qifan.jiejing_157.apk",
+        "app_activity": "com.lookworld.streetmap.acti.SplashActivity"
+    },
+    {
+        "app_name": "Ovitalmap",
+        "package_name": "com.ovital.ovitalMap",
+        "file_name": "com.ovital.ovitalMap_158.apk",
+        "app_activity": "com.ovital.ovitalMap.LaunchActivity"
+    },
+    {
+        "app_name": "奥维VR高清实景地图",
+        "package_name": "com.dianfengzekeji.aoweimap",
+        "file_name": "com.dianfengzekeji.aoweimap_159.apk",
+        "app_activity": "com.panorama.dfzmap.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "百度地图",
+        "package_name": "com.baidu.BaiduMap",
+        "file_name": "com.baidu.BaiduMap_160.apk",
+        "app_activity": "com.baidu.baidumaps.WelcomeScreen"
+    },
+    {
+        "app_name": "奇点筑云企业端",
+        "package_name": "com.qidian.company_client",
+        "file_name": "com.qidian.company_client_161.apk",
+        "app_activity": "com.qidian.company_client.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "天眼地图",
+        "package_name": "com.ycp.vrstreel",
+        "file_name": "com.ycp.vrstreel_162.apk",
+        "app_activity": "com.ycp.vrstreel.activity.SplashActivity"
+    },
+    {
+        "app_name": "MotoFUN",
+        "package_name": "net.easyconn.carman.motofun",
+        "file_name": "net.easyconn.carman.motofun_163.apk",
+        "app_activity": "net.easyconn.carman.motofun.MainActivity"
+    },
+    {
+        "app_name": "奥维卫星地图",
+        "package_name": "com.hema.earthmap",
+        "file_name": "com.hema.earthmap_164.apk",
+        "app_activity": "com.hema.earthmap.Activity.WellcomeActivity"
+    },
+    {
+        "app_name": "奥维3D卫星地图",
+        "package_name": "com.qilijiubo.quanjingbdbmap",
+        "file_name": "com.qilijiubo.quanjingbdbmap_165.apk",
+        "app_activity": "com.lsdflk.salklj.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "天眼实景互动地图",
+        "package_name": "com.dgssk.tyhddt",
+        "file_name": "com.dgssk.tyhddt_166.apk",
+        "app_activity": "com.dgssk.tyhddt.WelcomeActivity"
+    },
+    {
+        "app_name": "奥维3D全景地图",
+        "package_name": "com.dgssk.awsdqjdt",
+        "file_name": "com.dgssk.awsdqjdt_167.apk",
+        "app_activity": "com.danduoduo.mapvr670.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "天地图云南",
+        "package_name": "cn.ynmap.onlinemap",
+        "file_name": "cn.ynmap.onlinemap_168.apk",
+        "app_activity": "cn.ynmap.onlinemap.ui.SplashActivity"
+    },
+    {
+        "app_name": "3D高清街景地图",
+        "package_name": "com.ffwei.d3map",
+        "file_name": "com.ffwei.d3map_169.apk",
+        "app_activity": "com.ffwei.d3map.StartActivity"
+    },
+    {
+        "app_name": "钉图易",
+        "package_name": "com.gf.dingmap",
+        "file_name": "com.gf.dingmap_170.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "实景互动地图",
+        "package_name": "com.hema.streetscape",
+        "file_name": "com.hema.streetscape_171.apk",
+        "app_activity": "com.hema.streetscape.activity.SplashActivity"
+    },
+    {
+        "app_name": "奥维3D卫星街景地图",
+        "package_name": "com.shangshai.jiawangdanmap",
+        "file_name": "com.shangshai.jiawangdanmap_172.apk",
+        "app_activity": "com.yz1ysd3df403.d3df403.ui.SplLaunchActivity"
+    },
+    {
+        "app_name": "北斗牛导航",
+        "package_name": "com.neptune.tmap",
+        "file_name": "com.neptune.tmap_173.apk",
+        "app_activity": "com.neptune.tmap.ui.GuideActivity"
+    },
+    {
+        "app_name": "超清卫星地图",
+        "package_name": "com.xs.cqwxdt",
+        "file_name": "com.xs.cqwxdt_174.apk",
+        "app_activity": "com.xs.cqwxdt.MainActivity"
+    },
+    {
+        "app_name": "小狼星球",
+        "package_name": "com.xiaolang.outdoor",
+        "file_name": "com.xiaolang.outdoor_175.apk",
+        "app_activity": "com.leduoworks.gpstoolbox.newest.StarterActivity"
+    },
+    {
+        "app_name": "天眼",
+        "package_name": "com.example.artilleryandroid",
+        "file_name": "com.example.artilleryandroid_176.apk",
+        "app_activity": "com.example.artilleryandroid.SplashActivity"
+    },
+    {
+        "app_name": "实景地图",
+        "package_name": "com.caibeidoujishu.jiejing",
+        "file_name": "com.caibeidoujishu.jiejing_177.apk",
+        "app_activity": "com.bmydyt.mystreetview.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "JointCloud",
+        "package_name": "com.joint.jointCloud",
+        "file_name": "com.joint.jointCloud_178.apk",
+        "app_activity": "com.joint.jointCloud.main.activity.LoginActivity"
+    },
+    {
+        "app_name": "六寸互动地图",
+        "package_name": "com.sixmap.app",
+        "file_name": "com.sixmap.app_179.apk",
+        "app_activity": "com.sixmap.app.page.Activity_Main"
+    },
+    {
+        "app_name": "春城e路行",
+        "package_name": "com.zcsy.kmyidian",
+        "file_name": "com.zcsy.kmyidian_180.apk",
+        "app_activity": "com.kmcharge.app.ui.splash.HKSplashActivity"
+    },
+    {
+        "app_name": "融畅",
+        "package_name": "cn.org.tjdpf.rongchang",
+        "file_name": "cn.org.tjdpf.rongchang_181.apk",
+        "app_activity": "cn.org.tjdpf.rongchang.pages.activity.SplashActivity"
+    },
+    {
+        "app_name": "AR全球高清卫星地图",
+        "package_name": "com.lx.app.armap",
+        "file_name": "com.lx.app.armap_182.apk",
+        "app_activity": "com.lx.app.armap.ui.lxactivity.LauncherBcActivity"
+    },
+    {
+        "app_name": "奥维互动三维地图",
+        "package_name": "com.xiangxingtong.diqiuweimap",
+        "file_name": "com.xiangxingtong.diqiuweimap_183.apk",
+        "app_activity": "com.fdafal.padfl.ui.home.WelcomeActivity"
+    },
+    {
+        "app_name": "全息高清地图",
+        "package_name": "com.saharatech.pathfinder",
+        "file_name": "com.saharatech.pathfinder_184.apk",
+        "app_activity": "com.saharatech.pathfinder.act.BDSplashActivity"
+    },
+    {
+        "app_name": "e行高速",
+        "package_name": "cn.seisys.js.sulutong",
+        "file_name": "cn.seisys.js.sulutong_185.apk",
+        "app_activity": "cn.seisys.js.sulutong.CheckDeviceActivity"
+    },
+    {
+        "app_name": "天眼卫星地图",
+        "package_name": "com.Mpersonal.skyeyemap",
+        "file_name": "com.Mpersonal.skyeyemap_186.apk",
+        "app_activity": "com.Mpersonal.skyeyemap.Activity.SplashActivity"
+    },
+    {
+        "app_name": "奥维3D全球卫星地图",
+        "package_name": "com.aryhkj.sdsjwxdt",
+        "file_name": "com.aryhkj.sdsjwxdt_187.apk",
+        "app_activity": "com.yhkj.sddq.entry.WelcomeActivity"
+    },
+    {
+        "app_name": "知悦世界街景",
+        "package_name": "info.zhiyue.worldstreetview",
+        "file_name": "info.zhiyue.worldstreetview_188.apk",
+        "app_activity": "info.zhiyue.worldstreetview.StartupActivity"
+    },
+    {
+        "app_name": "全球高清实景地图",
+        "package_name": "com.xebz.ak3dsjjjdu",
+        "file_name": "com.xebz.ak3dsjjjdu_189.apk",
+        "app_activity": "com.jjjdu.DongTingSplaseActivity"
+    },
+    {
+        "app_name": "联星北斗街景地图",
+        "package_name": "com.yd.vista",
+        "file_name": "com.yd.vista_190.apk",
+        "app_activity": "com.cydkj.jjdt.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "充电吧",
+        "package_name": "com.up72.beiqi",
+        "file_name": "com.up72.beiqi_191.apk",
+        "app_activity": "com.up72.beiqi.SplashActivity"
+    },
+    {
+        "app_name": "天眼测绘街景",
+        "package_name": "com.balidao.tychjj",
+        "file_name": "com.balidao.tychjj_192.apk",
+        "app_activity": "com.yyeddgjirehjing208.jirehjing208.ui.SplashActivity"
+    },
+    {
+        "app_name": "辽宁高速通",
+        "package_name": "com.uroad.liaoninggst",
+        "file_name": "com.uroad.liaoninggst_193.apk",
+        "app_activity": "com.uroad.liaoninggst.SplashActivity"
+    },
+    {
+        "app_name": "3D天眼实景地图",
+        "package_name": "com.xykj.sjdt",
+        "file_name": "com.xykj.sjdt_194.apk",
+        "app_activity": "com.xykj.sjdt.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "海洋渔业",
+        "package_name": "com.diting.oceanfishery",
+        "file_name": "com.diting.oceanfishery_196.apk",
+        "app_activity": "com.diting.oceanfishery.fish.Activities.SplashActivity"
+    },
+    {
+        "app_name": "户外指南针",
+        "package_name": "cn.tiantian.hwcompass",
+        "file_name": "cn.tiantian.hwcompass_197.apk",
+        "app_activity": "com.fanghe.measure.ui.SplashActivity"
+    },
+    {
+        "app_name": "北方卫星导航地图",
+        "package_name": "com.hema.wxdtdh",
+        "file_name": "com.hema.wxdtdh_198.apk",
+        "app_activity": "com.hema.wxdtdh.SplashActivity"
+    },
+    {
+        "app_name": "奥维测绘地图",
+        "package_name": "com.ventus.map",
+        "file_name": "com.ventus.map_199.apk",
+        "app_activity": "com.ventus.map.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "CMSV7",
+        "package_name": "com.babelstar.cmsv7baidu",
+        "file_name": "com.babelstar.cmsv7baidu_200.apk",
+        "app_activity": "net.babelstar.cmsv7.view.LoginActivity"
+    },
+    {
+        "app_name": "惠渔通",
+        "package_name": "com.company.project",
+        "file_name": "com.company.project_201.apk",
+        "app_activity": "com.company.project.activity.StartUpActivity"
+    },
+    {
+        "app_name": "微寻",
+        "package_name": "com.bocai.wlkjdw",
+        "file_name": "com.bocai.wlkjdw_202.apk",
+        "app_activity": "com.bocai.wlkjdw.ui.activity.login.StartActivity"
+    },
+    {
+        "app_name": "互动手机高清地图",
+        "package_name": "com.wuhanyisheng.map",
+        "file_name": "com.wuhanyisheng.map_203.apk",
+        "app_activity": "com.wuhanyisheng.map.ui.SplashActivity"
+    },
+    {
+        "app_name": "手机定位寻人",
+        "package_name": "com.szxgkj.sjdingweizhaoren",
+        "file_name": "com.szxgkj.sjdingweizhaoren_204.apk",
+        "app_activity": "com.yingyongduoduo.phonelocation.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "小谷地球",
+        "package_name": "com.cjkj.earth",
+        "file_name": "com.cjkj.earth_205.apk",
+        "app_activity": "com.cjkj.earth.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "3D卫星高清实景地图",
+        "package_name": "com.nnjyxr.gaoqingmap",
+        "file_name": "com.nnjyxr.gaoqingmap_206.apk",
+        "app_activity": "com.comyd.yd.ui.SplashActivity"
+    },
+    {
+        "app_name": "骑行地图",
+        "package_name": "com.szats.ridemap",
+        "file_name": "com.szats.ridemap_207.apk",
+        "app_activity": "com.szats.ridemap.ui.SplashActivity"
+    },
+    {
+        "app_name": "手机号码定位寻人",
+        "package_name": "com.pdf.shoujihaomadingwei",
+        "file_name": "com.pdf.shoujihaomadingwei_208.apk",
+        "app_activity": "com.yingyongduoduo.phonelocation.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "依途在线",
+        "package_name": "com.cheoa.personal",
+        "file_name": "com.cheoa.personal_209.apk",
+        "app_activity": "com.cheoa.personal.activity.SplashActivity"
+    },
+    {
+        "app_name": "日新地图",
+        "package_name": "com.yinong.daymap",
+        "file_name": "com.yinong.daymap_210.apk",
+        "app_activity": "com.yinong.daymap.MainActivity"
+    },
+    {
+        "app_name": "中国地图集",
+        "package_name": "com.zx.map",
+        "file_name": "com.zx.map_211.apk",
+        "app_activity": "com.zx.map.ui.activities.SplashActivity"
+    },
+    {
+        "app_name": "3D高清卫星地图导航",
+        "package_name": "com.bdwxdhxt.hongcaitong",
+        "file_name": "com.bdwxdhxt.hongcaitong_212.apk",
+        "app_activity": "com.beidou.navigation.satellite.WelcomeActivity"
+    },
+    {
+        "app_name": "家乡高清全景地图",
+        "package_name": "com.jxgqqj.qyyd",
+        "file_name": "com.jxgqqj.qyyd_213.apk",
+        "app_activity": "com.smart.street.ui.activity.login.StartActivity"
+    },
+    {
+        "app_name": "五征助手",
+        "package_name": "com.wuzheng.wzagriculture",
+        "file_name": "com.wuzheng.wzagriculture_214.apk",
+        "app_activity": "com.wuzheng.wzagriculture.login.SplishActivity"
+    },
+    {
+        "app_name": "地图帝",
+        "package_name": "com.nnjyhe.gaoqingditu",
+        "file_name": "com.nnjyhe.gaoqingditu_215.apk",
+        "app_activity": "com.luiandd.luian.ui.SplLaunchActivity"
+    },
+    {
+        "app_name": "奥维3D实景互动地图",
+        "package_name": "com.tjntkj.aw3dsjhddt",
+        "file_name": "com.tjntkj.aw3dsjhddt_216.apk",
+        "app_activity": "com.tjntkj.aw3dsjhddt.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "3D奥维互动地图",
+        "package_name": "com.wywl.wxsjdt",
+        "file_name": "com.wywl.wxsjdt_217.apk",
+        "app_activity": "com.szkj.streetscenes.activity.SplashActivity"
+    },
+    {
+        "app_name": "地图大全",
+        "package_name": "com.cutler.dragonmap",
+        "file_name": "com.cutler.dragonmap_218.apk",
+        "app_activity": "com.cutler.dragonmap.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "联星北斗地图",
+        "package_name": "com.yfzy.sdgqjj",
+        "file_name": "com.yfzy.sdgqjj_219.apk",
+        "app_activity": "com.szyfzy.mapstreet.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "三维地球实景地图",
+        "package_name": "com.ldjz.ldswdqmap",
+        "file_name": "com.ldjz.ldswdqmap_220.apk",
+        "app_activity": "com.lwlebesper.perbest.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "手机号码定位跟踪",
+        "package_name": "com.yifan.dingwei",
+        "file_name": "com.yifan.dingwei_221.apk",
+        "app_activity": "com.yingyongduoduo.phonelocation.ui.activity.login.WelcomeActivity"
+    },
+    {
+        "app_name": "奥维地图",
+        "package_name": "com.aowei.maptools",
+        "file_name": "com.aowei.maptools_222.apk",
+        "app_activity": "com.aowei.maptools.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "联星北斗卫星实景地图",
+        "package_name": "com.lxbdwxsjdt.street",
+        "file_name": "com.lxbdwxsjdt.street_223.apk",
+        "app_activity": "com.xly.xlysjdt.ty.FirstActivity"
+    },
+    {
+        "app_name": "安全守护家人",
+        "package_name": "com.sjshzj.qyyd",
+        "file_name": "com.sjshzj.qyyd_224.apk",
+        "app_activity": "com.smart.bluelocation.ui.activity.login.StartActivity"
+    },
+    {
+        "app_name": "百斗星图",
+        "package_name": "net.cnmaps.satellitemaps",
+        "file_name": "net.cnmaps.satellitemaps_225.apk",
+        "app_activity": "net.cnmaps.satellitemaps.SplashActivity"
+    },
+    {
+        "app_name": "GPS海拔测量地图",
+        "package_name": "com.com.ffwei.haibamap",
+        "file_name": "com.com.ffwei.haibamap_226.apk",
+        "app_activity": "com.ffwei.haibamap.StartActivity"
+    },
+    {
+        "app_name": "3D世界街景地图",
+        "package_name": "com.xiweijiaoyu.worldpano",
+        "file_name": "com.xiweijiaoyu.worldpano_227.apk",
+        "app_activity": "com.liuzong.map.act.SplashActivity"
+    },
+    {
+        "app_name": "3D实景街景地图",
+        "package_name": "com.yuli.shijingdituo",
+        "file_name": "com.yuli.shijingdituo_228.apk",
+        "app_activity": "com.worldnumerba.desbt.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "海安康",
+        "package_name": "com.knkc.hydrometeorological",
+        "file_name": "com.knkc.hydrometeorological_229.apk",
+        "app_activity": "com.knkc.hydrometeorological.ui.activity.GuidePagesActivity"
+    },
+    {
+        "app_name": "AR实景导航",
+        "package_name": "com.zsw.sjdtdh",
+        "file_name": "com.zsw.sjdtdh_230.apk",
+        "app_activity": "com.gdsz.index.ui.SplashActivity"
+    },
+    {
+        "app_name": "奥维三维互动地图",
+        "package_name": "com.eyd4d.weixinggongditu",
+        "file_name": "com.eyd4d.weixinggongditu_231.apk",
+        "app_activity": "com.yyddgjiejisngf42z5.jisngf42z5.activity.SlLanchActivity42"
+    },
+    {
+        "app_name": "奥维地球",
+        "package_name": "com.cktwl.zhstreet",
+        "file_name": "com.cktwl.zhstreet_232.apk",
+        "app_activity": "com.ffindtravel.street.ui.activity.login.StartActivity"
+    },
+    {
+        "app_name": "全景VR高清地图",
+        "package_name": "com.ybkjmap.streetscape",
+        "file_name": "com.ybkjmap.streetscape_233.apk",
+        "app_activity": "com.ybkjmap.streetscape.act.BDSplashActivity"
+    },
+    {
+        "app_name": "实时卫星地球",
+        "package_name": "com.idczh.yzrfihh",
+        "file_name": "com.idczh.yzrfihh_234.apk",
+        "app_activity": "com.idczh.yzrfihh.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "航旅纵横业内版",
+        "package_name": "com.umetrip.industry.app",
+        "file_name": "com.umetrip.industry.app_235.apk",
+        "app_activity": "com.umetrip.industry.app.SplashActivity"
+    },
+    {
+        "app_name": "3D天眼卫星街景地图",
+        "package_name": "com.xbq.sdtyjjdt",
+        "file_name": "com.xbq.sdtyjjdt_236.apk",
+        "app_activity": "com.aryckj.sdtyjjdt.SplashActivity"
+    },
+    {
+        "app_name": "渝悦行",
+        "package_name": "com.efsz.goldcard",
+        "file_name": "com.efsz.goldcard_237.apk",
+        "app_activity": "com.efsz.goldcard.mvp.ui.activity.LaunchActivity"
+    },
+    {
+        "app_name": "全球街景地图",
+        "package_name": "com.qiuhuafeisu.jiejin",
+        "file_name": "com.qiuhuafeisu.jiejin_238.apk",
+        "app_activity": "com.wangzhuguan.wzgjiejing.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "GPS地图",
+        "package_name": "jiejing.ty.wxjjdt",
+        "file_name": "jiejing.ty.wxjjdt_239.apk",
+        "app_activity": "com.dt.map.GBTingStartActivity"
+    },
+    {
+        "app_name": "3D地球街景地图",
+        "package_name": "com.huishijie.ditu",
+        "file_name": "com.huishijie.ditu_240.apk",
+        "app_activity": "com.h2b.ditu.ui.activity.HBLauncherH2bActivity"
+    },
+    {
+        "app_name": "3D高清地图",
+        "package_name": "com.fhrj.gqsjdt",
+        "file_name": "com.fhrj.gqsjdt_241.apk",
+        "app_activity": "com.thfi.lzswjj.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "爱寻定位找人",
+        "package_name": "com.haxi.dw",
+        "file_name": "com.haxi.dw_242.apk",
+        "app_activity": "com.sz.shdwxb.ui.activity.login.StartActivity"
+    },
+    {
+        "app_name": "3D卫星高清街景地图",
+        "package_name": "com.sl.app.jj",
+        "file_name": "com.sl.app.jj_243.apk",
+        "app_activity": "com.sl.app.jj.ui.activity.LauncherBBActivity"
+    },
+    {
+        "app_name": "一智生活",
+        "package_name": "com.dfhx.main",
+        "file_name": "com.dfhx.main_244.apk",
+        "app_activity": "com.dfhx.main.MainActivity"
+    },
+    {
+        "app_name": "3D全球实况街景",
+        "package_name": "com.bfjrearth.earthdqjjdt",
+        "file_name": "com.bfjrearth.earthdqjjdt_245.apk",
+        "app_activity": "com.xxoo.a3dworldpanorama.act.FirstActivity"
+    },
+    {
+        "app_name": "街景精选",
+        "package_name": "net.beido.scenemapfree",
+        "file_name": "net.beido.scenemapfree_246.apk",
+        "app_activity": "net.beido.scenemapfree.SplashActivity"
+    },
+    {
+        "app_name": "春芽地图轮椅版",
+        "package_name": "com.huatu.cy.wheelchairproject",
+        "file_name": "com.huatu.cy.wheelchairproject_247.apk",
+        "app_activity": "com.huatu.cy.wheelchairproject.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "三维全景实况地图",
+        "package_name": "line.streetscape.eig.com",
+        "file_name": "line.streetscape.eig.com_248.apk",
+        "app_activity": "line.smart.street.ui.activity.login.StartActivity"
+    },
+    {
+        "app_name": "外地车进京",
+        "package_name": "com.houapps.jin.jing",
+        "file_name": "com.houapps.jin.jing_249.apk",
+        "app_activity": "love.meaningful.chejinjing.ui.SplashActivity"
+    },
+    {
+        "app_name": "四维地球探索版",
+        "package_name": "com.chinasiwei.offroadearth",
+        "file_name": "com.chinasiwei.offroadearth_250.apk",
+        "app_activity": "com.chinasiwei.offroadearth.launch.LaunchActivity"
+    },
+    {
+        "app_name": "乌航通管理",
+        "package_name": "com.hfedit.wuhangtongadmin",
+        "file_name": "com.hfedit.wuhangtongadmin_251.apk",
+        "app_activity": "com.hfedit.wuhangtongadmin.app.ui.launcher.LauncherActivity"
+    }
+]

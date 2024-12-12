@@ -1,0 +1,2445 @@
+[
+    {
+        "app_name": "债无忧",
+        "package_name": "com.aftertoday.zwy.android",
+        "file_name": "com.aftertoday.zwy.android_1.apk",
+        "app_activity": "com.aftertoday.zwy.android.MainActivity"
+    },
+    {
+        "app_name": "银河期货开户交易",
+        "package_name": "com.qihuo.yinhe",
+        "file_name": "com.qihuo.yinhe_2.apk",
+        "app_activity": "com.qihuo.yinhe.view.activity.ADSplashActivity"
+    },
+    {
+        "app_name": "国投安信期货",
+        "package_name": "com.guotouanxin.mhdxh",
+        "file_name": "com.guotouanxin.mhdxh_3.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "融通掌柜",
+        "package_name": "com.rtzg.rongtongzgf",
+        "file_name": "com.rtzg.rongtongzgf_4.apk",
+        "app_activity": "com.rtzg.rongtongzgf.ActivityMsg.AppStart"
+    },
+    {
+        "app_name": "中邮保险",
+        "package_name": "com.chinapost.life",
+        "file_name": "com.chinapost.life_5.apk",
+        "app_activity": "com.chinapost.life.splash.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "大决策",
+        "package_name": "com.djc.qcyzt",
+        "file_name": "com.djc.qcyzt_6.apk",
+        "app_activity": "com.djc.qcy.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "方正中期期货开户",
+        "package_name": "com.fangzhengzhongqi.sjkh",
+        "file_name": "com.fangzhengzhongqi.sjkh_7.apk",
+        "app_activity": "com.fangzhengzhongqi.sjkh.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "金融界",
+        "package_name": "com.jrj.stock.level2",
+        "file_name": "com.jrj.stock.level2_8.apk",
+        "app_activity": "com.jrj.mind.splash.SplashActivity"
+    },
+    {
+        "app_name": "兴证全球基金",
+        "package_name": "com.xyqqfund.android",
+        "file_name": "com.xyqqfund.android_9.apk",
+        "app_activity": "org.basilica.mp.moudles.activity.SplashActivity"
+    },
+    {
+        "app_name": "华西证券益理财",
+        "package_name": "com.hx.mall",
+        "file_name": "com.hx.mall_10.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "水滴保",
+        "package_name": "com.shuidihuzhu.sdbao",
+        "file_name": "com.shuidihuzhu.sdbao_11.apk",
+        "app_activity": "com.shuidihuzhu.sdbao.splash.SplashActivity"
+    },
+    {
+        "app_name": "JisiluLowRisk",
+        "package_name": "com.jisilu.lowrisk",
+        "file_name": "com.jisilu.lowrisk_12.apk",
+        "app_activity": "com.jisilu.lowrisk.ProtectActivity"
+    },
+    {
+        "app_name": "ETF组合宝",
+        "package_name": "ai.tick.www.etfzhb",
+        "file_name": "ai.tick.www.etfzhb_13.apk",
+        "app_activity": "ai.tick.www.etfzhb.ui.LaunchActivity"
+    },
+    {
+        "app_name": "中泰期货通",
+        "package_name": "com.zhongtaiqihuo.sjtg",
+        "file_name": "com.zhongtaiqihuo.sjtg_14.apk",
+        "app_activity": "com.ztzt.allpro.ztviewall.activity.ZTStarBBAtActivity"
+    },
+    {
+        "app_name": "工银安盛",
+        "package_name": "com.ascs.message.example",
+        "file_name": "com.ascs.message.example_15.apk",
+        "app_activity": "com.ascs.message.example.ui.LunchActivity"
+    },
+    {
+        "app_name": "且慢",
+        "package_name": "cn.yingmi.qieman.hermione",
+        "file_name": "cn.yingmi.qieman.hermione_16.apk",
+        "app_activity": "cn.yingmi.qieman.hermione.MainActivity"
+    },
+    {
+        "app_name": "口袋贵金属",
+        "package_name": "org.sojex.finance",
+        "file_name": "org.sojex.finance_17.apk",
+        "app_activity": "org.sojex.finance.loading.activity.LaunchActivity"
+    },
+    {
+        "app_name": "创保网",
+        "package_name": "com.pingan.genbao",
+        "file_name": "com.pingan.genbao_18.apk",
+        "app_activity": "com.pingan.genbao.activity.StartActivity"
+    },
+    {
+        "app_name": "蒙商银行",
+        "package_name": "cn.com.msbank.mbank",
+        "file_name": "cn.com.msbank.mbank_19.apk",
+        "app_activity": "com.bank.mengshang.function.launch.LaunchActivity"
+    },
+    {
+        "app_name": "信达期货极速交易",
+        "package_name": "com.xdqh.hengsheng",
+        "file_name": "com.xdqh.hengsheng_20.apk",
+        "app_activity": "com.xdqh.hengsheng.view.activity.ADSplashActivity"
+    },
+    {
+        "app_name": "挖财宝",
+        "package_name": "com.hangzhoucaimi.financial",
+        "file_name": "com.hangzhoucaimi.financial_21.apk",
+        "app_activity": "com.hangzhoucaimi.financial.activity.LaunchActivity"
+    },
+    {
+        "app_name": "平安企业宝",
+        "package_name": "com.pa.sales.client",
+        "file_name": "com.pa.sales.client_22.apk",
+        "app_activity": "com.pa.sales2.eqb.SplashActivity"
+    },
+    {
+        "app_name": "通达信",
+        "package_name": "com.tdx.AndroidNew",
+        "file_name": "com.tdx.AndroidNew_23.apk",
+        "app_activity": "com.tdx.Android.TdxActivity"
+    },
+    {
+        "app_name": "51淘金",
+        "package_name": "com.wuyi.tj",
+        "file_name": "com.wuyi.tj_24.apk",
+        "app_activity": "com.wuyi.tj.SplashActivity"
+    },
+    {
+        "app_name": "OK支付",
+        "package_name": "com.blemall.okpayment.android",
+        "file_name": "com.blemall.okpayment.android_25.apk",
+        "app_activity": "com.mr.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "随行付Plus",
+        "package_name": "com.vbill.shoushua.biz",
+        "file_name": "com.vbill.shoushua.biz_26.apk",
+        "app_activity": "cn.vbill.operations.ad.StartUpAdvertisementActivity"
+    },
+    {
+        "app_name": "中信建投期货通",
+        "package_name": "com.zxjtqht.thsqht",
+        "file_name": "com.zxjtqht.thsqht_27.apk",
+        "app_activity": "com.hexin.plat.android.AndroidLogoActivity"
+    },
+    {
+        "app_name": "保险师",
+        "package_name": "com.winbaoxian.wybx",
+        "file_name": "com.winbaoxian.wybx_28.apk",
+        "app_activity": "com.winbaoxian.wybx.module.intro.activity.SplashActivity"
+    },
+    {
+        "app_name": "泰康在线",
+        "package_name": "cn.tk.online",
+        "file_name": "cn.tk.online_29.apk",
+        "app_activity": "cn.tk.online.module.home.SplashActivity"
+    },
+    {
+        "app_name": "钱大掌柜",
+        "package_name": "com.cib.qdzg",
+        "file_name": "com.cib.qdzg_30.apk",
+        "app_activity": "com.cib.qdzg.ui.SplashActivity"
+    },
+    {
+        "app_name": "市值风云",
+        "package_name": "com.paiba.app000004",
+        "file_name": "com.paiba.app000004_31.apk",
+        "app_activity": "com.wogoo.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "长江期货开户交易",
+        "package_name": "com.qihuo.changjiang",
+        "file_name": "com.qihuo.changjiang_32.apk",
+        "app_activity": "com.qihuo.changjiang.savi4ew.aqacti1vitys.aqADSplash8Activitym"
+    },
+    {
+        "app_name": "翼支付",
+        "package_name": "com.chinatelecom.bestpayclient",
+        "file_name": "com.chinatelecom.bestpayclient_33.apk",
+        "app_activity": "com.chinatelecom.bestpayclient.ui.MainActivity"
+    },
+    {
+        "app_name": "Beta理财师",
+        "package_name": "com.betawm.baw",
+        "file_name": "com.betawm.baw_34.apk",
+        "app_activity": "com.betawm.baw.AppStart"
+    },
+    {
+        "app_name": "中辉期货",
+        "package_name": "com.zhonghuiqihuo.mhdxh",
+        "file_name": "com.zhonghuiqihuo.mhdxh_35.apk",
+        "app_activity": "com.example.pbmobilesdkdemo.MainActivity"
+    },
+    {
+        "app_name": "国元证券开户",
+        "package_name": "com.thinkive.mobile.account_guoyuan",
+        "file_name": "com.thinkive.mobile.account_guoyuan_36.apk",
+        "app_activity": "com.gyzq.phone.account.activity.PermissionActivity"
+    },
+    {
+        "app_name": "华安保险",
+        "package_name": "com.sinosafe.capp",
+        "file_name": "com.sinosafe.capp_37.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "申万期货开户",
+        "package_name": "com.sywgqh.openaccount",
+        "file_name": "com.sywgqh.openaccount_38.apk",
+        "app_activity": "com.sywgqh.openaccount.StartupActivity"
+    },
+    {
+        "app_name": "同花顺期货通",
+        "package_name": "com.hexin.android.futures",
+        "file_name": "com.hexin.android.futures_39.apk",
+        "app_activity": "com.hexin.plat.android.AndroidLogoActivity"
+    },
+    {
+        "app_name": "期货先锋",
+        "package_name": "cn.xfqh.qhxf",
+        "file_name": "cn.xfqh.qhxf_40.apk",
+        "app_activity": "cn.xfqh.qhxf.InitActivity"
+    },
+    {
+        "app_name": "石化金融",
+        "package_name": "com.sinopec.fintech",
+        "file_name": "com.sinopec.fintech_41.apk",
+        "app_activity": "com.sinopec.fintech.activity.common.LaunchActivity"
+    },
+    {
+        "app_name": "MCA 镁克雪球",
+        "package_name": "com.tllmcaiiltd24.mcatraderx",
+        "file_name": "com.tllmcaiiltd24.mcatraderx_42.apk",
+        "app_activity": "com.mca.trader.ui.SplashAct"
+    },
+    {
+        "app_name": "广发期货",
+        "package_name": "com.guangfaqihuo.mhdxh",
+        "file_name": "com.guangfaqihuo.mhdxh_43.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "养基宝",
+        "package_name": "yangjibao.app",
+        "file_name": "yangjibao.app_44.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "海通e海通财",
+        "package_name": "com.android.haitong",
+        "file_name": "com.android.haitong_45.apk",
+        "app_activity": "cn.htsec.SecurityHome"
+    },
+    {
+        "app_name": "钱到啦",
+        "package_name": "com.chinatelecom.bestpay.yimatong",
+        "file_name": "com.chinatelecom.bestpay.yimatong_46.apk",
+        "app_activity": "com.chinatelecom.bestpay.yimatong.flutter.SplashActivity"
+    },
+    {
+        "app_name": "人保寿险管家",
+        "package_name": "com.picclife.smart",
+        "file_name": "com.picclife.smart_47.apk",
+        "app_activity": "com.picclife.smart.main.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "东吴秀财",
+        "package_name": "com.logictech.scs",
+        "file_name": "com.logictech.scs_49.apk",
+        "app_activity": "com.dwzq.market.view.main.LauncherActivity"
+    },
+    {
+        "app_name": "我家阳光",
+        "package_name": "com.sinosig.khapp",
+        "file_name": "com.sinosig.khapp_50.apk",
+        "app_activity": "com.sinosig.khapp.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "郑商所APP",
+        "package_name": "com.example.myzce",
+        "file_name": "com.example.myzce_51.apk",
+        "app_activity": "com.example.myzce.ui.guide.GuideActivity"
+    },
+    {
+        "app_name": "华泰期货开户交易软件",
+        "package_name": "com.huataiqihuo.mhdxh",
+        "file_name": "com.huataiqihuo.mhdxh_52.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "腾讯理财通",
+        "package_name": "com.tencent.fortuneplat",
+        "file_name": "com.tencent.fortuneplat_53.apk",
+        "app_activity": "com.tencent.fortuneplat.splash.SplashActivity"
+    },
+    {
+        "app_name": "格隆汇",
+        "package_name": "com.gelonghui.glhapp",
+        "file_name": "com.gelonghui.glhapp_54.apk",
+        "app_activity": "com.gelonghui.glhapp.components.splash.SplashActivity"
+    },
+    {
+        "app_name": "东方财富证券",
+        "package_name": "com.eastmoney.android.newyork",
+        "file_name": "com.eastmoney.android.newyork_55.apk",
+        "app_activity": "com.eastmoney.android.berlin.activity.MainActivity"
+    },
+    {
+        "app_name": "汇添富现金宝",
+        "package_name": "com.htffund.mobile.ec.ui",
+        "file_name": "com.htffund.mobile.ec.ui_56.apk",
+        "app_activity": "com.htffund.mobile.ec.ui.LoadingActivity"
+    },
+    {
+        "app_name": "理财魔方",
+        "package_name": "com.licaimofang.app",
+        "file_name": "com.licaimofang.app_57.apk",
+        "app_activity": "com.licaimofang.app.MainActivity"
+    },
+    {
+        "app_name": "涨乐期赢通",
+        "package_name": "com.htfc.qytx",
+        "file_name": "com.htfc.qytx_58.apk",
+        "app_activity": "com.thinkive.android.invest_app.ui.activities.LauncherActivity"
+    },
+    {
+        "app_name": "邮储企业银行",
+        "package_name": "com.psbc.youenterprise",
+        "file_name": "com.psbc.youenterprise_59.apk",
+        "app_activity": "com.psbc.youenterprise.module.app.view.activity.DialogPrivacyPolicyActivity"
+    },
+    {
+        "app_name": "信达期货期货开户",
+        "package_name": "com.xinda.futures",
+        "file_name": "com.xinda.futures_60.apk",
+        "app_activity": "com.xinda.futures.view.activity.ADSplashActivity"
+    },
+    {
+        "app_name": "平安金管家",
+        "package_name": "com.pingan.lifeinsurance",
+        "file_name": "com.pingan.lifeinsurance_61.apk",
+        "app_activity": "com.pingan.lifeinsurance.shell.activity.PARSSplashActivity"
+    },
+    {
+        "app_name": "光大期货",
+        "package_name": "com.guangdaqihuo.mhdxh",
+        "file_name": "com.guangdaqihuo.mhdxh_62.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "利安人寿",
+        "package_name": "com.lianlife.insurance",
+        "file_name": "com.lianlife.insurance_63.apk",
+        "app_activity": "com.zhongan.insurance.ui.activity.AppStartActivity"
+    },
+    {
+        "app_name": "口袋原油",
+        "package_name": "com.kingbi.oilquotes",
+        "file_name": "com.kingbi.oilquotes_64.apk",
+        "app_activity": "com.kingbi.oilquotes.SplashActivity"
+    },
+    {
+        "app_name": "同花顺爱基金",
+        "package_name": "com.hexin.android.bank",
+        "file_name": "com.hexin.android.bank_65.apk",
+        "app_activity": "com.hexin.android.bank.LogoActivity"
+    },
+    {
+        "app_name": "钱龙",
+        "package_name": "qianlong.qlmobile",
+        "file_name": "qianlong.qlmobile_66.apk",
+        "app_activity": "com.qianlong.wealth.main.QlgSplashActivity"
+    },
+    {
+        "app_name": "华泰证券行知",
+        "package_name": "com.htsc.instapp",
+        "file_name": "com.htsc.instapp_67.apk",
+        "app_activity": "com.lphtsccft.zhangle.startup.SplashScreenActivity"
+    },
+    {
+        "app_name": "阳光保险",
+        "package_name": "com.sinosig.ygibao",
+        "file_name": "com.sinosig.ygibao_68.apk",
+        "app_activity": "com.sinosig.ygibao.views.SplashActivity"
+    },
+    {
+        "app_name": "中信建投期货交易版",
+        "package_name": "com.zhongxinjiantou.mhdxh",
+        "file_name": "com.zhongxinjiantou.mhdxh_69.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "东方财富期货",
+        "package_name": "com.eastmoney.app.qhsjkh",
+        "file_name": "com.eastmoney.app.qhsjkh_70.apk",
+        "app_activity": "com.eastmoney.android.berlin.activity.SplashActivity"
+    },
+    {
+        "app_name": "金投网",
+        "package_name": "com.sangame.jjhcps.android",
+        "file_name": "com.sangame.jjhcps.android_71.apk",
+        "app_activity": "com.sangame.jjhcps.android.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "中国人保",
+        "package_name": "com.cloudpower.netsale.activity",
+        "file_name": "com.cloudpower.netsale.activity_72.apk",
+        "app_activity": "com.picc.aasipods.module.launch.view.AppLaunchActivity"
+    },
+    {
+        "app_name": "众安保险",
+        "package_name": "com.zhongan.insurance",
+        "file_name": "com.zhongan.insurance_73.apk",
+        "app_activity": "com.zhongan.insurance.ui.activity.AppStartActivity"
+    },
+    {
+        "app_name": "有知有行",
+        "package_name": "com.zxunity.android.yzyx",
+        "file_name": "com.zxunity.android.yzyx_74.apk",
+        "app_activity": "com.zxunity.android.yzyx.ui.main.MainActivity"
+    },
+    {
+        "app_name": "中国人寿综合金融",
+        "package_name": "com.sinosoft.mobilebiz.chinalife",
+        "file_name": "com.sinosoft.mobilebiz.chinalife_75.apk",
+        "app_activity": "com.sinosoft.mobilebiz.chinalife.ChinalifeIntroduce1Activity"
+    },
+    {
+        "app_name": "首创证券股票开户",
+        "package_name": "com.thinkive.mobile.account_sckh",
+        "file_name": "com.thinkive.mobile.account_sckh_76.apk",
+        "app_activity": "thinkive.websdk.MainActivity"
+    },
+    {
+        "app_name": "微博钱包",
+        "package_name": "com.wj.wallet",
+        "file_name": "com.wj.wallet_77.apk",
+        "app_activity": "com.wj.wallet.login.BlankActivity"
+    },
+    {
+        "app_name": "中泰齐富通",
+        "package_name": "com.qlscupgrade",
+        "file_name": "com.qlscupgrade_78.apk",
+        "app_activity": "com.zztzt.android.simple.activity.tztCommHeadPageActivity"
+    },
+    {
+        "app_name": "中信期货",
+        "package_name": "com.citicsf.finance",
+        "file_name": "com.citicsf.finance_79.apk",
+        "app_activity": "com.citicsf.finance.activity.NewMainActivity_"
+    },
+    {
+        "app_name": "慧择保险网",
+        "package_name": "com.hzins.mobile",
+        "file_name": "com.hzins.mobile_81.apk",
+        "app_activity": "com.hzins.mobile.act.ACT_Splash"
+    },
+    {
+        "app_name": "选股通",
+        "package_name": "cn.com.xuangutong",
+        "file_name": "cn.com.xuangutong_82.apk",
+        "app_activity": "cn.com.xuangutong.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "掌上中意",
+        "package_name": "com.generalichina.ePolicy",
+        "file_name": "com.generalichina.ePolicy_83.apk",
+        "app_activity": "com.generalichina.ePolicy.MainActivity"
+    },
+    {
+        "app_name": "涨乐财富通",
+        "package_name": "com.lphtsccft",
+        "file_name": "com.lphtsccft_84.apk",
+        "app_activity": "com.lphtsccft.zhangle.startup.SplashScreenActivity"
+    },
+    {
+        "app_name": "普益基金",
+        "package_name": "com.pywm.fund",
+        "file_name": "com.pywm.fund_85.apk",
+        "app_activity": "com.pywm.fund.MainPrivacyActivity"
+    },
+    {
+        "app_name": "银盛通",
+        "package_name": "com.ysepay.mobileportal.activity",
+        "file_name": "com.ysepay.mobileportal.activity_86.apk",
+        "app_activity": "com.ysepay.mobileportal.activity.IndexActivity"
+    },
+    {
+        "app_name": "进门财经",
+        "package_name": "cn.comein",
+        "file_name": "cn.comein_87.apk",
+        "app_activity": "cn.comein.launcher.SplashActivity"
+    },
+    {
+        "app_name": "天天基金",
+        "package_name": "com.eastmoney.android.fund",
+        "file_name": "com.eastmoney.android.fund_88.apk",
+        "app_activity": "com.eastmoney.android.fund.activity.FundSplashActivity"
+    },
+    {
+        "app_name": "金斗云智投",
+        "package_name": "com.gzhzcj",
+        "file_name": "com.gzhzcj_89.apk",
+        "app_activity": "com.gzhzcj.model.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "福卡",
+        "package_name": "com.android.yufuec",
+        "file_name": "com.android.yufuec_90.apk",
+        "app_activity": "com.yufu.wallet.act.FKWelcomeActivity"
+    },
+    {
+        "app_name": "交易侠",
+        "package_name": "com.jin10.traderMaster",
+        "file_name": "com.jin10.traderMaster_91.apk",
+        "app_activity": "com.jin10.traderMaster.MainActivity"
+    },
+    {
+        "app_name": "小金管家",
+        "package_name": "com.mfhcd.xjgj",
+        "file_name": "com.mfhcd.xjgj_92.apk",
+        "app_activity": "com.mfhcd.xjgj.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "壹钱包",
+        "package_name": "com.paic.zhifu.wallet.activity",
+        "file_name": "com.paic.zhifu.wallet.activity_93.apk",
+        "app_activity": "com.paic.zhifu.wallet.activity.myapp.LoadingActivity"
+    },
+    {
+        "app_name": "掌上有色",
+        "package_name": "com.smm",
+        "file_name": "com.smm_94.apk",
+        "app_activity": "com.smm.mine.activity.loginRegister.SplashActivity"
+    },
+    {
+        "app_name": "中信建投期货金建投",
+        "package_name": "com.zxjt.jjt",
+        "file_name": "com.zxjt.jjt_95.apk",
+        "app_activity": "com.thinkive.android.invest_app.ui.activities.Launcher2Activity"
+    },
+    {
+        "app_name": "E动生命",
+        "package_name": "com.sinolife.app",
+        "file_name": "com.sinolife.app_96.apk",
+        "app_activity": "com.sinolife.cspf.page.LauncherAct"
+    },
+    {
+        "app_name": "金元证券",
+        "package_name": "cn.com.jyscPhone",
+        "file_name": "cn.com.jyscPhone_97.apk",
+        "app_activity": "cn.com.jyscPhone.newtzt.activity.tztZZHeadPageActivity"
+    },
+    {
+        "app_name": "兴业管家",
+        "package_name": "com.yitong.mbank.xy",
+        "file_name": "com.yitong.mbank.xy_98.apk",
+        "app_activity": "com.yitong.mbank.xy.android.activity.SplashActivity"
+    },
+    {
+        "app_name": "资和信亿平方",
+        "package_name": "com.zihexin",
+        "file_name": "com.zihexin_99.apk",
+        "app_activity": "com.zihexin.ui.start.StartActivity"
+    },
+    {
+        "app_name": "中银期货通",
+        "package_name": "com.zyqhtbocif.thsqht",
+        "file_name": "com.zyqhtbocif.thsqht_100.apk",
+        "app_activity": "com.hexin.plat.android.AndroidLogoActivity"
+    },
+    {
+        "app_name": "缤纷生活",
+        "package_name": "com.forms",
+        "file_name": "com.forms_101.apk",
+        "app_activity": "com.forms.start.ActStart"
+    },
+    {
+        "app_name": "金十数据",
+        "package_name": "com.jin10",
+        "file_name": "com.jin10_102.apk",
+        "app_activity": "com.jin10.lgd.splash.SplashActivity"
+    },
+    {
+        "app_name": "中国证券报",
+        "package_name": "com.hundsun.stockwinner.zzb",
+        "file_name": "com.hundsun.stockwinner.zzb_103.apk",
+        "app_activity": "com.hundsun.welcome.SplashActivity"
+    },
+    {
+        "app_name": "中欧财富",
+        "package_name": "com.qiangungun",
+        "file_name": "com.qiangungun_104.apk",
+        "app_activity": "com.qiangungun.www.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "网易支付",
+        "package_name": "com.netease.epay",
+        "file_name": "com.netease.epay_105.apk",
+        "app_activity": "com.netease.epay.activities.SplashActivity"
+    },
+    {
+        "app_name": "爆竹K线训练助手",
+        "package_name": "com.hlww.bigbang",
+        "file_name": "com.hlww.bigbang_106.apk",
+        "app_activity": "com.hlww.main.ui.SplashActivity"
+    },
+    {
+        "app_name": "捷e贷",
+        "package_name": "com.cqbank.jed",
+        "file_name": "com.cqbank.jed_107.apk",
+        "app_activity": "com.cqbank.jed.MainActivity"
+    },
+    {
+        "app_name": "东吴期货",
+        "package_name": "com.dongwuqihuo.mhdxh",
+        "file_name": "com.dongwuqihuo.mhdxh_108.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "曲合",
+        "package_name": "com.sangame.quhe",
+        "file_name": "com.sangame.quhe_109.apk",
+        "app_activity": "com.sangame.quhe.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "东航期货",
+        "package_name": "com.kiiik.openaccount",
+        "file_name": "com.kiiik.openaccount_110.apk",
+        "app_activity": "com.kiiik.openaccount.SplashActivity"
+    },
+    {
+        "app_name": "银河期货",
+        "package_name": "com.yinheqihuo.mhdxh",
+        "file_name": "com.yinheqihuo.mhdxh_111.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "招商信诺",
+        "package_name": "com.cignacmb.hmsapp",
+        "file_name": "com.cignacmb.hmsapp_112.apk",
+        "app_activity": "com.cignacmb.hmsapp.MainActivity"
+    },
+    {
+        "app_name": "平安健康保险",
+        "package_name": "com.pa.health",
+        "file_name": "com.pa.health_113.apk",
+        "app_activity": "com.pa.health.LaunchActivity"
+    },
+    {
+        "app_name": "i云保",
+        "package_name": "com.zhongan.iyunbao",
+        "file_name": "com.zhongan.iyunbao_114.apk",
+        "app_activity": "com.zhongan.iyunbao.ui.startup.SplashActivity"
+    },
+    {
+        "app_name": "永安期货",
+        "package_name": "com.yafco.yaqhzy",
+        "file_name": "com.yafco.yaqhzy_115.apk",
+        "app_activity": "com.yaqh.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "Panda Remit",
+        "package_name": "com.wotransfer.pandaremit",
+        "file_name": "com.wotransfer.pandaremit_116.apk",
+        "app_activity": "com.wotransfer.pandaremit.activity.StartGuideActivity"
+    },
+    {
+        "app_name": "泰康泰生活",
+        "package_name": "com.taikang.tailife",
+        "file_name": "com.taikang.tailife_117.apk",
+        "app_activity": "com.taikang.tailife.activity.StartActivity"
+    },
+    {
+        "app_name": "福享太平",
+        "package_name": "fxtp.tpp.cntaiping",
+        "file_name": "fxtp.tpp.cntaiping_118.apk",
+        "app_activity": "com.tp.fxtaiping.ui.welcome.SplashActivity"
+    },
+    {
+        "app_name": "新湖期货开户交易",
+        "package_name": "com.xinhu.futures",
+        "file_name": "com.xinhu.futures_119.apk",
+        "app_activity": "com.xinhu.futures.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "申万期货",
+        "package_name": "com.shengwanqihuo.pbmobile",
+        "file_name": "com.shengwanqihuo.pbmobile_120.apk",
+        "app_activity": "com.sywgqh.app.activity.StartupActivity"
+    },
+    {
+        "app_name": "大家保险",
+        "package_name": "com.djbx.app",
+        "file_name": "com.djbx.app_121.apk",
+        "app_activity": "com.djbx.app.SplashActivity"
+    },
+    {
+        "app_name": "太平洋保险",
+        "package_name": "com.cpic.sxbxxe",
+        "file_name": "com.cpic.sxbxxe_122.apk",
+        "app_activity": "com.cpic.sxbxxe.SplashActivity"
+    },
+    {
+        "app_name": "恒泰九点半",
+        "package_name": "com.hundsun.stockwinner.cnht",
+        "file_name": "com.hundsun.stockwinner.cnht_123.apk",
+        "app_activity": "com.cnht.open.splash.SplashActivity"
+    },
+    {
+        "app_name": "平安期货",
+        "package_name": "com.hundsun.stockwinner.paqh",
+        "file_name": "com.hundsun.stockwinner.paqh_124.apk",
+        "app_activity": "com.hundsun.winner.splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "蚂蚁财富",
+        "package_name": "com.antfortune.wealth",
+        "file_name": "com.antfortune.wealth_125.apk",
+        "app_activity": "com.alipay.mobile.quinox.LauncherActivity"
+    },
+    {
+        "app_name": "小雨伞",
+        "package_name": "com.xiaoyusan.android",
+        "file_name": "com.xiaoyusan.android_126.apk",
+        "app_activity": "com.xiaoyusan.android.SplashActivity"
+    },
+    {
+        "app_name": "中粮期货个金通",
+        "package_name": "com.zlqhgjt.thsqht",
+        "file_name": "com.zlqhgjt.thsqht_127.apk",
+        "app_activity": "com.hexin.plat.android.AndroidLogoActivity"
+    },
+    {
+        "app_name": "期货模拟",
+        "package_name": "com.ejia7.huaan",
+        "file_name": "com.ejia7.huaan_128.apk",
+        "app_activity": "com.ejia7.pancubic.MainActivity"
+    },
+    {
+        "app_name": "掌上新华",
+        "package_name": "com.pactera.nci",
+        "file_name": "com.pactera.nci_129.apk",
+        "app_activity": "com.pactera.nci.LaunchActivity"
+    },
+    {
+        "app_name": "东吴证券同花顺",
+        "package_name": "com.hexin.plat.android.DongwuSecurity",
+        "file_name": "com.hexin.plat.android.DongwuSecurity_130.apk",
+        "app_activity": "com.hexin.plat.android.AndroidLogoActivity"
+    },
+    {
+        "app_name": "前海金帆",
+        "package_name": "com.zztzt.sjscgen",
+        "file_name": "com.zztzt.sjscgen_131.apk",
+        "app_activity": "com.newtzt.activity.tztZZHeadPageActivity"
+    },
+    {
+        "app_name": "海通期货期海通行",
+        "package_name": "com.cffex.htqh",
+        "file_name": "com.cffex.htqh_132.apk",
+        "app_activity": "com.cffex.htqh.SplashActivity"
+    },
+    {
+        "app_name": "中粮期货",
+        "package_name": "com.zhongliangqihuo.mhdxh",
+        "file_name": "com.zhongliangqihuo.mhdxh_133.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "嘉实理财嘉",
+        "package_name": "com.harvestfund2",
+        "file_name": "com.harvestfund2_134.apk",
+        "app_activity": "com.harvestfund2.MainActivity"
+    },
+    {
+        "app_name": "网贷逾期上岸助手",
+        "package_name": "com.nzx.wdsazs",
+        "file_name": "com.nzx.wdsazs_135.apk",
+        "app_activity": "com.nzx.app.MainActivity"
+    },
+    {
+        "app_name": "太平通",
+        "package_name": "com.cntaiping.tpapp",
+        "file_name": "com.cntaiping.tpapp_136.apk",
+        "app_activity": "com.basicapp.ui.SplashActivity"
+    },
+    {
+        "app_name": "光大期货e开户",
+        "package_name": "com.qihuo.guangda",
+        "file_name": "com.qihuo.guangda_137.apk",
+        "app_activity": "com.qihuo.guangda.vpviews.activity.abADSplash31Activity"
+    },
+    {
+        "app_name": "广发期货小添财",
+        "package_name": "com.gfqh.guangfa",
+        "file_name": "com.gfqh.guangfa_138.apk",
+        "app_activity": "com.cffex.global.SplashActivity"
+    },
+    {
+        "app_name": "农银人寿",
+        "package_name": "com.abchinalife.client",
+        "file_name": "com.abchinalife.client_139.apk",
+        "app_activity": "com.abchinalife.client.SplashActivity"
+    },
+    {
+        "app_name": "福家享受",
+        "package_name": "uni.UNIFDB343D",
+        "file_name": "uni.UNIFDB343D_140.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "南华期货",
+        "package_name": "net.nanhua.app",
+        "file_name": "net.nanhua.app_141.apk",
+        "app_activity": "net.nanhua.app.view.SplashActivity"
+    },
+    {
+        "app_name": "财达财日昇",
+        "package_name": "com.caidazq.dzhNew",
+        "file_name": "com.caidazq.dzhNew_142.apk",
+        "app_activity": "com.android.dazhihui.dzh.dzh"
+    },
+    {
+        "app_name": "大同证券",
+        "package_name": "com.hexin.plat.android.DatongSecurity",
+        "file_name": "com.hexin.plat.android.DatongSecurity_143.apk",
+        "app_activity": "com.hexin.plat.android.AndroidLogoActivity"
+    },
+
+    {
+        "app_name": "一创期货通",
+        "package_name": "com.diyichuangye.mhdxh",
+        "file_name": "com.diyichuangye.mhdxh_1.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "国海良时期货交易",
+        "package_name": "com.hundsun.stockwinner.ghlsqhnew",
+        "file_name": "com.hundsun.stockwinner.ghlsqhnew_2.apk",
+        "app_activity": "com.hundsun.winner.splash.SplashActivity"
+    },
+    {
+        "app_name": "童管家",
+        "package_name": "com.DaTong.HousekeeperForAndroid",
+        "file_name": "com.DaTong.HousekeeperForAndroid_3.apk",
+        "app_activity": "com.DaTong.HousekeeperForAndroid.splash.SplashActivity"
+    },
+    {
+        "app_name": "梧桐树",
+        "package_name": "com.wts.wtsbxw",
+        "file_name": "com.wts.wtsbxw_4.apk",
+        "app_activity": "com.wts.wtsbxw.ui.activities.SplashActivity"
+    },
+    {
+        "app_name": "野村东方国际",
+        "package_name": "com.hexin.plat.android.YeCunSecurity",
+        "file_name": "com.hexin.plat.android.YeCunSecurity_5.apk",
+        "app_activity": "com.hexin.plat.android.AndroidLogoActivity"
+    },
+    {
+        "app_name": "恒安e家",
+        "package_name": "com.hasl.chome",
+        "file_name": "com.hasl.chome_6.apk",
+        "app_activity": "com.hasl.chome.activity.WebviewNoTitleActivity"
+    },
+    {
+        "app_name": "中信期货交易版",
+        "package_name": "com.citicsf.sd",
+        "file_name": "com.citicsf.sd_7.apk",
+        "app_activity": "com.citicsf.sd.StartActivity"
+    },
+    {
+        "app_name": "金瑞期货",
+        "package_name": "com.jrqh.app",
+        "file_name": "com.jrqh.app_8.apk",
+        "app_activity": "com.jrqh.app.SplashActivity"
+    },
+    {
+        "app_name": "财信信托",
+        "package_name": "com.hncxxt.mobile.trust.client",
+        "file_name": "com.hncxxt.mobile.trust.client_9.apk",
+        "app_activity": "com.hundsun.fzfb.splash.SplashNetActivity"
+    },
+    {
+        "app_name": "天天期货",
+        "package_name": "cn.xfqh.qhcft",
+        "file_name": "cn.xfqh.qhcft_10.apk",
+        "app_activity": "cn.xfqh.qhxf.InitActivity"
+    },
+    {
+        "app_name": "掌上信泰",
+        "package_name": "com.xintai.appbasicframework",
+        "file_name": "com.xintai.appbasicframework_11.apk",
+        "app_activity": "com.xintai.appbasicframework.ui.LodingActivity"
+    },
+    {
+        "app_name": "万得基金",
+        "package_name": "wind.deposit",
+        "file_name": "wind.deposit_12.apk",
+        "app_activity": "wind.deposit.SplashActivity"
+    },
+    {
+        "app_name": "信达期货赢+",
+        "package_name": "com.xindaqihuo.mhdxh",
+        "file_name": "com.xindaqihuo.mhdxh_13.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "海星",
+        "package_name": "com.mhaixing.hx",
+        "file_name": "com.mhaixing.hx_14.apk",
+        "app_activity": "com.orange.rich.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "随行易德盈",
+        "package_name": "com.haihangqihuo.mhdxh",
+        "file_name": "com.haihangqihuo.mhdxh_15.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "共享保",
+        "package_name": "cn.cic.e.gxb",
+        "file_name": "cn.cic.e.gxb_16.apk",
+        "app_activity": "cn.cic.e.gxb.activity.SplashActivity"
+    },
+    {
+        "app_name": "华鑫期货博易",
+        "package_name": "com.shhxqh.mhdxh",
+        "file_name": "com.shhxqh.mhdxh_17.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "国泰基金",
+        "package_name": "com.gtfund.app",
+        "file_name": "com.gtfund.app_18.apk",
+        "app_activity": "com.gtfund.app.activity.MainActivity"
+    },
+    {
+        "app_name": "中粮信托财富",
+        "package_name": "com.trust.cofco",
+        "file_name": "com.trust.cofco_19.apk",
+        "app_activity": "com.trust.cofco.LeasingMainActivity"
+    },
+    {
+        "app_name": "恒银期货博易APP",
+        "package_name": "com.hengyinqihuo.mhdxh",
+        "file_name": "com.hengyinqihuo.mhdxh_20.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "金鳞订购",
+        "package_name": "com.jinlin.dinggou",
+        "file_name": "com.jinlin.dinggou_21.apk",
+        "app_activity": "com.jinli.dinggou.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "V策财经",
+        "package_name": "com.android.vfinance",
+        "file_name": "com.android.vfinance_22.apk",
+        "app_activity": "com.android.vfinance.ui.SplashActivity"
+    },
+    {
+        "app_name": "福能期货",
+        "package_name": "com.funengqihuo.mhdxh",
+        "file_name": "com.funengqihuo.mhdxh_23.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "指尖订购",
+        "package_name": "com.zhijian.dinggou",
+        "file_name": "com.zhijian.dinggou_24.apk",
+        "app_activity": "com.zhijian.dinggou.MainActivity"
+    },
+    {
+        "app_name": "长城基金",
+        "package_name": "com.ccfund.web.ui",
+        "file_name": "com.ccfund.web.ui_25.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "爱建信托",
+        "package_name": "com.ajxt.zxqd",
+        "file_name": "com.ajxt.zxqd_26.apk",
+        "app_activity": "com.ajxtpro.MainActivity"
+    },
+    {
+        "app_name": "路演中",
+        "package_name": "com.rsc.app",
+        "file_name": "com.rsc.app_27.apk",
+        "app_activity": "com.rsc.activity.SplashActivity"
+    },
+    {
+        "app_name": "天津信托",
+        "package_name": "com.tjxt.product",
+        "file_name": "com.tjxt.product_28.apk",
+        "app_activity": "com.alipay.mobile.quinox.LauncherActivity"
+    },
+    {
+        "app_name": "期货仿真",
+        "package_name": "com.shengwanqihuofz.pbmobile",
+        "file_name": "com.shengwanqihuofz.pbmobile_29.apk",
+        "app_activity": "com.sywgqhfz.app.activity.StartupActivity"
+    },
+    {
+        "app_name": "智大领峰",
+        "package_name": "com.tradeblazer.tbleader",
+        "file_name": "com.tradeblazer.tbleader_30.apk",
+        "app_activity": "com.tradeblazer.tbleader.view.activity.TbSplashActivity"
+    },
+    {
+        "app_name": "宁银理财",
+        "package_name": "com.nylc.bank",
+        "file_name": "com.nylc.bank_31.apk",
+        "app_activity": "com.hundsun.fzfb.splash.SplashNetActivity"
+    },
+    {
+        "app_name": "预记智能账本",
+        "package_name": "com.mobivans.onestrokecharge",
+        "file_name": "com.mobivans.onestrokecharge_32.apk",
+        "app_activity": "com.mobivans.onestrokecharge.activitys.BootActivity"
+    },
+    {
+        "app_name": "e海通达",
+        "package_name": "com.htsec.icspandroid",
+        "file_name": "com.htsec.icspandroid_33.apk",
+        "app_activity": "com.htsec.icspandroid.MainActivity"
+    },
+    {
+        "app_name": "集金号",
+        "package_name": "cn.jijinhao.td.android",
+        "file_name": "cn.jijinhao.td.android_34.apk",
+        "app_activity": "cn.jijinhao.td.android.act.InitActivity"
+    },
+    {
+        "app_name": "新一站保险",
+        "package_name": "com.focustech.xyz",
+        "file_name": "com.focustech.xyz_35.apk",
+        "app_activity": "com.focustech.xyz.ui.main.LoadActivity"
+    },
+    {
+        "app_name": "中塑在线",
+        "package_name": "com.zhongsu.online",
+        "file_name": "com.zhongsu.online_36.apk",
+        "app_activity": "com.zhongsu.online.ui.main.activity.MainActivity"
+    },
+    {
+        "app_name": "晋金所",
+        "package_name": "com.thinkive.android.jinjinsuo",
+        "file_name": "com.thinkive.android.jinjinsuo_37.apk",
+        "app_activity": "com.thinkive.android.jinjinsuo.activity.LauncherActivity"
+    },
+    {
+        "app_name": "招行聚合收款",
+        "package_name": "com.cmbchina.solar",
+        "file_name": "com.cmbchina.solar_38.apk",
+        "app_activity": "com.cmbchina.cmf.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "博尔量化分析系统",
+        "package_name": "com.bullcome.phonepush",
+        "file_name": "com.bullcome.phonepush_39.apk",
+        "app_activity": "com.bullcome.phonepush.MainActivity"
+    },
+    {
+        "app_name": "创金合信基金",
+        "package_name": "com.dl.cjhx",
+        "file_name": "com.dl.cjhx_40.apk",
+        "app_activity": "com.dl.cjhx.MainActivity"
+    },
+    {
+        "app_name": "国泰君安资管",
+        "package_name": "com.dl.gjzg",
+        "file_name": "com.dl.gjzg_41.apk",
+        "app_activity": "com.dl.gjzg.ui.prepare.PrepareActivity"
+    },
+    {
+        "app_name": "期货优选",
+        "package_name": "cn.gtfutures.qhyx",
+        "file_name": "cn.gtfutures.qhyx_42.apk",
+        "app_activity": "cn.gtfutures.qhyx.InitActivity"
+    },
+    {
+        "app_name": "中银期货",
+        "package_name": "com.zhongyinguoji.mhdxh",
+        "file_name": "com.zhongyinguoji.mhdxh_43.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "中财期货",
+        "package_name": "com.zhongcaiqihuo.mhdxh",
+        "file_name": "com.zhongcaiqihuo.mhdxh_44.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "平安基金",
+        "package_name": "com.pingan.pafund",
+        "file_name": "com.pingan.pafund_45.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "恒泰期货",
+        "package_name": "com.hengtaiqihuo.pbmobile",
+        "file_name": "com.hengtaiqihuo.pbmobile_46.apk",
+        "app_activity": "com.zhouzun.zgyj.MainActivity"
+    },
+    {
+        "app_name": "光大信托",
+        "package_name": "com.guangdaxinglong.guangdaxintuo",
+        "file_name": "com.guangdaxinglong.guangdaxintuo_47.apk",
+        "app_activity": "fox.app.YuSplashActivity"
+    },
+    {
+        "app_name": "重庆信托",
+        "package_name": "com.cqxt.khapp",
+        "file_name": "com.cqxt.khapp_48.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "东航金融",
+        "package_name": "com.kiiik.kiiikmobile",
+        "file_name": "com.kiiik.kiiikmobile_49.apk",
+        "app_activity": "com.kiiik.kiiikmobile.SplashActivity"
+    },
+    {
+        "app_name": "快保",
+        "package_name": "com.DaTong.InsuranceForAndroid",
+        "file_name": "com.DaTong.InsuranceForAndroid_50.apk",
+        "app_activity": "com.DaTong.InsuranceForAndroid.cloud.splash.SplashActivity"
+    },
+    {
+        "app_name": "中债Dr.Quant",
+        "package_name": "com.ccdc.cbpc",
+        "file_name": "com.ccdc.cbpc_51.apk",
+        "app_activity": "com.ccdc.cbpc.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "山东国信",
+        "package_name": "com.trustsd.etrading",
+        "file_name": "com.trustsd.etrading_52.apk",
+        "app_activity": "com.hundsun.fzfb.splash.SplashNetActivity"
+    },
+    {
+        "app_name": "掌上紫金",
+        "package_name": "com.zking.customer",
+        "file_name": "com.zking.customer_53.apk",
+        "app_activity": "com.zking.customer.MainActivity"
+    },
+    {
+        "app_name": "大唐财富",
+        "package_name": "com.issmobile.datang.case_dough",
+        "file_name": "com.issmobile.datang.case_dough_54.apk",
+        "app_activity": "com.issmobile.datang.case_dough.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "基金豆",
+        "package_name": "com.jijindou.android.fund",
+        "file_name": "com.jijindou.android.fund_55.apk",
+        "app_activity": "com.talicai.fund.ui.guide.SplashActivity"
+    },
+    {
+        "app_name": "中航信托",
+        "package_name": "com.apex.zhxtapp",
+        "file_name": "com.apex.zhxtapp_56.apk",
+        "app_activity": "com.apex.zhxtapp.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "小帮知道",
+        "package_name": "com.xiaobang.fq",
+        "file_name": "com.xiaobang.fq_57.apk",
+        "app_activity": "com.xiaobang.fq.pageui.splash.SplashActivity"
+    },
+    {
+        "app_name": "云上好医生",
+        "package_name": "uni.UNIC841598",
+        "file_name": "uni.UNIC841598_58.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "大成基金",
+        "package_name": "com.dl.dacheng",
+        "file_name": "com.dl.dacheng_59.apk",
+        "app_activity": "com.dl.dacheng.phone.splash.SplashActivity"
+    },
+    {
+        "app_name": "山金期货",
+        "package_name": "com.shanjinqihuo.mhdxh",
+        "file_name": "com.shanjinqihuo.mhdxh_60.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "来钱乐商户版",
+        "package_name": "com.laiqianle.merchant",
+        "file_name": "com.laiqianle.merchant_61.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "北京信托财富",
+        "package_name": "com.xjj.bjtrustmarketing",
+        "file_name": "com.xjj.bjtrustmarketing_62.apk",
+        "app_activity": "com.xjj.bjtrustmarketing.MainActivity"
+    },
+    {
+        "app_name": "东亚前海悦涨",
+        "package_name": "com.hexin.plat.android.DongyaQHSecurity",
+        "file_name": "com.hexin.plat.android.DongyaQHSecurity_63.apk",
+        "app_activity": "com.hexin.plat.android.AndroidLogoActivity"
+    },
+    {
+        "app_name": "通达信期货通",
+        "package_name": "com.tdx.AndroidNewQH",
+        "file_name": "com.tdx.AndroidNewQH_64.apk",
+        "app_activity": "com.tdx.Android.TdxActivity"
+    },
+    {
+        "app_name": "期货交易通",
+        "package_name": "cn.xfqh.qhds",
+        "file_name": "cn.xfqh.qhds_65.apk",
+        "app_activity": "cn.xfqh.qhxf.InitActivity"
+    },
+    {
+        "app_name": "掌上期货",
+        "package_name": "cn.xfqh.zsqh",
+        "file_name": "cn.xfqh.zsqh_66.apk",
+        "app_activity": "cn.xfqh.qhxf.InitActivity"
+    },
+    {
+        "app_name": "中信信托",
+        "package_name": "com.citictrust.app",
+        "file_name": "com.citictrust.app_67.apk",
+        "app_activity": "com.citictrust.app.mvp.main.SplashActivityPresenter"
+    },
+    {
+        "app_name": "大越期货专业版",
+        "package_name": "com.dayueqihuo.mhdxh",
+        "file_name": "com.dayueqihuo.mhdxh_68.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "浙金中心",
+        "package_name": "com.hundsun.zjfae",
+        "file_name": "com.hundsun.zjfae_69.apk",
+        "app_activity": "com.hundsun.zjfae.activity.splash.StartActivity"
+    },
+    {
+        "app_name": "中金固收",
+        "package_name": "com.cicc.fi_client",
+        "file_name": "com.cicc.fi_client_70.apk",
+        "app_activity": "com.cicc.fi_client.MainActivity"
+    },
+    {
+        "app_name": "国联信托",
+        "package_name": "cn.com.trust.gltic",
+        "file_name": "cn.com.trust.gltic_71.apk",
+        "app_activity": "com.hundsun.fzfb.splash.SplashNetActivity"
+    },
+    {
+        "app_name": "盈利宝",
+        "package_name": "cn.com.jrj.easyrich",
+        "file_name": "cn.com.jrj.easyrich_72.apk",
+        "app_activity": "com.hundsun.fzfb.splash.SplashActivity"
+    },
+    {
+        "app_name": "OK保",
+        "package_name": "com.lazhu.fqzl",
+        "file_name": "com.lazhu.fqzl_73.apk",
+        "app_activity": "com.wts.aa.ui.activities.SplashActivity"
+    },
+    {
+        "app_name": "老虎淘金",
+        "package_name": "com.laohu.tj",
+        "file_name": "com.laohu.tj_74.apk",
+        "app_activity": "com.laohu.tj.ui.activity.SplashActivityNew"
+    },
+    {
+        "app_name": "传家宝",
+        "package_name": "com.citictrust.app.chuanjiabao",
+        "file_name": "com.citictrust.app.chuanjiabao_75.apk",
+        "app_activity": "com.citictrust.app.mvp.main.SplashActivityPresenter"
+    },
+    {
+        "app_name": "金元证券开户",
+        "package_name": "com.thinkive.mobile.account_jy",
+        "file_name": "com.thinkive.mobile.account_jy_76.apk",
+        "app_activity": "thinkive.websdk.MainActivity"
+    },
+    {
+        "app_name": "华润信托",
+        "package_name": "com.hrxt.echannel.app",
+        "file_name": "com.hrxt.echannel.app_77.apk",
+        "app_activity": "com.hrxt.echannel.app.ui.SplashActivity"
+    },
+    {
+        "app_name": "中财财讯通",
+        "package_name": "com.dfitc.fip.zhongcai",
+        "file_name": "com.dfitc.fip.zhongcai_78.apk",
+        "app_activity": "com.dlfc.android.smartinfo.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "金十期货",
+        "package_name": "com.jin10.futures",
+        "file_name": "com.jin10.futures_79.apk",
+        "app_activity": "com.jin10.futures.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "小金掌上私募",
+        "package_name": "com.jfz.wealth",
+        "file_name": "com.jfz.wealth_80.apk",
+        "app_activity": "com.jfz.fortune.module.startup.WelcomeActivity"
+    },
+    {
+        "app_name": "美港电讯",
+        "package_name": "com.jin10.mgdx",
+        "file_name": "com.jin10.mgdx_81.apk",
+        "app_activity": "com.jin10.mgdx.splash.SplashActivity"
+    },
+    {
+        "app_name": "Hi乐租",
+        "package_name": "com.jfl.ydyx.jrzl",
+        "file_name": "com.jfl.ydyx.jrzl_82.apk",
+        "app_activity": "com.yitong.mbank.app.android.activity.SplashActivity"
+    },
+    {
+        "app_name": "期货捕猎者",
+        "package_name": "com.dkhs.futures",
+        "file_name": "com.dkhs.futures_83.apk",
+        "app_activity": "com.dkhs.futures.modules.splash.SplashActivity"
+    },
+    {
+        "app_name": "向日葵保险人",
+        "package_name": "com.xiangrikui.sixapp",
+        "file_name": "com.xiangrikui.sixapp_84.apk",
+        "app_activity": "com.xiangrikui.sixapp.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "中泰资管",
+        "package_name": "com.qlzgzg.nettrade.android",
+        "file_name": "com.qlzgzg.nettrade.android_85.apk",
+        "app_activity": "com.qlzgzg.nettrade.android.index_page.SplashActivity"
+    },
+    {
+        "app_name": "五花牛股票",
+        "package_name": "com.chenxikeji.cwp.whngp",
+        "file_name": "com.chenxikeji.cwp.whngp_86.apk",
+        "app_activity": "com.chenxikeji.cwp.ydzxg.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "青银理财",
+        "package_name": "com.bqdwm.android",
+        "file_name": "com.bqdwm.android_87.apk",
+        "app_activity": "com.hundsun.fzfb.splash.SplashNetActivity"
+    },
+    {
+        "app_name": "中融财富",
+        "package_name": "com.zrwealth.zrtrust",
+        "file_name": "com.zrwealth.zrtrust_88.apk",
+        "app_activity": "com.zrwealth.zrtust.user.activity.SplashActivity"
+    },
+    {
+        "app_name": "国元信托",
+        "package_name": "com.hundsun.gyxt",
+        "file_name": "com.hundsun.gyxt_89.apk",
+        "app_activity": "com.hundsun.fzfb.splash.SplashNetActivity"
+    },
+    {
+        "app_name": "众惠基金",
+        "package_name": "com.hundsun.hyzh",
+        "file_name": "com.hundsun.hyzh_90.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "江苏信托",
+        "package_name": "com.hundsun.jsxt",
+        "file_name": "com.hundsun.jsxt_91.apk",
+        "app_activity": "com.hundsun.fzfb.splash.SplashNetActivity"
+    },
+    {
+        "app_name": "中原信托",
+        "package_name": "com.hundsun.zyxt",
+        "file_name": "com.hundsun.zyxt_92.apk",
+        "app_activity": "com.hundsun.fzfb.splash.SplashNetActivity"
+    },
+    {
+        "app_name": "中保通",
+        "package_name": "com.zhongmin.insurancecn",
+        "file_name": "com.zhongmin.insurancecn_93.apk",
+        "app_activity": "com.zhongmin.insurancecn.activity.SplashActivity"
+    },
+    {
+        "app_name": "国海良时期货",
+        "package_name": "com.hundsun.stockwinner.ghlsqh",
+        "file_name": "com.hundsun.stockwinner.ghlsqh_94.apk",
+        "app_activity": "com.hundsun.winner.splash.SplashActivity"
+    },
+    {
+        "app_name": "金汇金融",
+        "package_name": "com.rxhui.pay",
+        "file_name": "com.rxhui.pay_95.apk",
+        "app_activity": "com.rxhui.pay.view.SplashActivity"
+    },
+    {
+        "app_name": "同花顺股票开户",
+        "package_name": "com.hexin.plat.kaihu",
+        "file_name": "com.hexin.plat.kaihu_96.apk",
+        "app_activity": "com.hexin.plat.kaihu.sdk.activity.StartActivity"
+    },
+    {
+        "app_name": "首创期货",
+        "package_name": "com.shouchuangqihuo.mhdxh",
+        "file_name": "com.shouchuangqihuo.mhdxh_97.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "九州财讯通",
+        "package_name": "com.dfitc.fip.jiuzhoufutures",
+        "file_name": "com.dfitc.fip.jiuzhoufutures_98.apk",
+        "app_activity": "com.dlfc.android.smartinfo.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "银河期货通",
+        "package_name": "com.yinheqh.thsqht",
+        "file_name": "com.yinheqh.thsqht_99.apk",
+        "app_activity": "com.hexin.plat.android.AndroidLogoActivity"
+    },
+    {
+        "app_name": "咔咔有单",
+        "package_name": "com.xiangrikui.kkyd",
+        "file_name": "com.xiangrikui.kkyd_100.apk",
+        "app_activity": "com.xiangrikui.kkyd.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "全景路演",
+        "package_name": "zbh.p5w.net",
+        "file_name": "zbh.p5w.net_101.apk",
+        "app_activity": "zbh.p5w.net.activity.SplashActivity"
+    },
+    {
+        "app_name": "华源鑫理财",
+        "package_name": "com.chtwm.mall",
+        "file_name": "com.chtwm.mall_102.apk",
+        "app_activity": "com.chtwm.mall.activity.user.LaunchActivity"
+    },
+    {
+        "app_name": "鹏华A加钱包",
+        "package_name": "com.phfund.wallet",
+        "file_name": "com.phfund.wallet_103.apk",
+        "app_activity": "cn.phfund.tiny.ui.SplashActivity"
+    },
+    {
+        "app_name": "光大期货通",
+        "package_name": "com.gdqh.thsqht",
+        "file_name": "com.gdqh.thsqht_104.apk",
+        "app_activity": "com.hexin.plat.android.AndroidLogoActivity"
+    },
+    {
+        "app_name": "搭伙保险",
+        "package_name": "com.djcx.dahuo",
+        "file_name": "com.djcx.dahuo_105.apk",
+        "app_activity": "com.djcx.dahuo.MainActivity"
+    },
+    {
+        "app_name": "中航信托资管",
+        "package_name": "com.apex.zhxtapp.asset",
+        "file_name": "com.apex.zhxtapp.asset_106.apk",
+        "app_activity": "com.apex.zhxtapp.asset.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "明亚经纪",
+        "package_name": "www.mingya.cdapp",
+        "file_name": "www.mingya.cdapp_107.apk",
+        "app_activity": "com.mingya.app.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "国海证券资管",
+        "package_name": "com.aresoft.fund.ghzg",
+        "file_name": "com.aresoft.fund.ghzg_108.apk",
+        "app_activity": "com.aresoft.fund.ghzg.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "嘉实财富",
+        "package_name": "com.harvestwm.jiashicaifu",
+        "file_name": "com.harvestwm.jiashicaifu_109.apk",
+        "app_activity": "com.harvestwm.jiashicaifu.MainActivity"
+    },
+    {
+        "app_name": "翠绿金业",
+        "package_name": "cn.yishoujin.ones",
+        "file_name": "cn.yishoujin.ones_110.apk",
+        "app_activity": "cn.yishoujin.ones.SplashActivity"
+    },
+    {
+        "app_name": "金源财富通",
+        "package_name": "com.tongguanjinyuan.mhdxh",
+        "file_name": "com.tongguanjinyuan.mhdxh_111.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "瑞承",
+        "package_name": "com.creditease.android",
+        "file_name": "com.creditease.android_112.apk",
+        "app_activity": "com.creditease.android.treasure.activity.guide.SplashActivity"
+    },
+    {
+        "app_name": "西信财富",
+        "package_name": "com.westerntrust.westerntrust",
+        "file_name": "com.westerntrust.westerntrust_113.apk",
+        "app_activity": "com.westerntrust.westerntrust.app.home.activity.SplashActivity"
+    },
+    {
+        "app_name": "智赢诊股",
+        "package_name": "com.yxcps.winstock",
+        "file_name": "com.yxcps.winstock_114.apk",
+        "app_activity": "com.yxcps.winstock.WelcomeActivity"
+    },
+    {
+        "app_name": "紫属保",
+        "package_name": "com.zking.zishubaoapp",
+        "file_name": "com.zking.zishubaoapp_115.apk",
+        "app_activity": "com.zking.zishubaoapp.MainActivity"
+    },
+    {
+        "app_name": "股神争霸",
+        "package_name": "cn.zgzncps.app",
+        "file_name": "cn.zgzncps.app_116.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "国投财富",
+        "package_name": "com.sdictktrust.cfapp.prod",
+        "file_name": "com.sdictktrust.cfapp.prod_117.apk",
+        "app_activity": "com.sdictktrust.cfapp.prod.DemoMainActivity"
+    },
+    {
+        "app_name": "国盛期货",
+        "package_name": "com.guoshengqihuo.mhdxh",
+        "file_name": "com.guoshengqihuo.mhdxh_118.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "华融融达期货",
+        "package_name": "com.huaxinqihuo.mhdxh",
+        "file_name": "com.huaxinqihuo.mhdxh_119.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "浙金财富汇",
+        "package_name": "com.zsjhtrust.zjxtapp",
+        "file_name": "com.zsjhtrust.zjxtapp_120.apk",
+        "app_activity": "com.hundsun.fzfb.splash.SplashNetActivity"
+    },
+    {
+        "app_name": "中海信托",
+        "package_name": "com.apex.zhixt.khapp",
+        "file_name": "com.apex.zhixt.khapp_121.apk",
+        "app_activity": "com.apex.zhixt.khapp.MainActivity"
+    },
+    {
+        "app_name": "山西信托",
+        "package_name": "com.sxxt.trust",
+        "file_name": "com.sxxt.trust_122.apk",
+        "app_activity": "com.sxxt.trust.home.launch.LaunchActivity"
+    },
+    {
+        "app_name": "中国金谷信托",
+        "package_name": "com.jingutrust.wealth",
+        "file_name": "com.jingutrust.wealth_123.apk",
+        "app_activity": "com.hundsun.fzfb.splash.SplashNetActivity"
+    },
+    {
+        "app_name": "华源期货",
+        "package_name": "com.jiuzhouqihuo.mhdxh",
+        "file_name": "com.jiuzhouqihuo.mhdxh_124.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "东证赢家",
+        "package_name": "com.dzqh.dzyjcf",
+        "file_name": "com.dzqh.dzyjcf_125.apk",
+        "app_activity": "com.dzqh.dzyjcf.MySplashActivity"
+    },
+    {
+        "app_name": "连尚赚钱吧",
+        "package_name": "com.shengpay.pos.collectmoney",
+        "file_name": "com.shengpay.pos.collectmoney_126.apk",
+        "app_activity": "com.shengpay.pos.collectmoney.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "招商基金",
+        "package_name": "com.logansoft.zcbao",
+        "file_name": "com.logansoft.zcbao_127.apk",
+        "app_activity": "com.logansoft.zcbao.activity.LauncherActivity"
+    },
+    {
+        "app_name": "平安期货博易",
+        "package_name": "com.pinganqihuo.mhdxh",
+        "file_name": "com.pinganqihuo.mhdxh_128.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "期货先锋极速版",
+        "package_name": "cn.xfqh.qhxflite",
+        "file_name": "cn.xfqh.qhxflite_129.apk",
+        "app_activity": "cn.xfqh.qhxf.InitActivity"
+    },
+    {
+        "app_name": "京保通",
+        "package_name": "com.beijinglife.jbt",
+        "file_name": "com.beijinglife.jbt_130.apk",
+        "app_activity": "com.beijinglife.jbt.splash.SplashActivity"
+    },
+    {
+        "app_name": "华鑫信托",
+        "package_name": "com.cfitc.app",
+        "file_name": "com.cfitc.app_131.apk",
+        "app_activity": "com.hundsun.fzfb.splash.SplashNetActivity"
+    },
+    {
+        "app_name": "财信期货",
+        "package_name": "com.deshengqihuo.mhdxh",
+        "file_name": "com.deshengqihuo.mhdxh_132.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "信美相互",
+        "package_name": "com.xinmei.etrust",
+        "file_name": "com.xinmei.etrust_133.apk",
+        "app_activity": "com.xinmei.etrust.activity.InitActivity"
+    },
+    {
+        "app_name": "WX易享车",
+        "package_name": "com.wanxin.customera",
+        "file_name": "com.wanxin.customera_134.apk",
+        "app_activity": "com.wanxin.customera.LeasingMainActivity"
+    },
+    {
+        "app_name": "东方汇金",
+        "package_name": "com.dongfanghuijin.mhdxh",
+        "file_name": "com.dongfanghuijin.mhdxh_135.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "新湖宝",
+        "package_name": "com.xinhuqihuo.pbmobile",
+        "file_name": "com.xinhuqihuo.pbmobile_136.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "五矿信托",
+        "package_name": "com.mintrust.echannel",
+        "file_name": "com.mintrust.echannel_137.apk",
+        "app_activity": "com.mintrust.echannel.ui.SplashActivity"
+    },
+    {
+        "app_name": "西部期货APP",
+        "package_name": "com.xibuqihuo.mhdxh",
+        "file_name": "com.xibuqihuo.mhdxh_138.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "优悠保",
+        "package_name": "com.youyoubaoxian.ua",
+        "file_name": "com.youyoubaoxian.ua_139.apk",
+        "app_activity": "com.youyoubaoxian.yybadvisor.activity.start.SplashActivityNew"
+    },
+    {
+        "app_name": "诺安基金",
+        "package_name": "cn.com.lion.android",
+        "file_name": "cn.com.lion.android_140.apk",
+        "app_activity": "cn.com.lion.android.MainActivity"
+    },
+    {
+        "app_name": "咔嚓保",
+        "package_name": "com.xiaoyusan.cps",
+        "file_name": "com.xiaoyusan.cps_141.apk",
+        "app_activity": "com.xiaoyusan.cps.SplashActivity"
+    },
+    {
+        "app_name": "神华期货",
+        "package_name": "com.shenhuaqihuo.pbmobile",
+        "file_name": "com.shenhuaqihuo.pbmobile_142.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "云中君",
+        "package_name": "com.jklife.yzj",
+        "file_name": "com.jklife.yzj_143.apk",
+        "app_activity": "com.bary.jklife.MainActivity"
+    },
+    {
+        "app_name": "津农所平台",
+        "package_name": "uni.UNIE304F6D",
+        "file_name": "uni.UNIE304F6D_144.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "国富博易",
+        "package_name": "com.guofuqihuo.mhdxh",
+        "file_name": "com.guofuqihuo.mhdxh_145.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "有道财富",
+        "package_name": "com.finace.market",
+        "file_name": "com.finace.market_146.apk",
+        "app_activity": "com.finance.market.business.start.SplashAc"
+    },
+    {
+        "app_name": "渤海保呗",
+        "package_name": "com.ebiz.bhl",
+        "file_name": "com.ebiz.bhl_147.apk",
+        "app_activity": "com.ebiz.bhl.activity.nat.common.StartActivity"
+    },
+    {
+        "app_name": "快乐海港",
+        "package_name": "cn.com.evergrandelife.hhb.hd",
+        "file_name": "cn.com.evergrandelife.hhb.hd_148.apk",
+        "app_activity": "cn.com.evergrandelife.hhb.hd.activity.LauncherActivity"
+    },
+    {
+        "app_name": "浙商交易宝",
+        "package_name": "com.czbank.android.zsjyb",
+        "file_name": "com.czbank.android.zsjyb_149.apk",
+        "app_activity": "com.erayt.android.bocfc.SplashActivity"
+    },
+    {
+        "app_name": "西南期货",
+        "package_name": "com.xinanqihuo.mhdxh",
+        "file_name": "com.xinanqihuo.mhdxh_150.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "好规划",
+        "package_name": "com.haoguihua.app",
+        "file_name": "com.haoguihua.app_151.apk",
+        "app_activity": "com.guihua.application.ghactivity.AdvertisementActivity"
+    },
+    {
+        "app_name": "中州期货",
+        "package_name": "com.zhongzhouqihuo.mhdxh",
+        "file_name": "com.zhongzhouqihuo.mhdxh_152.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "宜人优选",
+        "package_name": "com.creditwealth.client",
+        "file_name": "com.creditwealth.client_153.apk",
+        "app_activity": "com.creditwealth.app.splash.FastSplashActivity"
+    },
+    {
+        "app_name": "逾期债务急速处理",
+        "package_name": "com.mkx.yqzwjscl",
+        "file_name": "com.mkx.yqzwjscl_154.apk",
+        "app_activity": "com.nzx.app4.MainActivity"
+    },
+    {
+        "app_name": "新世纪期货",
+        "package_name": "com.xinshiji.mhdxh",
+        "file_name": "com.xinshiji.mhdxh_155.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "陆享基金",
+        "package_name": "com.bm.ljz",
+        "file_name": "com.bm.ljz_156.apk",
+        "app_activity": "com.lp.invest.ui.activity.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "国通信托",
+        "package_name": "com.apex.gtxt",
+        "file_name": "com.apex.gtxt_157.apk",
+        "app_activity": "com.apex.gtxt.MainActivity"
+    },
+    {
+        "app_name": "五行生财",
+        "package_name": "com.apex.wmxt",
+        "file_name": "com.apex.wmxt_158.apk",
+        "app_activity": "com.apex.wmxt.WelcomeActivity"
+    },
+    {
+        "app_name": "厦门国际信托",
+        "package_name": "com.apex.xmxt",
+        "file_name": "com.apex.xmxt_159.apk",
+        "app_activity": "com.apex.xmxt.WelcomeActivity"
+    },
+    {
+        "app_name": "西藏信托",
+        "package_name": "com.apex.xzxt",
+        "file_name": "com.apex.xzxt_160.apk",
+        "app_activity": "com.apex.xzxt.WelcomeActivity"
+    },
+    {
+        "app_name": "国华e保",
+        "package_name": "com.guohua.esp",
+        "file_name": "com.guohua.esp_161.apk",
+        "app_activity": "com.gh.esp.splash.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "前海期货博易",
+        "package_name": "com.qianhaiqihuo.mhdxh",
+        "file_name": "com.qianhaiqihuo.mhdxh_162.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "兴证期货通",
+        "package_name": "com.xzfutures.xzfutures",
+        "file_name": "com.xzfutures.xzfutures_163.apk",
+        "app_activity": "com.xzfutures.xzfutures.main.StartActivity"
+    },
+    {
+        "app_name": "徽商期货财讯通",
+        "package_name": "com.dfitc.fip.huishang",
+        "file_name": "com.dfitc.fip.huishang_164.apk",
+        "app_activity": "com.dlfc.android.smartinfo.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "好股道",
+        "package_name": "com.wlstock.hgd",
+        "file_name": "com.wlstock.hgd_165.apk",
+        "app_activity": "com.wlstock.hgd.main.StartActivity"
+    },
+    {
+        "app_name": "宏源期货开户",
+        "package_name": "com.hongyuanqh.speed",
+        "file_name": "com.hongyuanqh.speed_166.apk",
+        "app_activity": "com.hongyuan.qihuo.SplashActivity"
+    },
+    {
+        "app_name": "风向数据",
+        "package_name": "com.winddatas.app",
+        "file_name": "com.winddatas.app_167.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "qeubee",
+        "package_name": "com.sumscope.qeubee.mobile",
+        "file_name": "com.sumscope.qeubee.mobile_168.apk",
+        "app_activity": "com.sumscope.qeubee.moblie.MainActivity"
+    },
+    {
+        "app_name": "万家基金",
+        "package_name": "com.fund.wanjia",
+        "file_name": "com.fund.wanjia_169.apk",
+        "app_activity": "com.hundsun.fzfb.splash.SplashActivity"
+    },
+    {
+        "app_name": "信银理财",
+        "package_name": "com.citicwealth.fintech",
+        "file_name": "com.citicwealth.fintech_170.apk",
+        "app_activity": "com.hundsun.fzfb.splash.SplashNetActivity"
+    },
+    {
+        "app_name": "她理财",
+        "package_name": "com.talicai.talicaiclient",
+        "file_name": "com.talicai.talicaiclient_171.apk",
+        "app_activity": "com.talicai.talicaiclient.ui.main.activity.LoadingActivity"
+    },
+    {
+        "app_name": "天成奇盈",
+        "package_name": "com.chaosqh.app",
+        "file_name": "com.chaosqh.app_172.apk",
+        "app_activity": "com.chaosqh.app.SplashActivity"
+    },
+    {
+        "app_name": "微诺亚",
+        "package_name": "com.noahwm.android",
+        "file_name": "com.noahwm.android_173.apk",
+        "app_activity": "com.noahwm.android.ui.SplashActivity"
+    },
+    {
+        "app_name": "中财财易通",
+        "package_name": "com.qihuo.zhongcai",
+        "file_name": "com.qihuo.zhongcai_174.apk",
+        "app_activity": "com.qihuo.zhongcai.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "瑞达期货旗舰版",
+        "package_name": "com.rdqh.future",
+        "file_name": "com.rdqh.future_175.apk",
+        "app_activity": "com.rdqh.future.activity.SplashAct"
+    },
+    {
+        "app_name": "冠通掌中宝",
+        "package_name": "com.guantongqihuo.mhdxh",
+        "file_name": "com.guantongqihuo.mhdxh_176.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "大地期货",
+        "package_name": "com.dadiiqihuo.mhdxh",
+        "file_name": "com.dadiiqihuo.mhdxh_177.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "新丝路Bank",
+        "package_name": "com.yitong.xianmzx.android",
+        "file_name": "com.yitong.xianmzx.android_178.apk",
+        "app_activity": "com.yitong.xianmzx.android.activity.SplashActivity"
+    },
+    {
+        "app_name": "口袋期货",
+        "package_name": "com.gkoudai.futures",
+        "file_name": "com.gkoudai.futures_179.apk",
+        "app_activity": "com.gkoudai.futures.main.activity.LaunchActivity"
+    },
+    {
+        "app_name": "南华期货掌上交易",
+        "package_name": "net.nanhuaboyi.app",
+        "file_name": "net.nanhuaboyi.app_180.apk",
+        "app_activity": "net.nanhua.app.view.SplashActivity"
+    },
+    {
+        "app_name": "保险中介云",
+        "package_name": "com.wts.fqtd",
+        "file_name": "com.wts.fqtd_181.apk",
+        "app_activity": "com.wts.aa.ui.activities.SplashActivity"
+    },
+    {
+        "app_name": "天鸿e路赢",
+        "package_name": "com.tianhongqihuo.mhdxh",
+        "file_name": "com.tianhongqihuo.mhdxh_182.apk",
+        "app_activity": "com.zhouzun.zgyj.MainActivity"
+    },
+    {
+        "app_name": "陕国投信托",
+        "package_name": "com.apex.sgtxtapp",
+        "file_name": "com.apex.sgtxtapp_183.apk",
+        "app_activity": "com.apex.sgtxtapp.WelcomeActivity"
+    },
+    {
+        "app_name": "银华生利宝",
+        "package_name": "com.ihandy.fund",
+        "file_name": "com.ihandy.fund_184.apk",
+        "app_activity": "com.ihandy.fund.welcome.YHSplashActivity"
+    },
+    {
+        "app_name": "真保险",
+        "package_name": "com.etib.zhenbaoxian",
+        "file_name": "com.etib.zhenbaoxian_185.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "富尔保险经纪",
+        "package_name": "com.fueragent.fibp",
+        "file_name": "com.fueragent.fibp_186.apk",
+        "app_activity": "com.fueragent.fibp.Splash"
+    },
+    {
+        "app_name": "ZA Bank",
+        "package_name": "com.zhongan.ibank",
+        "file_name": "com.zhongan.ibank_187.apk",
+        "app_activity": "com.zhongan.beeline.bridge.flutter.ZABankMainFlutterActivity"
+    },
+    {
+        "app_name": "弘运通",
+        "package_name": "com.hundsun.stockwinner.hyt",
+        "file_name": "com.hundsun.stockwinner.hyt_188.apk",
+        "app_activity": "com.hundsun.winner.splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "银盛收银台",
+        "package_name": "com.ysepay.cashier.activity",
+        "file_name": "com.ysepay.cashier.activity_189.apk",
+        "app_activity": "com.ysepay.cashier.activity.IndexActivity"
+    },
+    {
+        "app_name": "易掘金",
+        "package_name": "com.yijuejin2",
+        "file_name": "com.yijuejin2_190.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "东吴人寿保险",
+        "package_name": "com.east.wxcustomer",
+        "file_name": "com.east.wxcustomer_191.apk",
+        "app_activity": "com.east.wxcustomer.appwork.UI.LoadingActivity"
+    },
+    {
+        "app_name": "东方财富期货宝",
+        "package_name": "com.eastmoney.app.qihuobao",
+        "file_name": "com.eastmoney.app.qihuobao_192.apk",
+        "app_activity": "com.eastmoney.android.berlin.activity.SplashActivity"
+    },
+    {
+        "app_name": "中衍期货",
+        "package_name": "com.zhongyanqihuo.mhdxh",
+        "file_name": "com.zhongyanqihuo.mhdxh_193.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "平安期货同花顺",
+        "package_name": "com.paqh.thsqht",
+        "file_name": "com.paqh.thsqht_195.apk",
+        "app_activity": "com.hexin.plat.android.AndroidLogoActivity"
+    },
+    {
+        "app_name": "国都e期货",
+        "package_name": "com.guoduqihuo.mhdxh",
+        "file_name": "com.guoduqihuo.mhdxh_196.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "上海信托",
+        "package_name": "com.shanghaitrust.app",
+        "file_name": "com.shanghaitrust.app_197.apk",
+        "app_activity": "com.shanghaitrust.app.DemoMainActivity"
+    },
+    {
+        "app_name": "招商证券机智",
+        "package_name": "com.cmschina.instservice",
+        "file_name": "com.cmschina.instservice_198.apk",
+        "app_activity": "com.cmschina.splash.SplashActivity"
+    },
+    {
+        "app_name": "长江期货博易",
+        "package_name": "com.changjiangqihuo.mhdxh",
+        "file_name": "com.changjiangqihuo.mhdxh_199.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "燃气保险",
+        "package_name": "com.rqbx.InsuranceForAndroid",
+        "file_name": "com.rqbx.InsuranceForAndroid_200.apk",
+        "app_activity": "com.dtinsure.kby.splash.SplashActivity"
+    },
+    {
+        "app_name": "东亚期货",
+        "package_name": "com.hundsun.stockwinner.dyaqh",
+        "file_name": "com.hundsun.stockwinner.dyaqh_201.apk",
+        "app_activity": "com.hundsun.winner.splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "中原赢富通",
+        "package_name": "com.hundsun.stockwinner.zyyft",
+        "file_name": "com.hundsun.stockwinner.zyyft_202.apk",
+        "app_activity": "com.hundsun.winner.splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "华夏理财",
+        "package_name": "com.hxwm.fintech",
+        "file_name": "com.hxwm.fintech_203.apk",
+        "app_activity": "com.hundsun.fzfb.splash.SplashNetActivity"
+    },
+    {
+        "app_name": "长城期货专业版",
+        "package_name": "com.changchengqihuo.mhdxh",
+        "file_name": "com.changchengqihuo.mhdxh_204.apk",
+        "app_activity": "com.zhouzun.zgyj.MainActivity"
+    },
+    {
+        "app_name": "懒掌柜",
+        "package_name": "com.example.vtion.lanzhanggui",
+        "file_name": "com.example.vtion.lanzhanggui_205.apk",
+        "app_activity": "com.example.vtion.lanzhanggui.actities.LunChui"
+    },
+    {
+        "app_name": "掌上迈科",
+        "package_name": "com.maikeqihuo.mhdxh",
+        "file_name": "com.maikeqihuo.mhdxh_206.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "银元通",
+        "package_name": "com.jht.silvertong",
+        "file_name": "com.jht.silvertong_207.apk",
+        "app_activity": "com.jht.silvertong.WelcomeActivity"
+    },
+    {
+        "app_name": "国民养老",
+        "package_name": "com.guomin.insurance",
+        "file_name": "com.guomin.insurance_208.apk",
+        "app_activity": "com.zhongan.insurance.ui.activity.AppStartActivity"
+    },
+    {
+        "app_name": "杭银理财",
+        "package_name": "com.hzbankwealth.dsp",
+        "file_name": "com.hzbankwealth.dsp_209.apk",
+        "app_activity": "com.hzbankwealth.dsp.ui.SplashActivity"
+    },
+    {
+        "app_name": "先锋期货",
+        "package_name": "com.ruilongqihuo.mhdxh",
+        "file_name": "com.ruilongqihuo.mhdxh_210.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "中铁信托",
+        "package_name": "com.jinzheng.crtrust",
+        "file_name": "com.jinzheng.crtrust_211.apk",
+        "app_activity": "com.jinzheng.crtrust.ui.SplashActivity"
+    },
+    {
+        "app_name": "中航期货翼期通行",
+        "package_name": "com.zhonghangqihuo.mhdxh",
+        "file_name": "com.zhonghangqihuo.mhdxh_212.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "格上基金",
+        "package_name": "com.licai.gslicai",
+        "file_name": "com.licai.gslicai_213.apk",
+        "app_activity": "com.gstianfu.rice.android.ui.activities.SplashActivity"
+    },
+    {
+        "app_name": "i华贵",
+        "package_name": "com.qivan.hglife",
+        "file_name": "com.qivan.hglife_214.apk",
+        "app_activity": "com.qivan.hglife.MainActivity"
+    },
+    {
+        "app_name": "全掌柜",
+        "package_name": "com.qzg001.qzg",
+        "file_name": "com.qzg001.qzg_215.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "邮e保",
+        "package_name": "com.chinapost.life.branch",
+        "file_name": "com.chinapost.life.branch_216.apk",
+        "app_activity": "com.chinapost.life.branch.splash.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "乐居财经",
+        "package_name": "com.eju.mobile.leju.finance",
+        "file_name": "com.eju.mobile.leju.finance_217.apk",
+        "app_activity": "com.eju.mobile.leju.finance.WelcomActivity"
+    },
+    {
+        "app_name": "大盈私享",
+        "package_name": "com.wxtrust.wxpt",
+        "file_name": "com.wxtrust.wxpt_218.apk",
+        "app_activity": "fox.app.MainActivity"
+    },
+    {
+        "app_name": "中建投信托",
+        "package_name": "com.apex.zjtkh",
+        "file_name": "com.apex.zjtkh_219.apk",
+        "app_activity": "com.apex.zjtkh.MainActivity"
+    },
+    {
+        "app_name": "汇炒股",
+        "package_name": "cn.gzhzcj.hcg",
+        "file_name": "cn.gzhzcj.hcg_220.apk",
+        "app_activity": "cn.gzhzcj.hcg.model.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "华宝信托",
+        "package_name": "com.huabao.trust",
+        "file_name": "com.huabao.trust_221.apk",
+        "app_activity": "com.huabao.trust.activity.IntroductoryActivity"
+    },
+    {
+        "app_name": "五矿期货",
+        "package_name": "com.wkjyqh.wukuangqihuo",
+        "file_name": "com.wkjyqh.wukuangqihuo_222.apk",
+        "app_activity": "com.wkjyqh.wukuangqihuo.SplashActivity"
+    },
+    {
+        "app_name": "建信尊享",
+        "package_name": "com.ccbtrust.etrust",
+        "file_name": "com.ccbtrust.etrust_223.apk",
+        "app_activity": "com.ccbtrust.etrust.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "DM查债通",
+        "package_name": "com.innodealing.raymonkey",
+        "file_name": "com.innodealing.raymonkey_224.apk",
+        "app_activity": "com.innodealing.raymonkey.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "创元期货",
+        "package_name": "com.hundsun.stockwinner.cyqh",
+        "file_name": "com.hundsun.stockwinner.cyqh_225.apk",
+        "app_activity": "com.hundsun.winner.splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "大越期货",
+        "package_name": "com.hundsun.stockwinner.dyqh",
+        "file_name": "com.hundsun.stockwinner.dyqh_226.apk",
+        "app_activity": "com.hundsun.winner.splash.SplashActivity"
+    },
+    {
+        "app_name": "港信期货",
+        "package_name": "com.hundsun.stockwinner.gxqh",
+        "file_name": "com.hundsun.stockwinner.gxqh_227.apk",
+        "app_activity": "com.hundsun.winner.splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "华金期货",
+        "package_name": "com.hundsun.stockwinner.hjqh",
+        "file_name": "com.hundsun.stockwinner.hjqh_228.apk",
+        "app_activity": "com.hundsun.winner.splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "徽商e家",
+        "package_name": "com.hundsun.stockwinner.hsqh",
+        "file_name": "com.hundsun.stockwinner.hsqh_229.apk",
+        "app_activity": "com.hundsun.winner.splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "锦泰盈家",
+        "package_name": "com.hundsun.stockwinner.jtqh",
+        "file_name": "com.hundsun.stockwinner.jtqh_230.apk",
+        "app_activity": "com.hundsun.winner.splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "建信期货",
+        "package_name": "com.hundsun.stockwinner.jxqh",
+        "file_name": "com.hundsun.stockwinner.jxqh_231.apk",
+        "app_activity": "com.hundsun.winner.splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "三立期货",
+        "package_name": "com.hundsun.stockwinner.slqh",
+        "file_name": "com.hundsun.stockwinner.slqh_232.apk",
+        "app_activity": "com.hundsun.winner.splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "银河期货专业版",
+        "package_name": "com.hundsun.stockwinner.yhqh",
+        "file_name": "com.hundsun.stockwinner.yhqh_233.apk",
+        "app_activity": "com.hundsun.winner.splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "金瑞期货博易",
+        "package_name": "com.jinruiqihuo.mhdxh",
+        "file_name": "com.jinruiqihuo.mhdxh_234.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "择尔裕智慧",
+        "package_name": "com.plusbe.etffund",
+        "file_name": "com.plusbe.etffund_235.apk",
+        "app_activity": "com.zeyjr.bmc.std.module.common.BmcWelComeActivity"
+    },
+    {
+        "app_name": "徽商掌上财富",
+        "package_name": "com.huishangqihuo.mhdxh",
+        "file_name": "com.huishangqihuo.mhdxh_236.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "瑞达期货通",
+        "package_name": "com.ruida.qihuotong",
+        "file_name": "com.ruida.qihuotong_237.apk",
+        "app_activity": "com.ruida.qihuotong.ui.activity.FirstActivity"
+    },
+    {
+        "app_name": "长城国瑞通达信",
+        "package_name": "com.tdx.AndroidCCGR",
+        "file_name": "com.tdx.AndroidCCGR_238.apk",
+        "app_activity": "com.tdx.Android.TdxAndroidActivity"
+    },
+    {
+        "app_name": "华联掌上财富",
+        "package_name": "com.hualianqihuo.mhdxh",
+        "file_name": "com.hualianqihuo.mhdxh_239.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "深交所期权",
+        "package_name": "cn.szse.qiquan",
+        "file_name": "cn.szse.qiquan_240.apk",
+        "app_activity": "cn.szse.qiquan.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "杭州工商信托",
+        "package_name": "com.hgsxt.hgsxtkhapp",
+        "file_name": "com.hgsxt.hgsxtkhapp_241.apk",
+        "app_activity": "com.hgsxt.hgsxtkhapp.WelcomeActivity"
+    },
+    {
+        "app_name": "紫易保",
+        "package_name": "com.zking.zyb",
+        "file_name": "com.zking.zyb_242.apk",
+        "app_activity": "com.zking.zyb.MainActivity"
+    },
+    {
+        "app_name": "助推",
+        "package_name": "com.sevenmin.app",
+        "file_name": "com.sevenmin.app_243.apk",
+        "app_activity": "com.sevenmin.app.activity.WelComeActivity"
+    },
+    {
+        "app_name": "国华人寿",
+        "package_name": "com.ebiz.guohua",
+        "file_name": "com.ebiz.guohua_244.apk",
+        "app_activity": "com.guohua.life.splash.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "大华尊享财富",
+        "package_name": "com.uobchina.dbank",
+        "file_name": "com.uobchina.dbank_245.apk",
+        "app_activity": "cn.com.dhdbank.ui.activity.start.SplashActivity"
+    },
+    {
+        "app_name": "天下金属",
+        "package_name": "com.gjmetal.app",
+        "file_name": "com.gjmetal.app_246.apk",
+        "app_activity": "com.gjmetal.app.ui.welcome.NewUserGuideActivity"
+    },
+    {
+        "app_name": "SPay",
+        "package_name": "cn.swiftpass.enterprise.wft.v4.appstore",
+        "file_name": "cn.swiftpass.enterprise.wft.v4.appstore_247.apk",
+        "app_activity": "cn.swiftpass.enterprise.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "渤海期货随e赢",
+        "package_name": "com.bohaiqihuo.mhdxh",
+        "file_name": "com.bohaiqihuo.mhdxh_248.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "百瑞信托",
+        "package_name": "com.brxt.brxtkhapp",
+        "file_name": "com.brxt.brxtkhapp_249.apk",
+        "app_activity": "com.brxt.brxtkhapp.WelcomeActivity"
+    },
+    {
+        "app_name": "大操盘手",
+        "package_name": "com.agutong.trader",
+        "file_name": "com.agutong.trader_250.apk",
+        "app_activity": "com.agutong.trader.TraderActivity"
+    },
+    {
+        "app_name": "人保V盟",
+        "package_name": "com.picc.vmeng",
+        "file_name": "com.picc.vmeng_251.apk",
+        "app_activity": "com.picc.vmeng.module.launch.SplashActivity"
+    },
+    {
+        "app_name": "星辰计划",
+        "package_name": "com.axinsur.star",
+        "file_name": "com.axinsur.star_252.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "华夏活期通",
+        "package_name": "com.chinaamc.mfbh.amcActivity",
+        "file_name": "com.chinaamc.mfbh.amcActivity_253.apk",
+        "app_activity": "com.chinaamc.mfbh.amcActivity.SplashActivity"
+    },
+    {
+        "app_name": "交银人寿",
+        "package_name": "com.bocommlife.healthywalk",
+        "file_name": "com.bocommlife.healthywalk_254.apk",
+        "app_activity": "com.bocommlife.healthywalk.activity.SplashActivity"
+    },
+    {
+        "app_name": "睿兽分析",
+        "package_name": "com.cyzone.bestla",
+        "file_name": "com.cyzone.bestla_255.apk",
+        "app_activity": "com.cyzone.bestla.SplashActivity"
+    },
+    {
+        "app_name": "长安信托",
+        "package_name": "cn.caitc.cajinfu",
+        "file_name": "cn.caitc.cajinfu_256.apk",
+        "app_activity": "cn.caitc.cajinfu.ui.welcome.Welcome1Activity"
+    },
+    {
+        "app_name": "中证金牛座",
+        "package_name": "cn.com.cs.app",
+        "file_name": "cn.com.cs.app_257.apk",
+        "app_activity": "com.jd.jt2.app.activities.JT2SplashActivity"
+    },
+    {
+        "app_name": "东华乐投",
+        "package_name": "com.donghuaqihuo.mhdxh",
+        "file_name": "com.donghuaqihuo.mhdxh_258.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "掌上宏源",
+        "package_name": "com.hongyuanqihuo.mhdxh",
+        "file_name": "com.hongyuanqihuo.mhdxh_259.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "京英保",
+        "package_name": "com.beijinglife.iimp",
+        "file_name": "com.beijinglife.iimp_260.apk",
+        "app_activity": "com.beijinglife.iimp.splash.SplashActivity"
+    },
+    {
+        "app_name": "储赢家",
+        "package_name": "com.zhongcheng.dzh",
+        "file_name": "com.zhongcheng.dzh_261.apk",
+        "app_activity": "com.android.dazhihui.dzh.dzh"
+    },
+    {
+        "app_name": "普兰村",
+        "package_name": "com.purang.pbd",
+        "file_name": "com.purang.pbd_262.apk",
+        "app_activity": "com.purang.pbd.ui.loading.WelcomeActivity"
+    },
+    {
+        "app_name": "华鑫证券股票开户",
+        "package_name": "com.zztzt.hxsckh",
+        "file_name": "com.zztzt.hxsckh_263.apk",
+        "app_activity": "thinkive.websdk.MainActivity"
+    },
+    {
+        "app_name": "齐盛期货",
+        "package_name": "com.zhaojinqihuo.mhdxh",
+        "file_name": "com.zhaojinqihuo.mhdxh_264.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "国信企明星",
+        "package_name": "com.guosen.android.go",
+        "file_name": "com.guosen.android.go_265.apk",
+        "app_activity": "com.guosen.app.go.splash.ui.SplashAct"
+    },
+    {
+        "app_name": "金汇财富",
+        "package_name": "com.jinhuicaifu.mhdxh",
+        "file_name": "com.jinhuicaifu.mhdxh_266.apk",
+        "app_activity": "com.pengbo.pbmobile.startup.PbStartupActivity"
+    },
+    {
+        "app_name": "苏银天天理财",
+        "package_name": "com.suyinwealth.ttlc",
+        "file_name": "com.suyinwealth.ttlc_267.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    }
+]

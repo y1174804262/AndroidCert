@@ -1,0 +1,1628 @@
+[
+    {
+        "app_name": "龙易行",
+        "package_name": "com.njusoft.LyxBus",
+        "file_name": "com.njusoft.LyxBus_1.apk",
+        "app_activity": "com.njusoft.LyxBus.uis.common.SplashActivity"
+    },
+    {
+        "app_name": "长春公交",
+        "package_name": "com.tiamaes.tmbus.changchunxing",
+        "file_name": "com.tiamaes.tmbus.changchunxing_2.apk",
+        "app_activity": "com.tiamaes.tmbus.activity.LoadingActivity"
+    },
+    {
+        "app_name": "花城智慧公交",
+        "package_name": "com.hisense.pzhbluebus",
+        "file_name": "com.hisense.pzhbluebus_3.apk",
+        "app_activity": "com.dk.qingdaobus.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "到站先知",
+        "package_name": "com.simplecaricatu.exactin",
+        "file_name": "com.simplecaricatu.exactin_4.apk",
+        "app_activity": "com.javad.module.launch.AliasMainActivity"
+    },
+    {
+        "app_name": "临汾掌上公交",
+        "package_name": "com.sdhy.linfen",
+        "file_name": "com.sdhy.linfen_5.apk",
+        "app_activity": "main.smart.activity.InitActivity"
+    },
+    {
+        "app_name": "谷城智慧掌上公交",
+        "package_name": "main.smart.gucheng",
+        "file_name": "main.smart.gucheng_6.apk",
+        "app_activity": "main.smart.bus.login.ui.SplashActivity"
+    },
+    {
+        "app_name": "六安公交",
+        "package_name": "com.hisense.liuanbus",
+        "file_name": "com.hisense.liuanbus_7.apk",
+        "app_activity": "com.dk.qingdaobus.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "岭南通",
+        "package_name": "com.lingnanpass",
+        "file_name": "com.lingnanpass_8.apk",
+        "app_activity": "com.lingnanpass.GuideActivity"
+    },
+    {
+        "app_name": "等等公交",
+        "package_name": "com.tm.waitbus",
+        "file_name": "com.tm.waitbus_9.apk",
+        "app_activity": "com.tm.waitbus.WelcomeActivity"
+    },
+    {
+        "app_name": "如约交通",
+        "package_name": "com.gzyct.ruyueapp",
+        "file_name": "com.gzyct.ruyueapp_10.apk",
+        "app_activity": "com.gzyct.splash.SplashActivity"
+    },
+    {
+        "app_name": "实时公交出行",
+        "package_name": "com.vmijph.dkgxvc",
+        "file_name": "com.vmijph.dkgxvc_11.apk",
+        "app_activity": "com.vmijph.dkgxvc.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "宁波市民卡",
+        "package_name": "cn.com.nbcard",
+        "file_name": "cn.com.nbcard_12.apk",
+        "app_activity": "cn.com.nbcard.base.ui.SplashActivity"
+    },
+    {
+        "app_name": "一路同行",
+        "package_name": "com.zd.traveller.beijing",
+        "file_name": "com.zd.traveller.beijing_13.apk",
+        "app_activity": "com.sutpc.bjfy.customer.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "嘉峪关出行",
+        "package_name": "com.cictec.jiayuguan.intelligence.travel",
+        "file_name": "com.cictec.jiayuguan.intelligence.travel_14.apk",
+        "app_activity": "com.cictec.jiayuguan.intelligence.travel.LoadingActivity"
+    },
+    {
+        "app_name": "公交e一卡通",
+        "package_name": "com.zhaoxin.ccm",
+        "file_name": "com.zhaoxin.ccm_15.apk",
+        "app_activity": "com.sqcatfix.ccm.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "魅力湘西行",
+        "package_name": "com.whpe.qrcode.hunan.xiangxi",
+        "file_name": "com.whpe.qrcode.hunan.xiangxi_16.apk",
+        "app_activity": "com.whpe.qrcode.hunan.xiangxi.activity.ActivitySplash"
+    },
+    {
+        "app_name": "雪城出行",
+        "package_name": "com.pandabus.android.mudanjiang",
+        "file_name": "com.pandabus.android.mudanjiang_17.apk",
+        "app_activity": "com.pandabus.android.mudanjiang.zhenggai.LauncherActivity"
+    },
+    {
+        "app_name": "石慧行",
+        "package_name": "com.bwton.sjzmetro",
+        "file_name": "com.bwton.sjzmetro_18.apk",
+        "app_activity": "com.bwton.metro.lanuch.LanuchActivity"
+    },
+    {
+        "app_name": "实时公交NFC出行",
+        "package_name": "com.anqingjl.xzgj",
+        "file_name": "com.anqingjl.xzgj_19.apk",
+        "app_activity": "com.sqcatfix.emptyproject.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "青岛地铁",
+        "package_name": "com.sdjictec.qdmetro",
+        "file_name": "com.sdjictec.qdmetro_20.apk",
+        "app_activity": "com.sdjictec.qdmetro.module.start.StartActivity"
+    },
+    {
+        "app_name": "车来了公交大字版",
+        "package_name": "com.ygkj.chelaile.standard.bigfont",
+        "file_name": "com.ygkj.chelaile.standard.bigfont_21.apk",
+        "app_activity": "dev.xesam.chelaile.app.module.func.SplashActivity"
+    },
+    {
+        "app_name": "烟台出行",
+        "package_name": "com.jiaodong.bus",
+        "file_name": "com.jiaodong.bus_22.apk",
+        "app_activity": "com.jiaodong.bus.LogoActivity"
+    },
+    {
+        "app_name": "上海交通卡",
+        "package_name": "com.jiuyu.sptcc.cordova",
+        "file_name": "com.jiuyu.sptcc.cordova_23.apk",
+        "app_activity": "com.jy.sptcc.ui.StartActivity"
+    },
+    {
+        "app_name": "咸阳公交",
+        "package_name": "com.whpe.qrcode.shanxi.xianyang",
+        "file_name": "com.whpe.qrcode.shanxi.xianyang_24.apk",
+        "app_activity": "com.whpe.qrcode.shanxi.xianyang.activity.ActivityMain"
+    },
+    {
+        "app_name": "徐州出行",
+        "package_name": "com.bangdao.app.xzjk",
+        "file_name": "com.bangdao.app.xzjk_25.apk",
+        "app_activity": "com.bangdao.app.xzjk.SplashActivity"
+    },
+    {
+        "app_name": "与宁同行",
+        "package_name": "com.njmetro.njb",
+        "file_name": "com.njmetro.njb_26.apk",
+        "app_activity": "com.bwton.metro.lanuch.LanuchActivity"
+    },
+    {
+        "app_name": "赤峰掌上公交",
+        "package_name": "main.smart.chifeng",
+        "file_name": "main.smart.chifeng_27.apk",
+        "app_activity": "main.smart.bus.login.ui.SplashActivity"
+    },
+    {
+        "app_name": "商易行",
+        "package_name": "org.zzmetro.eticket",
+        "file_name": "org.zzmetro.eticket_28.apk",
+        "app_activity": "org.zzmetro.eticket.mvvm.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "浔城通",
+        "package_name": "com.pandabus.android.jiujiang",
+        "file_name": "com.pandabus.android.jiujiang_29.apk",
+        "app_activity": "com.pandabus.android.jiujiang.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "坐公交",
+        "package_name": "com.lty.zuogongjiao.app",
+        "file_name": "com.lty.zuogongjiao.app_30.apk",
+        "app_activity": "com.lty.zuogongjiao.app.ui.splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "宿州掌上公交",
+        "package_name": "io.twdt.suzhoubus",
+        "file_name": "io.twdt.suzhoubus_31.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "绍兴市民云",
+        "package_name": "com.increator.sxsmk",
+        "file_name": "com.increator.sxsmk_32.apk",
+        "app_activity": "com.increator.sxsmk.app.login.ui.LaunchActivity"
+    },
+    {
+        "app_name": "太仓一卡通",
+        "package_name": "com.increator.tcsmk",
+        "file_name": "com.increator.tcsmk_33.apk",
+        "app_activity": "com.increator.tcsmk.base.user.ui.LaunchActivity"
+    },
+    {
+        "app_name": "出差行程备忘录",
+        "package_name": "cn.lalawangluo.fly",
+        "file_name": "cn.lalawangluo.fly_34.apk",
+        "app_activity": "cn.lalawangluo.fly.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "高铁通",
+        "package_name": "com.gao.tietongis",
+        "file_name": "com.gao.tietongis_35.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "无锡智慧公交",
+        "package_name": "com.wuxibus.app",
+        "file_name": "com.wuxibus.app_36.apk",
+        "app_activity": "com.wuxibus.app.ui.activity.BeginningActivity"
+    },
+    {
+        "app_name": "掌上实时公交",
+        "package_name": "com.teredy.metro",
+        "file_name": "com.teredy.metro_37.apk",
+        "app_activity": "com.sqcatfix.emptyproject.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "实时地铁出行",
+        "package_name": "com.kczqz.myhsmd",
+        "file_name": "com.kczqz.myhsmd_38.apk",
+        "app_activity": "com.kczqz.myhsmd.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "武夷通",
+        "package_name": "com.pandabus.android.wuyi",
+        "file_name": "com.pandabus.android.wuyi_39.apk",
+        "app_activity": "com.pandabus.android.wuyi.GuideActivity"
+    },
+    {
+        "app_name": "随申行",
+        "package_name": "cn.shmaas.maas",
+        "file_name": "cn.shmaas.maas_40.apk",
+        "app_activity": "cn.shmaas.maas.main.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "兰州轨道APP",
+        "package_name": "com.gstb.railserviceplatform",
+        "file_name": "com.gstb.railserviceplatform_41.apk",
+        "app_activity": "com.gstb.railserviceplatform.mvvm.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "湘行一卡通",
+        "package_name": "com.txmpay.csewallet",
+        "file_name": "com.txmpay.csewallet_42.apk",
+        "app_activity": "cn.gov.hunan.jtt.bus.feature.splash.SplashActivity"
+    },
+    {
+        "app_name": "恒风行",
+        "package_name": "com.pandabus.android.hengfengxing",
+        "file_name": "com.pandabus.android.hengfengxing_43.apk",
+        "app_activity": "com.pandabus.android.hengfengxing.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "沧州行2.0",
+        "package_name": "com.pandabus.android.cangzhoubus",
+        "file_name": "com.pandabus.android.cangzhoubus_44.apk",
+        "app_activity": "com.pandabus.android.cangzhoubus.zhenggai.LauncherActivity"
+    },
+    {
+        "app_name": "宜出行",
+        "package_name": "com.chinarainbow.yc",
+        "file_name": "com.chinarainbow.yc_45.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "智轨通",
+        "package_name": "bus.yibin.systech.com.zhigui",
+        "file_name": "bus.yibin.systech.com.zhigui_46.apk",
+        "app_activity": "bus.yibin.systech.com.zhigui.View.Activity.GuideActivity"
+    },
+    {
+        "app_name": "汴梁通",
+        "package_name": "www.joycard.org.kfqrcodebus",
+        "file_name": "www.joycard.org.kfqrcodebus_47.apk",
+        "app_activity": "www.joycard.org.gongjioaqrcodebus.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "金湖e出行",
+        "package_name": "com.njusoft.jhtrip",
+        "file_name": "com.njusoft.jhtrip_48.apk",
+        "app_activity": "com.njusoft.jhtrip.uis.common.SplashActivity"
+    },
+    {
+        "app_name": "杭州公共交通",
+        "package_name": "com.dtdream.publictransit",
+        "file_name": "com.dtdream.publictransit_49.apk",
+        "app_activity": "com.dtchuxing.app.ui.SplashActivity"
+    },
+    {
+        "app_name": "淮北智行",
+        "package_name": "com.cictec.huaibei.intelligence.travel",
+        "file_name": "com.cictec.huaibei.intelligence.travel_50.apk",
+        "app_activity": "com.cictec.huaibei.intelligence.travel.ui.LaunchActivity"
+    },
+    {
+        "app_name": "大连交通e出行",
+        "package_name": "com.dlmetro.app",
+        "file_name": "com.dlmetro.app_51.apk",
+        "app_activity": "com.bwton.metro.lanuch.LanuchActivity"
+    },
+    {
+        "app_name": "成都地铁",
+        "package_name": "cderg.cocc.cocc_cdids",
+        "file_name": "cderg.cocc.cocc_cdids_52.apk",
+        "app_activity": "cderg.cocc.cocc_cdids.mvvm.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "武汉公交",
+        "package_name": "com.ixiaoma.wuhanbus",
+        "file_name": "com.ixiaoma.wuhanbus_53.apk",
+        "app_activity": "com.ixiaoma.wuhanbus.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "北京实时公交",
+        "package_name": "com.bluemobile.bbbus",
+        "file_name": "com.bluemobile.bbbus_54.apk",
+        "app_activity": "com.bluemobile.bbbus.SplashActivity"
+    },
+    {
+        "app_name": "上海公交查询",
+        "package_name": "com.bluemobile.shbus",
+        "file_name": "com.bluemobile.shbus_55.apk",
+        "app_activity": "com.bluemobile.shbus.SplashActivity"
+    },
+    {
+        "app_name": "鹰城公交卡",
+        "package_name": "com.whpe.qrcode.pingdingshan",
+        "file_name": "com.whpe.qrcode.pingdingshan_56.apk",
+        "app_activity": "com.whpe.qrcode.pingdingshan.activity.ActivityMain"
+    },
+    {
+        "app_name": "8684实时公交",
+        "package_name": "cn.chinabus.main",
+        "file_name": "cn.chinabus.main_57.apk",
+        "app_activity": "cn.chinabus.main.ui.SplashActivity"
+    },
+    {
+        "app_name": "济宁公交",
+        "package_name": "com.whpe.qrcode.shandong.jining",
+        "file_name": "com.whpe.qrcode.shandong.jining_58.apk",
+        "app_activity": "com.whpe.qrcode.shandong.jining.activity.ActivityMainNew"
+    },
+    {
+        "app_name": "桐城掌上公交",
+        "package_name": "main.smart.tongcheng",
+        "file_name": "main.smart.tongcheng_59.apk",
+        "app_activity": "main.smart.bus.login.ui.SplashActivity"
+    },
+    {
+        "app_name": "菏泽公交369",
+        "package_name": "com.hysoft.smartbushz",
+        "file_name": "com.hysoft.smartbushz_60.apk",
+        "app_activity": "main.smart.activity.SplashActivity"
+    },
+    {
+        "app_name": "北京交通",
+        "package_name": "com.aibang.bjtraffic",
+        "file_name": "com.aibang.bjtraffic_61.apk",
+        "app_activity": "com.aibang.bjtraffic.view.activity.HelloActivity"
+    },
+    {
+        "app_name": "阳泉公交通",
+        "package_name": "com.hisense.yqbus",
+        "file_name": "com.hisense.yqbus_62.apk",
+        "app_activity": "com.example.hisenses.M01_StartActivity"
+    },
+    {
+        "app_name": "成都公交",
+        "package_name": "org.gioneco.cdbus",
+        "file_name": "org.gioneco.cdbus_63.apk",
+        "app_activity": "org.gioneco.cdbus.mvvm.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "咸宁枫丹一卡通",
+        "package_name": "com.whpe.qrcode.hubei.xianning",
+        "file_name": "com.whpe.qrcode.hubei.xianning_64.apk",
+        "app_activity": "com.whpe.qrcode.hubei.xianning.activity.ActivitySplash"
+    },
+    {
+        "app_name": "平度城市公交",
+        "package_name": "com.ibuscloud.pingdubus",
+        "file_name": "com.ibuscloud.pingdubus_65.apk",
+        "app_activity": "com.dtchuxing.app.ui.SplashActivity"
+    },
+    {
+        "app_name": "长沙地铁",
+        "package_name": "com.chinasofti.shanghaihuateng.metroapp",
+        "file_name": "com.chinasofti.shanghaihuateng.metroapp_66.apk",
+        "app_activity": "com.chinasofti.shanghaihuateng.metroapp.main.MainActivity"
+    },
+    {
+        "app_name": "苏e行",
+        "package_name": "com.bwton.szfreego",
+        "file_name": "com.bwton.szfreego_67.apk",
+        "app_activity": "com.bwton.szfreego.business.LaunchActivity"
+    },
+    {
+        "app_name": "Metro新时代",
+        "package_name": "com.wimetro.iafc",
+        "file_name": "com.wimetro.iafc_68.apk",
+        "app_activity": "com.alipay.mobile.quinox.LauncherActivity"
+    },
+    {
+        "app_name": "城运e生活",
+        "package_name": "uni.chengyunoutapp",
+        "file_name": "uni.chengyunoutapp_69.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "南通地铁",
+        "package_name": "com.speedits.ntb",
+        "file_name": "com.speedits.ntb_70.apk",
+        "app_activity": "com.speedits.ntb.activity.LauncherActivity"
+    },
+    {
+        "app_name": "途安出行",
+        "package_name": "com.ixiaoma.zigongbus",
+        "file_name": "com.ixiaoma.zigongbus_71.apk",
+        "app_activity": "com.ixiaoma.zigongbus.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "上海地铁",
+        "package_name": "com.shmetro",
+        "file_name": "com.shmetro_72.apk",
+        "app_activity": "com.shmetro.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "畅行南京",
+        "package_name": "com.chinarainbow.cxnj.njzxc",
+        "file_name": "com.chinarainbow.cxnj.njzxc_73.apk",
+        "app_activity": "com.chinarainbow.cxnj.njzxc.activity.LoadingActivity"
+    },
+    {
+        "app_name": "韩国地铁",
+        "package_name": "com.hanyouwang.metro",
+        "file_name": "com.hanyouwang.metro_74.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "日本地铁",
+        "package_name": "com.tripsters.japanmetro",
+        "file_name": "com.tripsters.japanmetro_75.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "东营智慧公交",
+        "package_name": "com.cictec.wisdombus.dongying",
+        "file_name": "com.cictec.wisdombus.dongying_76.apk",
+        "app_activity": "com.cictec.wisdombus.dongying.LoadingActivity"
+    },
+    {
+        "app_name": "三明交运",
+        "package_name": "com.luqiao.smbus",
+        "file_name": "com.luqiao.smbus_77.apk",
+        "app_activity": "com.luqiao.smbus.core.main.view.LaunchActivity"
+    },
+    {
+        "app_name": "厦门公交",
+        "package_name": "com.luqiao.xmbus",
+        "file_name": "com.luqiao.xmbus_78.apk",
+        "app_activity": "com.luqiao.xmbus.core.main.view.LaunchActivity"
+    },
+    {
+        "app_name": "十堰公交",
+        "package_name": "com.ixiaoma.shiyanbus",
+        "file_name": "com.ixiaoma.shiyanbus_79.apk",
+        "app_activity": "com.ixiaoma.shiyanbus.LauncherActivity"
+    },
+    {
+        "app_name": "智能实时公交",
+        "package_name": "com.vdkkuv.bnuqsmwf",
+        "file_name": "com.vdkkuv.bnuqsmwf_80.apk",
+        "app_activity": "com.vdkkuv.bnuqsmwf.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "常州行",
+        "package_name": "com.czx.axbapp",
+        "file_name": "com.czx.axbapp_81.apk",
+        "app_activity": "com.czx.axbapp.ui.activity.LoadingActivity"
+    },
+    {
+        "app_name": "大连公交在线",
+        "package_name": "com.dlgj.hujia",
+        "file_name": "com.dlgj.hujia_82.apk",
+        "app_activity": "com.dlgj.hujia.activity.LauncherNewActivity"
+    },
+    {
+        "app_name": "掌上青城",
+        "package_name": "com.gjcx.zsgj",
+        "file_name": "com.gjcx.zsgj_83.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "广州地铁",
+        "package_name": "com.infothinker.gzmetro",
+        "file_name": "com.infothinker.gzmetro_84.apk",
+        "app_activity": "com.infothinker.gzmetro.ActivityAgent"
+    },
+    {
+        "app_name": "准点出行",
+        "package_name": "com.pandabus.android.tengzhou",
+        "file_name": "com.pandabus.android.tengzhou_85.apk",
+        "app_activity": "com.pandabus.android.tengzhou.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "东莞通",
+        "package_name": "com.futurefleet.dongguantongbus.ui.dg",
+        "file_name": "com.futurefleet.dongguantongbus.ui.dg_86.apk",
+        "app_activity": "com.unionpay.smartDG.activity.UPSplashActivity"
+    },
+    {
+        "app_name": "渝畅行",
+        "package_name": "com.bwton.msx.cqb",
+        "file_name": "com.bwton.msx.cqb_87.apk",
+        "app_activity": "com.bwton.metro.lanuch.LanuchActivity"
+    },
+    {
+        "app_name": "常州地铁Metro",
+        "package_name": "com.bwton.msx.czb",
+        "file_name": "com.bwton.msx.czb_88.apk",
+        "app_activity": "com.bwton.metro.lanuch.LanuchActivity"
+    },
+    {
+        "app_name": "福州地铁码上行",
+        "package_name": "com.bwton.msx.fzb",
+        "file_name": "com.bwton.msx.fzb_89.apk",
+        "app_activity": "com.bwton.metro.lanuch.LanuchActivity"
+    },
+    {
+        "app_name": "智慧通行",
+        "package_name": "com.bwton.msx.kmb",
+        "file_name": "com.bwton.msx.kmb_90.apk",
+        "app_activity": "com.bwton.metro.lanuch.LanuchActivity"
+    },
+    {
+        "app_name": "洛易行",
+        "package_name": "com.bwton.msx.lyb",
+        "file_name": "com.bwton.msx.lyb_91.apk",
+        "app_activity": "com.bwton.metro.lanuch.LanuchActivity"
+    },
+    {
+        "app_name": "鹭鹭行",
+        "package_name": "com.bwton.msx.ncb",
+        "file_name": "com.bwton.msx.ncb_92.apk",
+        "app_activity": "com.bwton.metro.lanuch.LanuchActivity"
+    },
+    {
+        "app_name": "听景",
+        "package_name": "com.bwton.msx.tyb",
+        "file_name": "com.bwton.msx.tyb_93.apk",
+        "app_activity": "com.bwton.msx.tyb.mvvm.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "手机乘车码NFC实时公交",
+        "package_name": "com.nanjingmsm.nfcibus",
+        "file_name": "com.nanjingmsm.nfcibus_94.apk",
+        "app_activity": "com.nanjingmsm.nfcibus.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "Metro大都会",
+        "package_name": "com.app.shanghai.metro",
+        "file_name": "com.app.shanghai.metro_95.apk",
+        "app_activity": "com.app.shanghai.metro.SplashActivity"
+    },
+    {
+        "app_name": "车来了",
+        "package_name": "com.ygkj.chelaile.standard",
+        "file_name": "com.ygkj.chelaile.standard_96.apk",
+        "app_activity": "dev.xesam.chelaile.app.module.func.SplashActivity"
+    },
+    {
+        "app_name": "天气公交",
+        "package_name": "com.xmei.weaher",
+        "file_name": "com.xmei.weaher_97.apk",
+        "app_activity": "com.xmei.weaher.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "安阳行",
+        "package_name": "com.tiamaes.citytalk",
+        "file_name": "com.tiamaes.citytalk_98.apk",
+        "app_activity": "com.le.xuanyuantong.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "益阳行",
+        "package_name": "com.zhcx.realtimebus",
+        "file_name": "com.zhcx.realtimebus_99.apk",
+        "app_activity": "com.zhcx.realtimebus.ui.start.StartUpPagerActivity"
+    },
+    {
+        "app_name": "枣庄公交",
+        "package_name": "main.smart.zaozhuang",
+        "file_name": "main.smart.zaozhuang_100.apk",
+        "app_activity": "main.smart.bus.login.ui.SplashActivity"
+    },
+    {
+        "app_name": "Metro丝路行",
+        "package_name": "com.inwhoop.mvpart.xinjiang_subway",
+        "file_name": "com.inwhoop.mvpart.xinjiang_subway_101.apk",
+        "app_activity": "com.inwhoop.mvpart.xinjiang_subway.mvp.ui.activity.login.WelcomeActivity"
+    },
+    {
+        "app_name": "济南地铁",
+        "package_name": "com.chinasofti.shanghaihuateng.jnmetroapp",
+        "file_name": "com.chinasofti.shanghaihuateng.jnmetroapp_102.apk",
+        "app_activity": "com.example.boya.importproject.activity.main.enter.SpalshActivity"
+    },
+    {
+        "app_name": "青岛公交查询",
+        "package_name": "com.qingdaonews.bus",
+        "file_name": "com.qingdaonews.bus_103.apk",
+        "app_activity": "com.qingdaonews.bus.SplashActivity"
+    },
+    {
+        "app_name": "雄安行",
+        "package_name": "com.sutpc.bjfy.customer",
+        "file_name": "com.sutpc.bjfy.customer_104.apk",
+        "app_activity": "com.sutpc.bjfy.customer.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "智行黄山掌上公交",
+        "package_name": "com.hysoft.huangshan",
+        "file_name": "com.hysoft.huangshan_105.apk",
+        "app_activity": "main.smart.activity.InitActivity"
+    },
+    {
+        "app_name": "天骄通",
+        "package_name": "com.broadthinking.traffic.ordos",
+        "file_name": "com.broadthinking.traffic.ordos_106.apk",
+        "app_activity": "com.broadthinking.traffic.ordos.business.account.activity.SplashActivity"
+    },
+    {
+        "app_name": "达州一卡通",
+        "package_name": "com.tongcheng.transport.dazhou",
+        "file_name": "com.tongcheng.transport.dazhou_107.apk",
+        "app_activity": "com.tongcheng.transport.feature.main.MainActivity"
+    },
+    {
+        "app_name": "绍兴地铁",
+        "package_name": "com.sxmetro.sxb",
+        "file_name": "com.sxmetro.sxb_108.apk",
+        "app_activity": "com.bwton.metro.lanuch.LanuchActivity"
+    },
+    {
+        "app_name": "长江行",
+        "package_name": "com.renrbang.yangtzetour",
+        "file_name": "com.renrbang.yangtzetour_109.apk",
+        "app_activity": "com.renrbang.yangtzetour.ui.SplashActivity"
+    },
+    {
+        "app_name": "掌尚公交",
+        "package_name": "com.xmlenz.bus",
+        "file_name": "com.xmlenz.bus_110.apk",
+        "app_activity": "com.xmlenz.bus.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "畅行锦州",
+        "package_name": "com.tiamaes.tmbus.jinzhou",
+        "file_name": "com.tiamaes.tmbus.jinzhou_111.apk",
+        "app_activity": "com.tiamaes.tmbus.activity.LoadingActivity"
+    },
+    {
+        "app_name": "榆林公交",
+        "package_name": "com.cictec.yulin.intelligence.travel",
+        "file_name": "com.cictec.yulin.intelligence.travel_112.apk",
+        "app_activity": "com.cictec.yulin.intelligence.travel.LoadingActivity"
+    },
+    {
+        "app_name": "大同公交",
+        "package_name": "com.cictec.datong.intelligence.travel",
+        "file_name": "com.cictec.datong.intelligence.travel_113.apk",
+        "app_activity": "com.cictec.datong.intelligence.travel.modular.LoadingActivity"
+    },
+    {
+        "app_name": "金轨智行",
+        "package_name": "com.chinasofti.shanghaihuateng.jinhuametro",
+        "file_name": "com.chinasofti.shanghaihuateng.jinhuametro_114.apk",
+        "app_activity": "com.chinasofti.shanghaihuateng.jinhuametro.activity.user.SpalshActivity"
+    },
+    {
+        "app_name": "海宁出行",
+        "package_name": "com.pandabus.android.haining",
+        "file_name": "com.pandabus.android.haining_115.apk",
+        "app_activity": "com.pandabus.android.haining.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "全澄通",
+        "package_name": "com.pandabus.quanchengtong",
+        "file_name": "com.pandabus.quanchengtong_116.apk",
+        "app_activity": "com.pandabus.android.quanchengtong.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "安东行",
+        "package_name": "com.bus.card",
+        "file_name": "com.bus.card_117.apk",
+        "app_activity": "com.bus.card.mvp.ui.activity.guide.SplashActivity"
+    },
+    {
+        "app_name": "廊坊行",
+        "package_name": "com.mygolbs.mybuslf",
+        "file_name": "com.mygolbs.mybuslf_118.apk",
+        "app_activity": "com.mygolbs.mybus.LoginActivity"
+    },
+    {
+        "app_name": "顺义公交",
+        "package_name": "com.mygolbs.mybussy",
+        "file_name": "com.mygolbs.mybussy_119.apk",
+        "app_activity": "com.mygolbs.mybus.LoginActivity"
+    },
+    {
+        "app_name": "台州出行",
+        "package_name": "com.mygolbs.mybustz",
+        "file_name": "com.mygolbs.mybustz_120.apk",
+        "app_activity": "com.mygolbs.mybus.LoginActivity"
+    },
+    {
+        "app_name": "我看行",
+        "package_name": "com.mygolbs.mybuswz",
+        "file_name": "com.mygolbs.mybuswz_121.apk",
+        "app_activity": "com.mygolbs.mybus.LoginActivity"
+    },
+    {
+        "app_name": "嵊州公交",
+        "package_name": "com.pandabus.android.shengzhoubus",
+        "file_name": "com.pandabus.android.shengzhoubus_122.apk",
+        "app_activity": "com.pandabus.android.shengzhoubus.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "城轨易行",
+        "package_name": "com.bwton.msx.cgyxapp",
+        "file_name": "com.bwton.msx.cgyxapp_123.apk",
+        "app_activity": "com.bwton.metro.lanuch.lanuch.LaunchActivity"
+    },
+    {
+        "app_name": "本溪出行",
+        "package_name": "com.tiamaes.tmbus.benxi",
+        "file_name": "com.tiamaes.tmbus.benxi_124.apk",
+        "app_activity": "com.tiamaes.tmbus.activity.LoadingActivity"
+    },
+    {
+        "app_name": "地铁查询宝",
+        "package_name": "com.easy.subway",
+        "file_name": "com.easy.subway_125.apk",
+        "app_activity": "com.base.basejavaproject.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "洛阳行",
+        "package_name": "com.lyx.tuoyue",
+        "file_name": "com.lyx.tuoyue_126.apk",
+        "app_activity": "com.lyx.tuoyue.MainActivity"
+    },
+    {
+        "app_name": "掌上实时公交车",
+        "package_name": "cn.weixiaowenghua.gjc",
+        "file_name": "cn.weixiaowenghua.gjc_127.apk",
+        "app_activity": "com.sqcatfix.emptyproject.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "衢州行",
+        "package_name": "com.futurefleet.PandaBusQuZhou",
+        "file_name": "com.futurefleet.PandaBusQuZhou_128.apk",
+        "app_activity": "com.futurefleet.PandaBusQuZhou.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "深圳公交助乘",
+        "package_name": "mo.gov.dsat.bis.sz",
+        "file_name": "mo.gov.dsat.bis.sz_129.apk",
+        "app_activity": "com.busblindguide.gz.stylea.SplashActivity"
+    },
+    {
+        "app_name": "阳光好运",
+        "package_name": "com.yghy.application",
+        "file_name": "com.yghy.application_130.apk",
+        "app_activity": "com.yghy.application.MainActivity"
+    },
+    {
+        "app_name": "滨城通",
+        "package_name": "com.tianjin.binhaibus",
+        "file_name": "com.tianjin.binhaibus_131.apk",
+        "app_activity": "com.tianjin.binhaibus.activity.LunchActivity"
+    },
+    {
+        "app_name": "东城公交",
+        "package_name": "com.futurefleet.dongcheng",
+        "file_name": "com.futurefleet.dongcheng_132.apk",
+        "app_activity": "com.pandabus.android.hengfengxing.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "霍邱蓼达公交",
+        "package_name": "com.hisense.huoqiubus",
+        "file_name": "com.hisense.huoqiubus_133.apk",
+        "app_activity": "com.dk.qingdaobus.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "驼城通",
+        "package_name": "com.app.yulin",
+        "file_name": "com.app.yulin_134.apk",
+        "app_activity": "com.pandabus.android.tuochengtong.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "昆明地铁APP",
+        "package_name": "com.bwton.msx.kmdt",
+        "file_name": "com.bwton.msx.kmdt_135.apk",
+        "app_activity": "com.bwton.metro.lanuch.LanuchActivity"
+    },
+    {
+        "app_name": "台州轨道",
+        "package_name": "com.bwton.msx.tzgd",
+        "file_name": "com.bwton.msx.tzgd_136.apk",
+        "app_activity": "com.bwton.metro.lanuch.LanuchActivity"
+    },
+    {
+        "app_name": "芜湖轨道",
+        "package_name": "com.bwton.msx.whgj",
+        "file_name": "com.bwton.msx.whgj_137.apk",
+        "app_activity": "com.bwton.metro.lanuch.LanuchActivity"
+    },
+    {
+        "app_name": "西宁智能公交",
+        "package_name": "com.ixiaoma.xiningAndroid0971",
+        "file_name": "com.ixiaoma.xiningAndroid0971_138.apk",
+        "app_activity": "com.ixiaoma.xining.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "泰州好出行",
+        "package_name": "com.njusoft.taizhoutrip",
+        "file_name": "com.njusoft.taizhoutrip_139.apk",
+        "app_activity": "com.njusoft.taizhoutrip.uis.common.SplashActivity"
+    },
+    {
+        "app_name": "保定通",
+        "package_name": "com.suma.baoditong",
+        "file_name": "com.suma.baoditong_140.apk",
+        "app_activity": "com.cecurs.home.newhome.ui.main.NewHomeActivity"
+    },
+    {
+        "app_name": "佛山地铁",
+        "package_name": "com.fmetro.fsb",
+        "file_name": "com.fmetro.fsb_141.apk",
+        "app_activity": "com.bwton.metro.lanuch.LanuchWithoutIntroActivity"
+    },
+    {
+        "app_name": "SilkPass",
+        "package_name": "cn.com.bmac.intl",
+        "file_name": "cn.com.bmac.intl_142.apk",
+        "app_activity": "cn.com.bmac.intl.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "公交来了",
+        "package_name": "cn.yamitech.gjll",
+        "file_name": "cn.yamitech.gjll_143.apk",
+        "app_activity": "com.sqcatfix.emptyproject.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "北地闹",
+        "package_name": "com.newsundial.subwayalarm",
+        "file_name": "com.newsundial.subwayalarm_144.apk",
+        "app_activity": "com.newsundial.subwayalarm.MainActivity"
+    },
+    {
+        "app_name": "厦门地铁",
+        "package_name": "com.luqiao.xmmetro",
+        "file_name": "com.luqiao.xmmetro_145.apk",
+        "app_activity": "com.luqiao.xmmetro.core.main.view.LauncherActivity"
+    },
+    {
+        "app_name": "公交E出行",
+        "package_name": "main.smart.HY",
+        "file_name": "main.smart.HY_146.apk",
+        "app_activity": "main.smart.activity.InitActivity"
+    },
+    {
+        "app_name": "南京市民卡",
+        "package_name": "com.zhszcn.zhsmk",
+        "file_name": "com.zhszcn.zhsmk_147.apk",
+        "app_activity": "com.zhszcn.zhsmk.ui.activity.other.WelcomeActivity"
+    },
+    {
+        "app_name": "博望公交",
+        "package_name": "com.mas.bus.free",
+        "file_name": "com.mas.bus.free_148.apk",
+        "app_activity": "com.fuhuang.bus.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "百斗公交",
+        "package_name": "net.beido.bus",
+        "file_name": "net.beido.bus_149.apk",
+        "app_activity": "net.beido.bus.SplashActivity"
+    },
+    {
+        "app_name": "赤壁行",
+        "package_name": "com.whpe.qrcode.hubei.chibi",
+        "file_name": "com.whpe.qrcode.hubei.chibi_150.apk",
+        "app_activity": "com.whpe.qrcode.hubei.chibi.activity.ActivityFirst"
+    },
+    {
+        "app_name": "硒客行",
+        "package_name": "com.whpe.qrcode.hubei.enshi",
+        "file_name": "com.whpe.qrcode.hubei.enshi_151.apk",
+        "app_activity": "com.whpe.qrcode.hubei.enshi.activity.ActivityMain"
+    },
+    {
+        "app_name": "北京地铁",
+        "package_name": "com.ruubypay.bjmetro",
+        "file_name": "com.ruubypay.bjmetro_152.apk",
+        "app_activity": "com.ruubypay.bjmetro.main.StartActivity"
+    },
+    {
+        "app_name": "长兴公交",
+        "package_name": "com.hisense.changxingbus",
+        "file_name": "com.hisense.changxingbus_153.apk",
+        "app_activity": "com.dk.qingdaobus.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "蚌埠公交",
+        "package_name": "uni.UNIDEE30F2",
+        "file_name": "uni.UNIDEE30F2_154.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "交运通",
+        "package_name": "com.cqck.mobilebus",
+        "file_name": "com.cqck.mobilebus_155.apk",
+        "app_activity": "com.cqck.mobilebus.FirstActivity"
+    },
+    {
+        "app_name": "朔州公交",
+        "package_name": "com.pandabus.android.shuozhou",
+        "file_name": "com.pandabus.android.shuozhou_156.apk",
+        "app_activity": "com.pandabus.android.shuozhou.zhenggai.LauncherActivity"
+    },
+    {
+        "app_name": "8684地铁",
+        "package_name": "cn.chinabus.metro.main",
+        "file_name": "cn.chinabus.metro.main_157.apk",
+        "app_activity": "cn.chinabus.metro.main.StartActivity"
+    },
+    {
+        "app_name": "延安公交",
+        "package_name": "com.pandabus.android.yanan",
+        "file_name": "com.pandabus.android.yanan_158.apk",
+        "app_activity": "com.pandabus.android.yanan.GuideActivity"
+    },
+    {
+        "app_name": "e洛通",
+        "package_name": "www.joycard.com.cn.elyqrcodebus",
+        "file_name": "www.joycard.com.cn.elyqrcodebus_159.apk",
+        "app_activity": "www.joycard.org.gongjioaqrcodebus.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "分宜行",
+        "package_name": "com.cictec.fenyi.intelligence.travel",
+        "file_name": "com.cictec.fenyi.intelligence.travel_160.apk",
+        "app_activity": "com.cictec.fenyi.intelligence.travel.ui.LaunchActivity"
+    },
+    {
+        "app_name": "月城公交",
+        "package_name": "com.pandabus.android.yuecheng",
+        "file_name": "com.pandabus.android.yuecheng_161.apk",
+        "app_activity": "com.pandabus.android.yuecheng.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "银川行",
+        "package_name": "com.pandabus.yinchuan",
+        "file_name": "com.pandabus.yinchuan_162.apk",
+        "app_activity": "com.pandabus.yinchuan.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "嗨行",
+        "package_name": "cn.com.henansoft.tripbus",
+        "file_name": "cn.com.henansoft.tripbus_163.apk",
+        "app_activity": "cn.com.henansoft.tripbus.ui.start.StartActivity"
+    },
+    {
+        "app_name": "琴岛公交查询",
+        "package_name": "com.pandabus.qdIntelligentBus",
+        "file_name": "com.pandabus.qdIntelligentBus_164.apk",
+        "app_activity": "com.pandabus.qdIntelligentBus.SplashActivity"
+    },
+    {
+        "app_name": "天津公交",
+        "package_name": "com.mapsoft.bustrip_tianjin",
+        "file_name": "com.mapsoft.bustrip_tianjin_165.apk",
+        "app_activity": "com.mapsoft.bustrip_tianjin.MainActivity"
+    },
+    {
+        "app_name": "亳州公交",
+        "package_name": "com.futurefleet.bozhou.android",
+        "file_name": "com.futurefleet.bozhou.android_166.apk",
+        "app_activity": "com.futurefleet.bozhou.android.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "杭州地铁",
+        "package_name": "com.dtdream.hzmetro",
+        "file_name": "com.dtdream.hzmetro_167.apk",
+        "app_activity": "com.bwton.metro.lanuch.LanuchWithoutIntroActivity"
+    },
+    {
+        "app_name": "天涯行",
+        "package_name": "com.txmpay.sanyawallet",
+        "file_name": "com.txmpay.sanyawallet_168.apk",
+        "app_activity": "com.txmpay.sanyawallet.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "善国行",
+        "package_name": "com.whpe.qrcode.shandong.tengzhou",
+        "file_name": "com.whpe.qrcode.shandong.tengzhou_169.apk",
+        "app_activity": "com.whpe.qrcode.shandong.tengzhou.activity.ActivitySplash"
+    },
+    {
+        "app_name": "琴岛通",
+        "package_name": "com.umpay.qingdaonfc",
+        "file_name": "com.umpay.qingdaonfc_170.apk",
+        "app_activity": "com.umpay.qingdaonfc.lib.SplashActivity"
+    },
+    {
+        "app_name": "三门峡行",
+        "package_name": "www.joycard.com.cn.smxqrcodebus",
+        "file_name": "www.joycard.com.cn.smxqrcodebus_171.apk",
+        "app_activity": "com.zkzn.zkzntravelapp.WelcomeActivity"
+    },
+    {
+        "app_name": "南京公交在线",
+        "package_name": "com.nj_chelaile",
+        "file_name": "com.nj_chelaile_172.apk",
+        "app_activity": "dev.xesam.chelaile.njapp.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "襄阳出行",
+        "package_name": "com.tcps.xiangyangtravel",
+        "file_name": "com.tcps.xiangyangtravel_173.apk",
+        "app_activity": "com.tcps.xiangyangtravel.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "淄博出行",
+        "package_name": "com.pandabus.android.zb",
+        "file_name": "com.pandabus.android.zb_174.apk",
+        "app_activity": "com.pandabus.android.zibo.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "蓝小宝",
+        "package_name": "cn.com.whty.jscmccac",
+        "file_name": "cn.com.whty.jscmccac_175.apk",
+        "app_activity": "cn.com.whty.jscmccac.MainActivity"
+    },
+    {
+        "app_name": "码上行",
+        "package_name": "cn.com.thit.wxmetro",
+        "file_name": "cn.com.thit.wxmetro_176.apk",
+        "app_activity": "com.bwton.metro.lanuch.LanuchActivity"
+    },
+    {
+        "app_name": "威海公交",
+        "package_name": "com.ibuscloud.weihaibus",
+        "file_name": "com.ibuscloud.weihaibus_177.apk",
+        "app_activity": "com.dtchuxing.app.ui.SplashActivity"
+    },
+    {
+        "app_name": "夏都行",
+        "package_name": "com.goboosoft.traffic",
+        "file_name": "com.goboosoft.traffic_178.apk",
+        "app_activity": "com.goboosoft.traffic.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "智慧电车",
+        "package_name": "cn.com.thit.tram",
+        "file_name": "cn.com.thit.tram_179.apk",
+        "app_activity": "com.bwton.metro.lanuch.LanuchActivity"
+    },
+    {
+        "app_name": "掌上在线公交",
+        "package_name": "com.whyisheng.hbus",
+        "file_name": "com.whyisheng.hbus_180.apk",
+        "app_activity": "com.sqcatfix.emptyproject.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "天长公交",
+        "package_name": "com.dk.tianchangbus",
+        "file_name": "com.dk.tianchangbus_181.apk",
+        "app_activity": "com.dk.qingdaobus.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "掌上出行公交",
+        "package_name": "com.shsqning.busnfc",
+        "file_name": "com.shsqning.busnfc_182.apk",
+        "app_activity": "com.sqcatfix.emptyproject.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "潮城骑行",
+        "package_name": "com.qifom.hbike.android",
+        "file_name": "com.qifom.hbike.android_183.apk",
+        "app_activity": "com.qifom.hbike.android.ui.activity.LaunchActivity"
+    },
+    {
+        "app_name": "漯河公交",
+        "package_name": "www.joycard.org.lhqrcodebus",
+        "file_name": "www.joycard.org.lhqrcodebus_184.apk",
+        "app_activity": "com.zkzn.zkzntravelapp.WelcomeActivity"
+    },
+    {
+        "app_name": "天津地铁",
+        "package_name": "com.bwton.tjmetro",
+        "file_name": "com.bwton.tjmetro_185.apk",
+        "app_activity": "com.bwton.tjmetro.activity.ad.AdSplashActivity"
+    },
+    {
+        "app_name": "周口公交",
+        "package_name": "www.joycard.org.zkqrcodebus",
+        "file_name": "www.joycard.org.zkqrcodebus_186.apk",
+        "app_activity": "com.zkzn.zkzntravelapp.WelcomeActivity"
+    },
+    {
+        "app_name": "春城e路通",
+        "package_name": "com.kmbus.ccelt",
+        "file_name": "com.kmbus.ccelt_187.apk",
+        "app_activity": "com.kmbus.ccelt.WelcomeActivity"
+    },
+    {
+        "app_name": "株洲通",
+        "package_name": "com.tiamaes.tmbus.zhuzhou",
+        "file_name": "com.tiamaes.tmbus.zhuzhou_188.apk",
+        "app_activity": "com.tiamaes.tmbus.activity.LoadingActivity"
+    },
+    {
+        "app_name": "许昌公交",
+        "package_name": "com.zd.traveller.xuchang",
+        "file_name": "com.zd.traveller.xuchang_189.apk",
+        "app_activity": "com.sutpc.bjfy.customer.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "宜知行",
+        "package_name": "com.tychina.ycbus",
+        "file_name": "com.tychina.ycbus_190.apk",
+        "app_activity": "com.tychina.ycbus.SplashActivity"
+    },
+    {
+        "app_name": "莒易行",
+        "package_name": "com.ibuscloud.juxianbus",
+        "file_name": "com.ibuscloud.juxianbus_191.apk",
+        "app_activity": "com.dtchuxing.app.ui.SplashActivity"
+    },
+    {
+        "app_name": "听听巴士",
+        "package_name": "com.busblindguide.gz.stylea",
+        "file_name": "com.busblindguide.gz.stylea_192.apk",
+        "app_activity": "com.busblindguide.gz.stylea.SplashActivity"
+    },
+    {
+        "app_name": "常德行",
+        "package_name": "com.whpe.qrcode.hunan.changde",
+        "file_name": "com.whpe.qrcode.hunan.changde_193.apk",
+        "app_activity": "com.whpe.qrcode.hunan.changde.activity.ActivityFirst"
+    },
+    {
+        "app_name": "畅行南通",
+        "package_name": "com.cvicse.zhnt",
+        "file_name": "com.cvicse.zhnt_194.apk",
+        "app_activity": "com.cvicse.zhnt.mvp.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "铜都行",
+        "package_name": "com.whpe.qrcode.anhui.tongling",
+        "file_name": "com.whpe.qrcode.anhui.tongling_195.apk",
+        "app_activity": "com.whpe.qrcode.anhui.tongling.activity.ActivitySplash"
+    },
+    {
+        "app_name": "上海公交",
+        "package_name": "com.sh.gj",
+        "file_name": "com.sh.gj_196.apk",
+        "app_activity": "com.sh.gj.SplashFirst"
+    },
+    {
+        "app_name": "地铁通",
+        "package_name": "com.tc.cm",
+        "file_name": "com.tc.cm_197.apk",
+        "app_activity": "com.tc.cm.activity.CoverActivity"
+    },
+    {
+        "app_name": "利津智慧公交",
+        "package_name": "main.smart.lijin",
+        "file_name": "main.smart.lijin_198.apk",
+        "app_activity": "main.smart.bus.login.ui.SplashActivity"
+    },
+    {
+        "app_name": "马鞍山掌上公交",
+        "package_name": "main.smart.masgj",
+        "file_name": "main.smart.masgj_199.apk",
+        "app_activity": "main.smart.activity.CitySwitchActivity"
+    },
+    {
+        "app_name": "芜湖公交",
+        "package_name": "com.hisense.wuhubus",
+        "file_name": "com.hisense.wuhubus_200.apk",
+        "app_activity": "com.dk.qingdaobus.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "西安公交出行",
+        "package_name": "com.cictec.xian.intelligence.travel",
+        "file_name": "com.cictec.xian.intelligence.travel_201.apk",
+        "app_activity": "com.cictec.xian.intelligence.travel.LaunchActivity"
+    },
+    {
+        "app_name": "此行",
+        "package_name": "com.zkzn.zkzntravelapp",
+        "file_name": "com.zkzn.zkzntravelapp_202.apk",
+        "app_activity": "com.zkzn.zkzntravelapp.WelcomeActivity"
+    },
+    {
+        "app_name": "优滴公交",
+        "package_name": "com.udbus.app",
+        "file_name": "com.udbus.app_203.apk",
+        "app_activity": "com.udbus.app.ui.StartUpActivity2"
+    },
+    {
+        "app_name": "西宁巡游网约公交",
+        "package_name": "com.jinma.xining",
+        "file_name": "com.jinma.xining_204.apk",
+        "app_activity": "com.jinma.xining.MainActivity"
+    },
+    {
+        "app_name": "生活有点酷",
+        "package_name": "com.pandabus.android.dianku",
+        "file_name": "com.pandabus.android.dianku_205.apk",
+        "app_activity": "com.pandabus.android.dianku.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "天中行",
+        "package_name": "com.pandabus.android.tianzhongxing",
+        "file_name": "com.pandabus.android.tianzhongxing_206.apk",
+        "app_activity": "com.pandabus.android.tianzhongxing.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "安庆掌上公交",
+        "package_name": "main.smart.anqing",
+        "file_name": "main.smart.anqing_207.apk",
+        "app_activity": "main.smart.activity.InitActivity"
+    },
+    {
+        "app_name": "邢台公交",
+        "package_name": "com.pandabus.android.xingtai",
+        "file_name": "com.pandabus.android.xingtai_208.apk",
+        "app_activity": "com.pandabus.android.xingtai.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "掌上公交",
+        "package_name": "com.mygolbs.mybus",
+        "file_name": "com.mygolbs.mybus_209.apk",
+        "app_activity": "com.mygolbs.mybus.LoginActivity"
+    },
+    {
+        "app_name": "公交颍州通",
+        "package_name": "com.pandabus.android.fuyang",
+        "file_name": "com.pandabus.android.fuyang_210.apk",
+        "app_activity": "com.pandabus.android.fuyang.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "百斗地铁",
+        "package_name": "net.cnmaps.subway",
+        "file_name": "net.cnmaps.subway_211.apk",
+        "app_activity": "net.cnmaps.subway.SplashActivity"
+    },
+    {
+        "app_name": "369出行",
+        "package_name": "insigma.waybook.jinan",
+        "file_name": "insigma.waybook.jinan_212.apk",
+        "app_activity": "insigma.waybook.jinan.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "石家庄智慧公交",
+        "package_name": "com.ixiaoma.shijiazhuang",
+        "file_name": "com.ixiaoma.shijiazhuang_213.apk",
+        "app_activity": "com.ixiaoma.shijiazhuang.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "实时公交",
+        "package_name": "com.McDullpalm.bus",
+        "file_name": "com.McDullpalm.bus_214.apk",
+        "app_activity": "com.bpocket.bus.ui.SplashActivity"
+    },
+    {
+        "app_name": "顺通巴士",
+        "package_name": "com.hisense.huoshanbus",
+        "file_name": "com.hisense.huoshanbus_215.apk",
+        "app_activity": "com.dk.qingdaobus.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "德州智能掌上公交",
+        "package_name": "main.smart.dzgj",
+        "file_name": "main.smart.dzgj_216.apk",
+        "app_activity": "main.smart.activity.InitActivity"
+    },
+    {
+        "app_name": "肥城掌上公交",
+        "package_name": "main.smart.fcgj",
+        "file_name": "main.smart.fcgj_217.apk",
+        "app_activity": "main.smart.activity.InitActivity"
+    },
+    {
+        "app_name": "衡水掌上公交",
+        "package_name": "main.smart.hsgj",
+        "file_name": "main.smart.hsgj_218.apk",
+        "app_activity": "main.smart.activity.CitySwitchActivity"
+    },
+    {
+        "app_name": "荣成智能掌上公交",
+        "package_name": "main.smart.rcgj",
+        "file_name": "main.smart.rcgj_219.apk",
+        "app_activity": "main.smart.activity.InitActivity"
+    },
+    {
+        "app_name": "水城通E游",
+        "package_name": "com.pandabus.android.liaocheng",
+        "file_name": "com.pandabus.android.liaocheng_220.apk",
+        "app_activity": "com.pandabus.android.liaocheng.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "高邮E出行",
+        "package_name": "main.smart.gaoyou",
+        "file_name": "main.smart.gaoyou_221.apk",
+        "app_activity": "main.smart.bus.login.ui.SplashActivity"
+    },
+    {
+        "app_name": "Цифровое приморье",
+        "package_name": "team.nineone.cp_app.prod",
+        "file_name": "team.nineone.cp_app.prod_222.apk",
+        "app_activity": "team.nineone.cp_app.MainActivity"
+    },
+    {
+        "app_name": "合肥公交",
+        "package_name": "com.ixiaoma.hefeibus",
+        "file_name": "com.ixiaoma.hefeibus_223.apk",
+        "app_activity": "com.ixiaoma.hefeibus.activity.GuideActivity"
+    },
+    {
+        "app_name": "一应黔行",
+        "package_name": "com.gz.subway",
+        "file_name": "com.gz.subway_224.apk",
+        "app_activity": "com.gz.subway.splash.SplashActivity"
+    },
+    {
+        "app_name": "乘车码一卡通",
+        "package_name": "com.chuli.bus",
+        "file_name": "com.chuli.bus_225.apk",
+        "app_activity": "com.chuli.bus.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "淮南行",
+        "package_name": "com.cictec.huainan.intelligence.travel",
+        "file_name": "com.cictec.huainan.intelligence.travel_226.apk",
+        "app_activity": "com.cictec.huainan.intelligence.travel.LoadingActivity"
+    },
+    {
+        "app_name": "榕城通",
+        "package_name": "com.fjby.cardnfc",
+        "file_name": "com.fjby.cardnfc_227.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "永州公交",
+        "package_name": "com.pandabus.yongzhou",
+        "file_name": "com.pandabus.yongzhou_228.apk",
+        "app_activity": "com.pandabus.yongzhou.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "盘锦出行",
+        "package_name": "com.pandabus.android.panjin",
+        "file_name": "com.pandabus.android.panjin_229.apk",
+        "app_activity": "com.pandabus.android.panjin.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "曼谷地铁通",
+        "package_name": "com.bangkok.subway",
+        "file_name": "com.bangkok.subway_230.apk",
+        "app_activity": "com.ccaption.prompter.activity.LauncherActivity"
+    },
+    {
+        "app_name": "曲靖公交",
+        "package_name": "com.pandabus.android.qujing",
+        "file_name": "com.pandabus.android.qujing_231.apk",
+        "app_activity": "com.pandabus.android.qujing.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "越畅行",
+        "package_name": "com.ixiaoma.shaoxing",
+        "file_name": "com.ixiaoma.shaoxing_232.apk",
+        "app_activity": "com.ixiaoma.shaoxing.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "唐山行2.0",
+        "package_name": "com.tuniondata.ebus.tangshanxing",
+        "file_name": "com.tuniondata.ebus.tangshanxing_233.apk",
+        "app_activity": "com.example.myuuu.MainActivity"
+    },
+    {
+        "app_name": "地铁出行",
+        "package_name": "com.menghui.metromap",
+        "file_name": "com.menghui.metromap_234.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "吉林行",
+        "package_name": "com.pandabus.android.jilinxing",
+        "file_name": "com.pandabus.android.jilinxing_235.apk",
+        "app_activity": "com.pandabus.android.jilinxing.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "小雷出行",
+        "package_name": "com.rerise.xlcx",
+        "file_name": "com.rerise.xlcx_236.apk",
+        "app_activity": "com.rerise.xlcx.ui.splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "肇庆出行",
+        "package_name": "com.cictec.zhaoqing.intelligence.travel",
+        "file_name": "com.cictec.zhaoqing.intelligence.travel_237.apk",
+        "app_activity": "com.cictec.zhaoqing.intelligence.travel.LoadingActivity"
+    },
+    {
+        "app_name": "盛京通",
+        "package_name": "com.nsmetro.shengjingtong",
+        "file_name": "com.nsmetro.shengjingtong_238.apk",
+        "app_activity": "com.nsmetro.shengjingtong.SplashActivity"
+    },
+    {
+        "app_name": "临沂公交",
+        "package_name": "com.pandabus.android.linyibus",
+        "file_name": "com.pandabus.android.linyibus_239.apk",
+        "app_activity": "com.pandabus.android.linyibus.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "大连公交",
+        "package_name": "com.futurefleet.pandabus.ui.dalian",
+        "file_name": "com.futurefleet.pandabus.ui.dalian_240.apk",
+        "app_activity": "com.futurefleet.pandabus.ui.dalian.ui.zhenggai.LauncherActivity"
+    },
+    {
+        "app_name": "地铁通地铁换乘查询软件",
+        "package_name": "com.xinlukou.metroman",
+        "file_name": "com.xinlukou.metroman_241.apk",
+        "app_activity": "com.xinlukou.metroman.SplashActivity"
+    },
+    {
+        "app_name": "徐州公交",
+        "package_name": "com.pandabus.android.xuzhou",
+        "file_name": "com.pandabus.android.xuzhou_242.apk",
+        "app_activity": "com.pandabus.android.xuzhou.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "真情巴士e行",
+        "package_name": "com.dk.huangdaobus",
+        "file_name": "com.dk.huangdaobus_243.apk",
+        "app_activity": "com.dk.huangdaobus.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "滨州掌上公交",
+        "package_name": "main.smart.binzhou",
+        "file_name": "main.smart.binzhou_244.apk",
+        "app_activity": "main.smart.activity.InitActivity"
+    },
+    {
+        "app_name": "实时公交GPS导航",
+        "package_name": "com.njwsbzl.bus",
+        "file_name": "com.njwsbzl.bus_245.apk",
+        "app_activity": "com.sqcatfix.emptyproject.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "出行南宁",
+        "package_name": "com.nnsmartcity.travle",
+        "file_name": "com.nnsmartcity.travle_246.apk",
+        "app_activity": "com.nnsmartcity.travle.MainActivity"
+    },
+    {
+        "app_name": "合肥轨道",
+        "package_name": "com.hfgdjt.hfmetro",
+        "file_name": "com.hfgdjt.hfmetro_247.apk",
+        "app_activity": "com.bwton.metro.lanuch.LanuchActivity"
+    },
+    {
+        "app_name": "烟台公交",
+        "package_name": "com.ixiaoma.yantaibus",
+        "file_name": "com.ixiaoma.yantaibus_248.apk",
+        "app_activity": "com.ixiaoma.yantaibus.activity.LauncherActivity"
+    },
+    {
+        "app_name": "泰州一卡通",
+        "package_name": "com.cn.tzsmk",
+        "file_name": "com.cn.tzsmk_249.apk",
+        "app_activity": "com.cn.tzsmk.app.home.ui.LaunchActivity"
+    },
+    {
+        "app_name": "渝通行",
+        "package_name": "cn.com.whty.cqt",
+        "file_name": "cn.com.whty.cqt_250.apk",
+        "app_activity": "cn.com.whty.cqt.ui.SplashActivity"
+    },
+    {
+        "app_name": "嘉通行",
+        "package_name": "com.mapsoft.jiaxingbus",
+        "file_name": "com.mapsoft.jiaxingbus_251.apk",
+        "app_activity": "com.mapsoft.jiaxingbus.ui.SplashActivity"
+    },
+    {
+        "app_name": "西安地铁",
+        "package_name": "com.ixiaoma.xiansubway",
+        "file_name": "com.ixiaoma.xiansubway_252.apk",
+        "app_activity": "com.ixiaoma.xiansubway.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "车到哪",
+        "package_name": "com.tonglu.app",
+        "file_name": "com.tonglu.app_253.apk",
+        "app_activity": "com.tonglu.app.ui.StartUpActivity"
+    },
+    {
+        "app_name": "乐都行",
+        "package_name": "com.whpe.qrcode.hubei_suizhou",
+        "file_name": "com.whpe.qrcode.hubei_suizhou_254.apk",
+        "app_activity": "com.whpe.qrcode.hubei_suizhou.activity.ActivitySplash"
+    },
+    {
+        "app_name": "长治公交通",
+        "package_name": "com.pandabus.android.changzhi",
+        "file_name": "com.pandabus.android.changzhi_255.apk",
+        "app_activity": "com.pandabus.android.changzhi.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "8684公交大字版",
+        "package_name": "cn.chinabus.big",
+        "file_name": "cn.chinabus.big_256.apk",
+        "app_activity": "cn.chinabus.big.ui.StartActivity"
+    },
+    {
+        "app_name": "铜陵公交",
+        "package_name": "com.tongling.bus.free",
+        "file_name": "com.tongling.bus.free_257.apk",
+        "app_activity": "com.fuhuang.bus.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "舟山公交2.0",
+        "package_name": "com.bluering.traffic.zhoushan",
+        "file_name": "com.bluering.traffic.zhoushan_258.apk",
+        "app_activity": "com.bluering.traffic.zhoushan.MainActivity"
+    },
+    {
+        "app_name": "马鞍山公交综合数据查询",
+        "package_name": "com.mas.merge",
+        "file_name": "com.mas.merge_259.apk",
+        "app_activity": "com.mas.merge.erp.login.activity.FirstActivity"
+    },
+    {
+        "app_name": "智惠行",
+        "package_name": "org.gioneco.zhx",
+        "file_name": "org.gioneco.zhx_260.apk",
+        "app_activity": "org.gioneco.zhx.mvvm.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "北京公交",
+        "package_name": "com.tianlutech.ebus",
+        "file_name": "com.tianlutech.ebus_261.apk",
+        "app_activity": "com.tianlutech.ebus.core.launch.SplashActivity"
+    },
+    {
+        "app_name": "我的武汉通",
+        "package_name": "com.jieyisoft.whtapp",
+        "file_name": "com.jieyisoft.whtapp_262.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "城客e家",
+        "package_name": "com.futurefleet.pandabus.ui.ha",
+        "file_name": "com.futurefleet.pandabus.ui.ha_263.apk",
+        "app_activity": "com.futurefleet.module.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "宜兴享出行",
+        "package_name": "com.futurefleet.pandabus.ui.yx",
+        "file_name": "com.futurefleet.pandabus.ui.yx_264.apk",
+        "app_activity": "com.pandabus.android.hengfengxing.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "岳阳公交",
+        "package_name": "com.slzr.smallapp",
+        "file_name": "com.slzr.smallapp_265.apk",
+        "app_activity": "com.slzr.smallapp.MainActivity"
+    },
+    {
+        "app_name": "地铁通",
+        "package_name": "com.ditie.tong",
+        "file_name": "com.ditie.tong_266.apk",
+        "app_activity": "com.ditie.tong.activity.SplashFirst"
+    },
+    {
+        "app_name": "宝鸡行",
+        "package_name": "com.cictec.baoji.intelligence.travel",
+        "file_name": "com.cictec.baoji.intelligence.travel_267.apk",
+        "app_activity": "com.cictec.baoji.intelligence.travel.LoadingActivity"
+    },
+    {
+        "app_name": "花城出行",
+        "package_name": "com.tcps.pzh",
+        "file_name": "com.tcps.pzh_268.apk",
+        "app_activity": "com.tcps.pzh.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "豫章行",
+        "package_name": "com.jieyisoft.yzxUni",
+        "file_name": "com.jieyisoft.yzxUni_269.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "实时公交查询",
+        "package_name": "com.jrhmmap.buscm",
+        "file_name": "com.jrhmmap.buscm_270.apk",
+        "app_activity": "com.sqcatfix.emptyproject.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "车到了",
+        "package_name": "com.oewafngy.khijrunj",
+        "file_name": "com.oewafngy.khijrunj_271.apk",
+        "app_activity": "com.oewafngy.khijrunj.ui.splash.SplashActivity"
+    }
+]

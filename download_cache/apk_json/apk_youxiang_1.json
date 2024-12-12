@@ -1,0 +1,140 @@
+[
+    {
+        "app_name": "Petal Mail",
+        "package_name": "com.huawei.petalmail",
+        "file_name": "com.huawei.petalmail_1.apk",
+        "app_activity": "com.huawei.mail.core.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "孚盟MX",
+        "package_name": "com.fumamxapp",
+        "file_name": "com.fumamxapp_2.apk",
+        "app_activity": "com.fm.mxemail.views.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "新浪企邮",
+        "package_name": "com.sina.mail.enterprise",
+        "file_name": "com.sina.mail.enterprise_3.apk",
+        "app_activity": "com.sina.mail.enterprise.SplashActivity"
+    },
+    {
+        "app_name": "QQ邮箱",
+        "package_name": "com.tencent.androidqqmail",
+        "file_name": "com.tencent.androidqqmail_4.apk",
+        "app_activity": "com.tencent.qqmail.launcher.desktop.LauncherActivity"
+    },
+    {
+        "app_name": "国盾密邮",
+        "package_name": "com.sd.quantum.email",
+        "file_name": "com.sd.quantum.email_5.apk",
+        "app_activity": "com.sd.quantum.email.activity.SplashActivity"
+    },
+    {
+        "app_name": "Alimail",
+        "package_name": "com.alibaba.cloudmail",
+        "file_name": "com.alibaba.cloudmail_6.apk",
+        "app_activity": "com.alibaba.alimei.lanucher.activity.Welcome"
+    },
+    {
+        "app_name": "MiYou",
+        "package_name": "com.songhaoyun.mail.app",
+        "file_name": "com.songhaoyun.mail.app_7.apk",
+        "app_activity": "com.fsck.k9.activity.MessageList"
+    },
+    {
+        "app_name": "Outlook",
+        "package_name": "com.microsoft.office.outlook",
+        "file_name": "com.microsoft.office.outlook_8.apk",
+        "app_activity": "com.microsoft.office.outlook.ui.miit.MiitLauncherActivity"
+    },
+    {
+        "app_name": "完美邮箱",
+        "package_name": "com.wanmei.mail",
+        "file_name": "com.wanmei.mail_9.apk",
+        "app_activity": "com.wanmei.module.user.login.SplashActivity"
+    },
+    {
+        "app_name": "MailBus",
+        "package_name": "com.chirpeur.chirpmail",
+        "file_name": "com.chirpeur.chirpmail_10.apk",
+        "app_activity": "com.chirpeur.chirpmail.business.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "189邮箱",
+        "package_name": "com.corp21cn.mail189",
+        "file_name": "com.corp21cn.mail189_11.apk",
+        "app_activity": "com.corp21cn.mail189.module.appmain.activity.ClientIntroducePage"
+    },
+    {
+        "app_name": "Coremail Lunkr",
+        "package_name": "cn.lunkr.android",
+        "file_name": "cn.lunkr.android_12.apk",
+        "app_activity": "cn.lunkr.android.ui.StartActivity3"
+    },
+    {
+        "app_name": "SecureMail",
+        "package_name": "com.securemail",
+        "file_name": "com.securemail_13.apk",
+        "app_activity": "com.securemail.MainActivity"
+    },
+    {
+        "app_name": "MailChat",
+        "package_name": "cn.mailchat",
+        "file_name": "cn.mailchat_14.apk",
+        "app_activity": "cn.mailchat.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "139邮箱",
+        "package_name": "cn.cj.pe",
+        "file_name": "cn.cj.pe_15.apk",
+        "app_activity": "com.mail139.about.LaunchActivity"
+    },
+    {
+        "app_name": "SohuMail",
+        "package_name": "com.sohu.mail.client.cordova",
+        "file_name": "com.sohu.mail.client.cordova_17.apk",
+        "app_activity": "com.sohu.mail.client.cordova.PromptActivity"
+    },
+    {
+        "app_name": "源众药业",
+        "package_name": "com.yojoy.mail",
+        "file_name": "com.yojoy.mail_18.apk",
+        "app_activity": "com.yojoy.mail.MainActivity"
+    },
+    {
+        "app_name": "建文邮箱",
+        "package_name": "com.jwsoft.jwmail",
+        "file_name": "com.jwsoft.jwmail_19.apk",
+        "app_activity": "com.jwsoft.jwmail.SplashActivity"
+    },
+    {
+        "app_name": "手机邮箱大全",
+        "package_name": "com.email.wosevbi",
+        "file_name": "com.email.wosevbi_20.apk",
+        "app_activity": "com.email.wosevbi.view.ui.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "263企业邮箱",
+        "package_name": "com.mobile.wmail",
+        "file_name": "com.mobile.wmail_21.apk",
+        "app_activity": "com.mobile.wmail.activity.LauncherActivity"
+    },
+    {
+        "app_name": "电子保密挂号邮局系统",
+        "package_name": "com.hebca.mail",
+        "file_name": "com.hebca.mail_22.apk",
+        "app_activity": "com.hebca.mail.SplashActivity"
+    },
+    {
+        "app_name": "商务密邮",
+        "package_name": "com.shian.intersafemail",
+        "file_name": "com.shian.intersafemail_23.apk",
+        "app_activity": "com.shian.intersafemail.activity.WelcomeAty"
+    },
+    {
+        "app_name": "DocMail",
+        "package_name": "com.sica.docmail",
+        "file_name": "com.sica.docmail_25.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    }
+]
