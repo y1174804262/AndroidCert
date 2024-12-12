@@ -1,0 +1,92 @@
+[
+    {
+        "app_name": "音街",
+        "package_name": "com.netease.karaoke",
+        "file_name": "com.netease.karaoke_1.apk",
+        "app_activity": "com.netease.karaoke.biz.launchscreen.ui.activity.LaunchActivity"
+    },
+    {
+        "app_name": "爱唱",
+        "package_name": "cn.banshenggua.aichang",
+        "file_name": "cn.banshenggua.aichang_2.apk",
+        "app_activity": "com.pocketmusic.kshare.WelcomeActivity"
+    },
+    {
+        "app_name": "多唱",
+        "package_name": "com.evideo.duochang.phone",
+        "file_name": "com.evideo.duochang.phone_3.apk",
+        "app_activity": "com.evideo.duochang.phone.version2.LaunchActivity"
+    },
+    {
+        "app_name": "K歌达人",
+        "package_name": "com.app.hero.ui",
+        "file_name": "com.app.hero.ui_4.apk",
+        "app_activity": "com.app.hero.ui.MainActivity"
+    },
+    {
+        "app_name": "VV",
+        "package_name": "com.vv51.mvbox",
+        "file_name": "com.vv51.mvbox_5.apk",
+        "app_activity": "com.vv51.mvbox.WelcomeActivity"
+    },
+    {
+        "app_name": "唱鸭",
+        "package_name": "com.rockets.chang",
+        "file_name": "com.rockets.chang_6.apk",
+        "app_activity": "com.rockets.chang.SplashActivity"
+    },
+    {
+        "app_name": "wayway",
+        "package_name": "com.tiyatir.kinoqola",
+        "file_name": "com.tiyatir.kinoqola_7.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "森然音频",
+        "package_name": "com.seeknature.audio",
+        "file_name": "com.seeknature.audio_8.apk",
+        "app_activity": "com.seeknature.audio.activity.SplashActivity"
+    },
+    {
+        "app_name": "酷狗唱唱",
+        "package_name": "com.kugou.android.ktvapp",
+        "file_name": "com.kugou.android.ktvapp_9.apk",
+        "app_activity": "com.kugou.android.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "歌者盟",
+        "package_name": "com.gtan.church",
+        "file_name": "com.gtan.church_10.apk",
+        "app_activity": "com.gtan.church.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "酷狗唱唱斗歌版",
+        "package_name": "com.kugou.android.douge",
+        "file_name": "com.kugou.android.douge_11.apk",
+        "app_activity": "com.kugou.android.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "KTVme",
+        "package_name": "com.evideo.MobileKTV",
+        "file_name": "com.evideo.MobileKTV_12.apk",
+        "app_activity": "com.evideo.MobileKTV.activity.SplashActivity"
+    },
+    {
+        "app_name": "全民K歌",
+        "package_name": "com.tencent.karaoke",
+        "file_name": "com.tencent.karaoke_14.apk",
+        "app_activity": "com.tencent.karaoke.module.splash.ui.SplashBaseActivity"
+    },
+    {
+        "app_name": "唱歌K歌大全",
+        "package_name": "com.singer.allktv",
+        "file_name": "com.singer.allktv_15.apk",
+        "app_activity": "com.singer.allktv.ui.activity.PolicyActivity"
+    },
+    {
+        "app_name": "唱吧",
+        "package_name": "com.changba",
+        "file_name": "com.changba_16.apk",
+        "app_activity": "com.changba.splash.Welcome"
+    }
+]

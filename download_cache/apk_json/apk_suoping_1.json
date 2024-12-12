@@ -1,0 +1,80 @@
+[
+    {
+        "app_name": "懒猫锁屏",
+        "package_name": "cn.lanmaosp.app",
+        "file_name": "cn.lanmaosp.app_1.apk",
+        "app_activity": "com.example.lanmaosp_org.MainActivity"
+    },
+    {
+        "app_name": "一键自定义锁屏",
+        "package_name": "cn.shengmitech.intelllock",
+        "file_name": "cn.shengmitech.intelllock_2.apk",
+        "app_activity": "cn.shengmitech.intelllock.ui.SplashActivity"
+    },
+    {
+        "app_name": "岁月来电",
+        "package_name": "com.divergaviator.dilige",
+        "file_name": "com.divergaviator.dilige_3.apk",
+        "app_activity": "com.call.callshow.module.launch.LaunchActivity"
+    },
+    {
+        "app_name": "息屏显示",
+        "package_name": "com.assmart.screen_display",
+        "file_name": "com.assmart.screen_display_4.apk",
+        "app_activity": "com.assmart.screen_display.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "一键锁屏备忘提醒",
+        "package_name": "com.yami.lockscreen",
+        "file_name": "com.yami.lockscreen_5.apk",
+        "app_activity": "com.yami.lockscreen.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "曲面闪光",
+        "package_name": "cn.bitsfun.light",
+        "file_name": "cn.bitsfun.light_6.apk",
+        "app_activity": "cn.bitsfun.light.activity.MainActivity"
+    },
+    {
+        "app_name": "锁屏大全",
+        "package_name": "com.jie.lockscreen",
+        "file_name": "com.jie.lockscreen_7.apk",
+        "app_activity": "com.jie.lockscreen.activity.LunchActivity"
+    },
+    {
+        "app_name": "灵动锁屏",
+        "package_name": "cn.com.wiisoft.lockscreen",
+        "file_name": "cn.com.wiisoft.lockscreen_8.apk",
+        "app_activity": "cn.com.wiisoft.lockscreen.activities.SplashActivity"
+    },
+    {
+        "app_name": "怦然来电",
+        "package_name": "com.astonievanesc.affinit",
+        "file_name": "com.astonievanesc.affinit_9.apk",
+        "app_activity": "com.air.stepward.module.lauch.AliasMainActivity"
+    },
+    {
+        "app_name": "灵动小组件",
+        "package_name": "com.restaurant.ding.nimbleisland",
+        "file_name": "com.restaurant.ding.nimbleisland_10.apk",
+        "app_activity": "com.restaurant.ding.nimbleisland.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "熄屏显示",
+        "package_name": "com.taotao.lock_screen_show",
+        "file_name": "com.taotao.lock_screen_show_11.apk",
+        "app_activity": "com.taotao.lockscreenshow.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "趣玩桌面壁纸",
+        "package_name": "com.hqf.app.yuanqi",
+        "file_name": "com.hqf.app.yuanqi_12.apk",
+        "app_activity": "com.hqf.app.yuanqi.splash.SplashActivity"
+    },
+    {
+        "app_name": "叮咚来电",
+        "package_name": "com.adheredrows.ennui",
+        "file_name": "com.adheredrows.ennui_13.apk",
+        "app_activity": "com.call.callshow.module.launch.LaunchActivity"
+    }
+]

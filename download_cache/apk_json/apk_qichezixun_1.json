@@ -1,0 +1,1718 @@
+[
+    {
+        "app_name": "电喷之家",
+        "package_name": "com.hgxx.dpzj",
+        "file_name": "com.hgxx.dpzj_1.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "睿蓝汽车",
+        "package_name": "com.geega.livan.livan",
+        "file_name": "com.geega.livan.livan_2.apk",
+        "app_activity": "com.geega.livan.livan.MainActivity"
+    },
+    {
+        "app_name": "车易拍商户版",
+        "package_name": "com.cheyipai.ui",
+        "file_name": "com.cheyipai.ui_3.apk",
+        "app_activity": "com.cheyipai.ui.homepage.activitys.SplashActivity"
+    },
+    {
+        "app_name": "几何汽车",
+        "package_name": "com.geely.newenergy",
+        "file_name": "com.geely.newenergy_4.apk",
+        "app_activity": "com.geometry.main.activity.GeoMainSplashActivity"
+    },
+    {
+        "app_name": "My Genesis",
+        "package_name": "com.genesis.owner",
+        "file_name": "com.genesis.owner_5.apk",
+        "app_activity": "com.genesis.owner.ui.SplashActivity"
+    },
+    {
+        "app_name": "昊铂",
+        "package_name": "com.aion.hyperapp",
+        "file_name": "com.aion.hyperapp_6.apk",
+        "app_activity": "com.aion.hyperapp.module.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "派配配",
+        "package_name": "com.paipeipei.im",
+        "file_name": "com.paipeipei.im_7.apk",
+        "app_activity": "com.paipeipei.im.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "汽车有价",
+        "package_name": "com.everfrost.qcyj",
+        "file_name": "com.everfrost.qcyj_8.apk",
+        "app_activity": "com.everfrost.grt.MainActivity"
+    },
+    {
+        "app_name": "亿车行",
+        "package_name": "uni.UNIB3EF336",
+        "file_name": "uni.UNIB3EF336_9.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "42 号车库",
+        "package_name": "com.i42how.cheku",
+        "file_name": "com.i42how.cheku_10.apk",
+        "app_activity": "com.i42how.cheku.MainActivity"
+    },
+    {
+        "app_name": "车信盟",
+        "package_name": "com.zhongjing.faceverify4android",
+        "file_name": "com.zhongjing.faceverify4android_11.apk",
+        "app_activity": "com.gagakj.chexinmeng.MainActivity"
+    },
+    {
+        "app_name": "枫车养车",
+        "package_name": "com.carisok.icar",
+        "file_name": "com.carisok.icar_12.apk",
+        "app_activity": "com.carisok.icar.mvp.ui.activity.main.WelcomeActivity"
+    },
+    {
+        "app_name": "天天汽车",
+        "package_name": "com.dailycar",
+        "file_name": "com.dailycar_13.apk",
+        "app_activity": "com.yichuang.dzdy.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "大风车",
+        "package_name": "com.souche.mars",
+        "file_name": "com.souche.mars_14.apk",
+        "app_activity": "com.souche.mars.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "车是家",
+        "package_name": "ourslook.com.cheshijia",
+        "file_name": "ourslook.com.cheshijia_15.apk",
+        "app_activity": "ourslook.com.cheshijia.activity.login.SplashActivity"
+    },
+    {
+        "app_name": "Vala多功能车",
+        "package_name": "com.vala.auto",
+        "file_name": "com.vala.auto_16.apk",
+        "app_activity": "com.vala.auto.page.LaunchActivity"
+    },
+    {
+        "app_name": "51车商家",
+        "package_name": "com.dierxi.carstore",
+        "file_name": "com.dierxi.carstore_17.apk",
+        "app_activity": "com.dierxi.carstore.activity.LaucherActivity"
+    },
+    {
+        "app_name": "蜜蜂买卖车",
+        "package_name": "com.qdzr.bee",
+        "file_name": "com.qdzr.bee_18.apk",
+        "app_activity": "com.qdzr.bee.activity.SplashActivity"
+    },
+    {
+        "app_name": "瓜子车好卖",
+        "package_name": "com.guazi.chehaomai.andr",
+        "file_name": "com.guazi.chehaomai.andr_19.apk",
+        "app_activity": "com.guazi.chehaomai.andr.ui.SplashActivity"
+    },
+    {
+        "app_name": "太平洋汽车",
+        "package_name": "cn.com.pcauto.android.browser",
+        "file_name": "cn.com.pcauto.android.browser_20.apk",
+        "app_activity": "cn.com.pcgroup.android.browser.module.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "车质网",
+        "package_name": "com.zgczw.chezhiwang",
+        "file_name": "com.zgczw.chezhiwang_21.apk",
+        "app_activity": "com.zgczw.chezhiwang.WelcomeActivity"
+    },
+    {
+        "app_name": "岚图汽车",
+        "package_name": "com.voyah.fassistant",
+        "file_name": "com.voyah.fassistant_22.apk",
+        "app_activity": "com.voyah.fassistant.LaunchActivity"
+    },
+    {
+        "app_name": "摩托范",
+        "package_name": "com.jdd.motorfans",
+        "file_name": "com.jdd.motorfans_23.apk",
+        "app_activity": "com.jdd.motorfans.modules.splash.SplashActivity"
+    },
+    {
+        "app_name": "上汽荣威",
+        "package_name": "com.saicmotor.tocapp",
+        "file_name": "com.saicmotor.tocapp_24.apk",
+        "app_activity": "com.saicmotor.common.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "车小花二手车",
+        "package_name": "com.cxh.app",
+        "file_name": "com.cxh.app_26.apk",
+        "app_activity": "com.cxh.app.LaunchActivity2"
+    },
+    {
+        "app_name": "汽车交易宝",
+        "package_name": "com.fxj.cartrading",
+        "file_name": "com.fxj.cartrading_27.apk",
+        "app_activity": "com.fxj.cartrading.ui.activity.login.SplashActivity"
+    },
+    {
+        "app_name": "曹操汽车",
+        "package_name": "cn.businesscar.user",
+        "file_name": "cn.businesscar.user_28.apk",
+        "app_activity": "cn.businesscar.compat.load.LoadActivity"
+    },
+    {
+        "app_name": "CAR++",
+        "package_name": "com.cheyoujia.carplusplus",
+        "file_name": "com.cheyoujia.carplusplus_29.apk",
+        "app_activity": "com.unity3d.player.UnityPlayerActivity"
+    },
+    {
+        "app_name": "房车猫",
+        "package_name": "com.moke.rv",
+        "file_name": "com.moke.rv_30.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "易车",
+        "package_name": "com.yiche.autoeasy",
+        "file_name": "com.yiche.autoeasy_31.apk",
+        "app_activity": "com.yiche.autoeasy.SplashActivity"
+    },
+    {
+        "app_name": "汽车报价大全",
+        "package_name": "com.yiche.autofast",
+        "file_name": "com.yiche.autofast_32.apk",
+        "app_activity": "com.yiche.autofast.LogoSplashActivity"
+    },
+    {
+        "app_name": "大料汽车",
+        "package_name": "com.daliao.car",
+        "file_name": "com.daliao.car_33.apk",
+        "app_activity": "com.daliao.car.main.LauncherActivity"
+    },
+    {
+        "app_name": "MG Live",
+        "package_name": "com.saicmotor.mg",
+        "file_name": "com.saicmotor.mg_34.apk",
+        "app_activity": "com.saicmotor.mg.activity.SplashActivity"
+    },
+    {
+        "app_name": "MINI",
+        "package_name": "de.mini.connected.mobile20.cn",
+        "file_name": "de.mini.connected.mobile20.cn_35.apk",
+        "app_activity": "com.mobileconnected.MainActivity"
+    },
+    {
+        "app_name": "Jeep",
+        "package_name": "com.yonyou.jeep.app",
+        "file_name": "com.yonyou.jeep.app_36.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "节奏者",
+        "package_name": "com.jiezouzhe.app",
+        "file_name": "com.jiezouzhe.app_37.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "小猪二手车",
+        "package_name": "cn.mucang.drunkremind.android",
+        "file_name": "cn.mucang.drunkremind.android_38.apk",
+        "app_activity": "cn.mucang.drunkremind.android.ui.LauncherActivity"
+    },
+    {
+        "app_name": "事故车出售网",
+        "package_name": "www.shiguche.cn",
+        "file_name": "www.shiguche.cn_39.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "查个件",
+        "package_name": "com.hxy.cgj",
+        "file_name": "com.hxy.cgj_40.apk",
+        "app_activity": "com.hxy.cgj.ui.yh.activity.StartActivity"
+    },
+    {
+        "app_name": "卡咔买",
+        "package_name": "cn.kakamai",
+        "file_name": "cn.kakamai_41.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "订车宝",
+        "package_name": "com.dingchebao",
+        "file_name": "com.dingchebao_42.apk",
+        "app_activity": "com.dingchebao.ui.SplashActivity"
+    },
+    {
+        "app_name": "车e估企业版",
+        "package_name": "com.gzfns.ecar",
+        "file_name": "com.gzfns.ecar_43.apk",
+        "app_activity": "com.gzfns.ecar.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "识车达人",
+        "package_name": "com.cars.byzmhw",
+        "file_name": "com.cars.byzmhw_44.apk",
+        "app_activity": "com.tad.SplashActivity"
+    },
+    {
+        "app_name": "Mashinam",
+        "package_name": "com.elipbe.mashinam",
+        "file_name": "com.elipbe.mashinam_45.apk",
+        "app_activity": "com.elipbe.mashinam.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "奔腾 YOMI",
+        "package_name": "com.qm.dms.mobile.jtclub",
+        "file_name": "com.qm.dms.mobile.jtclub_46.apk",
+        "app_activity": "com.qm.dms.mobile.jtclub.ui.StartupPageActivity"
+    },
+    {
+        "app_name": "创维汽车",
+        "package_name": "com.huizhixin.tianmei",
+        "file_name": "com.huizhixin.tianmei_47.apk",
+        "app_activity": "com.huizhixin.tianmei.ui.LoadActivity"
+    },
+    {
+        "app_name": "电车资源",
+        "package_name": "uni.UNI93AE3CF",
+        "file_name": "uni.UNI93AE3CF_48.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "6号车圈",
+        "package_name": "com.qq620.www",
+        "file_name": "com.qq620.www_49.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "易行车务",
+        "package_name": "yxcw.Android",
+        "file_name": "yxcw.Android_50.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "购车报价大全",
+        "package_name": "com.njjlg.ccarquo",
+        "file_name": "com.njjlg.ccarquo_51.apk",
+        "app_activity": "com.njjlg.ccarquo.module.activity.SplashActivity"
+    },
+    {
+        "app_name": "查博士",
+        "package_name": "cbs.chaboshi",
+        "file_name": "cbs.chaboshi_52.apk",
+        "app_activity": "cbs.chaboshi.ui.app.SplashActivity"
+    },
+    {
+        "app_name": "车友网",
+        "package_name": "com.cheyou.cyapp",
+        "file_name": "com.cheyou.cyapp_53.apk",
+        "app_activity": "com.cheyou.cyapp.MainActivity"
+    },
+    {
+        "app_name": "澳康达二手车",
+        "package_name": "com.akd.luxurycars",
+        "file_name": "com.akd.luxurycars_54.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "大正找车",
+        "package_name": "uni.UNI9879A62",
+        "file_name": "uni.UNI9879A62_55.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "车300二手车",
+        "package_name": "com.car300.activity",
+        "file_name": "com.car300.activity_56.apk",
+        "app_activity": "com.che300.toc.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "网上车市",
+        "package_name": "com.news18a.wangshangcheshi",
+        "file_name": "com.news18a.wangshangcheshi_57.apk",
+        "app_activity": "com.news18a.wangshangcheshi.ui.activity.MainActivity"
+    },
+    {
+        "app_name": "JETTA捷达",
+        "package_name": "com.fawvw.ebo",
+        "file_name": "com.fawvw.ebo_58.apk",
+        "app_activity": "com.fawvw.ebo.service.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "蔚来",
+        "package_name": "cn.com.weilaihui3",
+        "file_name": "cn.com.weilaihui3_59.apk",
+        "app_activity": "com.nio.nioapp.cn.helper.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "免费汽车比价大全",
+        "package_name": "com.hcj.gasinquiry",
+        "file_name": "com.hcj.gasinquiry_60.apk",
+        "app_activity": "com.hcj.gasinquiry.module.activity.SplashActivity"
+    },
+    {
+        "app_name": "泡水车交易网",
+        "package_name": "w2a.W2Awww.supaidi.com",
+        "file_name": "w2a.W2Awww.supaidi.com_61.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "理想汽车",
+        "package_name": "com.chehejia.oc.m01",
+        "file_name": "com.chehejia.oc.m01_62.apk",
+        "app_activity": "com.chehejia.oc.m01.business.home.LoginActivity"
+    },
+    {
+        "app_name": "灿谷优车车商版",
+        "package_name": "com.yungu.uctrade.dealer",
+        "file_name": "com.yungu.uctrade.dealer_63.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "大路平行车",
+        "package_name": "com.ooway.oocar",
+        "file_name": "com.ooway.oocar_64.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "车汇乐",
+        "package_name": "com.json.carshop",
+        "file_name": "com.json.carshop_65.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "二手商用车评估",
+        "package_name": "com.truckegoPG.www",
+        "file_name": "com.truckegoPG.www_66.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "卡车之家",
+        "package_name": "com.truckhome.bbs",
+        "file_name": "com.truckhome.bbs_67.apk",
+        "app_activity": "com.truckhome.bbs.home.LaunchActivity"
+    },
+    {
+        "app_name": "机车圈",
+        "package_name": "com.hzmodi.motocircle",
+        "file_name": "com.hzmodi.motocircle_68.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "中保车服",
+        "package_name": "com.cias.app",
+        "file_name": "com.cias.app_69.apk",
+        "app_activity": "com.cias.app.MainActivity"
+    },
+    {
+        "app_name": "大虾师傅",
+        "package_name": "com.cias.vas",
+        "file_name": "com.cias.vas_70.apk",
+        "app_activity": "com.cias.vas.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "第一电动",
+        "package_name": "com.d1ev.app.ev01",
+        "file_name": "com.d1ev.app.ev01_71.apk",
+        "app_activity": "com.d1ev.app.ev01.activity.SplashActivity"
+    },
+    {
+        "app_name": "力帆OBD",
+        "package_name": "com.cqwo.lifan.obdtool",
+        "file_name": "com.cqwo.lifan.obdtool_72.apk",
+        "app_activity": "com.cqwo.lifan.obdtool.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "车汇通",
+        "package_name": "cn.zhuxuk.newchoushang",
+        "file_name": "cn.zhuxuk.newchoushang_73.apk",
+        "app_activity": "cn.zhuxuk.newchoushang.login.ShpelsActivity"
+    },
+    {
+        "app_name": "全国拍",
+        "package_name": "com.fengche.fengchenet",
+        "file_name": "com.fengche.fengchenet_74.apk",
+        "app_activity": "com.fengche.fengchenet.activity.SplashActivity"
+    },
+    {
+        "app_name": "车库放心车",
+        "package_name": "com.xincheng.cheku",
+        "file_name": "com.xincheng.cheku_75.apk",
+        "app_activity": "com.xincheng.cheku.ui.SplashActivity"
+    },
+    {
+        "app_name": "车主之家",
+        "package_name": "com.czzj.carhome",
+        "file_name": "com.czzj.carhome_76.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "车牛",
+        "package_name": "com.souche.matador",
+        "file_name": "com.souche.matador_77.apk",
+        "app_activity": "com.souche.matador.agreement.SplashActivity"
+    },
+    {
+        "app_name": "蓝擎智行",
+        "package_name": "com.iov.wlp",
+        "file_name": "com.iov.wlp_78.apk",
+        "app_activity": "com.iov.wlp.view.activity.MainActivity"
+    },
+    {
+        "app_name": "车行168",
+        "package_name": "com.zjw.chehang168",
+        "file_name": "com.zjw.chehang168_79.apk",
+        "app_activity": "com.zjw.chehang168.V40SplashActivity"
+    },
+    {
+        "app_name": "一汽大众",
+        "package_name": "com.timanetworks.android.faw.vw.aftermarket.release",
+        "file_name": "com.timanetworks.android.faw.vw.aftermarket.release_80.apk",
+        "app_activity": "com.faw.feature.main.MainActivity"
+    },
+    {
+        "app_name": "行车视界",
+        "package_name": "kotlin.cn.net.driving.vision",
+        "file_name": "kotlin.cn.net.driving.vision_81.apk",
+        "app_activity": "cn.net.iwave.martin.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "江铃新能源",
+        "package_name": "com.jmev.ezoom",
+        "file_name": "com.jmev.ezoom_82.apk",
+        "app_activity": "com.jmev.module.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "AITO",
+        "package_name": "app.huawei.auto",
+        "file_name": "app.huawei.auto_83.apk",
+        "app_activity": "app.huawei.auto.privacyagreement.PrivacyAgreementActivity"
+    },
+    {
+        "app_name": "房车网",
+        "package_name": "fangchewang.net.cn",
+        "file_name": "fangchewang.net.cn_84.apk",
+        "app_activity": "com.bolian.motorhome.MainActivity"
+    },
+    {
+        "app_name": "豪丰抵押车",
+        "package_name": "com.dyc888888.app",
+        "file_name": "com.dyc888888.app_85.apk",
+        "app_activity": "com.lt.app.MainActivity"
+    },
+    {
+        "app_name": "汽车通",
+        "package_name": "com.qiche.know",
+        "file_name": "com.qiche.know_86.apk",
+        "app_activity": "com.yiche.autoeasy.SplashActivity"
+    },
+    {
+        "app_name": "蜗牛二手货车",
+        "package_name": "com.guangan.woniu",
+        "file_name": "com.guangan.woniu_87.apk",
+        "app_activity": "com.guangan.woniu.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "淘车车",
+        "package_name": "com.ucar.app",
+        "file_name": "com.ucar.app_88.apk",
+        "app_activity": "com.ucar.app.ui.AppstartActivity"
+    },
+    {
+        "app_name": "瓜子卖车",
+        "package_name": "com.guazi.android.sellcar",
+        "file_name": "com.guazi.android.sellcar_89.apk",
+        "app_activity": "com.guazi.android.sellcar.ui.SplashActivity"
+    },
+    {
+        "app_name": "汽车报价",
+        "package_name": "com.cubic.choosecar",
+        "file_name": "com.cubic.choosecar_90.apk",
+        "app_activity": "com.cubic.choosecar.ui.SplashActivity"
+    },
+    {
+        "app_name": "智慧重汽",
+        "package_name": "appcan.jerei.zgzq.client",
+        "file_name": "appcan.jerei.zgzq.client_91.apk",
+        "app_activity": "appcan.jerei.zgzq.client.login.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "极星Polestar",
+        "package_name": "com.polestar.china.android",
+        "file_name": "com.polestar.china.android_92.apk",
+        "app_activity": "com.polestar.home.ui.SplashActivity"
+    },
+    {
+        "app_name": "一嗨二手车",
+        "package_name": "cn.usedcar",
+        "file_name": "cn.usedcar_93.apk",
+        "app_activity": "com.ehi.ehi_used_car.MainActivity"
+    },
+    {
+        "app_name": "拍中盈",
+        "package_name": "com.pzy.carService",
+        "file_name": "com.pzy.carService_94.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "起亚 Kia",
+        "package_name": "com.kia.myapp",
+        "file_name": "com.kia.myapp_95.apk",
+        "app_activity": "com.kia.myapp.ui.launch.LaunchActivity"
+    },
+    {
+        "app_name": "哇卡运",
+        "package_name": "cn.wacar.mobile",
+        "file_name": "cn.wacar.mobile_96.apk",
+        "app_activity": "io.flutter.embedding.android.FlutterActivity"
+    },
+    {
+        "app_name": "今日房车",
+        "package_name": "com.jinrifangche",
+        "file_name": "com.jinrifangche_97.apk",
+        "app_activity": "com.jinrifangche.activity.StartActivity"
+    },
+    {
+        "app_name": "IM 智己",
+        "package_name": "com.immotors.lapp",
+        "file_name": "com.immotors.lapp_98.apk",
+        "app_activity": "com.immotors.homepage.SplashActivity"
+    },
+    {
+        "app_name": "风光e家",
+        "package_name": "com.bolaa.xkapp",
+        "file_name": "com.bolaa.xkapp_99.apk",
+        "app_activity": "com.bolaa.xkapp.ui.SplashActivity"
+    },
+    {
+        "app_name": "车比比",
+        "package_name": "com.huishu.chebibi",
+        "file_name": "com.huishu.chebibi_100.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "有驾",
+        "package_name": "com.baidu.autocar",
+        "file_name": "com.baidu.autocar_101.apk",
+        "app_activity": "com.baidu.autocar.modules.main.WelcomeActivity"
+    },
+    {
+        "app_name": "欧拉ORA",
+        "package_name": "com.oraev.superora",
+        "file_name": "com.oraev.superora_102.apk",
+        "app_activity": "com.gwm.ora.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "Vehilink",
+        "package_name": "com.vehilink.app",
+        "file_name": "com.vehilink.app_103.apk",
+        "app_activity": "com.vehilink.app.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "52车",
+        "package_name": "com.xfwy",
+        "file_name": "com.xfwy_104.apk",
+        "app_activity": "com.xxf.main.splash.SplashV3Activity"
+    },
+    {
+        "app_name": "车三百极速版",
+        "package_name": "com.csb.activity",
+        "file_name": "com.csb.activity_105.apk",
+        "app_activity": "com.che300.toc.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "易诚拍",
+        "package_name": "com.souche.app.yichengpai",
+        "file_name": "com.souche.app.yichengpai_106.apk",
+        "app_activity": "com.souche.android.androiddemo.MainActivity"
+    },
+    {
+        "app_name": "路虎",
+        "package_name": "com.mobiuyun.landroverchina",
+        "file_name": "com.mobiuyun.landroverchina_107.apk",
+        "app_activity": "com.capgemini.app.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "58汽车",
+        "package_name": "com.wuba.newcar",
+        "file_name": "com.wuba.newcar_108.apk",
+        "app_activity": "com.wuba.carclient.LaunchActivity"
+    },
+    {
+        "app_name": "共轨之家",
+        "package_name": "com.y1990218899.nvb",
+        "file_name": "com.y1990218899.nvb_109.apk",
+        "app_activity": "com.commonrail.mft.decoder.ui.SplashActivity"
+    },
+    {
+        "app_name": "瑞风汽车",
+        "package_name": "com.jac.superapp.rfswc",
+        "file_name": "com.jac.superapp.rfswc_110.apk",
+        "app_activity": "com.tima.newRetail.activity.SplashActivity"
+    },
+    {
+        "app_name": "好悍邦",
+        "package_name": "com.jac.superapp.jhpk",
+        "file_name": "com.jac.superapp.jhpk_111.apk",
+        "app_activity": "com.tima.newRetail.activity.SplashActivity"
+    },
+    {
+        "app_name": "江淮瑞风",
+        "package_name": "com.jac.superapp.jhrf",
+        "file_name": "com.jac.superapp.jhrf_112.apk",
+        "app_activity": "com.jac.superapp.home.splash.SplashActivity"
+    },
+    {
+        "app_name": "驰森博",
+        "package_name": "csbo.csbo.app",
+        "file_name": "csbo.csbo.app_113.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "赢车",
+        "package_name": "com.yingchewang",
+        "file_name": "com.yingchewang_114.apk",
+        "app_activity": "com.yingchewang.activity.SplashActivity"
+    },
+    {
+        "app_name": "CARMU",
+        "package_name": "com.carmu.app",
+        "file_name": "com.carmu.app_115.apk",
+        "app_activity": "com.carmu.app.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "马车保商户版",
+        "package_name": "com.icarguard.machebaobusiness",
+        "file_name": "com.icarguard.machebaobusiness_116.apk",
+        "app_activity": "com.machebao.business.module.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "二手货车交易市场",
+        "package_name": "plus.H5FDB7035",
+        "file_name": "plus.H5FDB7035_117.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "有车以后",
+        "package_name": "com.youcheyihou.iyoursuv",
+        "file_name": "com.youcheyihou.iyoursuv_118.apk",
+        "app_activity": "com.youcheyihou.iyoursuv.ui.activity.StartPageActivity"
+    },
+    {
+        "app_name": "江淮卡友",
+        "package_name": "com.esvtek.jac.driver",
+        "file_name": "com.esvtek.jac.driver_119.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "北京重卡",
+        "package_name": "com.baic.truck",
+        "file_name": "com.baic.truck_120.apk",
+        "app_activity": "com.baic.truck.activity.SplashActivity"
+    },
+    {
+        "app_name": "易商新程",
+        "package_name": "com.yskj.newproject",
+        "file_name": "com.yskj.newproject_121.apk",
+        "app_activity": "com.yskj.newproject.mvp.activity.login.SplashActivity"
+    },
+    {
+        "app_name": "选车网",
+        "package_name": "com.chooseauto.app",
+        "file_name": "com.chooseauto.app_122.apk",
+        "app_activity": "com.chooseauto.app.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "元通汽车",
+        "package_name": "io.ytcar.app",
+        "file_name": "io.ytcar.app_123.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "车友头条",
+        "package_name": "cn.mucang.android.qichetoutiao",
+        "file_name": "cn.mucang.android.qichetoutiao_124.apk",
+        "app_activity": "cn.mucang.android.qichetoutiao.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "肽马星",
+        "package_name": "com.nsefmawq.diqoi",
+        "file_name": "com.nsefmawq.diqoi_125.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "迈了",
+        "package_name": "com.mailevw.oss",
+        "file_name": "com.mailevw.oss_126.apk",
+        "app_activity": "com.mailevw.oss.MainActivity"
+    },
+    {
+        "app_name": "真橙二手车",
+        "package_name": "com.xqc.zcqc",
+        "file_name": "com.xqc.zcqc_127.apk",
+        "app_activity": "com.xqc.zcqc.frame.act.StartActivity"
+    },
+    {
+        "app_name": "拍照识车",
+        "package_name": "com.shengfengPro.autohome",
+        "file_name": "com.shengfengPro.autohome_128.apk",
+        "app_activity": "com.shengfengPro.autohome.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "电摩范",
+        "package_name": "com.mdd.emotofine",
+        "file_name": "com.mdd.emotofine_129.apk",
+        "app_activity": "com.jdd.motorfans.modules.splash.SplashActivity"
+    },
+    {
+        "app_name": "名车优选",
+        "package_name": "uni.UNID16F53F",
+        "file_name": "uni.UNID16F53F_130.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "mcom改装车",
+        "package_name": "cn.apppark.ckj10852459",
+        "file_name": "cn.apppark.ckj10852459_131.apk",
+        "app_activity": "cn.apppark.ckj10852459.Main"
+    },
+    {
+        "app_name": "车游记",
+        "package_name": "com.wind.car",
+        "file_name": "com.wind.car_132.apk",
+        "app_activity": "com.bcc.account.page.PageLoadingActivity"
+    },
+    {
+        "app_name": "大西北事故车",
+        "package_name": "daxibeishiguche.app",
+        "file_name": "daxibeishiguche.app_133.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "易车汽车报价",
+        "package_name": "com.yiche.price",
+        "file_name": "com.yiche.price_134.apk",
+        "app_activity": "com.yiche.price.LogoSplashActivity"
+    },
+    {
+        "app_name": "江铃二手车",
+        "package_name": "com.jmc.app",
+        "file_name": "com.jmc.app_135.apk",
+        "app_activity": "com.jmc.app.MainActivity"
+    },
+    {
+        "app_name": "江西五十铃智联",
+        "package_name": "com.nx.isuzu",
+        "file_name": "com.nx.isuzu_136.apk",
+        "app_activity": "com.nx.isuzu.launcher.SplashActivity"
+    },
+    {
+        "app_name": "车讯",
+        "package_name": "com.chexun.platform",
+        "file_name": "com.chexun.platform_137.apk",
+        "app_activity": "com.chexun.platform.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "精真估二手车",
+        "package_name": "com.jzg.jzgoto.phone",
+        "file_name": "com.jzg.jzgoto.phone_138.apk",
+        "app_activity": "com.jzg.jzgoto.phone.ui.activity.SplashMVPActivity"
+    },
+    {
+        "app_name": "江淮钇为",
+        "package_name": "cn.yiweiauto.evapp",
+        "file_name": "cn.yiweiauto.evapp_139.apk",
+        "app_activity": "com.tima.newRetail.activity.SplashActivity"
+    },
+    {
+        "app_name": "联盟拍",
+        "package_name": "com.carwins.business.zongbu",
+        "file_name": "com.carwins.business.zongbu_140.apk",
+        "app_activity": "com.carwins.business.activity.common.CWWelcomeActivity"
+    },
+    {
+        "app_name": "批批车",
+        "package_name": "com.zyark.secondcar",
+        "file_name": "com.zyark.secondcar_141.apk",
+        "app_activity": "com.zyark.secondcar.business.activity.LaunchActivity"
+    },
+    {
+        "app_name": "星期日服务",
+        "package_name": "uni.UNID75BEC0",
+        "file_name": "uni.UNID75BEC0_142.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "新车界",
+        "package_name": "com.zhongtong.base",
+        "file_name": "com.zhongtong.base_143.apk",
+        "app_activity": "com.zhongtong.base.main.Main_WelcomePage"
+    },
+    {
+        "app_name": "盖世汽车",
+        "package_name": "com.gasgoo.tvn",
+        "file_name": "com.gasgoo.tvn_144.apk",
+        "app_activity": "com.gasgoo.tvn.login.LaunchActivity"
+    },
+    {
+        "app_name": "广汽传祺",
+        "package_name": "com.cloudy.component",
+        "file_name": "com.cloudy.component_145.apk",
+        "app_activity": "com.ds.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "新能源汽车智能网联系统",
+        "package_name": "com.dsx.carmanageandroid",
+        "file_name": "com.dsx.carmanageandroid_146.apk",
+        "app_activity": "com.dsx.carmanageandroid.module.StartActivity"
+    },
+    {
+        "app_name": "吉利汽车",
+        "package_name": "com.geely.consumer",
+        "file_name": "com.geely.consumer_147.apk",
+        "app_activity": "com.geely.consumer.main.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "車誌",
+        "package_name": "com.carsmaga.app",
+        "file_name": "com.carsmaga.app_148.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "全民跑车",
+        "package_name": "zuo.sai.che",
+        "file_name": "zuo.sai.che_149.apk",
+        "app_activity": "zuo.sai.che.activty.StartActivity"
+    },
+    {
+        "app_name": "51车俱乐部",
+        "package_name": "com.dsrz.chocolate",
+        "file_name": "com.dsrz.chocolate_150.apk",
+        "app_activity": "com.dsrz.chocolate.business.activity.common.LaunchActivity"
+    },
+    {
+        "app_name": "人人车二手车",
+        "package_name": "com.renrenche.carapp",
+        "file_name": "com.renrenche.carapp_151.apk",
+        "app_activity": "com.wuba.car.activity.CarCategoryFragmentActivity"
+    },
+    {
+        "app_name": "卡车易购商用车",
+        "package_name": "com.truckego.www",
+        "file_name": "com.truckego.www_152.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "极越",
+        "package_name": "com.jiduauto.app",
+        "file_name": "com.jiduauto.app_153.apk",
+        "app_activity": "com.jiduauto.feature.splash.SplashActivity"
+    },
+    {
+        "app_name": "汽车之家",
+        "package_name": "com.cubic.autohome",
+        "file_name": "com.cubic.autohome_154.apk",
+        "app_activity": "com.cubic.autohome.MainActivity"
+    },
+    {
+        "app_name": "滴友之家",
+        "package_name": "com.car.system",
+        "file_name": "com.car.system_155.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "英客",
+        "package_name": "com.example.herocoming",
+        "file_name": "com.example.herocoming_156.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "途众好车",
+        "package_name": "peace.bird.shop",
+        "file_name": "peace.bird.shop_157.apk",
+        "app_activity": "peace.bird.shop.SplashActivity"
+    },
+    {
+        "app_name": "海米FM",
+        "package_name": "com.qdgdcm.tr897",
+        "file_name": "com.qdgdcm.tr897_158.apk",
+        "app_activity": "com.qdgdcm.tr897.activity.login.LoadingActivity"
+    },
+    {
+        "app_name": "卡嘉",
+        "package_name": "com.jac.superapp.sh.kajia",
+        "file_name": "com.jac.superapp.sh.kajia_159.apk",
+        "app_activity": "com.tima.newRetail.activity.SplashActivity"
+    },
+    {
+        "app_name": "大象拍车",
+        "package_name": "com.happy.daxiangpaiche",
+        "file_name": "com.happy.daxiangpaiche_160.apk",
+        "app_activity": "com.meitiancars.dealerapp.MainActivity"
+    },
+    {
+        "app_name": "吉利银河",
+        "package_name": "com.geelygalaxy.customer",
+        "file_name": "com.geelygalaxy.customer_161.apk",
+        "app_activity": "com.geely.galaxy.main.activity.GalaxySplashActivity"
+    },
+    {
+        "app_name": "冷藏之家",
+        "package_name": "com.qili.yunshu",
+        "file_name": "com.qili.yunshu_162.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "淘车伙伴",
+        "package_name": "com.taoche.partner",
+        "file_name": "com.taoche.partner_163.apk",
+        "app_activity": "com.taoche.partner.launcher.activity.SplashActivity"
+    },
+    {
+        "app_name": "小虎汽车",
+        "package_name": "com.henrey.xiaohuAndroid",
+        "file_name": "com.henrey.xiaohuAndroid_164.apk",
+        "app_activity": "com.henrey.xiaohu.fev.AdvertiseActivity"
+    },
+    {
+        "app_name": "江南汽车",
+        "package_name": "com.jfmall.car",
+        "file_name": "com.jfmall.car_165.apk",
+        "app_activity": "com.pst.orange.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "一鹿有车",
+        "package_name": "com.cheoo.app",
+        "file_name": "com.cheoo.app_166.apk",
+        "app_activity": "com.cheoo.app.activity.SplashActivity"
+    },
+    {
+        "app_name": "超跑之家",
+        "package_name": "com.chaopao.apply",
+        "file_name": "com.chaopao.apply_167.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "放心租",
+        "package_name": "com.qianding.fangxinzu",
+        "file_name": "com.qianding.fangxinzu_168.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "赛力斯蓝电",
+        "package_name": "intl.seres.app.blue_e",
+        "file_name": "intl.seres.app.blue_e_169.apk",
+        "app_activity": "intl.seres.app.blue_e.SplashActivity"
+    },
+    {
+        "app_name": "汽界通商",
+        "package_name": "uni.UNI63C0142",
+        "file_name": "uni.UNI63C0142_170.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "膜术车改",
+        "package_name": "com.moshuPhone",
+        "file_name": "com.moshuPhone_171.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "只视车",
+        "package_name": "com.zhishiche.android.client.cart",
+        "file_name": "com.zhishiche.android.client.cart_172.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "汽势",
+        "package_name": "com.autofirst.carmedia",
+        "file_name": "com.autofirst.carmedia_173.apk",
+        "app_activity": "com.autofirst.carmedia.guide.activity.LunchActivity"
+    },
+    {
+        "app_name": "房车之家",
+        "package_name": "com.bolian.motorhome",
+        "file_name": "com.bolian.motorhome_174.apk",
+        "app_activity": "com.bolian.motorhome.MainActivity"
+    },
+    {
+        "app_name": "绿电拍",
+        "package_name": "com.tlinlin.paimai",
+        "file_name": "com.tlinlin.paimai_175.apk",
+        "app_activity": "com.tlinlin.paimai.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "车燕",
+        "package_name": "cn.fangline.carapp",
+        "file_name": "cn.fangline.carapp_176.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "优信二手车",
+        "package_name": "com.uxin.usedcar",
+        "file_name": "com.uxin.usedcar_177.apk",
+        "app_activity": "com.uxin.mainmodule.ui.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "抵押车交易网",
+        "package_name": "com.dycjy.www",
+        "file_name": "com.dycjy.www_178.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "长安凯程",
+        "package_name": "com.cakcauto.cakc",
+        "file_name": "com.cakcauto.cakc_179.apk",
+        "app_activity": "com.cakcauto.cakc.SplashActivity"
+    },
+    {
+        "app_name": "爱卡汽车",
+        "package_name": "com.xcar.activity",
+        "file_name": "com.xcar.activity_180.apk",
+        "app_activity": "com.xcar.activity.ui.navigation.EntryActivity"
+    },
+    {
+        "app_name": "违章减分助手",
+        "package_name": "cn.qinxueyao.weizhang",
+        "file_name": "cn.qinxueyao.weizhang_181.apk",
+        "app_activity": "cn.qinxueyao.weizhang.MainActivity"
+    },
+    {
+        "app_name": "懂车帝",
+        "package_name": "com.ss.android.auto",
+        "file_name": "com.ss.android.auto_182.apk",
+        "app_activity": "com.ss.android.auto.policy.AutoPrivacyActivity"
+    },
+    {
+        "app_name": "易行车服",
+        "package_name": "com.zyyx.yixingetc",
+        "file_name": "com.zyyx.yixingetc_183.apk",
+        "app_activity": "com.zyyx.app.activity.StartActivity"
+    },
+    {
+        "app_name": "二手车流通",
+        "package_name": "net.escjy.gwl.app",
+        "file_name": "net.escjy.gwl.app_184.apk",
+        "app_activity": "net.escjy.gwl.app.MainActivity"
+    },
+    {
+        "app_name": "蛋蛋订车",
+        "package_name": "com.jqz.dandan",
+        "file_name": "com.jqz.dandan_185.apk",
+        "app_activity": "com.jqz.dandan.views.SplashActivity"
+    },
+    {
+        "app_name": "汽车优惠大全",
+        "package_name": "com.wangshangcheshi.AutoAllDiscounts",
+        "file_name": "com.wangshangcheshi.AutoAllDiscounts_186.apk",
+        "app_activity": "com.wangshangcheshi.AutoAllDiscounts.ui.activity.MainActivity"
+    },
+    {
+        "app_name": "埃安",
+        "package_name": "com.gacne.www",
+        "file_name": "com.gacne.www_187.apk",
+        "app_activity": "com.gacne.www.main.SplashActivity"
+    },
+    {
+        "app_name": "车视界科技",
+        "package_name": "com.csj.carsj",
+        "file_name": "com.csj.carsj_188.apk",
+        "app_activity": "com.cheshijie.ui.SplashActivity"
+    },
+    {
+        "app_name": "中邮车务",
+        "package_name": "com.primeton.CZT_App",
+        "file_name": "com.primeton.CZT_App_189.apk",
+        "app_activity": "com.primeton.emp.client.core.StartUpActivity"
+    },
+    {
+        "app_name": "海量车",
+        "package_name": "com.hailiangche.app",
+        "file_name": "com.hailiangche.app_190.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "瑞驰新能源",
+        "package_name": "com.ruichi.app",
+        "file_name": "com.ruichi.app_191.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "21世纪房车",
+        "package_name": "com.enjoyrv.main",
+        "file_name": "com.enjoyrv.main_192.apk",
+        "app_activity": "com.enjoyrv.main.SplashActivity"
+    },
+    {
+        "app_name": "鸿蒙智行",
+        "package_name": "app.huawei.motor",
+        "file_name": "app.huawei.motor_193.apk",
+        "app_activity": "app.huawei.auto.privacyagreement.PrivacyAgreementActivity"
+    },
+    {
+        "app_name": "Shell Racing Legends",
+        "package_name": "com.TDF.ShellRacingLegends",
+        "file_name": "com.TDF.ShellRacingLegends_194.apk",
+        "app_activity": "com.unity3d.player.UnityPlayerActivity"
+    },
+    {
+        "app_name": "捷豹",
+        "package_name": "com.mobiuyun.jaguarchina",
+        "file_name": "com.mobiuyun.jaguarchina_195.apk",
+        "app_activity": "com.capgemini.app.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "MY JAC",
+        "package_name": "com.jac.superapp.myjac.cyc",
+        "file_name": "com.jac.superapp.myjac.cyc_196.apk",
+        "app_activity": "com.tima.newRetail.activity.SplashActivity"
+    },
+    {
+        "app_name": "惠收车",
+        "package_name": "com.chepaiwanghuishouche",
+        "file_name": "com.chepaiwanghuishouche_197.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "凌宝",
+        "package_name": "cn.carinternet.customize.jinpeng.lingbaox.an",
+        "file_name": "cn.carinternet.customize.jinpeng.lingbaox.an_198.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "保时捷",
+        "package_name": "cn.porsche.app",
+        "file_name": "cn.porsche.app_199.apk",
+        "app_activity": "cn.porsche.app.MainActivity"
+    },
+    {
+        "app_name": "广汽本田",
+        "package_name": "cn.ghac.gha",
+        "file_name": "cn.ghac.gha_200.apk",
+        "app_activity": "com.gha.ghaapp.ui.SplashActivity"
+    },
+    {
+        "app_name": "一车通保",
+        "package_name": "com.yingke.dimapp",
+        "file_name": "com.yingke.dimapp_201.apk",
+        "app_activity": "com.yingke.dimapp.MainActivity"
+    },
+    {
+        "app_name": "买车宝典",
+        "package_name": "com.baojiazhijia.qichebaojia",
+        "file_name": "com.baojiazhijia.qichebaojia_202.apk",
+        "app_activity": "com.baojiazhijia.qichebaojia.SplashActivity"
+    },
+    {
+        "app_name": "易诚同步拍",
+        "package_name": "com.yichengpai.tongbupai",
+        "file_name": "com.yichengpai.tongbupai_203.apk",
+        "app_activity": "com.souche.android.androiddemo.MainActivity"
+    },
+    {
+        "app_name": "车主生活",
+        "package_name": "com.baw.supperapp",
+        "file_name": "com.baw.supperapp_204.apk",
+        "app_activity": "com.baw.supperapp.ui.SplashActivity"
+    },
+    {
+        "app_name": "花生好车",
+        "package_name": "com.huashenghaoche.shop",
+        "file_name": "com.huashenghaoche.shop_205.apk",
+        "app_activity": "com.huashenghaoche.shop.ui.SplashActivity"
+    },
+    {
+        "app_name": "方程豹汽车",
+        "package_name": "com.byd.sf",
+        "file_name": "com.byd.sf_206.apk",
+        "app_activity": "com.byd.aeri.splash.module_splash.activity.LaunchActivity"
+    },
+    {
+        "app_name": "30秒懂车",
+        "package_name": "com.che30s",
+        "file_name": "com.che30s_207.apk",
+        "app_activity": "com.che30s.MainActivity"
+    },
+    {
+        "app_name": "北京汽车",
+        "package_name": "com.dj.xny",
+        "file_name": "com.dj.xny_208.apk",
+        "app_activity": "com.cy.aaui.activity.AppEntranceActivity"
+    },
+    {
+        "app_name": "东风商用车经销商版",
+        "package_name": "com.example.waka",
+        "file_name": "com.example.waka_209.apk",
+        "app_activity": "io.flutter.embedding.android.FlutterActivity"
+    },
+    {
+        "app_name": "卡车e族",
+        "package_name": "com.trucker168.cms",
+        "file_name": "com.trucker168.cms_210.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "汽车天下",
+        "package_name": "com.cshzm.car",
+        "file_name": "com.cshzm.car_211.apk",
+        "app_activity": "com.cshzm.car.MainActivity"
+    },
+    {
+        "app_name": "车开新二手车",
+        "package_name": "com.clcw.kx.chekaixin",
+        "file_name": "com.clcw.kx.chekaixin_212.apk",
+        "app_activity": "cn.kx.kxcustomerapp.MainActivity"
+    },
+    {
+        "app_name": "My Bentley",
+        "package_name": "cn.bentley.mybentley",
+        "file_name": "cn.bentley.mybentley_213.apk",
+        "app_activity": "uk.co.bentley.mybentley.MainActivity"
+    },
+    {
+        "app_name": "车讯通",
+        "package_name": "che.kotlin.model.vehiclesmart",
+        "file_name": "che.kotlin.model.vehiclesmart_214.apk",
+        "app_activity": "cn.kotlin.model.vehiclesmart.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "引力域",
+        "package_name": "com.changan.uni",
+        "file_name": "com.changan.uni_215.apk",
+        "app_activity": "com.changan.foundation.component.SplashActivity"
+    },
+    {
+        "app_name": "车皇人APP",
+        "package_name": "cn.zenyee.chehuangren",
+        "file_name": "cn.zenyee.chehuangren_216.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "帮提车",
+        "package_name": "com.chisalsoft.suncar",
+        "file_name": "com.chisalsoft.suncar_217.apk",
+        "app_activity": "com.chisalsoft.andite.uicontroller.activity.Activity_Splash"
+    },
+    {
+        "app_name": "北京现代",
+        "package_name": "com.wrd",
+        "file_name": "com.wrd_218.apk",
+        "app_activity": "com.wrd.mvp.gch.main.SplashActivity"
+    },
+    {
+        "app_name": "一线购车",
+        "package_name": "uni.UNI7007D61",
+        "file_name": "uni.UNI7007D61_219.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "华夏二手车",
+        "package_name": "com.hx.ui",
+        "file_name": "com.hx.ui_220.apk",
+        "app_activity": "com.hx2car.ui.LoadingActivity"
+    },
+    {
+        "app_name": "铃融e",
+        "package_name": "cn.com.jlcwgs.lre",
+        "file_name": "cn.com.jlcwgs.lre_221.apk",
+        "app_activity": "cn.com.MainActivity"
+    },
+    {
+        "app_name": "华瑞源车商通",
+        "package_name": "com.xiao.administrator.hryadministration",
+        "file_name": "com.xiao.administrator.hryadministration_222.apk",
+        "app_activity": "com.xiao.administrator.hryadministration.ui.StartActivity"
+    },
+    {
+        "app_name": "赛力斯汽车",
+        "package_name": "cn.seres",
+        "file_name": "cn.seres_223.apk",
+        "app_activity": "cn.seres.other.StartActivity"
+    },
+    {
+        "app_name": "上海汽车报",
+        "package_name": "com.auto.news",
+        "file_name": "com.auto.news_224.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "汽车售后点评",
+        "package_name": "com.zgczw.jingxiaoshang",
+        "file_name": "com.zgczw.jingxiaoshang_225.apk",
+        "app_activity": "com.zgczw.jingxiaoshang.ui.SplashActivity"
+    },
+    {
+        "app_name": "帅车联盟",
+        "package_name": "com.shuaiche.sc",
+        "file_name": "com.shuaiche.sc_226.apk",
+        "app_activity": "com.shuaiche.sc.ui.SCWelcomeActivity"
+    },
+    {
+        "app_name": "白菜二手车",
+        "package_name": "com.wuba.ercar",
+        "file_name": "com.wuba.ercar_227.apk",
+        "app_activity": "com.wuba.ercar.act.LaunchActivity"
+    },
+    {
+        "app_name": "众淘汽配商城",
+        "package_name": "uni.UNI293BE63",
+        "file_name": "uni.UNI293BE63_228.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "汽车惠",
+        "package_name": "com.qiche.discount",
+        "file_name": "com.qiche.discount_229.apk",
+        "app_activity": "com.yiche.autoeasy.SplashActivity"
+    },
+    {
+        "app_name": "恩佐网",
+        "package_name": "com.eenzo.enzo",
+        "file_name": "com.eenzo.enzo_230.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "卖好车",
+        "package_name": "com.maihaoche.bentley",
+        "file_name": "com.maihaoche.bentley_231.apk",
+        "app_activity": "com.maihaoche.bentley.activity.LauncherActivity"
+    },
+    {
+        "app_name": "金鱼塘",
+        "package_name": "com.jytche.app",
+        "file_name": "com.jytche.app_232.apk",
+        "app_activity": "com.jytche.app.MainActivity"
+    },
+    {
+        "app_name": "乐道汽车",
+        "package_name": "com.nio.alps",
+        "file_name": "com.nio.alps_233.apk",
+        "app_activity": "com.nio.alps.splash.AlpsSplashStartupActivity"
+    },
+    {
+        "app_name": "哈弗智家",
+        "package_name": "com.navinfo.gw",
+        "file_name": "com.navinfo.gw_234.apk",
+        "app_activity": "com.beans.haval.ui.SplashActivity"
+    },
+    {
+        "app_name": "汽车头条",
+        "package_name": "com.taoche.qctt",
+        "file_name": "com.taoche.qctt_235.apk",
+        "app_activity": "com.taoche.qctt.ui.SplashActivity"
+    },
+    {
+        "app_name": "企服加油",
+        "package_name": "com.czb.fleet",
+        "file_name": "com.czb.fleet_236.apk",
+        "app_activity": "com.czb.fleet.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "当当拍车",
+        "package_name": "com.dangdangpaiche",
+        "file_name": "com.dangdangpaiche_237.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "LynkCo",
+        "package_name": "com.lynkco.customer",
+        "file_name": "com.lynkco.customer_238.apk",
+        "app_activity": "com.geely.lynkco.main.activity.LynkCoEntranceActivity"
+    },
+    {
+        "app_name": "汽车街",
+        "package_name": "com.shuxun.autostreets",
+        "file_name": "com.shuxun.autostreets_239.apk",
+        "app_activity": "com.shuxun.autostreets.SplashActivity"
+    },
+    {
+        "app_name": "Alfa Romeo World",
+        "package_name": "com.yonyou.ar.app",
+        "file_name": "com.yonyou.ar.app_240.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "长安启源",
+        "package_name": "com.changan.oushangCos1",
+        "file_name": "com.changan.oushangCos1_241.apk",
+        "app_activity": "com.changan.qiyuan.SplashActivity"
+    },
+    {
+        "app_name": "摩托车之家",
+        "package_name": "com.roll.motorcycle",
+        "file_name": "com.roll.motorcycle_242.apk",
+        "app_activity": "com.juguo.module_host.activity.LauncherActivity"
+    },
+    {
+        "app_name": "车小子",
+        "package_name": "com.malingshu.cxz",
+        "file_name": "com.malingshu.cxz_243.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "DS Life",
+        "package_name": "com.yonyou.ds.app",
+        "file_name": "com.yonyou.ds.app_244.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "一车帝商户端",
+        "package_name": "xcx.yichedi.com",
+        "file_name": "xcx.yichedi.com_245.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "车福通",
+        "package_name": "com.sxyytkeji.wlhy.driver",
+        "file_name": "com.sxyytkeji.wlhy.driver_246.apk",
+        "app_activity": "com.sxyytkeji.wlhy.driver.page.splash.SplashActivity"
+    },
+    {
+        "app_name": "深蓝汽车",
+        "package_name": "deepal.com.cn.app",
+        "file_name": "deepal.com.cn.app_247.apk",
+        "app_activity": "deepal.com.cn.app.SplashActivity"
+    },
+    {
+        "app_name": "纳维亚车改",
+        "package_name": "com.navicoPhone",
+        "file_name": "com.navicoPhone_248.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "ARCFOX极狐",
+        "package_name": "com.bjev.arcfox",
+        "file_name": "com.bjev.arcfox_249.apk",
+        "app_activity": "com.bjev.arcfox.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "车直优",
+        "package_name": "com.czyqccs.supper",
+        "file_name": "com.czyqccs.supper_250.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "车300专业版",
+        "package_name": "com.che300.price",
+        "file_name": "com.che300.price_251.apk",
+        "app_activity": "com.che300.price.activity.SplashActivity"
+    },
+    {
+        "app_name": "买车网",
+        "package_name": "com.buycar.bcns",
+        "file_name": "com.buycar.bcns_252.apk",
+        "app_activity": "com.njcw.car.ui.web.AgreementActivity"
+    },
+    {
+        "app_name": "蔚车",
+        "package_name": "com.weacar.app",
+        "file_name": "com.weacar.app_253.apk",
+        "app_activity": "com.weacar.app.mvp.activity.SplashActivity"
+    },
+    {
+        "app_name": "新马配",
+        "package_name": "com.xinmapei",
+        "file_name": "com.xinmapei_254.apk",
+        "app_activity": "com.xinmapei.MainActivity"
+    },
+    {
+        "app_name": "平行之家",
+        "package_name": "cn.mucang.android.parallelvehicle",
+        "file_name": "cn.mucang.android.parallelvehicle_255.apk",
+        "app_activity": "cn.mucang.android.parallelvehicle.SplashActivity"
+    },
+    {
+        "app_name": "飞凡汽车",
+        "package_name": "com.saicmotor.r",
+        "file_name": "com.saicmotor.r_256.apk",
+        "app_activity": "com.rcar.module.splash.biz.welcome.view.WelcomeActivity"
+    },
+    {
+        "app_name": "卡车世界",
+        "package_name": "plus.H55B0D4C2",
+        "file_name": "plus.H55B0D4C2_257.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "F1赛程",
+        "package_name": "com.mupan.F1.schedule",
+        "file_name": "com.mupan.F1.schedule_258.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "我的汽车站",
+        "package_name": "com.erg.jtydy.fdgea",
+        "file_name": "com.erg.jtydy.fdgea_259.apk",
+        "app_activity": "tai.mengzhu.circle.activty.StartActivity"
+    },
+    {
+        "app_name": "惠买车科技",
+        "package_name": "uni.UNIF588570",
+        "file_name": "uni.UNIF588570_260.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "长安Topspace",
+        "package_name": "cn.com.changan.sdamobile",
+        "file_name": "cn.com.changan.sdamobile_261.apk",
+        "app_activity": "com.changan.topspace.SplashActivity"
+    },
+    {
+        "app_name": "车镇车源",
+        "package_name": "cn.kooki.app.chezhen",
+        "file_name": "cn.kooki.app.chezhen_262.apk",
+        "app_activity": "cn.kooki.app.chezhen.activity.maintab.SplashActivity"
+    },
+    {
+        "app_name": "车质宝典",
+        "package_name": "com.aqsiqauto.carqualitybible",
+        "file_name": "com.aqsiqauto.carqualitybible_263.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "瓜子二手车",
+        "package_name": "com.ganji.android.haoche_c",
+        "file_name": "com.ganji.android.haoche_c_264.apk",
+        "app_activity": "com.squareup.leakcanary.internal.DisplayLeakActivity"
+    },
+    {
+        "app_name": "车E家二手车",
+        "package_name": "cn.com.ecarbroker",
+        "file_name": "cn.com.ecarbroker_265.apk",
+        "app_activity": "cn.com.ecarbroker.ui.MainActivity"
+    },
+    {
+        "app_name": "小飞车",
+        "package_name": "com.yiche.speedster",
+        "file_name": "com.yiche.speedster_266.apk",
+        "app_activity": "com.yiche.speedster.MainActivity"
+    },
+    {
+        "app_name": "车链云",
+        "package_name": "cn.kooki.app.manager",
+        "file_name": "cn.kooki.app.manager_267.apk",
+        "app_activity": "cn.kooki.app.manager.ui.launch.SplashActivity"
+    },
+    {
+        "app_name": "传祺新能源",
+        "package_name": "com.gacmotor.ev",
+        "file_name": "com.gacmotor.ev_268.apk",
+        "app_activity": "com.ds.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "零跑",
+        "package_name": "com.dahua.leapmotor",
+        "file_name": "com.dahua.leapmotor_269.apk",
+        "app_activity": "com.dahua.leapmotor.ui.LpSplashActivity"
+    },
+    {
+        "app_name": "小柠拍",
+        "package_name": "com.xiaoning.xiaoningpai",
+        "file_name": "com.xiaoning.xiaoningpai_270.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "车小蜂",
+        "package_name": "com.youcheyihou.iyourautobee",
+        "file_name": "com.youcheyihou.iyourautobee_271.apk",
+        "app_activity": "com.youcheyihou.ftmain.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "华瑞源二手车",
+        "package_name": "com.huaruiyuan.administrator.jnhuaruiyuan",
+        "file_name": "com.huaruiyuan.administrator.jnhuaruiyuan_272.apk",
+        "app_activity": "com.huaruiyuan.administrator.jnhuaruiyuan.ui.StartActivity"
+    },
+    {
+        "app_name": "高速ETC",
+        "package_name": "com.manyi.mobile.gsetc",
+        "file_name": "com.manyi.mobile.gsetc_273.apk",
+        "app_activity": "com.manyi.mobile.etc.activity.SplashActivity"
+    },
+    {
+        "app_name": "星之联二手车",
+        "package_name": "cn.zenyee.usedcar.starunion",
+        "file_name": "cn.zenyee.usedcar.starunion_274.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "卡一车",
+        "package_name": "com.pft.gtlcp",
+        "file_name": "com.pft.gtlcp_275.apk",
+        "app_activity": "com.pft.gtlcp.ui.activity.CountDownActivity"
+    },
+    {
+        "app_name": "淘车帮帮",
+        "package_name": "com.andromeda.tcbb.car",
+        "file_name": "com.andromeda.tcbb.car_276.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "一车帝",
+        "package_name": "com.yichedi.mm",
+        "file_name": "com.yichedi.mm_277.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "东风奕派",
+        "package_name": "com.dfmc.dfpv.sapp",
+        "file_name": "com.dfmc.dfpv.sapp_278.apk",
+        "app_activity": "com.szlanyou.scattered.ui.EpiStartActivity"
+    },
+    {
+        "app_name": "长城汽车",
+        "package_name": "com.gwm.fusion",
+        "file_name": "com.gwm.fusion_279.apk",
+        "app_activity": "com.gwm.fusion.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "极氪",
+        "package_name": "com.zeekrlife.mobile",
+        "file_name": "com.zeekrlife.mobile_280.apk",
+        "app_activity": "com.zeekrlife.main.SplashActivity"
+    },
+    {
+        "app_name": "车易懂",
+        "package_name": "com.cheyidong.benben",
+        "file_name": "com.cheyidong.benben_281.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "歆配汽车",
+        "package_name": "com.demlution.aashxqsy",
+        "file_name": "com.demlution.aashxqsy_282.apk",
+        "app_activity": "com.demlution.aashxqsy.MainActivity"
+    },
+    {
+        "app_name": "遇道",
+        "package_name": "com.ve_link.androids",
+        "file_name": "com.ve_link.androids_283.apk",
+        "app_activity": "com.ve_link.androids.activity.start.SplashActivity"
+    },
+    {
+        "app_name": "自杰事故车",
+        "package_name": "m.shiguche.com",
+        "file_name": "m.shiguche.com_284.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "皆电",
+        "package_name": "com.pcauto.geeknev.android",
+        "file_name": "com.pcauto.geeknev.android_285.apk",
+        "app_activity": "cn.com.pc.auto.x.MainActivity"
+    },
+    {
+        "app_name": "会享福二手车",
+        "package_name": "com.foton.truckauction",
+        "file_name": "com.foton.truckauction_286.apk",
+        "app_activity": "com.foton.truckauction.MainActivity"
+    },
+    {
+        "app_name": "奇瑞汽车",
+        "package_name": "com.digitalmall.chery",
+        "file_name": "com.digitalmall.chery_287.apk",
+        "app_activity": "com.jetour.traveller.launch.LaunchActivity"
+    }
+]

@@ -1,0 +1,1280 @@
+[
+    {
+        "app_name": "有宠",
+        "package_name": "com.chong.youchong",
+        "file_name": "com.chong.youchong_1.apk",
+        "app_activity": "com.chong.youchong.MainActivity"
+    },
+    {
+        "app_name": "我的隐私相册",
+        "package_name": "wdxc.simi.wtwwdxcom",
+        "file_name": "wdxc.simi.wtwwdxcom_2.apk",
+        "app_activity": "com.vtb.new_album.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "最美证件照AI制作",
+        "package_name": "com.bestbeauty.myphoto",
+        "file_name": "com.bestbeauty.myphoto_3.apk",
+        "app_activity": "com.bestbeauty.myphoto.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "GIF表情制作",
+        "package_name": "cn.judingkeji.gif",
+        "file_name": "cn.judingkeji.gif_4.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "MT Photos",
+        "package_name": "com.mtphotosapp",
+        "file_name": "com.mtphotosapp_5.apk",
+        "app_activity": "com.mtphotos.MainActivity"
+    },
+    {
+        "app_name": "我的相簿",
+        "package_name": "gzqf.ewsfrse.wserfa",
+        "file_name": "gzqf.ewsfrse.wserfa_6.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "Pip Photos",
+        "package_name": "io.zhuliang.pipphotos",
+        "file_name": "io.zhuliang.pipphotos_7.apk",
+        "app_activity": "io.zhuliang.pipphotos.ui.main.MainActivity"
+    },
+    {
+        "app_name": "photoroom",
+        "package_name": "jpkj.photo.room",
+        "file_name": "jpkj.photo.room_8.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "lr滤镜君",
+        "package_name": "com.cmr.asdlfer.xiangji",
+        "file_name": "com.cmr.asdlfer.xiangji_9.apk",
+        "app_activity": "com.cmr.asdlfer.xiangji.activity.StartActivity"
+    },
+    {
+        "app_name": "图悠悠",
+        "package_name": "tuyouyou.com",
+        "file_name": "tuyouyou.com_10.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "小拾记",
+        "package_name": "com.szmx.album",
+        "file_name": "com.szmx.album_11.apk",
+        "app_activity": "com.szmx.album.MainActivity"
+    },
+    {
+        "app_name": "GalleryVault",
+        "package_name": "com.thinkyeah.galleryvault",
+        "file_name": "com.thinkyeah.galleryvault_12.apk",
+        "app_activity": "com.thinkyeah.galleryvault.main.ui.activity.AddByCameraActivity"
+    },
+    {
+        "app_name": "美亿格",
+        "package_name": "com.relech.MediaSync",
+        "file_name": "com.relech.MediaSync_13.apk",
+        "app_activity": "com.relech.MediaSync.UI.SplashActivity"
+    },
+    {
+        "app_name": "美美音乐相册",
+        "package_name": "com.zxhapp.videomaker",
+        "file_name": "com.zxhapp.videomaker_14.apk",
+        "app_activity": "com.zxhapp.videomaker.activities.SplashActivity"
+    },
+    {
+        "app_name": "相册保险库",
+        "package_name": "com.lxdxiangce.baoxianxiang",
+        "file_name": "com.lxdxiangce.baoxianxiang_15.apk",
+        "app_activity": "com.vtb.new_album.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "薇拉图志",
+        "package_name": "com.iaviva.app",
+        "file_name": "com.iaviva.app_16.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "亲影 Disk",
+        "package_name": "com.tiorb.tubo",
+        "file_name": "com.tiorb.tubo_17.apk",
+        "app_activity": "com.tiorb.tubo.ui.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "纹身图案大全",
+        "package_name": "com.weimi.wsdk.tuku",
+        "file_name": "com.weimi.wsdk.tuku_18.apk",
+        "app_activity": "com.weimi.wsdk.tuku.react.MainActivity"
+    },
+    {
+        "app_name": "暖流",
+        "package_name": "com.xsmart.recall.android",
+        "file_name": "com.xsmart.recall.android_19.apk",
+        "app_activity": "com.xsmart.recall.android.SplashActivity"
+    },
+    {
+        "app_name": "照片墙切图拼图",
+        "package_name": "com.qietu.pin",
+        "file_name": "com.qietu.pin_20.apk",
+        "app_activity": "com.qietu.pin.ui.activity.FirstLoadActivity"
+    },
+    {
+        "app_name": "去拍",
+        "package_name": "com.kangyi.qvpai",
+        "file_name": "com.kangyi.qvpai_21.apk",
+        "app_activity": "com.kangyi.qvpai.activity.start.StartActivity"
+    },
+    {
+        "app_name": "生物记",
+        "package_name": "com.wiipu.biologyrecord",
+        "file_name": "com.wiipu.biologyrecord_22.apk",
+        "app_activity": "com.tangzy.mvpframe.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "管家婆图库",
+        "package_name": "cybg.vgteo.sxfe",
+        "file_name": "cybg.vgteo.sxfe_23.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "相册精灵",
+        "package_name": "finger.pixel.album.photo",
+        "file_name": "finger.pixel.album.photo_24.apk",
+        "app_activity": "com.qnet.libbase.appbase.ui.start.StartActivity"
+    },
+    {
+        "app_name": "MiaoHeZi",
+        "package_name": "net.ldmf.mhz",
+        "file_name": "net.ldmf.mhz_25.apk",
+        "app_activity": "net.ldmf.mhz.SplashActivity"
+    },
+    {
+        "app_name": "QuMagie",
+        "package_name": "com.qnap.mobile.qumagie",
+        "file_name": "com.qnap.mobile.qumagie_26.apk",
+        "app_activity": "com.qnap.mobile.qumagie.QuMagieEntry"
+    },
+    {
+        "app_name": "小年糕",
+        "package_name": "cn.xiaoniangao.xngapp",
+        "file_name": "cn.xiaoniangao.xngapp_27.apk",
+        "app_activity": "cn.xiaoniangao.xngapp.splash.SplashActivity"
+    },
+    {
+        "app_name": "丁丁爱涂",
+        "package_name": "com.androidczh.diantu",
+        "file_name": "com.androidczh.diantu_28.apk",
+        "app_activity": "com.androidczh.diantu.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "我的相册薄",
+        "package_name": "shufle.wdxcb.album",
+        "file_name": "shufle.wdxcb.album_29.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "水印相册",
+        "package_name": "com.fanghenet.watershower",
+        "file_name": "com.fanghenet.watershower_30.apk",
+        "app_activity": "com.fanghenet.watershower.ui.activity.IndexActivity"
+    },
+    {
+        "app_name": "HP Smart",
+        "package_name": "com.hp.printercontrol",
+        "file_name": "com.hp.printercontrol_31.apk",
+        "app_activity": "com.hp.printercontrol.hpx.PrinterControlWrapperActivity"
+    },
+    {
+        "app_name": "Pintura Life",
+        "package_name": "com.ost.pintura",
+        "file_name": "com.ost.pintura_32.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "图王",
+        "package_name": "com.tuwangnet.twwapp",
+        "file_name": "com.tuwangnet.twwapp_33.apk",
+        "app_activity": "com.tuwangnet.twwapp.MainActivity"
+    },
+    {
+        "app_name": "好兔运动",
+        "package_name": "com.dmeyc.dmestoreyfm",
+        "file_name": "com.dmeyc.dmestoreyfm_34.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "IP SHANGHAI",
+        "package_name": "cn.thepaper.ipshanghai",
+        "file_name": "cn.thepaper.ipshanghai_35.apk",
+        "app_activity": "cn.thepaper.ipshanghai.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "让爱成书",
+        "package_name": "com.piya.terminal",
+        "file_name": "com.piya.terminal_36.apk",
+        "app_activity": "com.piya.PiyaPandoraEntry"
+    },
+    {
+        "app_name": "搜图神器",
+        "package_name": "com.example.administrator.searchpicturetool",
+        "file_name": "com.example.administrator.searchpicturetool_37.apk",
+        "app_activity": "com.wander.android.searchpicturetool.launch.NewLaunchActivity"
+    },
+    {
+        "app_name": "私密应用游戏隐藏大师",
+        "package_name": "com.nianbo.picprivate",
+        "file_name": "com.nianbo.picprivate_38.apk",
+        "app_activity": "com.nianbo.picprivate.SplashActivity"
+    },
+    {
+        "app_name": "我的像册",
+        "package_name": "hfyy.wdxc.sjxc",
+        "file_name": "hfyy.wdxc.sjxc_39.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "图小小相册",
+        "package_name": "zs.attrsense.bys",
+        "file_name": "zs.attrsense.bys_40.apk",
+        "app_activity": "zs.attrsense.bys.ui.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "模卡",
+        "package_name": "com.weimoka.moka",
+        "file_name": "com.weimoka.moka_41.apk",
+        "app_activity": "com.weimoka.moka.ui.SplashActivity"
+    },
+    {
+        "app_name": "迷你相册",
+        "package_name": "com.llnj.mnxc",
+        "file_name": "com.llnj.mnxc_42.apk",
+        "app_activity": "com.valbum.mini.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "爱佳能相机",
+        "package_name": "com.canon.camera",
+        "file_name": "com.canon.camera_43.apk",
+        "app_activity": "com.canon.camera.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "搞定水印相机",
+        "package_name": "com.gaoding.mm",
+        "file_name": "com.gaoding.mm_44.apk",
+        "app_activity": "com.gaoding.mm.views.splash.NewGroMoreAdSplashActivity"
+    },
+    {
+        "app_name": "我的相册集",
+        "package_name": "com.wodexiangceji.gyzys",
+        "file_name": "com.wodexiangceji.gyzys_45.apk",
+        "app_activity": "com.valbum.manage.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "相册集",
+        "package_name": "com.aswind.video.image.template.market",
+        "file_name": "com.aswind.video.image.template.market_46.apk",
+        "app_activity": "com.qnet.libbase.appbase.ui.start.StartActivity"
+    },
+    {
+        "app_name": "嘉家堡",
+        "package_name": "com.wanve.dahome",
+        "file_name": "com.wanve.dahome_47.apk",
+        "app_activity": "com.wanve.dahome.MainActivity"
+    },
+    {
+        "app_name": "相册馆",
+        "package_name": "com.jjxcg.album",
+        "file_name": "com.jjxcg.album_48.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "地图相册",
+        "package_name": "com.yuanli.mapalbum",
+        "file_name": "com.yuanli.mapalbum_49.apk",
+        "app_activity": "com.yuanli.mapalbum.ui.activity.StartPageActivity"
+    },
+    {
+        "app_name": "SonarPen",
+        "package_name": "com.greenbulb.sonarpen",
+        "file_name": "com.greenbulb.sonarpen_50.apk",
+        "app_activity": "com.greenbulb.sonarpen.MainActivity"
+    },
+    {
+        "app_name": "平行相册空间",
+        "package_name": "com.mlanpxxc.space",
+        "file_name": "com.mlanpxxc.space_51.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "衣橱衣柜收纳箱",
+        "package_name": "com.yichu.wsb",
+        "file_name": "com.yichu.wsb_52.apk",
+        "app_activity": "cn.feichongtech.newmymvpkotlin.activity.SplashActivity"
+    },
+    {
+        "app_name": "一键应用软件加密",
+        "package_name": "com.qiutinghe.photoalbum",
+        "file_name": "com.qiutinghe.photoalbum_53.apk",
+        "app_activity": "com.qiutinghe.photoalbum.SplashActivity"
+    },
+    {
+        "app_name": "轻映录屏",
+        "package_name": "com.fullstack.screenrecording",
+        "file_name": "com.fullstack.screenrecording_55.apk",
+        "app_activity": "com.fullstack.screenrecording.ui.activity.user.AppPrivacyPolicyAgreeActivity"
+    },
+    {
+        "app_name": "社交应用隐藏",
+        "package_name": "com.shengmi.photo",
+        "file_name": "com.shengmi.photo_56.apk",
+        "app_activity": "com.shengmi.photo.SplashActivity"
+    },
+    {
+        "app_name": "相册小秘书",
+        "package_name": "com.hefzfwd.xcgj",
+        "file_name": "com.hefzfwd.xcgj_57.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "KODAK Classic Frame",
+        "package_name": "com.cloudhearing.digital.kodakphotoframe.android.mobile",
+        "file_name": "com.cloudhearing.digital.kodakphotoframe.android.mobile_58.apk",
+        "app_activity": "com.cloudhearing.digital.kodakphotoframe.android.mobile.ui.StartActivity"
+    },
+    {
+        "app_name": "简单秀秀",
+        "package_name": "com.bluebud.JDXX",
+        "file_name": "com.bluebud.JDXX_59.apk",
+        "app_activity": "com.bluebud.JDDD.StartPageActivity"
+    },
+    {
+        "app_name": "我的私密图库",
+        "package_name": "cio.simitukuvtb.qbfliop",
+        "file_name": "cio.simitukuvtb.qbfliop_60.apk",
+        "app_activity": "com.appalbum3.album3.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "拼图兔",
+        "package_name": "cn.weixiaowenghua.pintu",
+        "file_name": "cn.weixiaowenghua.pintu_61.apk",
+        "app_activity": "cn.weixiaowenghua.pintu.ui.SplashActivity"
+    },
+    {
+        "app_name": "我的相册",
+        "package_name": "dshark.mine.album",
+        "file_name": "dshark.mine.album_62.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "你好小Y",
+        "package_name": "com.nn.nhxy",
+        "file_name": "com.nn.nhxy_63.apk",
+        "app_activity": "com.nn.nnvideo.StartActivity"
+    },
+    {
+        "app_name": "BOE画屏",
+        "package_name": "com.boe.client",
+        "file_name": "com.boe.client_64.apk",
+        "app_activity": "com.boe.client.ui.LauncherActivity"
+    },
+    {
+        "app_name": "ai相册",
+        "package_name": "zhineng.xiangce.chuqi",
+        "file_name": "zhineng.xiangce.chuqi_65.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "手机相册助手",
+        "package_name": "qcxx.sjxc.bhskw",
+        "file_name": "qcxx.sjxc.bhskw_66.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "享图",
+        "package_name": "com.yishunkeji.sharepicture",
+        "file_name": "com.yishunkeji.sharepicture_67.apk",
+        "app_activity": "io.flutter.embedding.android.FlutterFragmentActivity"
+    },
+    {
+        "app_name": "触站",
+        "package_name": "com.huashi6.hst",
+        "file_name": "com.huashi6.hst_68.apk",
+        "app_activity": "com.huashi6.hst.ui.common.activity.LaunchActivity"
+    },
+    {
+        "app_name": "小万出行",
+        "package_name": "com.vanjee.one",
+        "file_name": "com.vanjee.one_69.apk",
+        "app_activity": "com.vanjee.one.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "密码相册锁",
+        "package_name": "com.dida.appphoto",
+        "file_name": "com.dida.appphoto_70.apk",
+        "app_activity": "com.dida.appphoto.lactivity.StartActivity"
+    },
+    {
+        "app_name": "图片大全搜图",
+        "package_name": "com.myd.picsearch",
+        "file_name": "com.myd.picsearch_71.apk",
+        "app_activity": "com.myd.picsearch.ui.SplashActivity"
+    },
+    {
+        "app_name": "情侣相册",
+        "package_name": "com.lhzzbl.qlxc",
+        "file_name": "com.lhzzbl.qlxc_72.apk",
+        "app_activity": "com.sxb.new_album_2.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "隐私相册管家",
+        "package_name": "com.hnjdzy.privacyalbum",
+        "file_name": "com.hnjdzy.privacyalbum_73.apk",
+        "app_activity": "com.hnjdzy.privacyalbum.mvp.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "美女图集大全",
+        "package_name": "com.gator.mm",
+        "file_name": "com.gator.mm_74.apk",
+        "app_activity": "com.gator.mm.StartPageActivity"
+    },
+    {
+        "app_name": "密码云相册",
+        "package_name": "com.yuejia.passwordcloudalbum",
+        "file_name": "com.yuejia.passwordcloudalbum_75.apk",
+        "app_activity": "com.yuejia.passwordcloudalbum.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "旅行足迹",
+        "package_name": "com.xishuai.travelmap",
+        "file_name": "com.xishuai.travelmap_76.apk",
+        "app_activity": "com.xishuai.travelmap.SplashActivity"
+    },
+    {
+        "app_name": "500px中国版",
+        "package_name": "com.fivehundredpx.viewer.main",
+        "file_name": "com.fivehundredpx.viewer.main_77.apk",
+        "app_activity": "com.fivehundredpx.viewer.main.RootActivity"
+    },
+    {
+        "app_name": "美甲",
+        "package_name": "com.yunchuan.manicure",
+        "file_name": "com.yunchuan.manicure_78.apk",
+        "app_activity": "com.yunchuan.manicure.SplashActivity"
+    },
+    {
+        "app_name": "图影视频剪辑",
+        "package_name": "com.camerasideas.videograb",
+        "file_name": "com.camerasideas.videograb_79.apk",
+        "app_activity": "com.aijianji.clip.ui.splash.Splash2Activity"
+    },
+    {
+        "app_name": "CC空间",
+        "package_name": "cc.xwg.space",
+        "file_name": "cc.xwg.space_80.apk",
+        "app_activity": "cc.xwg.space.ui.login.AdActivity"
+    },
+    {
+        "app_name": "映目",
+        "package_name": "com.ianlon.uphoto",
+        "file_name": "com.ianlon.uphoto_81.apk",
+        "app_activity": "com.ianlon.uphoto.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "唔姆",
+        "package_name": "com.umu168.wumu",
+        "file_name": "com.umu168.wumu_82.apk",
+        "app_activity": "com.umu168.wumu.MainActivity"
+    },
+    {
+        "app_name": "我的私密相册",
+        "package_name": "xiang.simixc.gyhyl",
+        "file_name": "xiang.simixc.gyhyl_83.apk",
+        "app_activity": "com.album.newalbum5.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "素白白影视播放器",
+        "package_name": "com.subaibaitv.cstzttkx",
+        "file_name": "com.subaibaitv.cstzttkx_84.apk",
+        "app_activity": "com.vtb.movies.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "1234",
+        "package_name": "com.photo.byzm.mttk",
+        "file_name": "com.photo.byzm.mttk_85.apk",
+        "app_activity": "com.tad.SplashActivity"
+    },
+    {
+        "app_name": "时光了",
+        "package_name": "com.timeshare",
+        "file_name": "com.timeshare_86.apk",
+        "app_activity": "com.timeshare.SplashActivity"
+    },
+    {
+        "app_name": "鲱鱼罐头",
+        "package_name": "cn.logicdesign.quotepic",
+        "file_name": "cn.logicdesign.quotepic_87.apk",
+        "app_activity": "cn.logicdesign.quotepic.ui.pages.splash.LauncherActivity"
+    },
+    {
+        "app_name": "自拍证件照",
+        "package_name": "com.dagaohan.allphoto",
+        "file_name": "com.dagaohan.allphoto_88.apk",
+        "app_activity": "com.dagaohan.allphoto.ui.activity.IndexActivity"
+    },
+    {
+        "app_name": "速冲印",
+        "package_name": "com.yuanli.fastprint",
+        "file_name": "com.yuanli.fastprint_89.apk",
+        "app_activity": "com.yuanli.fastprint.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "情头",
+        "package_name": "com.zbjhkj.qt",
+        "file_name": "com.zbjhkj.qt_90.apk",
+        "app_activity": "com.finogeeks.applet_wrapper.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "无界AI",
+        "package_name": "com.blockmeta.trade",
+        "file_name": "com.blockmeta.trade_91.apk",
+        "app_activity": "com.blockmeta.bbs.businesslibrary.launch.NewSplashActivity"
+    },
+    {
+        "app_name": "唯美相册",
+        "package_name": "com.yuanli.photoweimei",
+        "file_name": "com.yuanli.photoweimei_93.apk",
+        "app_activity": "com.yuanli.photoweimei.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "私密相册隐藏",
+        "package_name": "com.ewfefcsd.fgre",
+        "file_name": "com.ewfefcsd.fgre_94.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "CM图片压缩专家",
+        "package_name": "com.zxwknight.compressmaster",
+        "file_name": "com.zxwknight.compressmaster_95.apk",
+        "app_activity": "com.zxwknight.compressmaster.view.main.MainActivity"
+    },
+    {
+        "app_name": "加密相册薄",
+        "package_name": "com.jtxc.secret",
+        "file_name": "com.jtxc.secret_96.apk",
+        "app_activity": "com.fwlst.module_splash.SplashActivity"
+    },
+    {
+        "app_name": "拼图高手",
+        "package_name": "chang.pin.jie",
+        "file_name": "chang.pin.jie_97.apk",
+        "app_activity": "chang.pin.jie.activity.StartActivity"
+    },
+    {
+        "app_name": "爱制作证件照",
+        "package_name": "com.ls2021.commonmoduleproject",
+        "file_name": "com.ls2021.commonmoduleproject_98.apk",
+        "app_activity": "com.ls2021.commonmoduleproject.activity.SplashActivity"
+    },
+    {
+        "app_name": "图虫",
+        "package_name": "com.ss.android.tuchong",
+        "file_name": "com.ss.android.tuchong_99.apk",
+        "app_activity": "com.ss.android.tuchong.splash.controller.SplashActivity"
+    },
+    {
+        "app_name": "720云",
+        "package_name": "com.seven.two.zero.yun",
+        "file_name": "com.seven.two.zero.yun_100.apk",
+        "app_activity": "com.seven.two.zero.yun.page.main.MainActivity"
+    },
+    {
+        "app_name": "相册整理大师",
+        "package_name": "com.sugou.albums",
+        "file_name": "com.sugou.albums_101.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "私密相册",
+        "package_name": "com.kluas.vectormm",
+        "file_name": "com.kluas.vectormm_102.apk",
+        "app_activity": "com.kluas.vectormm.SplashActivity"
+    },
+    {
+        "app_name": "加密图库",
+        "package_name": "shangze.tuku.qwe",
+        "file_name": "shangze.tuku.qwe_103.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "Arzopa",
+        "package_name": "com.arzopa.frame",
+        "file_name": "com.arzopa.frame_104.apk",
+        "app_activity": "com.arzopa.frame.MainActivity"
+    },
+    {
+        "app_name": "搜图图片多多",
+        "package_name": "com.app.ymqzy",
+        "file_name": "com.app.ymqzy_105.apk",
+        "app_activity": "com.app.tpdd.activity.SplashActivity"
+    },
+    {
+        "app_name": "加密相册管家照片保险箱",
+        "package_name": "com.differ.photosafe",
+        "file_name": "com.differ.photosafe_106.apk",
+        "app_activity": "com.differ.photosafe.activity.StartActivity"
+    },
+    {
+        "app_name": "喔图",
+        "package_name": "com.alltuu.android",
+        "file_name": "com.alltuu.android_107.apk",
+        "app_activity": "com.alltuu.android.MainActivity"
+    },
+    {
+        "app_name": "私密相簿",
+        "package_name": "gzry.dsgvd.sfvvsf",
+        "file_name": "gzry.dsgvd.sfvvsf_108.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "喜多多请柬",
+        "package_name": "cn.qizhenyun.Invitation",
+        "file_name": "cn.qizhenyun.Invitation_109.apk",
+        "app_activity": "com.fanghenet.marry.ui.splash.SplashActivity2"
+    },
+    {
+        "app_name": "私密相册宝",
+        "package_name": "fit.moling.privatealbum",
+        "file_name": "fit.moling.privatealbum_110.apk",
+        "app_activity": "fit.moling.privatealbum.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "音乐相册",
+        "package_name": "com.znmeio.xiangce",
+        "file_name": "com.znmeio.xiangce_111.apk",
+        "app_activity": "com.znmeio.xiangce.SplashActivity"
+    },
+    {
+        "app_name": "老人相册",
+        "package_name": "cute.image.gallery.manager",
+        "file_name": "cute.image.gallery.manager_112.apk",
+        "app_activity": "com.qnet.libbase.appbase.ui.start.StartActivity"
+    },
+    {
+        "app_name": "定制影集",
+        "package_name": "com.yuanli.beautifulpicture",
+        "file_name": "com.yuanli.beautifulpicture_114.apk",
+        "app_activity": "com.yuanli.beautifulpicture.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "拍照识花神器",
+        "package_name": "com.mayt.pictureflower.app",
+        "file_name": "com.mayt.pictureflower.app_115.apk",
+        "app_activity": "com.mayt.pictureflower.app.activity.StartingActivity"
+    },
+    {
+        "app_name": "汉印美照",
+        "package_name": "com.prt.colorprt.release",
+        "file_name": "com.prt.colorprt.release_116.apk",
+        "app_activity": "com.hprt.dophoto.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "红人秀",
+        "package_name": "com.xstop.celebrity",
+        "file_name": "com.xstop.celebrity_117.apk",
+        "app_activity": "com.xstop.app.ui.StartActivity"
+    },
+    {
+        "app_name": "迹忆",
+        "package_name": "com.chuanqing.qishi_android",
+        "file_name": "com.chuanqing.qishi_android_118.apk",
+        "app_activity": "com.chuanqing.qishi_android.page.splash.SplashActivity"
+    },
+    {
+        "app_name": "冰之火",
+        "package_name": "io.ynnxkj.ifec",
+        "file_name": "io.ynnxkj.ifec_119.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "相册屋",
+        "package_name": "yzmy.ytze.zkty",
+        "file_name": "yzmy.ytze.zkty_120.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "Grid Post",
+        "package_name": "com.lyy.gridpost",
+        "file_name": "com.lyy.gridpost_121.apk",
+        "app_activity": "com.lyy.gridpost.activity.SplashActivity"
+    },
+    {
+        "app_name": "手机相册加",
+        "package_name": "sqkj.xiaoshizi.player",
+        "file_name": "sqkj.xiaoshizi.player_122.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "视频图片压缩王",
+        "package_name": "com.example.guagua",
+        "file_name": "com.example.guagua_123.apk",
+        "app_activity": "com.example.guagua.ui.main.MainActivity"
+    },
+    {
+        "app_name": "米拍摄影",
+        "package_name": "me.www.mepai",
+        "file_name": "me.www.mepai_124.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "一键旅游",
+        "package_name": "com.quyuanfactory.yjquy",
+        "file_name": "com.quyuanfactory.yjquy_125.apk",
+        "app_activity": "com.quyuanfactory.yjquy.ui.MainActivity"
+    },
+    {
+        "app_name": "相册家",
+        "package_name": "yxj.album.homes",
+        "file_name": "yxj.album.homes_127.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "电子相册",
+        "package_name": "com.zhouzining.dzxc",
+        "file_name": "com.zhouzining.dzxc_128.apk",
+        "app_activity": "com.zhouzining.dzxc.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "音乐相册制作",
+        "package_name": "com.zhouzining.yyxc",
+        "file_name": "com.zhouzining.yyxc_129.apk",
+        "app_activity": "com.zhouzining.yyxc.ui.start.StartActivity"
+    },
+    {
+        "app_name": "元气秀秀",
+        "package_name": "com.yq.show",
+        "file_name": "com.yq.show_130.apk",
+        "app_activity": "com.yq.show.MainActivity"
+    },
+    {
+        "app_name": "留影音乐相册制作",
+        "package_name": "com.okmyapp.liuying",
+        "file_name": "com.okmyapp.liuying_131.apk",
+        "app_activity": "com.okmyapp.custom.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "美美图片",
+        "package_name": "com.app.jianshennannv",
+        "file_name": "com.app.jianshennannv_132.apk",
+        "app_activity": "com.app.tpdd.activity.SplashActivity"
+    },
+    {
+        "app_name": "家庭相册",
+        "package_name": "cszy.jtxc.qzxcy",
+        "file_name": "cszy.jtxc.qzxcy_133.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "私密相册APP",
+        "package_name": "shangze.simi.qwe",
+        "file_name": "shangze.simi.qwe_134.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "秘密相册",
+        "package_name": "com.dongyan.xiangce",
+        "file_name": "com.dongyan.xiangce_135.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "手机相册空间",
+        "package_name": "yun.album.mobile",
+        "file_name": "yun.album.mobile_136.apk",
+        "app_activity": "com.fwlst.module_splash.SplashActivity"
+    },
+    {
+        "app_name": "最美证件照",
+        "package_name": "com.mostphoto.mymaker",
+        "file_name": "com.mostphoto.mymaker_137.apk",
+        "app_activity": "com.mostphoto.mymaker.ui.activity.IndexActivity"
+    },
+    {
+        "app_name": "我的相册精灵管家",
+        "package_name": "xcjl.xcgj.jwscomwy",
+        "file_name": "xcjl.xcgj.jwscomwy_138.apk",
+        "app_activity": "com.vtb.new_album.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "手机相册制作大师",
+        "package_name": "ssya.shijian.xiangce",
+        "file_name": "ssya.shijian.xiangce_139.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "度客闪传",
+        "package_name": "cn.omtech.dktc",
+        "file_name": "cn.omtech.dktc_140.apk",
+        "app_activity": "cn.omtech.dktc.main.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "一寸证件照制作AI换底",
+        "package_name": "com.weilaihongtech.minecamera",
+        "file_name": "com.weilaihongtech.minecamera_141.apk",
+        "app_activity": "com.weilaihongtech.minecamera.ui.activity.IndexActivity"
+    },
+    {
+        "app_name": "手机应用助手",
+        "package_name": "com.shengmi.picmanager",
+        "file_name": "com.shengmi.picmanager_142.apk",
+        "app_activity": "com.shengmi.picmanager.SplashActivity"
+    },
+    {
+        "app_name": "爱索尼相机连接控制",
+        "package_name": "com.suoni.camera",
+        "file_name": "com.suoni.camera_143.apk",
+        "app_activity": "com.suoni.camera.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "艺图语",
+        "package_name": "com.yituyu.inc",
+        "file_name": "com.yituyu.inc_144.apk",
+        "app_activity": "com.yituyu.inc.MainActivity"
+    },
+    {
+        "app_name": "72Photo",
+        "package_name": "jiegeng.quanyecha.photo72",
+        "file_name": "jiegeng.quanyecha.photo72_145.apk",
+        "app_activity": "jiegeng.quanyecha.photo72.PHMainActivity"
+    },
+    {
+        "app_name": "LOOK",
+        "package_name": "com.vision.haokan",
+        "file_name": "com.vision.haokan_146.apk",
+        "app_activity": "com.vision.haokan.host.MainActivity"
+    },
+    {
+        "app_name": "Tag Album",
+        "package_name": "com.hensense.tagalbum",
+        "file_name": "com.hensense.tagalbum_147.apk",
+        "app_activity": "com.hensense.tagalbum.ui.activity.StartupActivity"
+    },
+    {
+        "app_name": "黑光图库",
+        "package_name": "com.heiguang.meitu",
+        "file_name": "com.heiguang.meitu_149.apk",
+        "app_activity": "com.heiguang.meitu.activity.SplashActivity"
+    },
+    {
+        "app_name": "智享相册",
+        "package_name": "com.ewsoft.album",
+        "file_name": "com.ewsoft.album_150.apk",
+        "app_activity": "com.star.aibook.aibook.MainActivity"
+    },
+    {
+        "app_name": "趣拍秀",
+        "package_name": "com.shipai.qpx",
+        "file_name": "com.shipai.qpx_151.apk",
+        "app_activity": "com.shipai.qpx.MainActivity"
+    },
+    {
+        "app_name": "私人空间",
+        "package_name": "com.privates.club",
+        "file_name": "com.privates.club_152.apk",
+        "app_activity": "com.privates.club.module.launcher.view.WelcomeActivity"
+    },
+    {
+        "app_name": "微脉素材库",
+        "package_name": "com.edujia.wmm",
+        "file_name": "com.edujia.wmm_153.apk",
+        "app_activity": "com.edujia.wmm.main.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "相册PS照片修图",
+        "package_name": "cn.songheti.album",
+        "file_name": "cn.songheti.album_154.apk",
+        "app_activity": "cn.minshiting.album.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "暴走P图",
+        "package_name": "a.baozouptu",
+        "file_name": "a.baozouptu_155.apk",
+        "app_activity": "a.baozouptu.common.LaunchActivity"
+    },
+    {
+        "app_name": "像素创作家",
+        "package_name": "com.pixelu.maker.android",
+        "file_name": "com.pixelu.maker.android_156.apk",
+        "app_activity": "com.gpower.pixelu.marker.android.activity.ActivitySplash"
+    },
+    {
+        "app_name": "越剧迷",
+        "package_name": "com.couplower.yue",
+        "file_name": "com.couplower.yue_157.apk",
+        "app_activity": "com.xebec.huangmei.views.RSplashActivity"
+    },
+    {
+        "app_name": "发型屋",
+        "package_name": "com.jm.fxw",
+        "file_name": "com.jm.fxw_158.apk",
+        "app_activity": "com.jm.fxw.MainActivity"
+    },
+    {
+        "app_name": "快图浏览",
+        "package_name": "hfgl.ktll.xyres",
+        "file_name": "hfgl.ktll.xyres_159.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "纹身手稿大全",
+        "package_name": "com.weimi.wsdk.manuscript",
+        "file_name": "com.weimi.wsdk.manuscript_160.apk",
+        "app_activity": "com.weimi.wsdk.manuscript.react.MainActivity"
+    },
+    {
+        "app_name": "灰阈相机",
+        "package_name": "work.dc.painter.gallery",
+        "file_name": "work.dc.painter.gallery_161.apk",
+        "app_activity": "work.dc.painter.gallery.StartActivity"
+    },
+    {
+        "app_name": "我的图库集",
+        "package_name": "mine.tuku.jigygj",
+        "file_name": "mine.tuku.jigygj_162.apk",
+        "app_activity": "com.album.newalbum5.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "相册管家",
+        "package_name": "com.tencent.gallerymanager",
+        "file_name": "com.tencent.gallerymanager_163.apk",
+        "app_activity": "com.tencent.gallerymanager.ui.main.splash.SplashActivity"
+    },
+    {
+        "app_name": "魔法相册",
+        "package_name": "cszy.mfyyxc.sedgge",
+        "file_name": "cszy.mfyyxc.sedgge_164.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "魔力相册",
+        "package_name": "com.xingluo.mpa",
+        "file_name": "com.xingluo.mpa_165.apk",
+        "app_activity": "com.xingluo.mpa.ui.module.LaunchActivity"
+    },
+    {
+        "app_name": "爆量素材",
+        "package_name": "com.ingenuity.baoliangsucai",
+        "file_name": "com.ingenuity.baoliangsucai_166.apk",
+        "app_activity": "com.xstop.app.ui.AppStartActivity"
+    },
+    {
+        "app_name": "手绘视频制作",
+        "package_name": "com.lejian.shouhui",
+        "file_name": "com.lejian.shouhui_167.apk",
+        "app_activity": "com.lejian.shouhui.SplashActivity"
+    },
+    {
+        "app_name": "密码锁屏",
+        "package_name": "cn.yishengnet.smxc",
+        "file_name": "cn.yishengnet.smxc_168.apk",
+        "app_activity": "cn.yishengnet.smxc.SplashActivity"
+    },
+    {
+        "app_name": "证照之星",
+        "package_name": "com.biggerlens.idphoto",
+        "file_name": "com.biggerlens.idphoto_169.apk",
+        "app_activity": "com.biggerlens.idphoto.MainActivity"
+    },
+    {
+        "app_name": "发型设计与脸型搭配",
+        "package_name": "com.elmo.faxingsheji",
+        "file_name": "com.elmo.faxingsheji_170.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "拾光云摄影",
+        "package_name": "com.picbling.uploader",
+        "file_name": "com.picbling.uploader_171.apk",
+        "app_activity": "com.picbling.uploader.activity.LauncherActivity"
+    },
+    {
+        "app_name": "我的相册",
+        "package_name": "com.three.sex.zepicsel",
+        "file_name": "com.three.sex.zepicsel_172.apk",
+        "app_activity": "com.three.sex.zepicsel.activity.StartActivity"
+    },
+    {
+        "app_name": "小美早安相册",
+        "package_name": "com.xiaomei.album",
+        "file_name": "com.xiaomei.album_173.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "国家风景",
+        "package_name": "com.nsee.app",
+        "file_name": "com.nsee.app_174.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "相册隐藏助手",
+        "package_name": "com.xykj.privacy",
+        "file_name": "com.xykj.privacy_175.apk",
+        "app_activity": "com.xykj.privacy.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "咔拍摄影",
+        "package_name": "com.moyuxy.utime",
+        "file_name": "com.moyuxy.utime_176.apk",
+        "app_activity": "com.moyuxy.utime.MainActivity"
+    },
+    {
+        "app_name": "Steward Of Album",
+        "package_name": "cn.bluecrane.album",
+        "file_name": "cn.bluecrane.album_177.apk",
+        "app_activity": "cn.bluecrane.album.activity.SplashActivity"
+    },
+    {
+        "app_name": "星咩视频壁纸",
+        "package_name": "com.xmspbz",
+        "file_name": "com.xmspbz_178.apk",
+        "app_activity": "com.xmspbz.activity.MainActivity"
+    },
+    {
+        "app_name": "婚鹊请柬",
+        "package_name": "com.invitation.app",
+        "file_name": "com.invitation.app_179.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "享像派",
+        "package_name": "com.yijiaren.photographer",
+        "file_name": "com.yijiaren.photographer_180.apk",
+        "app_activity": "com.yijiaren.photo.activity.FlutterMainActivity"
+    },
+    {
+        "app_name": "我的相册备份助手",
+        "package_name": "com.mnfmy.photobfcs",
+        "file_name": "com.mnfmy.photobfcs_181.apk",
+        "app_activity": "com.valbum.mini.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "小喵加密相册",
+        "package_name": "com.zz.photobox",
+        "file_name": "com.zz.photobox_182.apk",
+        "app_activity": "com.zz.photobox.ui.activity.CoverActivity"
+    },
+    {
+        "app_name": "私人相册pro",
+        "package_name": "hfqz.smxc.svaa",
+        "file_name": "hfqz.smxc.svaa_183.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "KODAK Digital Frame",
+        "package_name": "com.cloudhearing.digital.kodaksmartframe.android.mobile",
+        "file_name": "com.cloudhearing.digital.kodaksmartframe.android.mobile_184.apk",
+        "app_activity": "com.cloudhearing.digital.kodaksmartframe.android.mobile.ui.StartActivity"
+    },
+    {
+        "app_name": "9Cut Grids Maker",
+        "package_name": "com.mvtrail.ninecutgridsmaker.cn",
+        "file_name": "com.mvtrail.ninecutgridsmaker.cn_185.apk",
+        "app_activity": "com.mvtrail.longfigurecollage.ui.activitys.SplashActivity"
+    },
+    {
+        "app_name": "隐存",
+        "package_name": "com.fengyi.privacy",
+        "file_name": "com.fengyi.privacy_186.apk",
+        "app_activity": "com.fengyi.privacy.activity.LauncherActivity"
+    },
+    {
+        "app_name": "卡通头像设计",
+        "package_name": "com.ernianbo.head",
+        "file_name": "com.ernianbo.head_187.apk",
+        "app_activity": "com.fanghe.head.ui.SplashActivity"
+    },
+    {
+        "app_name": "我的相册私密管家",
+        "package_name": "mine.xcjcs.ningxxk",
+        "file_name": "mine.xcjcs.ningxxk_188.apk",
+        "app_activity": "com.appalbum3.album3.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "像素本",
+        "package_name": "com.xiangsuben.pxbook.m",
+        "file_name": "com.xiangsuben.pxbook.m_189.apk",
+        "app_activity": "com.xiangsuben.pxbook.m.MainActivity"
+    },
+    {
+        "app_name": "毕业证件照",
+        "package_name": "com.qiutinghe.graduatecamera",
+        "file_name": "com.qiutinghe.graduatecamera_190.apk",
+        "app_activity": "com.qiutinghe.graduatecamera.ui.activity.IndexActivity"
+    },
+    {
+        "app_name": "古玩图集",
+        "package_name": "com.gwtj.pcf",
+        "file_name": "com.gwtj.pcf_191.apk",
+        "app_activity": "com.gwtj.pcf.view.ui.login.WelcomeActivity"
+    },
+    {
+        "app_name": "一刻相册",
+        "package_name": "com.baidu.youavideo",
+        "file_name": "com.baidu.youavideo_192.apk",
+        "app_activity": "com.baidu.youavideo.app.ui.SplashActivity"
+    },
+    {
+        "app_name": "album相簿",
+        "package_name": "ysm.tmscgg.kgwpg",
+        "file_name": "ysm.tmscgg.kgwpg_193.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "动感相册制作",
+        "package_name": "bdance.dg.xiangce",
+        "file_name": "bdance.dg.xiangce_194.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "易企秀",
+        "package_name": "cn.knet.eqxiu",
+        "file_name": "cn.knet.eqxiu_195.apk",
+        "app_activity": "cn.knet.eqxiu.splash.SplashActivity"
+    },
+    {
+        "app_name": "知天下全景",
+        "package_name": "com.zhitianxia.zhiaipano",
+        "file_name": "com.zhitianxia.zhiaipano_196.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "搞笑动图",
+        "package_name": "com.gxgif.m",
+        "file_name": "com.gxgif.m_197.apk",
+        "app_activity": "com.lt.app.MainActivity"
+    },
+    {
+        "app_name": "视频水印宝",
+        "package_name": "cn.weilaihongtech.watermark",
+        "file_name": "cn.weilaihongtech.watermark_198.apk",
+        "app_activity": "cn.weilaihongtech.watermark.SplashActivity"
+    },
+    {
+        "app_name": "个人相册",
+        "package_name": "xun.self.album",
+        "file_name": "xun.self.album_199.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "封面侠",
+        "package_name": "com.xiafresh.android.wxcover",
+        "file_name": "com.xiafresh.android.wxcover_200.apk",
+        "app_activity": "com.xiafresh.android.wxcover.activity.SplashActivity"
+    },
+    {
+        "app_name": "一键加水印美化大师",
+        "package_name": "cn.musimiao.watermark",
+        "file_name": "cn.musimiao.watermark_201.apk",
+        "app_activity": "cn.musimiao.watermark.boot.BootActivity"
+    },
+    {
+        "app_name": "时光宝宝相册",
+        "package_name": "cn.bluecrane.babyalbum",
+        "file_name": "cn.bluecrane.babyalbum_202.apk",
+        "app_activity": "cn.bluecrane.babyalbum.activity.SplashActivity"
+    },
+    {
+        "app_name": "Pokar album",
+        "package_name": "com.cy.albumencryptniubility",
+        "file_name": "com.cy.albumencryptniubility_203.apk",
+        "app_activity": "com.cy.albumencryptniubility.MainActivity"
+    },
+    {
+        "app_name": "MOZA Genie",
+        "package_name": "com.gudsen.genie",
+        "file_name": "com.gudsen.genie_204.apk",
+        "app_activity": "com.gudsen.genie.ui.LaunchActivity"
+    },
+    {
+        "app_name": "堆糖",
+        "package_name": "com.duitang.main",
+        "file_name": "com.duitang.main_205.apk",
+        "app_activity": "com.duitang.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "GIF制作宝",
+        "package_name": "company.szkj.gifmaker",
+        "file_name": "company.szkj.gifmaker_206.apk",
+        "app_activity": "company.szkj.usersystem.USFirstAlertActivity"
+    },
+    {
+        "app_name": "视频加密",
+        "package_name": "com.huoyubai.jiami",
+        "file_name": "com.huoyubai.jiami_207.apk",
+        "app_activity": "com.xuanmutech.yinsi.activities.SplashActivity"
+    },
+    {
+        "app_name": "动感影集",
+        "package_name": "shuffle.domatic.album",
+        "file_name": "shuffle.domatic.album_208.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "我的相册本",
+        "package_name": "qcxx.wdxcb.xhye",
+        "file_name": "qcxx.wdxcb.xhye_209.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "婚礼邀请函",
+        "package_name": "cn.shijihaiwaitech.hunli",
+        "file_name": "cn.shijihaiwaitech.hunli_210.apk",
+        "app_activity": "com.fanghenet.marry.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "Swak Album",
+        "package_name": "com.ti_ding.swak.album",
+        "file_name": "com.ti_ding.swak.album_211.apk",
+        "app_activity": "com.ti_ding.applockmodule.ui.activity.iconactivity.ShowIconActivity"
+    },
+    {
+        "app_name": "口袋冲印",
+        "package_name": "com.okmyapp.photoprint",
+        "file_name": "com.okmyapp.photoprint_212.apk",
+        "app_activity": "com.okmyapp.custom.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "图片大全",
+        "package_name": "com.mike.tupian",
+        "file_name": "com.mike.tupian_213.apk",
+        "app_activity": "com.mike.tupian.SplashActivity"
+    },
+    {
+        "app_name": "情头匹配",
+        "package_name": "com.bitejia.qinglvtouxiang",
+        "file_name": "com.bitejia.qinglvtouxiang_214.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "萌宝拍拍",
+        "package_name": "com.douping.tongqu",
+        "file_name": "com.douping.tongqu_215.apk",
+        "app_activity": "com.douping.tongqu.activity.SplashActivity"
+    },
+    {
+        "app_name": "私人相册管家",
+        "package_name": "net.iyuntu.album_manager",
+        "file_name": "net.iyuntu.album_manager_216.apk",
+        "app_activity": "net.iyuntu.album_manager.MainActivity"
+    },
+    {
+        "app_name": "相片书",
+        "package_name": "com.yuanli.picturealbumbook",
+        "file_name": "com.yuanli.picturealbumbook_217.apk",
+        "app_activity": "com.yuanli.picturealbumbook.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "aigo智能相框",
+        "package_name": "com.aigo.cloud.photo.frames",
+        "file_name": "com.aigo.cloud.photo.frames_218.apk",
+        "app_activity": "com.xc.august.smart.mvvm.activity.SplashActivity"
+    }
+]

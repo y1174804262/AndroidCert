@@ -1,0 +1,2032 @@
+[
+    {
+        "app_name": "武汉住房公积金",
+        "package_name": "com.kaiyitech.whgjj",
+        "file_name": "com.kaiyitech.whgjj_1.apk",
+        "app_activity": "com.kaiyitech.whgjj.MainActivity"
+    },
+    {
+        "app_name": "吉屋",
+        "package_name": "com.jiwu.checkhouse",
+        "file_name": "com.jiwu.checkhouse_2.apk",
+        "app_activity": "com.jiwu.checkhouse.MainActivity"
+    },
+    {
+        "app_name": "乐呵找房",
+        "package_name": "com.lehehouse.client",
+        "file_name": "com.lehehouse.client_3.apk",
+        "app_activity": "com.kghouse.client.ui.activity.ExcessiveActivity"
+    },
+    {
+        "app_name": "链家",
+        "package_name": "com.homelink.android",
+        "file_name": "com.homelink.android_4.apk",
+        "app_activity": "com.homelink.android.SplashScreenActivity"
+    },
+    {
+        "app_name": "六六找房",
+        "package_name": "im.zuber.app",
+        "file_name": "im.zuber.app_5.apk",
+        "app_activity": "im.zuber.app.controller.activitys.StartActivity"
+    },
+    {
+        "app_name": "多功能房贷计算",
+        "package_name": "cn.diaoyueyuan.fangdai",
+        "file_name": "cn.diaoyueyuan.fangdai_6.apk",
+        "app_activity": "com.example.unimpdemo.activity.SplashActivity"
+    },
+    {
+        "app_name": "510房产网",
+        "package_name": "com.jy510.house",
+        "file_name": "com.jy510.house_7.apk",
+        "app_activity": "com.jy510.house.LoadingActivity"
+    },
+    {
+        "app_name": "兔博士",
+        "package_name": "com.rabbit.doctor",
+        "file_name": "com.rabbit.doctor_8.apk",
+        "app_activity": "com.rabbit.doctor.module.protocols.ProtocolActivity"
+    },
+    {
+        "app_name": "房产在线",
+        "package_name": "home.onfun.onfun2019",
+        "file_name": "home.onfun.onfun2019_9.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "透明家",
+        "package_name": "com.tmsf.jia",
+        "file_name": "com.tmsf.jia_10.apk",
+        "app_activity": "cordova.plugin.bakaan.privacyKit.PrivacyActivity"
+    },
+    {
+        "app_name": "津心登",
+        "package_name": "com.boying.yiwangtongapp",
+        "file_name": "com.boying.yiwangtongapp_11.apk",
+        "app_activity": "com.boying.yiwangtongapp.mvp.splash.SplashActivity2"
+    },
+    {
+        "app_name": "魔方生活",
+        "package_name": "com.vpclub.mofang",
+        "file_name": "com.vpclub.mofang_12.apk",
+        "app_activity": "com.vpclub.mofang.my.activity.SplashActivity"
+    },
+    {
+        "app_name": "百居易",
+        "package_name": "com.myhostex.hostexapp",
+        "file_name": "com.myhostex.hostexapp_13.apk",
+        "app_activity": "com.myhostex.hostex_flutter.PrivacyActivity"
+    },
+    {
+        "app_name": "绿城置换",
+        "package_name": "com.hshb.greentown",
+        "file_name": "com.hshb.greentown_14.apk",
+        "app_activity": "com.hshb.greentown.activity.SplashActivity"
+    },
+    {
+        "app_name": "公租房",
+        "package_name": "com.ccb.gongzu",
+        "file_name": "com.ccb.gongzu_15.apk",
+        "app_activity": "com.ccb.gongzu.MainActivity"
+    },
+    {
+        "app_name": "寓小二",
+        "package_name": "com.yuxiaor.c.change",
+        "file_name": "com.yuxiaor.c.change_16.apk",
+        "app_activity": "com.yuxiaor.c.change.MainActivity"
+    },
+    {
+        "app_name": "安居链",
+        "package_name": "com.anjulian.android",
+        "file_name": "com.anjulian.android_17.apk",
+        "app_activity": "com.anjulian.android.home.ui.SplashActivity"
+    },
+    {
+        "app_name": "千家找房",
+        "package_name": "com.eallcn.tangshan",
+        "file_name": "com.eallcn.tangshan_18.apk",
+        "app_activity": "com.eallcn.tangshan.controller.PrivacyActivity"
+    },
+    {
+        "app_name": "城投宽庭",
+        "package_name": "com.smico.apartment.renter",
+        "file_name": "com.smico.apartment.renter_19.apk",
+        "app_activity": "com.smico.apartment.renter.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "Q房网",
+        "package_name": "com.android.qfangpalm",
+        "file_name": "com.android.qfangpalm_20.apk",
+        "app_activity": "com.qfang.androidclient.activities.guidepager.LogoActivity"
+    },
+    {
+        "app_name": "合肥住房",
+        "package_name": "com.sanshi.assets",
+        "file_name": "com.sanshi.assets_21.apk",
+        "app_activity": "com.sanshi.assets.welcome.LaunchActivity"
+    },
+    {
+        "app_name": "太平洋房屋",
+        "package_name": "com.taiwu.find",
+        "file_name": "com.taiwu.find_22.apk",
+        "app_activity": "com.taiwu.find.MainActivity"
+    },
+    {
+        "app_name": "租住生活",
+        "package_name": "com.zhufa.zzsh",
+        "file_name": "com.zhufa.zzsh_23.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "房车宝",
+        "package_name": "com.fcb.bao.consumer",
+        "file_name": "com.fcb.bao.consumer_24.apk",
+        "app_activity": "com.fcb.bao.consumer.module.splash.AgreeActivity"
+    },
+    {
+        "app_name": "寄居客",
+        "package_name": "com.mshenghuo.jijuke",
+        "file_name": "com.mshenghuo.jijuke_25.apk",
+        "app_activity": "com.mshenghuo.jijuke.MainActivity"
+    },
+    {
+        "app_name": "巴乐兔租房",
+        "package_name": "com.haimai.baletu",
+        "file_name": "com.haimai.baletu_26.apk",
+        "app_activity": "com.haimai.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "藤云",
+        "package_name": "com.centanet.fangyouquan",
+        "file_name": "com.centanet.fangyouquan_27.apk",
+        "app_activity": "com.centanet.fangyouquan.main.ui.LauncherActivity"
+    },
+    {
+        "app_name": "微棠",
+        "package_name": "com.chinavisionary.microtang",
+        "file_name": "com.chinavisionary.microtang_28.apk",
+        "app_activity": "com.chinavisionary.microtang.MainActivity"
+    },
+    {
+        "app_name": "裕丰地产",
+        "package_name": "io.dcloud.H5058E8C6",
+        "file_name": "io.dcloud.H5058E8C6_29.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "房产超市",
+        "package_name": "com.fccs.app",
+        "file_name": "com.fccs.app_30.apk",
+        "app_activity": "com.fccs.app.activity.SplashActivity"
+    },
+    {
+        "app_name": "美联好房",
+        "package_name": "com.midland.android",
+        "file_name": "com.midland.android_31.apk",
+        "app_activity": "com.midland.android.ui.splash.SplashScreenActivity"
+    },
+    {
+        "app_name": "智慧房东-让租赁更智能化",
+        "package_name": "com.zhihuifangdong.wisdom",
+        "file_name": "com.zhihuifangdong.wisdom_32.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "房贷计算",
+        "package_name": "cn.sqcat.caculator",
+        "file_name": "cn.sqcat.caculator_33.apk",
+        "app_activity": "com.example.unimpdemo.activity.SplashActivity"
+    },
+    {
+        "app_name": "微聊客",
+        "package_name": "com.anjuke.weiliaoke",
+        "file_name": "com.anjuke.weiliaoke_34.apk",
+        "app_activity": "com.anjuke.weiliaoke.MainActivity"
+    },
+    {
+        "app_name": "泊寓",
+        "package_name": "com.shenzhen.vanke.vankeyi",
+        "file_name": "com.shenzhen.vanke.vankeyi_35.apk",
+        "app_activity": "com.shenzhen.vanke.vankeyi.module.guide.PermissionSplashActivity"
+    },
+    {
+        "app_name": "塘鹅租售",
+        "package_name": "com.longfor.an",
+        "file_name": "com.longfor.an_36.apk",
+        "app_activity": "com.longfor.an.splash.SplashActivity"
+    },
+    {
+        "app_name": "安居客",
+        "package_name": "com.anjuke.android.app",
+        "file_name": "com.anjuke.android.app_37.apk",
+        "app_activity": "com.anjuke.android.app.mainmodule.WelcomeActivity"
+    },
+    {
+        "app_name": "自如",
+        "package_name": "com.ziroom.ziroomcustomer",
+        "file_name": "com.ziroom.ziroomcustomer_38.apk",
+        "app_activity": "com.ziroom.ziroomcustomer.WelcomeActivity"
+    },
+    {
+        "app_name": "出个房",
+        "package_name": "com.xieju.hire",
+        "file_name": "com.xieju.hire_39.apk",
+        "app_activity": "com.xieju.hire.main.ui.SplashActivity"
+    },
+    {
+        "app_name": "湖南住房",
+        "package_name": "com.yizooo.loupan.hn",
+        "file_name": "com.yizooo.loupan.hn_40.apk",
+        "app_activity": "com.yizooo.loupan.hn.SplashActivity"
+    },
+    {
+        "app_name": "冠寓",
+        "package_name": "com.guanyu.gy",
+        "file_name": "com.guanyu.gy_41.apk",
+        "app_activity": "com.guanyu.gy.ui.activity.home.SplashActivity"
+    },
+    {
+        "app_name": "全房源系统",
+        "package_name": "com.ns.dcjh",
+        "file_name": "com.ns.dcjh_42.apk",
+        "app_activity": "com.ns.dcjh.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "大房鸭",
+        "package_name": "com.dafangya.app.pro",
+        "file_name": "com.dafangya.app.pro_43.apk",
+        "app_activity": "com.android.app.activity.StartActivity"
+    },
+    {
+        "app_name": "好房A+",
+        "package_name": "com.haofangtongaplus.haofangtongaplus",
+        "file_name": "com.haofangtongaplus.haofangtongaplus_44.apk",
+        "app_activity": "com.haofangtongaplus.haofangtongaplus.ui.module.member.activity.WelcomeMyActivity"
+    },
+    {
+        "app_name": "公积金查询计算器",
+        "package_name": "cn.shengmi.caculator",
+        "file_name": "cn.shengmi.caculator_45.apk",
+        "app_activity": "com.example.unimpdemo.activity.SplashActivity"
+    },
+    {
+        "app_name": "天猫好房来客",
+        "package_name": "com.taobao.alihouse.broker",
+        "file_name": "com.taobao.alihouse.broker_46.apk",
+        "app_activity": "com.taobao.alihouse.broker.SplashActivity"
+    },
+    {
+        "app_name": "中原找房",
+        "package_name": "com.centaline.androidsalesblog",
+        "file_name": "com.centaline.androidsalesblog_47.apk",
+        "app_activity": "com.centaline.androidsalesblog.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "房东直租",
+        "package_name": "com.inspiration.fangdongzhizu",
+        "file_name": "com.inspiration.fangdongzhizu_48.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "租铺宝",
+        "package_name": "com.example.dc.zupubao",
+        "file_name": "com.example.dc.zupubao_49.apk",
+        "app_activity": "com.example.dc.zupubao.view.activity.LogoActivity"
+    },
+    {
+        "app_name": "云门店",
+        "package_name": "com.zhugefang.agent",
+        "file_name": "com.zhugefang.agent_50.apk",
+        "app_activity": "com.zhuge.common.commonality.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "暖暖房屋",
+        "package_name": "com.nuan",
+        "file_name": "com.nuan_51.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "幸福里",
+        "package_name": "com.f100.android",
+        "file_name": "com.f100.android_52.apk",
+        "app_activity": "com.ss.android.article.lite.activity.SplashActivity"
+    },
+    {
+        "app_name": "焦点好房",
+        "package_name": "com.sohu.focus.live",
+        "file_name": "com.sohu.focus.live_53.apk",
+        "app_activity": "com.sohu.focus.live.MainActivity"
+    },
+    {
+        "app_name": "张家港房产网",
+        "package_name": "io.dcloud.W2Am.zjgzf.cn",
+        "file_name": "io.dcloud.W2Am.zjgzf.cn_54.apk",
+        "app_activity": "com.lt.app.MainActivity"
+    },
+    {
+        "app_name": "宁波房产",
+        "package_name": "com.zcitc.cloudhousehelper",
+        "file_name": "com.zcitc.cloudhousehelper_55.apk",
+        "app_activity": "com.zcitc.cloudhousehelper.mvvm.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "方隅公寓",
+        "package_name": "com.funplus.fun",
+        "file_name": "com.funplus.fun_56.apk",
+        "app_activity": "com.funplus.fun.activity.SplashActivity"
+    },
+    {
+        "app_name": "亲邻开门",
+        "package_name": "com.qinlin.edoor",
+        "file_name": "com.qinlin.edoor_57.apk",
+        "app_activity": "com.qinlin.edoor.MainActivity"
+    },
+    {
+        "app_name": "乐居买房",
+        "package_name": "com.leju.platform",
+        "file_name": "com.leju.platform_58.apk",
+        "app_activity": "com.leju.platform.SplashActivity"
+    },
+    {
+        "app_name": "365淘房",
+        "package_name": "com.house365.newhouse",
+        "file_name": "com.house365.newhouse_59.apk",
+        "app_activity": "com.house365.newhouse.ui.SplashActivity"
+    },
+    {
+        "app_name": "丽兹行豪宅",
+        "package_name": "com.lizihang.wwwapp",
+        "file_name": "com.lizihang.wwwapp_60.apk",
+        "app_activity": "com.lizihang.wwwapp.activities.SplashActivity"
+    },
+    {
+        "app_name": "微领地",
+        "package_name": "com.vlinker.vlife",
+        "file_name": "com.vlinker.vlife_61.apk",
+        "app_activity": "com.vlinker.vlife.MainActivity"
+    },
+    {
+        "app_name": "掌上好房通",
+        "package_name": "com.haofang.hftsoftapp",
+        "file_name": "com.haofang.hftsoftapp_62.apk",
+        "app_activity": "com.haofangtongaplus.haofangtongaplus.ui.module.member.activity.WelcomeMyActivity"
+    },
+    {
+        "app_name": "房智多",
+        "package_name": "com.chuanyue.app",
+        "file_name": "com.chuanyue.app_63.apk",
+        "app_activity": "com.chuanyue.app.MainActivity"
+    },
+    {
+        "app_name": "my房",
+        "package_name": "com.dt.dthouse_app",
+        "file_name": "com.dt.dthouse_app_64.apk",
+        "app_activity": "com.dt.dthouse_app.MainActivity"
+    },
+    {
+        "app_name": "八戒二手房",
+        "package_name": "uni.UNID8BFB8D",
+        "file_name": "uni.UNID8BFB8D_65.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "安家GO",
+        "package_name": "com.haofang.anjia",
+        "file_name": "com.haofang.anjia_66.apk",
+        "app_activity": "com.haofang.anjia.ui.module.common.activity.RouterActivity"
+    },
+    {
+        "app_name": "牛油果公寓",
+        "package_name": "com.nyg8.oms.app",
+        "file_name": "com.nyg8.oms.app_67.apk",
+        "app_activity": "com.nyg8.oms.app.MainActivity"
+    },
+    {
+        "app_name": "苏易登",
+        "package_name": "com.zhongdihang.szresp",
+        "file_name": "com.zhongdihang.szresp_68.apk",
+        "app_activity": "com.zhongdihang.szresp.ui.common.SplashActivity"
+    },
+    {
+        "app_name": "邕有家",
+        "package_name": "com.tmsf.yongyoujia",
+        "file_name": "com.tmsf.yongyoujia_69.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "瀚海法拍网",
+        "package_name": "cn.fapai.hhfp",
+        "file_name": "cn.fapai.hhfp_70.apk",
+        "app_activity": "cn.fapai.module_main.ui.launcher.SplashActivity"
+    },
+    {
+        "app_name": "津门宜居",
+        "package_name": "com.jmyj.tianjin",
+        "file_name": "com.jmyj.tianjin_71.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "28Hse香港屋網",
+        "package_name": "com.hse28.hse28_2",
+        "file_name": "com.hse28.hse28_2_72.apk",
+        "app_activity": "com.hse28.hse28_2.Main.MainActivity"
+    },
+    {
+        "app_name": "济南房产网",
+        "package_name": "jnhouse.topwellsoft.com.jnhouse_android",
+        "file_name": "jnhouse.topwellsoft.com.jnhouse_android_73.apk",
+        "app_activity": "jnhouse.topwellsoft.com.jnhouse_android.main.activitys.start.StartActivity"
+    },
+    {
+        "app_name": "U+",
+        "package_name": "com.yjyz.ub",
+        "file_name": "com.yjyz.ub_74.apk",
+        "app_activity": "com.yjyz.ub.SplashActivity"
+    },
+    {
+        "app_name": "优居找房",
+        "package_name": "com.yjyz.uc",
+        "file_name": "com.yjyz.uc_75.apk",
+        "app_activity": "com.yjyz.uc.SplashActivity"
+    },
+    {
+        "app_name": "房蚁",
+        "package_name": "cn.fangline.ant",
+        "file_name": "cn.fangline.ant_76.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "贝壳租房",
+        "package_name": "com.beike.rentplat",
+        "file_name": "com.beike.rentplat_77.apk",
+        "app_activity": "com.beike.rentplat.scheme.SchemeForwardActivity"
+    },
+    {
+        "app_name": "我爱我家",
+        "package_name": "com.wawj.app.t",
+        "file_name": "com.wawj.app.t_78.apk",
+        "app_activity": "com.wawj.app.t.SplashActivity"
+    },
+    {
+        "app_name": "房多多",
+        "package_name": "com.fangdd.mobile.fddhouseownersell",
+        "file_name": "com.fangdd.mobile.fddhouseownersell_79.apk",
+        "app_activity": "com.fangdd.mobile.fddhouseownersell.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "乐铺商铺出租",
+        "package_name": "com.wta.NewCloudApp.jiuwei70114",
+        "file_name": "com.wta.NewCloudApp.jiuwei70114_80.apk",
+        "app_activity": "com.wta.NewCloudApp.jiuwei70114.LauncherActivity"
+    },
+    {
+        "app_name": "房在线",
+        "package_name": "cn.fangline.erpapp",
+        "file_name": "cn.fangline.erpapp_81.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "千屹",
+        "package_name": "com.chuangrong.parking",
+        "file_name": "com.chuangrong.parking_82.apk",
+        "app_activity": "com.chuangrong.parking.SplashActivity"
+    },
+    {
+        "app_name": "ETC门店管理",
+        "package_name": "com.cric.fangyou.etcagent",
+        "file_name": "com.cric.fangyou.etcagent_83.apk",
+        "app_activity": "com.cric.fangyou.agent.business.LaunchActivity"
+    },
+    {
+        "app_name": "看房网",
+        "package_name": "com.kfang.online",
+        "file_name": "com.kfang.online_84.apk",
+        "app_activity": "com.kfang.online.WelcomeActivity"
+    },
+    {
+        "app_name": "Awehome",
+        "package_name": "com.lly.awehome",
+        "file_name": "com.lly.awehome_85.apk",
+        "app_activity": "com.lly.awehome.MainActivity"
+    },
+    {
+        "app_name": "东楚优房",
+        "package_name": "com.c_dcyfapp",
+        "file_name": "com.c_dcyfapp_86.apk",
+        "app_activity": "com.c_dcyfapp.SplashActivity"
+    },
+    {
+        "app_name": "融寓",
+        "package_name": "cn.com.crtamg.www.rongyu",
+        "file_name": "cn.com.crtamg.www.rongyu_87.apk",
+        "app_activity": "com.rongtong.ry.activity.LauncherActivity"
+    },
+    {
+        "app_name": "uhomes.com",
+        "package_name": "com.yxhjandroid.uhouzzdis",
+        "file_name": "com.yxhjandroid.uhouzzdis_88.apk",
+        "app_activity": "com.yxhjandroid.uhouzz.SplashActivity"
+    },
+    {
+        "app_name": "点点租办公室租赁系统",
+        "package_name": "com.office998.simpleRent",
+        "file_name": "com.office998.simpleRent_89.apk",
+        "app_activity": "com.office998.simpleRent.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "诸葛找房",
+        "package_name": "com.zhugezhaofang",
+        "file_name": "com.zhugezhaofang_90.apk",
+        "app_activity": "com.zhugezhaofang.splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "象盒找房",
+        "package_name": "com.apicloud.A6995433058179",
+        "file_name": "com.apicloud.A6995433058179_91.apk",
+        "app_activity": "com.apicloud.A6995433058179.MainActivity"
+    },
+    {
+        "app_name": "乐乎公寓",
+        "package_name": "com.lefull.tenant",
+        "file_name": "com.lefull.tenant_92.apk",
+        "app_activity": "com.lefull.tenant.ui.guide.SplashActivity"
+    },
+    {
+        "app_name": "承寓租赁",
+        "package_name": "com.lease.loft",
+        "file_name": "com.lease.loft_93.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "购房网",
+        "package_name": "com.goufang.chengfang",
+        "file_name": "com.goufang.chengfang_94.apk",
+        "app_activity": "com.goufang.chengfang.SplashActivity"
+    },
+    {
+        "app_name": "中国房价行情",
+        "package_name": "cn.cityhouse.creprice",
+        "file_name": "cn.cityhouse.creprice_95.apk",
+        "app_activity": "cn.cityhouse.creprice.activity.SplashActivity"
+    },
+    {
+        "app_name": "房小团",
+        "package_name": "com.huanjutang.fxtapp",
+        "file_name": "com.huanjutang.fxtapp_96.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "房天下",
+        "package_name": "com.soufun.app",
+        "file_name": "com.soufun.app_97.apk",
+        "app_activity": "com.soufun.app.activity.MainSplashActivity"
+    },
+    {
+        "app_name": "有巢",
+        "package_name": "resground.china.com.chinaresourceground",
+        "file_name": "resground.china.com.chinaresourceground_98.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "长沙住房",
+        "package_name": "com.yizooo.loupan",
+        "file_name": "com.yizooo.loupan_99.apk",
+        "app_activity": "com.yizooo.loupan.GuideActivity"
+    },
+    {
+        "app_name": "好房东租房软件",
+        "package_name": "com.yuanli.bestLandlord",
+        "file_name": "com.yuanli.bestLandlord_100.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "乐有家",
+        "package_name": "com.jjs.android.butler",
+        "file_name": "com.jjs.android.butler_101.apk",
+        "app_activity": "com.jjs.android.butler.ui.home.activity.SplashActivity"
+    },
+    {
+        "app_name": "相寓",
+        "package_name": "com.wiwj.xiangyucustomer",
+        "file_name": "com.wiwj.xiangyucustomer_102.apk",
+        "app_activity": "com.wiwj.xiangyucustomer.activity.SplashActivity"
+    },
+    {
+        "app_name": "北京保障房",
+        "package_name": "cn.bphc.app.tenant",
+        "file_name": "cn.bphc.app.tenant_103.apk",
+        "app_activity": "cn.bphc.app.tenant.ui.module.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "聚垚",
+        "package_name": "com.jy.hz",
+        "file_name": "com.jy.hz_104.apk",
+        "app_activity": "com.jy.hz.SplashActivity"
+    },
+    {
+        "app_name": "房飞布",
+        "package_name": "com.fangfeibu.wntx",
+        "file_name": "com.fangfeibu.wntx_105.apk",
+        "app_activity": "com.lt.app.MainActivity"
+    },
+    {
+        "app_name": "多多卖房",
+        "package_name": "com.fangdd.mobile.realtor",
+        "file_name": "com.fangdd.mobile.realtor_106.apk",
+        "app_activity": "com.fangdd.mobile.realtor.common.splash.activity.FddSplashActivity"
+    },
+    {
+        "app_name": "郴房网",
+        "package_name": "com.cfw07358",
+        "file_name": "com.cfw07358_107.apk",
+        "app_activity": "com.cfw07358.Welcome"
+    },
+    {
+        "app_name": "转门面网",
+        "package_name": "io.dcloud.H5A9E560D",
+        "file_name": "io.dcloud.H5A9E560D_108.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "自如业主",
+        "package_name": "com.ziroom.ziroomlandlord",
+        "file_name": "com.ziroom.ziroomlandlord_109.apk",
+        "app_activity": "com.ziroom.ziroomlandlord.WelcomeActivity"
+    },
+    {
+        "app_name": "柚米租房",
+        "package_name": "com.umihome.m",
+        "file_name": "com.umihome.m_110.apk",
+        "app_activity": "com.umihome.m.MainActivity"
+    },
+    {
+        "app_name": "正顺好房",
+        "package_name": "com.zs.fang",
+        "file_name": "com.zs.fang_111.apk",
+        "app_activity": "com.zs.fang.MainActivity"
+    },
+    {
+        "app_name": "自在安居",
+        "package_name": "com.zizai.live",
+        "file_name": "com.zizai.live_112.apk",
+        "app_activity": "com.zizai.live.view.WelcomeActivity"
+    },
+    {
+        "app_name": "经纪云",
+        "package_name": "com.soufun",
+        "file_name": "com.soufun_113.apk",
+        "app_activity": "com.soufun.agentcloud.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "住房宝",
+        "package_name": "com.wy.hezhong",
+        "file_name": "com.wy.hezhong_114.apk",
+        "app_activity": "com.wy.main.ui.SplashActivity"
+    },
+    {
+        "app_name": "Wellcee",
+        "package_name": "wellcee.dream",
+        "file_name": "wellcee.dream_115.apk",
+        "app_activity": "com.renting.activity.SplashActivity"
+    },
+    {
+        "app_name": "芒果在线",
+        "package_name": "mangoonline.mango.com.cn.mangoonline",
+        "file_name": "mangoonline.mango.com.cn.mangoonline_116.apk",
+        "app_activity": "mangoonline.mango.com.cn.mangoonline.mvvm.view.splash.SplashActivity"
+    },
+    {
+        "app_name": "开发云",
+        "package_name": "com.soufun.xinfang.xfkfs",
+        "file_name": "com.soufun.xinfang.xfkfs_117.apk",
+        "app_activity": "com.fang.KFSCloud.activity.MainSplashActivity"
+    },
+    {
+        "app_name": "贝壳找房",
+        "package_name": "com.lianjia.beike",
+        "file_name": "com.lianjia.beike_118.apk",
+        "app_activity": "com.lianjia.activity.MainActivity"
+    },
+    {
+        "app_name": "小牛看房",
+        "package_name": "com.xnfang.iplatformc",
+        "file_name": "com.xnfang.iplatformc_119.apk",
+        "app_activity": "com.xnfang.iplatformc.MainActivity"
+    },
+    {
+        "app_name": "找房邦",
+        "package_name": "com.tjwlkj.zf",
+        "file_name": "com.tjwlkj.zf_120.apk",
+        "app_activity": "com.tjwlkj.zf.SplsahActivity"
+    },
+    {
+        "app_name": "铺帮网",
+        "package_name": "com.runf.pubangwang",
+        "file_name": "com.runf.pubangwang_121.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "小智找房",
+        "package_name": "com.xiaozhikanfang",
+        "file_name": "com.xiaozhikanfang_122.apk",
+        "app_activity": "com.xiaozhikanfang.TempActivity"
+    },
+    {
+        "app_name": "小鹿选房",
+        "package_name": "com.fanggeek.shikamaru",
+        "file_name": "com.fanggeek.shikamaru_123.apk",
+        "app_activity": "com.fanggeek.shikamaru.presentation.view.activity.MainActivity"
+    },
+    {
+        "app_name": "润寓",
+        "package_name": "runyu.com.user",
+        "file_name": "runyu.com.user_124.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "麦田在线",
+        "package_name": "com.jkrm.maitian",
+        "file_name": "com.jkrm.maitian_125.apk",
+        "app_activity": "com.jkrm.maitian.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "宁波租房",
+        "package_name": "com.nbzhufang.app",
+        "file_name": "com.nbzhufang.app_126.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "楼盘网",
+        "package_name": "com.loupan.app",
+        "file_name": "com.loupan.app_127.apk",
+        "app_activity": "com.loupan.app.activity.EntranceActivity"
+    },
+    {
+        "app_name": "珠江租赁",
+        "package_name": "com.gzprg.rent",
+        "file_name": "com.gzprg.rent_128.apk",
+        "app_activity": "com.gzprg.rent.SplashActivity"
+    },
+    {
+        "app_name": "巴乐兔房东",
+        "package_name": "com.wanjian.landlord",
+        "file_name": "com.wanjian.landlord_129.apk",
+        "app_activity": "com.wanjian.landlord.common.splash.SplashActivity"
+    },
+    {
+        "app_name": "厂房在线",
+        "package_name": "com.cfzx.v2",
+        "file_name": "com.cfzx.v2_130.apk",
+        "app_activity": "com.cfzx.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "徐房信息网",
+        "package_name": "com.xfxx.xzhouse",
+        "file_name": "com.xfxx.xzhouse_131.apk",
+        "app_activity": "com.xfxx.xzhouse.activity.SplashActivity"
+    },
+    {
+        "app_name": "CCB建融家园",
+        "package_name": "com.ccbhome.lanhai",
+        "file_name": "com.ccbhome.lanhai_132.apk",
+        "app_activity": "com.ccbhome.lanhai.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "优区生活",
+        "package_name": "com.uarea.uu",
+        "file_name": "com.uarea.uu_133.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+
+    {
+        "app_name": "天鹅山共享住房",
+        "package_name": "com.tianeshan.mm",
+        "file_name": "com.tianeshan.mm_1.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "宿迁房网",
+        "package_name": "com.suqianfang",
+        "file_name": "com.suqianfang_2.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "滨州楼市",
+        "package_name": "com.bzloushi.loushi",
+        "file_name": "com.bzloushi.loushi_3.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "U厝",
+        "package_name": "com.iucuo.ams.client",
+        "file_name": "com.iucuo.ams.client_4.apk",
+        "app_activity": "com.iucuo.ams.client.module.guide.PermissionSplashActivity"
+    },
+    {
+        "app_name": "小九找房移动经纪人",
+        "package_name": "uni.B8E5EF7",
+        "file_name": "uni.B8E5EF7_5.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "淘屋SAAS",
+        "package_name": "com.woyaojia.taowusaas",
+        "file_name": "com.woyaojia.taowusaas_6.apk",
+        "app_activity": "com.wyj.inside.ui.login.SplashActivity"
+    },
+    {
+        "app_name": "通达居",
+        "package_name": "com.dqo.ticiqi.DQOTiCi",
+        "file_name": "com.dqo.ticiqi.DQOTiCi_7.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "昆山视窗",
+        "package_name": "net.duohuo.magapp.kssc",
+        "file_name": "net.duohuo.magapp.kssc_8.apk",
+        "app_activity": "net.duohuo.magapp.kssc.activity.StartActivity"
+    },
+    {
+        "app_name": "宁巢公寓租客端",
+        "package_name": "com.ningchao.app",
+        "file_name": "com.ningchao.app_9.apk",
+        "app_activity": "com.ningchao.app.my.activity.SplashActivity"
+    },
+    {
+        "app_name": "匠心荟",
+        "package_name": "uni.UNI8BC0BDE",
+        "file_name": "uni.UNI8BC0BDE_10.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "购房网经纪人",
+        "package_name": "com.goufang.redhouse",
+        "file_name": "com.goufang.redhouse_11.apk",
+        "app_activity": "com.goufang.redhouse.SplashActivity"
+    },
+    {
+        "app_name": "铭豪厂房网",
+        "package_name": "com.weetop.cfw",
+        "file_name": "com.weetop.cfw_12.apk",
+        "app_activity": "com.weetop.cfw.SplashActivity"
+    },
+    {
+        "app_name": "万店找房",
+        "package_name": "com.wd.wdzf",
+        "file_name": "com.wd.wdzf_13.apk",
+        "app_activity": "com.wd.wdzf.StartUpActivity"
+    },
+    {
+        "app_name": "房车宝经纪人",
+        "package_name": "com.evergrande.bao.consumer",
+        "file_name": "com.evergrande.bao.consumer_14.apk",
+        "app_activity": "com.evergrande.bao.consumer.module.splash.AgreeActivity"
+    },
+    {
+        "app_name": "亿家",
+        "package_name": "com.yijia.yijia",
+        "file_name": "com.yijia.yijia_15.apk",
+        "app_activity": "com.yijia.yijia.MainActivity"
+    },
+    {
+        "app_name": "乐优居",
+        "package_name": "cn.leyouju.rent",
+        "file_name": "cn.leyouju.rent_16.apk",
+        "app_activity": "cn.geektang.rent.SplashActivity"
+    },
+    {
+        "app_name": "豪世华邦",
+        "package_name": "com.onway.hshb",
+        "file_name": "com.onway.hshb_17.apk",
+        "app_activity": "com.onway.hshb.activity.SplashActivity"
+    },
+    {
+        "app_name": "元日找房",
+        "package_name": "com.onway.yrdc",
+        "file_name": "com.onway.yrdc_18.apk",
+        "app_activity": "com.onway.yrdc.activity.SplashActivity"
+    },
+    {
+        "app_name": "U厝管理端",
+        "package_name": "com.iucuo.ams.manage",
+        "file_name": "com.iucuo.ams.manage_19.apk",
+        "app_activity": "com.inboyu.workbenchapp.module.login.launch.Welcome2Activity"
+    },
+    {
+        "app_name": "小伙地产",
+        "package_name": "w2a.W2Am.bjxiaohuo.cn",
+        "file_name": "w2a.W2Am.bjxiaohuo.cn_20.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "房老二",
+        "package_name": "com.fanglaoer.app",
+        "file_name": "com.fanglaoer.app_21.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "铺江湖",
+        "package_name": "com.pujianghu.shop",
+        "file_name": "com.pujianghu.shop_22.apk",
+        "app_activity": "com.example.pjhshop.ui.splash.SplashActivity2"
+    },
+    {
+        "app_name": "合筑经纪人",
+        "package_name": "com.hezhuhaofang.app",
+        "file_name": "com.hezhuhaofang.app_23.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "云商业",
+        "package_name": "com.yskj.cloudbusiness",
+        "file_name": "com.yskj.cloudbusiness_24.apk",
+        "app_activity": "com.yskj.cloudbusiness.login.view.activities.SplashActivity"
+    },
+    {
+        "app_name": "房地产联合网",
+        "package_name": "com.xiamen.house",
+        "file_name": "com.xiamen.house_25.apk",
+        "app_activity": "com.xiamen.house.ui.login.GuideActivity"
+    },
+    {
+        "app_name": "云房",
+        "package_name": "com.xpchina.yunfang",
+        "file_name": "com.xpchina.yunfang_26.apk",
+        "app_activity": "com.xpchina.yunfang.ui.activity.login.LauncherActivity"
+    },
+    {
+        "app_name": "子豹找楼商家端",
+        "package_name": "com.yckj.broker",
+        "file_name": "com.yckj.broker_27.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "大城小家",
+        "package_name": "com.croshe.dcxj.xszs",
+        "file_name": "com.croshe.dcxj.xszs_28.apk",
+        "app_activity": "com.croshe.dcxj.xszs.activity.login.WelcomeActivity"
+    },
+    {
+        "app_name": "新房派",
+        "package_name": "com.lehehouse.union",
+        "file_name": "com.lehehouse.union_29.apk",
+        "app_activity": "com.lehehouse.union.ui.activity.ExcessiveActivity"
+    },
+    {
+        "app_name": "AI合富",
+        "package_name": "com.ihk_android.znzf",
+        "file_name": "com.ihk_android.znzf_30.apk",
+        "app_activity": "com.ihk_android.znzf.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "大宾租房房东",
+        "package_name": "uni.UNIBF2B8FE",
+        "file_name": "uni.UNIBF2B8FE_31.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "融易找房经纪端",
+        "package_name": "com.rongyizhaofang.elink",
+        "file_name": "com.rongyizhaofang.elink_32.apk",
+        "app_activity": "com.rongyizhaofang.elink.MainActivity"
+    },
+    {
+        "app_name": "去哪租",
+        "package_name": "com.rykj.qunazu",
+        "file_name": "com.rykj.qunazu_33.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "莹冀云房产",
+        "package_name": "house.yingjiyun",
+        "file_name": "house.yingjiyun_34.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "优佳数据",
+        "package_name": "com.zhongdihang.youjiashuju",
+        "file_name": "com.zhongdihang.youjiashuju_35.apk",
+        "app_activity": "com.zhongdihang.huigujia2.SplashActivity"
+    },
+    {
+        "app_name": "城投叮咚",
+        "package_name": "com.jnqcgx.app",
+        "file_name": "com.jnqcgx.app_36.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "温房通",
+        "package_name": "com.wenzhou.wft",
+        "file_name": "com.wenzhou.wft_37.apk",
+        "app_activity": "com.eallcn.tangshan.controller.PrivacyActivity"
+    },
+    {
+        "app_name": "房拓云",
+        "package_name": "fangtuoyun.fanglian",
+        "file_name": "fangtuoyun.fanglian_38.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "九运铺",
+        "package_name": "com.jiuyunpu",
+        "file_name": "com.jiuyunpu_39.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "房游纪",
+        "package_name": "com.fangyouji.fcapp",
+        "file_name": "com.fangyouji.fcapp_40.apk",
+        "app_activity": "com.wyj.inside.ui.login.SplashActivity"
+    },
+    {
+        "app_name": "家园找房经纪人端",
+        "package_name": "uni.UNIC03025D",
+        "file_name": "uni.UNIC03025D_41.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "房品优选",
+        "package_name": "com.fangpinyouxuan.house",
+        "file_name": "com.fangpinyouxuan.house_42.apk",
+        "app_activity": "com.fangpinyouxuan.house.ui.login.SplashActivity"
+    },
+    {
+        "app_name": "917房产网",
+        "package_name": "com.xm917.app",
+        "file_name": "com.xm917.app_43.apk",
+        "app_activity": "com.xm917.app.project.ui.launcher.activity.LauncherActivity"
+    },
+    {
+        "app_name": "17度建装租售",
+        "package_name": "com.yiqiduu.app",
+        "file_name": "com.yiqiduu.app_44.apk",
+        "app_activity": "com.yi.qi.du.FastStartActivity"
+    },
+    {
+        "app_name": "房云",
+        "package_name": "com.fangdd.mobile.epc",
+        "file_name": "com.fangdd.mobile.epc_45.apk",
+        "app_activity": "com.fangdd.mobile.epc.splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "卖房通",
+        "package_name": "com.jiaheng.agency_im",
+        "file_name": "com.jiaheng.agency_im_46.apk",
+        "app_activity": "com.jiaheng.agent.activity.SplashActivity"
+    },
+    {
+        "app_name": "房超经纪人",
+        "package_name": "com.fccs.agent",
+        "file_name": "com.fccs.agent_47.apk",
+        "app_activity": "com.fccs.agent.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "聊价网",
+        "package_name": "lp.tjw",
+        "file_name": "lp.tjw_48.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "好房好车经纪人",
+        "package_name": "com.anjiabang.hfhcjjr",
+        "file_name": "com.anjiabang.hfhcjjr_49.apk",
+        "app_activity": "com.anjiabang.hfhcjjr.MainActivity"
+    },
+    {
+        "app_name": "城发成家",
+        "package_name": "uni.UNIC809CA1",
+        "file_name": "uni.UNIC809CA1_50.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "庄家共享农庄",
+        "package_name": "com.wanhong.zhuangjia",
+        "file_name": "com.wanhong.zhuangjia_51.apk",
+        "app_activity": "com.wanhong.zhuangjia.ui.activity.start.SplashActivity"
+    },
+    {
+        "app_name": "悦居网",
+        "package_name": "com.yjgx.househrb",
+        "file_name": "com.yjgx.househrb_52.apk",
+        "app_activity": "com.yjgx.househrb.welcome.WelComeActivity"
+    },
+    {
+        "app_name": "众享优家",
+        "package_name": "com.example.jiajiale",
+        "file_name": "com.example.jiajiale_53.apk",
+        "app_activity": "com.example.jiajiale.activity.LoadingActivity"
+    },
+    {
+        "app_name": "津房置换",
+        "package_name": "cn.com.jfzh.app",
+        "file_name": "cn.com.jfzh.app_54.apk",
+        "app_activity": "cn.com.jfzh.jfzh_product.MainActivity"
+    },
+    {
+        "app_name": "世纪房产网",
+        "package_name": "com.shijifc",
+        "file_name": "com.shijifc_55.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "蚂蚁找房",
+        "package_name": "com.eeds.myzf",
+        "file_name": "com.eeds.myzf_56.apk",
+        "app_activity": "com.eallcn.tangshan.controller.PrivacyActivity"
+    },
+    {
+        "app_name": "荔刻管房",
+        "package_name": "com.moer.likeguanfang",
+        "file_name": "com.moer.likeguanfang_57.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "搜城",
+        "package_name": "com.example.soucheng",
+        "file_name": "com.example.soucheng_58.apk",
+        "app_activity": "com.example.soucheng.activitys.startpage.StartActivity"
+    },
+    {
+        "app_name": "火速签约",
+        "package_name": "com.allqj.hsqy",
+        "file_name": "com.allqj.hsqy_59.apk",
+        "app_activity": "com.eallcn.mse.activity.qj.WelcomeV2Activity"
+    },
+    {
+        "app_name": "大城楼盘管理",
+        "package_name": "com.croshe.bbd",
+        "file_name": "com.croshe.bbd_60.apk",
+        "app_activity": "com.croshe.bbd.activity.login.WelcomeActivity"
+    },
+    {
+        "app_name": "大城经纪人",
+        "package_name": "com.croshe.jjr",
+        "file_name": "com.croshe.jjr_61.apk",
+        "app_activity": "com.croshe.dcxj.jjr.activity.login.WelcomeActivity"
+    },
+    {
+        "app_name": "淘拍房",
+        "package_name": "com.taopaifang.appname",
+        "file_name": "com.taopaifang.appname_62.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "寻寓租房",
+        "package_name": "com.xunyu.io",
+        "file_name": "com.xunyu.io_63.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "言房",
+        "package_name": "com.yanfangapp",
+        "file_name": "com.yanfangapp_64.apk",
+        "app_activity": "com.yanfangapp.MainActivity"
+    },
+    {
+        "app_name": "家园找房",
+        "package_name": "uni.UNI0821340",
+        "file_name": "uni.UNI0821340_65.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "汇家找房",
+        "package_name": "com.hftonga.chenjie",
+        "file_name": "com.hftonga.chenjie_66.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "惠悦家",
+        "package_name": "cn.sykjwh.hkgy",
+        "file_name": "cn.sykjwh.hkgy_67.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "楼长管理",
+        "package_name": "com.guangmingoem.LandlordAssistant",
+        "file_name": "com.guangmingoem.LandlordAssistant_68.apk",
+        "app_activity": "com.doordu.police.assistant.activitys.SplashActivity"
+    },
+    {
+        "app_name": "中鑫润房产",
+        "package_name": "uni.UNICE70160",
+        "file_name": "uni.UNICE70160_69.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "换房",
+        "package_name": "com.huanfang.app",
+        "file_name": "com.huanfang.app_70.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "城轨曦寓",
+        "package_name": "com.bzf.xiyu",
+        "file_name": "com.bzf.xiyu_71.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "宅猫找房",
+        "package_name": "com.buyhouse.zhaimao.find",
+        "file_name": "com.buyhouse.zhaimao.find_72.apk",
+        "app_activity": "com.buyhouse.zhaimao.find.ui.LauncherNewActivity"
+    },
+    {
+        "app_name": "大狮看铺",
+        "package_name": "com.hyj.watchshop",
+        "file_name": "com.hyj.watchshop_73.apk",
+        "app_activity": "com.hyj.watchshop.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "安小乐",
+        "package_name": "com.example.lejia",
+        "file_name": "com.example.lejia_74.apk",
+        "app_activity": "com.example.lejia.view.SplashActivity"
+    },
+    {
+        "app_name": "安友邻",
+        "package_name": "com.wxf.lezhu",
+        "file_name": "com.wxf.lezhu_75.apk",
+        "app_activity": "com.wxf.lezhu.MainActivity"
+    },
+    {
+        "app_name": "房嘟嘟",
+        "package_name": "com.jdc.fdd",
+        "file_name": "com.jdc.fdd_76.apk",
+        "app_activity": "com.jdc.fdd.MainActivity"
+    },
+    {
+        "app_name": "梧桐墅",
+        "package_name": "com.bjjmdf.cbf.rcfhouse",
+        "file_name": "com.bjjmdf.cbf.rcfhouse_77.apk",
+        "app_activity": "com.bjjmdf.cbf.rcfhouse.MainActivity"
+    },
+    {
+        "app_name": "优佳数据银行端",
+        "package_name": "com.zhongdihang.youjiashuju.bankapp",
+        "file_name": "com.zhongdihang.youjiashuju.bankapp_78.apk",
+        "app_activity": "com.zhongdihang.huigujia2.SplashActivity"
+    },
+    {
+        "app_name": "AOS",
+        "package_name": "com.txaos.agent",
+        "file_name": "com.txaos.agent_79.apk",
+        "app_activity": "com.soufun.agentcloud.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "优铺",
+        "package_name": "com.up.upcbmls",
+        "file_name": "com.up.upcbmls_80.apk",
+        "app_activity": "com.up.upcbmls.view.activity.LogoActivity"
+    },
+    {
+        "app_name": "云房A加",
+        "package_name": "com.jbzf.saas",
+        "file_name": "com.jbzf.saas_81.apk",
+        "app_activity": "com.jbzf.saas.module.startup.StartUpActivity"
+    },
+    {
+        "app_name": "蜗壳租房",
+        "package_name": "com.platform.wokezf",
+        "file_name": "com.platform.wokezf_82.apk",
+        "app_activity": "com.platform.wokezf.activity.SplashActivity"
+    },
+    {
+        "app_name": "成家租房",
+        "package_name": "com.chengke.chengjiazufang",
+        "file_name": "com.chengke.chengjiazufang_83.apk",
+        "app_activity": "com.chengke.chengjiazufang.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "标标准",
+        "package_name": "bbz.com",
+        "file_name": "bbz.com_84.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "悠居客",
+        "package_name": "com.hftsoft.yjk",
+        "file_name": "com.hftsoft.yjk_85.apk",
+        "app_activity": "com.hftsoft.yjk.ui.module.common.activity.RouterActivity"
+    },
+    {
+        "app_name": "第一房源",
+        "package_name": "com.lmkj.fyw01fy",
+        "file_name": "com.lmkj.fyw01fy_86.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "917移动经纪人",
+        "package_name": "com.ydjjr917.www",
+        "file_name": "com.ydjjr917.www_87.apk",
+        "app_activity": "com.ydjjr917.www.activity.QiDongYe"
+    },
+    {
+        "app_name": "房校长",
+        "package_name": "com.example.fangxiaozhang",
+        "file_name": "com.example.fangxiaozhang_88.apk",
+        "app_activity": "com.example.fangxiaozhang.view.SplashActivity"
+    },
+    {
+        "app_name": "好好租房东版",
+        "package_name": "com.ilin.rent",
+        "file_name": "com.ilin.rent_89.apk",
+        "app_activity": "com.ilin.rent.MainActivity"
+    },
+    {
+        "app_name": "子豹找楼",
+        "package_name": "com.yckj.xbzl",
+        "file_name": "com.yckj.xbzl_90.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "小九移动作业",
+        "package_name": "uni.UNI5D2150C",
+        "file_name": "uni.UNI5D2150C_91.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "熊猫同城",
+        "package_name": "com.pandascity.pd.app",
+        "file_name": "com.pandascity.pd.app_92.apk",
+        "app_activity": "com.pandascity.pd.app.post.ui.launch.activity.LaunchActivity"
+    },
+    {
+        "app_name": "享乐租",
+        "package_name": "cn.com.lezubao.xlzhost",
+        "file_name": "cn.com.lezubao.xlzhost_93.apk",
+        "app_activity": "cn.com.lezubao.xlzhost.MainActivity"
+    },
+    {
+        "app_name": "福吉家",
+        "package_name": "fangs365.leftsky",
+        "file_name": "fangs365.leftsky_94.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "汉房",
+        "package_name": "com.hanfang.hanfang2022",
+        "file_name": "com.hanfang.hanfang2022_95.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "新疆二手房",
+        "package_name": "com.xinjiang.eishoufang",
+        "file_name": "com.xinjiang.eishoufang_96.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "菁舍",
+        "package_name": "com.example.xcrd_frontend_app",
+        "file_name": "com.example.xcrd_frontend_app_97.apk",
+        "app_activity": "com.example.xcrd_frontend_app.MainActivity"
+    },
+    {
+        "app_name": "JR新房",
+        "package_name": "com.jrxfapp",
+        "file_name": "com.jrxfapp_98.apk",
+        "app_activity": "com.jrxfapp.MainActivity"
+    },
+    {
+        "app_name": "JR管家",
+        "package_name": "com.jrzfApp",
+        "file_name": "com.jrzfApp_99.apk",
+        "app_activity": "com.jrzfApp.MainActivity"
+    },
+    {
+        "app_name": "壹圆找租",
+        "package_name": "com.baofeng.yyzz",
+        "file_name": "com.baofeng.yyzz_100.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "吉市找铺",
+        "package_name": "com.jszp.mm",
+        "file_name": "com.jszp.mm_101.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "极寓管家",
+        "package_name": "com.guanjia.jiyu",
+        "file_name": "com.guanjia.jiyu_102.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "园区获客宝",
+        "package_name": "com.hanyu.warehouse.free",
+        "file_name": "com.hanyu.warehouse.free_103.apk",
+        "app_activity": "com.hanyu.warehouse.free.ui.MainActivity"
+    },
+    {
+        "app_name": "龟途客",
+        "package_name": "com.guituke.live",
+        "file_name": "com.guituke.live_104.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "房王加",
+        "package_name": "com.ihk_android.fwj",
+        "file_name": "com.ihk_android.fwj_105.apk",
+        "app_activity": "com.ihk_android.fwj.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "首创和园",
+        "package_name": "com.seewell.leasing.bclstarry",
+        "file_name": "com.seewell.leasing.bclstarry_106.apk",
+        "app_activity": "com.seewell.leasing.bclstarry.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "贵菲",
+        "package_name": "com.gfkj.client",
+        "file_name": "com.gfkj.client_107.apk",
+        "app_activity": "com.gfkj.client.MainActivity"
+    },
+    {
+        "app_name": "房谱",
+        "package_name": "cn.com.xfdc",
+        "file_name": "cn.com.xfdc_108.apk",
+        "app_activity": "cn.com.xfdc.xffp.welcome.activity.MainActivity"
+    },
+    {
+        "app_name": "金湖智享家",
+        "package_name": "cn.flyrise.futurecity",
+        "file_name": "cn.flyrise.futurecity_109.apk",
+        "app_activity": "cn.flyrise.feparks.function.login.StartupActivity"
+    },
+    {
+        "app_name": "维酷云租房",
+        "package_name": "com.vkucloud.renthouse",
+        "file_name": "com.vkucloud.renthouse_110.apk",
+        "app_activity": "com.vkucloud.renthouse.MainActivity"
+    },
+    {
+        "app_name": "暖屋",
+        "package_name": "com.warmapartment.consumer",
+        "file_name": "com.warmapartment.consumer_111.apk",
+        "app_activity": "com.SIGNetwork.sigapartment.consumer.MainActivity"
+    },
+    {
+        "app_name": "淘房云",
+        "package_name": "uni.UNI65FD505",
+        "file_name": "uni.UNI65FD505_112.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "酒店易选址",
+        "package_name": "com.jdexzhotel.app",
+        "file_name": "com.jdexzhotel.app_113.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "红房新房",
+        "package_name": "com.goufang.newhouse",
+        "file_name": "com.goufang.newhouse_114.apk",
+        "app_activity": "com.goufang.newhouse.SplashActivity"
+    },
+    {
+        "app_name": "NES+",
+        "package_name": "com.zhangjiang.m",
+        "file_name": "com.zhangjiang.m_115.apk",
+        "app_activity": "com.zhangjiang.m.MainActivity"
+    },
+    {
+        "app_name": "天府桐堂",
+        "package_name": "com.cd.rencai",
+        "file_name": "com.cd.rencai_116.apk",
+        "app_activity": "com.iplay.home.app.LoadingActivity"
+    },
+    {
+        "app_name": "坚果社区",
+        "package_name": "com.xiaoying.community",
+        "file_name": "com.xiaoying.community_117.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "创寓",
+        "package_name": "cn.flyrise.feparks.chuangyu",
+        "file_name": "cn.flyrise.feparks.chuangyu_118.apk",
+        "app_activity": "cn.flyrise.feparks.function.login.WelcomeActivity"
+    },
+    {
+        "app_name": "澳門找房",
+        "package_name": "com.centaline.centalinemacau",
+        "file_name": "com.centaline.centalinemacau_119.apk",
+        "app_activity": "com.centaline.centalinemacau.ui.PrivacyPolicyActivity"
+    },
+    {
+        "app_name": "迎客租房",
+        "package_name": "yingkroom.com",
+        "file_name": "yingkroom.com_120.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "哪吒找房",
+        "package_name": "uni.E189004",
+        "file_name": "uni.E189004_121.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "云渠道",
+        "package_name": "com.yskj.yunqudao",
+        "file_name": "com.yskj.yunqudao_122.apk",
+        "app_activity": "com.yskj.yunqudao.login.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "找房咚",
+        "package_name": "com.fjh.vip",
+        "file_name": "com.fjh.vip_123.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "友客e家",
+        "package_name": "cn.solutioncloud.hkp",
+        "file_name": "cn.solutioncloud.hkp_124.apk",
+        "app_activity": "com.example.newhouse.MainActivity"
+    },
+    {
+        "app_name": "房小二网",
+        "package_name": "com.jiaheng.fangxiaoer_public",
+        "file_name": "com.jiaheng.fangxiaoer_public_125.apk",
+        "app_activity": "com.jiaheng.xiaoer_public.function_package.user.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "福源网",
+        "package_name": "uni.UNI1B80ADF",
+        "file_name": "uni.UNI1B80ADF_126.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "南阳房产网",
+        "package_name": "com.nanyang.nyfcw",
+        "file_name": "com.nanyang.nyfcw_127.apk",
+        "app_activity": "com.eallcn.tangshan.controller.PrivacyActivity"
+    },
+    {
+        "app_name": "5平方 Squarefoot",
+        "package_name": "hk.com.squarefoot.app",
+        "file_name": "hk.com.squarefoot.app_128.apk",
+        "app_activity": "com.hse28.hse28_2.Main.SquarefootMainActivity"
+    },
+    {
+        "app_name": "吉房联",
+        "package_name": "cn.unite.jf",
+        "file_name": "cn.unite.jf_129.apk",
+        "app_activity": "cn.unite.jf.ui.SplashActivity"
+    },
+    {
+        "app_name": "低首付买房",
+        "package_name": "com.ssd.fcmma",
+        "file_name": "com.ssd.fcmma_130.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "云案场",
+        "package_name": "com.yskj.cloudsales",
+        "file_name": "com.yskj.cloudsales_131.apk",
+        "app_activity": "com.yskj.cloudsales.login.view.activities.SplashActivity"
+    },
+    {
+        "app_name": "π数据",
+        "package_name": "com.taopaifangdata.name",
+        "file_name": "com.taopaifangdata.name_132.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "JH聚合",
+        "package_name": "aj.APPJJR",
+        "file_name": "aj.APPJJR_133.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "蓝壳生活",
+        "package_name": "com.lankelease.estate",
+        "file_name": "com.lankelease.estate_134.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "智慧住房",
+        "package_name": "com.mafang.community",
+        "file_name": "com.mafang.community_135.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "憓家",
+        "package_name": "com.wdit.hzapp",
+        "file_name": "com.wdit.hzapp_136.apk",
+        "app_activity": "com.wdit.app.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "反手猴",
+        "package_name": "com.fanshouhou.house",
+        "file_name": "com.fanshouhou.house_137.apk",
+        "app_activity": "com.fanshouhou.house.app.SplashActivity"
+    },
+    {
+        "app_name": "金华房网",
+        "package_name": "com.jhfw.uniapp",
+        "file_name": "com.jhfw.uniapp_138.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "融易找房",
+        "package_name": "com.rongyizhaofang.elink_user",
+        "file_name": "com.rongyizhaofang.elink_user_139.apk",
+        "app_activity": "com.rongyizhaofang.elink_user.MainActivity"
+    },
+    {
+        "app_name": "天玑云享",
+        "package_name": "com.tjyun.tianjiyunxiang",
+        "file_name": "com.tjyun.tianjiyunxiang_140.apk",
+        "app_activity": "com.tjyun.tianjiyunxiang.MainActivity"
+    },
+    {
+        "app_name": "友房通",
+        "package_name": "com.fy.yft",
+        "file_name": "com.fy.yft_141.apk",
+        "app_activity": "com.fy.yft.ui.activity.LaunchActivity"
+    },
+    {
+        "app_name": "房猫找房",
+        "package_name": "com.fangmao.app",
+        "file_name": "com.fangmao.app_142.apk",
+        "app_activity": "com.fangmao.app.SplashActivity"
+    },
+    {
+        "app_name": "房产云",
+        "package_name": "com.fangchanyun.benben",
+        "file_name": "com.fangchanyun.benben_143.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "焦E登",
+        "package_name": "com.guangda.jzrealestateregistrationapp",
+        "file_name": "com.guangda.jzrealestateregistrationapp_144.apk",
+        "app_activity": "com.guangda.jzrealestateregistrationapp.activity.main.MainActivity"
+    },
+    {
+        "app_name": "土投平台",
+        "package_name": "com.app.tutoupt",
+        "file_name": "com.app.tutoupt_145.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "澜房",
+        "package_name": "com.fangxin.agent",
+        "file_name": "com.fangxin.agent_146.apk",
+        "app_activity": "com.fangxin.agent.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "五星服务",
+        "package_name": "com.fangdx.xinfangtongstarservice",
+        "file_name": "com.fangdx.xinfangtongstarservice_147.apk",
+        "app_activity": "com.fangdx.xinfangtongstarservice.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "宅猫签约",
+        "package_name": "com.buyhouse.zhaimao",
+        "file_name": "com.buyhouse.zhaimao_148.apk",
+        "app_activity": "com.buyhouse.zhaimao.ui.a.SplashActivity"
+    },
+    {
+        "app_name": "易找房",
+        "package_name": "com.taizhou.yzf",
+        "file_name": "com.taizhou.yzf_149.apk",
+        "app_activity": "com.eallcn.tangshan.controller.PrivacyActivity"
+    },
+    {
+        "app_name": "金刚石市场版",
+        "package_name": "com.jgsysj",
+        "file_name": "com.jgsysj_150.apk",
+        "app_activity": "com.jgsysj.ui.MainActivity"
+    },
+    {
+        "app_name": "无忧经纪人",
+        "package_name": "cn.yunjj.app.agent",
+        "file_name": "cn.yunjj.app.agent_151.apk",
+        "app_activity": "com.example.yunjj.business.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "麦滴管家Pro",
+        "package_name": "com.fh.gj",
+        "file_name": "com.fh.gj_152.apk",
+        "app_activity": "com.fh.gj.activity.SplashActivity"
+    },
+    {
+        "app_name": "石头找房",
+        "package_name": "com.stzone.client",
+        "file_name": "com.stzone.client_153.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "喜到",
+        "package_name": "com.xidao",
+        "file_name": "com.xidao_154.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "中赋能",
+        "package_name": "com.lm.zfn",
+        "file_name": "com.lm.zfn_155.apk",
+        "app_activity": "com.lm.zfn.entrance.activity.SplashActivity"
+    },
+    {
+        "app_name": "房利聚",
+        "package_name": "com.fangliju.enterprise",
+        "file_name": "com.fangliju.enterprise_156.apk",
+        "app_activity": "com.fangliju.enterprise.activity.LaunchActivity"
+    },
+    {
+        "app_name": "赑居在线",
+        "package_name": "com.zhaofangdiandian.enterprise",
+        "file_name": "com.zhaofangdiandian.enterprise_157.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "德满鑫",
+        "package_name": "uni.UNIECA24F8",
+        "file_name": "uni.UNIECA24F8_158.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "智珠时空",
+        "package_name": "com.zhizhu.pf",
+        "file_name": "com.zhizhu.pf_159.apk",
+        "app_activity": "com.zhizhu.pf.ui.activity.home.SplashActivity"
+    },
+    {
+        "app_name": "新房通APP",
+        "package_name": "uni.UNI75ED66E",
+        "file_name": "uni.UNI75ED66E_160.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "住新家找房展示端",
+        "package_name": "com.zhuxinjia.xcx",
+        "file_name": "com.zhuxinjia.xcx_161.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "世联集客",
+        "package_name": "com.berchina.agency",
+        "file_name": "com.berchina.agency_162.apk",
+        "app_activity": "com.berchina.agency.MainActivity"
+    },
+    {
+        "app_name": "917微聊客",
+        "package_name": "com.newhouse917.www",
+        "file_name": "com.newhouse917.www_163.apk",
+        "app_activity": "com.newhouse917.www.ui.laucher.LaucherActivity"
+    },
+    {
+        "app_name": "庄河找房",
+        "package_name": "com.dalian.zhzf",
+        "file_name": "com.dalian.zhzf_164.apk",
+        "app_activity": "com.eallcn.tangshan.controller.PrivacyActivity"
+    },
+    {
+        "app_name": "eApartment",
+        "package_name": "com.fingercrystal.apartment",
+        "file_name": "com.fingercrystal.apartment_165.apk",
+        "app_activity": "com.fingercrystal.apartment.WelcomeActivity"
+    },
+    {
+        "app_name": "爱租",
+        "package_name": "com.threeti.loverentnet",
+        "file_name": "com.threeti.loverentnet_166.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "数字境商",
+        "package_name": "com.js.digit",
+        "file_name": "com.js.digit_167.apk",
+        "app_activity": "com.js.digit.housejs.MainActivity"
+    },
+    {
+        "app_name": "住朋网",
+        "package_name": "com.zp365.main",
+        "file_name": "com.zp365.main_168.apk",
+        "app_activity": "com.zp365.main.activity.StartActivity"
+    },
+    {
+        "app_name": "阿拉找房",
+        "package_name": "com.ningbo.alzf",
+        "file_name": "com.ningbo.alzf_169.apk",
+        "app_activity": "com.eallcn.tangshan.controller.PrivacyActivity"
+    },
+    {
+        "app_name": "木棉",
+        "package_name": "com.waoqi.renthouse",
+        "file_name": "com.waoqi.renthouse_170.apk",
+        "app_activity": "com.waoqi.renthouse.ui.act.SplashActivity"
+    },
+    {
+        "app_name": "北区房",
+        "package_name": "com.xpchina.bqfang",
+        "file_name": "com.xpchina.bqfang_171.apk",
+        "app_activity": "com.xpchina.bqfang.ui.activity.login.LauncherActivity"
+    },
+    {
+        "app_name": "宅喔",
+        "package_name": "com.zhaiwo.app",
+        "file_name": "com.zhaiwo.app_172.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "帮筑家",
+        "package_name": "com.fangdx.xinfangtong",
+        "file_name": "com.fangdx.xinfangtong_173.apk",
+        "app_activity": "com.fangdx.xinfangtong.common.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "上客有道",
+        "package_name": "shangkela.com",
+        "file_name": "shangkela.com_174.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "E办直租",
+        "package_name": "com.f11021114484.sjr",
+        "file_name": "com.f11021114484.sjr_175.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "天天卖房",
+        "package_name": "com.fangdx.tiantianmaifang2023",
+        "file_name": "com.fangdx.tiantianmaifang2023_176.apk",
+        "app_activity": "com.fangdx.tiantianmaifang2023.ui.other.WelcomeActivity"
+    },
+    {
+        "app_name": "小兵管家",
+        "package_name": "uni.UNI7A963AB",
+        "file_name": "uni.UNI7A963AB_177.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "万间好房",
+        "package_name": "com.baletu.wanjianhaofang",
+        "file_name": "com.baletu.wanjianhaofang_178.apk",
+        "app_activity": "com.baletu.wanjianhaofang.MainActivity"
+    },
+    {
+        "app_name": "后花园找房",
+        "package_name": "com.hougarden.house",
+        "file_name": "com.hougarden.house_179.apk",
+        "app_activity": "com.hougarden.house.MainActivity"
+    },
+    {
+        "app_name": "51个人房源-租客版",
+        "package_name": "com.hh.tenant.lessee",
+        "file_name": "com.hh.tenant.lessee_180.apk",
+        "app_activity": "com.hh.tenant.lessee.MainActivity"
+    },
+    {
+        "app_name": "1代理",
+        "package_name": "com.dtz.ebroker",
+        "file_name": "com.dtz.ebroker_181.apk",
+        "app_activity": "com.dtz.ebroker.ui.activity.ad.AdActivity2"
+    },
+    {
+        "app_name": "建鑫乐家租赁",
+        "package_name": "com.gdyt.lehome",
+        "file_name": "com.gdyt.lehome_182.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "无忧找房",
+        "package_name": "cn.yunjj.app.customer",
+        "file_name": "cn.yunjj.app.customer_183.apk",
+        "app_activity": "com.example.yunjj.business.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "租满易出房",
+        "package_name": "com.zumanyi.cf.app",
+        "file_name": "com.zumanyi.cf.app_184.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "安居链企业端",
+        "package_name": "com.anjulian.mgt.android",
+        "file_name": "com.anjulian.mgt.android_185.apk",
+        "app_activity": "com.anjulian.mgt.android.home.ui.SplashActivity"
+    },
+    {
+        "app_name": "招商伊敦",
+        "package_name": "com.zsck.zsgy",
+        "file_name": "com.zsck.zsgy_186.apk",
+        "app_activity": "com.zsck.zsgy.activities.guide.SplashActivity"
+    },
+    {
+        "app_name": "尊园之星",
+        "package_name": "com.fangstar.fstarbroker",
+        "file_name": "com.fangstar.fstarbroker_187.apk",
+        "app_activity": "com.fangstar.fstarbroker.EntryAct"
+    },
+    {
+        "app_name": "小兵管家 (管理端)",
+        "package_name": "uni.UNI7FF7F59",
+        "file_name": "uni.UNI7FF7F59_188.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "51个人房源房东版",
+        "package_name": "com.hh.tenant.landlord",
+        "file_name": "com.hh.tenant.landlord_189.apk",
+        "app_activity": "com.hh.tenant.landlord.MainActivity"
+    },
+    {
+        "app_name": "宜居宜业",
+        "package_name": "com.yijuyiye.shop",
+        "file_name": "com.yijuyiye.shop_190.apk",
+        "app_activity": "com.yijuyiye.shop.ui.login.activity.StartActivity"
+    },
+    {
+        "app_name": "房东利器",
+        "package_name": "prancent.project.rentalhouse.app",
+        "file_name": "prancent.project.rentalhouse.app_191.apk",
+        "app_activity": "prancent.project.rentalhouse.app.activity.WelComeActivity"
+    },
+    {
+        "app_name": "美寓",
+        "package_name": "com.daowangtech.hfmy",
+        "file_name": "com.daowangtech.hfmy_192.apk",
+        "app_activity": "com.daowangtech.hfmy.MainActivity"
+    },
+    {
+        "app_name": "陆家嘴乐居",
+        "package_name": "uni.Lhome",
+        "file_name": "uni.Lhome_193.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "旺住找房",
+        "package_name": "com.wangzhu.wangzhuzhaofang",
+        "file_name": "com.wangzhu.wangzhuzhaofang_194.apk",
+        "app_activity": "com.wangzhu.wangzhuzhaofang.MainActivity"
+    },
+    {
+        "app_name": "房帮帮经纪",
+        "package_name": "com.fangbangbang.fbb",
+        "file_name": "com.fangbangbang.fbb_195.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "京日找房",
+        "package_name": "com.c_jrzfapp",
+        "file_name": "com.c_jrzfapp_196.apk",
+        "app_activity": "com.c_jrzfapp.SplashActivity"
+    },
+    {
+        "app_name": "悦享ipark",
+        "package_name": "com.wenquan.community",
+        "file_name": "com.wenquan.community_197.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "哎呀找房",
+        "package_name": "com.app.aiya",
+        "file_name": "com.app.aiya_198.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "拓客本",
+        "package_name": "com.kfang.tuokeben",
+        "file_name": "com.kfang.tuokeben_199.apk",
+        "app_activity": "com.kfang.tuokeben.WelcomeActivity"
+    },
+    {
+        "app_name": "神居秒算",
+        "package_name": "com.neox.app.Sushi",
+        "file_name": "com.neox.app.Sushi_200.apk",
+        "app_activity": "com.neox.app.Sushi.SplashScreen.SplashScreen"
+    },
+    {
+        "app_name": "HonYar Tenant Butler",
+        "package_name": "com.hongyan.oemapp.hygj",
+        "file_name": "com.hongyan.oemapp.hygj_201.apk",
+        "app_activity": "com.smart.ThingSplashActivity"
+    },
+    {
+        "app_name": "汇家网",
+        "package_name": "com.hftong.chenjie",
+        "file_name": "com.hftong.chenjie_202.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "赛客居",
+        "package_name": "com.saicapp.skjclient",
+        "file_name": "com.saicapp.skjclient_203.apk",
+        "app_activity": "com.saicapp.skjclient.MainActivity"
+    },
+    {
+        "app_name": "青松租客",
+        "package_name": "com.fingercrystal.pmstenant",
+        "file_name": "com.fingercrystal.pmstenant_204.apk",
+        "app_activity": "com.fingercrystal.pmstenant.user.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "呼和浩特市租赁住房信息管理平台",
+        "package_name": "com.nmghl.mobile.zlzf",
+        "file_name": "com.nmghl.mobile.zlzf_205.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    }
+
+]

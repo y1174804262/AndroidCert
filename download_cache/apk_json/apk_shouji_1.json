@@ -1,0 +1,338 @@
+[
+    {
+        "app_name": "银川发布",
+        "package_name": "com.ycen.www.activity",
+        "file_name": "com.ycen.www.activity_1.apk",
+        "app_activity": "com.founder.xiangyu.MainActivity"
+    },
+    {
+        "app_name": "断易堂",
+        "package_name": "com.duanyitang.ebming",
+        "file_name": "com.duanyitang.ebming_2.apk",
+        "app_activity": "com.duanyitang.ebming.MainActivity"
+    },
+    {
+        "app_name": "薄荷壁纸",
+        "package_name": "com.lingli.wallpaper",
+        "file_name": "com.lingli.wallpaper_4.apk",
+        "app_activity": "com.lingli.wallpaper.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "羊城通",
+        "package_name": "com.gzyct.yctwallet",
+        "file_name": "com.gzyct.yctwallet_5.apk",
+        "app_activity": "com.gzyct.splash.YctSplashActivity"
+    },
+    {
+        "app_name": "学信网",
+        "package_name": "cn.com.chsi.chsiapp",
+        "file_name": "cn.com.chsi.chsiapp_6.apk",
+        "app_activity": "cn.com.chsi.chsiapp.GuideActivity"
+    },
+    {
+        "app_name": "鲁班到家用户版",
+        "package_name": "com.lbdjorder",
+        "file_name": "com.lbdjorder_7.apk",
+        "app_activity": "com.lbdjorder.MainActivity"
+    },
+    {
+        "app_name": "人民日报少年",
+        "package_name": "com.pd.pdread",
+        "file_name": "com.pd.pdread_8.apk",
+        "app_activity": "com.peopletech.main.mvp.ui.activity.Splash2022Activity"
+    },
+    {
+        "app_name": "新甘谷",
+        "package_name": "com.pdmi.gangu.media",
+        "file_name": "com.pdmi.gangu.media_9.apk",
+        "app_activity": "com.pdmi.gansu.main.guide.SplashActivity"
+    },
+    {
+        "app_name": "云缴费",
+        "package_name": "com.cebbank.yaoyao",
+        "file_name": "com.cebbank.yaoyao_10.apk",
+        "app_activity": "com.cebbank.yaoyao.startup.GuideActivity"
+    },
+    {
+        "app_name": "与宁同行",
+        "package_name": "com.njmetro.njb",
+        "file_name": "com.njmetro.njb_11.apk",
+        "app_activity": "com.bwton.metro.lanuch.LanuchActivity"
+    },
+    {
+        "app_name": "南京公积金",
+        "package_name": "com.hxyd.njgjj",
+        "file_name": "com.hxyd.njgjj_12.apk",
+        "app_activity": "com.hxyd.njgjj.activity.StartActivity"
+    },
+    {
+        "app_name": "南宁轨道交通",
+        "package_name": "com.nngdjt.app",
+        "file_name": "com.nngdjt.app_13.apk",
+        "app_activity": "com.nngdjt.app.module.ui.activity.m00_welcome.LaunchActivity"
+    },
+    {
+        "app_name": "快闪壁纸",
+        "package_name": "com.ccquwei.flashwallpaper",
+        "file_name": "com.ccquwei.flashwallpaper_14.apk",
+        "app_activity": "com.ccquwei.flashwallpaper.ui.SplashActivity"
+    },
+    {
+        "app_name": "美食宝典",
+        "package_name": "com.chuangyuan.msbd",
+        "file_name": "com.chuangyuan.msbd_15.apk",
+        "app_activity": "com.lingdong.gm.activity.GMWebActivity"
+    },
+    {
+        "app_name": "美食笔记",
+        "package_name": "com.chuangyuan.msbj",
+        "file_name": "com.chuangyuan.msbj_16.apk",
+        "app_activity": "com.lingdong.gm.activity.GMWebActivity"
+    },
+    {
+        "app_name": "网维助手",
+        "package_name": "com.juqing.speedmanager",
+        "file_name": "com.juqing.speedmanager_17.apk",
+        "app_activity": "com.speedtest.module_home.ui.neterror.WelcomeActivity"
+    },
+    {
+        "app_name": "平安好生活",
+        "package_name": "com.pingan.lifecircle",
+        "file_name": "com.pingan.lifecircle_18.apk",
+        "app_activity": "com.pingan.lifecircle.home.SplashActivity"
+    },
+    {
+        "app_name": "安易递用户版",
+        "package_name": "cn.aiqy.demo_public",
+        "file_name": "cn.aiqy.demo_public_19.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "大象笔记",
+        "package_name": "com.daxiang.note",
+        "file_name": "com.daxiang.note_20.apk",
+        "app_activity": "com.tyj.note.advertise.view.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "河南日报",
+        "package_name": "com.hnzx.hnrb",
+        "file_name": "com.hnzx.hnrb_21.apk",
+        "app_activity": "com.hnzx.hnrb.ui.activity.StartPageActivity"
+    },
+    {
+        "app_name": "河南政务",
+        "package_name": "com.topnews.province",
+        "file_name": "com.topnews.province_22.apk",
+        "app_activity": "com.topnews.province.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "老虎淘金",
+        "package_name": "com.laohu.tj",
+        "file_name": "com.laohu.tj_23.apk",
+        "app_activity": "com.laohu.tj.ui.activity.SplashActivityNew"
+    },
+    {
+        "app_name": "天天省电",
+        "package_name": "com.ljbattery.ttsd",
+        "file_name": "com.ljbattery.ttsd_24.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "顺丰同城急送",
+        "package_name": "com.sfexpress.merchant",
+        "file_name": "com.sfexpress.merchant_25.apk",
+        "app_activity": "com.sfexpress.merchant.launch.SplashActivity"
+    },
+    {
+        "app_name": "信息日报",
+        "package_name": "com.jxnews.jxtt",
+        "file_name": "com.jxnews.jxtt_26.apk",
+        "app_activity": "com.app.ui.activity.guide.WelcomeActivity"
+    },
+    {
+        "app_name": "专塑物流",
+        "package_name": "com.zswl.logistics",
+        "file_name": "com.zswl.logistics_27.apk",
+        "app_activity": "com.huochaoduo.MainActivity"
+    },
+    {
+        "app_name": "青银理财",
+        "package_name": "com.bqdwm.android",
+        "file_name": "com.bqdwm.android_28.apk",
+        "app_activity": "com.hundsun.fzfb.splash.SplashNetActivity"
+    },
+    {
+        "app_name": "国家政务服务平台",
+        "package_name": "com.service.android.gov.cn",
+        "file_name": "com.service.android.gov.cn_29.apk",
+        "app_activity": "com.hanweb.android.product.gjzwfwproject.component.splash.SplashActivity"
+    },
+    {
+        "app_name": "UU跑腿",
+        "package_name": "com.slkj.paotui.customer",
+        "file_name": "com.slkj.paotui.customer_30.apk",
+        "app_activity": "com.finals.activity.SplashActivity"
+    },
+    {
+        "app_name": "用友餐饮云",
+        "package_name": "com.honghuotai.user",
+        "file_name": "com.honghuotai.user_31.apk",
+        "app_activity": "com.honghuotai.user.ui.guide.SplashActivity"
+    },
+    {
+        "app_name": "科技日报",
+        "package_name": "com.stdaily.app.kjrb",
+        "file_name": "com.stdaily.app.kjrb_32.apk",
+        "app_activity": "com.founder.xiangyu.MainActivity"
+    },
+    {
+        "app_name": "我的粒子世界",
+        "package_name": "com.emo.studio.magicparticle",
+        "file_name": "com.emo.studio.magicparticle_34.apk",
+        "app_activity": "com.emo.studio.magicparticle.ui.SplashActivity"
+    },
+    {
+        "app_name": "吉利汽车",
+        "package_name": "com.geely.consumer",
+        "file_name": "com.geely.consumer_35.apk",
+        "app_activity": "com.geely.consumer.main.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "中海信托",
+        "package_name": "com.apex.zhixt.khapp",
+        "file_name": "com.apex.zhixt.khapp_36.apk",
+        "app_activity": "com.apex.zhixt.khapp.MainActivity"
+    },
+    {
+        "app_name": "微商输入法",
+        "package_name": "com.pengtuzm.ime",
+        "file_name": "com.pengtuzm.ime_37.apk",
+        "app_activity": "com.pengtuzm.ime.module.view.StartUpPageActivity"
+    },
+    {
+        "app_name": "实时天气预报王",
+        "package_name": "com.king.weather",
+        "file_name": "com.king.weather_38.apk",
+        "app_activity": "com.jiangmouren.weather.activity.SplashActivity"
+    },
+    {
+        "app_name": "懒人食谱",
+        "package_name": "com.lanren.food.release",
+        "file_name": "com.lanren.food.release_39.apk",
+        "app_activity": "com.aso114.project.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "八方来菜",
+        "package_name": "com.shuyuan.bflc",
+        "file_name": "com.shuyuan.bflc_40.apk",
+        "app_activity": "com.lingdong.gm.activity.GMWebActivity"
+    },
+    {
+        "app_name": "西藏信托",
+        "package_name": "com.apex.xzxt",
+        "file_name": "com.apex.xzxt_41.apk",
+        "app_activity": "com.apex.xzxt.WelcomeActivity"
+    },
+    {
+        "app_name": "黑光图库",
+        "package_name": "com.heiguang.meitu",
+        "file_name": "com.heiguang.meitu_42.apk",
+        "app_activity": "com.heiguang.meitu.activity.SplashActivity"
+    },
+    {
+        "app_name": "我的许昌客户端",
+        "package_name": "com.hnxc.xcrb",
+        "file_name": "com.hnxc.xcrb_43.apk",
+        "app_activity": "com.hnxc.xcrb.ui.activity.StartPageActivity"
+    },
+    {
+        "app_name": "优优壁纸",
+        "package_name": "com.starunion.wallpapers",
+        "file_name": "com.starunion.wallpapers_44.apk",
+        "app_activity": "com.starunion.wallpapers.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "网鱼",
+        "package_name": "cn.wywk.app",
+        "file_name": "cn.wywk.app_45.apk",
+        "app_activity": "cn.wywk.core.splash.SplashActivity"
+    },
+    {
+        "app_name": "滨江发布",
+        "package_name": "com.hzyapp.binjiang",
+        "file_name": "com.hzyapp.binjiang_46.apk",
+        "app_activity": "com.founder.product.welcome.ui.SplashActivity"
+    },
+    {
+        "app_name": "钱塘发布",
+        "package_name": "com.hzyapp.qiantang",
+        "file_name": "com.hzyapp.qiantang_47.apk",
+        "app_activity": "com.founder.product.welcome.ui.SplashActivity"
+    },
+    {
+        "app_name": "爱榆阳",
+        "package_name": "com.rmt.iyuyang",
+        "file_name": "com.rmt.iyuyang_48.apk",
+        "app_activity": "com.pdmi.gansu.main.guide.SplashActivity"
+    },
+    {
+        "app_name": "最美电影",
+        "package_name": "com.zrfilm",
+        "file_name": "com.zrfilm_49.apk",
+        "app_activity": "com.zrfilm.PermissionsMainActivity"
+    },
+    {
+        "app_name": "平行之家",
+        "package_name": "cn.mucang.android.parallelvehicle",
+        "file_name": "cn.mucang.android.parallelvehicle_50.apk",
+        "app_activity": "cn.mucang.android.parallelvehicle.SplashActivity"
+    },
+    {
+        "app_name": "喵钱记账",
+        "package_name": "com.juyingfun.mqjz",
+        "file_name": "com.juyingfun.mqjz_51.apk",
+        "app_activity": "com.juyingfun.mqjz.ui.main.MainActivity"
+    },
+    {
+        "app_name": "万能WiFi智连",
+        "package_name": "com.bywifi.wnzl",
+        "file_name": "com.bywifi.wnzl_52.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "云笔记",
+        "package_name": "com.yunbiji.cloudnotes",
+        "file_name": "com.yunbiji.cloudnotes_53.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "派师傅",
+        "package_name": "com.shouyiren",
+        "file_name": "com.shouyiren_54.apk",
+        "app_activity": "com.shouyiren.view.activity.start.SplashActivity"
+    },
+    {
+        "app_name": "东风奕派",
+        "package_name": "com.dfmc.dfpv.sapp",
+        "file_name": "com.dfmc.dfpv.sapp_55.apk",
+        "app_activity": "com.szlanyou.scattered.ui.EpiStartActivity"
+    },
+    {
+        "app_name": "一路听天下",
+        "package_name": "com.t1678.app",
+        "file_name": "com.t1678.app_56.apk",
+        "app_activity": "com.t1678.app.MainActivity"
+    },
+    {
+        "app_name": "华龙网",
+        "package_name": "com.cqnews.cq",
+        "file_name": "com.cqnews.cq_57.apk",
+        "app_activity": "com.cqnews.cq.ui.SplayActivity"
+    },
+    {
+        "app_name": "办事通",
+        "package_name": "llbt.ccb.ynga",
+        "file_name": "llbt.ccb.ynga_58.apk",
+        "app_activity": "com.ccb.fintech.app.productions.ynga.ui.starter.StartPageActivity"
+    }
+]

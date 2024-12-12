@@ -1,0 +1,122 @@
+[
+    {
+        "app_name": "氢次元",
+        "package_name": "cc.qingcy.comic",
+        "file_name": "cc.qingcy.comic_1.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "神漫堂",
+        "package_name": "com.iiestar.cartoon",
+        "file_name": "com.iiestar.cartoon_2.apk",
+        "app_activity": "com.iiestar.cartoon.activity.SplashActivity"
+    },
+    {
+        "app_name": "腾讯动漫",
+        "package_name": "com.qq.ac.android",
+        "file_name": "com.qq.ac.android_3.apk",
+        "app_activity": "com.qq.ac.android.splash.SplashActivity"
+    },
+    {
+        "app_name": "青梨",
+        "package_name": "ink.qingli.qinglireader",
+        "file_name": "ink.qingli.qinglireader_4.apk",
+        "app_activity": "ink.qingli.qinglireader.pages.launch.LaunchActivity"
+    },
+    {
+        "app_name": "看耽漫画",
+        "package_name": "com.xiangwang.kandanmanhua",
+        "file_name": "com.xiangwang.kandanmanhua_5.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "菠萝包漫画",
+        "package_name": "com.sfacg.comic",
+        "file_name": "com.sfacg.comic_6.apk",
+        "app_activity": "com.sf.ui.launcher.SplashSecondActivity"
+    },
+    {
+        "app_name": "闪艺",
+        "package_name": "com.lzj.shanyi",
+        "file_name": "com.lzj.shanyi_7.apk",
+        "app_activity": "com.lzj.shanyi.feature.launch.LaunchActivity"
+    },
+    {
+        "app_name": "可米漫画",
+        "package_name": "com.comic.kemiapp",
+        "file_name": "com.comic.kemiapp_8.apk",
+        "app_activity": "com.comic.kemiapp.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "漫漫漫画",
+        "package_name": "com.itcode.reader",
+        "file_name": "com.itcode.reader_9.apk",
+        "app_activity": "com.itcode.reader.activity.SplashActivity"
+    },
+    {
+        "app_name": "哔哩哔哩漫画",
+        "package_name": "com.bilibili.comic",
+        "file_name": "com.bilibili.comic_10.apk",
+        "app_activity": "com.bilibili.comic.splash.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "飒漫画",
+        "package_name": "com.comic.isaman",
+        "file_name": "com.comic.isaman_11.apk",
+        "app_activity": "com.comic.isaman.icartoon.ui.CoverActivity"
+    },
+    {
+        "app_name": "快看漫画",
+        "package_name": "com.kuaikan.comic",
+        "file_name": "com.kuaikan.comic_12.apk",
+        "app_activity": "com.kuaikan.main.LaunchActivity"
+    },
+    {
+        "app_name": "爱奇艺叭嗒",
+        "package_name": "com.iqiyi.acg",
+        "file_name": "com.iqiyi.acg_13.apk",
+        "app_activity": "com.iqiyi.acg.biz.cartoon.splash.ComicSplashActivity"
+    },
+    {
+        "app_name": "画涯",
+        "package_name": "cn.fzhuayantcoltd.huayaapp",
+        "file_name": "cn.fzhuayantcoltd.huayaapp_14.apk",
+        "app_activity": "cn.fzhuayantcoltd.huayaapp.ui.activity.AppWelcomeActivity"
+    },
+    {
+        "app_name": "漫想世界",
+        "package_name": "com.mindcomic.world.app",
+        "file_name": "com.mindcomic.world.app_15.apk",
+        "app_activity": "com.mallestudio.gugu.app.module.start.StartActivity"
+    },
+    {
+        "app_name": "漫单漫画",
+        "package_name": "cn.zyy.mandan",
+        "file_name": "cn.zyy.mandan_16.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "Chuoooo",
+        "package_name": "uni.UNI7BA110F",
+        "file_name": "uni.UNI7BA110F_18.apk",
+        "app_activity": "cn.chuoooo.app.touchpad_app_flutter.MainActivity"
+    },
+    {
+        "app_name": "咚漫漫画",
+        "package_name": "com.naver.linewebtoon.cn",
+        "file_name": "com.naver.linewebtoon.cn_19.apk",
+        "app_activity": "com.naver.linewebtoon.splash.SplashActivity"
+    },
+    {
+        "app_name": "耽漫神器",
+        "package_name": "com.dmcomic.dmreader",
+        "file_name": "com.dmcomic.dmreader_20.apk",
+        "app_activity": "com.dmcomic.dmreader.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "易次元",
+        "package_name": "com.netease.avg.huawei",
+        "file_name": "com.netease.avg.huawei_21.apk",
+        "app_activity": "com.netease.avg.a13.SplashActivity"
+    }
+]

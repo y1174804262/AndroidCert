@@ -1,0 +1,182 @@
+[
+    {
+        "app_name": "第一财经杂志",
+        "package_name": "com.cbnweekly",
+        "file_name": "com.cbnweekly_1.apk",
+        "app_activity": "com.cbnweekly.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "优游YOYO",
+        "package_name": "com.bocai.yoyo",
+        "file_name": "com.bocai.yoyo_2.apk",
+        "app_activity": "com.bocai.yoyo.ui.main.WelcomeActivity"
+    },
+    {
+        "app_name": "政协号",
+        "package_name": "com.wzyk.rmzxb",
+        "file_name": "com.wzyk.rmzxb_3.apk",
+        "app_activity": "com.wzyk.somnambulist.function.loading.LoadingActivity"
+    },
+    {
+        "app_name": "四川省情",
+        "package_name": "com.sctjj.news",
+        "file_name": "com.sctjj.news_4.apk",
+        "app_activity": "com.sctjj.news.MainActivity"
+    },
+    {
+        "app_name": "医院院长",
+        "package_name": "uni.UNIB9DF11E",
+        "file_name": "uni.UNIB9DF11E_5.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "科学世界",
+        "package_name": "com.am1105.kxsj",
+        "file_name": "com.am1105.kxsj_6.apk",
+        "app_activity": "com.am1105.kxsj.activity.SplashActivity"
+    },
+    {
+        "app_name": "收获",
+        "package_name": "com.zjonline.harvest",
+        "file_name": "com.zjonline.harvest_7.apk",
+        "app_activity": "zjol.com.cn.launcher.SplashActivity"
+    },
+    {
+        "app_name": "故事会",
+        "package_name": "cn.storychina.aXMdDn1",
+        "file_name": "cn.storychina.aXMdDn1_8.apk",
+        "app_activity": "com.startiasoft.vvportal.splash.WelcomeActivityBeforInit"
+    },
+    {
+        "app_name": "iWeekly",
+        "package_name": "com.rakutec.android.iweekly",
+        "file_name": "com.rakutec.android.iweekly_9.apk",
+        "app_activity": "com.rakutec.android.iweekly.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "VOGUEclub",
+        "package_name": "com.insthub.voguemini",
+        "file_name": "com.insthub.voguemini_10.apk",
+        "app_activity": "com.insthub.voguemini.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "龙源网",
+        "package_name": "com.longyuan.journalnet",
+        "file_name": "com.longyuan.journalnet_11.apk",
+        "app_activity": "com.longyuan.journalnet.ui.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "哈佛商业评论",
+        "package_name": "org.hbrchina",
+        "file_name": "org.hbrchina_12.apk",
+        "app_activity": "org.hbrchina.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "中经商学院",
+        "package_name": "com.bmronline.zjsxyandroidclient",
+        "file_name": "com.bmronline.zjsxyandroidclient_13.apk",
+        "app_activity": "com.bmronline.zjsxyandroidclient.splash.SplashActivity"
+    },
+    {
+        "app_name": "CHITEC",
+        "package_name": "cn.com.mediway.chitec",
+        "file_name": "cn.com.mediway.chitec_14.apk",
+        "app_activity": "cn.com.mediway.chitec.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "中国企业家",
+        "package_name": "mobi.entrepreneur.iceo",
+        "file_name": "mobi.entrepreneur.iceo_15.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "看天下",
+        "package_name": "com.vistastory.news",
+        "file_name": "com.vistastory.news_16.apk",
+        "app_activity": "com.vistastory.news.FlashActivity"
+    },
+    {
+        "app_name": "金熊猫奖",
+        "package_name": "com.goldenpanda",
+        "file_name": "com.goldenpanda_17.apk",
+        "app_activity": "com.jxm.app.module.startup.StartUpActivity"
+    },
+    {
+        "app_name": "iFashion",
+        "package_name": "cn.com.modernmedia.ifashion",
+        "file_name": "cn.com.modernmedia.ifashion_18.apk",
+        "app_activity": "cn.com.modernmedia.ifashion.ui.SplashActivity"
+    },
+    {
+        "app_name": "贝果",
+        "package_name": "com.china.businessjournal",
+        "file_name": "com.china.businessjournal_19.apk",
+        "app_activity": "com.china.businessjournal.module.start.MainSplashScreenActivity"
+    },
+    {
+        "app_name": "艺术与设计",
+        "package_name": "com.shoufeng.artdesign",
+        "file_name": "com.shoufeng.artdesign_20.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "中华医学期刊",
+        "package_name": "com.cmaph.knowledgeservice",
+        "file_name": "com.cmaph.knowledgeservice_21.apk",
+        "app_activity": "com.cmaph.knowledgeservice.activity.SplashCustomAdActivity"
+    },
+    {
+        "app_name": "每日精選",
+        "package_name": "com.bdatu.geography",
+        "file_name": "com.bdatu.geography_22.apk",
+        "app_activity": "com.bdatu.geography.SplashActivity"
+    },
+    {
+        "app_name": "myGQ",
+        "package_name": "com.condenast.gq24",
+        "file_name": "com.condenast.gq24_23.apk",
+        "app_activity": "com.condenast.gq24.mvp.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "财经杂志",
+        "package_name": "com.caijing",
+        "file_name": "com.caijing_24.apk",
+        "app_activity": "com.caijing.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "医师报",
+        "package_name": "com.yishibao.app",
+        "file_name": "com.yishibao.app_25.apk",
+        "app_activity": "com.example.ysbapplication.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "TOPYS",
+        "package_name": "com.app.mind",
+        "file_name": "com.app.mind_26.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "简讯",
+        "package_name": "com.tipsoon.android",
+        "file_name": "com.tipsoon.android_27.apk",
+        "app_activity": "com.tipsoon.android.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "博看书苑",
+        "package_name": "cn.com.bookan",
+        "file_name": "cn.com.bookan_28.apk",
+        "app_activity": "com.magook.activity.SplashActivity"
+    },
+    {
+        "app_name": "奋斗者",
+        "package_name": "com.founder.fendou",
+        "file_name": "com.founder.fendou_29.apk",
+        "app_activity": "com.founder.fendou.welcome.ui.SplashActivity"
+    },
+    {
+        "app_name": "温度新闻",
+        "package_name": "com.wznews.news.app",
+        "file_name": "com.wznews.news.app_30.apk",
+        "app_activity": "com.trs.v6.ad.splash.SplashActivityV6"
+    }
+]
