@@ -1,0 +1,2908 @@
+[
+    {
+        "app_name": "每日英语阅读",
+        "package_name": "lexue.mryyyd",
+        "file_name": "lexue.mryyyd_1.apk",
+        "app_activity": "com.eusoft.reader.ui.TabActivityV3"
+    },
+    {
+        "app_name": "欧路背单词",
+        "package_name": "com.eusoft.recite.en",
+        "file_name": "com.eusoft.recite.en_2.apk",
+        "app_activity": "com.eusoft.dict.activity.SplashActivity"
+    },
+    {
+        "app_name": "喜课",
+        "package_name": "com.qimiaosiwei.android.xike",
+        "file_name": "com.qimiaosiwei.android.xike_3.apk",
+        "app_activity": "com.qimiaosiwei.android.xike.container.splash.SplashActivity"
+    },
+    {
+        "app_name": "英语点读助手",
+        "package_name": "com.xminc.bookreader",
+        "file_name": "com.xminc.bookreader_4.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "九年级英语全一册",
+        "package_name": "plus.H51EDB7A7",
+        "file_name": "plus.H51EDB7A7_5.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "英语演讲",
+        "package_name": "com.mango.lecture",
+        "file_name": "com.mango.lecture_6.apk",
+        "app_activity": "com.mango.voaenglish.launch.ui.activity.LaunchActivity"
+    },
+    {
+        "app_name": "星火英语",
+        "package_name": "tuoyan.com.xinghuo_daying",
+        "file_name": "tuoyan.com.xinghuo_daying_7.apk",
+        "app_activity": "tuoyan.com.xinghuo_daying2.ui.welcome.StartActivity"
+    },
+    {
+        "app_name": "流利说阅读",
+        "package_name": "com.liulishuo.vira",
+        "file_name": "com.liulishuo.vira_8.apk",
+        "app_activity": "com.liulishuo.vira.ui.SplashActivity"
+    },
+    {
+        "app_name": "高中英语",
+        "package_name": "com.xiangqi.highschool",
+        "file_name": "com.xiangqi.highschool_9.apk",
+        "app_activity": "com.xiangqi.highschool.ui.main.view.LauncherActivity"
+    },
+    {
+        "app_name": "一句英语",
+        "package_name": "com.yigou.one",
+        "file_name": "com.yigou.one_11.apk",
+        "app_activity": "com.yigou.one.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "Lingostar",
+        "package_name": "com.lingostar.parent",
+        "file_name": "com.lingostar.parent_12.apk",
+        "app_activity": "com.lingostar.parent.activity.ParentLauncherActivity"
+    },
+    {
+        "app_name": "蛋糕英语",
+        "package_name": "com.baicizhan.bczCake",
+        "file_name": "com.baicizhan.bczCake_13.apk",
+        "app_activity": "com.baicizhan.bczCake.MainActivity"
+    },
+    {
+        "app_name": "昂秀外语",
+        "package_name": "cn.bookln.saas.anxiu11",
+        "file_name": "cn.bookln.saas.anxiu11_14.apk",
+        "app_activity": "cn.bookln.saas.MainActivity"
+    },
+    {
+        "app_name": "扇贝单词英语版",
+        "package_name": "com.shanbay.sentence",
+        "file_name": "com.shanbay.sentence_15.apk",
+        "app_activity": "com.shanbay.biz.skeleton.splash.SplashActivity"
+    },
+    {
+        "app_name": "佳音英语",
+        "package_name": "com.joy.joytalk",
+        "file_name": "com.joy.joytalk_16.apk",
+        "app_activity": "com.help.utalk.login.activity.SplashActivity"
+    },
+    {
+        "app_name": "真题伴侣",
+        "package_name": "cn.li4.zhentibanlv",
+        "file_name": "cn.li4.zhentibanlv_17.apk",
+        "app_activity": "cn.li4.zhentibanlv.activity.MainActivity"
+    },
+    {
+        "app_name": "英语配音狂",
+        "package_name": "com.zhuoyue.peiyinkuang",
+        "file_name": "com.zhuoyue.peiyinkuang_18.apk",
+        "app_activity": "com.zhuoyue.peiyinkuang.welcome.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "习习向上",
+        "package_name": "com.ciwong.newspaper",
+        "file_name": "com.ciwong.newspaper_19.apk",
+        "app_activity": "com.ciwong.epaper.ui.SplashActivity"
+    },
+    {
+        "app_name": "List背单词",
+        "package_name": "com.xiangguo.ListWord",
+        "file_name": "com.xiangguo.ListWord_20.apk",
+        "app_activity": "com.xiangguo.ListWord.MainActivity"
+    },
+    {
+        "app_name": "百词斩雅思",
+        "package_name": "com.baicizhan.ielts.app",
+        "file_name": "com.baicizhan.ielts.app_21.apk",
+        "app_activity": "com.example.ielts_app.MainActivity"
+    },
+    {
+        "app_name": "VOA常速英语",
+        "package_name": "com.ai.voacsspeed",
+        "file_name": "com.ai.voacsspeed_22.apk",
+        "app_activity": "com.iyuba.voaseries.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "土豆雅思",
+        "package_name": "com.edu.todo",
+        "file_name": "com.edu.todo_23.apk",
+        "app_activity": "com.edu.todo.WelcomeActivity"
+    },
+    {
+        "app_name": "粉笔四六级",
+        "package_name": "com.fenbi.android.yingyu",
+        "file_name": "com.fenbi.android.yingyu_24.apk",
+        "app_activity": "com.fenbi.android.module.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "英语帮",
+        "package_name": "com.pldx.engang",
+        "file_name": "com.pldx.engang_25.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "词根词缀字典",
+        "package_name": "com.ghosun.dict",
+        "file_name": "com.ghosun.dict_26.apk",
+        "app_activity": "com.ghosun.dict.Welcome"
+    },
+    {
+        "app_name": "BBE英语",
+        "package_name": "com.iyuba.bbcstub",
+        "file_name": "com.iyuba.bbcstub_27.apk",
+        "app_activity": "com.iyuba.voaseries.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "伴鱼智学",
+        "package_name": "com.duwo.phonics",
+        "file_name": "com.duwo.phonics_28.apk",
+        "app_activity": "com.duwo.phonics.activity.SplashActivityPh"
+    },
+    {
+        "app_name": "FiF口语训练系统（学生端）",
+        "package_name": "com.fifedu.tsdx",
+        "file_name": "com.fifedu.tsdx_29.apk",
+        "app_activity": "com.fifedu.tsdx.ui.activity.login.SplashActivity"
+    },
+    {
+        "app_name": "一笑而过",
+        "package_name": "com.xiaoguo101.yixiaoerguo",
+        "file_name": "com.xiaoguo101.yixiaoerguo_30.apk",
+        "app_activity": "com.xiaoguo101.yixiaoerguo.SplashActivity"
+    },
+    {
+        "app_name": "英语作文批改",
+        "package_name": "com.luoyu.yingyuzuowen",
+        "file_name": "com.luoyu.yingyuzuowen_31.apk",
+        "app_activity": "com.luoyu.yingyuzuowen.FirstActivity"
+    },
+    {
+        "app_name": "咕咪英语Lingumi",
+        "package_name": "com.lingumi.lingumichina",
+        "file_name": "com.lingumi.lingumichina_32.apk",
+        "app_activity": "com.lingumi.lingumiapp.MainActivity"
+    },
+    {
+        "app_name": "生词本",
+        "package_name": "com.eren.mywords",
+        "file_name": "com.eren.mywords_33.apk",
+        "app_activity": "com.eren.mywords.SplashActivity"
+    },
+    {
+        "app_name": "经济学人",
+        "package_name": "com.sdiyuba.economic",
+        "file_name": "com.sdiyuba.economic_34.apk",
+        "app_activity": "com.sdiyuba.economic.activity.InitActivity"
+    },
+    {
+        "app_name": "多练英语习题库",
+        "package_name": "com.HanBinLi.AbcPaper",
+        "file_name": "com.HanBinLi.AbcPaper_35.apk",
+        "app_activity": "com.HanBinLi.AbcPaper.MainActivity"
+    },
+    {
+        "app_name": "学为贵托福",
+        "package_name": "com.guixue.m.toefl",
+        "file_name": "com.guixue.m.toefl_36.apk",
+        "app_activity": "com.guixue.m.toefl.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "伴鱼阅读营",
+        "package_name": "com.palfish.reading.camp",
+        "file_name": "com.palfish.reading.camp_37.apk",
+        "app_activity": "com.duwo.yueduying.ui.SplashActivity"
+    },
+    {
+        "app_name": "ABC Reading",
+        "package_name": "com.tal.abctimelibrary",
+        "file_name": "com.tal.abctimelibrary_38.apk",
+        "app_activity": "com.abctime.host.mvp.main.LaunchActivity"
+    },
+    {
+        "app_name": "大咖英语",
+        "package_name": "com.vipkid.vipenglish",
+        "file_name": "com.vipkid.vipenglish_39.apk",
+        "app_activity": "com.vipkid.vipenglish.splash.SplashActivity"
+    },
+    {
+        "app_name": "3E口语",
+        "package_name": "com.zjwocai.threeemobile",
+        "file_name": "com.zjwocai.threeemobile_40.apk",
+        "app_activity": "com.zjwocai.threeemobile.activity.Login.SplashActivity"
+    },
+    {
+        "app_name": "牛津高阶词典第10版",
+        "package_name": "com.CommercialPress.OxfordDictionary.android",
+        "file_name": "com.CommercialPress.OxfordDictionary.android_41.apk",
+        "app_activity": "com.oxford.tenapp.activity.SplashActivity"
+    },
+    {
+        "app_name": "友邻优课",
+        "package_name": "com.zhuomogroup.ylyk",
+        "file_name": "com.zhuomogroup.ylyk_42.apk",
+        "app_activity": "com.zhuomogroup.ylyk.module.login.splash.SplashActivity"
+    },
+    {
+        "app_name": "英语宝",
+        "package_name": "com.ying.sijiywaji",
+        "file_name": "com.ying.sijiywaji_43.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "新航道",
+        "package_name": "cn.xhd.newchannel",
+        "file_name": "cn.xhd.newchannel_44.apk",
+        "app_activity": "cn.xhd.newchannel.features.splash.SplashActivity"
+    },
+    {
+        "app_name": "趴趴英语",
+        "package_name": "com.papaen.papaedu",
+        "file_name": "com.papaen.papaedu_45.apk",
+        "app_activity": "com.papaen.papaedu.activity.login.SplashActivity"
+    },
+    {
+        "app_name": "佩琪翻译",
+        "package_name": "vip.peki.app.vocab",
+        "file_name": "vip.peki.app.vocab_46.apk",
+        "app_activity": "vip.peki.app.vocab.MainActivity"
+    },
+    {
+        "app_name": "小吉背单词",
+        "package_name": "com.gaodun.apps.reciteword",
+        "file_name": "com.gaodun.apps.reciteword_47.apk",
+        "app_activity": "com.gaodun.apps.reciteword.SplashActivity"
+    },
+    {
+        "app_name": "斑马AI学",
+        "package_name": "com.fenbi.android.zenglish",
+        "file_name": "com.fenbi.android.zenglish_48.apk",
+        "app_activity": "com.fenbi.android.zebraenglish.activity.portal.WelcomeActivity"
+    },
+    {
+        "app_name": "无痛单词",
+        "package_name": "tech.xiangzi.painless",
+        "file_name": "tech.xiangzi.painless_49.apk",
+        "app_activity": "tech.xiangzi.painless.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "Cambly",
+        "package_name": "com.cambly.cambly",
+        "file_name": "com.cambly.cambly_50.apk",
+        "app_activity": "com.cambly.featuredump.MainActivity"
+    },
+    {
+        "app_name": "薄荷外刊",
+        "package_name": "com.chaoui.mintjournal",
+        "file_name": "com.chaoui.mintjournal_51.apk",
+        "app_activity": "com.chaoui.mintjournal.MainActivity"
+    },
+    {
+        "app_name": "高中英语全册",
+        "package_name": "com.giant.high",
+        "file_name": "com.giant.high_52.apk",
+        "app_activity": "com.giant.high.ui.activity.MainActivity"
+    },
+    {
+        "app_name": "英语读书",
+        "package_name": "com.tataera.edushu",
+        "file_name": "com.tataera.edushu_53.apk",
+        "app_activity": "com.tataera.edushu.MainActivity"
+    },
+    {
+        "app_name": "每日英语听力学习版",
+        "package_name": "com.qianyan2.ting.en",
+        "file_name": "com.qianyan2.ting.en_54.apk",
+        "app_activity": "com.eusoft.ting.ui.v2.TabActivityV2"
+    },
+    {
+        "app_name": "VOA",
+        "package_name": "com.mango.voa",
+        "file_name": "com.mango.voa_55.apk",
+        "app_activity": "com.mango.voaenglish.launch.ui.activity.LaunchActivity"
+    },
+    {
+        "app_name": "叮咚乐园",
+        "package_name": "com.dd.dingdonglive",
+        "file_name": "com.dd.dingdonglive_56.apk",
+        "app_activity": "com.dd.dingdonglive.activitys.SplashActivity"
+    },
+    {
+        "app_name": "AirClass",
+        "package_name": "com.zhangmen.airclass",
+        "file_name": "com.zhangmen.airclass_57.apk",
+        "app_activity": "com.zhangmen.airclass.SplashActivity"
+    },
+    {
+        "app_name": "Hi Echo",
+        "package_name": "com.youdao.dict.feature_speaker",
+        "file_name": "com.youdao.dict.feature_speaker_58.apk",
+        "app_activity": "com.youdao.runner.activity.SpeakerLaunchActivity"
+    },
+    {
+        "app_name": "适趣英语",
+        "package_name": "com.shiqu.shiquyingyu",
+        "file_name": "com.shiqu.shiquyingyu_59.apk",
+        "app_activity": "com.shiqu.shiquyingyu.activity.LauncherActivity"
+    },
+    {
+        "app_name": "Daily背单词",
+        "package_name": "cn.bokuigo.daily",
+        "file_name": "cn.bokuigo.daily_60.apk",
+        "app_activity": "cn.bokuigo.daily.MainActivity"
+    },
+    {
+        "app_name": "成长兔启蒙",
+        "package_name": "cn.babyfs.android",
+        "file_name": "cn.babyfs.android_61.apk",
+        "app_activity": "cn.babyfs.android.home.view.SplashActivity"
+    },
+    {
+        "app_name": "GRE3000词",
+        "package_name": "com.enhance.greapp",
+        "file_name": "com.enhance.greapp_62.apk",
+        "app_activity": "com.kaomanfen.enhance.gre3k.activity.AppStartActivity"
+    },
+    {
+        "app_name": "英语语法精讲",
+        "package_name": "com.qilesoft.en.grammar",
+        "file_name": "com.qilesoft.en.grammar_63.apk",
+        "app_activity": "com.qilesoft.en.grammar.IntoActivity"
+    },
+    {
+        "app_name": "VOA慢速",
+        "package_name": "com.iyuba.voavoa",
+        "file_name": "com.iyuba.voavoa_64.apk",
+        "app_activity": "com.iyuba.voaseries.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "不学英语",
+        "package_name": "com.giant.buxue",
+        "file_name": "com.giant.buxue_65.apk",
+        "app_activity": "com.giant.buxue.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "听典英语",
+        "package_name": "com.pinlor.tingdian",
+        "file_name": "com.pinlor.tingdian_66.apk",
+        "app_activity": "com.pinlor.tingdian.activity.LaunchActivity"
+    },
+    {
+        "app_name": "Lingostar Class",
+        "package_name": "com.lingostar.learner",
+        "file_name": "com.lingostar.learner_67.apk",
+        "app_activity": "com.lingostar.learner.activity.AppLauncher"
+    },
+    {
+        "app_name": "小鹦看看",
+        "package_name": "com.pollykann",
+        "file_name": "com.pollykann_68.apk",
+        "app_activity": "com.xiaoying.kankan.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "慧话宝",
+        "package_name": "com.wisemen.hhb",
+        "file_name": "com.wisemen.hhb_69.apk",
+        "app_activity": "com.wisemen.hhb.module.launch.activity.LaunchActivity"
+    },
+    {
+        "app_name": "爱听外语",
+        "package_name": "com.sflep.iting",
+        "file_name": "com.sflep.iting_70.apk",
+        "app_activity": "com.sflep.iting.business.splash.SplashActivity"
+    },
+    {
+        "app_name": "儿童英语字母",
+        "package_name": "air.com.aaaedu.newalphabet",
+        "file_name": "air.com.aaaedu.newalphabet_71.apk",
+        "app_activity": "air.com.aaaedu.newalphabet.AIRAppEntry"
+    },
+    {
+        "app_name": "英语四级",
+        "package_name": "com.ikaoshi.english.cet4",
+        "file_name": "com.ikaoshi.english.cet4_72.apk",
+        "app_activity": "com.ikaoshi.english.cet4.activity.Login.InitActivity"
+    },
+    {
+        "app_name": "多次元雅思",
+        "package_name": "com.dcyedu.ielts",
+        "file_name": "com.dcyedu.ielts_73.apk",
+        "app_activity": "com.dcyedu.ielts.ui.page.LaunchActivity"
+    },
+    {
+        "app_name": "英语头条极速版",
+        "package_name": "com.iyuba.headlinetop",
+        "file_name": "com.iyuba.headlinetop_74.apk",
+        "app_activity": "com.iyuba.headlinetop.SplashActivity"
+    },
+    {
+        "app_name": "Hello Merlin",
+        "package_name": "cn.talkid.english",
+        "file_name": "cn.talkid.english_75.apk",
+        "app_activity": "cn.talkid.english.MainActivity"
+    },
+    {
+        "app_name": "翼课学生",
+        "package_name": "com.ekwing.students",
+        "file_name": "com.ekwing.students_76.apk",
+        "app_activity": "com.ekwing.students.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "轻松说霸",
+        "package_name": "com.ly.seventeen_shuoba",
+        "file_name": "com.ly.seventeen_shuoba_77.apk",
+        "app_activity": "com.ly.seventeen_shuoba.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "6分钟英语",
+        "package_name": "com.mango.sixmin",
+        "file_name": "com.mango.sixmin_78.apk",
+        "app_activity": "com.mango.voaenglish.launch.ui.activity.LaunchActivity"
+    },
+    {
+        "app_name": "走遍美国",
+        "package_name": "com.iyuba.American",
+        "file_name": "com.iyuba.American_79.apk",
+        "app_activity": "com.iyuba.concept2.activity.PrivacyActivity"
+    },
+    {
+        "app_name": "背词达人",
+        "package_name": "com.jsfc.beicidaren",
+        "file_name": "com.jsfc.beicidaren_80.apk",
+        "app_activity": "com.jsfc.beicidaren.UnityPlayerActivity"
+    },
+    {
+        "app_name": "E英语宝",
+        "package_name": "com.dinoenglish.yyb",
+        "file_name": "com.dinoenglish.yyb_81.apk",
+        "app_activity": "com.dinoenglish.yyb.base.SplashActivity"
+    },
+    {
+        "app_name": "英语音标",
+        "package_name": "com.binfenyinbiao.binfen",
+        "file_name": "com.binfenyinbiao.binfen_83.apk",
+        "app_activity": "com.yigou.universal.ui.activity.LogoActivity"
+    },
+    {
+        "app_name": "英语四六级备考",
+        "package_name": "com.itfirer.cet6",
+        "file_name": "com.itfirer.cet6_84.apk",
+        "app_activity": "com.itfirer.cet6.activity.LoginActivity"
+    },
+    {
+        "app_name": "少儿趣配音",
+        "package_name": "com.ishowedu.child.peiyin",
+        "file_name": "com.ishowedu.child.peiyin_85.apk",
+        "app_activity": "com.ishowedu.child.peiyin.LauncherInitActivity"
+    },
+    {
+        "app_name": "每日英语",
+        "package_name": "com.otwe.translateotwe",
+        "file_name": "com.otwe.translateotwe_86.apk",
+        "app_activity": "com.sq.translate.activity.SplashActivity"
+    },
+    {
+        "app_name": "新概念英语青少版",
+        "package_name": "com.yayu.xgnyyqsb",
+        "file_name": "com.yayu.xgnyyqsb_87.apk",
+        "app_activity": "com.yayu.xgnyyqsb.WelcomeActivity"
+    },
+    {
+        "app_name": "阿卡索英语",
+        "package_name": "com.acadsoc.talkshow",
+        "file_name": "com.acadsoc.talkshow_88.apk",
+        "app_activity": "com.example.my_koalaenglish.MainActivity"
+    },
+    {
+        "app_name": "新东方雅思Pro",
+        "package_name": "com.koolearn.ieltspro2019",
+        "file_name": "com.koolearn.ieltspro2019_89.apk",
+        "app_activity": "com.koolearn.ieltspro2019.home.splash.LaunchActivity"
+    },
+    {
+        "app_name": "有声英语绘本",
+        "package_name": "com.damon.englishbook",
+        "file_name": "com.damon.englishbook_90.apk",
+        "app_activity": "com.damon.englishbook.MainActivity"
+    },
+    {
+        "app_name": "雅思哥",
+        "package_name": "com.chutzpah.yasibro",
+        "file_name": "com.chutzpah.yasibro_91.apk",
+        "app_activity": "com.chutzpah.yasibro.modules.main.controllers.CheckPermissionActivity"
+    },
+    {
+        "app_name": "neo Study",
+        "package_name": "com.nexgen.nsa",
+        "file_name": "com.nexgen.nsa_92.apk",
+        "app_activity": "com.nexgen.nsa.SplashScreenActivity"
+    },
+    {
+        "app_name": "洪恩分级阅读",
+        "package_name": "com.ihuman.oxford",
+        "file_name": "com.ihuman.oxford_93.apk",
+        "app_activity": "com.ihuman.oxford.view.LauncherActivity"
+    },
+    {
+        "app_name": "真背单词",
+        "package_name": "com.leduo.zhongkao",
+        "file_name": "com.leduo.zhongkao_94.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "靠谱背单词",
+        "package_name": "com.ikaopu.dict",
+        "file_name": "com.ikaopu.dict_95.apk",
+        "app_activity": "com.ikaopu.dict.MainActivity"
+    },
+    {
+        "app_name": "番茄英语",
+        "package_name": "com.baicizhan.liveclass",
+        "file_name": "com.baicizhan.liveclass_96.apk",
+        "app_activity": "com.baicizhan.liveclass.activitys.SplashPageActivity"
+    },
+    {
+        "app_name": "新概念英语专业版",
+        "package_name": "com.jn.yyz.concept.pro",
+        "file_name": "com.jn.yyz.concept.pro_97.apk",
+        "app_activity": "com.jn.yyz.concept.pro.SplashActivity"
+    },
+    {
+        "app_name": "人教英语教学系统",
+        "package_name": "com.we.pepenglish",
+        "file_name": "com.we.pepenglish_98.apk",
+        "app_activity": "com.we.pepenglish.EntranceActivity_"
+    },
+    {
+        "app_name": "扇贝口语",
+        "package_name": "com.shanbay.speak",
+        "file_name": "com.shanbay.speak_99.apk",
+        "app_activity": "com.shanbay.biz.skeleton.splash.SplashActivity"
+    },
+    {
+        "app_name": "英语说学生版",
+        "package_name": "com.sunntone.es.student",
+        "file_name": "com.sunntone.es.student_100.apk",
+        "app_activity": "com.sunntone.es.student.startup.view.activity.StartupActivity"
+    },
+    {
+        "app_name": "朗文当代高级英语词典",
+        "package_name": "cn.dictcn.android.digitize.wys_lwddgjyycd_8027",
+        "file_name": "cn.dictcn.android.digitize.wys_lwddgjyycd_8027_101.apk",
+        "app_activity": "cn.dictcn.android.digitize.module.init.ui.InitActivity"
+    },
+    {
+        "app_name": "羊驼雅思",
+        "package_name": "com.ieltsdu.client",
+        "file_name": "com.ieltsdu.client_102.apk",
+        "app_activity": "com.ieltsdu.client.ui.me.activity.InitActivity"
+    },
+    {
+        "app_name": "万词王",
+        "package_name": "com.ihuman.recite",
+        "file_name": "com.ihuman.recite_103.apk",
+        "app_activity": "com.ihuman.recite.ui.SplashActivity"
+    },
+    {
+        "app_name": "iSmart-学生",
+        "package_name": "com.up366.ismart",
+        "file_name": "com.up366.ismart_104.apk",
+        "app_activity": "com.up366.mobile.SplashActivity"
+    },
+    {
+        "app_name": "51Talk无忧英语",
+        "package_name": "com.talk51.kid",
+        "file_name": "com.talk51.kid_105.apk",
+        "app_activity": "com.talk51.main.app.SplashActivity"
+    },
+    {
+        "app_name": "Himoss练口语",
+        "package_name": "com.fec.aimoss",
+        "file_name": "com.fec.aimoss_106.apk",
+        "app_activity": "com.fec.aimoss.activity.SplashScreenActivity"
+    },
+    {
+        "app_name": "新述口语",
+        "package_name": "com.newsay.edu",
+        "file_name": "com.newsay.edu_107.apk",
+        "app_activity": "com.newsay.edu.WelcomeActivity"
+    },
+    {
+        "app_name": "知米背单词",
+        "package_name": "cn.edu.zjicm.wordsnet_d",
+        "file_name": "cn.edu.zjicm.wordsnet_d_108.apk",
+        "app_activity": "cn.edu.zjicm.wordsnet_d.mvvm.view.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "MyAI",
+        "package_name": "vip.myaitalk.myai",
+        "file_name": "vip.myaitalk.myai_109.apk",
+        "app_activity": "vip.myaitalk.myai.ui.SplashActivity"
+    },
+    {
+        "app_name": "千读",
+        "package_name": "com.read1000",
+        "file_name": "com.read1000_110.apk",
+        "app_activity": "com.read1000.module.SplashActivity"
+    },
+    {
+        "app_name": "英语小说阅读",
+        "package_name": "com.to.learnenglish",
+        "file_name": "com.to.learnenglish_111.apk",
+        "app_activity": "com.to.learnenglish.splash.SplashActivity"
+    },
+    {
+        "app_name": "英语听听",
+        "package_name": "com.tinglee",
+        "file_name": "com.tinglee_112.apk",
+        "app_activity": "com.tinglee.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "语法分析助手",
+        "package_name": "io.ziciju.englishbear",
+        "file_name": "io.ziciju.englishbear_113.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "初中英语",
+        "package_name": "com.gaoha.english",
+        "file_name": "com.gaoha.english_114.apk",
+        "app_activity": "com.gaoha.english.activity.LauncherActivity"
+    },
+    {
+        "app_name": "口语易",
+        "package_name": "com.kouyuyi.kyystuapp",
+        "file_name": "com.kouyuyi.kyystuapp_115.apk",
+        "app_activity": "com.kouyuyi.kyystuapp.MainActivity"
+    },
+    {
+        "app_name": "可栗口语",
+        "package_name": "com.oralcraft.android",
+        "file_name": "com.oralcraft.android_116.apk",
+        "app_activity": "com.oralcraft.android.activity.initActivity"
+    },
+    {
+        "app_name": "外研U学",
+        "package_name": "com.fltrp.organ.student",
+        "file_name": "com.fltrp.organ.student_117.apk",
+        "app_activity": "com.fltrp.organ.student.ui.SplashActivity"
+    },
+    {
+        "app_name": "拓词",
+        "package_name": "com.towords",
+        "file_name": "com.towords_118.apk",
+        "app_activity": "com.towords.LaunchActivity"
+    },
+    {
+        "app_name": "PalFishRead",
+        "package_name": "com.duwo.reading",
+        "file_name": "com.duwo.reading_119.apk",
+        "app_activity": "com.duwo.reading.app.SplashActivity"
+    },
+    {
+        "app_name": "丹尼每日听力",
+        "package_name": "com.chaoui.danny",
+        "file_name": "com.chaoui.danny_120.apk",
+        "app_activity": "com.chaoui.danny.MainActivity"
+    },
+    {
+        "app_name": "奶酪单词",
+        "package_name": "com.jdjdc.jdfastjdc",
+        "file_name": "com.jdjdc.jdfastjdc_121.apk",
+        "app_activity": "com.jdjdc.jdfastjdc.refactor.ui.splash.StartPageActivity"
+    },
+    {
+        "app_name": "voicetrare",
+        "package_name": "com.trare.voice.scita",
+        "file_name": "com.trare.voice.scita_122.apk",
+        "app_activity": "tai.mengzhu.circle.activty.StartActivity"
+    },
+    {
+        "app_name": "ABC Learning",
+        "package_name": "com.abc.learning.android",
+        "file_name": "com.abc.learning.android_123.apk",
+        "app_activity": "com.abc.learning.android.MainActivity"
+    },
+    {
+        "app_name": "VOA英语听力",
+        "package_name": "com.iyuba.CSvoa",
+        "file_name": "com.iyuba.CSvoa_124.apk",
+        "app_activity": "com.iyuba.voaseries.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "91READING",
+        "package_name": "com.reading91.app",
+        "file_name": "com.reading91.app_125.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "听歌学英语",
+        "package_name": "com.iyuba.music",
+        "file_name": "com.iyuba.music_126.apk",
+        "app_activity": "com.iyuba.music.SplashActivity"
+    },
+    {
+        "app_name": "Bookey",
+        "package_name": "app.bookey",
+        "file_name": "app.bookey_127.apk",
+        "app_activity": "app.bookey.SplashActivity"
+    },
+    {
+        "app_name": "金山词霸",
+        "package_name": "com.kingsoft",
+        "file_name": "com.kingsoft_128.apk",
+        "app_activity": "com.kingsoft.NewStartActivity"
+    },
+    {
+        "app_name": "学音标",
+        "package_name": "com.csliyu.englishyinbiao",
+        "file_name": "com.csliyu.englishyinbiao_129.apk",
+        "app_activity": "com.csliyu.englishyinbiao.HomeGroupActivity"
+    },
+    {
+        "app_name": "SpeakGuru",
+        "package_name": "com.huoideas.speakguru",
+        "file_name": "com.huoideas.speakguru_130.apk",
+        "app_activity": "com.example.speakguru_app.MainActivity"
+    },
+    {
+        "app_name": "安妮花",
+        "package_name": "com.annie.annieforchild",
+        "file_name": "com.annie.annieforchild_131.apk",
+        "app_activity": "com.annie.annieforchild.ui.GuideActivity"
+    },
+    {
+        "app_name": "可可宝贝",
+        "package_name": "com.kekenet.baby",
+        "file_name": "com.kekenet.baby_132.apk",
+        "app_activity": "com.kekenet.baby.main.InitActivity"
+    },
+    {
+        "app_name": "小学英语六年级",
+        "package_name": "plus.H5946BC9D",
+        "file_name": "plus.H5946BC9D_133.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "外研新标准",
+        "package_name": "cn.unischool.fltrpnse",
+        "file_name": "cn.unischool.fltrpnse_134.apk",
+        "app_activity": "com.fltrp.organ.newstandard.ui.SplashActivity"
+    },
+    {
+        "app_name": "KISSABC",
+        "package_name": "cn.cameltec.kissabctrial",
+        "file_name": "cn.cameltec.kissabctrial_135.apk",
+        "app_activity": "cn.cameltec.kissabc.pad.login.SplashActivity"
+    },
+    {
+        "app_name": "爱语微课",
+        "package_name": "com.iyuba.TEDVideo",
+        "file_name": "com.iyuba.TEDVideo_136.apk",
+        "app_activity": "com.iyuba.voaseries.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "优题网",
+        "package_name": "com.ytw.app",
+        "file_name": "com.ytw.app_137.apk",
+        "app_activity": "com.ytw.app.ui.activites.StartActivity"
+    },
+    {
+        "app_name": "英语角",
+        "package_name": "com.zi.yinguwjiaos",
+        "file_name": "com.zi.yinguwjiaos_138.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "企业流利说",
+        "package_name": "com.laix.phoenix",
+        "file_name": "com.laix.phoenix_139.apk",
+        "app_activity": "com.liulishuo.lingodarwin.app.LauncherActivity"
+    },
+    {
+        "app_name": "傻瓜英语",
+        "package_name": "com.sprite.foreigners",
+        "file_name": "com.sprite.foreigners_140.apk",
+        "app_activity": "com.sprite.foreigners.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "干词",
+        "package_name": "com.huohuoinfo.ganci",
+        "file_name": "com.huohuoinfo.ganci_141.apk",
+        "app_activity": "com.huohuoinfo.ganci.MainActivity"
+    },
+    {
+        "app_name": "外研U学教师",
+        "package_name": "com.fltrp.organ.teacher",
+        "file_name": "com.fltrp.organ.teacher_142.apk",
+        "app_activity": "com.fltrp.organ.teacher.SplashActivity"
+    },
+    {
+        "app_name": "英语音标ABC",
+        "package_name": "com.yyybabc",
+        "file_name": "com.yyybabc_143.apk",
+        "app_activity": "com.yyybabc.MainActivity"
+    },
+    {
+        "app_name": "新概念英语全四册",
+        "package_name": "com.iyuba.concept2",
+        "file_name": "com.iyuba.concept2_144.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "HelloTalk",
+        "package_name": "com.hellotalk",
+        "file_name": "com.hellotalk_145.apk",
+        "app_activity": "com.hellotalk.lib.main.launch.ui.LaunchActivity"
+    },
+    {
+        "app_name": "一点英语",
+        "package_name": "com.wumii.android.athena",
+        "file_name": "com.wumii.android.athena_146.apk",
+        "app_activity": "com.wumii.android.athena.launch.entrance.LauncherActivity"
+    },
+    {
+        "app_name": "考虫",
+        "package_name": "com.xuanke.kaochong",
+        "file_name": "com.xuanke.kaochong_147.apk",
+        "app_activity": "com.xuanke.kaochong.splash.SplashActivity"
+    },
+    {
+        "app_name": "iTEST爱考试",
+        "package_name": "cn.unipus.itest.student",
+        "file_name": "cn.unipus.itest.student_148.apk",
+        "app_activity": "cn.unipus.itest.mvvm.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "新概念英语微课",
+        "package_name": "com.iyuba.learnNewEnglish",
+        "file_name": "com.iyuba.learnNewEnglish_149.apk",
+        "app_activity": "com.iyuba.conceptEnglish.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "闽教学习",
+        "package_name": "com.zhl.fep.aphone",
+        "file_name": "com.zhl.fep.aphone_150.apk",
+        "app_activity": "com.zhl.xxxx.aphone.english.activity.home.GuideActivity"
+    },
+    {
+        "app_name": "疯狂背单词",
+        "package_name": "com.shark.crazyword",
+        "file_name": "com.shark.crazyword_151.apk",
+        "app_activity": "com.shark.crazyword.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "从零开始学音标",
+        "package_name": "com.feiyi.p2",
+        "file_name": "com.feiyi.p2_152.apk",
+        "app_activity": "com.feiyi.p2.activity.SplashActivity"
+    },
+    {
+        "app_name": "商务英语口语",
+        "package_name": "com.feiyi.p5",
+        "file_name": "com.feiyi.p5_153.apk",
+        "app_activity": "com.feiyi.p5.activity.SplashActivity"
+    },
+    {
+        "app_name": "可可学霸",
+        "package_name": "com.kekenet.xueba",
+        "file_name": "com.kekenet.xueba_154.apk",
+        "app_activity": "com.kekenet.xueba.main.InitActivity"
+    },
+    {
+        "app_name": "步步阅读",
+        "package_name": "com.putao.KidReading.bookbook",
+        "file_name": "com.putao.KidReading.bookbook_155.apk",
+        "app_activity": "com.putao.KidReading.bookbook.activity.SplashActivity"
+    },
+    {
+        "app_name": "红宝书词汇",
+        "package_name": "com.hongbaoshuapp",
+        "file_name": "com.hongbaoshuapp_156.apk",
+        "app_activity": "com.hongbaoshuapp.PrivacyActivity"
+    },
+    {
+        "app_name": "四年级英语点读",
+        "package_name": "com.pelbs.book1003",
+        "file_name": "com.pelbs.book1003_157.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "顺势智能英语平台",
+        "package_name": "com.example.administrator.ss_english",
+        "file_name": "com.example.administrator.ss_english_158.apk",
+        "app_activity": "com.example.administrator.ss_english.ss_englishapplication.login.SplashActivity"
+    },
+    {
+        "app_name": "每日英语听力",
+        "package_name": "com.eusoft.ting.en",
+        "file_name": "com.eusoft.ting.en_159.apk",
+        "app_activity": "com.eusoft.ting.ui.v2.TabActivityV2"
+    },
+    {
+        "app_name": "WE Learn",
+        "package_name": "com.sflep.course",
+        "file_name": "com.sflep.course_160.apk",
+        "app_activity": "com.sflep.course.activity.DefaultActivity"
+    },
+    {
+        "app_name": "蓝思英语",
+        "package_name": "com.dxdxapp.ting",
+        "file_name": "com.dxdxapp.ting_161.apk",
+        "app_activity": "com.dxdxapp.ting.TabActivity"
+    },
+    {
+        "app_name": "AI Grammar",
+        "package_name": "com.hellotalk.aigrammar",
+        "file_name": "com.hellotalk.aigrammar_162.apk",
+        "app_activity": "com.hellotalk.aigrammar.MainActivity"
+    },
+    {
+        "app_name": "咸蛋口语",
+        "package_name": "com.chaoui.xd",
+        "file_name": "com.chaoui.xd_163.apk",
+        "app_activity": "com.chaoui.xd.MainActivity"
+    },
+    {
+        "app_name": "沪江网校",
+        "package_name": "com.hujiang.hjclass",
+        "file_name": "com.hujiang.hjclass_164.apk",
+        "app_activity": "com.hujiang.hjclass.activity.SplashActivity"
+    },
+    {
+        "app_name": "懒人英语",
+        "package_name": "com.zhujiayi.lanrenenglish",
+        "file_name": "com.zhujiayi.lanrenenglish_165.apk",
+        "app_activity": "com.yigou.universal.ui.activity.LogoActivity"
+    },
+    {
+        "app_name": "English One",
+        "package_name": "com.ef.edtech.hf",
+        "file_name": "com.ef.edtech.hf_166.apk",
+        "app_activity": "com.ef.hfbridge.SplashActivity"
+    },
+    {
+        "app_name": "中英互译",
+        "package_name": "com.messi.languagehelper",
+        "file_name": "com.messi.languagehelper_167.apk",
+        "app_activity": "com.messi.languagehelper.LoadingActivity"
+    },
+    {
+        "app_name": "初中英语口语秀",
+        "package_name": "com.iyuba.talkshow.junior",
+        "file_name": "com.iyuba.talkshow.junior_168.apk",
+        "app_activity": "com.iyuba.talkshow.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "步步ABC",
+        "package_name": "com.putao.abc.huawei",
+        "file_name": "com.putao.abc.huawei_169.apk",
+        "app_activity": "com.putao.abc.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "同步学",
+        "package_name": "com.rj.syslearning",
+        "file_name": "com.rj.syslearning_170.apk",
+        "app_activity": "com.king.sysclearning.platform.app.AppFlavorLaunchActivity"
+    },
+    {
+        "app_name": "流利说-英语",
+        "package_name": "com.liulishuo.engzo",
+        "file_name": "com.liulishuo.engzo_171.apk",
+        "app_activity": "com.liulishuo.lingodarwin.app.LauncherActivity"
+    },
+    {
+        "app_name": "流利说-雅思",
+        "package_name": "com.liulishuo.telis",
+        "file_name": "com.liulishuo.telis_172.apk",
+        "app_activity": "com.liulishuo.telis.app.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "牛津阅读Tree",
+        "package_name": "com.sz.niujin",
+        "file_name": "com.sz.niujin_173.apk",
+        "app_activity": "com.sz.niujin.MainActivity"
+    },
+    {
+        "app_name": "Smart English",
+        "package_name": "com.ef.core.engage.smartenglish",
+        "file_name": "com.ef.core.engage.smartenglish_174.apk",
+        "app_activity": "com.ef.core.engage.ui.screens.activity.SplashActivity"
+    },
+    {
+        "app_name": "轻听英语",
+        "package_name": "cn.com.langeasy.EasyListen",
+        "file_name": "cn.com.langeasy.EasyListen_175.apk",
+        "app_activity": "cn.com.langeasy.LangEasyLrc.ui.SplashActivity"
+    },
+    {
+        "app_name": "熊猫在学-原熊猫单词宝",
+        "package_name": "org.panda.words",
+        "file_name": "org.panda.words_176.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "游美英语",
+        "package_name": "com.usacamp",
+        "file_name": "com.usacamp_177.apk",
+        "app_activity": "com.usacamp.activities.SplashActivity"
+    },
+    {
+        "app_name": "雅思GO",
+        "package_name": "com.china.ielts",
+        "file_name": "com.china.ielts_178.apk",
+        "app_activity": "com.china.ielts.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "英语魔方秀",
+        "package_name": "com.memory.me",
+        "file_name": "com.memory.me_179.apk",
+        "app_activity": "com.memory.me.ui.SplashActivity"
+    },
+    {
+        "app_name": "芝士派听力",
+        "package_name": "com.chaoui.cheesepie",
+        "file_name": "com.chaoui.cheesepie_180.apk",
+        "app_activity": "com.chaoui.cheesepie.MainActivity"
+    },
+    {
+        "app_name": "星火语伴",
+        "package_name": "com.iflytek.aistudy.aitalk",
+        "file_name": "com.iflytek.aistudy.aitalk_181.apk",
+        "app_activity": "com.iflytek.aistudy.aitalk.main.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "手机背单词",
+        "package_name": "com.shengmi.word",
+        "file_name": "com.shengmi.word_182.apk",
+        "app_activity": "com.shengmi.word.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "初中英语单词同步学",
+        "package_name": "com.uyutong.czyydctbx",
+        "file_name": "com.uyutong.czyydctbx_183.apk",
+        "app_activity": "com.uyutong.czyydctbx.WelcomeActivity"
+    },
+    {
+        "app_name": "词根单词",
+        "package_name": "com.xfs.rootwords",
+        "file_name": "com.xfs.rootwords_184.apk",
+        "app_activity": "com.xfs.rootwords.module.MainActivity"
+    },
+    {
+        "app_name": "外研通",
+        "package_name": "com.viaton.wyt",
+        "file_name": "com.viaton.wyt_185.apk",
+        "app_activity": "com.mp.phone.module.logic.welcome.SplashActivity"
+    },
+    {
+        "app_name": "说客英语",
+        "package_name": "com.chindle.talk915",
+        "file_name": "com.chindle.talk915_186.apk",
+        "app_activity": "com.chindle.talk915.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "Lan-master",
+        "package_name": "com.meicheshuo.speakingenglish",
+        "file_name": "com.meicheshuo.speakingenglish_187.apk",
+        "app_activity": "com.kouyuxia.app.index.WelcomeActivity"
+    },
+    {
+        "app_name": "Acadsoc",
+        "package_name": "com.ksmartapp.acadsoc",
+        "file_name": "com.ksmartapp.acadsoc_188.apk",
+        "app_activity": "com.ksmartapp.acadsoc.MainActivity"
+    },
+    {
+        "app_name": "走向未来学生端",
+        "package_name": "com.lookahead.student",
+        "file_name": "com.lookahead.student_189.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "新东方小书童",
+        "package_name": "cn.readingprotoc.phone",
+        "file_name": "cn.readingprotoc.phone_190.apk",
+        "app_activity": "cn.readingprotoc.phone.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "AI外教",
+        "package_name": "com.ishowedu.aitalk",
+        "file_name": "com.ishowedu.aitalk_191.apk",
+        "app_activity": "com.ishowedu.aitalk.ui.PureAgreeActivity"
+    },
+    {
+        "app_name": "点读英语六年级上下册",
+        "package_name": "plus.H5D4F0E02",
+        "file_name": "plus.H5D4F0E02_192.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "小站托福",
+        "package_name": "com.zhan.toefltom",
+        "file_name": "com.zhan.toefltom_193.apk",
+        "app_activity": "com.zhan.toefltom.SplashActivity"
+    },
+    {
+        "app_name": "小学英语课本点读",
+        "package_name": "com.uyutong.xxyykbdd",
+        "file_name": "com.uyutong.xxyykbdd_194.apk",
+        "app_activity": "com.uyutong.xxyykbdd.WelcomeActivity"
+    },
+    {
+        "app_name": "可可英语",
+        "package_name": "com.kekeclient_",
+        "file_name": "com.kekeclient__195.apk",
+        "app_activity": "com.kekeclient.activity.InitActivity"
+    },
+    {
+        "app_name": "外研阅读",
+        "package_name": "com.iyangcong.reader",
+        "file_name": "com.iyangcong.reader_196.apk",
+        "app_activity": "com.iyangcong.reader.activity.SplashActivity"
+    },
+    {
+        "app_name": "ABC 快乐英语星球",
+        "package_name": "com.chuanglang.newabc",
+        "file_name": "com.chuanglang.newabc_197.apk",
+        "app_activity": "com.drpanda.DPUnityPlayerActivity"
+    },
+    {
+        "app_name": "八年级英语上册",
+        "package_name": "plus.H511EDAD9",
+        "file_name": "plus.H511EDAD9_198.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "口袋英语",
+        "package_name": "com.si.yiwisx",
+        "file_name": "com.si.yiwisx_199.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "新概念英语随声听",
+        "package_name": "com.estoneinfo.english.nce",
+        "file_name": "com.estoneinfo.english.nce_200.apk",
+        "app_activity": "com.estoneinfo.english.nce.StartActivity"
+    },
+    {
+        "app_name": "小站雅思",
+        "package_name": "com.zhan.ieltstiku",
+        "file_name": "com.zhan.ieltstiku_201.apk",
+        "app_activity": "com.zhan.ieltstiku.ui.SplashActivity"
+    },
+    {
+        "app_name": "雅思单词",
+        "package_name": "com.zhan.ieltsword",
+        "file_name": "com.zhan.ieltsword_202.apk",
+        "app_activity": "com.zhan.ieltsword.ui.SplashActivity"
+    },
+    {
+        "app_name": "巴别阅读",
+        "package_name": "com.weiaimeishi.readebook",
+        "file_name": "com.weiaimeishi.readebook_203.apk",
+        "app_activity": "com.ryanheise.audioservice.AudioServiceActivity"
+    },
+    {
+        "app_name": "口语星球",
+        "package_name": "com.zxkj.spokenstar",
+        "file_name": "com.zxkj.spokenstar_204.apk",
+        "app_activity": "com.zxkj.spokenstar.LoadingActivity"
+    },
+    {
+        "app_name": "YOUTOO爱听说",
+        "package_name": "com.singsound.xuehu",
+        "file_name": "com.singsound.xuehu_205.apk",
+        "app_activity": "com.singsound.caidou.ui.other.WelcomeActivity"
+    },
+    {
+        "app_name": "人教口语",
+        "package_name": "com.gumi.spokenenglish",
+        "file_name": "com.gumi.spokenenglish_206.apk",
+        "app_activity": "com.gumi.spokenenglish.activity.LogoActivity"
+    },
+    {
+        "app_name": "小树自然拼读",
+        "package_name": "com.xs.phonics",
+        "file_name": "com.xs.phonics_207.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "鲸小爱英语",
+        "package_name": "com.jinghang.ai.xjenglish",
+        "file_name": "com.jinghang.ai.xjenglish_208.apk",
+        "app_activity": "com.jinghang.ai.xjenglish.mvp.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "趣配音HD",
+        "package_name": "com.ishowedu.peiyinhd",
+        "file_name": "com.ishowedu.peiyinhd_209.apk",
+        "app_activity": "com.ishowedu.peiyinhd.ui.PureAgreeActivity"
+    },
+    {
+        "app_name": "在线助教学生",
+        "package_name": "com.vanthink.student",
+        "file_name": "com.vanthink.student_210.apk",
+        "app_activity": "com.vanthink.student.ui.user.splash.SplashActivity"
+    },
+    {
+        "app_name": "英语趣配音",
+        "package_name": "com.ishowedu.peiyin",
+        "file_name": "com.ishowedu.peiyin_211.apk",
+        "app_activity": "com.ishowedu.peiyin.ui.PureAgreeActivity"
+    },
+    {
+        "app_name": "CCtalk",
+        "package_name": "com.hujiang.cctalk",
+        "file_name": "com.hujiang.cctalk_212.apk",
+        "app_activity": "com.hujiang.cctalk.LoadingActivity"
+    },
+    {
+        "app_name": "小学英语三年级",
+        "package_name": "plus.H563FE1E4",
+        "file_name": "plus.H563FE1E4_213.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "百词斩爱阅读",
+        "package_name": "com.baicizhan.ireading",
+        "file_name": "com.baicizhan.ireading_214.apk",
+        "app_activity": "com.baicizhan.ireading.control.activity.LaunchActivity"
+    },
+    {
+        "app_name": "爱语吧TED演讲",
+        "package_name": "com.sdiyuba.tedenglish",
+        "file_name": "com.sdiyuba.tedenglish_215.apk",
+        "app_activity": "com.sdiyuba.tedenglish.actity.InitActivity"
+    },
+    {
+        "app_name": "新课标初中英语助手",
+        "package_name": "com.yuefu.englishjunior",
+        "file_name": "com.yuefu.englishjunior_216.apk",
+        "app_activity": "com.liuyang.juniorhelp.HomeGroupActivity"
+    },
+    {
+        "app_name": "高考英语听力",
+        "package_name": "com.csliyu.listenhigh",
+        "file_name": "com.csliyu.listenhigh_217.apk",
+        "app_activity": "com.csliyu.listenhigh.HomeGroupActivity"
+    },
+    {
+        "app_name": "扇贝听力口语",
+        "package_name": "com.shanbay.listen",
+        "file_name": "com.shanbay.listen_218.apk",
+        "app_activity": "com.shanbay.biz.skeleton.splash.SplashActivity"
+    },
+    {
+        "app_name": "海词词典",
+        "package_name": "cn.dict.android.pro",
+        "file_name": "cn.dict.android.pro_219.apk",
+        "app_activity": "cn.dict.MainActivity"
+    },
+    {
+        "app_name": "VIPKID英语",
+        "package_name": "com.vipkid.app",
+        "file_name": "com.vipkid.app_220.apk",
+        "app_activity": "com.vipkid.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "开言英语",
+        "package_name": "com.openlanguage.kaiyan",
+        "file_name": "com.openlanguage.kaiyan_221.apk",
+        "app_activity": "com.openlanguage.kaiyan.splash.ui.SplashActivity"
+    },
+    {
+        "app_name": "墨墨背单词",
+        "package_name": "com.maimemo.android.momo",
+        "file_name": "com.maimemo.android.momo_222.apk",
+        "app_activity": "com.maimemo.android.momo.ui.SplashActivity"
+    },
+    {
+        "app_name": "新东方托福Pro",
+        "package_name": "com.koolearn.toefl2019",
+        "file_name": "com.koolearn.toefl2019_223.apk",
+        "app_activity": "com.koolearn.toefl2019.home.splash.LaunchActivity"
+    },
+
+    {
+        "app_name": "西语背单词",
+        "package_name": "com.eusoft.recite.es",
+        "file_name": "com.eusoft.recite.es_201.apk",
+        "app_activity": "com.eusoft.dict.activity.SplashActivity"
+    },
+    {
+        "app_name": "英语鲜师",
+        "package_name": "net.naucu.englishxianshi",
+        "file_name": "net.naucu.englishxianshi_202.apk",
+        "app_activity": "net.naucu.englishxianshi.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "Love Reading",
+        "package_name": "com.loveschool.pbook",
+        "file_name": "com.loveschool.pbook_203.apk",
+        "app_activity": "com.loveschool.pbook.activity.startWith.StartActivity"
+    },
+    {
+        "app_name": "新概念英语同步学",
+        "package_name": "com.xlb.xgnyytbx",
+        "file_name": "com.xlb.xgnyytbx_204.apk",
+        "app_activity": "com.xlb.xgnyytbx.WelcomeActivity"
+    },
+    {
+        "app_name": "云海螺在线1对1",
+        "package_name": "io.ehailuo.FriendUniapp",
+        "file_name": "io.ehailuo.FriendUniapp_205.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "秒熊英语",
+        "package_name": "com.monkey.sla",
+        "file_name": "com.monkey.sla_206.apk",
+        "app_activity": "com.monkey.sla.modules.splash.SplashActivity"
+    },
+    {
+        "app_name": "新标准英语一起一年级优米点读",
+        "package_name": "com.wenteng.xuexi.xbs1a",
+        "file_name": "com.wenteng.xuexi.xbs1a_207.apk",
+        "app_activity": "com.wenteng.xuexi.activity.SplashActivity"
+    },
+    {
+        "app_name": "新起点英语一年级优米点读",
+        "package_name": "com.wenteng.xuexi.xqd1a",
+        "file_name": "com.wenteng.xuexi.xqd1a_208.apk",
+        "app_activity": "com.wenteng.xuexi.activity.SplashActivity"
+    },
+    {
+        "app_name": "学而思大学生",
+        "package_name": "com.enhance.kmf.courseapplication",
+        "file_name": "com.enhance.kmf.courseapplication_209.apk",
+        "app_activity": "com.enhance.kmf.courseapplication.MainActivity"
+    },
+    {
+        "app_name": "新课标高中英语单词",
+        "package_name": "com.uyutong.gzyydcall",
+        "file_name": "com.uyutong.gzyydcall_210.apk",
+        "app_activity": "com.uyutong.gzyydcall.WelcomeActivity"
+    },
+    {
+        "app_name": "新东方雅思",
+        "package_name": "com.koolearn.ielts2019",
+        "file_name": "com.koolearn.ielts2019_211.apk",
+        "app_activity": "com.koolearn.ielts2019.MainActivity"
+    },
+    {
+        "app_name": "牛津英语学习词典",
+        "package_name": "cn.dictcn.android.digitize.oxford_learnerdict_17204",
+        "file_name": "cn.dictcn.android.digitize.oxford_learnerdict_17204_212.apk",
+        "app_activity": "cn.dictcn.android.digitize.module.init.ui.InitActivity"
+    },
+    {
+        "app_name": "每日口语",
+        "package_name": "com.sq.speech",
+        "file_name": "com.sq.speech_213.apk",
+        "app_activity": "com.sq.speech.SplashActivity"
+    },
+    {
+        "app_name": "雅思听力",
+        "package_name": "com.iyuba.ieltslistening",
+        "file_name": "com.iyuba.ieltslistening_214.apk",
+        "app_activity": "com.iyuba.ieltslistening.activity.SplashActivity"
+    },
+    {
+        "app_name": "新概念英语随行",
+        "package_name": "top.wenzz.xgn.gw",
+        "file_name": "top.wenzz.xgn.gw_215.apk",
+        "app_activity": "com.ryanheise.audioservice.AudioServiceActivity"
+    },
+    {
+        "app_name": "英语拼读",
+        "package_name": "com.huidu.pindu",
+        "file_name": "com.huidu.pindu_216.apk",
+        "app_activity": "com.huidu.pindu.WebActivity"
+    },
+    {
+        "app_name": "FiF口语训练",
+        "package_name": "com.fifedu.kyxl",
+        "file_name": "com.fifedu.kyxl_217.apk",
+        "app_activity": "com.fifedu.kyxl.ui.activity.login.SplashActivity"
+    },
+    {
+        "app_name": "ABC WordWorld",
+        "package_name": "com.WordWorld.ABC",
+        "file_name": "com.WordWorld.ABC_218.apk",
+        "app_activity": "com.unity3d.player.UnityPlayerActivity"
+    },
+    {
+        "app_name": "英语音标发音视频",
+        "package_name": "air.com.aaaedu.RoundEnPhonetic",
+        "file_name": "air.com.aaaedu.RoundEnPhonetic_219.apk",
+        "app_activity": "air.com.aaaedu.RoundEnPhonetic.AIRAppEntry"
+    },
+    {
+        "app_name": "西瓜单词",
+        "package_name": "com.ishowedu.peiyin.yydanci",
+        "file_name": "com.ishowedu.peiyin.yydanci_220.apk",
+        "app_activity": "com.ishowedu.peiyin.ui.login.PureAgreeActivity"
+    },
+    {
+        "app_name": "HelloWords",
+        "package_name": "com.hellotalk.hellowords",
+        "file_name": "com.hellotalk.hellowords_221.apk",
+        "app_activity": "com.hellotalk.hellowords.MainActivity"
+    },
+    {
+        "app_name": "雅思单词斩",
+        "package_name": "com.xiangqi.ielts",
+        "file_name": "com.xiangqi.ielts_222.apk",
+        "app_activity": "com.xiangqi.ielts.activity.LauncherActivity"
+    },
+    {
+        "app_name": "趣趣英语",
+        "package_name": "cn.com.youxingqu.funreading",
+        "file_name": "cn.com.youxingqu.funreading_223.apk",
+        "app_activity": "com.ryanheise.audioservice.AudioServiceActivity"
+    },
+    {
+        "app_name": "速背单词",
+        "package_name": "com.memowords.speed",
+        "file_name": "com.memowords.speed_224.apk",
+        "app_activity": "com.memowords.speed.MainActivity"
+    },
+    {
+        "app_name": "蒙哥英语阅读",
+        "package_name": "com.little.a.english",
+        "file_name": "com.little.a.english_225.apk",
+        "app_activity": "com.little.a.english.splash.SplashActivity"
+    },
+    {
+        "app_name": "书虫英语",
+        "package_name": "com.iyuba.bookworm",
+        "file_name": "com.iyuba.bookworm_226.apk",
+        "app_activity": "com.iyuba.bookworm.SplashActivity"
+    },
+    {
+        "app_name": "英语国际音标标准教程",
+        "package_name": "com.uyutong.phonepic",
+        "file_name": "com.uyutong.phonepic_227.apk",
+        "app_activity": "com.uyutong.phonepic.WelcomeActivity"
+    },
+    {
+        "app_name": "托业听力",
+        "package_name": "com.iyuba.toeiclistening",
+        "file_name": "com.iyuba.toeiclistening_228.apk",
+        "app_activity": "com.iyuba.toeiclistening.activity.SplashActivity"
+    },
+    {
+        "app_name": "英语四六级考试真题",
+        "package_name": "com.ke.level.english",
+        "file_name": "com.ke.level.english_229.apk",
+        "app_activity": "com.ke.level.english.home.activity.WecomeActivity"
+    },
+    {
+        "app_name": "Utalk视听实训",
+        "package_name": "cn.unipus.utalk",
+        "file_name": "cn.unipus.utalk_230.apk",
+        "app_activity": "cn.unipus.login.mvvm.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "布丁单词",
+        "package_name": "com.recitewords.tool",
+        "file_name": "com.recitewords.tool_231.apk",
+        "app_activity": "com.recitewords.tool.StartActivity"
+    },
+    {
+        "app_name": "英语音标点读",
+        "package_name": "com.yuefu.englishyinbiao",
+        "file_name": "com.yuefu.englishyinbiao_232.apk",
+        "app_activity": "com.yuefu.englishyinbiao.HomeGroupActivity"
+    },
+    {
+        "app_name": "高中单词课堂",
+        "package_name": "com.csliyu.wordsenior",
+        "file_name": "com.csliyu.wordsenior_233.apk",
+        "app_activity": "com.csliyu.wordsenior.HomeGroupActivity"
+    },
+    {
+        "app_name": "关键词教育",
+        "package_name": "com.kekyedu.keywordfamily",
+        "file_name": "com.kekyedu.keywordfamily_234.apk",
+        "app_activity": "com.chelc.login.ui.keywork.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "新概念英语全册",
+        "package_name": "com.giant.newconcept",
+        "file_name": "com.giant.newconcept_235.apk",
+        "app_activity": "com.giant.newconcept.ui.activity.MainActivity"
+    },
+    {
+        "app_name": "粽子英语",
+        "package_name": "com.chilunyc.zongzi",
+        "file_name": "com.chilunyc.zongzi_236.apk",
+        "app_activity": "com.chilunyc.zongzi.module.login.SplashActivity"
+    },
+    {
+        "app_name": "PalFish",
+        "package_name": "cn.xckj.talk_customer",
+        "file_name": "cn.xckj.talk_customer_237.apk",
+        "app_activity": "com.xckj.main.splash.ServicerSplashActivity"
+    },
+    {
+        "app_name": "四级词汇",
+        "package_name": "com.hurryupv.cet4",
+        "file_name": "com.hurryupv.cet4_238.apk",
+        "app_activity": "com.hurryupv.cet4.MainActivity"
+    },
+    {
+        "app_name": "多次元托福",
+        "package_name": "com.dcyedu.toefl",
+        "file_name": "com.dcyedu.toefl_239.apk",
+        "app_activity": "com.dcyedu.toefl.ui.page.LaunchActivity"
+    },
+    {
+        "app_name": "背点单词",
+        "package_name": "com.zxd.beidiandanci",
+        "file_name": "com.zxd.beidiandanci_240.apk",
+        "app_activity": "com.zxd.beidiandanci.MainActivity"
+    },
+    {
+        "app_name": "英语国际音标学习",
+        "package_name": "com.yayu.phonetic",
+        "file_name": "com.yayu.phonetic_241.apk",
+        "app_activity": "com.yayu.phonetic.WelcomeActivity"
+    },
+    {
+        "app_name": "我爱背单词",
+        "package_name": "com.apa.wabdc",
+        "file_name": "com.apa.wabdc_242.apk",
+        "app_activity": "com.icarus.words.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "背单词教材版",
+        "package_name": "com.bdcjctb.byzxy",
+        "file_name": "com.bdcjctb.byzxy_243.apk",
+        "app_activity": "com.tad.SplashActivity"
+    },
+    {
+        "app_name": "初中英语仁爱版八年级上册",
+        "package_name": "plus.H585A5773",
+        "file_name": "plus.H585A5773_244.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "GRE考满分",
+        "package_name": "com.enhance.kmf.grekmf",
+        "file_name": "com.enhance.kmf.grekmf_245.apk",
+        "app_activity": "com.enhance.kmf.grekmf.activity.AppStartActivity"
+    },
+    {
+        "app_name": "专升本英语",
+        "package_name": "com.xiaotiaolong.juniorcollegeenglish",
+        "file_name": "com.xiaotiaolong.juniorcollegeenglish_246.apk",
+        "app_activity": "com.xiaotiaolong.juniorcollegeenglish.activity.LoginActivity"
+    },
+    {
+        "app_name": "快酷英语",
+        "package_name": "com.qqeng.adult",
+        "file_name": "com.qqeng.adult_247.apk",
+        "app_activity": "com.qqeng.online.activity.ActSplash"
+    },
+    {
+        "app_name": "在线助教老师",
+        "package_name": "com.vanthink.vanthinkteacher",
+        "file_name": "com.vanthink.vanthinkteacher_248.apk",
+        "app_activity": "com.vanthink.teacher.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "青少版新概念英语",
+        "package_name": "com.hechimr.cz",
+        "file_name": "com.hechimr.cz_249.apk",
+        "app_activity": "com.hechimr.cz.MainActivity"
+    },
+    {
+        "app_name": "51Talk阅读",
+        "package_name": "com.talk51.picturebook",
+        "file_name": "com.talk51.picturebook_250.apk",
+        "app_activity": "com.talk51.lunch.activity.LauncherActivity"
+    },
+    {
+        "app_name": "懒人英语阅读",
+        "package_name": "com.shengxue.lazyread",
+        "file_name": "com.shengxue.lazyread_251.apk",
+        "app_activity": "com.shengxue.lazyread.MainActivity"
+    },
+    {
+        "app_name": "英语三级考试聚题库",
+        "package_name": "com.s20cxq.cetthree",
+        "file_name": "com.s20cxq.cetthree_252.apk",
+        "app_activity": "com.s20cxq.question.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "五年点辅",
+        "package_name": "aureole.en.pep.five.all",
+        "file_name": "aureole.en.pep.five.all_253.apk",
+        "app_activity": "aureole.en.pep.five.all.activity.SplashActivity"
+    },
+    {
+        "app_name": "LinkWord",
+        "package_name": "com.linkword.learn",
+        "file_name": "com.linkword.learn_254.apk",
+        "app_activity": "com.linkword.learn.MainActivity"
+    },
+    {
+        "app_name": "六年级英语点读辅导",
+        "package_name": "aureole.en.pep.six.all",
+        "file_name": "aureole.en.pep.six.all_255.apk",
+        "app_activity": "aureole.en.pep.six.all.activity.SplashActivity"
+    },
+    {
+        "app_name": "高中英语随声听",
+        "package_name": "com.estoneinfo.english.senior",
+        "file_name": "com.estoneinfo.english.senior_256.apk",
+        "app_activity": "com.estoneinfo.english.senior.StartActivity"
+    },
+    {
+        "app_name": "怎么记单词",
+        "package_name": "com.zmji.net",
+        "file_name": "com.zmji.net_257.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "树鱼英语",
+        "package_name": "com.beifei.treefish",
+        "file_name": "com.beifei.treefish_258.apk",
+        "app_activity": "splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "日语N1",
+        "package_name": "com.iyuyan.jp1listensimple",
+        "file_name": "com.iyuyan.jp1listensimple_259.apk",
+        "app_activity": "com.iyuyan.jp1listensimple.activity.TanchuangActivity"
+    },
+    {
+        "app_name": "新目标八上",
+        "package_name": "aureole.en.xmb.eight.up",
+        "file_name": "aureole.en.xmb.eight.up_260.apk",
+        "app_activity": "aureole.en.xmb.eight.up.activity.SplashActivity"
+    },
+    {
+        "app_name": "口语精灵",
+        "package_name": "com.spark.aitutor",
+        "file_name": "com.spark.aitutor_261.apk",
+        "app_activity": "com.unity3d.player.MainActivity"
+    },
+    {
+        "app_name": "UKidSchool",
+        "package_name": "com.example.administrator.crossingschool",
+        "file_name": "com.example.administrator.crossingschool_262.apk",
+        "app_activity": "com.example.administrator.crossingschool.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "Joyschool Level 1",
+        "package_name": "com.alegralearning.joyschool",
+        "file_name": "com.alegralearning.joyschool_263.apk",
+        "app_activity": "com.unity3d.player.UnityPlayerActivity"
+    },
+    {
+        "app_name": "英语单词速记",
+        "package_name": "com.study.word.byzmhw",
+        "file_name": "com.study.word.byzmhw_264.apk",
+        "app_activity": "com.tad.AdSplashActivity"
+    },
+    {
+        "app_name": "森森客英语",
+        "package_name": "uniapp.thinkthinker",
+        "file_name": "uniapp.thinkthinker_265.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "英语听书",
+        "package_name": "com.tataera.tingshu",
+        "file_name": "com.tataera.tingshu_266.apk",
+        "app_activity": "com.tataera.tingshu.MainActivity"
+    },
+    {
+        "app_name": "过目不忘单词",
+        "package_name": "cn.timevalue.english.recite",
+        "file_name": "cn.timevalue.english.recite_267.apk",
+        "app_activity": "cn.timevalue.english.recite.MainActivity"
+    },
+    {
+        "app_name": "新世纪英汉汉英大词典",
+        "package_name": "cn.dictcn.android.digitize.wys_xsjyhhydcd_8205",
+        "file_name": "cn.dictcn.android.digitize.wys_xsjyhhydcd_8205_268.apk",
+        "app_activity": "cn.dictcn.android.digitize.module.init.ui.InitActivity"
+    },
+    {
+        "app_name": "看电影学英语",
+        "package_name": "com.lookwenbo.kdyxyy",
+        "file_name": "com.lookwenbo.kdyxyy_269.apk",
+        "app_activity": "com.lookwenbo.kdyxyy.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "高中英语同步学",
+        "package_name": "com.xlb.gzyytbx",
+        "file_name": "com.xlb.gzyytbx_270.apk",
+        "app_activity": "com.xlb.gzyytbx.SplashActivity"
+    },
+    {
+        "app_name": "新东方小学堂",
+        "package_name": "cn.readingprotob",
+        "file_name": "cn.readingprotob_271.apk",
+        "app_activity": "cn.readingprotob.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "幼儿英语启蒙",
+        "package_name": "com.engli.ely",
+        "file_name": "com.engli.ely_272.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "Reply学英语",
+        "package_name": "top.haokui.chat",
+        "file_name": "top.haokui.chat_273.apk",
+        "app_activity": "com.example.reply.MainActivity"
+    },
+    {
+        "app_name": "AI学英语",
+        "package_name": "com.aienshengma.app",
+        "file_name": "com.aienshengma.app_274.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "千亿词霸",
+        "package_name": "com.ybiiq.aacin.ic",
+        "file_name": "com.ybiiq.aacin.ic_275.apk",
+        "app_activity": "cha.dan.ci.activty.StartActivity"
+    },
+    {
+        "app_name": "新英汉",
+        "package_name": "com.xhd.book",
+        "file_name": "com.xhd.book_276.apk",
+        "app_activity": "com.xhd.book.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "初中语法",
+        "package_name": "com.gaofy.mgmgrammar",
+        "file_name": "com.gaofy.mgmgrammar_277.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "每日一句",
+        "package_name": "com.gtr.everydayenglish",
+        "file_name": "com.gtr.everydayenglish_278.apk",
+        "app_activity": "com.gtr.everydayenglish.activity.ActivityAccess"
+    },
+    {
+        "app_name": "新概念点读",
+        "package_name": "com.aimetaverse.bookworm",
+        "file_name": "com.aimetaverse.bookworm_279.apk",
+        "app_activity": "com.aimetaverse.bookworm.activity.StartActivity"
+    },
+    {
+        "app_name": "猩际雅思",
+        "package_name": "com.apeuni.ielts",
+        "file_name": "com.apeuni.ielts_280.apk",
+        "app_activity": "com.apeuni.ielts.ui.home.view.activity.StartPageActivity"
+    },
+    {
+        "app_name": "拍照英语翻译",
+        "package_name": "com.pang.fanyi",
+        "file_name": "com.pang.fanyi_281.apk",
+        "app_activity": "com.pang.fanyi.ui.SplashActivity"
+    },
+    {
+        "app_name": "初中英语单词通",
+        "package_name": "com.uyutong.czyydct",
+        "file_name": "com.uyutong.czyydct_282.apk",
+        "app_activity": "com.uyutong.czyydct.SplashActivity"
+    },
+    {
+        "app_name": "初中英语语法通",
+        "package_name": "com.uyutong.czyyyft",
+        "file_name": "com.uyutong.czyyyft_283.apk",
+        "app_activity": "com.uyutong.czyyyft.WelcomeActivity"
+    },
+    {
+        "app_name": "英文翻译",
+        "package_name": "com.juhe.fanyi",
+        "file_name": "com.juhe.fanyi_284.apk",
+        "app_activity": "com.juhe.fanyi.ui.SplashActivity"
+    },
+    {
+        "app_name": "小学英语辅导",
+        "package_name": "com.zhihui.english",
+        "file_name": "com.zhihui.english_285.apk",
+        "app_activity": "com.zhihui.SplishActivity"
+    },
+    {
+        "app_name": "牛津现代英语词典",
+        "package_name": "cn.dictcn.android.digitize.oxford_concisedict_17201",
+        "file_name": "cn.dictcn.android.digitize.oxford_concisedict_17201_286.apk",
+        "app_activity": "cn.dictcn.android.digitize.activity.StartActivity"
+    },
+    {
+        "app_name": "小学英语自然拼读课堂",
+        "package_name": "com.xlb.xxyyzrpd",
+        "file_name": "com.xlb.xxyyzrpd_287.apk",
+        "app_activity": "com.xlb.xxyyzrpd.WelcomeActivity"
+    },
+    {
+        "app_name": "剑桥少儿英语同步课堂",
+        "package_name": "com.yayu.jqshaoeryy",
+        "file_name": "com.yayu.jqshaoeryy_288.apk",
+        "app_activity": "com.yayu.jqshaoeryy.WelcomeActivity"
+    },
+    {
+        "app_name": "English Times",
+        "package_name": "com.hellotalk.englishtimes",
+        "file_name": "com.hellotalk.englishtimes_289.apk",
+        "app_activity": "com.hellotalk.englishtimes.MainActivity"
+    },
+    {
+        "app_name": "英语语法详解",
+        "package_name": "com.luoyu.yingyuyufa",
+        "file_name": "com.luoyu.yingyuyufa_290.apk",
+        "app_activity": "com.luoyu.yingyuyufa.FirstActivity"
+    },
+    {
+        "app_name": "磨耳英语听力",
+        "package_name": "com.bujiadian.grindlisten",
+        "file_name": "com.bujiadian.grindlisten_291.apk",
+        "app_activity": "com.bujiadian.grindlisten.MainActivity"
+    },
+    {
+        "app_name": "英语口语8000句",
+        "package_name": "com.qilesoft.en.eights",
+        "file_name": "com.qilesoft.en.eights_292.apk",
+        "app_activity": "com.qilesoft.en.eights.IntoActivity"
+    },
+    {
+        "app_name": "小学英语同步学",
+        "package_name": "com.xlb.xlbxxyydc",
+        "file_name": "com.xlb.xlbxxyydc_293.apk",
+        "app_activity": "com.xlb.xlbxxyydc.WelcomeActivity"
+    },
+    {
+        "app_name": "外文在线",
+        "package_name": "com.vipflonline.flo_app",
+        "file_name": "com.vipflonline.flo_app_294.apk",
+        "app_activity": "com.vipflonline.module_login.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "ABC英语",
+        "package_name": "com.sdiyuba.abcenglish",
+        "file_name": "com.sdiyuba.abcenglish_295.apk",
+        "app_activity": "com.sdiyuba.abcenglish.InitActivity"
+    },
+    {
+        "app_name": "步步自然拼读",
+        "package_name": "com.putao.spell",
+        "file_name": "com.putao.spell_296.apk",
+        "app_activity": "com.putao.spell.splash.SplashActivity"
+    },
+    {
+        "app_name": "冀教学英语",
+        "package_name": "io.dcloud.H5F14E807",
+        "file_name": "io.dcloud.H5F14E807_297.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "句解霸英语句子成分分析器",
+        "package_name": "com.en998",
+        "file_name": "com.en998_298.apk",
+        "app_activity": "com.en998.BootActivity"
+    },
+    {
+        "app_name": "新概念英语咖",
+        "package_name": "com.rohug",
+        "file_name": "com.rohug_299.apk",
+        "app_activity": "me.rohug.enge.activity.SplashActivity"
+    },
+    {
+        "app_name": "单词斩",
+        "package_name": "com.mc.wcw",
+        "file_name": "com.mc.wcw_300.apk",
+        "app_activity": "com.mc.wcw.MainActivity"
+    },
+    {
+        "app_name": "英语音标助手",
+        "package_name": "com.giant.phonogram",
+        "file_name": "com.giant.phonogram_301.apk",
+        "app_activity": "com.giant.lib_home.SplashActivity"
+    },
+    {
+        "app_name": "英汉随身词典",
+        "package_name": "com.q71.q71wordshome",
+        "file_name": "com.q71.q71wordshome_302.apk",
+        "app_activity": "com.q71.q71wordshome.q71_aty_pkg.general.RequestPermissionAty"
+    },
+    {
+        "app_name": "雅思考满分",
+        "package_name": "com.enhance.kaomanfen.yasilisteningapp",
+        "file_name": "com.enhance.kaomanfen.yasilisteningapp_303.apk",
+        "app_activity": "com.enhance.kaomanfen.yasilisteningapp.activity.AppStartActivity"
+    },
+    {
+        "app_name": "零基础学英语",
+        "package_name": "com.yuefu.zeroenglish",
+        "file_name": "com.yuefu.zeroenglish_304.apk",
+        "app_activity": "com.yuefu.zeroenglish.HomeGroupActivity"
+    },
+    {
+        "app_name": "早安英文",
+        "package_name": "com.letabc.zaxt",
+        "file_name": "com.letabc.zaxt_305.apk",
+        "app_activity": "com.letabc.zaxt.MainActivity"
+    },
+    {
+        "app_name": "新概念AI学英语",
+        "package_name": "com.jn.iyuba.succinct",
+        "file_name": "com.jn.iyuba.succinct_306.apk",
+        "app_activity": "com.jn.iyuba.concept.simple.SplashActivity"
+    },
+    {
+        "app_name": "四年级上册英语点读辅导",
+        "package_name": "aureole.en.pep.four.up",
+        "file_name": "aureole.en.pep.four.up_307.apk",
+        "app_activity": "aureole.en.pep.four.up.activity.SplashActivity"
+    },
+    {
+        "app_name": "单词鸭",
+        "package_name": "com.wordln.app",
+        "file_name": "com.wordln.app_308.apk",
+        "app_activity": "com.wordln.app.MainActivity"
+    },
+    {
+        "app_name": "牛津分级伴读",
+        "package_name": "com.superben.ten",
+        "file_name": "com.superben.ten_309.apk",
+        "app_activity": "com.superben.ten.SplashActivity"
+    },
+    {
+        "app_name": "托福单词",
+        "package_name": "com.zhan.toeflword",
+        "file_name": "com.zhan.toeflword_310.apk",
+        "app_activity": "com.zhan.toeflword.ui.SplashActivity"
+    },
+    {
+        "app_name": "初中英语同步课堂",
+        "package_name": "com.hechibs.cztbkt",
+        "file_name": "com.hechibs.cztbkt_311.apk",
+        "app_activity": "com.hechibs.cztbkt.SplashActivity"
+    },
+    {
+        "app_name": "都都GO",
+        "package_name": "com.enuma.todoyingyu",
+        "file_name": "com.enuma.todoyingyu_312.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "MM Publications",
+        "package_name": "com.shuangen.mmpublications",
+        "file_name": "com.shuangen.mmpublications_313.apk",
+        "app_activity": "com.shuangen.mmpublications.activity.startWith.StartActivity"
+    },
+    {
+        "app_name": "娃娃路",
+        "package_name": "com.hc.manager.babyroad",
+        "file_name": "com.hc.manager.babyroad_314.apk",
+        "app_activity": "com.hc.manager.babyroad.view.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "大猫英语自然拼读",
+        "package_name": "com.mystair.dmyyzrpd",
+        "file_name": "com.mystair.dmyyzrpd_315.apk",
+        "app_activity": "com.mystair.dmyyzrpd.WelcomeActivity"
+    },
+    {
+        "app_name": "英文名起名取名助手",
+        "package_name": "cloud.miplus.ename",
+        "file_name": "cloud.miplus.ename_316.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "平头哥雅思口语",
+        "package_name": "io.dcloud.ptgRelease",
+        "file_name": "io.dcloud.ptgRelease_317.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "英阅阅读器",
+        "package_name": "com.simple.english.reader",
+        "file_name": "com.simple.english.reader_318.apk",
+        "app_activity": "com.simple.english.reader.HomeActivity"
+    },
+    {
+        "app_name": "外语通高中版",
+        "package_name": "com.tingshuo.highstudent",
+        "file_name": "com.tingshuo.highstudent_319.apk",
+        "app_activity": "com.tingshuo.highstudent.activity.SplashActivity"
+    },
+    {
+        "app_name": "雅思斩单词",
+        "package_name": "com.ieltswords.client",
+        "file_name": "com.ieltswords.client_320.apk",
+        "app_activity": "com.chopwords.client.ui.init.InitActivity"
+    },
+    {
+        "app_name": "PEP小学英语AR版",
+        "package_name": "com.mowenedu.pepen3rdvol2",
+        "file_name": "com.mowenedu.pepen3rdvol2_321.apk",
+        "app_activity": "com.example.xunfeilibrary.MainActivity"
+    },
+    {
+        "app_name": "蘑耳听力",
+        "package_name": "com.cdz.app.listening",
+        "file_name": "com.cdz.app.listening_322.apk",
+        "app_activity": "com.cdz.app.listening.ui.MainActivity"
+    },
+    {
+        "app_name": "新概念英语单词通",
+        "package_name": "com.xlb.xgnyydc",
+        "file_name": "com.xlb.xgnyydc_323.apk",
+        "app_activity": "com.xlb.xgnyydc.WelcomeActivity"
+    },
+    {
+        "app_name": "柠檬英语阅读",
+        "package_name": "com.lemonpiggy.englishreading",
+        "file_name": "com.lemonpiggy.englishreading_324.apk",
+        "app_activity": "com.lemonpiggy.englishreading.MainActivity"
+    },
+    {
+        "app_name": "适趣高阶英语",
+        "package_name": "com.zhilehuo.advenglish",
+        "file_name": "com.zhilehuo.advenglish_325.apk",
+        "app_activity": "com.zhilehuo.advenglish.ui.activity.LoginPhoneActivity"
+    },
+    {
+        "app_name": "小学英语点读课堂",
+        "package_name": "com.hechimr.xxword",
+        "file_name": "com.hechimr.xxword_326.apk",
+        "app_activity": "com.hechimr.xxword.SplashActivity"
+    },
+    {
+        "app_name": "英语AB级小牛题库",
+        "package_name": "com.kexue.englishab",
+        "file_name": "com.kexue.englishab_327.apk",
+        "app_activity": "com.kexue.englishab.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "小学英语单词通",
+        "package_name": "com.uyutong.xxyydct",
+        "file_name": "com.uyutong.xxyydct_328.apk",
+        "app_activity": "com.uyutong.xxyydct.WelcomeActivity"
+    },
+    {
+        "app_name": "单词速记",
+        "package_name": "com.dcsj.byzm",
+        "file_name": "com.dcsj.byzm_329.apk",
+        "app_activity": "com.tad.SplashActivity"
+    },
+    {
+        "app_name": "懒人英语听力",
+        "package_name": "com.tataera.lazylisten",
+        "file_name": "com.tataera.lazylisten_330.apk",
+        "app_activity": "com.tataera.lazylisten.MainActivity"
+    },
+    {
+        "app_name": "从零开始学英语",
+        "package_name": "com.feiyi.p21",
+        "file_name": "com.feiyi.p21_331.apk",
+        "app_activity": "com.feiyi.p21.activity.SplashActivity"
+    },
+    {
+        "app_name": "大思英语",
+        "package_name": "com.app.dasi",
+        "file_name": "com.app.dasi_332.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "英语四级听力",
+        "package_name": "com.iyuba.cet4",
+        "file_name": "com.iyuba.cet4_333.apk",
+        "app_activity": "com.iyuba.cet4.activity.SplashActivity"
+    },
+    {
+        "app_name": "英语六级听力",
+        "package_name": "com.iyuba.cet6",
+        "file_name": "com.iyuba.cet6_334.apk",
+        "app_activity": "com.iyuba.CET4bible.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "拼写背单词",
+        "package_name": "cn.spellingword",
+        "file_name": "cn.spellingword_335.apk",
+        "app_activity": "cn.spellingword.LauncherActivity"
+    },
+    {
+        "app_name": "新标准英语八年级上册",
+        "package_name": "aureole.en.xbz.eight.up",
+        "file_name": "aureole.en.xbz.eight.up_336.apk",
+        "app_activity": "aureole.en.xbz.eight.up.activity.SplashActivity"
+    },
+    {
+        "app_name": "及目阅读",
+        "package_name": "com.sxxx.wkdaily",
+        "file_name": "com.sxxx.wkdaily_337.apk",
+        "app_activity": "com.sxxx.wkdaily.ui.MainActivity"
+    },
+    {
+        "app_name": "无类阅读",
+        "package_name": "com.fulfut.read",
+        "file_name": "com.fulfut.read_338.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+
+    {
+        "app_name": "芝麻单词",
+        "package_name": "com.earku.main",
+        "file_name": "com.earku.main_401.apk",
+        "app_activity": "com.earku.main.MainActivity"
+    },
+    {
+        "app_name": "口语宝",
+        "package_name": "com.rgrg.kyb",
+        "file_name": "com.rgrg.kyb_402.apk",
+        "app_activity": "com.rgrg.app.ui.AppStartActivity"
+    },
+    {
+        "app_name": "英语拍照翻译",
+        "package_name": "com.sieyoo.trans",
+        "file_name": "com.sieyoo.trans_403.apk",
+        "app_activity": "com.sieyoo.trans.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "软书单词表",
+        "package_name": "com.jtsee.softwords",
+        "file_name": "com.jtsee.softwords_404.apk",
+        "app_activity": "com.example.words.MainActivity"
+    },
+    {
+        "app_name": "学而思大学生",
+        "package_name": "com.enhance.kmf.courseapplication",
+        "file_name": "com.enhance.kmf.courseapplication_405.apk",
+        "app_activity": "com.enhance.kmf.courseapplication.MainActivity"
+    },
+    {
+        "app_name": "大学生英语竞赛圣题库",
+        "package_name": "com.shengcai.neccs",
+        "file_name": "com.shengcai.neccs_406.apk",
+        "app_activity": "com.example.stk.LoadingActivity"
+    },
+    {
+        "app_name": "人教畅读",
+        "package_name": "com.mp.rjcd",
+        "file_name": "com.mp.rjcd_407.apk",
+        "app_activity": "com.mp.phone.module.logic.welcome.SplashActivity"
+    },
+    {
+        "app_name": "译林英语一年级点读助手",
+        "package_name": "aureole.en.ylnj.one.all",
+        "file_name": "aureole.en.ylnj.one.all_408.apk",
+        "app_activity": "aureole.en.ylnj.one.all.activity.SplashActivity"
+    },
+    {
+        "app_name": "音标学堂",
+        "package_name": "com.aokj.yinbiao",
+        "file_name": "com.aokj.yinbiao_409.apk",
+        "app_activity": "com.mzw.soundmark.SplashActivityStartUp"
+    },
+    {
+        "app_name": "六級重要單詞",
+        "package_name": "com.ko.cet6.enword.cn",
+        "file_name": "com.ko.cet6.enword.cn_410.apk",
+        "app_activity": "com.ko.toeic.enword.cn.StartActivity"
+    },
+    {
+        "app_name": "学生英语角",
+        "package_name": "com.tingshuoketang.ts",
+        "file_name": "com.tingshuoketang.ts_411.apk",
+        "app_activity": "com.tingshuoketang.epaper.ui.SplashActivity"
+    },
+    {
+        "app_name": "译林牛津英语四",
+        "package_name": "aureole.en.ylnj.four.all",
+        "file_name": "aureole.en.ylnj.four.all_412.apk",
+        "app_activity": "aureole.en.ylnj.four.all.activity.SplashActivity"
+    },
+    {
+        "app_name": "小学英语配套单词本",
+        "package_name": "com.lida.xinqidiansanshang",
+        "file_name": "com.lida.xinqidiansanshang_413.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "TOEIC重要英語單詞",
+        "package_name": "com.ko.toeic.enword.cn",
+        "file_name": "com.ko.toeic.enword.cn_414.apk",
+        "app_activity": "com.ko.toeic.enword.cn.StartActivity"
+    },
+    {
+        "app_name": "考研单词过过过",
+        "package_name": "com.infhand.kydcggg",
+        "file_name": "com.infhand.kydcggg_415.apk",
+        "app_activity": "com.infhand.kydcggg.DengluActivity"
+    },
+    {
+        "app_name": "非常背单词",
+        "package_name": "com.szm.fcword",
+        "file_name": "com.szm.fcword_416.apk",
+        "app_activity": "com.szm.fcword.activity.SplashActivity"
+    },
+    {
+        "app_name": "Joyschool Level 2",
+        "package_name": "com.alegralearning.joyschoollevel2",
+        "file_name": "com.alegralearning.joyschoollevel2_417.apk",
+        "app_activity": "com.unity3d.player.UnityPlayerActivity"
+    },
+    {
+        "app_name": "Joyschool Level 3",
+        "package_name": "com.alegralearning.joyschoollevel3",
+        "file_name": "com.alegralearning.joyschoollevel3_418.apk",
+        "app_activity": "com.unity3d.player.UnityPlayerActivity"
+    },
+    {
+        "app_name": "CET4背词君",
+        "package_name": "com.jiujiu6.cet4",
+        "file_name": "com.jiujiu6.cet4_419.apk",
+        "app_activity": "com.jiujiu6.module_main.splash.SplashActivity"
+    },
+    {
+        "app_name": "词会",
+        "package_name": "com.guixue.m.cihui",
+        "file_name": "com.guixue.m.cihui_420.apk",
+        "app_activity": "com.guixue.m.word.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "高考单词过过过",
+        "package_name": "com.infhand.gkdcggg",
+        "file_name": "com.infhand.gkdcggg_421.apk",
+        "app_activity": "com.infhand.gkdcggg.DengluActivity"
+    },
+    {
+        "app_name": "英语音标发音视频",
+        "package_name": "air.com.aaaedu.RoundEnPhonetic",
+        "file_name": "air.com.aaaedu.RoundEnPhonetic_422.apk",
+        "app_activity": "air.com.aaaedu.RoundEnPhonetic.AIRAppEntry"
+    },
+    {
+        "app_name": "智学汇",
+        "package_name": "com.rhkj.zhihuixue",
+        "file_name": "com.rhkj.zhihuixue_423.apk",
+        "app_activity": "com.rhkj.zhihuixue.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "苏教小学英语三年级",
+        "package_name": "plus.H5A190233",
+        "file_name": "plus.H5A190233_424.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "快乐点读",
+        "package_name": "com.broadwisdom.reading.readingbook",
+        "file_name": "com.broadwisdom.reading.readingbook_425.apk",
+        "app_activity": "com.broadwisdom.reading.readingbook.main.MainInterfaceActivity"
+    },
+    {
+        "app_name": "清华版英语一下",
+        "package_name": "aureole.en.qinghua.one.down",
+        "file_name": "aureole.en.qinghua.one.down_426.apk",
+        "app_activity": "aureole.en.qinghua.one.down.activity.SplashActivity"
+    },
+    {
+        "app_name": "粤人学习",
+        "package_name": "com.zhl.yryy.aphone",
+        "file_name": "com.zhl.yryy.aphone_427.apk",
+        "app_activity": "com.zhl.xxxx.aphone.english.activity.home.GuideActivity"
+    },
+    {
+        "app_name": "怪兽ABC",
+        "package_name": "com.dawn.monsterabc",
+        "file_name": "com.dawn.monsterabc_428.apk",
+        "app_activity": "com.dawn.monsterabc.MainActivity"
+    },
+    {
+        "app_name": "土豆雅思单词",
+        "package_name": "com.todoen.recite",
+        "file_name": "com.todoen.recite_429.apk",
+        "app_activity": "com.todoen.recite.SplashActivity"
+    },
+    {
+        "app_name": "掌上英语听力",
+        "package_name": "com.listen.palmlisten",
+        "file_name": "com.listen.palmlisten_430.apk",
+        "app_activity": "com.listen.palmlisten.MainActivity"
+    },
+    {
+        "app_name": "英语大师",
+        "package_name": "com.fzxkw.aiyingyu",
+        "file_name": "com.fzxkw.aiyingyu_431.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "英语四六级考试真题",
+        "package_name": "com.ke.level.english",
+        "file_name": "com.ke.level.english_432.apk",
+        "app_activity": "com.ke.level.english.home.activity.WecomeActivity"
+    },
+    {
+        "app_name": "新目标七下",
+        "package_name": "aureole.en.xmb.seven.down",
+        "file_name": "aureole.en.xmb.seven.down_433.apk",
+        "app_activity": "aureole.en.xmb.seven.down.activity.SplashActivity"
+    },
+    {
+        "app_name": "VOA英语视频",
+        "package_name": "com.iyuba.VoaVideo",
+        "file_name": "com.iyuba.VoaVideo_434.apk",
+        "app_activity": "com.iyuba.VoaVideo.activity.SplashActivity"
+    },
+    {
+        "app_name": "新标准英语八年级下册",
+        "package_name": "aureole.en.xbz.eight.down",
+        "file_name": "aureole.en.xbz.eight.down_435.apk",
+        "app_activity": "aureole.en.xbz.eight.down.activity.SplashActivity"
+    },
+    {
+        "app_name": "译林牛津英语点读三",
+        "package_name": "aureole.en.ylnj.three.all",
+        "file_name": "aureole.en.ylnj.three.all_436.apk",
+        "app_activity": "aureole.en.ylnj.three.all.activity.SplashActivity"
+    },
+    {
+        "app_name": "新标准英语一起二年级优米点读",
+        "package_name": "com.wenteng.xuexi.xbz1q2",
+        "file_name": "com.wenteng.xuexi.xbz1q2_437.apk",
+        "app_activity": "com.wenteng.xuexi.activity.SplashActivity"
+    },
+    {
+        "app_name": "Tuter",
+        "package_name": "com.aitutor.android",
+        "file_name": "com.aitutor.android_438.apk",
+        "app_activity": "com.aitutor.android.MainActivity"
+    },
+    {
+        "app_name": "大猫新概念英语青少版",
+        "package_name": "com.mystair.dmxgnyyqsb",
+        "file_name": "com.mystair.dmxgnyyqsb_439.apk",
+        "app_activity": "com.mystair.dmxgnyyqsb.WelcomeActivity"
+    },
+    {
+        "app_name": "日语N3",
+        "package_name": "com.iyuyan.jp3listensimple",
+        "file_name": "com.iyuyan.jp3listensimple_440.apk",
+        "app_activity": "com.iyuyan.jplistensimple.SplashActivity"
+    },
+    {
+        "app_name": "四六级冲刺宝",
+        "package_name": "com.fifedu.cetplat",
+        "file_name": "com.fifedu.cetplat_441.apk",
+        "app_activity": "com.fifedu.cetplat.ui.activity.login.SplashActivity"
+    },
+    {
+        "app_name": "AI英语测评",
+        "package_name": "com.chindle.evaluation",
+        "file_name": "com.chindle.evaluation_442.apk",
+        "app_activity": "com.chindle.evaluation.SplashActivity"
+    },
+    {
+        "app_name": "爱记单词",
+        "package_name": "com.chidu.rememberwords",
+        "file_name": "com.chidu.rememberwords_443.apk",
+        "app_activity": "com.chidu.rememberwords.ui.activity.StartPageActivity"
+    },
+    {
+        "app_name": "考拉英语",
+        "package_name": "com.xueyixing.kaolayingyu",
+        "file_name": "com.xueyixing.kaolayingyu_444.apk",
+        "app_activity": "com.xueyixing.kaolayingyu.features.launch.LaunchActivity"
+    },
+    {
+        "app_name": "大猫高中英语",
+        "package_name": "com.mystair.dmgzyy",
+        "file_name": "com.mystair.dmgzyy_445.apk",
+        "app_activity": "com.mystair.dmgzyy.login.WelcomeActivity"
+    },
+    {
+        "app_name": "塔塔四六级",
+        "package_name": "com.tataera.cet",
+        "file_name": "com.tataera.cet_446.apk",
+        "app_activity": "com.tataera.cet.MainActivity"
+    },
+    {
+        "app_name": "迈级高中英语同步学",
+        "package_name": "com.mystair.mjgzyytbx",
+        "file_name": "com.mystair.mjgzyytbx_447.apk",
+        "app_activity": "com.mystair.mjgzyytbx.login.SplashActivity"
+    },
+    {
+        "app_name": "初中英语单词七年级",
+        "package_name": "com.uyutong.rjbczbdc",
+        "file_name": "com.uyutong.rjbczbdc_448.apk",
+        "app_activity": "com.uyutong.rjbczbdc.WelcomeActivity"
+    },
+    {
+        "app_name": "51Talk英语角",
+        "package_name": "com.talk51.lite",
+        "file_name": "com.talk51.lite_449.apk",
+        "app_activity": "com.talk51.main.app.SplashActivity"
+    },
+    {
+        "app_name": "掌上英语四级",
+        "package_name": "com.yuefu.englishfour",
+        "file_name": "com.yuefu.englishfour_450.apk",
+        "app_activity": "com.liuyang.highteach.HomeGroupActivity"
+    },
+    {
+        "app_name": "口语粉碎机",
+        "package_name": "com.mdwsedu.kyfsj",
+        "file_name": "com.mdwsedu.kyfsj_451.apk",
+        "app_activity": "com.mdwsedu.kyfsj.SplashActivity"
+    },
+    {
+        "app_name": "英语四级词汇共核记忆法",
+        "package_name": "com.publish.anrva1",
+        "file_name": "com.publish.anrva1_452.apk",
+        "app_activity": "com.startiasoft.vvportal.splash.WelcomeActivity"
+    },
+    {
+        "app_name": "自然拼读启蒙",
+        "package_name": "xin.xyou.phonics01",
+        "file_name": "xin.xyou.phonics01_453.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "绘本课堂",
+        "package_name": "com.huiben.xsyy",
+        "file_name": "com.huiben.xsyy_454.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "ECNUP外语",
+        "package_name": "com.ecnup.azZVz02",
+        "file_name": "com.ecnup.azZVz02_455.apk",
+        "app_activity": "com.startiasoft.vvportal.splash.WelcomeActivityBeforInit"
+    },
+    {
+        "app_name": "新目标八上",
+        "package_name": "aureole.en.xmb.eight.up",
+        "file_name": "aureole.en.xmb.eight.up_456.apk",
+        "app_activity": "aureole.en.xmb.eight.up.activity.SplashActivity"
+    },
+    {
+        "app_name": "英语学习机",
+        "package_name": "com.yydd.childrenenglish",
+        "file_name": "com.yydd.childrenenglish_457.apk",
+        "app_activity": "com.yydd.childrenenglish.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "爱语吧英语",
+        "package_name": "com.iyuba.bbcinone",
+        "file_name": "com.iyuba.bbcinone_458.apk",
+        "app_activity": "com.iyuba.voaseries.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "点学英语",
+        "package_name": "com.android.dxyy",
+        "file_name": "com.android.dxyy_459.apk",
+        "app_activity": "com.android.dxyy.login.SplashActivity"
+    },
+    {
+        "app_name": "彩岛",
+        "package_name": "com.sinmore.aimeiyingyu",
+        "file_name": "com.sinmore.aimeiyingyu_460.apk",
+        "app_activity": "com.sinmore.aimeiyingyu.MainActivity"
+    },
+    {
+        "app_name": "PalFish T",
+        "package_name": "cn.xckj.talk_servicer",
+        "file_name": "cn.xckj.talk_servicer_461.apk",
+        "app_activity": "com.xckj.main.splash.ServicerSplashActivity"
+    },
+    {
+        "app_name": "想象力世界",
+        "package_name": "uni.UNI60850B1",
+        "file_name": "uni.UNI60850B1_462.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "3500词",
+        "package_name": "cn.inchdata.wordDeepMemory",
+        "file_name": "cn.inchdata.wordDeepMemory_463.apk",
+        "app_activity": "cn.inchdata.wordDeepMemory.MainActivity"
+    },
+    {
+        "app_name": "英语学习助手",
+        "package_name": "com.yunchuan.englishtwo",
+        "file_name": "com.yunchuan.englishtwo_464.apk",
+        "app_activity": "com.yunchuan.englishtwo.SplashActivity"
+    },
+    {
+        "app_name": "迈级初中英语同步学",
+        "package_name": "com.mystair.mjczyytbx",
+        "file_name": "com.mystair.mjczyytbx_465.apk",
+        "app_activity": "com.mystair.mjczyytbx.SplashActivity"
+    },
+    {
+        "app_name": "AI智学系统中考版",
+        "package_name": "com.PGC.AI",
+        "file_name": "com.PGC.AI_466.apk",
+        "app_activity": "com.unity3d.player.UnityPlayerActivity"
+    },
+    {
+        "app_name": "想象力欢乐岛",
+        "package_name": "com.imaginelearning.iw2",
+        "file_name": "com.imaginelearning.iw2_467.apk",
+        "app_activity": "com.imaginelearning.iw2.MainActivity"
+    },
+    {
+        "app_name": "爱背单词",
+        "package_name": "com.sflep.iabc",
+        "file_name": "com.sflep.iabc_468.apk",
+        "app_activity": "com.sflep.iabc.activity.WelcomeAdActivity"
+    },
+    {
+        "app_name": "托福词汇",
+        "package_name": "com.hurryupv.tofel",
+        "file_name": "com.hurryupv.tofel_469.apk",
+        "app_activity": "com.hurryupv.tofel.MainActivity"
+    },
+    {
+        "app_name": "易辅来",
+        "package_name": "com.zhiyunzaiqi.efly",
+        "file_name": "com.zhiyunzaiqi.efly_470.apk",
+        "app_activity": "com.ekwfly.student.MainActivity"
+    },
+    {
+        "app_name": "英语故事App",
+        "package_name": "com.gtr.englishdictumstory",
+        "file_name": "com.gtr.englishdictumstory_471.apk",
+        "app_activity": "com.gtr.englishdictumstory.activity.ActivityAccess"
+    },
+    {
+        "app_name": "考研英语背单词",
+        "package_name": "com.uplus.englishDict",
+        "file_name": "com.uplus.englishDict_472.apk",
+        "app_activity": "com.uplus.englishDict.ui.main.WelcomeActivity"
+    },
+    {
+        "app_name": "英语实用口语5000句",
+        "package_name": "cn.dictcn.android.digitize.hdlg_cqdyj5k_12004",
+        "file_name": "cn.dictcn.android.digitize.hdlg_cqdyj5k_12004_473.apk",
+        "app_activity": "cn.dictcn.android.digitize.activity.StartActivity"
+    },
+    {
+        "app_name": "大思英语软件",
+        "package_name": "com.dasi.elder",
+        "file_name": "com.dasi.elder_474.apk",
+        "app_activity": "com.dasi.elder.MainActivity"
+    },
+    {
+        "app_name": "英语故事",
+        "package_name": "com.yunchuan.englishstore",
+        "file_name": "com.yunchuan.englishstore_475.apk",
+        "app_activity": "com.yunchuan.englishstore.SplashActivity"
+    },
+    {
+        "app_name": "冀教版三上",
+        "package_name": "aureole.en.jj3q.three.up",
+        "file_name": "aureole.en.jj3q.three.up_476.apk",
+        "app_activity": "aureole.en.jj3q.three.up.activity.SplashActivity"
+    },
+    {
+        "app_name": "英语口语秀",
+        "package_name": "com.iyuba.talkshow",
+        "file_name": "com.iyuba.talkshow_477.apk",
+        "app_activity": "com.iyuba.talkshow.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "牛劲小英",
+        "package_name": "com.qianfeng.qianfengapp",
+        "file_name": "com.qianfeng.qianfengapp_478.apk",
+        "app_activity": "com.qianfeng.qianfengapp.activity.startApp.SplashActivity"
+    },
+    {
+        "app_name": "单词播放器",
+        "package_name": "cool.aipie.player.app",
+        "file_name": "cool.aipie.player.app_479.apk",
+        "app_activity": "cool.aipie.cool.app.MainActivity"
+    },
+    {
+        "app_name": "四级单词过过过",
+        "package_name": "com.infhand.sjdcggg",
+        "file_name": "com.infhand.sjdcggg_480.apk",
+        "app_activity": "com.infhand.sjdcggg.DengluActivity"
+    },
+    {
+        "app_name": "iSmart-教师",
+        "package_name": "com.up366.ismartteacher",
+        "file_name": "com.up366.ismartteacher_481.apk",
+        "app_activity": "com.up366.mobile.SplashActivity"
+    },
+    {
+        "app_name": "E微学堂",
+        "package_name": "com.ewxtew",
+        "file_name": "com.ewxtew_482.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "关联背单词",
+        "package_name": "com.amw365.WordStudy",
+        "file_name": "com.amw365.WordStudy_483.apk",
+        "app_activity": "com.embarcadero.firemonkey.FMXNativeActivity"
+    },
+    {
+        "app_name": "图样词根词典",
+        "package_name": "com.tuyang.fm",
+        "file_name": "com.tuyang.fm_484.apk",
+        "app_activity": "com.tuyang.fm.ui.activity.FirstActivity"
+    },
+    {
+        "app_name": "新华字典汉英版-新华字典双语版",
+        "package_name": "com.cpdtlp.xinhuaandroid",
+        "file_name": "com.cpdtlp.xinhuaandroid_485.apk",
+        "app_activity": "com.xinhua.language.wanbang.ui.SplashActivity"
+    },
+    {
+        "app_name": "朗文当代英语学习辞典",
+        "package_name": "cn.dictcn.android.digitize.wys_lwddxscd_8213",
+        "file_name": "cn.dictcn.android.digitize.wys_lwddxscd_8213_486.apk",
+        "app_activity": "cn.dictcn.android.digitize.module.init.ui.InitActivity"
+    },
+    {
+        "app_name": "开口说英语",
+        "package_name": "com.qyapp.abc",
+        "file_name": "com.qyapp.abc_487.apk",
+        "app_activity": "com.qyapp.abc.activity.SplashActivity"
+    },
+    {
+        "app_name": "Pop On",
+        "package_name": "com.wordoor.andr.popon",
+        "file_name": "com.wordoor.andr.popon_488.apk",
+        "app_activity": "com.wordoor.andr.popon.activity.accsplash.AccSplashsActivity"
+    },
+    {
+        "app_name": "单词点读通",
+        "package_name": "plus.H506E1A27",
+        "file_name": "plus.H506E1A27_489.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "剑桥英语小说馆",
+        "package_name": "com.iyuba.camstory",
+        "file_name": "com.iyuba.camstory_490.apk",
+        "app_activity": "com.iyuba.camstory.PrepareActivity"
+    },
+    {
+        "app_name": "优点英语",
+        "package_name": "com.i3uedu.en",
+        "file_name": "com.i3uedu.en_491.apk",
+        "app_activity": "com.i3uedu.en.SplashScreenActivity"
+    },
+    {
+        "app_name": "新标准英语七年级下册",
+        "package_name": "aureole.en.xbz.seven.down",
+        "file_name": "aureole.en.xbz.seven.down_492.apk",
+        "app_activity": "aureole.en.xbz.seven.down.activity.SplashActivity"
+    },
+    {
+        "app_name": "伴学英语听力",
+        "package_name": "com.shengxue.partnerlisten",
+        "file_name": "com.shengxue.partnerlisten_493.apk",
+        "app_activity": "com.shengxue.partnerlisten.MainActivity"
+    },
+    {
+        "app_name": "浩文学英语字母",
+        "package_name": "com.haowenkeji.englishalphabet",
+        "file_name": "com.haowenkeji.englishalphabet_494.apk",
+        "app_activity": "com.haowenkeji.englishalphabet.MainStartActivity"
+    },
+    {
+        "app_name": "威学一百网校",
+        "package_name": "com.weixue.weixue100",
+        "file_name": "com.weixue.weixue100_495.apk",
+        "app_activity": "com.weixue.weixue100.MainActivity"
+    },
+    {
+        "app_name": "口语嘟嘟",
+        "package_name": "com.shenmo.spokid",
+        "file_name": "com.shenmo.spokid_496.apk",
+        "app_activity": "com.shenmo.spokid.MainActivity"
+    },
+    {
+        "app_name": "开始学",
+        "package_name": "com.startsmart.app",
+        "file_name": "com.startsmart.app_497.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": null,
+        "package_name": "com.fxgHVR.lvkesec",
+        "file_name": "com.fxgHVR.lvkesec_498.apk",
+        "app_activity": null
+    },
+    {
+        "app_name": null,
+        "package_name": "com.fxgHVR.lvkethi",
+        "file_name": "com.fxgHVR.lvkethi_499.apk",
+        "app_activity": null
+    },
+    {
+        "app_name": "X mind live",
+        "package_name": "com.project.xmind",
+        "file_name": "com.project.xmind_500.apk",
+        "app_activity": "com.project.xmind.MainActivity"
+    },
+    {
+        "app_name": "新概念英语青少版同步课堂",
+        "package_name": "com.uyutong.xgntbkt",
+        "file_name": "com.uyutong.xgntbkt_501.apk",
+        "app_activity": "com.uyutong.xgntbkt.SplashActivity"
+    },
+    {
+        "app_name": "新概念英语单词同步学",
+        "package_name": "com.uyutong.xgnyydc",
+        "file_name": "com.uyutong.xgnyydc_502.apk",
+        "app_activity": "com.uyutong.xgnyydc.WelcomeActivity"
+    },
+    {
+        "app_name": "雷哥GMAT",
+        "package_name": "org.zywx.wbpalmstar.widgetone.uex11597450",
+        "file_name": "org.zywx.wbpalmstar.widgetone.uex11597450_503.apk",
+        "app_activity": "com.lgw.gmat.activity.launch.SplashActivity"
+    },
+    {
+        "app_name": "苏教小学英语四年级",
+        "package_name": "plus.H50E0660D",
+        "file_name": "plus.H50E0660D_504.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "HelloEnglish",
+        "package_name": "com.hellotalk.helloenglish",
+        "file_name": "com.hellotalk.helloenglish_505.apk",
+        "app_activity": "com.hellotalk.helloenglish.MainActivity"
+    },
+    {
+        "app_name": "赶考状元英语听说",
+        "package_name": "com.gankao.gkenglishhear",
+        "file_name": "com.gankao.gkenglishhear_506.apk",
+        "app_activity": "com.gankao.gkenglishhear.SplashActivity"
+    },
+    {
+        "app_name": "中语智汇",
+        "package_name": "com.platform.education",
+        "file_name": "com.platform.education_507.apk",
+        "app_activity": "com.platform.education.module.other.simple.LaunchActivity"
+    },
+    {
+        "app_name": "大猫英语国际音标",
+        "package_name": "com.mystair.dmyygjyb",
+        "file_name": "com.mystair.dmyygjyb_508.apk",
+        "app_activity": "com.mystair.dmyygjyb.WelcomeActivity"
+    },
+    {
+        "app_name": "超实用旅游英语宝典",
+        "package_name": "cn.dictcn.android.digitize.wys_csylyyybd_8026",
+        "file_name": "cn.dictcn.android.digitize.wys_csylyyybd_8026_509.apk",
+        "app_activity": "cn.dictcn.android.digitize.activity.StartActivity"
+    },
+    {
+        "app_name": "三上智能辅助",
+        "package_name": "aureole.en.pep.three.up",
+        "file_name": "aureole.en.pep.three.up_510.apk",
+        "app_activity": "aureole.en.pep.three.up.activity.SplashActivity"
+    },
+    {
+        "app_name": "英语演讲吧",
+        "package_name": "com.iyuba.tedstub",
+        "file_name": "com.iyuba.tedstub_511.apk",
+        "app_activity": "com.iyuba.voaseries.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "VOA英语特刊",
+        "package_name": "com.iyuba.voaEnglish",
+        "file_name": "com.iyuba.voaEnglish_512.apk",
+        "app_activity": "com.iyuba.voaEnglish.activity.StartActivity"
+    },
+    {
+        "app_name": "大猫小学英语课本点读",
+        "package_name": "com.mystair.dmxxyykbdd",
+        "file_name": "com.mystair.dmxxyykbdd_513.apk",
+        "app_activity": "com.mystair.dmxxyykbdd.WelcomeActivity"
+    },
+    {
+        "app_name": "有声英语阅读",
+        "package_name": "com.bujiadian.etingread",
+        "file_name": "com.bujiadian.etingread_514.apk",
+        "app_activity": "com.bujiadian.etingread.MainActivity"
+    },
+    {
+        "app_name": "冀教版英语四年级下册",
+        "package_name": "aureole.en.jj3q.four.down",
+        "file_name": "aureole.en.jj3q.four.down_515.apk",
+        "app_activity": "aureole.en.jj3q.four.down.activity.SplashActivity"
+    },
+    {
+        "app_name": "新标准英语七年级上册",
+        "package_name": "aureole.en.xbz.seven.up",
+        "file_name": "aureole.en.xbz.seven.up_516.apk",
+        "app_activity": "aureole.en.xbz.seven.up.activity.SplashActivity"
+    },
+    {
+        "app_name": "日常慣用語",
+        "package_name": "com.ko.phrase.enword.cn",
+        "file_name": "com.ko.phrase.enword.cn_517.apk",
+        "app_activity": "com.ko.toeic.enword.cn.StartActivity"
+    },
+    {
+        "app_name": "四級重要單詞",
+        "package_name": "com.ko.cet4.enword.cn",
+        "file_name": "com.ko.cet4.enword.cn_518.apk",
+        "app_activity": "com.ko.toeic.enword.cn.StartActivity"
+    },
+    {
+        "app_name": "懒人英语听力",
+        "package_name": "com.tataera.lazylisten",
+        "file_name": "com.tataera.lazylisten_519.apk",
+        "app_activity": "com.tataera.lazylisten.MainActivity"
+    },
+    {
+        "app_name": "英语星",
+        "package_name": "com.yuduoyou.yuduoyou_app",
+        "file_name": "com.yuduoyou.yuduoyou_app_520.apk",
+        "app_activity": "com.ryanheise.audioservice.AudioServiceActivity"
+    },
+    {
+        "app_name": "迈级剑桥少儿英语同步学",
+        "package_name": "com.mystair.mjjqseyytbx",
+        "file_name": "com.mystair.mjjqseyytbx_521.apk",
+        "app_activity": "com.mystair.mjjqseyytbx.SplashActivity"
+    },
+    {
+        "app_name": "阿卡索口语秀",
+        "package_name": "com.acadsoc.learn",
+        "file_name": "com.acadsoc.learn_522.apk",
+        "app_activity": "com.acadsoc.bootstrapper.pkg.WelcomeVideoActivity"
+    },
+    {
+        "app_name": "冀教版英语三年级下册",
+        "package_name": "aureole.en.jj3q.three.down",
+        "file_name": "aureole.en.jj3q.three.down_523.apk",
+        "app_activity": "aureole.en.jj3q.three.down.activity.SplashActivity"
+    },
+    {
+        "app_name": "单词树",
+        "package_name": "com.ou.wordtree",
+        "file_name": "com.ou.wordtree_524.apk",
+        "app_activity": "com.ou.wordtree.StartActivity"
+    },
+    {
+        "app_name": "每日英语单词",
+        "package_name": "com.yayu.yyxxmryydc",
+        "file_name": "com.yayu.yyxxmryydc_525.apk",
+        "app_activity": "com.yayu.yyxxmryydc.SplashActivity"
+    }
+]

@@ -1,0 +1,1856 @@
+[
+    {
+        "app_name": "胖胖记账",
+        "package_name": "com.anpai.ppjzandroid",
+        "file_name": "com.anpai.ppjzandroid_1.apk",
+        "app_activity": "com.anpai.ppjzandroid.ui.SplashActivity"
+    },
+    {
+        "app_name": "逾期债务分期",
+        "package_name": "com.yqzwfq.hzg",
+        "file_name": "com.yqzwfq.hzg_2.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "债务重组",
+        "package_name": "com.program.dept",
+        "file_name": "com.program.dept_3.apk",
+        "app_activity": "com.program.dept.SplashActivity"
+    },
+    {
+        "app_name": "债务协商重组",
+        "package_name": "com.shunhang.app",
+        "file_name": "com.shunhang.app_4.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "轻松记账",
+        "package_name": "com.jtjsb.easyaccounting",
+        "file_name": "com.jtjsb.easyaccounting_5.apk",
+        "app_activity": "com.jtjsb.easyaccounting.activity.GuidePagesActivity"
+    },
+    {
+        "app_name": "计件王",
+        "package_name": "com.wage.fwage",
+        "file_name": "com.wage.fwage_6.apk",
+        "app_activity": "com.wage.fwage.MainActivity"
+    },
+    {
+        "app_name": "小猪记账",
+        "package_name": "ajz.jzbxq.xq",
+        "file_name": "ajz.jzbxq.xq_7.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "小蓝玛",
+        "package_name": "com.hippo.xlanma",
+        "file_name": "com.hippo.xlanma_8.apk",
+        "app_activity": "com.hippo.xlanma.start.StartPageActivity"
+    },
+    {
+        "app_name": "蜜柚钱包",
+        "package_name": "com.yiwan.miyou",
+        "file_name": "com.yiwan.miyou_9.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "华普财税",
+        "package_name": "com.hp.app.customer",
+        "file_name": "com.hp.app.customer_10.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "卡乐宝",
+        "package_name": "com.yeahka.flagship",
+        "file_name": "com.yeahka.flagship_11.apk",
+        "app_activity": "com.unionpay.msdmiaoshunda.WelcomeActivity"
+    },
+    {
+        "app_name": "收款啦APP-商户服务软件",
+        "package_name": "com.easypay.shoukuanla.dev",
+        "file_name": "com.easypay.shoukuanla.dev_12.apk",
+        "app_activity": "com.shoukuanla.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "记账吧",
+        "package_name": "jizhang.cn.best",
+        "file_name": "jizhang.cn.best_13.apk",
+        "app_activity": "jizhang.cn.best.android.ui.SplashActivity"
+    },
+    {
+        "app_name": "小商店记账助手",
+        "package_name": "com.singxie.xiaoshangdian",
+        "file_name": "com.singxie.xiaoshangdian_14.apk",
+        "app_activity": "com.singxie.xiaoshangdian.ui.activity.MainActivity"
+    },
+    {
+        "app_name": "招财进宝记账",
+        "package_name": "com.zcjbjz.fxm",
+        "file_name": "com.zcjbjz.fxm_15.apk",
+        "app_activity": "com.sxb.new_notebook_two.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "记账全能王",
+        "package_name": "com.jtjsb.jizhangquannengwang",
+        "file_name": "com.jtjsb.jizhangquannengwang_16.apk",
+        "app_activity": "com.jtjsb.jizhangquannengwang.activity.GuidePagesActivity"
+    },
+    {
+        "app_name": "青子记账",
+        "package_name": "com.dandelion.napkin",
+        "file_name": "com.dandelion.napkin_17.apk",
+        "app_activity": "com.dandelion.napkin.activity.MainActivity"
+    },
+    {
+        "app_name": "一羽记账",
+        "package_name": "kylec.me.lightbookkeeping",
+        "file_name": "kylec.me.lightbookkeeping_18.apk",
+        "app_activity": "kylec.me.lightbookkeeping.HomeActivity"
+    },
+    {
+        "app_name": "逾期法律咨询",
+        "package_name": "com.hc.qyflzx",
+        "file_name": "com.hc.qyflzx_19.apk",
+        "app_activity": "com.example.yuqifalproject.MainActivity"
+    },
+    {
+        "app_name": "随身记",
+        "package_name": "com.suishen.jizhang.mymoney",
+        "file_name": "com.suishen.jizhang.mymoney_20.apk",
+        "app_activity": "com.suishen.jizhang.mymoney.ui.ac.StartActivity"
+    },
+    {
+        "app_name": "立即搞定逾期",
+        "package_name": "com.ljclyq.lzd",
+        "file_name": "com.ljclyq.lzd_21.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "可乐记账",
+        "package_name": "com.miaoa.cola",
+        "file_name": "com.miaoa.cola_22.apk",
+        "app_activity": "com.miaoa.cola.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "礼金记事簿",
+        "package_name": "com.gzwst.gift",
+        "file_name": "com.gzwst.gift_23.apk",
+        "app_activity": "com.gzwst.gift.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "巨牛旺铺v2",
+        "package_name": "trade.juniu.wholesalestalls",
+        "file_name": "trade.juniu.wholesalestalls_24.apk",
+        "app_activity": "juniu.trade.wholesalestalls.store.view.ProtocolActivity"
+    },
+    {
+        "app_name": "鲨鱼记账",
+        "package_name": "com.shark.jizhang",
+        "file_name": "com.shark.jizhang_25.apk",
+        "app_activity": "com.shark.jizhang.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "EMMOAccounting",
+        "package_name": "emmo.charge.app",
+        "file_name": "emmo.charge.app_26.apk",
+        "app_activity": "emmo.charge.app.activity.SplashActivity"
+    },
+    {
+        "app_name": "时光记账",
+        "package_name": "com.duorong.smarttool.bill",
+        "file_name": "com.duorong.smarttool.bill_27.apk",
+        "app_activity": "com.duorong.module_main.ui.loading.LoadingActivity"
+    },
+    {
+        "app_name": "小兜记账",
+        "package_name": "com.xiaodou.jz.zs",
+        "file_name": "com.xiaodou.jz.zs_28.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "闪电逾期上岸",
+        "package_name": "com.xycy.sdyqsa",
+        "file_name": "com.xycy.sdyqsa_29.apk",
+        "app_activity": "com.xycy.sdyqsa.MainActivity"
+    },
+    {
+        "app_name": "冬冬管家",
+        "package_name": "com.bangbangr.ddgj",
+        "file_name": "com.bangbangr.ddgj_30.apk",
+        "app_activity": "com.bangbangr.ddgj.MainActivity"
+    },
+    {
+        "app_name": "每账",
+        "package_name": "imz.work.com",
+        "file_name": "imz.work.com_31.apk",
+        "app_activity": "com.qingying.jizhang.jizhang.activity_.FirstActivity"
+    },
+    {
+        "app_name": "咔比荷包",
+        "package_name": "com.ppmm.hebao",
+        "file_name": "com.ppmm.hebao_32.apk",
+        "app_activity": "com.ppmm.hebao.MainActivity"
+    },
+    {
+        "app_name": "金宝多多",
+        "package_name": "com.kxltr.qrkioqjbdd",
+        "file_name": "com.kxltr.qrkioqjbdd_33.apk",
+        "app_activity": "com.relax.game.commongamenew.activity.TransferActivity"
+    },
+    {
+        "app_name": "小鹿记账",
+        "package_name": "evan.hu.accer.accer",
+        "file_name": "evan.hu.accer.accer_34.apk",
+        "app_activity": "evan.hu.accer.accer.MainActivity"
+    },
+    {
+        "app_name": "财务专家",
+        "package_name": "com.caiwu369.main",
+        "file_name": "com.caiwu369.main_35.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "Flash Ledger",
+        "package_name": "com.imzhiqiang.flaaash",
+        "file_name": "com.imzhiqiang.flaaash_36.apk",
+        "app_activity": "com.imzhiqiang.flaaash.MainActivity"
+    },
+    {
+        "app_name": "马上搞定逾期",
+        "package_name": "com.kuanghua.msgdyq",
+        "file_name": "com.kuanghua.msgdyq_37.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "AssetsMgr",
+        "package_name": "com.AssetsMgr",
+        "file_name": "com.AssetsMgr_38.apk",
+        "app_activity": "com.AssetsMgr.MainActivity"
+    },
+    {
+        "app_name": "逾期债务咨询",
+        "package_name": "com.yqzwzx.hzg",
+        "file_name": "com.yqzwzx.hzg_39.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "萌猪记账",
+        "package_name": "com.yzd.habit.itally",
+        "file_name": "com.yzd.habit.itally_40.apk",
+        "app_activity": "com.android.yzd.habit.ui.init.SplashActivity"
+    },
+    {
+        "app_name": "随手记",
+        "package_name": "com.mymoney",
+        "file_name": "com.mymoney_41.apk",
+        "app_activity": "com.mymoney.biz.splash.SplashScreenActivity"
+    },
+    {
+        "app_name": "今日记",
+        "package_name": "com.yxgames.huawei",
+        "file_name": "com.yxgames.huawei_42.apk",
+        "app_activity": "io.github.skywalkerdarren.simpleaccounting.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "点滴记账",
+        "package_name": "com.cssq.account",
+        "file_name": "com.cssq.account_43.apk",
+        "app_activity": "com.cssq.calendar.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "记账本子",
+        "package_name": "com.aokj.moneykeeper",
+        "file_name": "com.aokj.moneykeeper_44.apk",
+        "app_activity": "me.bakumon.moneykeeper.SplashActivityStartUp"
+    },
+    {
+        "app_name": "我的记账本",
+        "package_name": "com.coderpage.mine",
+        "file_name": "com.coderpage.mine_45.apk",
+        "app_activity": "com.coderpage.mine.app.tally.module.home.HomeActivity"
+    },
+    {
+        "app_name": "福娃管家",
+        "package_name": "com.fuwa.agent.com",
+        "file_name": "com.fuwa.agent.com_46.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "牛牛记账",
+        "package_name": "com.junci.jizhang",
+        "file_name": "com.junci.jizhang_47.apk",
+        "app_activity": "com.junci.jizhang.ui.SplashActivity"
+    },
+    {
+        "app_name": "趣玩乐",
+        "package_name": "com.qianshao.funandfun",
+        "file_name": "com.qianshao.funandfun_48.apk",
+        "app_activity": "com.geyou.game.SplashActivity"
+    },
+    {
+        "app_name": "企鹅记账",
+        "package_name": "com.shiyu.qiejizhang",
+        "file_name": "com.shiyu.qiejizhang_49.apk",
+        "app_activity": "com.example.check.MainActivity"
+    },
+    {
+        "app_name": "简洁记账",
+        "package_name": "com.per.notese",
+        "file_name": "com.per.notese_50.apk",
+        "app_activity": "com.per.notese.LoadActivity"
+    },
+    {
+        "app_name": "新中付",
+        "package_name": "com.whty.xzfpos",
+        "file_name": "com.whty.xzfpos_51.apk",
+        "app_activity": "com.whty.xzfpos.activity.StartActivity"
+    },
+    {
+        "app_name": "悠悠记账",
+        "package_name": "com.android.box.youyou",
+        "file_name": "com.android.box.youyou_52.apk",
+        "app_activity": "com.toolbox.box.MainActivity"
+    },
+    {
+        "app_name": "个人记账",
+        "package_name": "jhj.jzm.jsz",
+        "file_name": "jhj.jzm.jsz_53.apk",
+        "app_activity": "com.zy.app.xzappcollection.StartActivity"
+    },
+    {
+        "app_name": "小芳记账",
+        "package_name": "com.xfjz.ssy",
+        "file_name": "com.xfjz.ssy_54.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "阿柴记账",
+        "package_name": "com.android.miaoa.achai",
+        "file_name": "com.android.miaoa.achai_55.apk",
+        "app_activity": "com.android.miaoa.achai.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "发发记账",
+        "package_name": "com.uni88jizhang",
+        "file_name": "com.uni88jizhang_56.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "蘑菇记账",
+        "package_name": "com.ft.account",
+        "file_name": "com.ft.account_57.apk",
+        "app_activity": "com.ft.account.MainActivity"
+    },
+    {
+        "app_name": "记个帐",
+        "package_name": "com.jigezhang.jgz",
+        "file_name": "com.jigezhang.jgz_58.apk",
+        "app_activity": "com.jigezhang.jgz.features.welcome.view.WelcomeActivity"
+    },
+    {
+        "app_name": "微商计算器",
+        "package_name": "com.wsjsq_rn_app",
+        "file_name": "com.wsjsq_rn_app_59.apk",
+        "app_activity": "com.wsjsq_rn_app.MainActivity"
+    },
+    {
+        "app_name": "手机记账本",
+        "package_name": "com.bookkp.accountzy",
+        "file_name": "com.bookkp.accountzy_60.apk",
+        "app_activity": "com.zhangying.cb.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "简记账",
+        "package_name": "zibo.xinshang.jizhang",
+        "file_name": "zibo.xinshang.jizhang_61.apk",
+        "app_activity": "com.xishang.jizhangj.ym.YSZCActivity"
+    },
+    {
+        "app_name": "人情笔记",
+        "package_name": "com.humannote.me",
+        "file_name": "com.humannote.me_62.apk",
+        "app_activity": "com.humannote.me.activity.StartActivity"
+    },
+    {
+        "app_name": "奇妙记账",
+        "package_name": "com.iorest.account",
+        "file_name": "com.iorest.account_63.apk",
+        "app_activity": "com.iorest.account.MainActivity"
+    },
+    {
+        "app_name": "小账本",
+        "package_name": "com.xzhangben.android",
+        "file_name": "com.xzhangben.android_64.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "豆豆钻",
+        "package_name": "doudou.zuan.zyhdzqwdx",
+        "file_name": "doudou.zuan.zyhdzqwdx_65.apk",
+        "app_activity": "com.sxb.new_tool_14.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "信用之家",
+        "package_name": "yc.xyzjapp.tech",
+        "file_name": "yc.xyzjapp.tech_66.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "小鱼记账",
+        "package_name": "com.bill.record.fish",
+        "file_name": "com.bill.record.fish_67.apk",
+        "app_activity": "com.bill.record.fish.launch.LaunchTransferActivity"
+    },
+    {
+        "app_name": "贷款逾期处理平台",
+        "package_name": "com.cqszm.dkyqcl",
+        "file_name": "com.cqszm.dkyqcl_68.apk",
+        "app_activity": "com.cqszm.zwyqjjcs.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "虾米账本",
+        "package_name": "com.shengan.account",
+        "file_name": "com.shengan.account_69.apk",
+        "app_activity": "com.shengan.account.MainActivity"
+    },
+    {
+        "app_name": "包你生财",
+        "package_name": "com.ruike.bnsc",
+        "file_name": "com.ruike.bnsc_70.apk",
+        "app_activity": "com.lingdong.gm.activity.GMWebActivity"
+    },
+    {
+        "app_name": "羊羊得亿",
+        "package_name": "com.ruike.yydy",
+        "file_name": "com.ruike.yydy_71.apk",
+        "app_activity": "com.lingdong.gm.activity.GMWebActivity"
+    },
+    {
+        "app_name": "慢慢存钱",
+        "package_name": "com.phoenixtree.mmdeposit",
+        "file_name": "com.phoenixtree.mmdeposit_72.apk",
+        "app_activity": "com.phoenixtree.mmdeposit.MainActivity"
+    },
+    {
+        "app_name": "小蓝玛托管版",
+        "package_name": "com.rincers.hemaapp",
+        "file_name": "com.rincers.hemaapp_73.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "有鱼记账",
+        "package_name": "com.jz.youyu",
+        "file_name": "com.jz.youyu_74.apk",
+        "app_activity": "com.caiyi.accounting.jz.StartActivity"
+    },
+    {
+        "app_name": "团团记账",
+        "package_name": "com.gameley.ttjz",
+        "file_name": "com.gameley.ttjz_75.apk",
+        "app_activity": "com.gameley.ttjz.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "标准记账",
+        "package_name": "com.lankawei.accountbook",
+        "file_name": "com.lankawei.accountbook_76.apk",
+        "app_activity": "com.lankawei.accountbook.ui.activity.StartpageActivity"
+    },
+    {
+        "app_name": "巴拉记账",
+        "package_name": "com.capybara.account.android",
+        "file_name": "com.capybara.account.android_77.apk",
+        "app_activity": "com.ds.watermark.cam.android.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "嘟嘟记账",
+        "package_name": "com.dudu.jizhang",
+        "file_name": "com.dudu.jizhang_78.apk",
+        "app_activity": "com.dudu.jizhang.MainActivity"
+    },
+    {
+        "app_name": "小小账本",
+        "package_name": "com.richbooks.foryou",
+        "file_name": "com.richbooks.foryou_79.apk",
+        "app_activity": "com.richbooks.foryou.main.view.MainAct"
+    },
+    {
+        "app_name": "财务记账收支账本管家",
+        "package_name": "com.cn.shuangzi.account",
+        "file_name": "com.cn.shuangzi.account_80.apk",
+        "app_activity": "com.cn.shuangzi.account.activity.SplashActivity"
+    },
+    {
+        "app_name": "快售宝",
+        "package_name": "com.fastsales.phtill",
+        "file_name": "com.fastsales.phtill_81.apk",
+        "app_activity": "cn.moresales.fastsales.android.MainActivity"
+    },
+    {
+        "app_name": "亲兄弟",
+        "package_name": "com.ensoft.finance",
+        "file_name": "com.ensoft.finance_82.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "早晚记账",
+        "package_name": "com.dodoyoweet.accounts",
+        "file_name": "com.dodoyoweet.accounts_83.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "云资企业财资数字化平台",
+        "package_name": "com.cmbchina.cbspro",
+        "file_name": "com.cmbchina.cbspro_84.apk",
+        "app_activity": "com.cmbchina.cbspro.login.view.activity.FirstActivity"
+    },
+    {
+        "app_name": "日常记录开支",
+        "package_name": "jij.zan.ben",
+        "file_name": "jij.zan.ben_85.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "新阳记账",
+        "package_name": "com.eureka.bill",
+        "file_name": "com.eureka.bill_86.apk",
+        "app_activity": "com.eureka.common.ui.start.SplashActivity"
+    },
+    {
+        "app_name": "小时工记账宝",
+        "package_name": "com.lida.xiaoshigongjizhang",
+        "file_name": "com.lida.xiaoshigongjizhang_87.apk",
+        "app_activity": "com.lida.xiaoshigongjizhang.activity.SplashActivity"
+    },
+    {
+        "app_name": "债务好商量",
+        "package_name": "com.zwhaoshangliang.android",
+        "file_name": "com.zwhaoshangliang.android_88.apk",
+        "app_activity": "com.zwhaoshangliang.android.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "K米商户通",
+        "package_name": "com.ktvme.kmmanager",
+        "file_name": "com.ktvme.kmmanager_89.apk",
+        "app_activity": "com.evideo.kmanager.activity.AppSplashActivity"
+    },
+    {
+        "app_name": "葫芦商家",
+        "package_name": "com.hulupos.pay.merchant",
+        "file_name": "com.hulupos.pay.merchant_90.apk",
+        "app_activity": "com.hulupos.pay.merchant.MainActivity"
+    },
+    {
+        "app_name": "章鱼记账",
+        "package_name": "com.shengjue.cashbook",
+        "file_name": "com.shengjue.cashbook_91.apk",
+        "app_activity": "com.hjq.demo.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "JRCB收银宝",
+        "package_name": "com.landicorp.jyrcb.payment",
+        "file_name": "com.landicorp.jyrcb.payment_92.apk",
+        "app_activity": "com.landicorp.china.payment.view.login.SplashActivity"
+    },
+    {
+        "app_name": "聚宝记账",
+        "package_name": "com.xr.jubaojizhang",
+        "file_name": "com.xr.jubaojizhang_93.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "钱小宝",
+        "package_name": "com.yiwan.qxb",
+        "file_name": "com.yiwan.qxb_94.apk",
+        "app_activity": "com.qcqc.jkm.activity.SplashActivity"
+    },
+    {
+        "app_name": "全家记账软件",
+        "package_name": "com.yuanli.KeepingBook",
+        "file_name": "com.yuanli.KeepingBook_95.apk",
+        "app_activity": "com.yuanli.KeepingBook.mvp.ui.activity.StartpageActivity"
+    },
+    {
+        "app_name": "工时记账",
+        "package_name": "aqkj.ohuhl.hjlhxg",
+        "file_name": "aqkj.ohuhl.hjlhxg_96.apk",
+        "app_activity": "com.example.module_launch.LauncherActivity"
+    },
+    {
+        "app_name": "邦记账",
+        "package_name": "com.bmago.bmajizhang",
+        "file_name": "com.bmago.bmajizhang_97.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "有喔记账",
+        "package_name": "com.suzi.youwo",
+        "file_name": "com.suzi.youwo_98.apk",
+        "app_activity": "com.suzi.youwo.MainActivity"
+    },
+    {
+        "app_name": "到账吧",
+        "package_name": "com.wddz.dzb",
+        "file_name": "com.wddz.dzb_99.apk",
+        "app_activity": "com.wddz.dzb.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "快售云商",
+        "package_name": "com.fastsales.phtill.erp",
+        "file_name": "com.fastsales.phtill.erp_100.apk",
+        "app_activity": "cn.moresales.fastsales.android.MainActivity"
+    },
+    {
+        "app_name": "女生记账",
+        "package_name": "com.missu.bill",
+        "file_name": "com.missu.bill_101.apk",
+        "app_activity": "com.missu.bill.SplashActivity"
+    },
+    {
+        "app_name": "记账小账",
+        "package_name": "com.ttjz",
+        "file_name": "com.ttjz_102.apk",
+        "app_activity": "com.caiyi.accounting.jz.StartActivity"
+    },
+    {
+        "app_name": "马上帮你要债",
+        "package_name": "com.fx.gdjdjf",
+        "file_name": "com.fx.gdjdjf_103.apk",
+        "app_activity": "com.fx.gdjdjf.MainActivity"
+    },
+    {
+        "app_name": "好好记账",
+        "package_name": "com.wihaohao.account",
+        "file_name": "com.wihaohao.account_104.apk",
+        "app_activity": "com.wihaohao.account.SplashActivity"
+    },
+    {
+        "app_name": "金攒攒",
+        "package_name": "com.jinzanzan.app",
+        "file_name": "com.jinzanzan.app_105.apk",
+        "app_activity": "com.jinzanzan.app.MainActivity"
+    },
+    {
+        "app_name": "逾期免费咨询",
+        "package_name": "com.yqmfzx.lzy",
+        "file_name": "com.yqmfzx.lzy_106.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "橙子记账",
+        "package_name": "cn.xuncnet.jizhang",
+        "file_name": "cn.xuncnet.jizhang_107.apk",
+        "app_activity": "cn.xuncnet.jizhang.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "记账鸭",
+        "package_name": "com.denglin.duck",
+        "file_name": "com.denglin.duck_108.apk",
+        "app_activity": "com.denglin.duck.feature.main.MainActivity"
+    },
+    {
+        "app_name": "微银记账",
+        "package_name": "com.wyjizhang.app",
+        "file_name": "com.wyjizhang.app_109.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "日常记",
+        "package_name": "com.xuesi.richangji.one",
+        "file_name": "com.xuesi.richangji.one_110.apk",
+        "app_activity": "com.xuesi.richangji.LauncherActivity"
+    },
+    {
+        "app_name": "钟点工记账",
+        "package_name": "com.yuejia.hourlyworkerbook",
+        "file_name": "com.yuejia.hourlyworkerbook_111.apk",
+        "app_activity": "com.yuejia.hourlyworkerbook.mvp.ui.activity.other.WelcomeActivity"
+    },
+    {
+        "app_name": "原点印记",
+        "package_name": "com.yjhui.accountbook",
+        "file_name": "com.yjhui.accountbook_112.apk",
+        "app_activity": "com.yjhui.accountbook.activity.FingerprintActivity"
+    },
+    {
+        "app_name": "小数据记账",
+        "package_name": "com.zingking.smalldata",
+        "file_name": "com.zingking.smalldata_113.apk",
+        "app_activity": "com.zingking.smalldata.activity.SplashActivity"
+    },
+    {
+        "app_name": "账有书流水记账软件",
+        "package_name": "com.zyoushu.zyoushuapp",
+        "file_name": "com.zyoushu.zyoushuapp_114.apk",
+        "app_activity": "com.zyoushu.zyoushuapp.MainActivity"
+    },
+    {
+        "app_name": "锦鲤记账",
+        "package_name": "com.hongfan.koiaccounting",
+        "file_name": "com.hongfan.koiaccounting_115.apk",
+        "app_activity": "com.hongfan.koiaccounting.feature.splash.SplashActivity"
+    },
+    {
+        "app_name": "喵喵账密",
+        "package_name": "com.miaomiao.hcyhhsj",
+        "file_name": "com.miaomiao.hcyhhsj_116.apk",
+        "app_activity": "com.miaomiao.hcyhhsj.activity.StartActivity"
+    },
+    {
+        "app_name": "萝卜记账",
+        "package_name": "com.maisidun.account",
+        "file_name": "com.maisidun.account_117.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "Mini记账",
+        "package_name": "com.miniexp.prod",
+        "file_name": "com.miniexp.prod_118.apk",
+        "app_activity": "com.miniexp.prod.MainActivity"
+    },
+    {
+        "app_name": "欠款纠纷处理",
+        "package_name": "com.cdlex.qkjfcl",
+        "file_name": "com.cdlex.qkjfcl_119.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "云手账",
+        "package_name": "com.yunshouzhang.benben",
+        "file_name": "com.yunshouzhang.benben_120.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "嘉联支付",
+        "package_name": "com.jlpay.merch",
+        "file_name": "com.jlpay.merch_121.apk",
+        "app_activity": "com.jlpay.merch.ui.start.SplashActivity"
+    },
+    {
+        "app_name": "简易家庭记账本",
+        "package_name": "com.xiaodong.aijizhang",
+        "file_name": "com.xiaodong.aijizhang_122.apk",
+        "app_activity": "com.xiaodong.aijizhang.LogoActivity"
+    },
+    {
+        "app_name": "小花记账",
+        "package_name": "com.leofitz7.leopold_flutter",
+        "file_name": "com.leofitz7.leopold_flutter_123.apk",
+        "app_activity": "com.leofitz7.leopold_flutter.MainActivity"
+    },
+    {
+        "app_name": "记账有宝",
+        "package_name": "com.yshb.acount",
+        "file_name": "com.yshb.acount_124.apk",
+        "app_activity": "com.yshb.acount.activity.SplashActivity"
+    },
+    {
+        "app_name": "方圆记账",
+        "package_name": "cn.treeso.fybook",
+        "file_name": "cn.treeso.fybook_125.apk",
+        "app_activity": "cn.treeso.fybook.ui.main.BookMainActivity"
+    },
+    {
+        "app_name": "新付宝",
+        "package_name": "com.hhbpay.dypay",
+        "file_name": "com.hhbpay.dypay_126.apk",
+        "app_activity": "com.hhbpay.dypay.ui.start.SplashActivity"
+    },
+    {
+        "app_name": "小贝记账",
+        "package_name": "com.liangze.xiaobeiaccount",
+        "file_name": "com.liangze.xiaobeiaccount_127.apk",
+        "app_activity": "com.liangze.xiaobeiaccount.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "随身记账",
+        "package_name": "com.zlkj.ssjzrj",
+        "file_name": "com.zlkj.ssjzrj_128.apk",
+        "app_activity": "com.zlkj.ssjzrj.MainActivity"
+    },
+    {
+        "app_name": "槿之华年",
+        "package_name": "com.life_helper_app",
+        "file_name": "com.life_helper_app_129.apk",
+        "app_activity": "com.life_helper_app.MainActivity"
+    },
+    {
+        "app_name": "Billbook记账",
+        "package_name": "com.billbook.android",
+        "file_name": "com.billbook.android_130.apk",
+        "app_activity": "com.billbook.android.ui.main.MainActivity"
+    },
+    {
+        "app_name": "联合记账王",
+        "package_name": "com.cssqyuejia.unionbook",
+        "file_name": "com.cssqyuejia.unionbook_131.apk",
+        "app_activity": "com.cssqyuejia.unionbook.ui.SplashActivity"
+    },
+    {
+        "app_name": "记账备忘录精灵",
+        "package_name": "com.yanmen.bookkeeping.master",
+        "file_name": "com.yanmen.bookkeeping.master_132.apk",
+        "app_activity": "com.yanmen.bookkeeping.master.ui.start.QnetStartActivity"
+    },
+    {
+        "app_name": "好猫记账",
+        "package_name": "com.jqmotee.money.save.keep.moneysaver",
+        "file_name": "com.jqmotee.money.save.keep.moneysaver_133.apk",
+        "app_activity": "com.jqmotee.money.save.keep.moneysaver.MainActivity"
+    },
+    {
+        "app_name": "Cookie记账",
+        "package_name": "com.lgzkmbg.cojz",
+        "file_name": "com.lgzkmbg.cojz_134.apk",
+        "app_activity": "com.sxb.new_bookkeeping_1.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "豆芽账",
+        "package_name": "com.douyazhang.app",
+        "file_name": "com.douyazhang.app_135.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "来记账",
+        "package_name": "com.xishuai.aijizhang",
+        "file_name": "com.xishuai.aijizhang_136.apk",
+        "app_activity": "com.example.flutter_account_module.MainActivity"
+    },
+    {
+        "app_name": "e还宝",
+        "package_name": "com.yuexiu.amc.pams",
+        "file_name": "com.yuexiu.amc.pams_137.apk",
+        "app_activity": "com.yuexiu.amc.pams.MainActivity"
+    },
+    {
+        "app_name": "账明",
+        "package_name": "com.farplace.zm",
+        "file_name": "com.farplace.zm_138.apk",
+        "app_activity": "com.farplace.zm.MainActivity"
+    },
+    {
+        "app_name": "小小助会员",
+        "package_name": "com.masxxz.member",
+        "file_name": "com.masxxz.member_139.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "爱记账",
+        "package_name": "com.yuejia.likebookkeeping",
+        "file_name": "com.yuejia.likebookkeeping_140.apk",
+        "app_activity": "com.yuejia.likebookkeeping.mvp.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "汇丰汇选",
+        "package_name": "com.hsbcfts.fintechapp",
+        "file_name": "com.hsbcfts.fintechapp_141.apk",
+        "app_activity": "com.hsbcfts.fintechapp.OpenDisplayActivity"
+    },
+    {
+        "app_name": "富盈满满",
+        "package_name": "com.rich.fullfymm",
+        "file_name": "com.rich.fullfymm_142.apk",
+        "app_activity": "com.xmiles.game.commongamenew.activity.TransferActivity"
+    },
+    {
+        "app_name": "债务规划重组",
+        "package_name": "com.zwgh.lzw",
+        "file_name": "com.zwgh.lzw_143.apk",
+        "app_activity": "com.js_tools.common_app.ui.flash.FlashActivity"
+    },
+    {
+        "app_name": "小钱庄记账本",
+        "package_name": "com.xqzsoft.xqzMoney",
+        "file_name": "com.xqzsoft.xqzMoney_144.apk",
+        "app_activity": "com.embarcadero.firemonkey.FMXNativeActivity"
+    },
+    {
+        "app_name": "疯狂账单",
+        "package_name": "com.crazy.money",
+        "file_name": "com.crazy.money_145.apk",
+        "app_activity": "com.crazy.money.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "记账财务通",
+        "package_name": "com.zhwt.job",
+        "file_name": "com.zhwt.job_146.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "天天记账",
+        "package_name": "com.on.accounton",
+        "file_name": "com.on.accounton_147.apk",
+        "app_activity": "com.on.accounton.activity.SplashAct"
+    },
+    {
+        "app_name": "口袋记账",
+        "package_name": "com.qeeniao.mobile.kdjz",
+        "file_name": "com.qeeniao.mobile.kdjz_148.apk",
+        "app_activity": "com.qeeniao.mobile.kdjz.BlankActivity"
+    },
+    {
+        "app_name": "天天记账本",
+        "package_name": "com.cstoolsaccount.everyday",
+        "file_name": "com.cstoolsaccount.everyday_149.apk",
+        "app_activity": "com.tools.app.MainActivity"
+    },
+    {
+        "app_name": "自动记账指尖管家",
+        "package_name": "com.tjrd.aizdjz",
+        "file_name": "com.tjrd.aizdjz_150.apk",
+        "app_activity": "com.tm.handbill.WelcomeActivity"
+    },
+    {
+        "app_name": "立刻搞定逾期",
+        "package_name": "com.clzq.lkgdyq",
+        "file_name": "com.clzq.lkgdyq_151.apk",
+        "app_activity": "com.clzq.lkgdyq.MainActivity"
+    },
+    {
+        "app_name": "逾期宝",
+        "package_name": "com.yuqi.yuqibao",
+        "file_name": "com.yuqi.yuqibao_152.apk",
+        "app_activity": "com.iccapp.implement_module_overdue.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "OK就餐",
+        "package_name": "com.blemall.okpayment.eat",
+        "file_name": "com.blemall.okpayment.eat_153.apk",
+        "app_activity": "com.mr.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "恋恋记账",
+        "package_name": "com.charm.bookkeeping",
+        "file_name": "com.charm.bookkeeping_154.apk",
+        "app_activity": "com.charm.bookkeeping.activity.SplashActivity"
+    },
+    {
+        "app_name": "三个管家",
+        "package_name": "com.wzdxy.ledger",
+        "file_name": "com.wzdxy.ledger_155.apk",
+        "app_activity": "com.wzdxy.ledger.MainActivity"
+    },
+    {
+        "app_name": "喵喵记账",
+        "package_name": "com.youqi.miaomiao",
+        "file_name": "com.youqi.miaomiao_156.apk",
+        "app_activity": "com.lanniser.kittykeeping.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "恒慧记",
+        "package_name": "com.wingcloud.tax",
+        "file_name": "com.wingcloud.tax_157.apk",
+        "app_activity": "com.wingcloud.tax.MainActivity"
+    },
+    {
+        "app_name": "盈收收展业版",
+        "package_name": "com.youlipay.yss",
+        "file_name": "com.youlipay.yss_158.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "柠檬云财务",
+        "package_name": "com.wta.NewCloudApp.jiuwei117478",
+        "file_name": "com.wta.NewCloudApp.jiuwei117478_159.apk",
+        "app_activity": "com.wta.NewCloudApp.activity.SplashActivity"
+    },
+    {
+        "app_name": "会员宝Pro",
+        "package_name": "com.hybunion.hybpro",
+        "file_name": "com.hybunion.hybpro_160.apk",
+        "app_activity": "com.hybunion.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "卡秘会员卡记账",
+        "package_name": "com.dear.deer.foundation.card_secret",
+        "file_name": "com.dear.deer.foundation.card_secret_161.apk",
+        "app_activity": "com.dear.deer.foundation.card_secret.splash.SplashActivity"
+    },
+    {
+        "app_name": "小熊记账",
+        "package_name": "com.lvxingetch.antledger",
+        "file_name": "com.lvxingetch.antledger_162.apk",
+        "app_activity": "com.lvxingetch.antledger.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "同花顺投资账本",
+        "package_name": "com.hexin.zhanghu",
+        "file_name": "com.hexin.zhanghu_163.apk",
+        "app_activity": "com.hexin.zhanghu.main.WelcomeActivity"
+    },
+    {
+        "app_name": "简约记账",
+        "package_name": "com.yhqx.account",
+        "file_name": "com.yhqx.account_164.apk",
+        "app_activity": "com.yhqx.account.activity.SplashActivity"
+    },
+    {
+        "app_name": "闪挣",
+        "package_name": "com.shanzheng.cslgsd",
+        "file_name": "com.shanzheng.cslgsd_165.apk",
+        "app_activity": "com.vtb.vtbbookkeeping.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "卡牛信用管家",
+        "package_name": "com.mymoney.sms",
+        "file_name": "com.mymoney.sms_166.apk",
+        "app_activity": "com.mymoney.sms.ui.SplashActivity"
+    },
+    {
+        "app_name": "君子爱财",
+        "package_name": "com.tomoney.finance",
+        "file_name": "com.tomoney.finance_167.apk",
+        "app_activity": "com.tomoney.finance.view.WelcomeActivity"
+    },
+    {
+        "app_name": "女神记账",
+        "package_name": "com.cssqyuejia.unionbookwomen",
+        "file_name": "com.cssqyuejia.unionbookwomen_168.apk",
+        "app_activity": "com.cssqyuejia.unionbook.ui.SplashActivity"
+    },
+    {
+        "app_name": "图图记账软件",
+        "package_name": "awed.zse.cqa",
+        "file_name": "awed.zse.cqa_169.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "湘管家",
+        "package_name": "com.xcsc.ygapp",
+        "file_name": "com.xcsc.ygapp_170.apk",
+        "app_activity": "com.xcsc.ygapp.MainActivity"
+    },
+    {
+        "app_name": "手帐随心记",
+        "package_name": "com.tm.appbill",
+        "file_name": "com.tm.appbill_171.apk",
+        "app_activity": "com.tm.handbill.WelcomeActivity"
+    },
+    {
+        "app_name": "平安银行收银宝",
+        "package_name": "com.pingan.cashier",
+        "file_name": "com.pingan.cashier_172.apk",
+        "app_activity": "com.pingan.launcher.loading.PALoadingActivity"
+    },
+    {
+        "app_name": "记账日笔记本",
+        "package_name": "com.cn.xiangmaikeji.account",
+        "file_name": "com.cn.xiangmaikeji.account_173.apk",
+        "app_activity": "com.cn.xiangmaikeji.account.activity.SplashActivity"
+    },
+    {
+        "app_name": "Remember BookKeeping",
+        "package_name": "com.weimu.remember.bookkeeping",
+        "file_name": "com.weimu.remember.bookkeeping_174.apk",
+        "app_activity": "com.weimu.remember.bookkeeping.MainActivity"
+    },
+    {
+        "app_name": "记账帮",
+        "package_name": "com.qishu.ledgerhelp",
+        "file_name": "com.qishu.ledgerhelp_175.apk",
+        "app_activity": "com.lvxingetch.antledger.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "公司账",
+        "package_name": "com.app.gsz",
+        "file_name": "com.app.gsz_176.apk",
+        "app_activity": "com.app.gsz_app.MainActivity"
+    },
+    {
+        "app_name": "极速记账",
+        "package_name": "com.money.ai",
+        "file_name": "com.money.ai_177.apk",
+        "app_activity": "com.money.ai.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "联动pay",
+        "package_name": "com.tentcoo.linkage.merchants",
+        "file_name": "com.tentcoo.linkage.merchants_178.apk",
+        "app_activity": "com.tentcoo.changshua.merchants.ui.activity.other.SpalshActivity"
+    },
+    {
+        "app_name": "仓巴记账",
+        "package_name": "com.hqxd.cangbajizhang",
+        "file_name": "com.hqxd.cangbajizhang_179.apk",
+        "app_activity": "com.hqxd.cangbajizhang.activity.common.HomeActivity"
+    },
+    {
+        "app_name": "赊账记账",
+        "package_name": "com.xiangcunruanjian.charge",
+        "file_name": "com.xiangcunruanjian.charge_180.apk",
+        "app_activity": "com.xiangcunruanjian.charge.LoginActivity"
+    },
+    {
+        "app_name": "一木记账",
+        "package_name": "com.wangc.bill",
+        "file_name": "com.wangc.bill_181.apk",
+        "app_activity": "com.wangc.bill.activity.MainActivity"
+    },
+    {
+        "app_name": "家庭流水账",
+        "package_name": "com.gengyun.AFamilyDiary",
+        "file_name": "com.gengyun.AFamilyDiary_182.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "通联好老板",
+        "package_name": "com.merservice.client.release",
+        "file_name": "com.merservice.client.release_183.apk",
+        "app_activity": "com.merservice.client.ui.activity.guest.SplashActivity"
+    },
+    {
+        "app_name": "易科商户版",
+        "package_name": "com.yipiao.merchant",
+        "file_name": "com.yipiao.merchant_184.apk",
+        "app_activity": "cn.qtopay.ek.launch.AppLaunchActivity"
+    },
+    {
+        "app_name": "包拯要债",
+        "package_name": "com.yz.bzyz",
+        "file_name": "com.yz.bzyz_185.apk",
+        "app_activity": "com.yz.bzyz.MainActivity"
+    },
+    {
+        "app_name": "飞鸭记账",
+        "package_name": "com.feiya.accounting",
+        "file_name": "com.feiya.accounting_186.apk",
+        "app_activity": "com.feiya.accounting.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "海豚记账",
+        "package_name": "com.daydream.htkeeping",
+        "file_name": "com.daydream.htkeeping_187.apk",
+        "app_activity": "com.daydream.htkeeping.MainActivity"
+    },
+    {
+        "app_name": "装修记账",
+        "package_name": "com.mobivans.decorationcharge",
+        "file_name": "com.mobivans.decorationcharge_188.apk",
+        "app_activity": "com.mobivans.decorationcharge.activity.BootActivity"
+    },
+    {
+        "app_name": "记账小本",
+        "package_name": "com.wulitu.xiaoben",
+        "file_name": "com.wulitu.xiaoben_189.apk",
+        "app_activity": "com.wulitu.xiaoben.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "金橘记账",
+        "package_name": "me.xgmm.app",
+        "file_name": "me.xgmm.app_190.apk",
+        "app_activity": "me.xgmm.app.MainActivity"
+    },
+    {
+        "app_name": "钱罐爸爸",
+        "package_name": "com.yiwan.qgbb",
+        "file_name": "com.yiwan.qgbb_191.apk",
+        "app_activity": "com.qcqc.jkm.activity.SplashActivity"
+    },
+    {
+        "app_name": "GoDutch",
+        "package_name": "com.momostudio.godutch",
+        "file_name": "com.momostudio.godutch_192.apk",
+        "app_activity": "com.momostudio.godutch.AccountBookDetailActivity"
+    },
+    {
+        "app_name": "微记账",
+        "package_name": "yyzy.grjz.uhgda",
+        "file_name": "yyzy.grjz.uhgda_193.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "一鹿生财",
+        "package_name": "com.shuyuan.ylsc",
+        "file_name": "com.shuyuan.ylsc_194.apk",
+        "app_activity": "com.lingdong.gm.activity.GMWebActivity"
+    },
+    {
+        "app_name": "星驿付",
+        "package_name": "com.gtxy.yyf.hy",
+        "file_name": "com.gtxy.yyf.hy_195.apk",
+        "app_activity": "com.gtxy.yyf.hy.view.activity.loginbefore.StartPageActivity"
+    },
+    {
+        "app_name": "易工家",
+        "package_name": "com.workinghours",
+        "file_name": "com.workinghours_196.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "女生随手记",
+        "package_name": "com.ledger.freed",
+        "file_name": "com.ledger.freed_197.apk",
+        "app_activity": "com.ledger.freed.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "一键批量转账",
+        "package_name": "www.v1trans.top.www1trans",
+        "file_name": "www.v1trans.top.www1trans_198.apk",
+        "app_activity": "www.v1trans.top.www1trans.MainActivity"
+    },
+    {
+        "app_name": "流星守愿",
+        "package_name": "com.plumpbreakth.blund",
+        "file_name": "com.plumpbreakth.blund_199.apk",
+        "app_activity": "com.air.stepward.module.lauch.AliasMainActivity"
+    },
+    {
+        "app_name": "快速记账",
+        "package_name": "com.zhangwenshuan.dreamer",
+        "file_name": "com.zhangwenshuan.dreamer_200.apk",
+        "app_activity": "com.zhangwenshuan.dreamer.activity.PermissionActivity"
+    },
+    {
+        "app_name": "旺财记账",
+        "package_name": "com.jtjsb.wangcai",
+        "file_name": "com.jtjsb.wangcai_201.apk",
+        "app_activity": "com.jtjsb.wangcai.activity.GuidePagesActivity"
+    },
+    {
+        "app_name": "随时记账",
+        "package_name": "com.account.fanghe",
+        "file_name": "com.account.fanghe_202.apk",
+        "app_activity": "com.example.unimpdemo.activity.BootActivity"
+    },
+    {
+        "app_name": "账款管家",
+        "package_name": "com.penk.zkgj",
+        "file_name": "com.penk.zkgj_203.apk",
+        "app_activity": "com.penk.zkgj.MainActivity"
+    },
+    {
+        "app_name": "手机记账管家",
+        "package_name": "com.guangerbai.jizhang",
+        "file_name": "com.guangerbai.jizhang_204.apk",
+        "app_activity": "com.tongbingshuang.scb.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "超级台账",
+        "package_name": "uni.UNI6FD9F06",
+        "file_name": "uni.UNI6FD9F06_205.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "石头记账",
+        "package_name": "com.stone.bill",
+        "file_name": "com.stone.bill_206.apk",
+        "app_activity": "com.tyj.note.advertise.view.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "记账喵",
+        "package_name": "com.prlabnt.vaddlkgp",
+        "file_name": "com.prlabnt.vaddlkgp_207.apk",
+        "app_activity": "com.prlabnt.vaddlkgp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "钱迹",
+        "package_name": "com.mutangtech.qianji",
+        "file_name": "com.mutangtech.qianji_209.apk",
+        "app_activity": "com.mutangtech.qianji.ui.main.MainActivity"
+    },
+    {
+        "app_name": "随心记账",
+        "package_name": "com.zn98.suixinjizhang",
+        "file_name": "com.zn98.suixinjizhang_210.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "乐刷渠道版",
+        "package_name": "com.yeahka.lob.place",
+        "file_name": "com.yeahka.lob.place_211.apk",
+        "app_activity": "com.yeahka.android.shoufubei.core.welcome.LauncherActivity"
+    },
+    {
+        "app_name": "人生成长记录",
+        "package_name": "as.sa.qazxswd",
+        "file_name": "as.sa.qazxswd_212.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "情侣记账本",
+        "package_name": "com.hazn.mykqpyfw",
+        "file_name": "com.hazn.mykqpyfw_213.apk",
+        "app_activity": "com.fwlst.module_splash.SplashActivity"
+    },
+    {
+        "app_name": "每日记加班",
+        "package_name": "qzrj.htne.fgfkou",
+        "file_name": "qzrj.htne.fgfkou_214.apk",
+        "app_activity": "com.example.module_launch.LauncherActivity"
+    },
+    {
+        "app_name": "挖财记账",
+        "package_name": "com.wacai365",
+        "file_name": "com.wacai365_215.apk",
+        "app_activity": "com.wacai.launch.LauncherActivity"
+    },
+    {
+        "app_name": "可萌记账",
+        "package_name": "net.ffrj.pinkwallet",
+        "file_name": "net.ffrj.pinkwallet_216.apk",
+        "app_activity": "net.ffrj.pinkwallet.moudle.ads.splash.LogoActivity"
+    },
+    {
+        "app_name": "年糕记账",
+        "package_name": "com.jiaoxiang.niangao",
+        "file_name": "com.jiaoxiang.niangao_217.apk",
+        "app_activity": "com.jiaoxiang.niangao.activity.StartActivity"
+    },
+    {
+        "app_name": "一飞记账",
+        "package_name": "com.jarstones.jizhang",
+        "file_name": "com.jarstones.jizhang_218.apk",
+        "app_activity": "com.jarstones.jizhang.MainActivity"
+    },
+    {
+        "app_name": "圈子记账",
+        "package_name": "www.quanzijizhang.yx",
+        "file_name": "www.quanzijizhang.yx_219.apk",
+        "app_activity": "com.zy.app.devappcollection.StartActivity"
+    },
+    {
+        "app_name": "极简记账",
+        "package_name": "com.luyun.simpleaccout",
+        "file_name": "com.luyun.simpleaccout_220.apk",
+        "app_activity": "com.luyun.simpleaccout.ui.SplashActivity"
+    },
+    {
+        "app_name": "小乖记账",
+        "package_name": "com.yuanyingkeji.guaiguaijizhang",
+        "file_name": "com.yuanyingkeji.guaiguaijizhang_221.apk",
+        "app_activity": "com.example.account_book.MainActivity"
+    },
+    {
+        "app_name": "甜橙记账",
+        "package_name": "com.zhongxing.orange",
+        "file_name": "com.zhongxing.orange_222.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "合伙记账本",
+        "package_name": "com.hehuozhang.hehuojizhangben",
+        "file_name": "com.hehuozhang.hehuojizhangben_223.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "百事AA记账",
+        "package_name": "com.bestrie.aa",
+        "file_name": "com.bestrie.aa_224.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "萌宠记账",
+        "package_name": "com.wpcloud.account",
+        "file_name": "com.wpcloud.account_225.apk",
+        "app_activity": "com.huxt.project.adui.SplashActivity"
+    },
+    {
+        "app_name": "松鼠记账",
+        "package_name": "com.hejia.squirrelaccountbook",
+        "file_name": "com.hejia.squirrelaccountbook_226.apk",
+        "app_activity": "com.hejia.squirrelaccountbook.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "轻便记账本",
+        "package_name": "com.qiyinkeji.account",
+        "file_name": "com.qiyinkeji.account_227.apk",
+        "app_activity": "com.qiyinkeji.account.java.SplashActivity"
+    },
+    {
+        "app_name": "家庭记账本",
+        "package_name": "com.yuanli.familybook",
+        "file_name": "com.yuanli.familybook_228.apk",
+        "app_activity": "com.yuanli.familybook.mvp.ui.activity.StartPageActivity"
+    },
+    {
+        "app_name": "快展业",
+        "package_name": "com.hbkzy",
+        "file_name": "com.hbkzy_229.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "记账精灵",
+        "package_name": "com.btk.booksmart",
+        "file_name": "com.btk.booksmart_230.apk",
+        "app_activity": "com.beeteker.lib_user.activity.SplashActivity"
+    },
+    {
+        "app_name": "中付刷",
+        "package_name": "com.qtopay.merchantpayapp",
+        "file_name": "com.qtopay.merchantpayapp_231.apk",
+        "app_activity": "com.qtopay.merchantpayapp.ui.home.SplashActivity"
+    },
+    {
+        "app_name": "DadaAccounting",
+        "package_name": "com.hjj.bookkeeping",
+        "file_name": "com.hjj.bookkeeping_232.apk",
+        "app_activity": "com.hjj.bookkeeping.activity.SplashActivity"
+    },
+    {
+        "app_name": "木木记账",
+        "package_name": "com.jaemobird.mutongji",
+        "file_name": "com.jaemobird.mutongji_233.apk",
+        "app_activity": "com.jaemobird.mutongji.MainActivity"
+    },
+    {
+        "app_name": "K198收支记账",
+        "package_name": "vipjzb.k198.cn",
+        "file_name": "vipjzb.k198.cn_234.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "趣记账",
+        "package_name": "com.xliang.qjz",
+        "file_name": "com.xliang.qjz_235.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "巴可可记帐",
+        "package_name": "com.moran.bkk",
+        "file_name": "com.moran.bkk_236.apk",
+        "app_activity": "com.moran.bkk.MainActivity"
+    },
+    {
+        "app_name": "千贝记账",
+        "package_name": "com.mhz.qian_bei",
+        "file_name": "com.mhz.qian_bei_237.apk",
+        "app_activity": "com.mhz.qian_bei.MainActivity"
+    },
+    {
+        "app_name": "柚子记账",
+        "package_name": "com.hzhm.pomelo",
+        "file_name": "com.hzhm.pomelo_238.apk",
+        "app_activity": "com.hzhm.pomelo.ui.MainActivity"
+    },
+    {
+        "app_name": "简益流水记账",
+        "package_name": "com.jysoft.jizhang",
+        "file_name": "com.jysoft.jizhang_239.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "汤姆记账",
+        "package_name": "cn.guochajiabing.tom_account",
+        "file_name": "cn.guochajiabing.tom_account_240.apk",
+        "app_activity": "cn.guochajiabing.tom_account.SplashActivity"
+    },
+    {
+        "app_name": "招财进福",
+        "package_name": "com.guangliang.zcjf",
+        "file_name": "com.guangliang.zcjf_241.apk",
+        "app_activity": "com.jingling.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "喵记账",
+        "package_name": "com.hasika.miaojizhang",
+        "file_name": "com.hasika.miaojizhang_242.apk",
+        "app_activity": "com.hasika.miaojizhang.MainActivity"
+    },
+    {
+        "app_name": "小猪记账本",
+        "package_name": "com.ideack.account",
+        "file_name": "com.ideack.account_243.apk",
+        "app_activity": "com.ideack.account.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "兜兜记账",
+        "package_name": "com.dudjwal.te",
+        "file_name": "com.dudjwal.te_244.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "现在处理逾期",
+        "package_name": "com.legalattract.wyzw",
+        "file_name": "com.legalattract.wyzw_245.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "小猪存钱",
+        "package_name": "com.xyskkjgs.savamoney",
+        "file_name": "com.xyskkjgs.savamoney_246.apk",
+        "app_activity": "com.xyskkjgs.savamoney.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "小虎记账",
+        "package_name": "com.weimi.jz.ty",
+        "file_name": "com.weimi.jz.ty_247.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "工时记忆",
+        "package_name": "gyrj.pimrg.dpepb",
+        "file_name": "gyrj.pimrg.dpepb_248.apk",
+        "app_activity": "com.example.module_launch.LauncherActivity"
+    },
+    {
+        "app_name": "简单记账",
+        "package_name": "com.jiandanjizhang",
+        "file_name": "com.jiandanjizhang_249.apk",
+        "app_activity": "com.jiandanjizhang.MainActivity"
+    },
+    {
+        "app_name": "份子记账",
+        "package_name": "com.aokj.favor",
+        "file_name": "com.aokj.favor_250.apk",
+        "app_activity": "com.jizhang.favor.SplashActivityStartUp"
+    },
+    {
+        "app_name": "拉卡拉",
+        "package_name": "com.lakala.shqb",
+        "file_name": "com.lakala.shqb_251.apk",
+        "app_activity": "com.lakala.shqb.MainActivity"
+    },
+    {
+        "app_name": "葫芦赚",
+        "package_name": "hulu.zqjz.jwswdw",
+        "file_name": "hulu.zqjz.jwswdw_252.apk",
+        "app_activity": "com.sxb.new_bookkeeping_1.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "趣玩赚",
+        "package_name": "cn.quwanzs.csdvr",
+        "file_name": "cn.quwanzs.csdvr_253.apk",
+        "app_activity": "com.sxb.new_tool_14.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "计件工资助手",
+        "package_name": "com.lida.jijiangongzi",
+        "file_name": "com.lida.jijiangongzi_254.apk",
+        "app_activity": "com.lida.jijiangongzi.activity.SplashActivity"
+    },
+    {
+        "app_name": "小倍养基",
+        "package_name": "com.betasmart.yangji",
+        "file_name": "com.betasmart.yangji_255.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "老板记账",
+        "package_name": "com.boss.bk",
+        "file_name": "com.boss.bk_256.apk",
+        "app_activity": "com.boss.bk.page.SplashActivity"
+    },
+    {
+        "app_name": "Daak",
+        "package_name": "com.lovelyduck.daak",
+        "file_name": "com.lovelyduck.daak_257.apk",
+        "app_activity": "b.O"
+    },
+    {
+        "app_name": "家用记账软件",
+        "package_name": "com.qiyin.tallybook",
+        "file_name": "com.qiyin.tallybook_258.apk",
+        "app_activity": "com.qiyin.tallybook.java.SplashActivity"
+    },
+    {
+        "app_name": "管账宝",
+        "package_name": "com.xr.gzb",
+        "file_name": "com.xr.gzb_259.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "萌兔记账",
+        "package_name": "com.book.keep",
+        "file_name": "com.book.keep_260.apk",
+        "app_activity": "com.book.keep.launch.flash.FlashActivity"
+    },
+    {
+        "app_name": "首信易钱包",
+        "package_name": "com.payeasenet.ehb",
+        "file_name": "com.payeasenet.ehb_261.apk",
+        "app_activity": "com.payeasenet.ehb.MainActivity"
+    },
+    {
+        "app_name": "呱呱记账本",
+        "package_name": "com.guaguabill.android",
+        "file_name": "com.guaguabill.android_262.apk",
+        "app_activity": "com.guaguabill.android.MainActivity"
+    },
+    {
+        "app_name": "中付掌柜商户版",
+        "package_name": "com.qtopay.merchantApp",
+        "file_name": "com.qtopay.merchantApp_263.apk",
+        "app_activity": "com.qtopay.merchantApp.ui.activity.WelComeActivity"
+    },
+    {
+        "app_name": "京东钱包",
+        "package_name": "com.wangyin.payment",
+        "file_name": "com.wangyin.payment_264.apk",
+        "app_activity": "com.jdjr.payment.business.splash.ui.SplashActivity"
+    },
+    {
+        "app_name": "帮你处理逾期",
+        "package_name": "com.bnclyq.szl",
+        "file_name": "com.bnclyq.szl_265.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "乱记账本",
+        "package_name": "com.ljzb.py",
+        "file_name": "com.ljzb.py_266.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "享记账",
+        "package_name": "com.ayl.jizhang",
+        "file_name": "com.ayl.jizhang_267.apk",
+        "app_activity": "com.ayl.jizhang.home.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "无忧账单",
+        "package_name": "com.junan.wyjizhangpt",
+        "file_name": "com.junan.wyjizhangpt_268.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "喵钱记账",
+        "package_name": "com.juyingfun.mqjz",
+        "file_name": "com.juyingfun.mqjz_269.apk",
+        "app_activity": "com.juyingfun.mqjz.ui.main.MainActivity"
+    },
+    {
+        "app_name": "合成聚宝盆极速版",
+        "package_name": "com.rkwxv.hcjbp",
+        "file_name": "com.rkwxv.hcjbp_270.apk",
+        "app_activity": "com.rkwxv.hcjbp.about_cocos.pager.SplashActivity"
+    },
+    {
+        "app_name": "中付合作伙伴",
+        "package_name": "com.zhongfu.paymentpartner",
+        "file_name": "com.zhongfu.paymentpartner_271.apk",
+        "app_activity": "com.zhongfu.paymentpartner.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "自记账",
+        "package_name": "com.shooter.financial",
+        "file_name": "com.shooter.financial_272.apk",
+        "app_activity": "com.shooter.financial.SplashActivity"
+    },
+    {
+        "app_name": "每日记账",
+        "package_name": "com.ava.thalia",
+        "file_name": "com.ava.thalia_273.apk",
+        "app_activity": "com.ava.thalia.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "小日子记账本",
+        "package_name": "com.csnyg.tally",
+        "file_name": "com.csnyg.tally_274.apk",
+        "app_activity": "com.csnyg.tally.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "e收盈",
+        "package_name": "com.hzbank.hzbank_ymf",
+        "file_name": "com.hzbank.hzbank_ymf_275.apk",
+        "app_activity": "com.hzbank.ymf.activity.FristActivity"
+    },
+    {
+        "app_name": "生活记账",
+        "package_name": "com.biggerlens.bookkeeping",
+        "file_name": "com.biggerlens.bookkeeping_276.apk",
+        "app_activity": "com.biggerlens.bookkeeping.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "墨求记账",
+        "package_name": "com.chenxiwuxianhao.moqiujizhang",
+        "file_name": "com.chenxiwuxianhao.moqiujizhang_277.apk",
+        "app_activity": "com.chenxiwuxianhao.moqiujizhang.MainActivity"
+    },
+    {
+        "app_name": "记账王",
+        "package_name": "com.tzh.money",
+        "file_name": "com.tzh.money_278.apk",
+        "app_activity": "com.tzh.money.ui.activity.main.SpreadActivity"
+    },
+    {
+        "app_name": "ed2k记账本",
+        "package_name": "com.edk.chang",
+        "file_name": "com.edk.chang_279.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "卡喵",
+        "package_name": "com.bitenn.cardking",
+        "file_name": "com.bitenn.cardking_280.apk",
+        "app_activity": "com.bitenn.cardking.MainActivity"
+    },
+    {
+        "app_name": "今日记账",
+        "package_name": "com.today.countarg",
+        "file_name": "com.today.countarg_281.apk",
+        "app_activity": "com.today.countarg.ui.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "大小记账",
+        "package_name": "com.xcdz.superledger",
+        "file_name": "com.xcdz.superledger_282.apk",
+        "app_activity": "com.xcdz.superledger.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "口袋记账王",
+        "package_name": "com.lankawei.pocketbook",
+        "file_name": "com.lankawei.pocketbook_283.apk",
+        "app_activity": "com.lankawei.accountbook.ui.activity.StartpageActivity"
+    },
+    {
+        "app_name": "熊猫记账",
+        "package_name": "com.uanmi.miaojiaccount",
+        "file_name": "com.uanmi.miaojiaccount_284.apk",
+        "app_activity": "com.uanmi.miaojiaccount.activity.main.WelcomeActivity"
+    },
+    {
+        "app_name": "火火赚",
+        "package_name": "huo.huodd.wdxxcd",
+        "file_name": "huo.huodd.wdxxcd_285.apk",
+        "app_activity": "com.sxb.new_tool_14.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "懒猫记账",
+        "package_name": "com.xyskkjgs.pigmoney",
+        "file_name": "com.xyskkjgs.pigmoney_286.apk",
+        "app_activity": "com.xyskkjgs.pigmoney.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "李子记账",
+        "package_name": "com.android.lizijizhang",
+        "file_name": "com.android.lizijizhang_287.apk",
+        "app_activity": "com.beeteker.lib_user.activity.SplashActivity"
+    },
+    {
+        "app_name": "享付伙伴",
+        "package_name": "com.hhbpay.xfhb",
+        "file_name": "com.hhbpay.xfhb_288.apk",
+        "app_activity": "com.hhbpay.xfhb.ui.start.SplashActivity"
+    },
+    {
+        "app_name": "萌萌记账",
+        "package_name": "com.sxa.moneymanager",
+        "file_name": "com.sxa.moneymanager_289.apk",
+        "app_activity": "com.sxa.moneymanager.view.main.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "易票合作伙伴",
+        "package_name": "com.yipiao.paymentpartner",
+        "file_name": "com.yipiao.paymentpartner_290.apk",
+        "app_activity": "com.yipiao.paymentpartner.ui.activity.WelcomeAct"
+    },
+    {
+        "app_name": "小星记账",
+        "package_name": "com.cxincx.xxjz",
+        "file_name": "com.cxincx.xxjz_291.apk",
+        "app_activity": "com.cxincx.xxjz.startup.StartupActivity"
+    },
+    {
+        "app_name": "记账助手",
+        "package_name": "com.chenupt.money",
+        "file_name": "com.chenupt.money_292.apk",
+        "app_activity": "com.chenupt.money.splash.SplashActivity"
+    },
+    {
+        "app_name": "众鑫记账",
+        "package_name": "cn.notes8.zxin",
+        "file_name": "cn.notes8.zxin_293.apk",
+        "app_activity": "cn.notes8.zxin.WelcomeActivity"
+    },
+    {
+        "app_name": "记账本收支管家",
+        "package_name": "com.runzhong.wwaccount",
+        "file_name": "com.runzhong.wwaccount_294.apk",
+        "app_activity": "com.runzhong.wwaccount.activity.SplashActivity"
+    },
+    {
+        "app_name": "Sprouts",
+        "package_name": "melandru.lonicera",
+        "file_name": "melandru.lonicera_295.apk",
+        "app_activity": "melandru.lonicera.activity.launch.LaunchActivity"
+    },
+    {
+        "app_name": "iCost语音记账",
+        "package_name": "com.wsfzinys.tyqmr",
+        "file_name": "com.wsfzinys.tyqmr_296.apk",
+        "app_activity": "com.wsfzinys.tyqmr.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "临时工记账",
+        "package_name": "com.jtlsg.shallow",
+        "file_name": "com.jtlsg.shallow_297.apk",
+        "app_activity": "com.fwlst.module_splash.SplashActivity"
+    },
+    {
+        "app_name": "装修记账本",
+        "package_name": "com.cssqyuejia.zxbook",
+        "file_name": "com.cssqyuejia.zxbook_298.apk",
+        "app_activity": "com.cssqyuejia.zxbook.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "Timi记账",
+        "package_name": "com.talicai.timiclient",
+        "file_name": "com.talicai.timiclient_299.apk",
+        "app_activity": "com.talicai.timiclient.ui.SplashActivity"
+    },
+    {
+        "app_name": "银收客",
+        "package_name": "uni.UNIFE6FEBF",
+        "file_name": "uni.UNIFE6FEBF_300.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "记账多多",
+        "package_name": "com.hh.keepaccounts",
+        "file_name": "com.hh.keepaccounts_301.apk",
+        "app_activity": "com.hh.keepaccounts.ui.HomeSplashActivity"
+    },
+    {
+        "app_name": "记账宝应用软件",
+        "package_name": "com.lxinghe.ly.huawei",
+        "file_name": "com.lxinghe.ly.huawei_302.apk",
+        "app_activity": "com.it.girlaccount.test.Splashscreen"
+    },
+    {
+        "app_name": "小果记账",
+        "package_name": "com.smallnut.tally",
+        "file_name": "com.smallnut.tally_303.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "懒人记账本",
+        "package_name": "lrjzb.zhaoxu.cn",
+        "file_name": "lrjzb.zhaoxu.cn_304.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "蜂窝记账",
+        "package_name": "fun.deepgames.bee",
+        "file_name": "fun.deepgames.bee_305.apk",
+        "app_activity": "fun.deepgames.bee.PrivacyPolicy.MainActivity"
+    },
+    {
+        "app_name": "旗鱼记账本",
+        "package_name": "com.allwininfo.book",
+        "file_name": "com.allwininfo.book_306.apk",
+        "app_activity": "com.allwininfo.book.MainActivity"
+    },
+    {
+        "app_name": "赏金博士",
+        "package_name": "shang.boso.wtwbs",
+        "file_name": "shang.boso.wtwbs_307.apk",
+        "app_activity": "com.sxb.new_bookkeeping_1.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "一秒记账",
+        "package_name": "com.bige.speedaccount",
+        "file_name": "com.bige.speedaccount_308.apk",
+        "app_activity": "com.bige.speedaccount.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "联动惠商",
+        "package_name": "com.tentcoo.hst.merchant",
+        "file_name": "com.tentcoo.hst.merchant_309.apk",
+        "app_activity": "com.tentcoo.hst.merchant.ui.activity.other.SplashActivity"
+    },
+    {
+        "app_name": "车来顺",
+        "package_name": "com.cls.etc",
+        "file_name": "com.cls.etc_310.apk",
+        "app_activity": "com.cls.etc.activity.SplashActivity"
+    }
+]
