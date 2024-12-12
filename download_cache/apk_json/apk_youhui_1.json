@@ -1,0 +1,2523 @@
+[
+    {
+        "app_name": "购省鸭",
+        "package_name": "com.goshengya.app",
+        "file_name": "com.goshengya.app_1.apk",
+        "app_activity": "com.goshengya.app.MainActivity"
+    },
+    {
+        "app_name": "好券",
+        "package_name": "com.quan.taotaoquan",
+        "file_name": "com.quan.taotaoquan_2.apk",
+        "app_activity": "com.quan.taotaoquan.modle.splash.SplashActivity"
+    },
+    {
+        "app_name": "派享生活",
+        "package_name": "cn.pxshenghuo",
+        "file_name": "cn.pxshenghuo_3.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "乐购优选",
+        "package_name": "com.lefee.legouyx.an",
+        "file_name": "com.lefee.legouyx.an_4.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "省钱快报",
+        "package_name": "com.jzyd.coupon",
+        "file_name": "com.jzyd.coupon_5.apk",
+        "app_activity": "com.jzyd.coupon.page.launcher.mvp.SplashActivity"
+    },
+    {
+        "app_name": "爱淘金",
+        "package_name": "com.dfg.dftb",
+        "file_name": "com.dfg.dftb_6.apk",
+        "app_activity": "com.dfg.dftb.Qidong"
+    },
+    {
+        "app_name": "美物清单",
+        "package_name": "com.shouqu.mommypocket",
+        "file_name": "com.shouqu.mommypocket_7.apk",
+        "app_activity": "com.shouqu.mommypocket.views.activities.LaunchActivity"
+    },
+    {
+        "app_name": "省钱帮",
+        "package_name": "com.hnjwkj.wmoney",
+        "file_name": "com.hnjwkj.wmoney_8.apk",
+        "app_activity": "com.hncj.android.moneysavehelper.ui.LauncherActivity"
+    },
+    {
+        "app_name": "邮掌柜",
+        "package_name": "com.tom.postseller",
+        "file_name": "com.tom.postseller_9.apk",
+        "app_activity": "com.tom.postseller.react.StartActivity"
+    },
+    {
+        "app_name": "好省",
+        "package_name": "com.xiaoshijie.sqb",
+        "file_name": "com.xiaoshijie.sqb_10.apk",
+        "app_activity": "com.haosheng.modules.coupon.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "花海仓",
+        "package_name": "com.vipshop.vshhc",
+        "file_name": "com.vipshop.vshhc_11.apk",
+        "app_activity": "com.vipshop.vshhc.BootActivity"
+    },
+    {
+        "app_name": "一折特卖",
+        "package_name": "com.yizhe_temai",
+        "file_name": "com.yizhe_temai_12.apk",
+        "app_activity": "com.yizhe_temai.activity.SplashActivity"
+    },
+    {
+        "app_name": "创客云商",
+        "package_name": "com.ckc.ckys.ckmanager",
+        "file_name": "com.ckc.ckys.ckmanager_13.apk",
+        "app_activity": "com.ckc.ckys.ckmanager.MainActivity"
+    },
+    {
+        "app_name": "高佣联盟",
+        "package_name": "com.shangfang.gylm",
+        "file_name": "com.shangfang.gylm_14.apk",
+        "app_activity": "com.shangfang.gylm.mvp.ui.splash.SplashActivityV2"
+    },
+    {
+        "app_name": "省推",
+        "package_name": "com.shengtuantuan.android",
+        "file_name": "com.shengtuantuan.android_15.apk",
+        "app_activity": "com.shengtuantuan.android.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "龘藏",
+        "package_name": "cn.dcpai.auction",
+        "file_name": "cn.dcpai.auction_16.apk",
+        "app_activity": "cn.dcpai.auction.SplashActivity"
+    },
+    {
+        "app_name": "微商源头",
+        "package_name": "com.weishangbestgoods.wsyt",
+        "file_name": "com.weishangbestgoods.wsyt_17.apk",
+        "app_activity": "com.weishangbestgoods.wsyt.mvp.ui.activity.LoaderActivity"
+    },
+    {
+        "app_name": "全球购骑士特权",
+        "package_name": "com.black.unique",
+        "file_name": "com.black.unique_18.apk",
+        "app_activity": "com.black.unique.feature.home.SplashActivity"
+    },
+    {
+        "app_name": "淘号玩",
+        "package_name": "com.szkb.taohaowan",
+        "file_name": "com.szkb.taohaowan_19.apk",
+        "app_activity": "io.xio.gxfc.ui.activity.splash.THW_SplashActivity"
+    },
+    {
+        "app_name": "好享购物",
+        "package_name": "com.chinasoft.mall",
+        "file_name": "com.chinasoft.mall_20.apk",
+        "app_activity": "com.hao24.module.main.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "省钱玩家",
+        "package_name": "com.shengqianwanjia",
+        "file_name": "com.shengqianwanjia_21.apk",
+        "app_activity": "com.leixun.taofen8sdk.module.load.LoadActivity"
+    },
+    {
+        "app_name": "余享",
+        "package_name": "app.yuxiang",
+        "file_name": "app.yuxiang_22.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "UU租号",
+        "package_name": "com.ggwl.uuzh",
+        "file_name": "com.ggwl.uuzh_23.apk",
+        "app_activity": "com.ggwl.uuzh.SplashActivity"
+    },
+    {
+        "app_name": "高拥联盟",
+        "package_name": "com.gaoyonglianmeng.gyml",
+        "file_name": "com.gaoyonglianmeng.gyml_24.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "淘券鸭",
+        "package_name": "com.taoquanytqya.app",
+        "file_name": "com.taoquanytqya.app_25.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "惠购网",
+        "package_name": "com.shanjing.fanli",
+        "file_name": "com.shanjing.fanli_26.apk",
+        "app_activity": "com.shanjing.fanli.activity.FirstActivity"
+    },
+    {
+        "app_name": "多多团长",
+        "package_name": "com.duoduo.tuanzhang",
+        "file_name": "com.duoduo.tuanzhang_27.apk",
+        "app_activity": "com.duoduo.tuanzhang.SplashActivity"
+    },
+    {
+        "app_name": "上喜猫美食商城",
+        "package_name": "com.jiguang.zhongben",
+        "file_name": "com.jiguang.zhongben_28.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "巨星优选",
+        "package_name": "com.stargo.jxyx",
+        "file_name": "com.stargo.jxyx_29.apk",
+        "app_activity": "com.stargo.jxyx.activity.StartActivity340"
+    },
+    {
+        "app_name": "智选购",
+        "package_name": "io.zhixuangou.zhixuangou",
+        "file_name": "io.zhixuangou.zhixuangou_30.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "印鸽",
+        "package_name": "com.yinge.shop",
+        "file_name": "com.yinge.shop_31.apk",
+        "app_activity": "com.yinge.shop.SplashActivity"
+    },
+    {
+        "app_name": "买号号",
+        "package_name": "com.qugou.maihaohao",
+        "file_name": "com.qugou.maihaohao_32.apk",
+        "app_activity": "com.mula.mall.activity.StartActivity"
+    },
+    {
+        "app_name": "大润发e路发",
+        "package_name": "com.feiniu.b2b",
+        "file_name": "com.feiniu.b2b_33.apk",
+        "app_activity": "com.fn.b2b.main.home.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "广讯通",
+        "package_name": "uni.UNI972C0BF",
+        "file_name": "uni.UNI972C0BF_34.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "星返",
+        "package_name": "com.xingfan1.app",
+        "file_name": "com.xingfan1.app_35.apk",
+        "app_activity": "com.example.flutter_application.MainActivity"
+    },
+    {
+        "app_name": "只购好物",
+        "package_name": "com.zhigouhaowu.app",
+        "file_name": "com.zhigouhaowu.app_36.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "帮帮你",
+        "package_name": "com.xyntk.stzg",
+        "file_name": "com.xyntk.stzg_37.apk",
+        "app_activity": "com.xyntk.stzg.WelcomeActivity_"
+    },
+    {
+        "app_name": "返省",
+        "package_name": "cn.inu1255.hirebate",
+        "file_name": "cn.inu1255.hirebate_38.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "花省",
+        "package_name": "com.huasheng.huapp",
+        "file_name": "com.huasheng.huapp_39.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "U天下",
+        "package_name": "com.sutxi.oem",
+        "file_name": "com.sutxi.oem_40.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "省点花",
+        "package_name": "com.sdh.sdh",
+        "file_name": "com.sdh.sdh_41.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "租一个租号平台",
+        "package_name": "com.zuyigejsb.shop",
+        "file_name": "com.zuyigejsb.shop_42.apk",
+        "app_activity": "com.xubei.shop.ui.module.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "噼哩啪啦",
+        "package_name": "com.pilipala.app",
+        "file_name": "com.pilipala.app_43.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "螃蟹租号",
+        "package_name": "com.mirui.pxzh",
+        "file_name": "com.mirui.pxzh_44.apk",
+        "app_activity": "com.mula.mall.activity.StartActivity"
+    },
+    {
+        "app_name": "手淘优惠券",
+        "package_name": "cn.booc.jrsh001",
+        "file_name": "cn.booc.jrsh001_45.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "挖哦",
+        "package_name": "com.appwawop.app",
+        "file_name": "com.appwawop.app_46.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "臻选优品",
+        "package_name": "com.youp.mallapp",
+        "file_name": "com.youp.mallapp_47.apk",
+        "app_activity": "com.youp.mallapp.MainActivity"
+    },
+    {
+        "app_name": "宽广慧云",
+        "package_name": "com.kuanguang.huiyun",
+        "file_name": "com.kuanguang.huiyun_48.apk",
+        "app_activity": "com.kuanguang.huiyun.activity.SplashActivity"
+    },
+    {
+        "app_name": "淘宝特价版",
+        "package_name": "com.taobao.litetao",
+        "file_name": "com.taobao.litetao_49.apk",
+        "app_activity": "com.taobao.ltao.maintab.MainFrameActivity"
+    },
+    {
+        "app_name": "淘拼拼",
+        "package_name": "cn.haoshengwang.cn",
+        "file_name": "cn.haoshengwang.cn_50.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "花生返利",
+        "package_name": "com.tbk.daka0401",
+        "file_name": "com.tbk.daka0401_51.apk",
+        "app_activity": "com.tbk.daka0401.activity.LoadingActivity"
+    },
+    {
+        "app_name": "二手女装女袜闲置卖",
+        "package_name": "com.gcz.nvzhuang",
+        "file_name": "com.gcz.nvzhuang_52.apk",
+        "app_activity": "com.gcz.nvzhuang.activity.StartActivity"
+    },
+    {
+        "app_name": "淘宝联盟",
+        "package_name": "com.alimama.moon",
+        "file_name": "com.alimama.moon_53.apk",
+        "app_activity": "com.alimama.moon.ui.WizardActivity"
+    },
+    {
+        "app_name": "口袋卫士",
+        "package_name": "com.lkg2.wtt",
+        "file_name": "com.lkg2.wtt_54.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "全能锦鲤",
+        "package_name": "com.quannengjinli.store",
+        "file_name": "com.quannengjinli.store_55.apk",
+        "app_activity": "com.quannengjinli.store.MainActivity"
+    },
+    {
+        "app_name": "租好玩游戏交易",
+        "package_name": "com.zhw.app.mall",
+        "file_name": "com.zhw.app.mall_56.apk",
+        "app_activity": "com.mula.mall.activity.StartActivity"
+    },
+    {
+        "app_name": "潮气魔盒",
+        "package_name": "com.akld.kingbox",
+        "file_name": "com.akld.kingbox_57.apk",
+        "app_activity": "com.akld.library_box.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "租号鹅",
+        "package_name": "com.ptmhh.zuhaoe",
+        "file_name": "com.ptmhh.zuhaoe_58.apk",
+        "app_activity": "com.mula.mall.activity.StartActivity"
+    },
+    {
+        "app_name": "同福云商",
+        "package_name": "com.tfjt.merchant",
+        "file_name": "com.tfjt.merchant_59.apk",
+        "app_activity": "com.tfjt.merchant.MainActivity"
+    },
+    {
+        "app_name": "省公子",
+        "package_name": "com.tbk.dachui",
+        "file_name": "com.tbk.dachui_60.apk",
+        "app_activity": "com.tbk.dachui.activity.StartActivity"
+    },
+    {
+        "app_name": "券妈妈优惠券",
+        "package_name": "com.chenye.app.quanmama",
+        "file_name": "com.chenye.app.quanmama_61.apk",
+        "app_activity": "com.android.app.quanmama.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "吉象优选",
+        "package_name": "com.jixiangyouxuanop.com",
+        "file_name": "com.jixiangyouxuanop.com_62.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "白拿宝",
+        "package_name": "com.newidea.cut",
+        "file_name": "com.newidea.cut_63.apk",
+        "app_activity": "com.newidea.cut.MainActivity"
+    },
+    {
+        "app_name": "买号狂",
+        "package_name": "com.zuhaoduo.mhk",
+        "file_name": "com.zuhaoduo.mhk_64.apk",
+        "app_activity": "com.mula.mall.activity.StartActivity"
+    },
+    {
+        "app_name": "苏宁推客",
+        "package_name": "com.suning.mobile.microshop",
+        "file_name": "com.suning.mobile.microshop_65.apk",
+        "app_activity": "com.suning.mobile.microshop.base.initial.InitialActivity"
+    },
+    {
+        "app_name": "高佣金联盟",
+        "package_name": "com.gaoyongjinapp.net",
+        "file_name": "com.gaoyongjinapp.net_66.apk",
+        "app_activity": "com.gaoyongjinapp.net.MainActivity"
+    },
+    {
+        "app_name": "借号玩",
+        "package_name": "com.jiehaow.zuaho",
+        "file_name": "com.jiehaow.zuaho_67.apk",
+        "app_activity": "com.xb.mj4.start.WelcomeActivity"
+    },
+    {
+        "app_name": "高佣",
+        "package_name": "com.quanmami",
+        "file_name": "com.quanmami_68.apk",
+        "app_activity": "com.quanmami.MainActivity"
+    },
+    {
+        "app_name": "花生日记",
+        "package_name": "com.jf.lkrj",
+        "file_name": "com.jf.lkrj_69.apk",
+        "app_activity": "com.jf.lkrj.SplashActivity"
+    },
+    {
+        "app_name": "有钱赚",
+        "package_name": "com.lxtp.youzhuan",
+        "file_name": "com.lxtp.youzhuan_70.apk",
+        "app_activity": "com.youju.core.main.LucencyActivity"
+    },
+    {
+        "app_name": "享库生活",
+        "package_name": "com.getai.xiangkucun",
+        "file_name": "com.getai.xiangkucun_71.apk",
+        "app_activity": "com.getai.xiangkucun.MainActivity"
+    },
+    {
+        "app_name": "芝麻知妈",
+        "package_name": "com.yg.zhima",
+        "file_name": "com.yg.zhima_72.apk",
+        "app_activity": "com.yg.zhima.project.LaunchActivity"
+    },
+    {
+        "app_name": "猫车",
+        "package_name": "com.weiqu.maoche",
+        "file_name": "com.weiqu.maoche_73.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "百亿补贴",
+        "package_name": "com.shengshengsse.app",
+        "file_name": "com.shengshengsse.app_74.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "白菜哦",
+        "package_name": "com.cnxxp.cabbagenet",
+        "file_name": "com.cnxxp.cabbagenet_75.apk",
+        "app_activity": "com.cnxxp.cabbagenet.activity.HomeActivity"
+    },
+    {
+        "app_name": "包小省",
+        "package_name": "cn.baoxiaosheng.mobile",
+        "file_name": "cn.baoxiaosheng.mobile_76.apk",
+        "app_activity": "cn.baoxiaosheng.mobile.ui.start.StartActivity"
+    },
+    {
+        "app_name": "小助手APP",
+        "package_name": "com.xzs.tiepai",
+        "file_name": "com.xzs.tiepai_77.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "玩皮我最牛",
+        "package_name": "com.sw.app149",
+        "file_name": "com.sw.app149_78.apk",
+        "app_activity": "com.strategyapp.activity.SplashActivity"
+    },
+    {
+        "app_name": "叮咚抓娃娃",
+        "package_name": "com.vprize.claw.doll",
+        "file_name": "com.vprize.claw.doll_79.apk",
+        "app_activity": "com.vprize.claw.doll.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "乐途",
+        "package_name": "com.luxing.letu.lt.app",
+        "file_name": "com.luxing.letu.lt.app_80.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "买号兽",
+        "package_name": "com.mirui.mhs",
+        "file_name": "com.mirui.mhs_81.apk",
+        "app_activity": "com.mula.mall.activity.StartActivity"
+    },
+    {
+        "app_name": "返鸭",
+        "package_name": "com.ydhl.fanyaapp",
+        "file_name": "com.ydhl.fanyaapp_82.apk",
+        "app_activity": "com.ydhl.fanyaapp.activity.MainActivity"
+    },
+    {
+        "app_name": "实惠猫",
+        "package_name": "com.shihuimao.shm",
+        "file_name": "com.shihuimao.shm_83.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "友折",
+        "package_name": "com.yyouzhezy.app",
+        "file_name": "com.yyouzhezy.app_84.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "号多多",
+        "package_name": "com.qugou.haoduoduo",
+        "file_name": "com.qugou.haoduoduo_85.apk",
+        "app_activity": "com.mula.mall.activity.StartActivity"
+    },
+    {
+        "app_name": "好享免",
+        "package_name": "com.frejoys.app",
+        "file_name": "com.frejoys.app_86.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "小象超市",
+        "package_name": "com.meituan.retail.v.android",
+        "file_name": "com.meituan.retail.v.android_87.apk",
+        "app_activity": "com.meituan.retail.c.android.newhome.newmain.ActivityLauncher"
+    },
+    {
+        "app_name": "合生通商户",
+        "package_name": "com.hopsonone.hopsonstore",
+        "file_name": "com.hopsonone.hopsonstore_88.apk",
+        "app_activity": "com.hopson.hopson_shop.MainActivity"
+    },
+    {
+        "app_name": "竹子拼客",
+        "package_name": "com.zhuzi.taobamboo",
+        "file_name": "com.zhuzi.taobamboo_89.apk",
+        "app_activity": "com.zhuzi.taobamboo.InitialStartActivity"
+    },
+    {
+        "app_name": "惠买",
+        "package_name": "com.huimai365",
+        "file_name": "com.huimai365_90.apk",
+        "app_activity": "com.huimai365.launch.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "酒茶茶",
+        "package_name": "uni.UNI60187C1",
+        "file_name": "uni.UNI60187C1_91.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "返利",
+        "package_name": "com.fanli.android.apps",
+        "file_name": "com.fanli.android.apps_92.apk",
+        "app_activity": "com.fanli.android.basicarc.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "省购",
+        "package_name": "com.shenggou",
+        "file_name": "com.shenggou_93.apk",
+        "app_activity": "com.shenggou.MainActivity"
+    },
+    {
+        "app_name": "流量营业厅",
+        "package_name": "com.qicheng.xingmengkeji",
+        "file_name": "com.qicheng.xingmengkeji_94.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "返还网",
+        "package_name": "com.fanhuan",
+        "file_name": "com.fanhuan_95.apk",
+        "app_activity": "com.fanhuan.ui.SplashActivity"
+    },
+    {
+        "app_name": "美逛",
+        "package_name": "com.xk.span.zutuan",
+        "file_name": "com.xk.span.zutuan_96.apk",
+        "app_activity": "com.xk.span.zutuan.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "钱币价格查询",
+        "package_name": "com.tangzhen.coinprice",
+        "file_name": "com.tangzhen.coinprice_97.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "返利赚钱联盟",
+        "package_name": "com.taomibaw",
+        "file_name": "com.taomibaw_98.apk",
+        "app_activity": "com.taomibaw.MainActivity"
+    },
+    {
+        "app_name": "豆返",
+        "package_name": "com.sufan.doufan",
+        "file_name": "com.sufan.doufan_99.apk",
+        "app_activity": "com.sufan.doufan.comp.main.activities.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "百宝袋",
+        "package_name": "com.honeysuckle.bbaodandroid",
+        "file_name": "com.honeysuckle.bbaodandroid_100.apk",
+        "app_activity": "com.honeysuckle.bbaodandroid.MainActivity"
+    },
+    {
+        "app_name": "手机盲盒",
+        "package_name": "com.taomi.yiyuanduo",
+        "file_name": "com.taomi.yiyuanduo_101.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "爱库存",
+        "package_name": "com.aikucun.akapp",
+        "file_name": "com.aikucun.akapp_102.apk",
+        "app_activity": "com.aikucun.akapp.activity.StartActivity"
+    },
+    {
+        "app_name": "乖淘",
+        "package_name": "com.guaitaogt.app",
+        "file_name": "com.guaitaogt.app_103.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "魔方黑卡",
+        "package_name": "com.dmcb.mfhk",
+        "file_name": "com.dmcb.mfhk_104.apk",
+        "app_activity": "com.dmcb.mfhk.MainActivity"
+    },
+    {
+        "app_name": "千循",
+        "package_name": "cn.fprice.app",
+        "file_name": "cn.fprice.app_105.apk",
+        "app_activity": "cn.fprice.app.module.other.activity.SplashActivity"
+    },
+    {
+        "app_name": "嘟赞",
+        "package_name": "com.duzan.app",
+        "file_name": "com.duzan.app_106.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "特价租号",
+        "package_name": "com.gxtjzhb.app",
+        "file_name": "com.gxtjzhb.app_107.apk",
+        "app_activity": "com.lt.app.MainActivity"
+    },
+    {
+        "app_name": "氢氧水",
+        "package_name": "com.zjhzwxzl.jdgj",
+        "file_name": "com.zjhzwxzl.jdgj_108.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "租号吧",
+        "package_name": "com.feijing.mfzuhao",
+        "file_name": "com.feijing.mfzuhao_109.apk",
+        "app_activity": "com.lt.app.MainActivity"
+    },
+    {
+        "app_name": "每日饭粒",
+        "package_name": "com.xingti.tao_ke",
+        "file_name": "com.xingti.tao_ke_110.apk",
+        "app_activity": "com.xingti.tao_ke.pages.MainActivity"
+    },
+    {
+        "app_name": "卖号号",
+        "package_name": "com.guangguang.mhh",
+        "file_name": "com.guangguang.mhh_111.apk",
+        "app_activity": "com.mula.mall.activity.StartActivity"
+    },
+    {
+        "app_name": "天天货清清",
+        "package_name": "com.kuang.huoqingqing",
+        "file_name": "com.kuang.huoqingqing_112.apk",
+        "app_activity": "com.kuang.demo.activity.SplashActivity"
+    },
+    {
+        "app_name": "超级惠省",
+        "package_name": "com.smart.app.jijia.xin.saveMoneyShop",
+        "file_name": "com.smart.app.jijia.xin.saveMoneyShop_113.apk",
+        "app_activity": "com.smart.app.jijia.xin.saveMoneyShop.activity.MainActivity"
+    },
+    {
+        "app_name": "淘粉吧",
+        "package_name": "com.leixun.taofen8",
+        "file_name": "com.leixun.taofen8_114.apk",
+        "app_activity": "com.leixun.taofen8sdk.module.load.LoadActivity"
+    },
+    {
+        "app_name": "一分钱",
+        "package_name": "fr.yifenqian.yifenqian",
+        "file_name": "fr.yifenqian.yifenqian_115.apk",
+        "app_activity": "fr.yifenqian.yifenqian.activity.SplashActivity"
+    },
+    {
+        "app_name": "聚多荣创",
+        "package_name": "com.juduoyoupin.collage",
+        "file_name": "com.juduoyoupin.collage_116.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "1866微商货源",
+        "package_name": "com.ykkj.ybll",
+        "file_name": "com.ykkj.ybll_117.apk",
+        "app_activity": "com.ykkj.ybll.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "集享联盟",
+        "package_name": "com.maxxipoint.android",
+        "file_name": "com.maxxipoint.android_118.apk",
+        "app_activity": "com.maxxipoint.android.main.WelcomeActivity"
+    },
+    {
+        "app_name": "省鸭",
+        "package_name": "com.shengya.xf",
+        "file_name": "com.shengya.xf_119.apk",
+        "app_activity": "com.shengya.xf.activity.StartActivity"
+    },
+    {
+        "app_name": "网购联盟",
+        "package_name": "com.wglianmeng",
+        "file_name": "com.wglianmeng_120.apk",
+        "app_activity": "com.wglianmeng.MainActivity"
+    },
+    {
+        "app_name": "慢慢买",
+        "package_name": "com.manmanbuy.bijia",
+        "file_name": "com.manmanbuy.bijia_121.apk",
+        "app_activity": "com.manmanbuy.bijia.StartActivity"
+    },
+    {
+        "app_name": "历史价格查询",
+        "package_name": "com.manmanbuy.trend",
+        "file_name": "com.manmanbuy.trend_122.apk",
+        "app_activity": "com.manmanbuy.trend.StartActivity"
+    },
+    {
+        "app_name": "给惠网",
+        "package_name": "com.geihui",
+        "file_name": "com.geihui_123.apk",
+        "app_activity": "com.geihui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "邮乐小店",
+        "package_name": "com.ule.poststore",
+        "file_name": "com.ule.poststore_124.apk",
+        "app_activity": "com.ule.poststorebase.ui.LoadingActivity"
+    },
+    {
+        "app_name": "番茄租号",
+        "package_name": "com.haoyouduo.fqzh",
+        "file_name": "com.haoyouduo.fqzh_125.apk",
+        "app_activity": "com.mula.mall.activity.StartActivity"
+    },
+    {
+        "app_name": "促促",
+        "package_name": "com.imcucu",
+        "file_name": "com.imcucu_126.apk",
+        "app_activity": "com.imcucu.MainActivity"
+    },
+    {
+        "app_name": "京粉",
+        "package_name": "com.jd.jxj",
+        "file_name": "com.jd.jxj_127.apk",
+        "app_activity": "com.jd.jxj.ui.activity.LoadingActivity"
+    },
+    {
+        "app_name": "兼职养猫赚钱",
+        "package_name": "com.jz.cat",
+        "file_name": "com.jz.cat_128.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "返利高佣联盟",
+        "package_name": "com.fanlwgaoylmengw",
+        "file_name": "com.fanlwgaoylmengw_129.apk",
+        "app_activity": "com.fanlwgaoylmengw.MainActivity"
+    },
+    {
+        "app_name": "贝登医疗",
+        "package_name": "com.vedeng.android",
+        "file_name": "com.vedeng.android_130.apk",
+        "app_activity": "com.vedeng.android.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "豆芽",
+        "package_name": "com.dy0103.dya",
+        "file_name": "com.dy0103.dya_131.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "淘喵喵",
+        "package_name": "com.dlb.cfseller",
+        "file_name": "com.dlb.cfseller_132.apk",
+        "app_activity": "library.start.SplashActivity"
+    },
+    {
+        "app_name": "抖推",
+        "package_name": "com.haoshenghsh.app",
+        "file_name": "com.haoshenghsh.app_133.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "返利购物联盟",
+        "package_name": "com.fanliwanggouwulianmeng",
+        "file_name": "com.fanliwanggouwulianmeng_134.apk",
+        "app_activity": "com.fanliwanggouwulianmeng.MainActivity"
+    },
+    {
+        "app_name": "云吉购",
+        "package_name": "com.yunjigouzh",
+        "file_name": "com.yunjigouzh_135.apk",
+        "app_activity": "com.yunjigouzh.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "大麦奥莱",
+        "package_name": "com.damaiaolai.mall",
+        "file_name": "com.damaiaolai.mall_136.apk",
+        "app_activity": "com.damaiaolai.mall.activity.HnSplashActivity"
+    },
+    {
+        "app_name": "大鱼",
+        "package_name": "com.pangqinglong.app",
+        "file_name": "com.pangqinglong.app_137.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "闲鱼",
+        "package_name": "com.taobao.idlefish",
+        "file_name": "com.taobao.idlefish_138.apk",
+        "app_activity": "com.taobao.fleamarket.home.activity.InitActivity"
+    },
+    {
+        "app_name": "返利淘联盟",
+        "package_name": "com.fanlitaolianmengw",
+        "file_name": "com.fanlitaolianmengw_139.apk",
+        "app_activity": "com.fanlitaolianmengw.MainActivity"
+    },
+    {
+        "app_name": "粉丝福利购",
+        "package_name": "com.shiyue.fensigou",
+        "file_name": "com.shiyue.fensigou_140.apk",
+        "app_activity": "com.shiyue.fensigou.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "福袋生活",
+        "package_name": "com.fqapps.fdsh",
+        "file_name": "com.fqapps.fdsh_141.apk",
+        "app_activity": "com.fqapps.fdsh.plate.common.LauncherActivity"
+    },
+    {
+        "app_name": "省米小助手",
+        "package_name": "com.yfkj.littleassistant",
+        "file_name": "com.yfkj.littleassistant_142.apk",
+        "app_activity": "com.yfkj.littleassistant.LoginActivity"
+    },
+    {
+        "app_name": "淘券吧",
+        "package_name": "com.ciyun.oneshop",
+        "file_name": "com.ciyun.oneshop_143.apk",
+        "app_activity": "com.ciyun.appfanlishop.activities.login.SplashActivity"
+    },
+    {
+        "app_name": "e养车",
+        "package_name": "com.zhuofu",
+        "file_name": "com.zhuofu_144.apk",
+        "app_activity": "com.zhuofu.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "找号玩",
+        "package_name": "com.zhwapp",
+        "file_name": "com.zhwapp_145.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "SteamPY",
+        "package_name": "com.steampy.app",
+        "file_name": "com.steampy.app_146.apk",
+        "app_activity": "com.steampy.app.activity.common.splash.SplashActivity"
+    },
+    {
+        "app_name": "豆逛",
+        "package_name": "com.douguang.www",
+        "file_name": "com.douguang.www_147.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "赶俏生活",
+        "package_name": "com.qiao.gq",
+        "file_name": "com.qiao.gq_148.apk",
+        "app_activity": "com.qiao.gq.MainActivity"
+    },
+    {
+        "app_name": "省妞",
+        "package_name": "com.xy.shengniu",
+        "file_name": "com.xy.shengniu_149.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "花美折",
+        "package_name": "com.hhuameizhemz.app",
+        "file_name": "com.hhuameizhemz.app_150.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "叮当盲盒",
+        "package_name": "com.juwanmei138.cpkj.app",
+        "file_name": "com.juwanmei138.cpkj.app_151.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "比比宝",
+        "package_name": "com.bbbao.shop.client.android.activity",
+        "file_name": "com.bbbao.shop.client.android.activity_152.apk",
+        "app_activity": "com.bbbao.shop.client.android.activity.StartActivity"
+    },
+    {
+        "app_name": "粉象生活",
+        "package_name": "com.n_add.android",
+        "file_name": "com.n_add.android_153.apk",
+        "app_activity": "com.n_add.android.activity.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "团省",
+        "package_name": "com.appmeirihaosheng.app",
+        "file_name": "com.appmeirihaosheng.app_154.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "氧券",
+        "package_name": "com.appyangquanyyds.app",
+        "file_name": "com.appyangquanyyds.app_155.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "最会买",
+        "package_name": "com.ruanmei.zuihuimai",
+        "file_name": "com.ruanmei.zuihuimai_156.apk",
+        "app_activity": "com.ruanmei.zuihuimai.activity.SplashActivity"
+    },
+    {
+        "app_name": "捡漏",
+        "package_name": "com.baicai.jianlou",
+        "file_name": "com.baicai.jianlou_157.apk",
+        "app_activity": "com.my.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "哗哗省钱",
+        "package_name": "com.huahuago.app",
+        "file_name": "com.huahuago.app_158.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "好单库",
+        "package_name": "com.fq.haodanku",
+        "file_name": "com.fq.haodanku_159.apk",
+        "app_activity": "com.fq.haodanku.mvvm.common.ui.activity.OpenScreenActivity"
+    },
+    {
+        "app_name": "临期食品临期宝",
+        "package_name": "com.shuiyin.linqibao",
+        "file_name": "com.shuiyin.linqibao_160.apk",
+        "app_activity": "com.shuiyin.linqibao.LaunchActivity"
+    },
+    {
+        "app_name": "比一比价",
+        "package_name": "com.b1bj.search",
+        "file_name": "com.b1bj.search_161.apk",
+        "app_activity": "com.b1bj.search.StartActivity"
+    },
+    {
+        "app_name": "爱爱情趣堡垒",
+        "package_name": "uni.UNI8180DFC",
+        "file_name": "uni.UNI8180DFC_162.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "古玩拍卖行情",
+        "package_name": "com.tangzhen.auctionprice",
+        "file_name": "com.tangzhen.auctionprice_163.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "省钱宝",
+        "package_name": "com.hnjm.moneysaving",
+        "file_name": "com.hnjm.moneysaving_164.apk",
+        "app_activity": "com.hncj.android.moneysavehelper.ui.LauncherActivity"
+    },
+    {
+        "app_name": "懒淘淘",
+        "package_name": "uni.UNI845A8EB",
+        "file_name": "uni.UNI845A8EB_165.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "爱上小胖极速版",
+        "package_name": "com.xiaofentao.app",
+        "file_name": "com.xiaofentao.app_166.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "租号狂",
+        "package_name": "com.ptmhh.zuhaokuang",
+        "file_name": "com.ptmhh.zuhaokuang_167.apk",
+        "app_activity": "com.mula.mall.activity.StartActivity"
+    },
+    {
+        "app_name": "优惠券省钱特价",
+        "package_name": "com.ddyhq.youhuiquan",
+        "file_name": "com.ddyhq.youhuiquan_168.apk",
+        "app_activity": "com.ddyhq.youhuiquan.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "首藏",
+        "package_name": "com.hegs.sc",
+        "file_name": "com.hegs.sc_169.apk",
+        "app_activity": "com.hegs.sc.client.main.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "美兔优选",
+        "package_name": "com.malt.mt",
+        "file_name": "com.malt.mt_170.apk",
+        "app_activity": "com.malt.mt.ui.SplashActivity"
+    },
+    {
+        "app_name": "宠饭",
+        "package_name": "com.huojie.chongfan",
+        "file_name": "com.huojie.chongfan_171.apk",
+        "app_activity": "com.huojie.chongfan.activity.SplashActivity"
+    },
+    {
+        "app_name": "好省丫",
+        "package_name": "com.xg.jx9k9",
+        "file_name": "com.xg.jx9k9_172.apk",
+        "app_activity": "ui.splash.SplashActivity"
+    },
+
+    {
+        "app_name": "惠小兔",
+        "package_name": "com.huixiaotuapp",
+        "file_name": "com.huixiaotuapp_1.apk",
+        "app_activity": "com.huixiaotuapp.MainActivity"
+    },
+    {
+        "app_name": "播播兔",
+        "package_name": "com.bobog.client",
+        "file_name": "com.bobog.client_2.apk",
+        "app_activity": "com.bobog.client.MainActivity"
+    },
+    {
+        "app_name": "饭粒团",
+        "package_name": "com.savemoneylive",
+        "file_name": "com.savemoneylive_3.apk",
+        "app_activity": "com.savemoneylive.MainActivity"
+    },
+    {
+        "app_name": "内部券",
+        "package_name": "com.a360tuan.q",
+        "file_name": "com.a360tuan.q_4.apk",
+        "app_activity": "com.a360tuan.q.MainActivity"
+    },
+    {
+        "app_name": "星秀多选",
+        "package_name": "shop.xxdx.uni",
+        "file_name": "shop.xxdx.uni_5.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "觅返",
+        "package_name": "com.mifanapp.app",
+        "file_name": "com.mifanapp.app_6.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "海鸥免税店",
+        "package_name": "com.gull.duty.gulldutyfreeshop",
+        "file_name": "com.gull.duty.gulldutyfreeshop_7.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "快鸟返利",
+        "package_name": "com.zzjianpan.zboard",
+        "file_name": "com.zzjianpan.zboard_8.apk",
+        "app_activity": "com.zoontek.rnbootsplash.RNBootSplashActivity"
+    },
+    {
+        "app_name": "换呗生活",
+        "package_name": "uni.UNIB5BE21B",
+        "file_name": "uni.UNIB5BE21B_9.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "领外卖券",
+        "package_name": "uni.UNI8A37EB0",
+        "file_name": "uni.UNI8A37EB0_10.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "五福小红包",
+        "package_name": "com.gaamf.snail.blessing",
+        "file_name": "com.gaamf.snail.blessing_11.apk",
+        "app_activity": "com.gaamf.snail.blessing.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "恋上梧桐",
+        "package_name": "com.lianshanglswt.app",
+        "file_name": "com.lianshanglswt.app_12.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "橙鱼优选",
+        "package_name": "com.chengyuyoupinvpp.app",
+        "file_name": "com.chengyuyoupinvpp.app_13.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "芝麻省购",
+        "package_name": "com.puma.app",
+        "file_name": "com.puma.app_14.apk",
+        "app_activity": "com.puma.app.MainActivity"
+    },
+    {
+        "app_name": "吃喝不愁",
+        "package_name": "com.chbc.client",
+        "file_name": "com.chbc.client_15.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "安选客",
+        "package_name": "com.anyoukeayks.app",
+        "file_name": "com.anyoukeayks.app_16.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "省钱大拿",
+        "package_name": "com.shegnqiandanasqdn.app",
+        "file_name": "com.shegnqiandanasqdn.app_17.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "买了咩咩",
+        "package_name": "com.maimaidongdongmmdd.app",
+        "file_name": "com.maimaidongdongmmdd.app_18.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "餐喜爱",
+        "package_name": "com.meiyi.canxiai",
+        "file_name": "com.meiyi.canxiai_19.apk",
+        "app_activity": "com.meiyi.canxiai.ui.entry.SplashActivity"
+    },
+    {
+        "app_name": "返小丫",
+        "package_name": "com.fanxiaoy.www",
+        "file_name": "com.fanxiaoy.www_20.apk",
+        "app_activity": "com.fanxiaoy.www.MainActivity"
+    },
+    {
+        "app_name": "火荐优惠券",
+        "package_name": "com.dingyutx.huojianyouhuiquan2",
+        "file_name": "com.dingyutx.huojianyouhuiquan2_21.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "优惠券券",
+        "package_name": "com.tbyhq.yhq810",
+        "file_name": "com.tbyhq.yhq810_22.apk",
+        "app_activity": "com.dataoke.coupon.activity.SplashLoadingActivity"
+    },
+    {
+        "app_name": "同画阵卖家版",
+        "package_name": "vip.tonghuazhen.miaozhu",
+        "file_name": "vip.tonghuazhen.miaozhu_23.apk",
+        "app_activity": "vip.tonghuazhen.miaozhu.MainActivity"
+    },
+    {
+        "app_name": "电子估价网",
+        "package_name": "com.oemstock.app",
+        "file_name": "com.oemstock.app_24.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "华人生活",
+        "package_name": "com.yb2020.hrsh",
+        "file_name": "com.yb2020.hrsh_25.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "淘券猫",
+        "package_name": "com.taoquanmao.app",
+        "file_name": "com.taoquanmao.app_26.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "蜂拥",
+        "package_name": "com.hivescm.market",
+        "file_name": "com.hivescm.market_27.apk",
+        "app_activity": "com.hivescm.market.ui.SplashActivity"
+    },
+    {
+        "app_name": "探小钱",
+        "package_name": "com.tanxiaoqiantxq.app",
+        "file_name": "com.tanxiaoqiantxq.app_28.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "良品城",
+        "package_name": "cc.lgxj.lpc",
+        "file_name": "cc.lgxj.lpc_29.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "聚合省钱",
+        "package_name": "com.jh2022.jhsq",
+        "file_name": "com.jh2022.jhsq_30.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "驼奶批发网",
+        "package_name": "uni.UNIBBF461F",
+        "file_name": "uni.UNIBBF461F_31.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "租号秀",
+        "package_name": "com.r7778395.qzm",
+        "file_name": "com.r7778395.qzm_32.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "掌易购",
+        "package_name": "com.zhangyigou.app",
+        "file_name": "com.zhangyigou.app_33.apk",
+        "app_activity": "com.zhangyigou.app.MainActivity"
+    },
+    {
+        "app_name": "驴享享",
+        "package_name": "com.yaloe.lvxiangxiang",
+        "file_name": "com.yaloe.lvxiangxiang_34.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "淘包包",
+        "package_name": "com.taobaobao.mall",
+        "file_name": "com.taobaobao.mall_35.apk",
+        "app_activity": "com.mula.mall.activity.StartActivity"
+    },
+    {
+        "app_name": "来优惠",
+        "package_name": "com.laiyouhuifw",
+        "file_name": "com.laiyouhuifw_36.apk",
+        "app_activity": "com.laiyouhuifw.MainActivity"
+    },
+    {
+        "app_name": "独宠券",
+        "package_name": "cn.pzpzpop.quan",
+        "file_name": "cn.pzpzpop.quan_37.apk",
+        "app_activity": "cn.pzpzpop.quan.view.MainActivity"
+    },
+    {
+        "app_name": "口袋折扣",
+        "package_name": "uni.koudaizhekouapp",
+        "file_name": "uni.koudaizhekouapp_38.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "全返",
+        "package_name": "gg.gou.qf",
+        "file_name": "gg.gou.qf_39.apk",
+        "app_activity": "gg.gou.qf.MainActivity"
+    },
+    {
+        "app_name": "飞享店铺",
+        "package_name": "qiji.fxdp",
+        "file_name": "qiji.fxdp_40.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "益途",
+        "package_name": "com.yt2023.yt",
+        "file_name": "com.yt2023.yt_41.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "乐省无忧",
+        "package_name": "com.leshengwylswy.app",
+        "file_name": "com.leshengwylswy.app_42.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "省钱优选联盟",
+        "package_name": "com.shengqianyxlmw",
+        "file_name": "com.shengqianyxlmw_43.apk",
+        "app_activity": "com.shengqianyxlmw.MainActivity"
+    },
+    {
+        "app_name": "日本优惠券",
+        "package_name": "com.coupon.android",
+        "file_name": "com.coupon.android_44.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "实惠宝",
+        "package_name": "com.shihuijiashj.app",
+        "file_name": "com.shihuijiashj.app_45.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "芒省",
+        "package_name": "com.ejixiang.mangsheng",
+        "file_name": "com.ejixiang.mangsheng_46.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "粉兔",
+        "package_name": "com.duomai.fentu",
+        "file_name": "com.duomai.fentu_47.apk",
+        "app_activity": "com.duomai.guadou.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "依莲雅",
+        "package_name": "com.yilianya.app",
+        "file_name": "com.yilianya.app_48.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "来默鱼",
+        "package_name": "com.laimoyugame.kjapp",
+        "file_name": "com.laimoyugame.kjapp_49.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "火箭租号",
+        "package_name": "com.haoduoduowang.hjzh",
+        "file_name": "com.haoduoduowang.hjzh_50.apk",
+        "app_activity": "com.mula.mall.activity.StartActivity"
+    },
+    {
+        "app_name": "券巢",
+        "package_name": "com.quanchaowangluo.app",
+        "file_name": "com.quanchaowangluo.app_51.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "狂省",
+        "package_name": "com.kuangshengks.app",
+        "file_name": "com.kuangshengks.app_52.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "享购券",
+        "package_name": "com.youlikerxgq.app",
+        "file_name": "com.youlikerxgq.app_53.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "交易吧",
+        "package_name": "com.nanningxr.jyb",
+        "file_name": "com.nanningxr.jyb_54.apk",
+        "app_activity": "com.mula.mall.activity.StartActivity"
+    },
+    {
+        "app_name": "好想买",
+        "package_name": "com.haoxiangmaihxm.app",
+        "file_name": "com.haoxiangmaihxm.app_55.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "生活金管家",
+        "package_name": "com.shgji.tiepai",
+        "file_name": "com.shgji.tiepai_56.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "仟贝优选",
+        "package_name": "com.qianbeiqbyx.app",
+        "file_name": "com.qianbeiqbyx.app_57.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "鸡省省",
+        "package_name": "com.jsscn.cn",
+        "file_name": "com.jsscn.cn_58.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "金省省",
+        "package_name": "com.jinshengshengjss.app",
+        "file_name": "com.jinshengshengjss.app_59.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "开界优惠",
+        "package_name": "com.openboss.coupon_app",
+        "file_name": "com.openboss.coupon_app_60.apk",
+        "app_activity": "com.openboss.coupon_app.MainActivity"
+    },
+    {
+        "app_name": "多返助手",
+        "package_name": "com.dfzs.duofanzhushou",
+        "file_name": "com.dfzs.duofanzhushou_61.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "怪咖",
+        "package_name": "com.guaikaflw",
+        "file_name": "com.guaikaflw_62.apk",
+        "app_activity": "com.guaikaflw.MainActivity"
+    },
+    {
+        "app_name": "圆子生活",
+        "package_name": "com.haitu.yuanzilife",
+        "file_name": "com.haitu.yuanzilife_63.apk",
+        "app_activity": "com.haitu.yuanzilife.MainActivity"
+    },
+    {
+        "app_name": "源头货源",
+        "package_name": "com.hiyuyi.shoes",
+        "file_name": "com.hiyuyi.shoes_64.apk",
+        "app_activity": "com.hiyuyi.shoes.MainActivity"
+    },
+    {
+        "app_name": "象店",
+        "package_name": "com.fenxiangyouhuiquan.app",
+        "file_name": "com.fenxiangyouhuiquan.app_65.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "贝多优选",
+        "package_name": "com.beiduoyouxuanbdyx.app",
+        "file_name": "com.beiduoyouxuanbdyx.app_66.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "速拍在线",
+        "package_name": "com.qili.supaizaixian",
+        "file_name": "com.qili.supaizaixian_67.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "返利喵",
+        "package_name": "com.fanliddzs",
+        "file_name": "com.fanliddzs_68.apk",
+        "app_activity": "com.fanliddzs.MainActivity"
+    },
+    {
+        "app_name": "花小购",
+        "package_name": "com.huaxiaoqianhxq.app",
+        "file_name": "com.huaxiaoqianhxq.app_69.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "安吉拉优选",
+        "package_name": "com.anjilayx.app",
+        "file_name": "com.anjilayx.app_70.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "共优惠",
+        "package_name": "com.gongyouhuigyh.app",
+        "file_name": "com.gongyouhuigyh.app_71.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "爱淘",
+        "package_name": "com.qiumo.aitao",
+        "file_name": "com.qiumo.aitao_72.apk",
+        "app_activity": "com.example.app.MainActivity"
+    },
+    {
+        "app_name": "惠砍价",
+        "package_name": "com.xskj.bargain",
+        "file_name": "com.xskj.bargain_73.apk",
+        "app_activity": "com.xskj.bargain.vm.StartActivity"
+    },
+    {
+        "app_name": "粉丝优惠购",
+        "package_name": "com.fensifuligou.dai",
+        "file_name": "com.fensifuligou.dai_74.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "万象印记",
+        "package_name": "com.wanxiangyinji.app",
+        "file_name": "com.wanxiangyinji.app_75.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "开心买手",
+        "package_name": "com.kxkaixinms.app",
+        "file_name": "com.kxkaixinms.app_76.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "新省客",
+        "package_name": "com.shengtuan.android",
+        "file_name": "com.shengtuan.android_77.apk",
+        "app_activity": "com.shengtuan.android.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "嘎嘎省",
+        "package_name": "com.gagashengggs.app",
+        "file_name": "com.gagashengggs.app_78.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "石榴惠选",
+        "package_name": "com.x16huixuan.app",
+        "file_name": "com.x16huixuan.app_79.apk",
+        "app_activity": "com.lt.app.MainActivity"
+    },
+    {
+        "app_name": "鱼满满水产商城",
+        "package_name": "com.example.administrator.zgscsc",
+        "file_name": "com.example.administrator.zgscsc_80.apk",
+        "app_activity": "com.example.administrator.zgscsc.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "耀世TTX",
+        "package_name": "com.yaoshi.crypto",
+        "file_name": "com.yaoshi.crypto_81.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "爱估回收",
+        "package_name": "com.aiguhuishou.aiguapphuishou",
+        "file_name": "com.aiguhuishou.aiguapphuishou_82.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "草柴优惠券",
+        "package_name": "com.caochai.quan",
+        "file_name": "com.caochai.quan_83.apk",
+        "app_activity": "com.caochai.quan.view.LoadingActivity"
+    },
+    {
+        "app_name": "比比动",
+        "package_name": "com.bibidong.app",
+        "file_name": "com.bibidong.app_84.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "美一天优选",
+        "package_name": "com.meiyitianyouxuan.app",
+        "file_name": "com.meiyitianyouxuan.app_85.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "返利助手",
+        "package_name": "com.neil",
+        "file_name": "com.neil_86.apk",
+        "app_activity": "com.neil.ui.SplashActivity"
+    },
+    {
+        "app_name": "手机置换",
+        "package_name": "com.p.py",
+        "file_name": "com.p.py_87.apk",
+        "app_activity": "com.p.py.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "宠粉生活",
+        "package_name": "uni.UNI5518F29",
+        "file_name": "uni.UNI5518F29_88.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "天著熙品",
+        "package_name": "com.tianzhuxipin.com",
+        "file_name": "com.tianzhuxipin.com_89.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "通惠",
+        "package_name": "com.ths.UNI09F035A",
+        "file_name": "com.ths.UNI09F035A_90.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "麦享生活",
+        "package_name": "com.maixiangshenghuo.app",
+        "file_name": "com.maixiangshenghuo.app_91.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "淘饭饭",
+        "package_name": "com.jy.taofanfan",
+        "file_name": "com.jy.taofanfan_92.apk",
+        "app_activity": "com.jy.taofanfan.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "准省",
+        "package_name": "com.haoshengshenghuohssh.app",
+        "file_name": "com.haoshengshenghuohssh.app_93.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "租机大全",
+        "package_name": "com.zuji.daquan.cswin",
+        "file_name": "com.zuji.daquan.cswin_94.apk",
+        "app_activity": "com.lease.phone.MainActivity"
+    },
+    {
+        "app_name": "划算",
+        "package_name": "com.cangshutun.diymdz99b3r",
+        "file_name": "com.cangshutun.diymdz99b3r_95.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "返利省钱联盟",
+        "package_name": "com.fanlishengqianlianmengw",
+        "file_name": "com.fanlishengqianlianmengw_96.apk",
+        "app_activity": "com.fanlishengqianlianmengw.MainActivity"
+    },
+    {
+        "app_name": "今省",
+        "package_name": "com.jinshengjssdk.app",
+        "file_name": "com.jinshengjssdk.app_97.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "易联优选",
+        "package_name": "uni.UNI0A8DD43",
+        "file_name": "uni.UNI0A8DD43_98.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "面料汇",
+        "package_name": "cn.soubu.zhaobu",
+        "file_name": "cn.soubu.zhaobu_99.apk",
+        "app_activity": "cn.soubu.zhaobu.SplashActivity"
+    },
+    {
+        "app_name": "聚超值",
+        "package_name": "com.juchaozhi",
+        "file_name": "com.juchaozhi_100.apk",
+        "app_activity": "com.juchaozhi.kotlin.app.main.MainActivity"
+    },
+    {
+        "app_name": "返利宝",
+        "package_name": "com.fbate.cahbg",
+        "file_name": "com.fbate.cahbg_101.apk",
+        "app_activity": "com.fbate.cahbg.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "喜乐排行",
+        "package_name": "com.rthl.joybuy",
+        "file_name": "com.rthl.joybuy_102.apk",
+        "app_activity": "com.rthl.joybuy.modules.main.ui.acitivity.FirstActivity"
+    },
+    {
+        "app_name": "惠街",
+        "package_name": "com.taoyouhui.tyh",
+        "file_name": "com.taoyouhui.tyh_103.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "云小呗",
+        "package_name": "com.yunxiaobei.yxb.app",
+        "file_name": "com.yunxiaobei.yxb.app_104.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "人人销卡",
+        "package_name": "com.km.renrenxiaoka",
+        "file_name": "com.km.renrenxiaoka_105.apk",
+        "app_activity": "com.sifou.wanhe.login.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "小云朵",
+        "package_name": "com.mashangmai.app",
+        "file_name": "com.mashangmai.app_106.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "聚享优",
+        "package_name": "com.xy2024.jxy",
+        "file_name": "com.xy2024.jxy_107.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "伴手礼",
+        "package_name": "com.zsshapp.app",
+        "file_name": "com.zsshapp.app_108.apk",
+        "app_activity": "com.zsshapp.app.MainActivity"
+    },
+    {
+        "app_name": "悦惠省",
+        "package_name": "com.yuehuishengyhs.app",
+        "file_name": "com.yuehuishengyhs.app_109.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "吉优惠",
+        "package_name": "com.jiyouhuijyh.app",
+        "file_name": "com.jiyouhuijyh.app_110.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "DAPP IPFS",
+        "package_name": "com.rm2020.DAPPIPFS",
+        "file_name": "com.rm2020.DAPPIPFS_111.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "连心生活",
+        "package_name": "com.smartpay.lxsh",
+        "file_name": "com.smartpay.lxsh_112.apk",
+        "app_activity": "com.smartpay.lxsh.ui.SplashActivity"
+    },
+    {
+        "app_name": "买号鹅",
+        "package_name": "com.mirui.mhe",
+        "file_name": "com.mirui.mhe_113.apk",
+        "app_activity": "com.mula.mall.activity.StartActivity"
+    },
+    {
+        "app_name": "优天下",
+        "package_name": "com.youtx.oem",
+        "file_name": "com.youtx.oem_114.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "乐享安逸",
+        "package_name": "com.lexianganyi.lxdl",
+        "file_name": "com.lexianganyi.lxdl_115.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "多省赚客",
+        "package_name": "com.duoshengapps.app",
+        "file_name": "com.duoshengapps.app_116.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "抖与淘返利联盟",
+        "package_name": "com.chaquanfanlw",
+        "file_name": "com.chaquanfanlw_117.apk",
+        "app_activity": "com.chaquanfanlw.MainActivity"
+    },
+    {
+        "app_name": "数字云药",
+        "package_name": "com.xilu.yunyao",
+        "file_name": "com.xilu.yunyao_118.apk",
+        "app_activity": "com.xilu.yunyao.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "淘返联盟",
+        "package_name": "com.taokemn.app",
+        "file_name": "com.taokemn.app_119.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "vmax省钱宝",
+        "package_name": "com.vmaxshengqianbao.app",
+        "file_name": "com.vmaxshengqianbao.app_120.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "淘淘助手",
+        "package_name": "com.windhc.taotao",
+        "file_name": "com.windhc.taotao_121.apk",
+        "app_activity": "com.windhc.taotao.MainActivity"
+    },
+    {
+        "app_name": "返利日记",
+        "package_name": "com.fanlirijiw",
+        "file_name": "com.fanlirijiw_122.apk",
+        "app_activity": "com.fanlirijiw.MainActivity"
+    },
+    {
+        "app_name": "惠汪",
+        "package_name": "com.xiamizk.xiami",
+        "file_name": "com.xiamizk.xiami_123.apk",
+        "app_activity": "com.xiamizk.xiami.LoadActivity"
+    },
+    {
+        "app_name": "热度星推",
+        "package_name": "com.reduxingke.douke",
+        "file_name": "com.reduxingke.douke_124.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "白菜优惠券",
+        "package_name": "com.lf.coupon",
+        "file_name": "com.lf.coupon_125.apk",
+        "app_activity": "com.my.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "知省",
+        "package_name": "com.zhisheng.app",
+        "file_name": "com.zhisheng.app_126.apk",
+        "app_activity": "com.lxkj.dmhw.activity.StartActivity445"
+    },
+    {
+        "app_name": "小羊淘券",
+        "package_name": "com.jb.taoquan",
+        "file_name": "com.jb.taoquan_127.apk",
+        "app_activity": "com.jb.taoquan.activitys.SplashActivity"
+    },
+    {
+        "app_name": "倍惠省",
+        "package_name": "com.beihuishengbhs.app",
+        "file_name": "com.beihuishengbhs.app_128.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "盛世全城",
+        "package_name": "com.lxin.grandcity",
+        "file_name": "com.lxin.grandcity_129.apk",
+        "app_activity": "com.lxin.grandcity.ui.Activity_Splash"
+    },
+    {
+        "app_name": "推客联盟",
+        "package_name": "com.fltaobaokeapp",
+        "file_name": "com.fltaobaokeapp_130.apk",
+        "app_activity": "com.fltaobaokeapp.MainActivity"
+    },
+    {
+        "app_name": "省芽",
+        "package_name": "com.shengwanwan.shengqian",
+        "file_name": "com.shengwanwan.shengqian_131.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "外卖通",
+        "package_name": "com.luchuang.fanli",
+        "file_name": "com.luchuang.fanli_132.apk",
+        "app_activity": "com.luchuang.fanli.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "高佣宝",
+        "package_name": "com.gaoyongbaoapp.app",
+        "file_name": "com.gaoyongbaoapp.app_133.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "省小猫",
+        "package_name": "com.shengxiaomaocc.app",
+        "file_name": "com.shengxiaomaocc.app_134.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "小妖日记",
+        "package_name": "com.xiaoyaoriji.www",
+        "file_name": "com.xiaoyaoriji.www_135.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "美人荟商家",
+        "package_name": "com.jrd.beautyshop",
+        "file_name": "com.jrd.beautyshop_136.apk",
+        "app_activity": "com.jrd.beautyshop.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "券淘淘",
+        "package_name": "com.yylc.yyrebate",
+        "file_name": "com.yylc.yyrebate_137.apk",
+        "app_activity": "com.yyrebate.module.base.init.InitialActivity"
+    },
+    {
+        "app_name": "折优惠选",
+        "package_name": "com.zheyouhuixuancc.app",
+        "file_name": "com.zheyouhuixuancc.app_138.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "云巢",
+        "package_name": "com.yc0214.yunc",
+        "file_name": "com.yc0214.yunc_139.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "省钱之家",
+        "package_name": "com.sqzj.app",
+        "file_name": "com.sqzj.app_140.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "悟啦啦",
+        "package_name": "vip.woolala168.www",
+        "file_name": "vip.woolala168.www_141.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "ShopCoupons",
+        "package_name": "cn.appfly.dailycoupon",
+        "file_name": "cn.appfly.dailycoupon_142.apk",
+        "app_activity": "cn.appfly.dailycoupon.ui.SplashActivity"
+    },
+    {
+        "app_name": "妈妈省",
+        "package_name": "com.meinvgou.app",
+        "file_name": "com.meinvgou.app_143.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "呵味惠生活",
+        "package_name": "com.heweihui",
+        "file_name": "com.heweihui_144.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "省省吧",
+        "package_name": "com.shengshengbajckj.app",
+        "file_name": "com.shengshengbajckj.app_145.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "笑拼购",
+        "package_name": "com.shoppinggoal.shop",
+        "file_name": "com.shoppinggoal.shop_146.apk",
+        "app_activity": "com.shoppinggoal.shop.activity.SplashActivity"
+    },
+    {
+        "app_name": "外卖优惠券",
+        "package_name": "com.waimaiquan.duoduo",
+        "file_name": "com.waimaiquan.duoduo_147.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "藏宝券",
+        "package_name": "com.cangbaoquan.app",
+        "file_name": "com.cangbaoquan.app_148.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "民为先联盟",
+        "package_name": "com.mwx.redpacket",
+        "file_name": "com.mwx.redpacket_149.apk",
+        "app_activity": "com.mwx.redpacket.ui.SplashActivity"
+    },
+    {
+        "app_name": "萌豆Pro",
+        "package_name": "com.call.mengdou",
+        "file_name": "com.call.mengdou_150.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "惠优选",
+        "package_name": "com.huiyouxuan.app.thf",
+        "file_name": "com.huiyouxuan.app.thf_151.apk",
+        "app_activity": "com.huiyouxuan.app.thf.ui.SplashActivity"
+    },
+    {
+        "app_name": "千巴库",
+        "package_name": "com.huiyuan.ctcapp",
+        "file_name": "com.huiyuan.ctcapp_152.apk",
+        "app_activity": "com.huiyuan.ctcapp.view.common.LaunchPageActivity"
+    },
+    {
+        "app_name": "惠省折上折",
+        "package_name": "com.hlacg.hszsz",
+        "file_name": "com.hlacg.hszsz_153.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "草柴",
+        "package_name": "com.caochai.rebate",
+        "file_name": "com.caochai.rebate_154.apk",
+        "app_activity": "com.caochai.quan.view.LoadingActivity"
+    },
+    {
+        "app_name": "淘优品返利",
+        "package_name": "com.taoyoupingfanliriji",
+        "file_name": "com.taoyoupingfanliriji_155.apk",
+        "app_activity": "com.taoyoupingfanliriji.MainActivity"
+    },
+    {
+        "app_name": "采购蚁",
+        "package_name": "com.hengshuokeji.caigouyi",
+        "file_name": "com.hengshuokeji.caigouyi_156.apk",
+        "app_activity": "com.hengshuokeji.caigouyi.mvp.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "长寿美",
+        "package_name": "com.changshoumeicsm.app",
+        "file_name": "com.changshoumeicsm.app_157.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "至品佳选",
+        "package_name": "com.zhipinjiaxuanzpjx.app",
+        "file_name": "com.zhipinjiaxuanzpjx.app_158.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "钱收收",
+        "package_name": "com.lititi.app.qianshoushou",
+        "file_name": "com.lititi.app.qianshoushou_159.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "乐也购",
+        "package_name": "com.leyegoulyg.app",
+        "file_name": "com.leyegoulyg.app_160.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "嗨购",
+        "package_name": "uni.UNI6C9D250",
+        "file_name": "uni.UNI6C9D250_161.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "番茄严选",
+        "package_name": "com.tomatocn.app",
+        "file_name": "com.tomatocn.app_162.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "交易猴",
+        "package_name": "com.haoduoduowang.jyh",
+        "file_name": "com.haoduoduowang.jyh_163.apk",
+        "app_activity": "com.mula.mall.activity.StartActivity"
+    },
+    {
+        "app_name": "嗷嗷",
+        "package_name": "com.aoao.app",
+        "file_name": "com.aoao.app_164.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "雄安电商",
+        "package_name": "com.xiongandianshang.app",
+        "file_name": "com.xiongandianshang.app_165.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "白菜优选",
+        "package_name": "com.baicaiyouxuan",
+        "file_name": "com.baicaiyouxuan_166.apk",
+        "app_activity": "com.baicaiyouxuan.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "好惠买",
+        "package_name": "com.kaixinfanli.com",
+        "file_name": "com.kaixinfanli.com_167.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "情多多",
+        "package_name": "com.data.qingdd",
+        "file_name": "com.data.qingdd_168.apk",
+        "app_activity": "com.data.qingdd.Activity.FirstActivity"
+    },
+    {
+        "app_name": "白白优选",
+        "package_name": "com.yuehe.shoppingguide",
+        "file_name": "com.yuehe.shoppingguide_169.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "黑色惠",
+        "package_name": "com.heisehuihsh.app",
+        "file_name": "com.heisehuihsh.app_170.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "壹家购",
+        "package_name": "com.etongbang.app",
+        "file_name": "com.etongbang.app_171.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "辽买买",
+        "package_name": "com.duobei",
+        "file_name": "com.duobei_172.apk",
+        "app_activity": "com.duobei.MainActivity"
+    },
+    {
+        "app_name": "来购吧",
+        "package_name": "com.laigoubasc.app",
+        "file_name": "com.laigoubasc.app_173.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "天天抽奖",
+        "package_name": "com.ykkj.ttcj",
+        "file_name": "com.ykkj.ttcj_174.apk",
+        "app_activity": "com.ykkj.ttcj.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "众喜",
+        "package_name": "com.plw.alllove",
+        "file_name": "com.plw.alllove_175.apk",
+        "app_activity": "com.plw.alllove.splash.SplashActivity"
+    },
+    {
+        "app_name": "万象星选",
+        "package_name": "com.wanxiangstar.app",
+        "file_name": "com.wanxiangstar.app_176.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "鸽手",
+        "package_name": "top.geshou.wange",
+        "file_name": "top.geshou.wange_177.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "秒开盲盒",
+        "package_name": "com.miaokai.app",
+        "file_name": "com.miaokai.app_178.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "省米精灵",
+        "package_name": "com.sqxjyapp.app",
+        "file_name": "com.sqxjyapp.app_179.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "风生水起",
+        "package_name": "com.fengshengsqapp.app",
+        "file_name": "com.fengshengsqapp.app_180.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "隐藏优惠券",
+        "package_name": "com.lionmobo.coupon",
+        "file_name": "com.lionmobo.coupon_181.apk",
+        "app_activity": "com.lionmobo.coupon.ui.activity.SplashNewActivity"
+    },
+    {
+        "app_name": "凡猫购",
+        "package_name": "top.fanmao.app",
+        "file_name": "top.fanmao.app_182.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "返利高佣联盟",
+        "package_name": "com.fanlwgaoylmengw",
+        "file_name": "com.fanlwgaoylmengw_183.apk",
+        "app_activity": "com.fanlwgaoylmengw.MainActivity"
+    },
+    {
+        "app_name": "佑省好物",
+        "package_name": "com.yycl.yshw",
+        "file_name": "com.yycl.yshw_184.apk",
+        "app_activity": "com.yycl.yshw.MainActivity"
+    },
+    {
+        "app_name": "千千淘",
+        "package_name": "com.mazai.qqt",
+        "file_name": "com.mazai.qqt_185.apk",
+        "app_activity": "com.mazai.qqt.activity.LaunchActivity"
+    },
+    {
+        "app_name": "淘赚钱返利",
+        "package_name": "com.tzqfl",
+        "file_name": "com.tzqfl_186.apk",
+        "app_activity": "com.tzqfl.MainActivity"
+    },
+    {
+        "app_name": "应用魔法师",
+        "package_name": "com.jmtec.clone",
+        "file_name": "com.jmtec.clone_187.apk",
+        "app_activity": "com.jmtec.clone.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "淘省钱",
+        "package_name": "com.mailvor.app.shopping",
+        "file_name": "com.mailvor.app.shopping_188.apk",
+        "app_activity": "com.mailvor.app.shopping.MainActivity"
+    },
+    {
+        "app_name": "种草生活",
+        "package_name": "com.flash.zhongcao",
+        "file_name": "com.flash.zhongcao_189.apk",
+        "app_activity": "com.flash.coupon.ZcWelcome"
+    },
+    {
+        "app_name": "米米库",
+        "package_name": "com.mg.mmk",
+        "file_name": "com.mg.mmk_190.apk",
+        "app_activity": "com.mmj.android.SplashActivity"
+    },
+    {
+        "app_name": "淘优购",
+        "package_name": "io.dcloud.tyg",
+        "file_name": "io.dcloud.tyg_191.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "早安生活",
+        "package_name": "com.zaoanshenghuo.app",
+        "file_name": "com.zaoanshenghuo.app_192.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "汉富新生活",
+        "package_name": "com.hanfuxinshenghuo.app",
+        "file_name": "com.hanfuxinshenghuo.app_193.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "金赢网",
+        "package_name": "com.jinying.jyapp",
+        "file_name": "com.jinying.jyapp_194.apk",
+        "app_activity": "com.jinying.jyapp.MainActivity"
+    },
+    {
+        "app_name": "领食周边购",
+        "package_name": "uni.zhoubiangou",
+        "file_name": "uni.zhoubiangou_195.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "返利购物联盟",
+        "package_name": "com.fanliwanggouwulianmeng",
+        "file_name": "com.fanliwanggouwulianmeng_196.apk",
+        "app_activity": "com.fanliwanggouwulianmeng.MainActivity"
+    },
+    {
+        "app_name": "久久竹子驿站",
+        "package_name": "com.jiujiuzhuzi.app",
+        "file_name": "com.jiujiuzhuzi.app_197.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "芝麻鲸选",
+        "package_name": "com.zhimajingxuanw",
+        "file_name": "com.zhimajingxuanw_198.apk",
+        "app_activity": "com.zhimajingxuanw.MainActivity"
+    },
+    {
+        "app_name": "抖乐汇",
+        "package_name": "com.tianyueapp.app",
+        "file_name": "com.tianyueapp.app_199.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "开心省",
+        "package_name": "com.kaixinshengksx.app",
+        "file_name": "com.kaixinshengksx.app_200.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "七维工控",
+        "package_name": "com.zdksii.project.industryapp",
+        "file_name": "com.zdksii.project.industryapp_201.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "月省秘籍",
+        "package_name": "com.yueshengmjysmj.app",
+        "file_name": "com.yueshengmjysmj.app_202.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "3839淘电商分销",
+        "package_name": "net.sbsj",
+        "file_name": "net.sbsj_203.apk",
+        "app_activity": "com.zhutui.ui.main.MainActivity"
+    },
+    {
+        "app_name": "快租易购",
+        "package_name": "com.kuaizuyigou",
+        "file_name": "com.kuaizuyigou_204.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "生活小助手",
+        "package_name": "com.sh2023.xbs",
+        "file_name": "com.sh2023.xbs_205.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "伊返",
+        "package_name": "com.yifan007.app",
+        "file_name": "com.yifan007.app_206.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "返金商城",
+        "package_name": "com.fanjinscapp.app",
+        "file_name": "com.fanjinscapp.app_207.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "多麦联盟",
+        "package_name": "com.cps.activity",
+        "file_name": "com.cps.activity_208.apk",
+        "app_activity": "com.duomai.cpsapp.page.splash.SplashActivity"
+    },
+    {
+        "app_name": "吉迅推客",
+        "package_name": "com.jixuntuikejx.app",
+        "file_name": "com.jixuntuikejx.app_209.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "微商找货",
+        "package_name": "com.zhaohuo.hls",
+        "file_name": "com.zhaohuo.hls_210.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "蜜蜂省钱",
+        "package_name": "com.mifengshengqianmfsq.app",
+        "file_name": "com.mifengshengqianmfsq.app_211.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "友享",
+        "package_name": "com.uxiang.app",
+        "file_name": "com.uxiang.app_212.apk",
+        "app_activity": "com.uxiang.app.MainActivity"
+    },
+    {
+        "app_name": "鲸品惠",
+        "package_name": "com.huitaolss.app",
+        "file_name": "com.huitaolss.app_213.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "淘金探",
+        "package_name": "com.taojintanapp.www",
+        "file_name": "com.taojintanapp.www_214.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "兜里省",
+        "package_name": "com.doulishengsc.app",
+        "file_name": "com.doulishengsc.app_215.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "省钱大管家",
+        "package_name": "com.shengqiandaguanjia.app",
+        "file_name": "com.shengqiandaguanjia.app_216.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "彼彼省家",
+        "package_name": "zzll.cn.com.trader",
+        "file_name": "zzll.cn.com.trader_217.apk",
+        "app_activity": "zzll.cn.com.trader.activity.NewSplashActivity"
+    },
+    {
+        "app_name": "苏分宝",
+        "package_name": "com.mailvor.sufenbao",
+        "file_name": "com.mailvor.sufenbao_218.apk",
+        "app_activity": "com.mailvor.sufenbao.MainActivity"
+    },
+    {
+        "app_name": "小白优惠帮",
+        "package_name": "com.xiaobaiyhb.jvq",
+        "file_name": "com.xiaobaiyhb.jvq_219.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "小小番茄",
+        "package_name": "cn.xxfq.xxfq1",
+        "file_name": "cn.xxfq.xxfq1_220.apk",
+        "app_activity": "cn.xxfq.xxfq1.module.common.activity.SplashActivity"
+    },
+    {
+        "app_name": "聚折",
+        "package_name": "com.juzhejz.app",
+        "file_name": "com.juzhejz.app_221.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "金沙折扣",
+        "package_name": "com.xinjinsfanli",
+        "file_name": "com.xinjinsfanli_222.apk",
+        "app_activity": "com.xinjinsfanli.MainActivity"
+    },
+    {
+        "app_name": "店流宝",
+        "package_name": "com.dianliubao.app",
+        "file_name": "com.dianliubao.app_223.apk",
+        "app_activity": "com.dianliubao.app.MainActivity"
+    },
+    {
+        "app_name": "天异购",
+        "package_name": "com.tymy.tianyigou",
+        "file_name": "com.tymy.tianyigou_224.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "看见宝",
+        "package_name": "com.kanjianb",
+        "file_name": "com.kanjianb_225.apk",
+        "app_activity": "com.kanjianb.MainActivity"
+    },
+    {
+        "app_name": "黔惠来",
+        "package_name": "com.qhuil.oem",
+        "file_name": "com.qhuil.oem_226.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "购物返利联盟",
+        "package_name": "com.gouwufanlilianmengw",
+        "file_name": "com.gouwufanlilianmengw_227.apk",
+        "app_activity": "com.gouwufanlilianmengw.MainActivity"
+    },
+    {
+        "app_name": "返利券",
+        "package_name": "com.yeshi.ec.rebate",
+        "file_name": "com.yeshi.ec.rebate_228.apk",
+        "app_activity": "com.yeshi.ec.rebate.myapplication.ui.SplashActivity"
+    },
+    {
+        "app_name": "省安逸",
+        "package_name": "com.cdhxyh.sayeasy",
+        "file_name": "com.cdhxyh.sayeasy_229.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "折啊",
+        "package_name": "com.qixi.zhe2",
+        "file_name": "com.qixi.zhe2_230.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "奥古云销",
+        "package_name": "com.aoguxy.www",
+        "file_name": "com.aoguxy.www_231.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "真香省钱",
+        "package_name": "com.qiang100.zxsq",
+        "file_name": "com.qiang100.zxsq_232.apk",
+        "app_activity": "com.qiang100.zxsq.SplashActivity"
+    },
+    {
+        "app_name": "响买",
+        "package_name": "com.xiangmai.cn",
+        "file_name": "com.xiangmai.cn_233.apk",
+        "app_activity": "com.xiangmai.cn.ui.SplashActivity"
+    },
+    {
+        "app_name": "券买买",
+        "package_name": "com.haoshsh",
+        "file_name": "com.haoshsh_234.apk",
+        "app_activity": "com.haoshsh.MainActivity"
+    },
+    {
+        "app_name": "卷毛猪",
+        "package_name": "com.shengdaobao111.www",
+        "file_name": "com.shengdaobao111.www_235.apk",
+        "app_activity": "com.shengdaobao111.www.MainActivity"
+    },
+    {
+        "app_name": "义企拍",
+        "package_name": "cn.microants.yiqipai",
+        "file_name": "cn.microants.yiqipai_236.apk",
+        "app_activity": "cn.microants.yiqipai.activity.LaunchActivity"
+    },
+    {
+        "app_name": "永返邦",
+        "package_name": "com.yongfanbangyfb.app",
+        "file_name": "com.yongfanbangyfb.app_237.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "实惠鸭",
+        "package_name": "com.shihuiyas.app",
+        "file_name": "com.shihuiyas.app_238.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "省心",
+        "package_name": "com.shengxinsx.app",
+        "file_name": "com.shengxinsx.app_239.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "龙券网优惠券",
+        "package_name": "com.looxiang.quan",
+        "file_name": "com.looxiang.quan_240.apk",
+        "app_activity": "com.looxiang.quan.view.welcome.WelcomActivity"
+    },
+    {
+        "app_name": "觅省",
+        "package_name": "com.mishengwang.baodu",
+        "file_name": "com.mishengwang.baodu_241.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "万民代售",
+        "package_name": "com.yixwanmindaishou.ccg",
+        "file_name": "com.yixwanmindaishou.ccg_242.apk",
+        "app_activity": "com.example.leancloud.SplashActivity"
+    },
+    {
+        "app_name": "美物酱",
+        "package_name": "info.jacoblee.beautychen",
+        "file_name": "info.jacoblee.beautychen_243.apk",
+        "app_activity": "info.jacoblee.beautychen.SplashActivity"
+    },
+    {
+        "app_name": "桔子街",
+        "package_name": "jvzijie.jvzijieapp",
+        "file_name": "jvzijie.jvzijieapp_244.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "天天省钱",
+        "package_name": "com.ttsq.mobile",
+        "file_name": "com.ttsq.mobile_245.apk",
+        "app_activity": "com.ttsq.mobile.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "蜡肉",
+        "package_name": "com.dlh.lack.curedmeat",
+        "file_name": "com.dlh.lack.curedmeat_246.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "优省",
+        "package_name": "com.yousheng.app",
+        "file_name": "com.yousheng.app_247.apk",
+        "app_activity": "com.waquan.ui.LauncherActivity"
+    },
+    {
+        "app_name": "四季联盟",
+        "package_name": "com.sijilianmeng.sjlm",
+        "file_name": "com.sijilianmeng.sjlm_248.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    }
+]

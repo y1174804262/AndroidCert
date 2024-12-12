@@ -1,0 +1,1202 @@
+[
+    {
+        "app_name": "不可能的世界",
+        "package_name": "com.bkneng.reader",
+        "file_name": "com.bkneng.reader_1.apk",
+        "app_activity": "com.bkneng.reader.splash.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "搜书大师",
+        "package_name": "com.flyersoft.seekbooks",
+        "file_name": "com.flyersoft.seekbooks_2.apk",
+        "app_activity": "com.flyersoft.WB.SplashActivity"
+    },
+    {
+        "app_name": "浩看小说",
+        "package_name": "com.idejian.sm",
+        "file_name": "com.idejian.sm_3.apk",
+        "app_activity": "com.chaozh.iReader.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "阅瓣小说",
+        "package_name": "com.chaozh.iReader.dj.freeChaseBook",
+        "file_name": "com.chaozh.iReader.dj.freeChaseBook_4.apk",
+        "app_activity": "com.chaozh.iReader.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "京东读书",
+        "package_name": "com.jd.app.reader",
+        "file_name": "com.jd.app.reader_5.apk",
+        "app_activity": "com.jingdong.app.reader.logo.JdLogoActivity"
+    },
+    {
+        "app_name": "点鸭",
+        "package_name": "com.sfacg.chatnovel",
+        "file_name": "com.sfacg.chatnovel_6.apk",
+        "app_activity": "com.sf.ui.launcher.SplashSecondActivity"
+    },
+    {
+        "app_name": "个人图书馆",
+        "package_name": "com.doc360.client",
+        "file_name": "com.doc360.client_7.apk",
+        "app_activity": "com.doc360.client.activity.SplashActivity"
+    },
+    {
+        "app_name": "朵米小说",
+        "package_name": "com.duomigushihui.dt",
+        "file_name": "com.duomigushihui.dt_8.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "小说全集",
+        "package_name": "com.dz.mfxsqj",
+        "file_name": "com.dz.mfxsqj_9.apk",
+        "app_activity": "com.dzbook.activity.LogoActivity"
+    },
+    {
+        "app_name": "红薯阅读",
+        "package_name": "com.hongshu",
+        "file_name": "com.hongshu_10.apk",
+        "app_activity": "com.hongshu.splish.AdViewActivity"
+    },
+    {
+        "app_name": "XiuXiu漫画",
+        "package_name": "com.xczx.xxmh",
+        "file_name": "com.xczx.xxmh_11.apk",
+        "app_activity": "com.tm.freecartoon.WelcomeActivity"
+    },
+    {
+        "app_name": "坡芽歌书 文字之芽",
+        "package_name": "com.fudanpress.aLfkte3",
+        "file_name": "com.fudanpress.aLfkte3_12.apk",
+        "app_activity": "com.startiasoft.vvportal.splash.WelcomeActivityBeforInit"
+    },
+    {
+        "app_name": "晋江小说阅读",
+        "package_name": "com.jjwxc.reader",
+        "file_name": "com.jjwxc.reader_13.apk",
+        "app_activity": "com.example.jinjiangshucheng.AppPrivacyActivity"
+    },
+    {
+        "app_name": "免费淘小说",
+        "package_name": "com.martian.ttbookhd",
+        "file_name": "com.martian.ttbookhd_14.apk",
+        "app_activity": "com.martian.mibook.activity.EnterActivity"
+    },
+    {
+        "app_name": "被窝读书",
+        "package_name": "com.wxreader.com",
+        "file_name": "com.wxreader.com_15.apk",
+        "app_activity": "com.wxreader.com.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "人邮知书",
+        "package_name": "com.am1105.ryzs",
+        "file_name": "com.am1105.ryzs_16.apk",
+        "app_activity": "com.am1105.ryzs.activity.SplashActivity"
+    },
+    {
+        "app_name": "疯读小说",
+        "package_name": "com.cootek.crazyreader",
+        "file_name": "com.cootek.crazyreader_17.apk",
+        "app_activity": "com.cootek.literature.startup.TPDStartupActivity"
+    },
+    {
+        "app_name": "全本小说TXT免费阅读器",
+        "package_name": "com.qbreader.www",
+        "file_name": "com.qbreader.www_18.apk",
+        "app_activity": "com.qbreader.www.activitys.MainActivity"
+    },
+    {
+        "app_name": "必阅免费小说",
+        "package_name": "com.bikann.dzsk",
+        "file_name": "com.bikann.dzsk_19.apk",
+        "app_activity": "com.lwby.breader.view.BKWelcomeActivity"
+    },
+    {
+        "app_name": "云书法",
+        "package_name": "cn.shcb.adYxUl",
+        "file_name": "cn.shcb.adYxUl_20.apk",
+        "app_activity": "com.startiasoft.vvportal.splash.WelcomeActivityBeforInit"
+    },
+    {
+        "app_name": "橙光阅读器",
+        "package_name": "com.avgorange.mailiang",
+        "file_name": "com.avgorange.mailiang_21.apk",
+        "app_activity": "main.opalyer.splash.SplashActivity"
+    },
+    {
+        "app_name": "大神小说",
+        "package_name": "com.sgswh.dashen",
+        "file_name": "com.sgswh.dashen_22.apk",
+        "app_activity": "com.yueyou.adreader.activity.SplashActivity"
+    },
+    {
+        "app_name": "纵横小说",
+        "package_name": "com.zongheng.reader",
+        "file_name": "com.zongheng.reader_23.apk",
+        "app_activity": "com.zongheng.reader.ui.common.ActivitySplash"
+    },
+    {
+        "app_name": " 追书神器 ",
+        "package_name": "com.ushaqi.zhuishushenqi",
+        "file_name": "com.ushaqi.zhuishushenqi_24.apk",
+        "app_activity": "com.ushaqi.zhuishushenqi.ui.SplashActivity"
+    },
+    {
+        "app_name": "快读小说追书",
+        "package_name": "com.klww.novel",
+        "file_name": "com.klww.novel_25.apk",
+        "app_activity": "com.klww.novel.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "绿读全本免费小说",
+        "package_name": "com.qbmf.reader",
+        "file_name": "com.qbmf.reader_26.apk",
+        "app_activity": "com.ldxs.reader.SplashActivity"
+    },
+    {
+        "app_name": "常读免费小说",
+        "package_name": "com.woodleaves.read",
+        "file_name": "com.woodleaves.read_27.apk",
+        "app_activity": "com.dragon.read.pages.splash.SplashActivity"
+    },
+    {
+        "app_name": "兵器阅读",
+        "package_name": "com.book.weaponread",
+        "file_name": "com.book.weaponread_29.apk",
+        "app_activity": "com.book.weaponRead.main.StartActivity"
+    },
+    {
+        "app_name": "椿和",
+        "package_name": "com.chunhe.novels",
+        "file_name": "com.chunhe.novels_30.apk",
+        "app_activity": "com.chunhe.novels.lanuch.SplashActivity"
+    },
+    {
+        "app_name": "阅兔文学",
+        "package_name": "com.yuetuwx.yuetu",
+        "file_name": "com.yuetuwx.yuetu_31.apk",
+        "app_activity": "com.yuetuwx.yuetu.ui.activity.NewSplashActivity"
+    },
+    {
+        "app_name": "江湖免费小说",
+        "package_name": "com.zhangdu.bumblebee",
+        "file_name": "com.zhangdu.bumblebee_32.apk",
+        "app_activity": "com.zhangdu.bumblebee.ui.launch.LauncherActivity"
+    },
+    {
+        "app_name": "阅友免费小说",
+        "package_name": "com.yueyou.adreader",
+        "file_name": "com.yueyou.adreader_34.apk",
+        "app_activity": "com.yueyou.adreader.activity.SplashActivity"
+    },
+    {
+        "app_name": "快看小说阅读",
+        "package_name": "cn.wejuan.reader",
+        "file_name": "cn.wejuan.reader_35.apk",
+        "app_activity": "com.esbook.reader.activity.ActLoading"
+    },
+    {
+        "app_name": "掌阅",
+        "package_name": "com.chaozh.iReaderFree",
+        "file_name": "com.chaozh.iReaderFree_36.apk",
+        "app_activity": "com.chaozh.iReader.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "酷匠阅读",
+        "package_name": "com.dpx.kujiang",
+        "file_name": "com.dpx.kujiang_37.apk",
+        "app_activity": "com.dpx.kujiang.ui.activity.LaunchActivity"
+    },
+    {
+        "app_name": "喵星人客户端阅读",
+        "package_name": "com.miaoxiaoan",
+        "file_name": "com.miaoxiaoan_38.apk",
+        "app_activity": "com.miaoxiaoan.MainLoading"
+    },
+    {
+        "app_name": "晓悟互动小说",
+        "package_name": "com.hdxs.phone",
+        "file_name": "com.hdxs.phone_39.apk",
+        "app_activity": "com.qiwu.app.module.LaunchActivity"
+    },
+    {
+        "app_name": "长佩阅读",
+        "package_name": "net.cpwxw.cpfiction",
+        "file_name": "net.cpwxw.cpfiction_40.apk",
+        "app_activity": "com.cpwx.reader.ui.old.activity.SplashActivity"
+    },
+    {
+        "app_name": "享阅 Pro",
+        "package_name": "com.particlethink.enjoyreading_pro",
+        "file_name": "com.particlethink.enjoyreading_pro_41.apk",
+        "app_activity": "com.particlethink.enjoyreading_pro.MainActivity"
+    },
+    {
+        "app_name": "宇宙文学",
+        "package_name": "com.cahvip.one",
+        "file_name": "com.cahvip.one_42.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "朵米星球",
+        "package_name": "com.duomixingqiu.dt",
+        "file_name": "com.duomixingqiu.dt_43.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "连城读书",
+        "package_name": "com.nine.NovelReader",
+        "file_name": "com.nine.NovelReader_44.apk",
+        "app_activity": "com.nine.NovelReader.UI.Activity.MainHomeActivity.SplashActivity"
+    },
+    {
+        "app_name": "甜桃",
+        "package_name": "com.qingyue.bugu.xt",
+        "file_name": "com.qingyue.bugu.xt_45.apk",
+        "app_activity": "com.qingyue.bugu.xt.MainActivity"
+    },
+    {
+        "app_name": "Neat Reader",
+        "package_name": "com.gzhi.neatreader.r2.main",
+        "file_name": "com.gzhi.neatreader.r2.main_46.apk",
+        "app_activity": "com.gzhi.neatreader.r2.ui.SplashActivity"
+    },
+    {
+        "app_name": " 追书神器免费版 ",
+        "package_name": "com.ushaqi.zhuishushenqi.adfree",
+        "file_name": "com.ushaqi.zhuishushenqi.adfree_47.apk",
+        "app_activity": "com.ushaqi.zhuishushenqi.ui.SplashActivity"
+    },
+    {
+        "app_name": "芝士小说",
+        "package_name": "com.dzkk.cheese",
+        "file_name": "com.dzkk.cheese_48.apk",
+        "app_activity": "com.dz.business.splash.ui.SplashActivity"
+    },
+    {
+        "app_name": "芦州书楼",
+        "package_name": "com.jhwl.lzsl",
+        "file_name": "com.jhwl.lzsl_49.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "全网小说大全YM",
+        "package_name": "com.tm.noveldq",
+        "file_name": "com.tm.noveldq_50.apk",
+        "app_activity": "com.lxb.douyuebook.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "布咕阅读",
+        "package_name": "uni.UNI001CBA1",
+        "file_name": "uni.UNI001CBA1_51.apk",
+        "app_activity": "uni.UNI001CBA1.MainActivity"
+    },
+    {
+        "app_name": "点众快看小说",
+        "package_name": "com.ishugui",
+        "file_name": "com.ishugui_52.apk",
+        "app_activity": "com.dz.business.splash.ui.SplashActivity"
+    },
+    {
+        "app_name": "起点读书",
+        "package_name": "com.qidian.QDReader",
+        "file_name": "com.qidian.QDReader_53.apk",
+        "app_activity": "com.qidian.QDReader.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "TXT文本听书",
+        "package_name": "com.wyfc.itingtxt2",
+        "file_name": "com.wyfc.itingtxt2_54.apk",
+        "app_activity": "com.wyfc.itingtxt2.activity.ActivityLoading"
+    },
+    {
+        "app_name": "大夏书系",
+        "package_name": "com.ecnup.aaS16d3",
+        "file_name": "com.ecnup.aaS16d3_55.apk",
+        "app_activity": "com.startiasoft.vvportal.splash.WelcomeActivityBeforInit"
+    },
+    {
+        "app_name": "妙招阅读器",
+        "package_name": "com.shuge.myReader",
+        "file_name": "com.shuge.myReader_56.apk",
+        "app_activity": "com.shuge.myReader.activities.MainActivity"
+    },
+    {
+        "app_name": "手机写小说",
+        "package_name": "com.wyfc.writenovel",
+        "file_name": "com.wyfc.writenovel_57.apk",
+        "app_activity": "com.wyfc.writenovel.activity.ActivityLoading"
+    },
+    {
+        "app_name": "红豆小说",
+        "package_name": "com.netease.novelreader",
+        "file_name": "com.netease.novelreader_58.apk",
+        "app_activity": "com.netease.novelreader.activity.PRISActivityFlasScreen"
+    },
+    {
+        "app_name": "琅阅小说",
+        "package_name": "com.idejian.LangYRead",
+        "file_name": "com.idejian.LangYRead_59.apk",
+        "app_activity": "com.chaozh.iReader.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "番薯免费小说",
+        "package_name": "com.hk.reader",
+        "file_name": "com.hk.reader_60.apk",
+        "app_activity": "com.hk.reader.module.startup.StartActivity"
+    },
+    {
+        "app_name": "寒武纪年小说",
+        "package_name": "com.hanwujinian.adq",
+        "file_name": "com.hanwujinian.adq_61.apk",
+        "app_activity": "com.hanwujinian.adq.mvp.ui.activity.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "香阅读",
+        "package_name": "com.iiestar.xiangread",
+        "file_name": "com.iiestar.xiangread_62.apk",
+        "app_activity": "com.iiestar.xiangread.SplashActivity"
+    },
+    {
+        "app_name": "趣阁小说",
+        "package_name": "com.bqg.ddnoverl",
+        "file_name": "com.bqg.ddnoverl_63.apk",
+        "app_activity": "com.biquge.book.activitys.WelcomeActivity"
+    },
+    {
+        "app_name": "TXT全本免费小说书城",
+        "package_name": "com.txtfreeread.novel",
+        "file_name": "com.txtfreeread.novel_64.apk",
+        "app_activity": "com.free.reader.resource.base.PermissionActivity"
+    },
+    {
+        "app_name": "小荷书阁",
+        "package_name": "com.tjzj.xiaoheread",
+        "file_name": "com.tjzj.xiaoheread_65.apk",
+        "app_activity": "com.tjzj.xiaoheread.MainActivity"
+    },
+    {
+        "app_name": "七番小说",
+        "package_name": "com.dawenming.kbreader",
+        "file_name": "com.dawenming.kbreader_67.apk",
+        "app_activity": "com.dawenming.kbreader.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "小书亭",
+        "package_name": "com.tc.xiaoshuting",
+        "file_name": "com.tc.xiaoshuting_68.apk",
+        "app_activity": "com.novel.read.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "点众小说",
+        "package_name": "com.dianzhong.reader",
+        "file_name": "com.dianzhong.reader_69.apk",
+        "app_activity": "com.dz.business.splash.ui.SplashActivity"
+    },
+    {
+        "app_name": "盛读",
+        "package_name": "com.kangaroo.shengdu",
+        "file_name": "com.kangaroo.shengdu_70.apk",
+        "app_activity": "com.chaozh.iReader.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "塔读小说",
+        "package_name": "com.tadu.read",
+        "file_name": "com.tadu.read_71.apk",
+        "app_activity": "com.tadu.android.ui.view.LoadingActivity"
+    },
+    {
+        "app_name": "咬文嚼字",
+        "package_name": "cn.touchv.aBEhoH1",
+        "file_name": "cn.touchv.aBEhoH1_72.apk",
+        "app_activity": "com.startiasoft.vvportal.splash.WelcomeActivityBeforInit"
+    },
+    {
+        "app_name": "Read the quick look Version",
+        "package_name": "com.huawei.hwread.al",
+        "file_name": "com.huawei.hwread.al_73.apk",
+        "app_activity": "com.dzbook.activity.SplashActivity"
+    },
+    {
+        "app_name": "Books",
+        "package_name": "com.huawei.hwread.dz",
+        "file_name": "com.huawei.hwread.dz_74.apk",
+        "app_activity": "com.huawei.reader.launch.impl.splash.SplashScreenActivity"
+    },
+    {
+        "app_name": "欢乐书客",
+        "package_name": "com.kuangxiang.novel",
+        "file_name": "com.kuangxiang.novel_75.apk",
+        "app_activity": "com.kuangxiang.novel.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "飞卢小说",
+        "package_name": "com.faloo.BookReader4Android",
+        "file_name": "com.faloo.BookReader4Android_76.apk",
+        "app_activity": "com.faloo.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "小说巴士",
+        "package_name": "com.zhangdu.zhangdustore",
+        "file_name": "com.zhangdu.zhangdustore_77.apk",
+        "app_activity": "com.zhangdu.zhangdustore.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "爱读掌阅",
+        "package_name": "com.chaozh.iReaderFree15",
+        "file_name": "com.chaozh.iReaderFree15_78.apk",
+        "app_activity": "com.chaozh.iReader.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "中信书院",
+        "package_name": "com.citicpub.fly",
+        "file_name": "com.citicpub.fly_79.apk",
+        "app_activity": "com.citicpub.fly.zhai.view.splash.SplashActivity"
+    },
+    {
+        "app_name": "书院小说",
+        "package_name": "cn.guochajiabing.collegenovel",
+        "file_name": "cn.guochajiabing.collegenovel_80.apk",
+        "app_activity": "cn.guochajiabing.collegenovel.MainActivity"
+    },
+    {
+        "app_name": "喵爪小说",
+        "package_name": "com.miaozhua.adreader",
+        "file_name": "com.miaozhua.adreader_81.apk",
+        "app_activity": "com.yueyou.adreader.activity.SplashActivity"
+    },
+    {
+        "app_name": "元阅读",
+        "package_name": "com.metareader.YYReader",
+        "file_name": "com.metareader.YYReader_82.apk",
+        "app_activity": "com.yuan.reader.main.WelcomeActivity"
+    },
+    {
+        "app_name": "爱看书极速版",
+        "package_name": "com.mfyueduqi.book",
+        "file_name": "com.mfyueduqi.book_83.apk",
+        "app_activity": "com.chineseall.reader.ui.FlashActivity"
+    },
+    {
+        "app_name": "阅趣阁",
+        "package_name": "com.kt.novel",
+        "file_name": "com.kt.novel_84.apk",
+        "app_activity": "com.kt.novel.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "趣读书免费小说",
+        "package_name": "com.qudubook.read",
+        "file_name": "com.qudubook.read_85.apk",
+        "app_activity": "com.qudubook.read.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "热门小说大全",
+        "package_name": "com.scly.rmxsdq",
+        "file_name": "com.scly.rmxsdq_86.apk",
+        "app_activity": "com.dz.business.splash.ui.SplashActivity"
+    },
+    {
+        "app_name": "锦书",
+        "package_name": "com.wifi.reader.jinshu",
+        "file_name": "com.wifi.reader.jinshu_87.apk",
+        "app_activity": "com.wifi.reader.jinshu.module_main.ui.SplashActivity"
+    },
+    {
+        "app_name": "咪咕阅读",
+        "package_name": "com.ophone.reader.ui",
+        "file_name": "com.ophone.reader.ui_88.apk",
+        "app_activity": "com.cmread.bplusc.bookshelf.LocalMainActivity"
+    },
+    {
+        "app_name": "淘小说",
+        "package_name": "com.martian.ttbook",
+        "file_name": "com.martian.ttbook_89.apk",
+        "app_activity": "com.martian.mibook.activity.EnterActivity"
+    },
+    {
+        "app_name": "连尚免费读书",
+        "package_name": "com.wifi.reader.free",
+        "file_name": "com.wifi.reader.free_90.apk",
+        "app_activity": "com.wifi.reader.jinshu.module_main.ui.SplashActivity"
+    },
+    {
+        "app_name": "连尚读书女生版",
+        "package_name": "com.wifi.reader.girl",
+        "file_name": "com.wifi.reader.girl_91.apk",
+        "app_activity": "com.wifi.reader.jinshu.module_main.ui.SplashActivity"
+    },
+    {
+        "app_name": "连尚读书极速版",
+        "package_name": "com.wifi.reader.lite",
+        "file_name": "com.wifi.reader.lite_92.apk",
+        "app_activity": "com.wifi.reader.jinshu.module_main.ui.SplashActivity"
+    },
+    {
+        "app_name": "典藏故事会",
+        "package_name": "com.diancang.jb.gsh",
+        "file_name": "com.diancang.jb.gsh_93.apk",
+        "app_activity": "com.diancang.jb.gsh.MainActivity"
+    },
+    {
+        "app_name": "悠然免费小说",
+        "package_name": "com.keemoo.reader",
+        "file_name": "com.keemoo.reader_94.apk",
+        "app_activity": "com.keemoo.reader.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "奇迹免费小说",
+        "package_name": "reader.com.xmly.xmlyreader",
+        "file_name": "reader.com.xmly.xmlyreader_95.apk",
+        "app_activity": "reader.com.xmly.xmlyreader.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "快手免费小说",
+        "package_name": "com.kuaishou.kgx.novel",
+        "file_name": "com.kuaishou.kgx.novel_96.apk",
+        "app_activity": "com.kuaishou.novel.splash.SplashActivity"
+    },
+    {
+        "app_name": "蛋花免费小说",
+        "package_name": "com.eggflower.read",
+        "file_name": "com.eggflower.read_97.apk",
+        "app_activity": "com.dragon.read.pages.splash.SplashActivity"
+    },
+    {
+        "app_name": "熊猫脑洞小说",
+        "package_name": "com.xm.freader",
+        "file_name": "com.xm.freader_98.apk",
+        "app_activity": "com.km.app.home.view.LoadingActivity"
+    },
+    {
+        "app_name": "得间小说",
+        "package_name": "com.chaozh.iReader.dj",
+        "file_name": "com.chaozh.iReader.dj_99.apk",
+        "app_activity": "com.chaozh.iReader.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "咪咕云书店",
+        "package_name": "com.migu.book.zhongxin",
+        "file_name": "com.migu.book.zhongxin_100.apk",
+        "app_activity": "com.cmread.bplusc.bookshelf.LocalMainActivity"
+    },
+    {
+        "app_name": "贝壳阅读",
+        "package_name": "com.app.beike",
+        "file_name": "com.app.beike_101.apk",
+        "app_activity": "com.app.bimo.ui.SplashActivity"
+    },
+    {
+        "app_name": "格子小说",
+        "package_name": "com.yifanfree.reader",
+        "file_name": "com.yifanfree.reader_102.apk",
+        "app_activity": "com.yueyou.adreader.activity.SplashActivity"
+    },
+    {
+        "app_name": "国韵承传",
+        "package_name": "cn.touchv.aNzoKN1",
+        "file_name": "cn.touchv.aNzoKN1_103.apk",
+        "app_activity": "com.startiasoft.vvportal.splash.WelcomeActivityBeforInit"
+    },
+    {
+        "app_name": "月鼠小说",
+        "package_name": "com.yueyou.fast",
+        "file_name": "com.yueyou.fast_104.apk",
+        "app_activity": "com.yueyou.adreader.activity.SplashActivity"
+    },
+    {
+        "app_name": "微信读书",
+        "package_name": "com.tencent.weread",
+        "file_name": "com.tencent.weread_105.apk",
+        "app_activity": "com.tencent.weread.LauncherActivity"
+    },
+    {
+        "app_name": "连尚读书",
+        "package_name": "com.wifi.reader",
+        "file_name": "com.wifi.reader_106.apk",
+        "app_activity": "com.wifi.reader.jinshu.module_main.ui.SplashActivity"
+    },
+    {
+        "app_name": "速读免费小说",
+        "package_name": "com.dj.speed",
+        "file_name": "com.dj.speed_107.apk",
+        "app_activity": "com.chaozh.iReader.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "阅贵·阅多彩",
+        "package_name": "cn.gogpay.guiydc",
+        "file_name": "cn.gogpay.guiydc_108.apk",
+        "app_activity": "cn.gogpay.guiydc.activity.SplashActivity"
+    },
+    {
+        "app_name": "深圳书城",
+        "package_name": "com.szclouds.wisdombookstore",
+        "file_name": "com.szclouds.wisdombookstore_109.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "蓝悦阅读",
+        "package_name": "lanyue.reader",
+        "file_name": "lanyue.reader_110.apk",
+        "app_activity": "chineseall.col.rural.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "青橙小说",
+        "package_name": "com.qingcheng.reader",
+        "file_name": "com.qingcheng.reader_111.apk",
+        "app_activity": "com.yueyou.adreader.activity.SplashActivity"
+    },
+    {
+        "app_name": "淘故事",
+        "package_name": "songqiu.allthings",
+        "file_name": "songqiu.allthings_112.apk",
+        "app_activity": "songqiu.allthings.activity.LauncherActivity"
+    },
+    {
+        "app_name": "悦听",
+        "package_name": "uni.UNIDA502FE",
+        "file_name": "uni.UNIDA502FE_113.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "香网小说",
+        "package_name": "com.boetech.xiangread",
+        "file_name": "com.boetech.xiangread_114.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "红袖读书",
+        "package_name": "com.hongxiu.app",
+        "file_name": "com.hongxiu.app_115.apk",
+        "app_activity": "com.readx.pages.SplashActivity"
+    },
+    {
+        "app_name": "书香园区",
+        "package_name": "com.jartoo.sdll.mylib",
+        "file_name": "com.jartoo.sdll.mylib_116.apk",
+        "app_activity": "com.jartoo.sdll.mylib.activity.main.SplashActivity"
+    },
+    {
+        "app_name": "汽水小说",
+        "package_name": "com.qishui.reader",
+        "file_name": "com.qishui.reader_117.apk",
+        "app_activity": "com.bkneng.reader.splash.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "书香河南",
+        "package_name": "com.sxhn.client",
+        "file_name": "com.sxhn.client_118.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "畅想之星",
+        "package_name": "com.rtbook.book",
+        "file_name": "com.rtbook.book_119.apk",
+        "app_activity": "com.rtbook.book.MainActivity"
+    },
+    {
+        "app_name": "百度阅读",
+        "package_name": "com.baidu.yuedu",
+        "file_name": "com.baidu.yuedu_120.apk",
+        "app_activity": "com.baidu.yuedu.splash.SplashActivity"
+    },
+    {
+        "app_name": "微书房",
+        "package_name": "com.chineseall.microbookroom",
+        "file_name": "com.chineseall.microbookroom_121.apk",
+        "app_activity": "com.chineseall.launch.SplashActivity"
+    },
+    {
+        "app_name": "拾光小说",
+        "package_name": "com.shiguang.reader",
+        "file_name": "com.shiguang.reader_122.apk",
+        "app_activity": "com.yueyou.adreader.activity.SplashActivity"
+    },
+    {
+        "app_name": "看豆小说",
+        "package_name": "com.kandouxiaoshuo.reader",
+        "file_name": "com.kandouxiaoshuo.reader_123.apk",
+        "app_activity": "com.kandouxiaoshuo.reader.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "TXT全本免费小说全集",
+        "package_name": "cn.ttkmfxs.novel",
+        "file_name": "cn.ttkmfxs.novel_124.apk",
+        "app_activity": "com.free.reader.resource.base.PermissionActivity"
+    },
+    {
+        "app_name": "阅读掌阅版",
+        "package_name": "com.huawei.hwireader",
+        "file_name": "com.huawei.hwireader_125.apk",
+        "app_activity": "com.chaozh.iReader.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "有章阅读",
+        "package_name": "lawpress.phonelawyer",
+        "file_name": "lawpress.phonelawyer_126.apk",
+        "app_activity": "lawpress.phonelawyer.activitys.ActLdSplash"
+    },
+    {
+        "app_name": "丸漫",
+        "package_name": "com.wanman66.wm",
+        "file_name": "com.wanman66.wm_127.apk",
+        "app_activity": "com.wanman66.wm.business.home.SplashActivity"
+    },
+    {
+        "app_name": "世知书屋",
+        "package_name": "com.hanweb.ishizhi",
+        "file_name": "com.hanweb.ishizhi_128.apk",
+        "app_activity": "com.hanweb.ishizhi.activity.MainActivity"
+    },
+    {
+        "app_name": "全民写小说",
+        "package_name": "com.mengjun.write_novel_qm",
+        "file_name": "com.mengjun.write_novel_qm_129.apk",
+        "app_activity": "com.mengjun.write_novel_qm.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "火文小说",
+        "package_name": "com.huowen.hot",
+        "file_name": "com.huowen.hot_130.apk",
+        "app_activity": "com.xunyou.libservice.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "灵猫免费小说",
+        "package_name": "com.lingmaowenxue",
+        "file_name": "com.lingmaowenxue_131.apk",
+        "app_activity": "com.lingmaowenxue.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "课书房",
+        "package_name": "uni.UNI1ECAD45",
+        "file_name": "uni.UNI1ECAD45_132.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "话本小说极速版",
+        "package_name": "com.huabenapp.exo",
+        "file_name": "com.huabenapp.exo_133.apk",
+        "app_activity": "com.huabenapp.MainActivity"
+    },
+    {
+        "app_name": "趣读免费小说",
+        "package_name": "com.martian.qmbook.qdbook",
+        "file_name": "com.martian.qmbook.qdbook_134.apk",
+        "app_activity": "com.martian.mibook.activity.EnterActivity"
+    },
+    {
+        "app_name": " 饭团追书 ",
+        "package_name": "com.ushaqi.fantuan",
+        "file_name": "com.ushaqi.fantuan_135.apk",
+        "app_activity": "com.ushaqi.zhuishushenqi.ui.SplashActivity"
+    },
+    {
+        "app_name": "瓜子星球",
+        "package_name": "com.guazixingqiu.dt",
+        "file_name": "com.guazixingqiu.dt_136.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "元星球",
+        "package_name": "com.winqer.ystar",
+        "file_name": "com.winqer.ystar_137.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "网易蜗牛读书",
+        "package_name": "com.netease.snailread",
+        "file_name": "com.netease.snailread_138.apk",
+        "app_activity": "com.netease.snailread.activity.SplashActivity"
+    },
+    {
+        "app_name": "爱奇艺小说",
+        "package_name": "com.qiyi.video.reader",
+        "file_name": "com.qiyi.video.reader_139.apk",
+        "app_activity": "com.qiyi.video.reader.activity.AgreeFlashActivity"
+    },
+    {
+        "app_name": "快点阅读",
+        "package_name": "com.skyplatanus.crucio",
+        "file_name": "com.skyplatanus.crucio_140.apk",
+        "app_activity": "com.skyplatanus.crucio.ui.splash.SplashContainerActivity"
+    },
+    {
+        "app_name": "一耽阅读器",
+        "package_name": "cylxx.yizmh.kjug",
+        "file_name": "cylxx.yizmh.kjug_141.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "火把知识",
+        "package_name": "com.huoba.Huoba",
+        "file_name": "com.huoba.Huoba_142.apk",
+        "app_activity": "com.huoba.Huoba.module.common.ui.LoadingActivity"
+    },
+    {
+        "app_name": "点文小说",
+        "package_name": "uni.UNIE8DF319",
+        "file_name": "uni.UNIE8DF319_145.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "免费趣小说",
+        "package_name": "com.fread.interestingnovel",
+        "file_name": "com.fread.interestingnovel_146.apk",
+        "app_activity": "com.fread.shucheng.ui.main.MainActivity"
+    },
+    {
+        "app_name": "花生小说",
+        "package_name": "com.huashengxiaoshuo.reader",
+        "file_name": "com.huashengxiaoshuo.reader_147.apk",
+        "app_activity": "com.huashengxiaoshuo.reader.main.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "小说月报",
+        "package_name": "com.baihuawenyi.xsyb",
+        "file_name": "com.baihuawenyi.xsyb_148.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "悦读时刻",
+        "package_name": "com.taige.hongbaokd",
+        "file_name": "com.taige.hongbaokd_149.apk",
+        "app_activity": "com.taige.mygold.SplashActivity"
+    },
+    {
+        "app_name": "得间小说极速版",
+        "package_name": "com.chaozh.iReader.dj.speed",
+        "file_name": "com.chaozh.iReader.dj.speed_150.apk",
+        "app_activity": "com.chaozh.iReader.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "番茄免费小说",
+        "package_name": "com.dragon.read",
+        "file_name": "com.dragon.read_151.apk",
+        "app_activity": "com.dragon.read.pages.splash.SplashActivity"
+    },
+    {
+        "app_name": "腐竹小说",
+        "package_name": "com.nine.FuzhuReader",
+        "file_name": "com.nine.FuzhuReader_152.apk",
+        "app_activity": "com.nine.FuzhuReader.activity.advert.SplashActivity"
+    },
+    {
+        "app_name": "小说阅读吧",
+        "package_name": "com.xiaoshuo.yueluread",
+        "file_name": "com.xiaoshuo.yueluread_153.apk",
+        "app_activity": "com.dz.business.splash.ui.SplashActivity"
+    },
+    {
+        "app_name": "小说大全",
+        "package_name": "com.aikan",
+        "file_name": "com.aikan_154.apk",
+        "app_activity": "com.dz.business.splash.ui.SplashActivity"
+    },
+    {
+        "app_name": "藏书馆",
+        "package_name": "com.cliff",
+        "file_name": "com.cliff_155.apk",
+        "app_activity": "com.cliff.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "菠萝包轻小说",
+        "package_name": "com.sfacg",
+        "file_name": "com.sfacg_156.apk",
+        "app_activity": "com.sf.ui.launcher.SplashSecondActivity"
+    },
+    {
+        "app_name": "雅鑫阅读",
+        "package_name": "com.yaxin.bst.yuedu",
+        "file_name": "com.yaxin.bst.yuedu_157.apk",
+        "app_activity": "com.yaxin.bst.yuedu.MainActivity"
+    },
+    {
+        "app_name": "藏龙小说",
+        "package_name": "com.canglong.read.lite",
+        "file_name": "com.canglong.read.lite_158.apk",
+        "app_activity": "com.shulu.read.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "网易云阅读",
+        "package_name": "com.netease.pris",
+        "file_name": "com.netease.pris_159.apk",
+        "app_activity": "com.netease.pris.activity.PRISActivityFlasScreen"
+    },
+    {
+        "app_name": "免费小说阅读星",
+        "package_name": "com.yueduxing.xsreader",
+        "file_name": "com.yueduxing.xsreader_161.apk",
+        "app_activity": "com.xd.reader.SplashActivity"
+    },
+    {
+        "app_name": "委员读书平台",
+        "package_name": "com.qgzx.reader",
+        "file_name": "com.qgzx.reader_162.apk",
+        "app_activity": "com.tencent.zx.main.ui.SplashActivity"
+    },
+    {
+        "app_name": "沐沐悦读",
+        "package_name": "com.mumuyuedu.mmydreader",
+        "file_name": "com.mumuyuedu.mmydreader_163.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "尖兵联娱乐",
+        "package_name": "com.jblink.jblhappy.happy",
+        "file_name": "com.jblink.jblhappy.happy_164.apk",
+        "app_activity": "com.jblink.jblhappy.happy.activity.SplashActivity"
+    },
+    {
+        "app_name": "番薯小说",
+        "package_name": "com.mantec.fsn",
+        "file_name": "com.mantec.fsn_165.apk",
+        "app_activity": "com.mantec.fsn.ui.activity.splash.StartActivity"
+    },
+    {
+        "app_name": "有部小说",
+        "package_name": "com.anovel.reader",
+        "file_name": "com.anovel.reader_166.apk",
+        "app_activity": "com.anovel.reader.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "话本小说",
+        "package_name": "com.huabenapp",
+        "file_name": "com.huabenapp_167.apk",
+        "app_activity": "com.huabenapp.MainActivity"
+    },
+    {
+        "app_name": "多看",
+        "package_name": "com.duokan.reader",
+        "file_name": "com.duokan.reader_168.apk",
+        "app_activity": "com.duokan.reader.DkReaderActivity"
+    },
+    {
+        "app_name": "海读小说",
+        "package_name": "com.iyoo.haiduxiaoshuo",
+        "file_name": "com.iyoo.haiduxiaoshuo_169.apk",
+        "app_activity": "com.iyoo.business.launcher.pages.splash.SplashActivity"
+    },
+    {
+        "app_name": "国家哲学社会科学文献中心",
+        "package_name": "org.ncpssd.lib",
+        "file_name": "org.ncpssd.lib_170.apk",
+        "app_activity": "org.ncpssd.lib.Activity.MainActivity"
+    },
+    {
+        "app_name": "读乐星空",
+        "package_name": "com.sdt.dlxk",
+        "file_name": "com.sdt.dlxk_171.apk",
+        "app_activity": "com.sdt.dlxk.ui.activity.MainActivity"
+    },
+    {
+        "app_name": "速看免费小说",
+        "package_name": "com.chaozh.xincao.only.sk",
+        "file_name": "com.chaozh.xincao.only.sk_172.apk",
+        "app_activity": "com.chaozh.iReader.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "绿豆免费小说",
+        "package_name": "com.ldxs.reader",
+        "file_name": "com.ldxs.reader_173.apk",
+        "app_activity": "com.ldxs.reader.SplashActivity"
+    },
+    {
+        "app_name": "宜搜小说",
+        "package_name": "com.esbook.reader",
+        "file_name": "com.esbook.reader_175.apk",
+        "app_activity": "com.esbook.reader.activity.ActLoading"
+    },
+    {
+        "app_name": "写小说",
+        "package_name": "com.wyfc.writecreate",
+        "file_name": "com.wyfc.writecreate_176.apk",
+        "app_activity": "com.wyfc.writecreate.activity.ActivityLoading"
+    },
+    {
+        "app_name": "七猫免费小说",
+        "package_name": "com.kmxs.reader",
+        "file_name": "com.kmxs.reader_177.apk",
+        "app_activity": "com.km.app.home.view.LoadingActivity"
+    },
+    {
+        "app_name": "熊猫看书",
+        "package_name": "com.nd.android.pandareader",
+        "file_name": "com.nd.android.pandareader_178.apk",
+        "app_activity": "com.baidu.shucheng.ui.main.LauncherActivity"
+    },
+    {
+        "app_name": "先晓书院",
+        "package_name": "com.android.xxbookread",
+        "file_name": "com.android.xxbookread_179.apk",
+        "app_activity": "com.android.xxbookread.MainActivity"
+    },
+    {
+        "app_name": "掌阅精选",
+        "package_name": "com.zhangyue.read.iReader",
+        "file_name": "com.zhangyue.read.iReader_180.apk",
+        "app_activity": "com.chaozh.iReader.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "特写",
+        "package_name": "com.hoge.android.app.texie",
+        "file_name": "com.hoge.android.app.texie_181.apk",
+        "app_activity": "com.hoge.android.factory.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "书旗小说",
+        "package_name": "com.shuqi.controller",
+        "file_name": "com.shuqi.controller_182.apk",
+        "app_activity": "com.shuqi.home.MainActivity"
+    },
+    {
+        "app_name": "潇湘书院",
+        "package_name": "com.xx.reader",
+        "file_name": "com.xx.reader_183.apk",
+        "app_activity": "com.xx.reader.launch.SplashActivity"
+    },
+    {
+        "app_name": "人美",
+        "package_name": "plus.H55B819F7",
+        "file_name": "plus.H55B819F7_184.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "爱看书免费小说",
+        "package_name": "com.mianfeia.book",
+        "file_name": "com.mianfeia.book_185.apk",
+        "app_activity": "com.chineseall.reader.ui.FlashActivity"
+    },
+    {
+        "app_name": "一个",
+        "package_name": "one.hh.oneclient",
+        "file_name": "one.hh.oneclient_186.apk",
+        "app_activity": "one.hh.oneclient.activitys.OneClient"
+    },
+    {
+        "app_name": "点点穿书",
+        "package_name": "com.cyclotron.in",
+        "file_name": "com.cyclotron.in_187.apk",
+        "app_activity": "com.cyclotron.android.MainActivity"
+    },
+    {
+        "app_name": "一纸小说",
+        "package_name": "com.yzqcfiction.book",
+        "file_name": "com.yzqcfiction.book_188.apk",
+        "app_activity": "com.yzqcfiction.book.modle.start.StartActivity"
+    },
+    {
+        "app_name": "逐浪小说",
+        "package_name": "com.zhulang.reader",
+        "file_name": "com.zhulang.reader_189.apk",
+        "app_activity": "com.zhulang.reader.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "乐文故事",
+        "package_name": "com.black.happy.story",
+        "file_name": "com.black.happy.story_190.apk",
+        "app_activity": "com.black.lewen.story.SplashActivity"
+    },
+    {
+        "app_name": "爱书猫",
+        "package_name": "cn.aishumao.android",
+        "file_name": "cn.aishumao.android_191.apk",
+        "app_activity": "cn.aishumao.android.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "碧水全本小说",
+        "package_name": "com.jjwxc.jwjskandriod",
+        "file_name": "com.jjwxc.jwjskandriod_192.apk",
+        "app_activity": "com.jjwxc.jwjskandriod.activity.SplashActivity"
+    },
+    {
+        "app_name": "当当云阅读",
+        "package_name": "com.dangdang.reader",
+        "file_name": "com.dangdang.reader_193.apk",
+        "app_activity": "com.dangdang.reader.activity.GuideActivity"
+    },
+    {
+        "app_name": "华服志",
+        "package_name": "com.huafuzhi.app",
+        "file_name": "com.huafuzhi.app_194.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "盐言故事",
+        "package_name": "com.zhihu.vip.android",
+        "file_name": "com.zhihu.vip.android_195.apk",
+        "app_activity": "com.zhihu.android.app.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "逐浪作家助手",
+        "package_name": "com.zhulang.writer",
+        "file_name": "com.zhulang.writer_196.apk",
+        "app_activity": "com.zhulang.writer.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "交我学",
+        "package_name": "com.shjiaoda.aKsUyw1",
+        "file_name": "com.shjiaoda.aKsUyw1_197.apk",
+        "app_activity": "com.startiasoft.vvportal.splash.WelcomeActivityBeforInit"
+    },
+    {
+        "app_name": "七读",
+        "package_name": "com.dj.sevenRead",
+        "file_name": "com.dj.sevenRead_198.apk",
+        "app_activity": "com.chaozh.iReader.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "钱塘书城",
+        "package_name": "com.qtsc.xs",
+        "file_name": "com.qtsc.xs_199.apk",
+        "app_activity": "com.yueyou.adreader.activity.SplashActivity"
+    },
+    {
+        "app_name": "QQ阅读",
+        "package_name": "com.qq.reader",
+        "file_name": "com.qq.reader_200.apk",
+        "app_activity": "com.qq.reader.activity.launch.DefaultAliasSplashActivity"
+    },
+    {
+        "app_name": "抖阅免费小说",
+        "package_name": "com.dyxs.read",
+        "file_name": "com.dyxs.read_201.apk",
+        "app_activity": "com.songcha.module_splash.ui.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "17K小说",
+        "package_name": "com.chineseall.reader",
+        "file_name": "com.chineseall.reader_202.apk",
+        "app_activity": "com.chineseall.reader.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "刺猬猫阅读",
+        "package_name": "com.kuangxiangciweimao.novel",
+        "file_name": "com.kuangxiangciweimao.novel_203.apk",
+        "app_activity": "com.kuangxiangciweimao.novel.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "全国报刊索引",
+        "package_name": "com.bksy.mobile.app",
+        "file_name": "com.bksy.mobile.app_204.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "萤火小说",
+        "package_name": "com.novel.fread",
+        "file_name": "com.novel.fread_205.apk",
+        "app_activity": "defPackage.aab"
+    },
+    {
+        "app_name": "免费追书",
+        "package_name": "com.mianfeizs.book",
+        "file_name": "com.mianfeizs.book_206.apk",
+        "app_activity": "com.chineseall.reader.ui.FlashActivity"
+    },
+    {
+        "app_name": "番薯小说阅读器",
+        "package_name": "com.manmeng.fanshu.reader",
+        "file_name": "com.manmeng.fanshu.reader_207.apk",
+        "app_activity": "com.mantec.fsn.ui.activity.splash.StartActivity"
+    }
+]

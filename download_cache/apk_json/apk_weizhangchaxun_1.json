@@ -1,0 +1,26 @@
+[
+    {
+        "app_name": "北京交警",
+        "package_name": "com.zcbl.bjjj_driving",
+        "file_name": "com.zcbl.bjjj_driving_1.apk",
+        "app_activity": "com.zcbl.home.SplashActivity"
+    },
+    {
+        "app_name": "车e估商家版",
+        "package_name": "com.gzfn.cardealer",
+        "file_name": "com.gzfn.cardealer_2.apk",
+        "app_activity": "com.gzfn.cardealer.model.splash.SplashActivity"
+    },
+    {
+        "app_name": "车代帮交通违章查询",
+        "package_name": "com.sanwenkeji2021.mm",
+        "file_name": "com.sanwenkeji2021.mm_3.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "车贷在线",
+        "package_name": "com.xiaoyutimes.carloanonline",
+        "file_name": "com.xiaoyutimes.carloanonline_4.apk",
+        "app_activity": "com.xiaoyutimes.carloanonline.ui.splash.SplashActivity"
+    }
+]

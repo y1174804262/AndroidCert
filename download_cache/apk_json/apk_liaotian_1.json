@@ -1,0 +1,2937 @@
+[
+    {
+        "app_name": "闲趣岛",
+        "package_name": "com.bxmb.xqd",
+        "file_name": "com.bxmb.xqd_1.apk",
+        "app_activity": "com.xqd.SplashActivity"
+    },
+    {
+        "app_name": "爱妹视频交友",
+        "package_name": "com.yiyan.strong",
+        "file_name": "com.yiyan.strong_2.apk",
+        "app_activity": "com.heart.heartapp.module.StartActivity"
+    },
+    {
+        "app_name": "花爱",
+        "package_name": "com.dianding.fdqn",
+        "file_name": "com.dianding.fdqn_3.apk",
+        "app_activity": "com.dianding.fdqn.common.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "轻语",
+        "package_name": "com.duowan.xunhuan",
+        "file_name": "com.duowan.xunhuan_4.apk",
+        "app_activity": "com.duowan.makefriends.prelogin.SplashActivity"
+    },
+    {
+        "app_name": "LesPark",
+        "package_name": "com.redwolfama.peonylespark",
+        "file_name": "com.redwolfama.peonylespark_5.apk",
+        "app_activity": "com.redwolfama.peonylespark.m_app.welcome.SplashActivity"
+    },
+    {
+        "app_name": "CP滴滴",
+        "package_name": "me.czhd.one",
+        "file_name": "me.czhd.one_6.apk",
+        "app_activity": "me.czhd.one.module.app.ui.StartActivity"
+    },
+    {
+        "app_name": "附近约会吧",
+        "package_name": "com.youcaihua.bdxljy",
+        "file_name": "com.youcaihua.bdxljy_7.apk",
+        "app_activity": "com.youcaihua.bdxljy.SplashActivity"
+    },
+    {
+        "app_name": "小陪伴语音",
+        "package_name": "com.lizhi.heiye",
+        "file_name": "com.lizhi.heiye_8.apk",
+        "app_activity": "com.yibasan.lizhifm.activities.EntryPointActivity"
+    },
+    {
+        "app_name": "附近陌爱探聊",
+        "package_name": "com.duomiqu.lhjyhw",
+        "file_name": "com.duomiqu.lhjyhw_9.apk",
+        "app_activity": "com.moyou.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "连枝",
+        "package_name": "com.sgbxs.lzhi",
+        "file_name": "com.sgbxs.lzhi_10.apk",
+        "app_activity": "zyxd.fish.live.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "组CP",
+        "package_name": "me.ddkj.cp",
+        "file_name": "me.ddkj.cp_11.apk",
+        "app_activity": "me.ddkj.cp.module.app.ui.StartActivity"
+    },
+    {
+        "app_name": "么么交友",
+        "package_name": "com.peipeizhibo.android",
+        "file_name": "com.peipeizhibo.android_12.apk",
+        "app_activity": "com.memezhibo.android.activity.EntryActivity"
+    },
+    {
+        "app_name": "COSAI",
+        "package_name": "cn.tensormatrix.app",
+        "file_name": "cn.tensormatrix.app_13.apk",
+        "app_activity": "monster.sai.MainActivity"
+    },
+    {
+        "app_name": "Yeetalk",
+        "package_name": "com.imback.palpal",
+        "file_name": "com.imback.palpal_14.apk",
+        "app_activity": "com.imback.palpal.splash.SplashActivity"
+    },
+    {
+        "app_name": "瞬爱",
+        "package_name": "com.walnut.shunai",
+        "file_name": "com.walnut.shunai_15.apk",
+        "app_activity": "com.walnut.shunai.LauncherActivity"
+    },
+    {
+        "app_name": "星约",
+        "package_name": "com.xingyue.jiayin",
+        "file_name": "com.xingyue.jiayin_16.apk",
+        "app_activity": "com.socialapp.chat.CPFXStartActivity"
+    },
+    {
+        "app_name": "彼聊漂流瓶",
+        "package_name": "com.duokennuo.app.chattogether",
+        "file_name": "com.duokennuo.app.chattogether_17.apk",
+        "app_activity": "com.duokennuo.app.chattogether.SplashActivity"
+    },
+    {
+        "app_name": "美优",
+        "package_name": "com.quanmai.meiyu",
+        "file_name": "com.quanmai.meiyu_18.apk",
+        "app_activity": "com.quanmai.meiyu.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "比陌",
+        "package_name": "com.mk.bimo",
+        "file_name": "com.mk.bimo_19.apk",
+        "app_activity": "com.mk.bimo.module.SplashActivity"
+    },
+    {
+        "app_name": "浪尤",
+        "package_name": "com.mk.lang",
+        "file_name": "com.mk.lang_20.apk",
+        "app_activity": "com.mk.lang.module.SplashActivity"
+    },
+    {
+        "app_name": "良缘",
+        "package_name": "com.hntl.tl",
+        "file_name": "com.hntl.tl_21.apk",
+        "app_activity": "zyxd.fish.live.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "附近单身约会",
+        "package_name": "com.xiaoqingcai.bdmy",
+        "file_name": "com.xiaoqingcai.bdmy_22.apk",
+        "app_activity": "com.xiaoqingcai.bdmy.SplashActivity"
+    },
+    {
+        "app_name": "妞妞",
+        "package_name": "com.remit.niuniu",
+        "file_name": "com.remit.niuniu_23.apk",
+        "app_activity": "com.remit.niuniu.module.StartActivity"
+    },
+    {
+        "app_name": "附近织聊陌生人",
+        "package_name": "com.yuxiang.mlb",
+        "file_name": "com.yuxiang.mlb_24.apk",
+        "app_activity": "com.mshy.VInterestSpeed.common.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "WorldTalk",
+        "package_name": "com.zerophil.worldtalk.huawei",
+        "file_name": "com.zerophil.worldtalk.huawei_25.apk",
+        "app_activity": "com.zerophil.worldtalk.ui.SplashActivity"
+    },
+    {
+        "app_name": "虚拟恋人",
+        "package_name": "cn.dylovemm.csyh",
+        "file_name": "cn.dylovemm.csyh_26.apk",
+        "app_activity": "com.module.main.SplashActivity"
+    },
+    {
+        "app_name": "NOWT",
+        "package_name": "com.HZneimatchingandcaNEIq.nowTApp",
+        "file_name": "com.HZneimatchingandcaNEIq.nowTApp_27.apk",
+        "app_activity": "com.goblin.nowtime.MainActivity"
+    },
+    {
+        "app_name": "附近闪爱",
+        "package_name": "com.miyuan.fjsa",
+        "file_name": "com.miyuan.fjsa_28.apk",
+        "app_activity": "com.miyuan.fjsa.SplashActivity"
+    },
+    {
+        "app_name": "寻密社",
+        "package_name": "tm.com.xunmishe",
+        "file_name": "tm.com.xunmishe_29.apk",
+        "app_activity": "tm.com.xunmishe.view.activity.home.RPRevereWillowyLoading"
+    },
+    {
+        "app_name": "附近蜜约会",
+        "package_name": "com.runquan.fjmyh",
+        "file_name": "com.runquan.fjmyh_30.apk",
+        "app_activity": "com.runquan.fjmyh.SplashActivity"
+    },
+    {
+        "app_name": "想见探聊",
+        "package_name": "com.xq.xjian",
+        "file_name": "com.xq.xjian_31.apk",
+        "app_activity": "com.ycyh.comemeet.SplashActivity"
+    },
+    {
+        "app_name": "小手帕",
+        "package_name": "com.huaran.shoupa",
+        "file_name": "com.huaran.shoupa_32.apk",
+        "app_activity": "com.baraqox.upme.upme.MainActivity"
+    },
+    {
+        "app_name": "轻甜",
+        "package_name": "com.xyz.qingtian",
+        "file_name": "com.xyz.qingtian_33.apk",
+        "app_activity": "com.qsmy.busniess.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "觅伊",
+        "package_name": "com.datalink.miyi",
+        "file_name": "com.datalink.miyi_34.apk",
+        "app_activity": "com.datalink.miyi.restructure.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "赫兹",
+        "package_name": "com.immomo.vchat",
+        "file_name": "com.immomo.vchat_35.apk",
+        "app_activity": "com.immomo.vchat.activity.SplashActivity"
+    },
+    {
+        "app_name": "陌陌极速版",
+        "package_name": "com.immomo.young",
+        "file_name": "com.immomo.young_36.apk",
+        "app_activity": "com.immomo.momo.android.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "甜友",
+        "package_name": "com.nnxw.heyuan",
+        "file_name": "com.nnxw.heyuan_37.apk",
+        "app_activity": "com.nnxw.heyuan.ui.SplashActivity"
+    },
+    {
+        "app_name": "爱缘",
+        "package_name": "com.aiyuan.liao",
+        "file_name": "com.aiyuan.liao_38.apk",
+        "app_activity": "zyxd.aiyuan.live.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "邀欢",
+        "package_name": "com.duoxikeliao.fafa",
+        "file_name": "com.duoxikeliao.fafa_39.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "KK星球",
+        "package_name": "com.feizhi.zanzan",
+        "file_name": "com.feizhi.zanzan_40.apk",
+        "app_activity": "com.casic.titan.shadow.MainActivity"
+    },
+    {
+        "app_name": "心话会",
+        "package_name": "com.whll.xinhuahui",
+        "file_name": "com.whll.xinhuahui_41.apk",
+        "app_activity": "com.whll.dengmi.ui.SplashActivity"
+    },
+    {
+        "app_name": "魅信",
+        "package_name": "jishitongxun.client",
+        "file_name": "jishitongxun.client_42.apk",
+        "app_activity": "jishitongxun.client.MainActivity"
+    },
+    {
+        "app_name": "爱聊",
+        "package_name": "com.mosheng",
+        "file_name": "com.mosheng_43.apk",
+        "app_activity": "com.mosheng.view.activity.AppStartPager"
+    },
+    {
+        "app_name": "蓝鱼语音",
+        "package_name": "com.lanqi.lanyu",
+        "file_name": "com.lanqi.lanyu_44.apk",
+        "app_activity": "com.lanqi.lanyu.activity.login.SplashActivity"
+    },
+    {
+        "app_name": "附近陌遇",
+        "package_name": "com.moyu.my",
+        "file_name": "com.moyu.my_45.apk",
+        "app_activity": "com.moyu.my.main.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "心印",
+        "package_name": "com.zllive.soulmove",
+        "file_name": "com.zllive.soulmove_46.apk",
+        "app_activity": "com.zllive.soulmove.LauncherActivity"
+    },
+    {
+        "app_name": "X EVA",
+        "package_name": "com.ms.dsal",
+        "file_name": "com.ms.dsal_47.apk",
+        "app_activity": "com.xiaoice.ft_login.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "面具旅行",
+        "package_name": "com.ms.mask",
+        "file_name": "com.ms.mask_48.apk",
+        "app_activity": "com.ljj.lettercircle.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "丝语夜",
+        "package_name": "com.syapqzyl.syyl",
+        "file_name": "com.syapqzyl.syyl_49.apk",
+        "app_activity": "stpl.scml.eslu.ad"
+    },
+    {
+        "app_name": "幸遇",
+        "package_name": "cn.chuangqianxx.www",
+        "file_name": "cn.chuangqianxx.www_50.apk",
+        "app_activity": "com.hetun.chatproject.activity.SplashActivity"
+    },
+    {
+        "app_name": "拾心",
+        "package_name": "com.leico.sx",
+        "file_name": "com.leico.sx_51.apk",
+        "app_activity": "com.leico.sx.launch.FlashLaunchActivity"
+    },
+    {
+        "app_name": "哆咪星球",
+        "package_name": "com.jf.voice",
+        "file_name": "com.jf.voice_52.apk",
+        "app_activity": "com.yicheng.hanhan.other.activity.SplashActivity"
+    },
+    {
+        "app_name": "皮咔皮咔",
+        "package_name": "com.xiaochang.picapica",
+        "file_name": "com.xiaochang.picapica_53.apk",
+        "app_activity": "com.xiaochang.picapica.splash.SplashActivity"
+    },
+    {
+        "app_name": "扒圈",
+        "package_name": "uni.UNIBA0B27D",
+        "file_name": "uni.UNIBA0B27D_54.apk",
+        "app_activity": "com.quanzishuzi.paquan.MainActivity"
+    },
+    {
+        "app_name": "同娱",
+        "package_name": "com.ivideohome.synchfun",
+        "file_name": "com.ivideohome.synchfun_55.apk",
+        "app_activity": "com.ivideohome.synchfun.SplashActivity"
+    },
+    {
+        "app_name": "好合",
+        "package_name": "com.gooldeus.needou",
+        "file_name": "com.gooldeus.needou_56.apk",
+        "app_activity": "com.gooldeus.needou.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "附近一对聊交友",
+        "package_name": "com.fjlaydml.kuangyi",
+        "file_name": "com.fjlaydml.kuangyi_57.apk",
+        "app_activity": "cn.weilanglang.app.v2.module.start.WelcomeActivity"
+    },
+    {
+        "app_name": "企业传书",
+        "package_name": "com.heavysword.chuanshu",
+        "file_name": "com.heavysword.chuanshu_58.apk",
+        "app_activity": "cn.wildfire.chat.app.main.SplashActivity"
+    },
+    {
+        "app_name": "面对面交友",
+        "package_name": "com.gmlive.faceok",
+        "file_name": "com.gmlive.faceok_59.apk",
+        "app_activity": "com.gmlive.faceok.LauncherActivity"
+    },
+    {
+        "app_name": "附近甜陌",
+        "package_name": "com.hnxiangguo.tianmo",
+        "file_name": "com.hnxiangguo.tianmo_60.apk",
+        "app_activity": "com.inke.wow.splash.SplashActivity"
+    },
+    {
+        "app_name": "甜聊",
+        "package_name": "com.yzs.tianliao",
+        "file_name": "com.yzs.tianliao_61.apk",
+        "app_activity": "com.zy.gamapp.ui.login.splash.SplashActivity"
+    },
+    {
+        "app_name": "魔方X",
+        "package_name": "com.hln.mofangim",
+        "file_name": "com.hln.mofangim_62.apk",
+        "app_activity": "com.hln.mofangim.activity.SplashActivity"
+    },
+    {
+        "app_name": "觅见",
+        "package_name": "com.vplus.laixin",
+        "file_name": "com.vplus.laixin_63.apk",
+        "app_activity": "com.laixin.laixin.view.activity.WelcomeActivity_"
+    },
+    {
+        "app_name": "微脉圈",
+        "package_name": "com.edujia.weimai",
+        "file_name": "com.edujia.weimai_64.apk",
+        "app_activity": "com.edujia.wm.main.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "本地小圈",
+        "package_name": "com.wq.bdxq",
+        "file_name": "com.wq.bdxq_65.apk",
+        "app_activity": "com.wq.bdxq.SplashActivity"
+    },
+    {
+        "app_name": "畅聊AW",
+        "package_name": "cn.cdblue.awchat",
+        "file_name": "cn.cdblue.awchat_66.apk",
+        "app_activity": "cn.cdblue.awchat.app.main.SplashActivity"
+    },
+    {
+        "app_name": "星期8",
+        "package_name": "uni.UNI929401F",
+        "file_name": "uni.UNI929401F_67.apk",
+        "app_activity": "com.cqcdev.week8.logic.im.message.LaunchEntryActivity"
+    },
+    {
+        "app_name": "林间聊愈室",
+        "package_name": "com.mindera.moodtalker",
+        "file_name": "com.mindera.moodtalker_68.apk",
+        "app_activity": "com.mindera.xindao.splash.SplashAct"
+    },
+    {
+        "app_name": "新漂流瓶",
+        "package_name": "com.tnt.madepingzi",
+        "file_name": "com.tnt.madepingzi_69.apk",
+        "app_activity": "com.yilahuo.driftbottle.activity.StartActivity"
+    },
+    {
+        "app_name": "恋爱物语",
+        "package_name": "me.czhd.venus",
+        "file_name": "me.czhd.venus_70.apk",
+        "app_activity": "me.czhd.venus.module.app.ui.StartActivity"
+    },
+    {
+        "app_name": "小鹿组队电竞陪玩",
+        "package_name": "com.zjwx.xiaolu",
+        "file_name": "com.zjwx.xiaolu_71.apk",
+        "app_activity": "com.zjwx.xiaolu.activity.SplashActivity"
+    },
+    {
+        "app_name": "同城私语",
+        "package_name": "com.almond.tcsy",
+        "file_name": "com.almond.tcsy_72.apk",
+        "app_activity": "com.almond.tcsy.LauncherActivity"
+    },
+    {
+        "app_name": "初见桃花",
+        "package_name": "com.weewoo.taohua",
+        "file_name": "com.weewoo.taohua_73.apk",
+        "app_activity": "com.weewoo.taohua.login.ui.WelcomActivity"
+    },
+    {
+        "app_name": "洋洋语音",
+        "package_name": "com.qykj.yangyang",
+        "file_name": "com.qykj.yangyang_74.apk",
+        "app_activity": "com.qykj.yangyang.ui.launch.activity.SplashActivity"
+    },
+    {
+        "app_name": "蜜糖聊天交友",
+        "package_name": "com.weiman.cucumber",
+        "file_name": "com.weiman.cucumber_75.apk",
+        "app_activity": "com.quanwan.servant.ui.login.activity.SplashActivity"
+    },
+    {
+        "app_name": "聆遇",
+        "package_name": "com.zebra.hear",
+        "file_name": "com.zebra.hear_76.apk",
+        "app_activity": "com.privacy.social.SplashActivity"
+    },
+    {
+        "app_name": "桃花秀视频聊天",
+        "package_name": "com.msalapyl.msyl",
+        "file_name": "com.msalapyl.msyl_77.apk",
+        "app_activity": "snp.uqe.msnv.be"
+    },
+    {
+        "app_name": "甜悦",
+        "package_name": "com.quyuhudong.tianyue",
+        "file_name": "com.quyuhudong.tianyue_78.apk",
+        "app_activity": "com.huayu.zhenxin.SplashActivity"
+    },
+    {
+        "app_name": "惟一",
+        "package_name": "com.ayjiaoyou.saj",
+        "file_name": "com.ayjiaoyou.saj_79.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "正宗漂流瓶",
+        "package_name": "com.bottlecp",
+        "file_name": "com.bottlecp_80.apk",
+        "app_activity": "com.bottlecp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "漂流瓶瓶",
+        "package_name": "com.example.administrator.driftbottle",
+        "file_name": "com.example.administrator.driftbottle_81.apk",
+        "app_activity": "com.example.administrator.driftbottle.ui.SplashActivity"
+    },
+    {
+        "app_name": "火恋",
+        "package_name": "com.yibo.huolian",
+        "file_name": "com.yibo.huolian_82.apk",
+        "app_activity": "com.dianding.fdqn.common.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "小蓝",
+        "package_name": "com.littlehomo.app",
+        "file_name": "com.littlehomo.app_83.apk",
+        "app_activity": "com.littlehomo.app.SplashActivity"
+    },
+    {
+        "app_name": "月下交友",
+        "package_name": "com.lingxi.moondating",
+        "file_name": "com.lingxi.moondating_84.apk",
+        "app_activity": "com.lingxi.cupid.LauncherActivity"
+    },
+    {
+        "app_name": "缘缘",
+        "package_name": "com.muguang.yuanyuan",
+        "file_name": "com.muguang.yuanyuan_85.apk",
+        "app_activity": "com.inke.wow.splash.SplashActivity"
+    },
+    {
+        "app_name": "allo",
+        "package_name": "com.allo.contacts",
+        "file_name": "com.allo.contacts_86.apk",
+        "app_activity": "com.allo.contacts.activity.SplashActivity"
+    },
+    {
+        "app_name": "心心相伴",
+        "package_name": "com.xxxban.xxxban",
+        "file_name": "com.xxxban.xxxban_87.apk",
+        "app_activity": "com.ycyh.comemeet.SplashActivity"
+    },
+    {
+        "app_name": "随缘漂流瓶",
+        "package_name": "com.strange.fate",
+        "file_name": "com.strange.fate_88.apk",
+        "app_activity": "me.yinmai.yidui.main.SplashActivity"
+    },
+    {
+        "app_name": "花海",
+        "package_name": "com.gxdoubo.bowcity",
+        "file_name": "com.gxdoubo.bowcity_89.apk",
+        "app_activity": "com.gxdoubo.bowcity.activity.SplashActivity"
+    },
+    {
+        "app_name": "友恋",
+        "package_name": "com.loveyoulian.www",
+        "file_name": "com.loveyoulian.www_90.apk",
+        "app_activity": "com.loveyoulian.www.SplashActivity"
+    },
+    {
+        "app_name": "微伴",
+        "package_name": "com.kelian.weiban",
+        "file_name": "com.kelian.weiban_91.apk",
+        "app_activity": "com.kelian.weiban.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "鱼声",
+        "package_name": "com.kugou.android.kuqunapp",
+        "file_name": "com.kugou.android.kuqunapp_92.apk",
+        "app_activity": "com.kugou.android.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "爱私聊",
+        "package_name": "com.kaiying.fengliao",
+        "file_name": "com.kaiying.fengliao_93.apk",
+        "app_activity": "com.heart.heartapp.module.StartActivity"
+    },
+    {
+        "app_name": "同城轻欢交友",
+        "package_name": "com.qinghuan.laijiu",
+        "file_name": "com.qinghuan.laijiu_94.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "本地遇爱",
+        "package_name": "com.dongxin.app",
+        "file_name": "com.dongxin.app_95.apk",
+        "app_activity": "com.ry.main.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "一企聊",
+        "package_name": "com.dalianlizhi.im",
+        "file_name": "com.dalianlizhi.im_96.apk",
+        "app_activity": "com.example.im_app.MainActivity"
+    },
+    {
+        "app_name": "悬河",
+        "package_name": "com.xuanheai",
+        "file_name": "com.xuanheai_97.apk",
+        "app_activity": "com.xuanhe.android.ui.home.PreferActivity"
+    },
+    {
+        "app_name": "心动闪爱交友",
+        "package_name": "com.xindong.aguai",
+        "file_name": "com.xindong.aguai_98.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "竞聊",
+        "package_name": "com.hqluxiang.jingliao",
+        "file_name": "com.hqluxiang.jingliao_99.apk",
+        "app_activity": "com.zsjy.player.ui.MainActivity"
+    },
+    {
+        "app_name": "野聊",
+        "package_name": "com.szma.yechat",
+        "file_name": "com.szma.yechat_100.apk",
+        "app_activity": "com.szma.yechat.module.StartActivity"
+    },
+    {
+        "app_name": "附近夜友",
+        "package_name": "com.fujinyeyou.qp",
+        "file_name": "com.fujinyeyou.qp_101.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "歌星俱乐部",
+        "package_name": "com.cd.tyms.quanquanhuanchang",
+        "file_name": "com.cd.tyms.quanquanhuanchang_102.apk",
+        "app_activity": "org.cocos2dx.lua.MainLunchActivity"
+    },
+    {
+        "app_name": "财经社交",
+        "package_name": "com.longjin.imbigbee",
+        "file_name": "com.longjin.imbigbee_103.apk",
+        "app_activity": "com.longjin.imbigbee.ui.guide.WelComeActivity"
+    },
+    {
+        "app_name": "伴颜",
+        "package_name": "com.huasyun.by",
+        "file_name": "com.huasyun.by_104.apk",
+        "app_activity": "com.ycyh.comemeet.SplashActivity"
+    },
+    {
+        "app_name": "牵缘",
+        "package_name": "com.huasyun.qy",
+        "file_name": "com.huasyun.qy_105.apk",
+        "app_activity": "com.ycyh.comemeet.SplashActivityNew"
+    },
+    {
+        "app_name": "拾缘",
+        "package_name": "com.huasyun.sy",
+        "file_name": "com.huasyun.sy_106.apk",
+        "app_activity": "com.ycyh.comemeet.SplashActivity"
+    },
+    {
+        "app_name": "懂你",
+        "package_name": "com.heyooh.dongni",
+        "file_name": "com.heyooh.dongni_107.apk",
+        "app_activity": "com.heyooh.dongni.MainActivity"
+    },
+    {
+        "app_name": "同城寻聊交友",
+        "package_name": "com.qianlian.qiongkx",
+        "file_name": "com.qianlian.qiongkx_108.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "附近约友",
+        "package_name": "com.gmlive.nearfriends",
+        "file_name": "com.gmlive.nearfriends_109.apk",
+        "app_activity": "com.gmlive.nearfriends.LauncherActivity"
+    },
+    {
+        "app_name": "卡普喔",
+        "package_name": "com.seerlah.kapuou",
+        "file_name": "com.seerlah.kapuou_110.apk",
+        "app_activity": "com.seerlah.kapuou.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "心恋",
+        "package_name": "com.big.love.meet",
+        "file_name": "com.big.love.meet_111.apk",
+        "app_activity": "com.big.love.meet.ui.LoveMeetSplashActivity"
+    },
+    {
+        "app_name": "本地欢聊",
+        "package_name": "com.becan.bdhl",
+        "file_name": "com.becan.bdhl_112.apk",
+        "app_activity": "com.becan.bdhl.LauncherActivity"
+    },
+    {
+        "app_name": "附近见面聊",
+        "package_name": "com.kaiyin.tcqm",
+        "file_name": "com.kaiyin.tcqm_113.apk",
+        "app_activity": "com.kaiyin.tcqm.SplashActivity"
+    },
+    {
+        "app_name": "花选",
+        "package_name": "com.weixiao.voice",
+        "file_name": "com.weixiao.voice_114.apk",
+        "app_activity": "com.cola.xinyue.page.launch.LaunchActivity"
+    },
+    {
+        "app_name": "伴游旅行",
+        "package_name": "com.just.banyou",
+        "file_name": "com.just.banyou_115.apk",
+        "app_activity": "com.just.banyou.MainActivity"
+    },
+    {
+        "app_name": "WeChat",
+        "package_name": "com.tencent.mm",
+        "file_name": "com.tencent.mm_116.apk",
+        "app_activity": "com.tencent.mm.ui.LauncherUI"
+    },
+    {
+        "app_name": "可话",
+        "package_name": "com.app.tideswing",
+        "file_name": "com.app.tideswing_117.apk",
+        "app_activity": "com.app.tideswing.ui.SplashActivity"
+    },
+    {
+        "app_name": "本地聊爱",
+        "package_name": "com.juxie.bdla",
+        "file_name": "com.juxie.bdla_118.apk",
+        "app_activity": "com.yicheng.assemble.activity.LauncherActivity"
+    },
+    {
+        "app_name": "花欢",
+        "package_name": "com.duiyu.huahuan",
+        "file_name": "com.duiyu.huahuan_119.apk",
+        "app_activity": "com.vchat.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "小西米语音",
+        "package_name": "com.shuijing.ximi",
+        "file_name": "com.shuijing.ximi_120.apk",
+        "app_activity": "com.yibasan.lizhifm.activities.WelcomeActivity"
+    },
+    {
+        "app_name": "花夜",
+        "package_name": "com.duiyu.hye",
+        "file_name": "com.duiyu.hye_121.apk",
+        "app_activity": "com.vchat.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "牵伴",
+        "package_name": "com.ldlive.qianban",
+        "file_name": "com.ldlive.qianban_122.apk",
+        "app_activity": "com.ldlive.qianban.LauncherActivity"
+    },
+    {
+        "app_name": "Nico",
+        "package_name": "com.superrhino.rarering",
+        "file_name": "com.superrhino.rarering_123.apk",
+        "app_activity": "com.superrhino.rare.LaunchActivity"
+    },
+    {
+        "app_name": "遇见漂流瓶",
+        "package_name": "com.innovation.driftbottle",
+        "file_name": "com.innovation.driftbottle_124.apk",
+        "app_activity": "com.innovation.driftbottle.ui.SplashActivity"
+    },
+    {
+        "app_name": "意聊",
+        "package_name": "com.yiliaoap.sanaig",
+        "file_name": "com.yiliaoap.sanaig_125.apk",
+        "app_activity": "com.yiliaoap.sanaig.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "月夜伴聊视频聊天交友",
+        "package_name": "com.yphdjrrl.yprl",
+        "file_name": "com.yphdjrrl.yprl_127.apk",
+        "app_activity": "sxs.sub.ezrm.ef"
+    },
+    {
+        "app_name": "窃语漂流瓶",
+        "package_name": "com.qieyu.bottle",
+        "file_name": "com.qieyu.bottle_128.apk",
+        "app_activity": "com.qieyu.bottle.main.SplashActivity"
+    },
+    {
+        "app_name": "享聊",
+        "package_name": "cn.sharesmile.enjoychat",
+        "file_name": "cn.sharesmile.enjoychat_129.apk",
+        "app_activity": "cn.sharesmile.enjoychat.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "PicoPico",
+        "package_name": "com.xintiaotime.yoy",
+        "file_name": "com.xintiaotime.yoy_130.apk",
+        "app_activity": "com.xintiaotime.yoy.ui.guide.SplashActivity"
+    },
+    {
+        "app_name": "守爱",
+        "package_name": "com.yuansheng.shouai",
+        "file_name": "com.yuansheng.shouai_131.apk",
+        "app_activity": "com.dianding.fdqn.common.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "TT语音",
+        "package_name": "com.yiyou.ga",
+        "file_name": "com.yiyou.ga_132.apk",
+        "app_activity": "com.yiyou.ga.client.BlankActivity"
+    },
+    {
+        "app_name": "舌聊",
+        "package_name": "com.yanying.she",
+        "file_name": "com.yanying.she_133.apk",
+        "app_activity": "com.sheliao.sheapp.module.StartActivity"
+    },
+    {
+        "app_name": "爱聊交友",
+        "package_name": "com.ms.ailiao",
+        "file_name": "com.ms.ailiao_134.apk",
+        "app_activity": "com.mosheng.view.activity.AppStartPager"
+    },
+    {
+        "app_name": "见面聊",
+        "package_name": "com.xld.jml",
+        "file_name": "com.xld.jml_135.apk",
+        "app_activity": "zyxd.fish.live.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "陌熟",
+        "package_name": "com.jiuyu.jyapp",
+        "file_name": "com.jiuyu.jyapp_136.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "蛋蛋部落",
+        "package_name": "com.buli",
+        "file_name": "com.buli_137.apk",
+        "app_activity": "com.samael.ui.SplashActivity"
+    },
+    {
+        "app_name": "JSPP",
+        "package_name": "com.jspp",
+        "file_name": "com.jspp_138.apk",
+        "app_activity": "com.jspp.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "友甜",
+        "package_name": "com.ms.youtian",
+        "file_name": "com.ms.youtian_139.apk",
+        "app_activity": "com.ms.youtian.ui.SplashActivity"
+    },
+    {
+        "app_name": "爱遇交友",
+        "package_name": "com.lingyi.aiyu",
+        "file_name": "com.lingyi.aiyu_140.apk",
+        "app_activity": "com.lingyi.aiyu.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "鹿缘欢聊视频聊天",
+        "package_name": "com.wyapqzml.wyml",
+        "file_name": "com.wyapqzml.wyml_141.apk",
+        "app_activity": "di.rh.ztmh.jd"
+    },
+    {
+        "app_name": "麦甜",
+        "package_name": "com.mt.maitian",
+        "file_name": "com.mt.maitian_142.apk",
+        "app_activity": "com.liquid.porostwo.business.start.WelcomeActivity"
+    },
+    {
+        "app_name": "AiU",
+        "package_name": "com.beings.aiu",
+        "file_name": "com.beings.aiu_143.apk",
+        "app_activity": "com.beings.aiu.MainActivity"
+    },
+    {
+        "app_name": "回音",
+        "package_name": "com.smallcircle.heartvoice",
+        "file_name": "com.smallcircle.heartvoice_144.apk",
+        "app_activity": "com.smallcircle.heartvoice.RSLaunchActivity"
+    },
+    {
+        "app_name": "海龟汤",
+        "package_name": "com.longtu.oao",
+        "file_name": "com.longtu.oao_145.apk",
+        "app_activity": "com.longtu.oao.module.splash.LauncherActivity"
+    },
+    {
+        "app_name": "月亮语音",
+        "package_name": "com.niaoyutech.moonaudio",
+        "file_name": "com.niaoyutech.moonaudio_146.apk",
+        "app_activity": "com.xwl.audiox.presentation.activity.main.MainActivity"
+    },
+    {
+        "app_name": "再爱",
+        "package_name": "com.gxjn.zajy",
+        "file_name": "com.gxjn.zajy_147.apk",
+        "app_activity": "com.common.SplashActivity"
+    },
+    {
+        "app_name": "同城夜聊",
+        "package_name": "com.huwei.fox",
+        "file_name": "com.huwei.fox_148.apk",
+        "app_activity": "com.yicheng.assemble.activity.LauncherActivity"
+    },
+    {
+        "app_name": "慕圈",
+        "package_name": "com.yongshang.mq",
+        "file_name": "com.yongshang.mq_149.apk",
+        "app_activity": "com.wuhui.sm.ui.SplashActivity"
+    },
+    {
+        "app_name": "柜柜交友",
+        "package_name": "com.byet.guigui",
+        "file_name": "com.byet.guigui_150.apk",
+        "app_activity": "com.byet.guigui.login.activity.SplashActivity"
+    },
+    {
+        "app_name": "柜柜交友",
+        "package_name": "com.byet.guigui",
+        "file_name": "com.byet.guigui_1.apk",
+        "app_activity": "com.byet.guigui.login.activity.SplashActivity"
+    },
+    {
+        "app_name": "越约",
+        "package_name": "com.project.yueyueproject",
+        "file_name": "com.project.yueyueproject_1.apk",
+        "app_activity": "com.shilv.yuelian.ui.launch.SplashActivity"
+    },
+    {
+        "app_name": "咪鸭",
+        "package_name": "com.jiuyin.mc",
+        "file_name": "com.jiuyin.mc_2.apk",
+        "app_activity": "com.meelive.ingkee.launcher.ui.IngkeeLauncher"
+    },
+    {
+        "app_name": "爱她",
+        "package_name": "com.loveher.www",
+        "file_name": "com.loveher.www_3.apk",
+        "app_activity": "com.loveher.www.app.LoveSplashActivity"
+    },
+    {
+        "app_name": "同城夜伴",
+        "package_name": "com.dgz.tcyb",
+        "file_name": "com.dgz.tcyb_4.apk",
+        "app_activity": "com.sound.module_main_imp.ui.login.SplashActivityYeban"
+    },
+    {
+        "app_name": "同城伴聊",
+        "package_name": "com.xld.lljy",
+        "file_name": "com.xld.lljy_5.apk",
+        "app_activity": "zyxd.fish.live.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "附近陌友聊",
+        "package_name": "com.zy.moliao",
+        "file_name": "com.zy.moliao_6.apk",
+        "app_activity": "com.zy.gamapp.ui.login.splash.SplashActivity"
+    },
+    {
+        "app_name": "商小信",
+        "package_name": "com.sxx.app",
+        "file_name": "com.sxx.app_7.apk",
+        "app_activity": "com.dlcloud.chat.feature.splash.SplashActivity"
+    },
+    {
+        "app_name": "附近探约会",
+        "package_name": "com.moliao.main",
+        "file_name": "com.moliao.main_8.apk",
+        "app_activity": "com.yicheng.assemble.activity.LauncherActivity"
+    },
+    {
+        "app_name": "初爱",
+        "package_name": "com.yunzhimemg.chuai",
+        "file_name": "com.yunzhimemg.chuai_9.apk",
+        "app_activity": "com.common.SplashActivity"
+    },
+    {
+        "app_name": "附近必聊",
+        "package_name": "lt.biliao.syhy",
+        "file_name": "lt.biliao.syhy_10.apk",
+        "app_activity": "com.mshy.VInterestSpeed.common.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "等遇",
+        "package_name": "com.hnlaikai.dengyu",
+        "file_name": "com.hnlaikai.dengyu_11.apk",
+        "app_activity": "com.jingda.shimi.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "兴聊",
+        "package_name": "com.renxing.jimo",
+        "file_name": "com.renxing.jimo_12.apk",
+        "app_activity": "com.renxing.guaizhu.SplashActivity"
+    },
+    {
+        "app_name": "越约",
+        "package_name": "com.project.yueyueproject",
+        "file_name": "com.project.yueyueproject_161.apk",
+        "app_activity": "com.shilv.yuelian.ui.launch.SplashActivity"
+    },
+    {
+        "app_name": "咪鸭",
+        "package_name": "com.jiuyin.mc",
+        "file_name": "com.jiuyin.mc_162.apk",
+        "app_activity": "com.meelive.ingkee.launcher.ui.IngkeeLauncher"
+    },
+    {
+        "app_name": "爱她",
+        "package_name": "com.loveher.www",
+        "file_name": "com.loveher.www_163.apk",
+        "app_activity": "com.loveher.www.app.LoveSplashActivity"
+    },
+    {
+        "app_name": "同城夜伴",
+        "package_name": "com.dgz.tcyb",
+        "file_name": "com.dgz.tcyb_164.apk",
+        "app_activity": "com.sound.module_main_imp.ui.login.SplashActivityYeban"
+    },
+    {
+        "app_name": "同城伴聊",
+        "package_name": "com.xld.lljy",
+        "file_name": "com.xld.lljy_165.apk",
+        "app_activity": "zyxd.fish.live.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "附近陌友聊",
+        "package_name": "com.zy.moliao",
+        "file_name": "com.zy.moliao_166.apk",
+        "app_activity": "com.zy.gamapp.ui.login.splash.SplashActivity"
+    },
+    {
+        "app_name": "商小信",
+        "package_name": "com.sxx.app",
+        "file_name": "com.sxx.app_167.apk",
+        "app_activity": "com.dlcloud.chat.feature.splash.SplashActivity"
+    },
+    {
+        "app_name": "附近探约会",
+        "package_name": "com.moliao.main",
+        "file_name": "com.moliao.main_168.apk",
+        "app_activity": "com.yicheng.assemble.activity.LauncherActivity"
+    },
+    {
+        "app_name": "初爱",
+        "package_name": "com.yunzhimemg.chuai",
+        "file_name": "com.yunzhimemg.chuai_169.apk",
+        "app_activity": "com.common.SplashActivity"
+    },
+    {
+        "app_name": "附近必聊",
+        "package_name": "lt.biliao.syhy",
+        "file_name": "lt.biliao.syhy_170.apk",
+        "app_activity": "com.mshy.VInterestSpeed.common.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "等遇",
+        "package_name": "com.hnlaikai.dengyu",
+        "file_name": "com.hnlaikai.dengyu_171.apk",
+        "app_activity": "com.jingda.shimi.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "兴聊",
+        "package_name": "com.renxing.jimo",
+        "file_name": "com.renxing.jimo_172.apk",
+        "app_activity": "com.renxing.guaizhu.SplashActivity"
+    },
+    {
+        "app_name": "知聊",
+        "package_name": "com.yyk.knowchat",
+        "file_name": "com.yyk.knowchat_173.apk",
+        "app_activity": "com.yyk.knowchat.group.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "逗萌漂流瓶",
+        "package_name": "we.aplayful.power",
+        "file_name": "we.aplayful.power_174.apk",
+        "app_activity": "com.xunzhi.newarch.start.HelloActivity"
+    },
+    {
+        "app_name": "遇聊视频聊天",
+        "package_name": "com.myqpzvjy.myjy",
+        "file_name": "com.myqpzvjy.myjy_175.apk",
+        "app_activity": "zvw.sow.tpu.le"
+    },
+    {
+        "app_name": "夜盼",
+        "package_name": "com.juleyepan.chat",
+        "file_name": "com.juleyepan.chat_176.apk",
+        "app_activity": "com.juleyepan.chat.activity.login.SplashActivity"
+    },
+    {
+        "app_name": "附近陌生人欢聊",
+        "package_name": "com.xiangshi.msrjy",
+        "file_name": "com.xiangshi.msrjy_177.apk",
+        "app_activity": "com.moyou.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "领游",
+        "package_name": "com.lingyou.app",
+        "file_name": "com.lingyou.app_178.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "伊陌漂流瓶",
+        "package_name": "android.ymplp.yimo",
+        "file_name": "android.ymplp.yimo_179.apk",
+        "app_activity": "android.ymplp.yimo.first.FirstActivity"
+    },
+    {
+        "app_name": "星空之遇",
+        "package_name": "com.huanmeng.meetinstarry",
+        "file_name": "com.huanmeng.meetinstarry_180.apk",
+        "app_activity": "com.huanmeng.meetinstarry.app.SplashActivity"
+    },
+    {
+        "app_name": "思遇陌生人聊天视频寻交心情缘",
+        "package_name": "com.hnxiangguo.siyu",
+        "file_name": "com.hnxiangguo.siyu_181.apk",
+        "app_activity": "com.inke.wow.splash.SplashActivity"
+    },
+    {
+        "app_name": "空陌",
+        "package_name": "com.yylwlkj.kongdui",
+        "file_name": "com.yylwlkj.kongdui_182.apk",
+        "app_activity": "com.ksc.common.ui.welcome.SplashActivityWithLogic"
+    },
+    {
+        "app_name": "探爱交友",
+        "package_name": "com.ta.main",
+        "file_name": "com.ta.main_183.apk",
+        "app_activity": "com.bytearea.tanyu.login.SplashActivity"
+    },
+    {
+        "app_name": "MOHO",
+        "package_name": "cn.cdqx.moho",
+        "file_name": "cn.cdqx.moho_184.apk",
+        "app_activity": "cn.cdqx.moho.login.SplashActivity"
+    },
+    {
+        "app_name": "连信",
+        "package_name": "com.zenmen.palmchat",
+        "file_name": "com.zenmen.palmchat_185.apk",
+        "app_activity": "com.zenmen.palmchat.login.InitActivity"
+    },
+    {
+        "app_name": "开团",
+        "package_name": "com.hzwyst.kaituan",
+        "file_name": "com.hzwyst.kaituan_186.apk",
+        "app_activity": "com.liquid.porostwo.business.start.WelcomeActivity"
+    },
+    {
+        "app_name": "纸飞机",
+        "package_name": "com.modelbest.agent.agentverse",
+        "file_name": "com.modelbest.agent.agentverse_187.apk",
+        "app_activity": "com.modelbest.ai.xinjian.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "越觅",
+        "package_name": "com.ershang.yuemi",
+        "file_name": "com.ershang.yuemi_188.apk",
+        "app_activity": "com.ershang.yuemi.ui.launch.SplashYueMiActivity"
+    },
+    {
+        "app_name": "本地陌交友",
+        "package_name": "com.yuwan.tmshipin",
+        "file_name": "com.yuwan.tmshipin_189.apk",
+        "app_activity": "com.yicheng.assemble.activity.LauncherActivity"
+    },
+    {
+        "app_name": "时光漂流瓶",
+        "package_name": "com.luoyang.flutter_ly_bottle",
+        "file_name": "com.luoyang.flutter_ly_bottle_190.apk",
+        "app_activity": "com.luoyang.flutter_ly_bottle.MainActivity"
+    },
+    {
+        "app_name": "酷同",
+        "package_name": "com.rehtec.ict",
+        "file_name": "com.rehtec.ict_191.apk",
+        "app_activity": "com.rehtec.ict.MainActivity"
+    },
+    {
+        "app_name": "同城约会吧",
+        "package_name": "com.wanma.android.qyhjs",
+        "file_name": "com.wanma.android.qyhjs_192.apk",
+        "app_activity": "com.yicheng.assemble.activity.LauncherActivity"
+    },
+    {
+        "app_name": "附近寻欢",
+        "package_name": "com.huanyou.haituan",
+        "file_name": "com.huanyou.haituan_193.apk",
+        "app_activity": "com.yicheng.assemble.activity.LauncherActivity"
+    },
+    {
+        "app_name": "饭友",
+        "package_name": "com.qulian.findyou",
+        "file_name": "com.qulian.findyou_194.apk",
+        "app_activity": "com.qulian.findyou.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "幸识",
+        "package_name": "com.cijianlink.cjlk",
+        "file_name": "com.cijianlink.cjlk_195.apk",
+        "app_activity": "com.cijianlink.cjlk.activity.LaunchActivity"
+    },
+    {
+        "app_name": "附近甜伴",
+        "package_name": "com.hnhuyu.fjtbjy",
+        "file_name": "com.hnhuyu.fjtbjy_196.apk",
+        "app_activity": "com.hnhuyu.fjtbjy.launcher.ChatLiveNewSplash"
+    },
+    {
+        "app_name": "新模",
+        "package_name": "com.npproject",
+        "file_name": "com.npproject_197.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "她缘交友",
+        "package_name": "com.tayuan.player",
+        "file_name": "com.tayuan.player_198.apk",
+        "app_activity": "com.zsjy.player.ui.MainActivity"
+    },
+    {
+        "app_name": "嗒伴",
+        "package_name": "com.daban.wbhd",
+        "file_name": "com.daban.wbhd_199.apk",
+        "app_activity": "com.daban.wbhd.activity.SplashActivity"
+    },
+    {
+        "app_name": "择伴同城交友",
+        "package_name": "com.newProject.zbApp",
+        "file_name": "com.newProject.zbApp_200.apk",
+        "app_activity": "com.jdwlgz.fooddiary.MainActivity"
+    },
+    {
+        "app_name": "甜心世界",
+        "package_name": "com.liudaoapp.liudao",
+        "file_name": "com.liudaoapp.liudao_201.apk",
+        "app_activity": "com.liudaoapp.liudao.ui.MainActivity"
+    },
+    {
+        "app_name": "觅友",
+        "package_name": "com.jiaoliuqu.fengyue",
+        "file_name": "com.jiaoliuqu.fengyue_202.apk",
+        "app_activity": "com.xingjiabi.shengsheng.app.SplashActivity"
+    },
+    {
+        "app_name": "附近邂逅",
+        "package_name": "com.hnhuyu.fujinxiehou",
+        "file_name": "com.hnhuyu.fujinxiehou_203.apk",
+        "app_activity": "com.hnhuyu.fujinxiehou.launcher.ChatLiveNewSplash"
+    },
+    {
+        "app_name": "等爱",
+        "package_name": "com.dingshun.higou",
+        "file_name": "com.dingshun.higou_204.apk",
+        "app_activity": "com.dianding.fdqn.common.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "对对",
+        "package_name": "com.wemomo.matchmaker",
+        "file_name": "com.wemomo.matchmaker_205.apk",
+        "app_activity": "com.wemomo.matchmaker.hongniang.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "一对聊",
+        "package_name": "com.app.fjydl",
+        "file_name": "com.app.fjydl_206.apk",
+        "app_activity": "com.moyou.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "糖果空间",
+        "package_name": "com.sheguo.tggy",
+        "file_name": "com.sheguo.tggy_207.apk",
+        "app_activity": "com.sheguo.tggy.business.launch.LaunchActivity"
+    },
+    {
+        "app_name": "蛙趣",
+        "package_name": "com.jnsd.waqu.app",
+        "file_name": "com.jnsd.waqu.app_208.apk",
+        "app_activity": "com.jnsd.waqu.MainActivity"
+    },
+    {
+        "app_name": "相悦",
+        "package_name": "com.yuxiu.xiangyue",
+        "file_name": "com.yuxiu.xiangyue_209.apk",
+        "app_activity": "com.yuxiu.xiangyue.splash.SplashActivity"
+    },
+    {
+        "app_name": "TIM",
+        "package_name": "com.tencent.tim",
+        "file_name": "com.tencent.tim_210.apk",
+        "app_activity": "com.tencent.mobileqq.activity.SplashActivity"
+    },
+    {
+        "app_name": "彩虹星球",
+        "package_name": "com.im.android.rbp",
+        "file_name": "com.im.android.rbp_211.apk",
+        "app_activity": "com.im.android.rbp.SplashActivity"
+    },
+    {
+        "app_name": "AI恋人",
+        "package_name": "com.loverai.chatbot",
+        "file_name": "com.loverai.chatbot_212.apk",
+        "app_activity": "com.xinyiai.ailover.activity.SplashActivity"
+    },
+    {
+        "app_name": "可甜",
+        "package_name": "com.ketianhunlian.liaotian55",
+        "file_name": "com.ketianhunlian.liaotian55_213.apk",
+        "app_activity": "com.guojiang.chatapp.activity.MainActivity"
+    },
+    {
+        "app_name": "V夜聊",
+        "package_name": "com.vtpypzyl.vpyl",
+        "file_name": "com.vtpypzyl.vpyl_214.apk",
+        "app_activity": "rty.dnm.taipi.af"
+    },
+    {
+        "app_name": "同城脱单",
+        "package_name": "com.gz.shark.nosingle",
+        "file_name": "com.gz.shark.nosingle_215.apk",
+        "app_activity": "com.gz.shark.nosingle.LauncherActivity"
+    },
+    {
+        "app_name": "寻她",
+        "package_name": "com.zyxd.xunta",
+        "file_name": "com.zyxd.xunta_216.apk",
+        "app_activity": "com.zy.gamapp.ui.login.splash.SplashActivity"
+    },
+    {
+        "app_name": "遇多多",
+        "package_name": "com.ycm.ydd",
+        "file_name": "com.ycm.ydd_217.apk",
+        "app_activity": "zyxd.ydd.live.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "趣牵手",
+        "package_name": "com.zhuyu.quqianshou",
+        "file_name": "com.zhuyu.quqianshou_218.apk",
+        "app_activity": "com.zhuyu.quqianshou.module.common.SplashActivity"
+    },
+    {
+        "app_name": "keke语音",
+        "package_name": "com.kekeyuyin.guoguo",
+        "file_name": "com.kekeyuyin.guoguo_219.apk",
+        "app_activity": "com.kekeyuyin.guoguo.activity.SplashActivity"
+    },
+    {
+        "app_name": "爪爪",
+        "package_name": "com.xinchuan.callme",
+        "file_name": "com.xinchuan.callme_220.apk",
+        "app_activity": "com.mizhua.app.MainActivity"
+    },
+    {
+        "app_name": "美丽约",
+        "package_name": "com.meiliyue",
+        "file_name": "com.meiliyue_221.apk",
+        "app_activity": "com.cc.reg.SplashAct"
+    },
+    {
+        "app_name": "伊聊缘",
+        "package_name": "com.yiyuanliao",
+        "file_name": "com.yiyuanliao_222.apk",
+        "app_activity": "com.yiyuanliao.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "处CP",
+        "package_name": "com.aikesi.deskmate",
+        "file_name": "com.aikesi.deskmate_223.apk",
+        "app_activity": "com.aikesi.deskmate.mvp.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "附近寻陌欢聊",
+        "package_name": "com.dml.xmhl",
+        "file_name": "com.dml.xmhl_224.apk",
+        "app_activity": "com.moyou.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "她享",
+        "package_name": "com.cjnkj.tx",
+        "file_name": "com.cjnkj.tx_225.apk",
+        "app_activity": "com.zxml.videoline.activity.SplashActivity"
+    },
+    {
+        "app_name": "扩圈",
+        "package_name": "com.yijietc.kuoquan",
+        "file_name": "com.yijietc.kuoquan_226.apk",
+        "app_activity": "com.yijietc.kuoquan.login.activity.SplashActivity"
+    },
+    {
+        "app_name": "嘉缘",
+        "package_name": "com.jiajiayuan.loce",
+        "file_name": "com.jiajiayuan.loce_227.apk",
+        "app_activity": "com.jiajiayuan.loce.SplashActivity"
+    },
+    {
+        "app_name": "玖聊视频聊天交友",
+        "package_name": "awu.jiujiuchat.app",
+        "file_name": "awu.jiujiuchat.app_228.apk",
+        "app_activity": "com.awu.jiu.module.StartActivity"
+    },
+    {
+        "app_name": "乡遇",
+        "package_name": "com.shouxiu.tcjy",
+        "file_name": "com.shouxiu.tcjy_229.apk",
+        "app_activity": "com.shouxiu.tcjy.mvp.WelcomeActivity2"
+    },
+    {
+        "app_name": "猎游",
+        "package_name": "com.feiteng.lieyou",
+        "file_name": "com.feiteng.lieyou_230.apk",
+        "app_activity": "com.feiteng.lieyou.splashlibrary.activity.LieyouSplashActivity"
+    },
+    {
+        "app_name": "甜意",
+        "package_name": "com.asml.tianyi",
+        "file_name": "com.asml.tianyi_231.apk",
+        "app_activity": "com.asml.tianyi.ui.entry.flash.FlashActivity"
+    },
+    {
+        "app_name": "真心聊",
+        "package_name": "com.live.play.wuta",
+        "file_name": "com.live.play.wuta_232.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "tinderfuse",
+        "package_name": "tm.com.tinderfuse",
+        "file_name": "tm.com.tinderfuse_233.apk",
+        "app_activity": "tm.com.tinderfuse.view.activity.home.RUYVaporishVisualiseLoading"
+    },
+    {
+        "app_name": "咕咕语音",
+        "package_name": "com.dyheart.chat",
+        "file_name": "com.dyheart.chat_234.apk",
+        "app_activity": "tv.douyu.view.activity.launcher.DYSplashLauncherActivity"
+    },
+    {
+        "app_name": "梦音",
+        "package_name": "com.qiyu.dream",
+        "file_name": "com.qiyu.dream_235.apk",
+        "app_activity": "com.qiyu.dream.other.activity.SplashActivity"
+    },
+    {
+        "app_name": "小贝乐园",
+        "package_name": "xin.banghua.beiyuan0",
+        "file_name": "xin.banghua.beiyuan0_236.apk",
+        "app_activity": "xin.banghua.beiyuan0.LaunchActivity"
+    },
+    {
+        "app_name": "相盼",
+        "package_name": "com.jangai.ho",
+        "file_name": "com.jangai.ho_237.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "越聊",
+        "package_name": "com.shilv.yueliao",
+        "file_name": "com.shilv.yueliao_238.apk",
+        "app_activity": "com.youlv.yueyuelite.component.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "萌识",
+        "package_name": "com.jiaruixx.www",
+        "file_name": "com.jiaruixx.www_239.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "悦恋",
+        "package_name": "com.crashew.yuelian",
+        "file_name": "com.crashew.yuelian_240.apk",
+        "app_activity": "com.crashew.yuelian.LauncherActivity"
+    },
+    {
+        "app_name": "火花Chat",
+        "package_name": "com.huohua.android",
+        "file_name": "com.huohua.android_241.apk",
+        "app_activity": "com.huohua.android.ui.SplashActivity"
+    },
+    {
+        "app_name": "Tan",
+        "package_name": "com.tanyu.me",
+        "file_name": "com.tanyu.me_242.apk",
+        "app_activity": "com.bytearea.tanyu.login.SplashActivity"
+    },
+    {
+        "app_name": "Mars",
+        "package_name": "com.lvka.mars",
+        "file_name": "com.lvka.mars_243.apk",
+        "app_activity": "com.lvka.mars.ui.SplashActivity"
+    },
+    {
+        "app_name": "快速聊视频交友",
+        "package_name": "com.fengyan.suliao",
+        "file_name": "com.fengyan.suliao_244.apk",
+        "app_activity": "com.suchat.suchatapp.module.StartActivity"
+    },
+    {
+        "app_name": "漂流瓶文聊",
+        "package_name": "com.bottle.chatbottle",
+        "file_name": "com.bottle.chatbottle_245.apk",
+        "app_activity": "com.bottle.chatbottle.mActivity.SplashActivity"
+    },
+    {
+        "app_name": "伊梦",
+        "package_name": "com.hn.yimeng",
+        "file_name": "com.hn.yimeng_246.apk",
+        "app_activity": "com.ycyh.comemeet.SplashActivity"
+    },
+    {
+        "app_name": "PP",
+        "package_name": "com.lizhi.pplive",
+        "file_name": "com.lizhi.pplive_247.apk",
+        "app_activity": "com.yibasan.lizhifm.activities.EntryPointActivity"
+    },
+    {
+        "app_name": "鱼音",
+        "package_name": "com.ctufeel.audio",
+        "file_name": "com.ctufeel.audio_248.apk",
+        "app_activity": "com.dub.MainActivity"
+    },
+    {
+        "app_name": "享脉",
+        "package_name": "com.yofolive.xm",
+        "file_name": "com.yofolive.xm_249.apk",
+        "app_activity": "com.yofolive.xm.SplashActivity"
+    },
+    {
+        "app_name": "暖爱",
+        "package_name": "com.ldlive.nuai",
+        "file_name": "com.ldlive.nuai_250.apk",
+        "app_activity": "com.ldlive.nuai.LauncherActivity"
+    },
+    {
+        "app_name": "QQ",
+        "package_name": "com.tencent.mobileqq",
+        "file_name": "com.tencent.mobileqq_251.apk",
+        "app_activity": "com.tencent.mobileqq.activity.SplashActivity"
+    },
+    {
+        "app_name": "附近对遇",
+        "package_name": "com.youtang.fjdyu",
+        "file_name": "com.youtang.fjdyu_252.apk",
+        "app_activity": "com.vchat.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "游觅",
+        "package_name": "com.tm.infatuated",
+        "file_name": "com.tm.infatuated_253.apk",
+        "app_activity": "com.tm.infatuated.view.activity.home.OPUFlywheelConciliateLoading"
+    },
+    {
+        "app_name": "DIDA LIVE",
+        "package_name": "com.live.dida",
+        "file_name": "com.live.dida_254.apk",
+        "app_activity": "com.live.dida.ui.app.SplashActivity"
+    },
+    {
+        "app_name": "甜U玩伴",
+        "package_name": "com.tianuwanban",
+        "file_name": "com.tianuwanban_255.apk",
+        "app_activity": "com.tietie.MainActivity"
+    },
+    {
+        "app_name": "微泡泡",
+        "package_name": "com.znxh.smallbubble",
+        "file_name": "com.znxh.smallbubble_256.apk",
+        "app_activity": "com.znxh.smallbubble.splash.SplashActivity"
+    },
+    {
+        "app_name": "觅咻",
+        "package_name": "io.dcloud.H54EBC9BC99",
+        "file_name": "io.dcloud.H54EBC9BC99_257.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "ME",
+        "package_name": "com.yy.ourtimes",
+        "file_name": "com.yy.ourtimes_258.apk",
+        "app_activity": "com.bilin.huijiao.ui.activity.NewLoadingActivity"
+    },
+    {
+        "app_name": "小冰岛",
+        "package_name": "com.xiaoice.island",
+        "file_name": "com.xiaoice.island_259.apk",
+        "app_activity": "com.xiaoice.ft_login.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "百恋",
+        "package_name": "com.tempo.peck",
+        "file_name": "com.tempo.peck_260.apk",
+        "app_activity": "com.tempo.peck.ui.entry.flash.FlashActivity"
+    },
+    {
+        "app_name": "进圈领队版",
+        "package_name": "com.liquid.poros.pro",
+        "file_name": "com.liquid.poros.pro_261.apk",
+        "app_activity": "com.liquid.poros.protwo.business.start.WelcomeActivity"
+    },
+    {
+        "app_name": "闪月",
+        "package_name": "com.shanyue.shanyue",
+        "file_name": "com.shanyue.shanyue_262.apk",
+        "app_activity": "com.shanyue.shanyue.activity.SplashActivity"
+    },
+    {
+        "app_name": "Tagoo",
+        "package_name": "club.spss.tagoo",
+        "file_name": "club.spss.tagoo_263.apk",
+        "app_activity": "com.example.tagoo.SplashActivity"
+    },
+    {
+        "app_name": "浪遇",
+        "package_name": "com.langyu.lyapp",
+        "file_name": "com.langyu.lyapp_264.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "玫瑰缘",
+        "package_name": "com.gz.shark.smile",
+        "file_name": "com.gz.shark.smile_266.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "她伴",
+        "package_name": "com.moqu.findyou",
+        "file_name": "com.moqu.findyou_267.apk",
+        "app_activity": "com.moqu.findyou.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "有机",
+        "package_name": "com.tm.youji",
+        "file_name": "com.tm.youji_268.apk",
+        "app_activity": "com.tm.youji.view.activity.home.CNKDenationalizationEpistolicalLoading"
+    },
+    {
+        "app_name": "唯她",
+        "package_name": "com.manmen.onlygirl",
+        "file_name": "com.manmen.onlygirl_269.apk",
+        "app_activity": "com.manmen.onlygirl.SplashActivity"
+    },
+    {
+        "app_name": "Yo语音",
+        "package_name": "com.yy.yomi",
+        "file_name": "com.yy.yomi_270.apk",
+        "app_activity": "com.yy.dreamer.splash.SplashActivity"
+    },
+    {
+        "app_name": "缘识陌生人相知相遇真心有缘人",
+        "package_name": "com.muguang.yuanshi",
+        "file_name": "com.muguang.yuanshi_271.apk",
+        "app_activity": "com.inke.wow.splash.SplashActivity"
+    },
+    {
+        "app_name": "缘识陌生人相知相遇真心有缘人",
+        "package_name": "com.muguang.yuanshi",
+        "file_name": "com.muguang.yuanshi_161.apk",
+        "app_activity": "com.inke.wow.splash.SplashActivity"
+    },
+    {
+        "app_name": "缘识陌生人相知相遇真心有缘人",
+        "package_name": "com.muguang.yuanshi",
+        "file_name": "com.muguang.yuanshi_262.apk",
+        "app_activity": "com.inke.wow.splash.SplashActivity"
+    },
+    {
+        "app_name": "近陌",
+        "package_name": "com.jinmo.chat.app",
+        "file_name": "com.jinmo.chat.app_264.apk",
+        "app_activity": "com.jinmo.chat.app.MainActivity"
+    },
+    {
+        "app_name": "本地密聊",
+        "package_name": "com.bcm.miliao",
+        "file_name": "com.bcm.miliao_265.apk",
+        "app_activity": "com.zy.gamapp.ui.login.splash.SplashActivity"
+    },
+    {
+        "app_name": "思守",
+        "package_name": "com.temps.peck",
+        "file_name": "com.temps.peck_266.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "心心相印",
+        "package_name": "com.video.link.heart",
+        "file_name": "com.video.link.heart_267.apk",
+        "app_activity": "com.video.link.heart.ui.SplashActivity"
+    },
+    {
+        "app_name": "同城速配",
+        "package_name": "com.hazelnut.tcsp",
+        "file_name": "com.hazelnut.tcsp_268.apk",
+        "app_activity": "com.hazelnut.tcsp.LauncherActivity"
+    },
+    {
+        "app_name": "真缘",
+        "package_name": "com.love.zhenyuan",
+        "file_name": "com.love.zhenyuan_269.apk",
+        "app_activity": "com.live.android.erliaorio.activity.SplashActivity"
+    },
+    {
+        "app_name": "MOMO陌陌",
+        "package_name": "com.immomo.momo",
+        "file_name": "com.immomo.momo_270.apk",
+        "app_activity": "com.immomo.momo.android.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "Uki",
+        "package_name": "cn.neoclub.uki",
+        "file_name": "cn.neoclub.uki_271.apk",
+        "app_activity": "cn.neoclub.uki.login.SplashActivity"
+    },
+    {
+        "app_name": "好想聊视频交友",
+        "package_name": "cn.an.plp",
+        "file_name": "cn.an.plp_272.apk",
+        "app_activity": "cn.an.plp.module.StartActivity"
+    },
+    {
+        "app_name": "有你",
+        "package_name": "com.live.android.youniapp",
+        "file_name": "com.live.android.youniapp_273.apk",
+        "app_activity": "com.live.android.erliaorio.activity.SplashActivity"
+    },
+    {
+        "app_name": "真心聊陌生交友视频聊愿相遇良缘",
+        "package_name": "com.lingyuxiu.zhenxinliao",
+        "file_name": "com.lingyuxiu.zhenxinliao_274.apk",
+        "app_activity": "com.yuxiu.xiangyue.splash.SplashActivity"
+    },
+    {
+        "app_name": "她盼",
+        "package_name": "com.onetoone.tapan",
+        "file_name": "com.onetoone.tapan_275.apk",
+        "app_activity": "com.onetoone.tapan.ui.SplashActivity"
+    },
+    {
+        "app_name": "同桌派对",
+        "package_name": "com.tongzhuo.player",
+        "file_name": "com.tongzhuo.player_276.apk",
+        "app_activity": "com.tongzhuo.tongzhuogame.ui.splash.NoInjectSplashActivity"
+    },
+    {
+        "app_name": "老乡婚恋社",
+        "package_name": "com.xingban.laoxiang",
+        "file_name": "com.xingban.laoxiang_277.apk",
+        "app_activity": "com.xingban.laoxiang.feature.launch.activity.LaoxiangLaunchAct"
+    },
+    {
+        "app_name": "你好树洞",
+        "package_name": "com.treehole.helloshudong",
+        "file_name": "com.treehole.helloshudong_278.apk",
+        "app_activity": "com.treehole.helloshudong.activity.SDSplashActivity"
+    },
+    {
+        "app_name": "她聊",
+        "package_name": "com.needou.her.chat",
+        "file_name": "com.needou.her.chat_279.apk",
+        "app_activity": "com.needou.her.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "同城陌约",
+        "package_name": "com.shangshanhu.bear",
+        "file_name": "com.shangshanhu.bear_280.apk",
+        "app_activity": "com.yicheng.assemble.activity.LauncherActivity"
+    },
+    {
+        "app_name": "异世界回响",
+        "package_name": "cn.soulapp.anotherworld",
+        "file_name": "cn.soulapp.anotherworld_281.apk",
+        "app_activity": "cn.ringapp.android.component.startup.main.MainActivity"
+    },
+    {
+        "app_name": "彩虹鸟",
+        "package_name": "com.yldkj.chn",
+        "file_name": "com.yldkj.chn_282.apk",
+        "app_activity": "com.yldkj.chn.activity.LauncherActivity"
+    },
+    {
+        "app_name": "牵手缘",
+        "package_name": "com.bj.qsy",
+        "file_name": "com.bj.qsy_283.apk",
+        "app_activity": "com.shouxiu.tcjy.mvp.WelcomeActivity2"
+    },
+    {
+        "app_name": "Togoo",
+        "package_name": "com.zerophil.togoo.huawei",
+        "file_name": "com.zerophil.togoo.huawei_284.apk",
+        "app_activity": "com.zerophil.worldtalk.ui.SplashActivity"
+    },
+    {
+        "app_name": "万话",
+        "package_name": "com.wantalk.wanhua",
+        "file_name": "com.wantalk.wanhua_285.apk",
+        "app_activity": "com.baidu.wanhua.splash.SplashActivity"
+    },
+    {
+        "app_name": "蛙声",
+        "package_name": "com.jnsd.washeng.app",
+        "file_name": "com.jnsd.washeng.app_286.apk",
+        "app_activity": "com.jnsd.washeng.MainActivity"
+    },
+    {
+        "app_name": "同城约见",
+        "package_name": "com.yuanfen.rich",
+        "file_name": "com.yuanfen.rich_287.apk",
+        "app_activity": "com.liaoyuan.assemble.activity.LauncherActivity"
+    },
+    {
+        "app_name": "在身边",
+        "package_name": "com.dc.zsb",
+        "file_name": "com.dc.zsb_288.apk",
+        "app_activity": "com.dc.zsb.MainActivity"
+    },
+    {
+        "app_name": "中年陌约附近聊",
+        "package_name": "com.minuo.myxa",
+        "file_name": "com.minuo.myxa_289.apk",
+        "app_activity": "com.minuo.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "语玩",
+        "package_name": "cn.longmaster.pengpeng",
+        "file_name": "cn.longmaster.pengpeng_290.apk",
+        "app_activity": "booter.SplashUI"
+    },
+    {
+        "app_name": "不二开黑",
+        "package_name": "com.buerkaihei.meet",
+        "file_name": "com.buerkaihei.meet_291.apk",
+        "app_activity": "com.daofeng.login.splash.SplashActivity"
+    },
+    {
+        "app_name": "附近逐爱",
+        "package_name": "com.gmlive.meetlove",
+        "file_name": "com.gmlive.meetlove_292.apk",
+        "app_activity": "com.gmlive.meetlove.LauncherActivity"
+    },
+    {
+        "app_name": "耳旁语音",
+        "package_name": "com.lianlwl.erpang",
+        "file_name": "com.lianlwl.erpang_293.apk",
+        "app_activity": "com.xingai.roar.ui.launch.EntryActivity"
+    },
+    {
+        "app_name": "树洞交友",
+        "package_name": "com.xixili.liaoai",
+        "file_name": "com.xixili.liaoai_294.apk",
+        "app_activity": "com.xixili.liaoai.mvp.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "引力星球",
+        "package_name": "com.wzxc.planet",
+        "file_name": "com.wzxc.planet_295.apk",
+        "app_activity": "com.wzxc.planet.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "声贝",
+        "package_name": "com.xuanyin.xunyin",
+        "file_name": "com.xuanyin.xunyin_296.apk",
+        "app_activity": "com.xuanyin.xunyin.SplashActivity"
+    },
+    {
+        "app_name": "CU语音",
+        "package_name": "cn.weli.sweet",
+        "file_name": "cn.weli.sweet_297.apk",
+        "app_activity": "cn.weli.peanut.SplashActivity"
+    },
+    {
+        "app_name": "本地陌约",
+        "package_name": "com.tayu.bdmy",
+        "file_name": "com.tayu.bdmy_298.apk",
+        "app_activity": "com.tayu.bdmy.main.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "会会交友",
+        "package_name": "com.makx.liv",
+        "file_name": "com.makx.liv_299.apk",
+        "app_activity": "com.mosheng.view.activity.AppStartPager"
+    },
+    {
+        "app_name": "聊遇",
+        "package_name": "com.liaoyujiaoyou.chat",
+        "file_name": "com.liaoyujiaoyou.chat_300.apk",
+        "app_activity": "com.liaoyujiaoyou.chat.activity.login.SplashActivity"
+    },
+    {
+        "app_name": "尤伴",
+        "package_name": "com.ttbyou.app",
+        "file_name": "com.ttbyou.app_301.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "青友",
+        "package_name": "com.ninepoint.xin",
+        "file_name": "com.ninepoint.xin_302.apk",
+        "app_activity": "com.ninepoint.xin.view.entry.flash.FlashActivity"
+    },
+    {
+        "app_name": "用心聊",
+        "package_name": "com.yfhnz.heartchat",
+        "file_name": "com.yfhnz.heartchat_303.apk",
+        "app_activity": "com.shouxiu.tcjy.mvp.WelcomeActivity2"
+    },
+    {
+        "app_name": "欢妹聊天",
+        "package_name": "com.vango.huanmei",
+        "file_name": "com.vango.huanmei_304.apk",
+        "app_activity": "com.vango.huanmei.module.StartActivity"
+    },
+    {
+        "app_name": "乡缘",
+        "package_name": "com.live.rurallove",
+        "file_name": "com.live.rurallove_305.apk",
+        "app_activity": "com.live.android.erliaorio.activity.SplashActivity"
+    },
+    {
+        "app_name": "附近一对欢聊",
+        "package_name": "com.huishuo.duiliao",
+        "file_name": "com.huishuo.duiliao_306.apk",
+        "app_activity": "com.moyou.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "闪恋",
+        "package_name": "com.yidui.jiaoyouba",
+        "file_name": "com.yidui.jiaoyouba_307.apk",
+        "app_activity": "com.guojiang.chatapp.activity.MainActivity"
+    },
+    {
+        "app_name": "附近爱夜陌生人",
+        "package_name": "com.wangc.fjaiye",
+        "file_name": "com.wangc.fjaiye_308.apk",
+        "app_activity": "com.vchat.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "我C语音",
+        "package_name": "com.zhenbang.wockaihei",
+        "file_name": "com.zhenbang.wockaihei_309.apk",
+        "app_activity": "com.zhenbang.busniess.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "有旅约会圈",
+        "package_name": "com.youlv.seize",
+        "file_name": "com.youlv.seize_310.apk",
+        "app_activity": "com.ljj.lettercircle.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "聊郁",
+        "package_name": "com.qs.liaoyu",
+        "file_name": "com.qs.liaoyu_311.apk",
+        "app_activity": "com.flala.domestic.SplashActivity"
+    },
+    {
+        "app_name": "麦可",
+        "package_name": "com.yuyue.mic",
+        "file_name": "com.yuyue.mic_312.apk",
+        "app_activity": "com.yiyou.ga.client.BlankActivity"
+    },
+    {
+        "app_name": "畅说108",
+        "package_name": "com.changshuo.ui",
+        "file_name": "com.changshuo.ui_313.apk",
+        "app_activity": "com.changshuo.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "附近陌约",
+        "package_name": "com.yanzhiyu.dahai",
+        "file_name": "com.yanzhiyu.dahai_314.apk",
+        "app_activity": "com.yicheng.assemble.activity.LauncherActivity"
+    },
+    {
+        "app_name": "她说",
+        "package_name": "com.intelcupid.shesay",
+        "file_name": "com.intelcupid.shesay_315.apk",
+        "app_activity": "com.intelcupid.shesay.main.PosterActivity"
+    },
+    {
+        "app_name": "奢颜",
+        "package_name": "com.sheguo.sheban",
+        "file_name": "com.sheguo.sheban_316.apk",
+        "app_activity": "com.sheguo.sheban.business.launch.LaunchActivity"
+    },
+    {
+        "app_name": "耳恋语音",
+        "package_name": "com.ricetable.earlove",
+        "file_name": "com.ricetable.earlove_317.apk",
+        "app_activity": "com.ricetable.libservice.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "元气语音",
+        "package_name": "com.yuanqijiaoyou.cp",
+        "file_name": "com.yuanqijiaoyou.cp_319.apk",
+        "app_activity": "com.yuanqijiaoyou.cp.activity.SplashActivity"
+    },
+    {
+        "app_name": "本地陌聊",
+        "package_name": "com.moliao.rabbit",
+        "file_name": "com.moliao.rabbit_320.apk",
+        "app_activity": "com.yicheng.assemble.activity.LauncherActivity"
+    },
+    {
+        "app_name": "谜境",
+        "package_name": "com.ukilive.wonderland",
+        "file_name": "com.ukilive.wonderland_321.apk",
+        "app_activity": "com.ukilive.wonderland.BlackActivity"
+    },
+    {
+        "app_name": "牵盼",
+        "package_name": "com.hnmenglong.qianpan",
+        "file_name": "com.hnmenglong.qianpan_322.apk",
+        "app_activity": "com.jingda.shimi.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "附近来约会",
+        "package_name": "com.fengyu.fjlyh",
+        "file_name": "com.fengyu.fjlyh_323.apk",
+        "app_activity": "com.fengyu.fjlyh.SplashActivity"
+    },
+    {
+        "app_name": "情语",
+        "package_name": "com.gxlulu.emotive",
+        "file_name": "com.gxlulu.emotive_324.apk",
+        "app_activity": "com.gxlulu.emotive.StartActivity"
+    },
+    {
+        "app_name": "遇见红颜",
+        "package_name": "com.jinniu.kkjhb",
+        "file_name": "com.jinniu.kkjhb_325.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "心遇",
+        "package_name": "com.netease.moyi",
+        "file_name": "com.netease.moyi_326.apk",
+        "app_activity": "com.netease.moyi.biz.home.impl.NewMainActivity"
+    },
+    {
+        "app_name": "Hello",
+        "package_name": "com.yy.huanju",
+        "file_name": "com.yy.huanju_327.apk",
+        "app_activity": "com.yy.huanju.MainActivity"
+    },
+    {
+        "app_name": "心连",
+        "package_name": "com.jglive.xinlian",
+        "file_name": "com.jglive.xinlian_328.apk",
+        "app_activity": "com.jglive.xinlian.LauncherActivity"
+    },
+    {
+        "app_name": "幻幻",
+        "package_name": "com.singulora.huanhuan",
+        "file_name": "com.singulora.huanhuan_329.apk",
+        "app_activity": "com.singulora.huanhuan.ui.SplashActivity"
+    },
+    {
+        "app_name": "附近寻爱",
+        "package_name": "com.huanyou.fjxasn",
+        "file_name": "com.huanyou.fjxasn_330.apk",
+        "app_activity": "com.yicheng.assemble.activity.LauncherActivity"
+    },
+    {
+        "app_name": "男伴",
+        "package_name": "com.male.companion",
+        "file_name": "com.male.companion_331.apk",
+        "app_activity": "com.male.companion.activity.LauncherActivity"
+    },
+    {
+        "app_name": "可糖",
+        "package_name": "com.gxyumu.ketang",
+        "file_name": "com.gxyumu.ketang_332.apk",
+        "app_activity": "com.ycyh.comemeet.SplashActivity"
+    },
+    {
+        "app_name": "蜜语聊",
+        "package_name": "com.tutu.miyu",
+        "file_name": "com.tutu.miyu_333.apk",
+        "app_activity": "com.tutu.miyu.ui.activity.main.MainActivity"
+    },
+    {
+        "app_name": "秘密漂流瓶",
+        "package_name": "com.baijiankeji.tdplp",
+        "file_name": "com.baijiankeji.tdplp_334.apk",
+        "app_activity": "com.baijiankeji.tdplp.activity.SplashActivity"
+    },
+    {
+        "app_name": "贴贴",
+        "package_name": "com.tie520",
+        "file_name": "com.tie520_335.apk",
+        "app_activity": "com.tietie.MainActivity"
+    },
+    {
+        "app_name": "Pinky",
+        "package_name": "com.pinkycul.pinky",
+        "file_name": "com.pinkycul.pinky_336.apk",
+        "app_activity": "com.pinkycul.pinky.ui.login.LauncherActivity"
+    },
+    {
+        "app_name": "觅遇公园",
+        "package_name": "com.weseekmeta.coco",
+        "file_name": "com.weseekmeta.coco_337.apk",
+        "app_activity": "com.weseekmeta.coco.coco.MainActivity"
+    },
+    {
+        "app_name": "妙时",
+        "package_name": "com.netease.ichatlite",
+        "file_name": "com.netease.ichatlite_338.apk",
+        "app_activity": "com.netease.ichat.main.MainActivity"
+    },
+    {
+        "app_name": "声涩",
+        "package_name": "com.shengs.yy",
+        "file_name": "com.shengs.yy_339.apk",
+        "app_activity": "com.yizhuan.shengs.other.activity.SplashActivity"
+    },
+    {
+        "app_name": "同城蜜聊",
+        "package_name": "com.hnhuyu.nearfastgate",
+        "file_name": "com.hnhuyu.nearfastgate_340.apk",
+        "app_activity": "com.hnhuyu.nearfastgate.launcher.ChatLiveNewSplash"
+    },
+    {
+        "app_name": "冒泡鸭",
+        "package_name": "com.maopaoya.mpyapp",
+        "file_name": "com.maopaoya.mpyapp_341.apk",
+        "app_activity": "com.maopaoya.mpyapp.MainActivity"
+    },
+    {
+        "app_name": "众聊",
+        "package_name": "uni.zl.www",
+        "file_name": "uni.zl.www_342.apk",
+        "app_activity": "com.juemigoutong.waguchat.ui.SplashActivityBase"
+    },
+    {
+        "app_name": "美夜",
+        "package_name": "com.linghao.yeliao",
+        "file_name": "com.linghao.yeliao_343.apk",
+        "app_activity": "com.zxml.videoline.activity.SplashActivity"
+    },
+    {
+        "app_name": "Tantan",
+        "package_name": "com.p1.mobile.putong",
+        "file_name": "com.p1.mobile.putong_344.apk",
+        "app_activity": "com.p1.mobile.putong.ui.splash.SplashProxyAct"
+    },
+    {
+        "app_name": "橙",
+        "package_name": "io.iftech.match",
+        "file_name": "io.iftech.match_345.apk",
+        "app_activity": "io.iftech.match.MainActivity"
+    },
+    {
+        "app_name": "夜聊",
+        "package_name": "com.zhiya.videoline",
+        "file_name": "com.zhiya.videoline_346.apk",
+        "app_activity": "com.zhiya.videoline.activity.SplashActivity"
+    },
+    {
+        "app_name": "糖芯",
+        "package_name": "com.gdwk.tangxin",
+        "file_name": "com.gdwk.tangxin_347.apk",
+        "app_activity": "com.zy.gamapp.ui.login.splash.SplashActivity"
+    },
+    {
+        "app_name": "欢友",
+        "package_name": "com.pangdaishu.huanyou",
+        "file_name": "com.pangdaishu.huanyou_348.apk",
+        "app_activity": "com.yicheng.assemble.activity.LauncherActivity"
+    },
+    {
+        "app_name": "心伴",
+        "package_name": "com.yixiaoqc.dyj",
+        "file_name": "com.yixiaoqc.dyj_349.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "同城心动",
+        "package_name": "com.xin.dong",
+        "file_name": "com.xin.dong_350.apk",
+        "app_activity": "com.huahua.dating.ui.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "心贴心相聊",
+        "package_name": "com.yr.xtx",
+        "file_name": "com.yr.xtx_351.apk",
+        "app_activity": "com.ycyh.comemeet.SplashActivity"
+    },
+    {
+        "app_name": "附近知音聊",
+        "package_name": "com.xingtong.fjzyl",
+        "file_name": "com.xingtong.fjzyl_352.apk",
+        "app_activity": "com.yuxiu.xiangyue.splash.SplashActivity"
+    },
+    {
+        "app_name": "附近约聊",
+        "package_name": "com.llanyu.yll",
+        "file_name": "com.llanyu.yll_353.apk",
+        "app_activity": "com.guojiang.chatapp.activity.MainActivity"
+    },
+    {
+        "app_name": "鱼耳",
+        "package_name": "com.yupaopao.yuer",
+        "file_name": "com.yupaopao.yuer_354.apk",
+        "app_activity": "com.yuer.container.business.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "闪遇",
+        "package_name": "com.paipai.yubj",
+        "file_name": "com.paipai.yubj_355.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "话友",
+        "package_name": "com.tolove.ppw",
+        "file_name": "com.tolove.ppw_356.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "附近聊爱",
+        "package_name": "cn.youbaikeji.app",
+        "file_name": "cn.youbaikeji.app_357.apk",
+        "app_activity": "cn.weilanglang.app.v2.module.start.WelcomeActivity"
+    },
+    {
+        "app_name": "戏鲸",
+        "package_name": "com.piaxiya.app",
+        "file_name": "com.piaxiya.app_358.apk",
+        "app_activity": "com.piaxiya.app.SplashActivity"
+    },
+    {
+        "app_name": "本地寻欢",
+        "package_name": "com.bimeng.bdxh",
+        "file_name": "com.bimeng.bdxh_359.apk",
+        "app_activity": "com.yicheng.assemble.activity.LauncherActivity"
+    },
+    {
+        "app_name": "盼聊",
+        "package_name": "com.bimeng.tcwl",
+        "file_name": "com.bimeng.tcwl_360.apk",
+        "app_activity": "com.yicheng.assemble.activity.LauncherActivity"
+    },
+    {
+        "app_name": "桃源",
+        "package_name": "com.ldlive.taoyuan",
+        "file_name": "com.ldlive.taoyuan_361.apk",
+        "app_activity": "com.ldlive.taoyuan.LauncherActivity"
+    },
+    {
+        "app_name": "牵芯",
+        "package_name": "com.qingf.qianxin",
+        "file_name": "com.qingf.qianxin_362.apk",
+        "app_activity": "com.qingf.qianxinapplication.QianXinLaunchActivity"
+    },
+    {
+        "app_name": "心悦心",
+        "package_name": "com.cola.xinyue",
+        "file_name": "com.cola.xinyue_363.apk",
+        "app_activity": "com.cola.xinyue.page.launch.LaunchActivity"
+    },
+    {
+        "app_name": "青遇",
+        "package_name": "com.qingyuapp",
+        "file_name": "com.qingyuapp_364.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "遇见爱交友",
+        "package_name": "com.ykhd9898.yujianai",
+        "file_name": "com.ykhd9898.yujianai_365.apk",
+        "app_activity": "com.tuowan.yeliao.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "小圈约",
+        "package_name": "com.dev.smallcircledating",
+        "file_name": "com.dev.smallcircledating_366.apk",
+        "app_activity": "com.dev.maskdating.LaunchActivity"
+    },
+    {
+        "app_name": "聊天漂流瓶",
+        "package_name": "tt.lt.tt",
+        "file_name": "tt.lt.tt_367.apk",
+        "app_activity": "com.bytearea.tanyu.login.SplashActivity"
+    },
+    {
+        "app_name": "一罐",
+        "package_name": "club.jijigugu.yiguan",
+        "file_name": "club.jijigugu.yiguan_368.apk",
+        "app_activity": "club.jijigugu.yiguan.ui.activities.SplashActivity"
+    },
+    {
+        "app_name": "KOOK",
+        "package_name": "cn.kaiheila",
+        "file_name": "cn.kaiheila_369.apk",
+        "app_activity": "cn.kaiheila.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "DigitalFAFU",
+        "package_name": "cn.edu.fafu.iportal",
+        "file_name": "cn.edu.fafu.iportal_370.apk",
+        "app_activity": "huawei.w3.ui.welcome.W3SplashScreenActivity"
+    },
+    {
+        "app_name": "Soul",
+        "package_name": "cn.soulapp.android",
+        "file_name": "cn.soulapp.android_371.apk",
+        "app_activity": "cn.soulapp.android.component.startup.main.MainActivity"
+    },
+    {
+        "app_name": "附近畅谈",
+        "package_name": "com.ldlive.nearchat",
+        "file_name": "com.ldlive.nearchat_372.apk",
+        "app_activity": "com.ldlive.nearchat.LauncherActivity"
+    },
+    {
+        "app_name": "甜遇",
+        "package_name": "com.yanzhiyu.tianyu",
+        "file_name": "com.yanzhiyu.tianyu_373.apk",
+        "app_activity": "com.yicheng.assemble.activity.LauncherActivity"
+    },
+    {
+        "app_name": "期遇",
+        "package_name": "com.gx.qiyu",
+        "file_name": "com.gx.qiyu_374.apk",
+        "app_activity": "com.ycyh.comemeet.SplashActivity"
+    },
+    {
+        "app_name": "暖心约",
+        "package_name": "com.ldlive.closechat",
+        "file_name": "com.ldlive.closechat_375.apk",
+        "app_activity": "com.ldlive.closechat.LauncherActivity"
+    },
+    {
+        "app_name": "萌糖视频聊天交友",
+        "package_name": "com.mtqtpzjy.mtjy",
+        "file_name": "com.mtqtpzjy.mtjy_376.apk",
+        "app_activity": "pvw.tqn.hktvx.zd"
+    },
+    {
+        "app_name": "筑梦岛",
+        "package_name": "com.yuewen.dreamer",
+        "file_name": "com.yuewen.dreamer_377.apk",
+        "app_activity": "com.yuewen.dreamer.launch.SplashActivity"
+    },
+    {
+        "app_name": "与你相遇",
+        "package_name": "com.yunixiangyu.ynxyap",
+        "file_name": "com.yunixiangyu.ynxyap_378.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "不夜星球",
+        "package_name": "com.yhl.sleepless.android",
+        "file_name": "com.yhl.sleepless.android_379.apk",
+        "app_activity": "com.yhl.sleepless.android.SplashActivity"
+    },
+    {
+        "app_name": "蓝友男同志社交软件",
+        "package_name": "com.sunday.gayhub",
+        "file_name": "com.sunday.gayhub_380.apk",
+        "app_activity": "com.sunday.gayhub.SplashActivity"
+    },
+    {
+        "app_name": "缘遇圈",
+        "package_name": "com.xxdd.imsearch",
+        "file_name": "com.xxdd.imsearch_381.apk",
+        "app_activity": "com.xxdd.imsearch.ui.SplashActivity"
+    },
+    {
+        "app_name": "小蓝鸟窝",
+        "package_name": "cq.xiaolanniaowo.com",
+        "file_name": "cq.xiaolanniaowo.com_382.apk",
+        "app_activity": "cq.xiaolanniaowo.com.view.activity.home.NMEnregisterJuristicLoading"
+    },
+    {
+        "app_name": "初心漂流瓶",
+        "package_name": "com.chuxin.cx",
+        "file_name": "com.chuxin.cx_383.apk",
+        "app_activity": "com.tc.datingta.login.SplashActivity"
+    },
+    {
+        "app_name": "MosTalk",
+        "package_name": "com.paopaotalk.im",
+        "file_name": "com.paopaotalk.im_384.apk",
+        "app_activity": "com.vvchat.vcapp.activity.MainActivity"
+    },
+    {
+        "app_name": "忆缘",
+        "package_name": "com.huasyun.yiy",
+        "file_name": "com.huasyun.yiy_385.apk",
+        "app_activity": "com.ycyh.comemeet.SplashActivity"
+    },
+    {
+        "app_name": "糖聊交友",
+        "package_name": "com.bbk.tangljy",
+        "file_name": "com.bbk.tangljy_386.apk",
+        "app_activity": "zyxd.fish.live.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "水聊",
+        "package_name": "com.xyong.gchat",
+        "file_name": "com.xyong.gchat_387.apk",
+        "app_activity": "com.xyong.gchat.module.StartActivity"
+    },
+    {
+        "app_name": "白袜",
+        "package_name": "com.yz.yzbaiwa",
+        "file_name": "com.yz.yzbaiwa_388.apk",
+        "app_activity": "com.yz.yzbaiwa.MainActivity"
+    },
+    {
+        "app_name": "音麦漂流瓶",
+        "package_name": "me.yinmai.yidui",
+        "file_name": "me.yinmai.yidui_389.apk",
+        "app_activity": "me.yinmai.yidui.main.SplashActivity"
+    },
+    {
+        "app_name": "漂流瓶CP",
+        "package_name": "com.bottle.cp",
+        "file_name": "com.bottle.cp_390.apk",
+        "app_activity": "com.bottle.cp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "相思",
+        "package_name": "com.xiangsi.live",
+        "file_name": "com.xiangsi.live_391.apk",
+        "app_activity": "com.whcd.sliao.ui.SplashActivity"
+    },
+    {
+        "app_name": "趣爱约",
+        "package_name": "com.ymyy.loveim",
+        "file_name": "com.ymyy.loveim_392.apk",
+        "app_activity": "com.ymyy.loveim.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "心桥",
+        "package_name": "online.yunbo.app",
+        "file_name": "online.yunbo.app_393.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "缘会",
+        "package_name": "com.nutlive.yuanhui",
+        "file_name": "com.nutlive.yuanhui_394.apk",
+        "app_activity": "com.nutlive.yuanhui.LauncherActivity"
+    },
+    {
+        "app_name": "空旅",
+        "package_name": "com.xingkong.airtravel",
+        "file_name": "com.xingkong.airtravel_395.apk",
+        "app_activity": "com.xingkong.airtravel.ui.SplashActivity"
+    },
+    {
+        "app_name": "轻恋",
+        "package_name": "com.lightly.qinglian",
+        "file_name": "com.lightly.qinglian_396.apk",
+        "app_activity": "os.xiehou360.im.mei.activity.SplashActivity"
+    },
+    {
+        "app_name": "红蓝CP",
+        "package_name": "com.xiaoyu.rightone",
+        "file_name": "com.xiaoyu.rightone_397.apk",
+        "app_activity": "com.xiaoyu.rightone.features.launch.LaunchActivity"
+    },
+    {
+        "app_name": "声吧聊天交友",
+        "package_name": "cn.tantady.tt",
+        "file_name": "cn.tantady.tt_398.apk",
+        "app_activity": "com.module.main.SplashActivity"
+    },
+    {
+        "app_name": "抖你",
+        "package_name": "com.shakeyou.app",
+        "file_name": "com.shakeyou.app_399.apk",
+        "app_activity": "com.shakeyou.app.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "思语",
+        "package_name": "com.app.siyu",
+        "file_name": "com.app.siyu_400.apk",
+        "app_activity": "com.app.siyu.pages.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "牵爱",
+        "package_name": "com.mylive.leadlove",
+        "file_name": "com.mylive.leadlove_401.apk",
+        "app_activity": "com.mylive.leadlove.LauncherActivity"
+    },
+    {
+        "app_name": "聊她",
+        "package_name": "com.jiehuozhe",
+        "file_name": "com.jiehuozhe_402.apk",
+        "app_activity": "com.jiehuozhe.main.ui.SplashActivity"
+    },
+    {
+        "app_name": "音对语聊",
+        "package_name": "com.sws.yindui",
+        "file_name": "com.sws.yindui_403.apk",
+        "app_activity": "com.sws.yindui.login.activity.SplashActivity"
+    },
+    {
+        "app_name": "面面",
+        "package_name": "com.mianmian.liao",
+        "file_name": "com.mianmian.liao_404.apk",
+        "app_activity": "com.mosheng.view.activity.AppStartPager"
+    },
+    {
+        "app_name": "他趣",
+        "package_name": "com.xingjiabi.shengsheng",
+        "file_name": "com.xingjiabi.shengsheng_405.apk",
+        "app_activity": "com.xingjiabi.shengsheng.app.SplashActivity"
+    },
+    {
+        "app_name": "珍心",
+        "package_name": "com.fzhj.zhenxin",
+        "file_name": "com.fzhj.zhenxin_406.apk",
+        "app_activity": "com.shouxiu.tcjy.mvp.WelcomeActivity2"
+    },
+    {
+        "app_name": "牵手聊",
+        "package_name": "com.heyooh.shouqianshou",
+        "file_name": "com.heyooh.shouqianshou_407.apk",
+        "app_activity": "com.dc.tangyu.MainActivity"
+    },
+    {
+        "app_name": "国科优选",
+        "package_name": "com.guoke.imchat",
+        "file_name": "com.guoke.imchat_408.apk",
+        "app_activity": "com.guoke.imchat.ui.login.SplashActivity"
+    },
+    {
+        "app_name": "猫猫语音",
+        "package_name": "com.benben.catsvoice",
+        "file_name": "com.benben.catsvoice_409.apk",
+        "app_activity": "com.benben.frame.ui.SplashActivity"
+    },
+    {
+        "app_name": "他ta星球",
+        "package_name": "com.xinhe.tataxingqiu",
+        "file_name": "com.xinhe.tataxingqiu_410.apk",
+        "app_activity": "com.xhtq.app.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "夜遇",
+        "package_name": "com.tongliao.yeyu",
+        "file_name": "com.tongliao.yeyu_411.apk",
+        "app_activity": "com.vchat.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "新恋",
+        "package_name": "xuntacd.xinlian.chat",
+        "file_name": "xuntacd.xinlian.chat_412.apk",
+        "app_activity": "xuntacd.xinlian.chat.LoadingActivity"
+    },
+    {
+        "app_name": "语心",
+        "package_name": "com.hncuishi.yuxin",
+        "file_name": "com.hncuishi.yuxin_413.apk",
+        "app_activity": "com.ycyh.comemeet.SplashActivity"
+    },
+    {
+        "app_name": "同城寻欢",
+        "package_name": "same.city.look",
+        "file_name": "same.city.look_414.apk",
+        "app_activity": "com.zy.gamapp.ui.login.splash.SplashActivity"
+    },
+    {
+        "app_name": "爆聊",
+        "package_name": "cn.mimilive.xianyu",
+        "file_name": "cn.mimilive.xianyu_415.apk",
+        "app_activity": "com.rabbit.rabbitapp.module.StartActivity"
+    },
+    {
+        "app_name": "陌交友",
+        "package_name": "com.zysj.mjy",
+        "file_name": "com.zysj.mjy_416.apk",
+        "app_activity": "zyxd.fish.live.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "Hay",
+        "package_name": "com.tm.hawyiy",
+        "file_name": "com.tm.hawyiy_417.apk",
+        "app_activity": "com.tm.hawyiy.view.activity.home.RWCSubinfeudateSurlinessLoading"
+    },
+    {
+        "app_name": "恋恋",
+        "package_name": "com.imdw.lianlian",
+        "file_name": "com.imdw.lianlian_418.apk",
+        "app_activity": "os.xiehou360.im.mei.activity.SplashActivity"
+    },
+
+    {
+        "app_name": "同城桃友",
+        "package_name": "com.tongchengtaoyou.tyapp",
+        "file_name": "com.tongchengtaoyou.tyapp_1.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "秀聊",
+        "package_name": "com.yueliao.vchatapp",
+        "file_name": "com.yueliao.vchatapp_2.apk",
+        "app_activity": "com.guojiang.chatapp.activity.MainActivity"
+    },
+    {
+        "app_name": "惜恋",
+        "package_name": "com.habijiang.xilian",
+        "file_name": "com.habijiang.xilian_3.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "觅悦",
+        "package_name": "com.miyue.jfxb",
+        "file_name": "com.miyue.jfxb_4.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "0715圈",
+        "package_name": "com.quan0715.forum",
+        "file_name": "com.quan0715.forum_5.apk",
+        "app_activity": "com.quan0715.forum.activity.StartActivity"
+    },
+    {
+        "app_name": "秀宝宝",
+        "package_name": "com.xiubaobao.xbbapp",
+        "file_name": "com.xiubaobao.xbbapp_6.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "暖伴聊天",
+        "package_name": "com.keliao.klapp",
+        "file_name": "com.keliao.klapp_7.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "四喵",
+        "package_name": "com.whocttech.yujian",
+        "file_name": "com.whocttech.yujian_8.apk",
+        "app_activity": "com.whocttech.yujian.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "聆遇",
+        "package_name": "com.zebra.hear",
+        "file_name": "com.zebra.hear_9.apk",
+        "app_activity": "com.privacy.social.SplashActivity"
+    },
+    {
+        "app_name": "面具视频聊天交友",
+        "package_name": "com.melive.videoapp",
+        "file_name": "com.melive.videoapp_10.apk",
+        "app_activity": "com.melive.videoapp.activity.login.WelcomeActivity"
+    },
+    {
+        "app_name": "面具小圈",
+        "package_name": "com.strange.ways",
+        "file_name": "com.strange.ways_11.apk",
+        "app_activity": "com.ljj.lettercircle.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "她欢",
+        "package_name": "com.tahuan.and",
+        "file_name": "com.tahuan.and_12.apk",
+        "app_activity": "com.mostone.gochat.ui.SplashActivity"
+    },
+    {
+        "app_name": "飞语",
+        "package_name": "com.feiyuim.imchat",
+        "file_name": "com.feiyuim.imchat_13.apk",
+        "app_activity": "com.feiyuim.imchat.MainActivity"
+    },
+    {
+        "app_name": "遇见心动",
+        "package_name": "com.honey.online",
+        "file_name": "com.honey.online_14.apk",
+        "app_activity": "com.quyue.clubprogram.view.login.activity.LoadingActivity"
+    },
+    {
+        "app_name": "巨鸭",
+        "package_name": "com.lingji.juya",
+        "file_name": "com.lingji.juya_15.apk",
+        "app_activity": "com.lingji.juya.ui.LaunchActivity"
+    },
+    {
+        "app_name": "俏密选",
+        "package_name": "guangding.qiaomixuan.com",
+        "file_name": "guangding.qiaomixuan.com_16.apk",
+        "app_activity": "guangding.qiaomixuan.com.view.activity.home.SOWUnstiffenWeddingSuperfluousLoading"
+    },
+    {
+        "app_name": "双鱼部落",
+        "package_name": "com.sybl.voiceroom",
+        "file_name": "com.sybl.voiceroom_17.apk",
+        "app_activity": "com.sybl.voiceroom.module.main.view.SplashActivity"
+    },
+    {
+        "app_name": "糖音约玩",
+        "package_name": "com.sywx.peipeilive",
+        "file_name": "com.sywx.peipeilive_18.apk",
+        "app_activity": "com.sywx.peipeilive.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "微语",
+        "package_name": "com.gxqf.weiyu",
+        "file_name": "com.gxqf.weiyu_19.apk",
+        "app_activity": "com.gxqf.myapplication.LaunchActivity"
+    },
+    {
+        "app_name": "佳人有约",
+        "package_name": "com.wotiantian.jiarenyouyue",
+        "file_name": "com.wotiantian.jiarenyouyue_20.apk",
+        "app_activity": "com.sound.module_main_imp.ui.login.SplashActivityJiaren"
+    },
+    {
+        "app_name": "唇聊视频交友",
+        "package_name": "com.yiyan.chunliao",
+        "file_name": "com.yiyan.chunliao_21.apk",
+        "app_activity": "com.chun.chunapp.module.StartActivity"
+    },
+    {
+        "app_name": "秀色陌聊",
+        "package_name": "com.xiuse.bft",
+        "file_name": "com.xiuse.bft_22.apk",
+        "app_activity": "br.jx.xwv.of"
+    },
+    {
+        "app_name": "附近泡泡聊",
+        "package_name": "com.paopaoliao.pplapp",
+        "file_name": "com.paopaoliao.pplapp_23.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "流连",
+        "package_name": "com.liulian.llapp",
+        "file_name": "com.liulian.llapp_24.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "化龙巷",
+        "package_name": "com.hualongxiang",
+        "file_name": "com.hualongxiang_25.apk",
+        "app_activity": "com.hualongxiang.activity.StartActivity"
+    },
+    {
+        "app_name": "玖聊视频聊天交友",
+        "package_name": "awu.jiujiuchat.app",
+        "file_name": "awu.jiujiuchat.app_26.apk",
+        "app_activity": "com.awu.jiu.module.StartActivity"
+    },
+    {
+        "app_name": "美约",
+        "package_name": "com.tempc.peck",
+        "file_name": "com.tempc.peck_27.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "陌趣漂流瓶",
+        "package_name": "com.moqu.bottle",
+        "file_name": "com.moqu.bottle_28.apk",
+        "app_activity": "com.moqu.bottle.StartActivity"
+    },
+    {
+        "app_name": "迹爱",
+        "package_name": "com.tempj.peck",
+        "file_name": "com.tempj.peck_29.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "接接",
+        "package_name": "com.zhengbai.jiejie",
+        "file_name": "com.zhengbai.jiejie_30.apk",
+        "app_activity": "com.zhengbai.jiejie.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "可亲",
+        "package_name": "com.gxqa.ketian",
+        "file_name": "com.gxqa.ketian_31.apk",
+        "app_activity": "com.aizg.funlove.splash.SplashActivity"
+    },
+    {
+        "app_name": "探蜜约会",
+        "package_name": "com.yuwan.tmyh",
+        "file_name": "com.yuwan.tmyh_32.apk",
+        "app_activity": "com.yicheng.assemble.activity.LauncherActivity"
+    },
+    {
+        "app_name": "蜜感",
+        "package_name": "io.dcloud.H54EBC9BCMG",
+        "file_name": "io.dcloud.H54EBC9BCMG_33.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "音柚漂流瓶",
+        "package_name": "com.lemeng.yinyou",
+        "file_name": "com.lemeng.yinyou_34.apk",
+        "app_activity": "com.lemeng.yinyou.StartActivity"
+    },
+    {
+        "app_name": "同城陌聊",
+        "package_name": "com.sh.shuihulu.kiwipro",
+        "file_name": "com.sh.shuihulu.kiwipro_35.apk",
+        "app_activity": "com.yicheng.assemble.activity.LauncherActivity"
+    },
+    {
+        "app_name": "啵聊",
+        "package_name": "com.xiayu.chunai",
+        "file_name": "com.xiayu.chunai_36.apk",
+        "app_activity": "com.heart.heartapp.module.StartActivity"
+    },
+    {
+        "app_name": "知缘",
+        "package_name": "com.tm.zhiyuan",
+        "file_name": "com.tm.zhiyuan_37.apk",
+        "app_activity": "com.tm.zhiyuan.view.activity.home.AppLoading"
+    },
+    {
+        "app_name": "瓶洞树洞漂流瓶",
+        "package_name": "com.wuhui.drift",
+        "file_name": "com.wuhui.drift_38.apk",
+        "app_activity": "com.wuhui.drift.ui.SplashActivity"
+    },
+    {
+        "app_name": "快趣聊",
+        "package_name": "com.love.huami",
+        "file_name": "com.love.huami_39.apk",
+        "app_activity": "com.laixin.laixin.view.activity.WelcomeActivity_"
+    },
+    {
+        "app_name": "在一起",
+        "package_name": "com.peckt.mlmb",
+        "file_name": "com.peckt.mlmb_40.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "亲亲",
+        "package_name": "com.peckt.mlme",
+        "file_name": "com.peckt.mlme_41.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "悠悠我心",
+        "package_name": "com.peckt.mlmh",
+        "file_name": "com.peckt.mlmh_42.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "云情",
+        "package_name": "com.peckt.mlmo",
+        "file_name": "com.peckt.mlmo_43.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "珍聊",
+        "package_name": "com.zhenliao.zlapp",
+        "file_name": "com.zhenliao.zlapp_44.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "红颜知己聊天约会",
+        "package_name": "com.qj.hy",
+        "file_name": "com.qj.hy_45.apk",
+        "app_activity": "com.sound.module_main_imp.ui.login.SplashActivityHongyan"
+    },
+    {
+        "app_name": "心梦",
+        "package_name": "com.piwan.friend",
+        "file_name": "com.piwan.friend_46.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "tell",
+        "package_name": "com.aikesi.samecity",
+        "file_name": "com.aikesi.samecity_47.apk",
+        "app_activity": "com.aikesi.samecity.mvp.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "心语心缘",
+        "package_name": "com.lingyuan.hearfate",
+        "file_name": "com.lingyuan.hearfate_48.apk",
+        "app_activity": "com.lingyuan.hearfate.LauncherActivity"
+    },
+    {
+        "app_name": "依缘",
+        "package_name": "com.aijiuzaiha.yh",
+        "file_name": "com.aijiuzaiha.yh_49.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "伊爱陪聊",
+        "package_name": "com.xq.zai",
+        "file_name": "com.xq.zai_50.apk",
+        "app_activity": "com.ycyh.comemeet.SplashActivity"
+    },
+    {
+        "app_name": "越伊",
+        "package_name": "com.beiming.yueyi",
+        "file_name": "com.beiming.yueyi_51.apk",
+        "app_activity": "com.beiming.yueyi.ui.launch.SplashYueYiActivity"
+    },
+    {
+        "app_name": "裸山",
+        "package_name": "com.jts.luoshan",
+        "file_name": "com.jts.luoshan_52.apk",
+        "app_activity": "com.jts.luoshan.SplashActivity"
+    },
+    {
+        "app_name": "伊伴",
+        "package_name": "com.yiban.ybapp",
+        "file_name": "com.yiban.ybapp_53.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "Secret Planet",
+        "package_name": "com.candybook.secretplanetandroid",
+        "file_name": "com.candybook.secretplanetandroid_54.apk",
+        "app_activity": "com.candybook.secretplanetandroid.LaunchActivity"
+    },
+    {
+        "app_name": "恋语桃聊视频交友",
+        "package_name": "com.lytlspjy.lyjy",
+        "file_name": "com.lytlspjy.lyjy_55.apk",
+        "app_activity": "ur.sh.zfkct.ue"
+    },
+    {
+        "app_name": "寻悦",
+        "package_name": "com.fjmmliao.fjxy",
+        "file_name": "com.fjmmliao.fjxy_56.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "微妙",
+        "package_name": "com.project.nduyuanyuzhou",
+        "file_name": "com.project.nduyuanyuzhou_57.apk",
+        "app_activity": "com.project.nduyuanyuzhou.ui.SplashActivity"
+    },
+    {
+        "app_name": "缘配",
+        "package_name": "com.yplive.yp",
+        "file_name": "com.yplive.yp_58.apk",
+        "app_activity": "com.yplive.hyzb.ui.main.WelcomeActivity"
+    },
+    {
+        "app_name": "陌声漂流瓶",
+        "package_name": "com.luoyang.shengsheng",
+        "file_name": "com.luoyang.shengsheng_59.apk",
+        "app_activity": "com.luoyang.shengsheng.MainActivity"
+    },
+    {
+        "app_name": "红尘",
+        "package_name": "com.lingyuexiu.hongchen",
+        "file_name": "com.lingyuexiu.hongchen_60.apk",
+        "app_activity": "com.yuxiu.xiangyue.splash.SplashActivity"
+    },
+    {
+        "app_name": "夜色夜聊",
+        "package_name": "com.muoalqbt.mvyt",
+        "file_name": "com.muoalqbt.mvyt_61.apk",
+        "app_activity": "ngx.kvz.lpo.ke"
+    }
+]

@@ -1,0 +1,650 @@
+[
+    {
+        "app_name": "选号网络电话",
+        "package_name": "cn.lrapps.xuancall",
+        "file_name": "cn.lrapps.xuancall_1.apk",
+        "app_activity": "libit.sip.ui.ActivityLauncher"
+    },
+    {
+        "app_name": "牧集",
+        "package_name": "com.mallee.mjzd",
+        "file_name": "com.mallee.mjzd_2.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "ChatCube",
+        "package_name": "com.cube.messager",
+        "file_name": "com.cube.messager_3.apk",
+        "app_activity": "com.cube.messager.launch.LaunchDistributeActivity"
+    },
+    {
+        "app_name": "嘟嘟电话",
+        "package_name": "com.yunxin123.dudu",
+        "file_name": "com.yunxin123.dudu_4.apk",
+        "app_activity": "com.admin.chuhu.MainActivity"
+    },
+    {
+        "app_name": "沃小号",
+        "package_name": "com.glhh.chinaunicom.wxh",
+        "file_name": "com.glhh.chinaunicom.wxh_5.apk",
+        "app_activity": "com.glhh.chinaunicom.wxh.MainActivity"
+    },
+    {
+        "app_name": "WeCom",
+        "package_name": "com.ceec.eceec",
+        "file_name": "com.ceec.eceec_6.apk",
+        "app_activity": "com.tencent.wework.launch.WwMainActivity"
+    },
+    {
+        "app_name": "优优电话",
+        "package_name": "com.admin.youyouphone",
+        "file_name": "com.admin.youyouphone_7.apk",
+        "app_activity": "com.admin.chuhu.MainActivity"
+    },
+    {
+        "app_name": "网络电话小号",
+        "package_name": "com.smty.breathe",
+        "file_name": "com.smty.breathe_8.apk",
+        "app_activity": "cn.smty.ui.ActivityLauncher"
+    },
+    {
+        "app_name": "微话",
+        "package_name": "com.tianzhou.app_phone",
+        "file_name": "com.tianzhou.app_phone_9.apk",
+        "app_activity": "com.tianzhou.app_phone.MainActivity"
+    },
+    {
+        "app_name": "隐号电话",
+        "package_name": "cn.lrapps.hidecall",
+        "file_name": "cn.lrapps.hidecall_10.apk",
+        "app_activity": "libit.sip.ui.ActivityLauncher"
+    },
+    {
+        "app_name": "集团V号簿",
+        "package_name": "com.chinamobile.gzcmcccontacts",
+        "file_name": "com.chinamobile.gzcmcccontacts_11.apk",
+        "app_activity": "com.chinamobile.gzcmcccontacts.act.MainActivity"
+    },
+    {
+        "app_name": "Metatel",
+        "package_name": "im.metatel.org",
+        "file_name": "im.metatel.org_12.apk",
+        "app_activity": "org.metatel.im.MainActivity"
+    },
+    {
+        "app_name": "拍戏宝",
+        "package_name": "com.qiyi.youxi",
+        "file_name": "com.qiyi.youxi_13.apk",
+        "app_activity": "com.qiyi.youxi.business.launch.LaunchActivity"
+    },
+    {
+        "app_name": "量子密信",
+        "package_name": "com.ctq.qmchat",
+        "file_name": "com.ctq.qmchat_14.apk",
+        "app_activity": "com.ctq.modulemain.ui.SplashActivity"
+    },
+    {
+        "app_name": "信息定制服务",
+        "package_name": "com.custom.infoapp",
+        "file_name": "com.custom.infoapp_15.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "渔讯通",
+        "package_name": "com.ebupt.maritime",
+        "file_name": "com.ebupt.maritime_16.apk",
+        "app_activity": "com.ebupt.maritime.thirdmvp.welcome.WelcomeSimpleActivity"
+    },
+    {
+        "app_name": "国网云电话",
+        "package_name": "com.nari.xzt",
+        "file_name": "com.nari.xzt_17.apk",
+        "app_activity": "com.nari.xzt.ui.activity.ScrollLayoutActivity"
+    },
+    {
+        "app_name": "联信网格",
+        "package_name": "com.intwork.umgrit",
+        "file_name": "com.intwork.umgrit_18.apk",
+        "app_activity": "com.intwork.umgrit.activitys.MainActivity"
+    },
+    {
+        "app_name": "有信",
+        "package_name": "com.yx",
+        "file_name": "com.yx_19.apk",
+        "app_activity": "com.yx.activity.welcome.Splash"
+    },
+    {
+        "app_name": "e-交易",
+        "package_name": "com.sgcc.pmos.mobileapp",
+        "file_name": "com.sgcc.pmos.mobileapp_20.apk",
+        "app_activity": "com.sgcc.pmos.mobileapp.SplashActivity"
+    },
+    {
+        "app_name": "孤岛驿站",
+        "package_name": "com.moshanghua.islangpost",
+        "file_name": "com.moshanghua.islangpost_21.apk",
+        "app_activity": "com.moshanghua.islangpost.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "见面了",
+        "package_name": "jianmianwangluo.jianmianle.com",
+        "file_name": "jianmianwangluo.jianmianle.com_22.apk",
+        "app_activity": "jianmianwangluo.jianmianle.com.activity.SplashActivity"
+    },
+    {
+        "app_name": "医百会议",
+        "package_name": "com.ybmeet.meeting",
+        "file_name": "com.ybmeet.meeting_23.apk",
+        "app_activity": "com.app.SplashActivity"
+    },
+    {
+        "app_name": "AsMax",
+        "package_name": "com.timuen.motohud",
+        "file_name": "com.timuen.motohud_24.apk",
+        "app_activity": "com.moonbt.manage.ui.SplashActivity"
+    },
+    {
+        "app_name": "格瑞德",
+        "package_name": "cn.gradgroup.bpm.im",
+        "file_name": "cn.gradgroup.bpm.im_25.apk",
+        "app_activity": "cn.rongcloud.rce.kit.ui.SplashActivity"
+    },
+    {
+        "app_name": "WeCom",
+        "package_name": "com.gzt.gz.cegn.cn",
+        "file_name": "com.gzt.gz.cegn.cn_26.apk",
+        "app_activity": "com.tencent.wework.launch.WwMainActivity"
+    },
+    {
+        "app_name": "附近新缘",
+        "package_name": "com.xinpei.xpapp",
+        "file_name": "com.xinpei.xpapp_27.apk",
+        "app_activity": "com.xitong.xtapp.MainActivity"
+    },
+    {
+        "app_name": "爱德医",
+        "package_name": "net.aid1.aideyi",
+        "file_name": "net.aid1.aideyi_28.apk",
+        "app_activity": "net.aid1.aideyi.MainActivity"
+    },
+    {
+        "app_name": "靓号网络电话",
+        "package_name": "cn.lrapps.lianghaocall",
+        "file_name": "cn.lrapps.lianghaocall_29.apk",
+        "app_activity": "libit.sip.ui.ActivityLauncher"
+    },
+    {
+        "app_name": "枕聊",
+        "package_name": "uni.UNI00DF92B",
+        "file_name": "uni.UNI00DF92B_30.apk",
+        "app_activity": "uni.UNI00DF92B.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "Totalk",
+        "package_name": "com.kylindev.totalk",
+        "file_name": "com.kylindev.totalk_31.apk",
+        "app_activity": "com.kylindev.totalk.app.LoginActivity"
+    },
+    {
+        "app_name": "云通网络电话",
+        "package_name": "com.yunliao.ytdh",
+        "file_name": "com.yunliao.ytdh_32.apk",
+        "app_activity": "com.admin.chuhu.MainActivity"
+    },
+    {
+        "app_name": "朔州融媒APP",
+        "package_name": "com.zkwg.shuozhou",
+        "file_name": "com.zkwg.shuozhou_33.apk",
+        "app_activity": "com.zkwg.rm.ui.SplashActivity"
+    },
+    {
+        "app_name": "天地卫通",
+        "package_name": "com.pancoit.tdwt",
+        "file_name": "com.pancoit.tdwt_34.apk",
+        "app_activity": "com.pancoit.tdwt.ui.common.activty.SplashActivity2_"
+    },
+    {
+        "app_name": "Messages",
+        "package_name": "com.android.mms",
+        "file_name": "com.android.mms_35.apk",
+        "app_activity": "com.android.mms.ui.ConversationList"
+    },
+    {
+        "app_name": "C3Mobile",
+        "package_name": "ecc.c3.mobile",
+        "file_name": "ecc.c3.mobile_36.apk",
+        "app_activity": "ecc.c3.ui.launcher.activity.LanucherActivity"
+    },
+    {
+        "app_name": "爱玩开黑",
+        "package_name": "xyz.lanlang.aiwankaihei",
+        "file_name": "xyz.lanlang.aiwankaihei_37.apk",
+        "app_activity": "com.yizhuan.cutesound.other.activity.SplashActivity"
+    },
+    {
+        "app_name": "Sweetalk",
+        "package_name": "com.eliteall.sweetalk",
+        "file_name": "com.eliteall.sweetalk_39.apk",
+        "app_activity": "com.eliteall.sweetalk.activity.MainActivity"
+    },
+    {
+        "app_name": "网络电话通话宝",
+        "package_name": "com.zxzt.tonghuabao",
+        "file_name": "com.zxzt.tonghuabao_40.apk",
+        "app_activity": "com.admin.chuhu.MainActivity"
+    },
+    {
+        "app_name": "小夜同学",
+        "package_name": "com.nightgo.xystu",
+        "file_name": "com.nightgo.xystu_41.apk",
+        "app_activity": "com.nightgo.xystu.MainActivity"
+    },
+    {
+        "app_name": "FastMeetingcloud",
+        "package_name": "com.inpor.fastmeetingcloud",
+        "file_name": "com.inpor.fastmeetingcloud_42.apk",
+        "app_activity": "com.inpor.fastmeetingcloud.activity.StartUpActivity"
+    },
+    {
+        "app_name": "微微小号",
+        "package_name": "com.mangotecnet.mobilephone",
+        "file_name": "com.mangotecnet.mobilephone_43.apk",
+        "app_activity": "com.mangotecnet.mobilephone.activity.FirstActivity"
+    },
+    {
+        "app_name": "小蓝船",
+        "package_name": "com.bboat.pension",
+        "file_name": "com.bboat.pension_44.apk",
+        "app_activity": "com.bboat.pension.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "橙讯",
+        "package_name": "com.raycom.securesms",
+        "file_name": "com.raycom.securesms_45.apk",
+        "app_activity": "com.raycom.securesms.FlashScreenActivity"
+    },
+    {
+        "app_name": "藏号网络电话",
+        "package_name": "cn.lrapps.cangcall",
+        "file_name": "cn.lrapps.cangcall_46.apk",
+        "app_activity": "libit.sip.ui.ActivityLauncher"
+    },
+    {
+        "app_name": "微喇实时对讲",
+        "package_name": "com.voistech.weila",
+        "file_name": "com.voistech.weila_47.apk",
+        "app_activity": "com.voistech.weila.activity.main.FirstActivity"
+    },
+    {
+        "app_name": "大群极速版",
+        "package_name": "com.atomcloudstudio.splashchat",
+        "file_name": "com.atomcloudstudio.splashchat_48.apk",
+        "app_activity": "com.atomcloudstudio.splashchat.MainActivity"
+    },
+    {
+        "app_name": "政协移动履职平台",
+        "package_name": "gov.lzzx.cppcc",
+        "file_name": "gov.lzzx.cppcc_49.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "天鸿云",
+        "package_name": "com.ctiplus.cc",
+        "file_name": "com.ctiplus.cc_50.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "88对讲",
+        "package_name": "com.taoshihui.duijiang",
+        "file_name": "com.taoshihui.duijiang_51.apk",
+        "app_activity": "com.sk.weichat.ui.SplashActivity"
+    },
+    {
+        "app_name": "希沃魔方",
+        "package_name": "com.seewo.cc.pro",
+        "file_name": "com.seewo.cc.pro_52.apk",
+        "app_activity": "com.seewo.cc.component.launch.LaunchActivity"
+    },
+    {
+        "app_name": "YunPhone",
+        "package_name": "com.yunpbx.phone.rnwebrtc",
+        "file_name": "com.yunpbx.phone.rnwebrtc_53.apk",
+        "app_activity": "com.yunpbx.phone.rnwebrtc.MainActivity"
+    },
+    {
+        "app_name": "信鸽在线",
+        "package_name": "top.banbiheshan.xinge",
+        "file_name": "top.banbiheshan.xinge_54.apk",
+        "app_activity": "top.banbiheshan.xinge.MainActivity"
+    },
+    {
+        "app_name": "电话代呼叫",
+        "package_name": "com.lsdapp.voicemsgcall",
+        "file_name": "com.lsdapp.voicemsgcall_55.apk",
+        "app_activity": "com.lsdapp.voicemsgcall.ui.LauncherActivity"
+    },
+    {
+        "app_name": "LittleJasmine",
+        "package_name": "com.youngdroid.littlejasmine",
+        "file_name": "com.youngdroid.littlejasmine_56.apk",
+        "app_activity": "com.youngdroid.littlejasmine.activity.LaunchActivity"
+    },
+    {
+        "app_name": "渝快政",
+        "package_name": "com.alibaba.taurus.chongqing",
+        "file_name": "com.alibaba.taurus.chongqing_57.apk",
+        "app_activity": "com.alibaba.taurus.activity.HomeActivity"
+    },
+    {
+        "app_name": "沃友传讯",
+        "package_name": "com.easepet.woyo",
+        "file_name": "com.easepet.woyo_58.apk",
+        "app_activity": "com.easepet.woyo.activity.SplashActivity"
+    },
+    {
+        "app_name": "宽视通",
+        "package_name": "com.kstcloudmeeting",
+        "file_name": "com.kstcloudmeeting_59.apk",
+        "app_activity": "com.zijingcloud.ZjLauncherActivity"
+    },
+    {
+        "app_name": "快商通云客服",
+        "package_name": "android.kuaishang",
+        "file_name": "android.kuaishang_60.apk",
+        "app_activity": "android.kuaishang.IndexActivity"
+    },
+    {
+        "app_name": "视道",
+        "package_name": "com.xraitech.nesthope",
+        "file_name": "com.xraitech.nesthope_61.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "WeCom",
+        "package_name": "com.boc.bocwechat",
+        "file_name": "com.boc.bocwechat_62.apk",
+        "app_activity": "com.tencent.wework.launch.WwMainActivity"
+    },
+    {
+        "app_name": "协同通信",
+        "package_name": "cn.yixin.ecp",
+        "file_name": "cn.yixin.ecp_63.apk",
+        "app_activity": "cn.ecp189.ui.StartupActivity"
+    },
+    {
+        "app_name": "Bind",
+        "package_name": "app.tikteam.bind",
+        "file_name": "app.tikteam.bind_64.apk",
+        "app_activity": "app.tikteam.bind.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "家校驿",
+        "package_name": "com.iotimc.hsyidao",
+        "file_name": "com.iotimc.hsyidao_65.apk",
+        "app_activity": "com.iotimc.hsyidao.SplashActivity"
+    },
+    {
+        "app_name": "通友",
+        "package_name": "com.eccalc.ichat",
+        "file_name": "com.eccalc.ichat_66.apk",
+        "app_activity": "com.eccalc.ichat.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "暗信",
+        "package_name": "com.tyhy.darkletter",
+        "file_name": "com.tyhy.darkletter_67.apk",
+        "app_activity": "com.tyhy.darkletter.activity.launch.LaunchActivity"
+    },
+    {
+        "app_name": "LEZHU",
+        "package_name": "com.lezhu.desk",
+        "file_name": "com.lezhu.desk_68.apk",
+        "app_activity": "com.lezhu.desk.SplashActivity"
+    },
+    {
+        "app_name": "形婚星球",
+        "package_name": "uni.UNI6C616CF",
+        "file_name": "uni.UNI6C616CF_69.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "全通网络电话",
+        "package_name": "cn.lrapps.dianxiaobaocall",
+        "file_name": "cn.lrapps.dianxiaobaocall_70.apk",
+        "app_activity": "cn.lrapps.ui.ActivityLauncher"
+    },
+    {
+        "app_name": "畅销天下",
+        "package_name": "com.zjiec.sellingworld",
+        "file_name": "com.zjiec.sellingworld_71.apk",
+        "app_activity": "com.zjiec.sellingworld.ui.SplashActivity"
+    },
+    {
+        "app_name": "通讯基座",
+        "package_name": "com.linkdood.im",
+        "file_name": "com.linkdood.im_72.apk",
+        "app_activity": "com.vrv.im.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "QieQie",
+        "package_name": "com.wangcheng.im",
+        "file_name": "com.wangcheng.im_73.apk",
+        "app_activity": "com.wangcheng.android.explinge.SplashActivity"
+    },
+    {
+        "app_name": "弘建通",
+        "package_name": "com.hy.hjt",
+        "file_name": "com.hy.hjt_74.apk",
+        "app_activity": "com.example.hjt.MainActivity"
+    },
+    {
+        "app_name": "小马",
+        "package_name": "com.xhorse.flutter_xchat",
+        "file_name": "com.xhorse.flutter_xchat_75.apk",
+        "app_activity": "com.xhorse.flutter_xchat.MainActivity"
+    },
+    {
+        "app_name": "Linkus",
+        "package_name": "com.yeastar.linkus",
+        "file_name": "com.yeastar.linkus_76.apk",
+        "app_activity": "com.yeastar.linkus.business.WelcomeActivity"
+    },
+    {
+        "app_name": "有度",
+        "package_name": "im.xinda.youdu",
+        "file_name": "im.xinda.youdu_77.apk",
+        "app_activity": "im.xinda.youdu.ui.activities.DefaultActivity"
+    },
+    {
+        "app_name": "玉玄道",
+        "package_name": "com.yuxuandao.shop",
+        "file_name": "com.yuxuandao.shop_78.apk",
+        "app_activity": "com.yuxuandao.shop.SplashActivity"
+    },
+    {
+        "app_name": "申瓯Soc网络电话",
+        "package_name": "com.shenou.soc",
+        "file_name": "com.shenou.soc_79.apk",
+        "app_activity": "com.shenou.MainActivity"
+    },
+    {
+        "app_name": "科企岛",
+        "package_name": "com.qidao.app",
+        "file_name": "com.qidao.app_80.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "摩云致邻专业版",
+        "package_name": "com.kedacom.truetouch.truelink.rtc",
+        "file_name": "com.kedacom.truetouch.truelink.rtc_81.apk",
+        "app_activity": "com.kedacom.truetouch.login.controller.LauncherUI"
+    },
+    {
+        "app_name": "Yuntel",
+        "package_name": "com.yuntel.caller",
+        "file_name": "com.yuntel.caller_82.apk",
+        "app_activity": "com.yuntel.caller.activity.SplashActivity"
+    },
+    {
+        "app_name": "互勾聊天",
+        "package_name": "com.yihua.hugou",
+        "file_name": "com.yihua.hugou_83.apk",
+        "app_activity": "com.yihua.user.ui.LoadingActivity"
+    },
+    {
+        "app_name": "通信助手",
+        "package_name": "com.cio.project",
+        "file_name": "com.cio.project_84.apk",
+        "app_activity": "com.cio.project.activity.SplashActivity"
+    },
+    {
+        "app_name": "密度空间",
+        "package_name": "com.znxh.medolife",
+        "file_name": "com.znxh.medolife_85.apk",
+        "app_activity": "com.znxh.smallbubble.splash.SplashActivity"
+    },
+    {
+        "app_name": "宜视通",
+        "package_name": "com.rrt.yjtchat",
+        "file_name": "com.rrt.yjtchat_86.apk",
+        "app_activity": "com.rrt.yjtchat.section.login.activity.SplashActivity"
+    },
+    {
+        "app_name": "信源密信",
+        "package_name": "com.vrv.im",
+        "file_name": "com.vrv.im_87.apk",
+        "app_activity": "com.vrv.im.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "云橙",
+        "package_name": "com.vanke.gardener.dis",
+        "file_name": "com.vanke.gardener.dis_88.apk",
+        "app_activity": "com.vanke.weexframe.main.SplashActivity"
+    },
+    {
+        "app_name": "Seelink",
+        "package_name": "com.qmp.link",
+        "file_name": "com.qmp.link_89.apk",
+        "app_activity": "com.qmp.link.MainActivity"
+    },
+    {
+        "app_name": "一方通",
+        "package_name": "com.cincc.common_sip",
+        "file_name": "com.cincc.common_sip_90.apk",
+        "app_activity": "com.cincc.common_sip.activity.LoginActivity"
+    },
+    {
+        "app_name": "TT Modem",
+        "package_name": "com.android.rcclient",
+        "file_name": "com.android.rcclient_91.apk",
+        "app_activity": "com.android.rcclient.ui.main.MainActivity"
+    },
+    {
+        "app_name": "e点通",
+        "package_name": "com.benben.edotpass",
+        "file_name": "com.benben.edotpass_92.apk",
+        "app_activity": "com.benben.edotpass.ui.SplashActivity"
+    },
+    {
+        "app_name": "四库一平台",
+        "package_name": "app.com.webapp",
+        "file_name": "app.com.webapp_93.apk",
+        "app_activity": "app.com.webapp.module.login.WelcomeActivity"
+    },
+    {
+        "app_name": "模拟来电-虚拟来电秀",
+        "package_name": "com.liubowang.fakecall",
+        "file_name": "com.liubowang.fakecall_94.apk",
+        "app_activity": "www.wm.com.callphone_virtual.activity.SplashActivity"
+    },
+    {
+        "app_name": "Aidite Link",
+        "package_name": "com.aidite.userdevice",
+        "file_name": "com.aidite.userdevice_95.apk",
+        "app_activity": "com.aidite.userdevice.MainActivity"
+    },
+    {
+        "app_name": "族记",
+        "package_name": "com.zujifamily",
+        "file_name": "com.zujifamily_96.apk",
+        "app_activity": "com.zujifamily.activity.SplashActivity"
+    },
+    {
+        "app_name": "创业天下",
+        "package_name": "com.sxdachun.entrepreneurial_world",
+        "file_name": "com.sxdachun.entrepreneurial_world_97.apk",
+        "app_activity": "com.sxdachun.entrepreneurial_world.mvp.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "天唧",
+        "package_name": "com.redcloud.tianji.platform.home",
+        "file_name": "com.redcloud.tianji.platform.home_98.apk",
+        "app_activity": "com.redcloud.tianji.platform.home.login.SplashActivity"
+    },
+    {
+        "app_name": "实名通讯",
+        "package_name": "cn.wancunnet.chatsolve",
+        "file_name": "cn.wancunnet.chatsolve_99.apk",
+        "app_activity": "cn.wildfire.chat.app.main.SplashActivity"
+    },
+    {
+        "app_name": "南山对讲",
+        "package_name": "com.nawensoft.nsptt",
+        "file_name": "com.nawensoft.nsptt_100.apk",
+        "app_activity": "com.embarcadero.firemonkey.FMXNativeActivity"
+    },
+    {
+        "app_name": "瞩目",
+        "package_name": "com.suirui.zhumu",
+        "file_name": "com.suirui.zhumu_101.apk",
+        "app_activity": "com.suirui.zhumu.manage.activity.SplashActivity"
+    },
+    {
+        "app_name": "滴呀小号",
+        "package_name": "com.appsino.bingluo.dyxh",
+        "file_name": "com.appsino.bingluo.dyxh_102.apk",
+        "app_activity": "com.appsino.bingluo.dyxh.StartActivity"
+    },
+    {
+        "app_name": "驿道",
+        "package_name": "com.iotimc.yidao",
+        "file_name": "com.iotimc.yidao_103.apk",
+        "app_activity": "com.iotimc.yidao.SplashActivity"
+    },
+    {
+        "app_name": "云到",
+        "package_name": "com.example.yunmeibao.yunmeibao",
+        "file_name": "com.example.yunmeibao.yunmeibao_104.apk",
+        "app_activity": "com.example.yunmeibao.yunmeibao.comm.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "易信",
+        "package_name": "im.yixin",
+        "file_name": "im.yixin_105.apk",
+        "app_activity": "im.yixin.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "TD启航",
+        "package_name": "uni.UNI8591233",
+        "file_name": "uni.UNI8591233_106.apk",
+        "app_activity": "uni.UNI8591233.MainActivity"
+    },
+    {
+        "app_name": "圆桌人脉",
+        "package_name": "com.jk.roundtable.app",
+        "file_name": "com.jk.roundtable.app_107.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "网络电话大王",
+        "package_name": "com.smty.king",
+        "file_name": "com.smty.king_108.apk",
+        "app_activity": "cn.smty.ui.ActivityLauncher"
+    },
+    {
+        "app_name": "量信",
+        "package_name": "com.eqtinfo.qutalk",
+        "file_name": "com.eqtinfo.qutalk_109.apk",
+        "app_activity": "com.juphoon.qtalk.ui.SplashNewActivity"
+    }
+]
