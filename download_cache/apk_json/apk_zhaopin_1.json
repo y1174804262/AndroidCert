@@ -1,0 +1,2266 @@
+[
+    {
+        "app_name": "淘米兼职",
+        "package_name": "com.sdjuliang.haijob",
+        "file_name": "com.sdjuliang.haijob_1.apk",
+        "app_activity": "com.sdjuliang.haijob.activity.SplashActivity"
+    },
+    {
+        "app_name": "廊坊直聘网",
+        "package_name": "com.langfang.nodetechinc",
+        "file_name": "com.langfang.nodetechinc_2.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "优派找活",
+        "package_name": "com.tfql.jobs",
+        "file_name": "com.tfql.jobs_3.apk",
+        "app_activity": "com.yoc.main.ui.LaunchActivity"
+    },
+    {
+        "app_name": "BOSS直聘",
+        "package_name": "com.hpbr.bosszhipin",
+        "file_name": "com.hpbr.bosszhipin_4.apk",
+        "app_activity": "com.hpbr.bosszhipin.module.launcher.WelcomeActivity"
+    },
+    {
+        "app_name": "工地招工",
+        "package_name": "com.jizhi.jlongg.gdzg",
+        "file_name": "com.jizhi.jlongg.gdzg_5.apk",
+        "app_activity": "com.jizhi.jlongg.main.activity.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "记工记账",
+        "package_name": "com.jizhi.jlongg.jjjz",
+        "file_name": "com.jizhi.jlongg.jjjz_6.apk",
+        "app_activity": "com.jizhi.jlongg.main.activity.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "建筑招工",
+        "package_name": "com.jizhi.jlongg.jzzg",
+        "file_name": "com.jizhi.jlongg.jzzg_7.apk",
+        "app_activity": "com.jizhi.jlongg.main.activity.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "美团众包",
+        "package_name": "com.sankuai.meituan.dispatch.crowdsource",
+        "file_name": "com.sankuai.meituan.dispatch.crowdsource_8.apk",
+        "app_activity": "com.meituan.banma.main.activity.MainSplashActivity"
+    },
+    {
+        "app_name": "建筑工地招聘",
+        "package_name": "com.jizhi.jlongg.jjgdzp",
+        "file_name": "com.jizhi.jlongg.jjgdzp_9.apk",
+        "app_activity": "com.jizhi.jlongg.main.activity.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "萤火兼职",
+        "package_name": "osc.recruit.client",
+        "file_name": "osc.recruit.client_10.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "医疗人才网",
+        "package_name": "doctorjob.com.cn",
+        "file_name": "doctorjob.com.cn_11.apk",
+        "app_activity": "doctorjob.com.cn.common.view.SplashActivity"
+    },
+    {
+        "app_name": "供求世界",
+        "package_name": "cc.gqsj.zj",
+        "file_name": "cc.gqsj.zj_12.apk",
+        "app_activity": "cc.gqsj.zj.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "真香兼职",
+        "package_name": "cc.chengjie.zhenxiangjianzhi",
+        "file_name": "cc.chengjie.zhenxiangjianzhi_13.apk",
+        "app_activity": "cc.jianke.jianzhike.ui.main.activity.MainLoadingActivity"
+    },
+    {
+        "app_name": "SmartDeer",
+        "package_name": "com.idealCareerBridgeCN.linglupin.linglupin_client",
+        "file_name": "com.idealCareerBridgeCN.linglupin.linglupin_client_14.apk",
+        "app_activity": "com.idealCareerBridgeCN.linglupin.linglupin_client.MainActivity"
+    },
+    {
+        "app_name": "华辉人力",
+        "package_name": "com.huahui.application",
+        "file_name": "com.huahui.application_15.apk",
+        "app_activity": "com.huahui.application.SplashActivity"
+    },
+    {
+        "app_name": "牛小二招聘",
+        "package_name": "com.android.niu_xiaoer",
+        "file_name": "com.android.niu_xiaoer_16.apk",
+        "app_activity": "com.android.niu_xiao_er.MainActivity"
+    },
+    {
+        "app_name": "店长直聘",
+        "package_name": "com.hpbr.directhires",
+        "file_name": "com.hpbr.directhires_17.apk",
+        "app_activity": "com.hpbr.directhires.WelAct"
+    },
+    {
+        "app_name": "达达骑士版",
+        "package_name": "com.dada.mobile.android",
+        "file_name": "com.dada.mobile.android_18.apk",
+        "app_activity": "com.dada.mobile.delivery.home.splash.ActivityNewWelcome"
+    },
+    {
+        "app_name": "卓博人才网",
+        "package_name": "com.jobcn.android",
+        "file_name": "com.jobcn.android_19.apk",
+        "app_activity": "com.jobcn.mvp.SplashActivity"
+    },
+    {
+        "app_name": "桂林人才网",
+        "package_name": "com.glrcw.app",
+        "file_name": "com.glrcw.app_20.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "锦绣网",
+        "package_name": "cn.shengze.per",
+        "file_name": "cn.shengze.per_21.apk",
+        "app_activity": "cn.shengze.per.SplashActivity"
+    },
+    {
+        "app_name": "建造工",
+        "package_name": "com.jzg.buildworker",
+        "file_name": "com.jzg.buildworker_22.apk",
+        "app_activity": "com.jzg.buildworker.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "弱电帮",
+        "package_name": "www.rdb.xyz",
+        "file_name": "www.rdb.xyz_23.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "E滁州招聘",
+        "package_name": "com.echuzhou.job",
+        "file_name": "com.echuzhou.job_24.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "青团社兼职",
+        "package_name": "com.qts.customer",
+        "file_name": "com.qts.customer_25.apk",
+        "app_activity": "com.qts.customer.LoadingActivity"
+    },
+    {
+        "app_name": "工友通",
+        "package_name": "cn.szjxgs.szjob",
+        "file_name": "cn.szjxgs.szjob_26.apk",
+        "app_activity": "cn.szjxgs.szjob.ui.common.activity.SplashActivity"
+    },
+    {
+        "app_name": "猎宠网",
+        "package_name": "io.dcloud.W2Amobile.petzp.com",
+        "file_name": "io.dcloud.W2Amobile.petzp.com_27.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "蚂蚁兼职",
+        "package_name": "com.tjjf.antptjob",
+        "file_name": "com.tjjf.antptjob_28.apk",
+        "app_activity": "com.tjjf.antptjob.activity.SplashActivity"
+    },
+    {
+        "app_name": "嗨职",
+        "package_name": "com.hizhi.apk",
+        "file_name": "com.hizhi.apk_29.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "快马日结",
+        "package_name": "com.julanling.jobbunting",
+        "file_name": "com.julanling.jobbunting_30.apk",
+        "app_activity": "com.julanling.dgq.business.splash.ui.SplashActivity"
+    },
+    {
+        "app_name": "友帮",
+        "package_name": "com.exmart.friendbang",
+        "file_name": "com.exmart.friendbang_31.apk",
+        "app_activity": "com.exmart.friendbang.activitys.SplashActivity"
+    },
+    {
+        "app_name": "猎聘",
+        "package_name": "com.lietou.mishu",
+        "file_name": "com.lietou.mishu_32.apk",
+        "app_activity": "com.lietou.mishu.activity.LPSplashActivity"
+    },
+    {
+        "app_name": "兼职猫企业版",
+        "package_name": "com.nt.ptc.enterprise",
+        "file_name": "com.nt.ptc.enterprise_33.apk",
+        "app_activity": "com.nt.ptc.enterprise.activity.HelloActivity"
+    },
+    {
+        "app_name": "社区快聘",
+        "package_name": "cn.goodjobs.community",
+        "file_name": "cn.goodjobs.community_34.apk",
+        "app_activity": "cn.goodjobs.community.LaunchActivity"
+    },
+    {
+        "app_name": "招工宝",
+        "package_name": "vip.bless.ijob",
+        "file_name": "vip.bless.ijob_35.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "国聘",
+        "package_name": "com.iguopin.app",
+        "file_name": "com.iguopin.app_36.apk",
+        "app_activity": "com.iguopin.app.launch.GPLauncherActivity"
+    },
+    {
+        "app_name": "兼职宝宝",
+        "package_name": "com.fttd.jianbao",
+        "file_name": "com.fttd.jianbao_37.apk",
+        "app_activity": "com.fttd.jianbao.activity.JobSplashActivity"
+    },
+    {
+        "app_name": "蜂鸟众包",
+        "package_name": "me.ele.crowdsource",
+        "file_name": "me.ele.crowdsource_38.apk",
+        "app_activity": "me.ele.crowdsource.components.user.home.HomeActivity"
+    },
+    {
+        "app_name": "筑招网",
+        "package_name": "uni.UNI949F301",
+        "file_name": "uni.UNI949F301_39.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "工友慧",
+        "package_name": "com.lanlinker.gyh",
+        "file_name": "com.lanlinker.gyh_40.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "广西人才网",
+        "package_name": "com.gxrcw.activity",
+        "file_name": "com.gxrcw.activity_41.apk",
+        "app_activity": "com.gxrcw.activity.ui.launch.LaunchActivity"
+    },
+    {
+        "app_name": "个人简历模板制作",
+        "package_name": "com.dmooo.resumetwo",
+        "file_name": "com.dmooo.resumetwo_42.apk",
+        "app_activity": "com.dmooo.resumetwo.MainActivity"
+    },
+    {
+        "app_name": "医堆医学人才网",
+        "package_name": "com.yixuezp.app.yixuezp2",
+        "file_name": "com.yixuezp.app.yixuezp2_43.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "牛客",
+        "package_name": "com.nowcoder.app.florida",
+        "file_name": "com.nowcoder.app.florida_44.apk",
+        "app_activity": "com.nowcoder.app.florida.modules.splash.view.SplashActivity"
+    },
+    {
+        "app_name": "纳职",
+        "package_name": "com.nazhi.nz",
+        "file_name": "com.nazhi.nz_45.apk",
+        "app_activity": "com.nazhi.nz.splashScreenActivity"
+    },
+    {
+        "app_name": "JOBS海归",
+        "package_name": "com.haigui.zyjobs",
+        "file_name": "com.haigui.zyjobs_46.apk",
+        "app_activity": "com.example.jobs.MainActivity"
+    },
+    {
+        "app_name": "北海365招聘网",
+        "package_name": "com.beihai365.Job365",
+        "file_name": "com.beihai365.Job365_47.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "爱合伙创业项目交流和协作",
+        "package_name": "com.aihehuo.app",
+        "file_name": "com.aihehuo.app_48.apk",
+        "app_activity": "com.aihehuo.app.MainActivity"
+    },
+    {
+        "app_name": "兼小宝兼职",
+        "package_name": "com.uqwe.xmjs",
+        "file_name": "com.uqwe.xmjs_49.apk",
+        "app_activity": "com.uqwe.xmjs.ui.StartActivity"
+    },
+    {
+        "app_name": "上啥班",
+        "package_name": "com.shangshaban.zhaopin.activity",
+        "file_name": "com.shangshaban.zhaopin.activity_50.apk",
+        "app_activity": "com.shangshaban.zhaopin.bases.ShangshabanWelcomeActivity"
+    },
+    {
+        "app_name": "医聘猫医疗招聘求职人才网",
+        "package_name": "ypw.xym",
+        "file_name": "ypw.xym_51.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "萌聘兼职",
+        "package_name": "com.juliang.mengpin",
+        "file_name": "com.juliang.mengpin_52.apk",
+        "app_activity": "com.juliang.mengpin.activity.SplashActivity"
+    },
+    {
+        "app_name": "蜂鸟骑士",
+        "package_name": "me.ele.hbdteam",
+        "file_name": "me.ele.hbdteam_53.apk",
+        "app_activity": "me.ele.hbdteam.ui.home.HomeActivity"
+    },
+    {
+        "app_name": "菏泽人才网",
+        "package_name": "io.hezejob.NI2DD730B",
+        "file_name": "io.hezejob.NI2DD730B_54.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "闪电直聘",
+        "package_name": "com.jizhi.app.sdzp",
+        "file_name": "com.jizhi.app.sdzp_55.apk",
+        "app_activity": "com.jizhi.jlongg.main.activity.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "副业侠",
+        "package_name": "com.sidelineman.customer",
+        "file_name": "com.sidelineman.customer_56.apk",
+        "app_activity": "com.jianzhiman.customer.LoadingActivity"
+    },
+    {
+        "app_name": "智联招聘",
+        "package_name": "com.zhaopin.social",
+        "file_name": "com.zhaopin.social_57.apk",
+        "app_activity": "com.zhaopin.social.SplashActivity"
+    },
+    {
+        "app_name": "最佳东方",
+        "package_name": "zjdf.zhaogongzuo",
+        "file_name": "zjdf.zhaogongzuo_58.apk",
+        "app_activity": "zjdf.zhaogongzuo.activity.main.SplashActivity"
+    },
+    {
+        "app_name": "工地找工作",
+        "package_name": "com.jizhi.jlongg.zgz",
+        "file_name": "com.jizhi.jlongg.zgz_59.apk",
+        "app_activity": "com.jizhi.jlongg.main.activity.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "一览职业",
+        "package_name": "com.elan.activity",
+        "file_name": "com.elan.activity_60.apk",
+        "app_activity": "com.elan.activity.SplashActivity"
+    },
+    {
+        "app_name": "天天兼职",
+        "package_name": "com.tthired.customer",
+        "file_name": "com.tthired.customer_61.apk",
+        "app_activity": "com.jianzhiman.customer.LoadingActivity"
+    },
+    {
+        "app_name": "去狮城",
+        "package_name": "com.gosingapore.jobhunter",
+        "file_name": "com.gosingapore.jobhunter_62.apk",
+        "app_activity": "com.gosingapore.common.login.ui.WelComeActivity"
+    },
+    {
+        "app_name": "才能网",
+        "package_name": "com.caineng.app",
+        "file_name": "com.caineng.app_63.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "钢结构服务网",
+        "package_name": "uni.UNI09A4309",
+        "file_name": "uni.UNI09A4309_64.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "即刻职达",
+        "package_name": "com.jkzd",
+        "file_name": "com.jkzd_65.apk",
+        "app_activity": "com.jkzd.myapplication.MainActivity"
+    },
+    {
+        "app_name": "昆明招聘网",
+        "package_name": "com.kmzp",
+        "file_name": "com.kmzp_66.apk",
+        "app_activity": "com.kmzp.kmzp.MainActivity"
+    },
+    {
+        "app_name": "汽车人才网",
+        "package_name": "carjob.com.cn",
+        "file_name": "carjob.com.cn_67.apk",
+        "app_activity": "carjob.com.cn.common.view.SplashActivity"
+    },
+    {
+        "app_name": "云南招聘网",
+        "package_name": "com.ynzp.app",
+        "file_name": "com.ynzp.app_68.apk",
+        "app_activity": "bczp.activity.ui.splash.activity.SplashActivity2"
+    },
+    {
+        "app_name": "智联卓聘",
+        "package_name": "com.zhaopin.highpin",
+        "file_name": "com.zhaopin.highpin_69.apk",
+        "app_activity": "com.zhaopin.highpin.page.misc.starter"
+    },
+    {
+        "app_name": "熟人直聘",
+        "package_name": "com.xinrenlei.koubeigongzuo",
+        "file_name": "com.xinrenlei.koubeigongzuo_70.apk",
+        "app_activity": "com.xinrenlei.common.ui.SplashActivity"
+    },
+    {
+        "app_name": "齐鲁人才",
+        "package_name": "com.app51rc.androidproject51rc",
+        "file_name": "com.app51rc.androidproject51rc_71.apk",
+        "app_activity": "com.app51rc.androidproject51rc.login.LauncherActivity"
+    },
+    {
+        "app_name": "看准",
+        "package_name": "com.techwolf.kanzhun.app",
+        "file_name": "com.techwolf.kanzhun.app_72.apk",
+        "app_activity": "com.techwolf.kanzhun.app.base.startup.KZStartLauncherActivity"
+    },
+    {
+        "app_name": "赏荐宝",
+        "package_name": "com.ciiczy.recrewards",
+        "file_name": "com.ciiczy.recrewards_73.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "广州招聘网",
+        "package_name": "io.gzzp.NI2DD730B",
+        "file_name": "io.gzzp.NI2DD730B_74.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "职堆堆兼职",
+        "package_name": "com.xuniu.ocean",
+        "file_name": "com.xuniu.ocean_75.apk",
+        "app_activity": "com.xuniu.ocean.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "熊猫进厂",
+        "package_name": "com.job5156.panda",
+        "file_name": "com.job5156.panda_76.apk",
+        "app_activity": "com.job5156.panda.login.SplashActivity"
+    },
+    {
+        "app_name": "化工英才网",
+        "package_name": "com.hr.chemical",
+        "file_name": "com.hr.chemical_77.apk",
+        "app_activity": "com.hr.chemical.ui.main.activity.SplashDBActivity"
+    },
+    {
+        "app_name": "蚂蚁众包",
+        "package_name": "com.antzb.androidapp",
+        "file_name": "com.antzb.androidapp_78.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "新安人才网",
+        "package_name": "cn.goodjobs.client",
+        "file_name": "cn.goodjobs.client_79.apk",
+        "app_activity": "cn.goodjobs.client.ui.launch.LaunchActivity"
+    },
+    {
+        "app_name": "大众人才网",
+        "package_name": "www.dazhonghr.com",
+        "file_name": "www.dazhonghr.com_80.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "同城招聘",
+        "package_name": "io.tczp.NI2DD730B",
+        "file_name": "io.tczp.NI2DD730B_81.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "上海直聘",
+        "package_name": "shanghai.com.cn",
+        "file_name": "shanghai.com.cn_82.apk",
+        "app_activity": "shanghai.com.cn.SplashActivity"
+    },
+    {
+        "app_name": "597直聘",
+        "package_name": "com.xm597.app",
+        "file_name": "com.xm597.app_83.apk",
+        "app_activity": "com.xm597.root.launcher.activity.LauncherActivity"
+    },
+    {
+        "app_name": "新疆人才网",
+        "package_name": "com.baidu.sumeru.tc483617",
+        "file_name": "com.baidu.sumeru.tc483617_84.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "闪客日结",
+        "package_name": "com.qingshandaily.hr",
+        "file_name": "com.qingshandaily.hr_85.apk",
+        "app_activity": "com.qingshandaily.hr.ui.generic.activity.SplashActivity"
+    },
+    {
+        "app_name": "猎英人才",
+        "package_name": "io.tzlyrc.H525AD44E",
+        "file_name": "io.tzlyrc.H525AD44E_86.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "有好活",
+        "package_name": "net.agwgcy.employment",
+        "file_name": "net.agwgcy.employment_87.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "万码优才",
+        "package_name": "com.wanma.renrui",
+        "file_name": "com.wanma.renrui_88.apk",
+        "app_activity": "com.wanma.renrui.MainActivity"
+    },
+    {
+        "app_name": "顾派临时工",
+        "package_name": "com.temporary.workers",
+        "file_name": "com.temporary.workers_89.apk",
+        "app_activity": "com.temporary.workers.page.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "汇博招聘",
+        "package_name": "com.app.huibo",
+        "file_name": "com.app.huibo_90.apk",
+        "app_activity": "com.app.huibo.module.main.WelcomeActivity"
+    },
+    {
+        "app_name": "淘金云客服",
+        "package_name": "qianxing.taojinke",
+        "file_name": "qianxing.taojinke_91.apk",
+        "app_activity": "qianxing.taojinke.Activity.login.LoadingActivity"
+    },
+    {
+        "app_name": "躺平兼职",
+        "package_name": "com.lying.flat",
+        "file_name": "com.lying.flat_92.apk",
+        "app_activity": "com.lying.flat.ui.login.SplashActivity"
+    },
+    {
+        "app_name": "沭才网",
+        "package_name": "com.app.soucai",
+        "file_name": "com.app.soucai_93.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "吉工家",
+        "package_name": "com.jizhi.jlongg",
+        "file_name": "com.jizhi.jlongg_94.apk",
+        "app_activity": "com.jizhi.jlongg.main.activity.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "宠才宝",
+        "package_name": "com.recruit.talent",
+        "file_name": "com.recruit.talent_95.apk",
+        "app_activity": "com.recruit.talent.activity.SplashActivity"
+    },
+    {
+        "app_name": "自游赚兼职",
+        "package_name": "zxt.zyxt.ziyz",
+        "file_name": "zxt.zyxt.ziyz_96.apk",
+        "app_activity": "zxt.zyxt.ziyz.ui.StartActivity"
+    },
+    {
+        "app_name": "公聘",
+        "package_name": "com.aicepin.mm",
+        "file_name": "com.aicepin.mm_97.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "线缆招聘网",
+        "package_name": "w2a.W2Am.cabhr.com",
+        "file_name": "w2a.W2Am.cabhr.com_98.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "柳州人才网",
+        "package_name": "cn.lzrc.app",
+        "file_name": "cn.lzrc.app_99.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "广西人才招聘网",
+        "package_name": "com.xjhrcom.gxrczpw",
+        "file_name": "com.xjhrcom.gxrczpw_100.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "黑光人才网",
+        "package_name": "com.heiguang.hgrcwandroid",
+        "file_name": "com.heiguang.hgrcwandroid_101.apk",
+        "app_activity": "com.heiguang.hgrcwandroid.activity.SplashActivity"
+    },
+    {
+        "app_name": "中国残联就业",
+        "package_name": "uni.UNI6002872",
+        "file_name": "uni.UNI6002872_102.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "拉勾招聘",
+        "package_name": "com.alpha.lagouapk",
+        "file_name": "com.alpha.lagouapk_103.apk",
+        "app_activity": "com.alpha.lagouapk.HelloActivity"
+    },
+    {
+        "app_name": "兼职酱",
+        "package_name": "cc.jianke.jianzhike",
+        "file_name": "cc.jianke.jianzhike_105.apk",
+        "app_activity": "cc.jianke.jianzhike.ui.main.activity.MainLoadingActivity"
+    },
+    {
+        "app_name": "秦皇快聘",
+        "package_name": "com.pin0335.job",
+        "file_name": "com.pin0335.job_106.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "眉山人才网",
+        "package_name": "com.meishan.job",
+        "file_name": "com.meishan.job_107.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "兼客招聘",
+        "package_name": "com.wodan.jkzhaopin",
+        "file_name": "com.wodan.jkzhaopin_108.apk",
+        "app_activity": "com.xianshijian.activity.MainLoadingActivity"
+    },
+    {
+        "app_name": "徐州英才网",
+        "package_name": "com.wta.NewCloudApp.jiuwei141402",
+        "file_name": "com.wta.NewCloudApp.jiuwei141402_109.apk",
+        "app_activity": "com.e0575.job.MainActivity"
+    },
+    {
+        "app_name": "36招聘",
+        "package_name": "shenzhen.com.cn",
+        "file_name": "shenzhen.com.cn_110.apk",
+        "app_activity": "shenzhen.com.cn.SplashActivity"
+    },
+    {
+        "app_name": "沛县便民网招聘",
+        "package_name": "com.peixianbmw.job",
+        "file_name": "com.peixianbmw.job_111.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "兼职猫求职版",
+        "package_name": "com.huazhu.xiaojianzhi",
+        "file_name": "com.huazhu.xiaojianzhi_112.apk",
+        "app_activity": "all.parttimeguidesystem.activity.HomeActivity"
+    },
+    {
+        "app_name": "淮南人才网",
+        "package_name": "com.wta.NewCloudApp.jiuwei60324",
+        "file_name": "com.wta.NewCloudApp.jiuwei60324_113.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "拉新吧",
+        "package_name": "uni.UNI672A20B",
+        "file_name": "uni.UNI672A20B_114.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "青团社招聘商家版",
+        "package_name": "com.jianzhi.company",
+        "file_name": "com.jianzhi.company_115.apk",
+        "app_activity": "com.jianzhi.company.ui.UserLoadingActivity"
+    },
+    {
+        "app_name": "我的打工网",
+        "package_name": "com.xiaoduo.mydagong.mywork",
+        "file_name": "com.xiaoduo.mydagong.mywork_116.apk",
+        "app_activity": "com.xiaoduo.mydagong.mywork.splash.SplashActivity"
+    },
+    {
+        "app_name": "Ozon Seller",
+        "package_name": "ru.ozon.seller_app",
+        "file_name": "ru.ozon.seller_app_117.apk",
+        "app_activity": "ru.ozon.seller_app.core.SingleActivity"
+    },
+    {
+        "app_name": "聘达人",
+        "package_name": "com.renrenweipin.renrenweipin",
+        "file_name": "com.renrenweipin.renrenweipin_118.apk",
+        "app_activity": "com.renrenweipin.renrenweipin.SplashV2Activity"
+    },
+    {
+        "app_name": "棒槌日结",
+        "package_name": "com.android.hammer",
+        "file_name": "com.android.hammer_119.apk",
+        "app_activity": "com.android.hammer.MainActivity"
+    },
+    {
+        "app_name": "万州人才网",
+        "package_name": "com.wanzhoucms",
+        "file_name": "com.wanzhoucms_120.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "常州招聘网",
+        "package_name": "com.czgongzuo.job",
+        "file_name": "com.czgongzuo.job_121.apk",
+        "app_activity": "com.czgongzuo.job.ui.LauncherActivity"
+    },
+    {
+        "app_name": "滕州人才网",
+        "package_name": "app.tzjob.com.cn.tengcaiwang",
+        "file_name": "app.tzjob.com.cn.tengcaiwang_122.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "极简简历",
+        "package_name": "com.example.resume",
+        "file_name": "com.example.resume_123.apk",
+        "app_activity": "com.example.resume.MainActivity"
+    },
+    {
+        "app_name": "1010兼职网",
+        "package_name": "com.com1010jz",
+        "file_name": "com.com1010jz_124.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "爱零工",
+        "package_name": "com.slicejobs.ailinggong",
+        "file_name": "com.slicejobs.ailinggong_125.apk",
+        "app_activity": "com.slicejobs.ailinggong.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "今日招工",
+        "package_name": "com.bless.job",
+        "file_name": "com.bless.job_126.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "闲侠兼职",
+        "package_name": "com.kh.xxjz",
+        "file_name": "com.kh.xxjz_127.apk",
+        "app_activity": "cc.jianke.jianzhike.ui.main.activity.MainLoadingActivity"
+    },
+    {
+        "app_name": "找零工",
+        "package_name": "com.bajiaostar.findjob",
+        "file_name": "com.bajiaostar.findjob_128.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "印刷人才网",
+        "package_name": "pjob.net",
+        "file_name": "pjob.net_129.apk",
+        "app_activity": "pjob.net.common.view.SplashActivity"
+    },
+    {
+        "app_name": "实习僧",
+        "package_name": "com.shixiseng.activity",
+        "file_name": "com.shixiseng.activity_130.apk",
+        "app_activity": "com.shixiseng.activity.start.splash.SplashActivity"
+    },
+    {
+        "app_name": "懒人兼职",
+        "package_name": "com.sdjuliang.lanrenjob",
+        "file_name": "com.sdjuliang.lanrenjob_131.apk",
+        "app_activity": "com.sdjuliang.lanrenjob.activity.SplashActivity"
+    },
+    {
+        "app_name": "合肥招聘网",
+        "package_name": "io.hfzp.NI2DD730B",
+        "file_name": "io.hfzp.NI2DD730B_132.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "赶集直招商家版",
+        "package_name": "com.wuba.bangjob",
+        "file_name": "com.wuba.bangjob_133.apk",
+        "app_activity": "com.wuba.bangjob.common.login.activity.LaunchActivity"
+    },
+    {
+        "app_name": "赶集直招",
+        "package_name": "com.ganji.android",
+        "file_name": "com.ganji.android_134.apk",
+        "app_activity": "com.wuba.activity.launch.LaunchActivity"
+    },
+    {
+        "app_name": "万行教师招聘端",
+        "package_name": "com.job10000.job910company",
+        "file_name": "com.job10000.job910company_135.apk",
+        "app_activity": "com.job10000.job910company.MainActivity"
+    },
+    {
+        "app_name": "广州直聘",
+        "package_name": "guangzhou.com.cn",
+        "file_name": "guangzhou.com.cn_136.apk",
+        "app_activity": "guangzhou.com.cn.SplashActivity"
+    },
+    {
+        "app_name": "医直聘",
+        "package_name": "app.yizhipin.com.yizhipin_app",
+        "file_name": "app.yizhipin.com.yizhipin_app_137.apk",
+        "app_activity": "app.yizhipin.com.yizhipin_app.MainActivity"
+    },
+    {
+        "app_name": "今日招聘",
+        "package_name": "com.bxkj.jrzp",
+        "file_name": "com.bxkj.jrzp_138.apk",
+        "app_activity": "com.bxkj.jrzp.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "医脉同道",
+        "package_name": "com.careerinternational.yimaitongdao",
+        "file_name": "com.careerinternational.yimaitongdao_139.apk",
+        "app_activity": "com.careerinternational.yimaitongdao.ui.SplashActivity"
+    },
+    {
+        "app_name": "内自生活网",
+        "package_name": "com.neicaiwang.forum",
+        "file_name": "com.neicaiwang.forum_140.apk",
+        "app_activity": "com.neicaiwang.forum.activity.StartActivity"
+    },
+    {
+        "app_name": "鱼泡网",
+        "package_name": "io.dcloud.H576E6CC7",
+        "file_name": "io.dcloud.H576E6CC7_141.apk",
+        "app_activity": "io.dcloud.H576E6CC7.launch.LaunchActivity"
+    },
+    {
+        "app_name": "兼职蛙",
+        "package_name": "com.cj.jzw",
+        "file_name": "com.cj.jzw_142.apk",
+        "app_activity": "cc.jianke.jianzhike.ui.main.activity.MainLoadingActivity"
+    },
+    {
+        "app_name": "快捷人才网",
+        "package_name": "com.hr1000.app",
+        "file_name": "com.hr1000.app_143.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "天津直聘",
+        "package_name": "com.blt022.job",
+        "file_name": "com.blt022.job_144.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "行家优服",
+        "package_name": "com.yyd.specialist",
+        "file_name": "com.yyd.specialist_145.apk",
+        "app_activity": "com.yyd.specialist.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "恒信人才",
+        "package_name": "com.hengxin.job91",
+        "file_name": "com.hengxin.job91_146.apk",
+        "app_activity": "com.hengxin.job91.SplashActivity"
+    },
+    {
+        "app_name": "职校家园",
+        "package_name": "com.wyl.exam",
+        "file_name": "com.wyl.exam_147.apk",
+        "app_activity": "com.wyl.exam.SplashActivity"
+    },
+    {
+        "app_name": "沭阳人才网",
+        "package_name": "com.kingkr.kcdkfss",
+        "file_name": "com.kingkr.kcdkfss_148.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "兼客招聘商家版",
+        "package_name": "com.xianshijian.jiankeyoupin",
+        "file_name": "com.xianshijian.jiankeyoupin_149.apk",
+        "app_activity": "com.xianshijian.jiankeyoupin.activity.MainLoadingActivity"
+    },
+    {
+        "app_name": "应届生求职",
+        "package_name": "com.yjs.android",
+        "file_name": "com.yjs.android_150.apk",
+        "app_activity": "com.campus.android.launch.LaunchActivity"
+    },
+    {
+        "app_name": "车小聘",
+        "package_name": "cn.chexiaopin.mini",
+        "file_name": "cn.chexiaopin.mini_151.apk",
+        "app_activity": "com.myproject.SplashActivity"
+    },
+    {
+        "app_name": "行业找工作",
+        "package_name": "com.hr.ui",
+        "file_name": "com.hr.ui_152.apk",
+        "app_activity": "com.hr.ui.ui.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "汇通人才",
+        "package_name": "com.bole.htrcper",
+        "file_name": "com.bole.htrcper_153.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "众包赚客",
+        "package_name": "com.xuniunet.crowdjob",
+        "file_name": "com.xuniunet.crowdjob_154.apk",
+        "app_activity": "com.xuniunet.crowdjob.ui.SplashActivity"
+    },
+    {
+        "app_name": "九一人才网",
+        "package_name": "com.jiuyirencaiwang",
+        "file_name": "com.jiuyirencaiwang_155.apk",
+        "app_activity": "com.jiuyirencaiwang.login.SplashActivity"
+    },
+    {
+        "app_name": "建筑港",
+        "package_name": "com.jlkg.jzg.jzg_android",
+        "file_name": "com.jlkg.jzg.jzg_android_156.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "北京直聘",
+        "package_name": "beijing.com.cn",
+        "file_name": "beijing.com.cn_157.apk",
+        "app_activity": "beijing.com.cn.SplashActivity"
+    },
+    {
+        "app_name": "快马工地找活",
+        "package_name": "com.julanling.jobbunting.construction",
+        "file_name": "com.julanling.jobbunting.construction_158.apk",
+        "app_activity": "com.julanling.dgq.business.splash.ui.SplashActivity"
+    },
+    {
+        "app_name": "建筑英才",
+        "package_name": "com.hr.build",
+        "file_name": "com.hr.build_159.apk",
+        "app_activity": "com.hr.build.ui.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "摸鱼兼职",
+        "package_name": "com.yanfeng.moy",
+        "file_name": "com.yanfeng.moy_160.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "青芒果",
+        "package_name": "com.example.greenmango",
+        "file_name": "com.example.greenmango_161.apk",
+        "app_activity": "com.example.greenmango.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "达达印刷人",
+        "package_name": "com.example.dada114",
+        "file_name": "com.example.dada114_162.apk",
+        "app_activity": "com.example.dada114.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "台州人力网",
+        "package_name": "com.z.tzrl",
+        "file_name": "com.z.tzrl_163.apk",
+        "app_activity": "com.z.tzrl.ui.SplashActivity"
+    },
+    {
+        "app_name": "牧通人才网",
+        "package_name": "com.xumurc",
+        "file_name": "com.xumurc_164.apk",
+        "app_activity": "com.xumurc.ui.activity.InitActivity"
+    },
+    {
+        "app_name": "知页简历",
+        "package_name": "com.likeshare.zalent",
+        "file_name": "com.likeshare.zalent_165.apk",
+        "app_activity": "com.likeshare.zalent.ui.guide.GuideActivity"
+    },
+    {
+        "app_name": "兼职学长",
+        "package_name": "com.sdjuliang.jianzhixuezhangjob",
+        "file_name": "com.sdjuliang.jianzhixuezhangjob_166.apk",
+        "app_activity": "com.sdjuliang.jianzhixuezhangjob.activity.SplashActivity"
+    },
+    {
+        "app_name": "才通直聘",
+        "package_name": "cn.job001.zhipin",
+        "file_name": "cn.job001.zhipin_167.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "有檬兼职",
+        "package_name": "com.rbb.ymjz",
+        "file_name": "com.rbb.ymjz_168.apk",
+        "app_activity": "com.rbb.ymjz.views.launch.WelcomeActivity"
+    },
+    {
+        "app_name": "温州招聘网",
+        "package_name": "com.kingkr.kymjsqh",
+        "file_name": "com.kingkr.kymjsqh_169.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "北极星招聘",
+        "package_name": "cn.com.bjx.bjxtalents",
+        "file_name": "cn.com.bjx.bjxtalents_170.apk",
+        "app_activity": "cn.com.bjx.bjxtalents.activity.SplashActivity"
+    },
+    {
+        "app_name": "百城招聘",
+        "package_name": "bczp.activity",
+        "file_name": "bczp.activity_171.apk",
+        "app_activity": "bczp.activity.ui.splash.activity.SplashActivity2"
+    },
+    {
+        "app_name": "帮帮兼职社",
+        "package_name": "com.bbuy.jgkz",
+        "file_name": "com.bbuy.jgkz_172.apk",
+        "app_activity": "com.bbuy.jgkz.ui.StartActivity"
+    },
+    {
+        "app_name": "龙岩好工作人才网",
+        "package_name": "com.lyrc.uniapp",
+        "file_name": "com.lyrc.uniapp_173.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "老板直聘",
+        "package_name": "com.laobanzhipin.app",
+        "file_name": "com.laobanzhipin.app_174.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "前程无忧51Job",
+        "package_name": "com.job.android",
+        "file_name": "com.job.android_175.apk",
+        "app_activity": "com.job.android.pages.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "筑人才",
+        "package_name": "com.bksx.mobile.guiyangzhurencai",
+        "file_name": "com.bksx.mobile.guiyangzhurencai_176.apk",
+        "app_activity": "com.bksx.mobile.guiyangzhurencai.activity.login.SplashActivity"
+    },
+    {
+        "app_name": "监理招聘网",
+        "package_name": "w2a.W2Am.jianlihr.com",
+        "file_name": "w2a.W2Am.jianlihr.com_177.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "智通人才网",
+        "package_name": "net.unitepower.zhitong",
+        "file_name": "net.unitepower.zhitong_178.apk",
+        "app_activity": "net.unitepower.zhitong.login.SplashActivity"
+    },
+    {
+        "app_name": "嘉兴人才网",
+        "package_name": "com.rctong.personjx",
+        "file_name": "com.rctong.personjx_179.apk",
+        "app_activity": "com.rctong.personjx.MainActivity"
+    },
+    {
+        "app_name": "外聘网",
+        "package_name": "com.azjhzy.wpinjobs",
+        "file_name": "com.azjhzy.wpinjobs_180.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "滨海直聘",
+        "package_name": "com.tjbhrcw.job",
+        "file_name": "com.tjbhrcw.job_181.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "小牛兼职",
+        "package_name": "com.zhairenwu.xiaoniujianzhi",
+        "file_name": "com.zhairenwu.xiaoniujianzhi_182.apk",
+        "app_activity": "cc.jianke.jianzhike.ui.main.activity.MainLoadingActivity"
+    },
+    {
+        "app_name": "鲸才招聘",
+        "package_name": "com.zhongtenghr.zhaopin",
+        "file_name": "com.zhongtenghr.zhaopin_183.apk",
+        "app_activity": "com.zhongtenghr.zhaopin.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "康强医疗人才网",
+        "package_name": "com.kq.kq36.com",
+        "file_name": "com.kq.kq36.com_184.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "找事",
+        "package_name": "com.guairongyi.zs",
+        "file_name": "com.guairongyi.zs_185.apk",
+        "app_activity": "com.guairongyi.zs.MainActivity"
+    },
+    {
+        "app_name": "学生宝藏君",
+        "package_name": "com.baozangjun.benben",
+        "file_name": "com.baozangjun.benben_186.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "盐城人才网",
+        "package_name": "com.ychr.job",
+        "file_name": "com.ychr.job_187.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "万行教师",
+        "package_name": "com.job10000.job910video",
+        "file_name": "com.job10000.job910video_188.apk",
+        "app_activity": "com.job10000.job910video.MainActivity"
+    },
+    {
+        "app_name": "职徒简历",
+        "package_name": "uni.UNI85FD6A4",
+        "file_name": "uni.UNI85FD6A4_189.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "门窗直聘网",
+        "package_name": "com.erma.app",
+        "file_name": "com.erma.app_190.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "138美业人才",
+        "package_name": "com.liqi.job",
+        "file_name": "com.liqi.job_191.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "起点人力",
+        "package_name": "com.qdrl.one",
+        "file_name": "com.qdrl.one_192.apk",
+        "app_activity": "com.qdrl.one.module.home.ui.SplashAct"
+    },
+    {
+        "app_name": "桂聘",
+        "package_name": "com.vvjob.m",
+        "file_name": "com.vvjob.m_193.apk",
+        "app_activity": "com.vvjob.m.activity.EntryActivity"
+    },
+    {
+        "app_name": "理聘",
+        "package_name": "com.lipind.lipind",
+        "file_name": "com.lipind.lipind_194.apk",
+        "app_activity": "com.lipind.lipind.MainActivity"
+    },
+    {
+        "app_name": "平湖人才网",
+        "package_name": "com.ph66.job",
+        "file_name": "com.ph66.job_195.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+
+    {
+        "app_name": "乐业天空",
+        "package_name": "com.myjobsky.personal",
+        "file_name": "com.myjobsky.personal_1.apk",
+        "app_activity": "com.myjobsky.personal.activity.StartActivity"
+    },
+    {
+        "app_name": "诺聘",
+        "package_name": "cn.noahjob.recruit",
+        "file_name": "cn.noahjob.recruit_2.apk",
+        "app_activity": "cn.noahjob.recruit.ui.comm.splash.SplashActivity"
+    },
+    {
+        "app_name": "良臣网",
+        "package_name": "cn.liangchenwang.app",
+        "file_name": "cn.liangchenwang.app_3.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "薪老板",
+        "package_name": "com.wehufu.mijuseeker",
+        "file_name": "com.wehufu.mijuseeker_4.apk",
+        "app_activity": "com.fyy.miju.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "莞聘",
+        "package_name": "io.dgzp.NI2DD730B",
+        "file_name": "io.dgzp.NI2DD730B_5.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "水猫工匠",
+        "package_name": "com.tjzhxx.craftsmen",
+        "file_name": "com.tjzhxx.craftsmen_7.apk",
+        "app_activity": "com.tjzhxx.craftsmen.WellcomActivity"
+    },
+    {
+        "app_name": "派盟",
+        "package_name": "plus.H51ED8C83",
+        "file_name": "plus.H51ED8C83_8.apk",
+        "app_activity": "plus.H51ED8C83.MainActivity"
+    },
+    {
+        "app_name": "MallHaHa",
+        "package_name": "comm.mallhaha.bbc.android",
+        "file_name": "comm.mallhaha.bbc.android_9.apk",
+        "app_activity": "comm.mallhaha.bbc.android.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "597企业版",
+        "package_name": "com.rcw597.app",
+        "file_name": "com.rcw597.app_10.apk",
+        "app_activity": "com.rcw597.app.activity.QiDongYe"
+    },
+    {
+        "app_name": "长春直聘",
+        "package_name": "com.zhaopin0431.www",
+        "file_name": "com.zhaopin0431.www_11.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "电梯招聘网",
+        "package_name": "w2a.W2Am.diantijob.com",
+        "file_name": "w2a.W2Am.diantijob.com_12.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "巫溪人才网",
+        "package_name": "cn.rencai57.www",
+        "file_name": "cn.rencai57.www_13.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "赣州直聘",
+        "package_name": "com.ganzhou.job",
+        "file_name": "com.ganzhou.job_14.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "多面",
+        "package_name": "com.liepin.xiaopin",
+        "file_name": "com.liepin.xiaopin_15.apk",
+        "app_activity": "com.liepin.xiaopin.activity.SplashActivity"
+    },
+    {
+        "app_name": "鲁班用工",
+        "package_name": "com.mtd.luban.work",
+        "file_name": "com.mtd.luban.work_16.apk",
+        "app_activity": "com.mtd.luban.work.WorkFirstActivity"
+    },
+    {
+        "app_name": "怀远人才网",
+        "package_name": "com.ahhycn.talent",
+        "file_name": "com.ahhycn.talent_17.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "海宁招聘网",
+        "package_name": "com.haining.job",
+        "file_name": "com.haining.job_18.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "慧星",
+        "package_name": "com.boyangtianyi.huixin",
+        "file_name": "com.boyangtianyi.huixin_19.apk",
+        "app_activity": "com.boyangtianyi.huixin.activity.login.StartPageActivity"
+    },
+    {
+        "app_name": "新安人才网企业版",
+        "package_name": "cn.goodjobs.enterprise",
+        "file_name": "cn.goodjobs.enterprise_20.apk",
+        "app_activity": "cn.goodjobs.enterprise.LaunchActivity"
+    },
+    {
+        "app_name": "全影人才网",
+        "package_name": "com.quanying.rencaiwang",
+        "file_name": "com.quanying.rencaiwang_21.apk",
+        "app_activity": "com.quanying.rencaiwang.activity.SplashActivity"
+    },
+    {
+        "app_name": "口腔招聘求职网",
+        "package_name": "kqzp.xym",
+        "file_name": "kqzp.xym_22.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "王者兼职",
+        "package_name": "com.king.partjob",
+        "file_name": "com.king.partjob_23.apk",
+        "app_activity": "com.king.partjob.ui.login.SplashActivity"
+    },
+    {
+        "app_name": "长沙直聘",
+        "package_name": "changsha.com.cn",
+        "file_name": "changsha.com.cn_24.apk",
+        "app_activity": "changsha.com.cn.SplashActivity"
+    },
+    {
+        "app_name": "江都人才网",
+        "package_name": "io.jiangdurencai.NI2DD730B",
+        "file_name": "io.jiangdurencai.NI2DD730B_25.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "岗立方商家端",
+        "package_name": "com.glf.ganglifang",
+        "file_name": "com.glf.ganglifang_26.apk",
+        "app_activity": "com.glf.ganglifang.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "工物机语",
+        "package_name": "com.machine.gcwy",
+        "file_name": "com.machine.gcwy_27.apk",
+        "app_activity": "com.machine.gcwy.MainActivity"
+    },
+    {
+        "app_name": "梧桐高聘",
+        "package_name": "com.zzkj.uuf",
+        "file_name": "com.zzkj.uuf_28.apk",
+        "app_activity": "com.zzkj.uuf.uuf.MainActivity"
+    },
+    {
+        "app_name": "赣州人事人才网",
+        "package_name": "com.rsrc.gz",
+        "file_name": "com.rsrc.gz_29.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "兼途",
+        "package_name": "com.jiantu.uni",
+        "file_name": "com.jiantu.uni_30.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "闲工",
+        "package_name": "com.xiangong.app",
+        "file_name": "com.xiangong.app_31.apk",
+        "app_activity": "com.xiangong.app.MainActivity"
+    },
+    {
+        "app_name": "神仙外企",
+        "package_name": "com.sensin.waiqi",
+        "file_name": "com.sensin.waiqi_32.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "智力云",
+        "package_name": "com.suozhi.zhiduo",
+        "file_name": "com.suozhi.zhiduo_33.apk",
+        "app_activity": "com.suozhi.zhiduo.login.SplashActivity"
+    },
+    {
+        "app_name": "技能码",
+        "package_name": "com.jnm.skillcode",
+        "file_name": "com.jnm.skillcode_34.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "对口直招",
+        "package_name": "com.duikouzhizhao.app",
+        "file_name": "com.duikouzhizhao.app_35.apk",
+        "app_activity": "com.duikouzhizhao.app.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "茂名招聘网",
+        "package_name": "com.yuejob.app",
+        "file_name": "com.yuejob.app_36.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "拼招网",
+        "package_name": "com.xinzhiyice.pzw",
+        "file_name": "com.xinzhiyice.pzw_37.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "头职",
+        "package_name": "cn.touzhi.app",
+        "file_name": "cn.touzhi.app_38.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "新乡直聘",
+        "package_name": "jingcailife.com.xx",
+        "file_name": "jingcailife.com.xx_39.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "火工联盟",
+        "package_name": "io.dcld.hzbp",
+        "file_name": "io.dcld.hzbp_40.apk",
+        "app_activity": "io.dcld.hzbp.ui.MainActivity"
+    },
+    {
+        "app_name": "ijob",
+        "package_name": "com.kptijob.ijob",
+        "file_name": "com.kptijob.ijob_41.apk",
+        "app_activity": "com.kptijob.ijob.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "聚好活",
+        "package_name": "com.juhaohuorn",
+        "file_name": "com.juhaohuorn_42.apk",
+        "app_activity": "com.juhaohuorn.MainActivity"
+    },
+    {
+        "app_name": "寿光人才网",
+        "package_name": "com.job288.app",
+        "file_name": "com.job288.app_43.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "灵工猴",
+        "package_name": "com.linggong.android",
+        "file_name": "com.linggong.android_44.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "百网通聘",
+        "package_name": "com.bwtzp.app",
+        "file_name": "com.bwtzp.app_45.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "睢宁e就业",
+        "package_name": "io.snejob.NI2DD730B",
+        "file_name": "io.snejob.NI2DD730B_46.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "慧云聘",
+        "package_name": "com.huiyunpin.lhht",
+        "file_name": "com.huiyunpin.lhht_47.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "仁寿人才招聘",
+        "package_name": "com.renshoujob.job",
+        "file_name": "com.renshoujob.job_48.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "网里挑",
+        "package_name": "com.nyw.wanglitiaoapp",
+        "file_name": "com.nyw.wanglitiaoapp_49.apk",
+        "app_activity": "com.nyw.wanglitiaoapp.StartActivity"
+    },
+    {
+        "app_name": "绍薪直聘",
+        "package_name": "zhipin0575.com.job",
+        "file_name": "zhipin0575.com.job_50.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "八方好工作",
+        "package_name": "io.hbs8f.NI2DD730B",
+        "file_name": "io.hbs8f.NI2DD730B_51.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "度才子",
+        "package_name": "io.dcloud.H5CE9F8FB",
+        "file_name": "io.dcloud.H5CE9F8FB_52.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "当日急聘",
+        "package_name": "com.love.xiaomei.drjp",
+        "file_name": "com.love.xiaomei.drjp_53.apk",
+        "app_activity": "dy.activity.SplashActivity"
+    },
+    {
+        "app_name": "信东家",
+        "package_name": "com.example.xindongjia",
+        "file_name": "com.example.xindongjia_54.apk",
+        "app_activity": "com.example.xindongjia.activity.login.LoadingActivity"
+    },
+    {
+        "app_name": "生态美业",
+        "package_name": "com.chaoyinli.shengtai.meiye",
+        "file_name": "com.chaoyinli.shengtai.meiye_55.apk",
+        "app_activity": "com.chaoyinli.shengtai.meiye.MainActivity"
+    },
+    {
+        "app_name": "惜才直聘",
+        "package_name": "com.xicai.zhaoping",
+        "file_name": "com.xicai.zhaoping_56.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "电池招聘网",
+        "package_name": "w2a.W2Am.batthr.com",
+        "file_name": "w2a.W2Am.batthr.com_57.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "企跑者",
+        "package_name": "com.temporary_worker.temporary_worker",
+        "file_name": "com.temporary_worker.temporary_worker_58.apk",
+        "app_activity": "com.temporary_worker.temporary_worker.MainActivity"
+    },
+    {
+        "app_name": "聘也",
+        "package_name": "com.bm.employworker",
+        "file_name": "com.bm.employworker_59.apk",
+        "app_activity": "com.bm.employworker.MainActivity"
+    },
+    {
+        "app_name": "知城优聘",
+        "package_name": "com.gcjt.youpin",
+        "file_name": "com.gcjt.youpin_60.apk",
+        "app_activity": "com.guochuan.recruitment.recruitment.MainActivity"
+    },
+    {
+        "app_name": "贵才招聘",
+        "package_name": "io.guizhouhr.NI2DD730B",
+        "file_name": "io.guizhouhr.NI2DD730B_61.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "百城招聘企业版",
+        "package_name": "cn.bczp.activity",
+        "file_name": "cn.bczp.activity_62.apk",
+        "app_activity": "cn.bczp.activity.ui.splash.activity.SplashActivity2"
+    },
+    {
+        "app_name": "捷程优聘",
+        "package_name": "io.jiechengwork.BD4CB37",
+        "file_name": "io.jiechengwork.BD4CB37_63.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "天下工人",
+        "package_name": "sxxg.worker.com",
+        "file_name": "sxxg.worker.com_64.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "夏邑人才网",
+        "package_name": "com.xiayijob.www",
+        "file_name": "com.xiayijob.www_65.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "恩施人才网",
+        "package_name": "io.enshijob.E450D40",
+        "file_name": "io.enshijob.E450D40_66.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "职由人APP（个人版）",
+        "package_name": "uni.UNICAE37E5",
+        "file_name": "uni.UNICAE37E5_67.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "三湘人才网",
+        "package_name": "com.yongzhourcw.job",
+        "file_name": "com.yongzhourcw.job_68.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "漳州人才在线",
+        "package_name": "io.zzrc.NI2DD730B",
+        "file_name": "io.zzrc.NI2DD730B_69.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "医招职达",
+        "package_name": "com.u1zp",
+        "file_name": "com.u1zp_70.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "长沙市人才网",
+        "package_name": "io.hr0731.NI2DD730B",
+        "file_name": "io.hr0731.NI2DD730B_71.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "桐乡人力网",
+        "package_name": "txrlw.com.www",
+        "file_name": "txrlw.com.www_72.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "宠精英",
+        "package_name": "com.chongjingying",
+        "file_name": "com.chongjingying_73.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "博思云人才",
+        "package_name": "com.bossyun.bc",
+        "file_name": "com.bossyun.bc_74.apk",
+        "app_activity": "com.bossyun.bc.activity.LaunchActivity"
+    },
+    {
+        "app_name": "君臣论",
+        "package_name": "com.wktx.www.emperor",
+        "file_name": "com.wktx.www.emperor_75.apk",
+        "app_activity": "com.wktx.www.emperor.activities.WelcomeActivity"
+    },
+    {
+        "app_name": "迁安人才网",
+        "package_name": "com.qarc.app",
+        "file_name": "com.qarc.app_77.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "趣职宝",
+        "package_name": "com.qzb.customer",
+        "file_name": "com.qzb.customer_78.apk",
+        "app_activity": "com.jianzhiman.customer.LoadingActivity"
+    },
+    {
+        "app_name": "助他",
+        "package_name": "com.example.zhuta",
+        "file_name": "com.example.zhuta_79.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "灵工快聘",
+        "package_name": "com.hanchen.lgkp",
+        "file_name": "com.hanchen.lgkp_80.apk",
+        "app_activity": "com.hanchen.lgkp.MainActivity"
+    },
+    {
+        "app_name": "宿迁直聘",
+        "package_name": "com.suqianzhipin.www",
+        "file_name": "com.suqianzhipin.www_81.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "璧山人才网",
+        "package_name": "io.bsrcw.NI2DD730B",
+        "file_name": "io.bsrcw.NI2DD730B_82.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "工友之家",
+        "package_name": "com.cshnyoumai.workmateshome",
+        "file_name": "com.cshnyoumai.workmateshome_83.apk",
+        "app_activity": "com.cshnyoumai.workmateshome.activity.SplashActivity"
+    },
+    {
+        "app_name": "南宁招聘网",
+        "package_name": "cc.nnzp.app",
+        "file_name": "cc.nnzp.app_84.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "四平二丫网",
+        "package_name": "sipingzhaopin.com.www",
+        "file_name": "sipingzhaopin.com.www_85.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "高邮直聘",
+        "package_name": "com.gaoyouzhipin.www",
+        "file_name": "com.gaoyouzhipin.www_86.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "易校招",
+        "package_name": "student.com.lemondm.yixiaozhao",
+        "file_name": "student.com.lemondm.yixiaozhao_87.apk",
+        "app_activity": "student.com.lemondm.yixiaozhao.Activity.SplashActivity"
+    },
+    {
+        "app_name": "吴川招聘网",
+        "package_name": "com.wczpw.www",
+        "file_name": "com.wczpw.www_88.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "ijob企业版",
+        "package_name": "com.kptijob.merchantijob",
+        "file_name": "com.kptijob.merchantijob_89.apk",
+        "app_activity": "com.kptijob.merchantijob.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "企盼简历制作",
+        "package_name": "com.auyou.jlzz",
+        "file_name": "com.auyou.jlzz_90.apk",
+        "app_activity": "com.auyou.jlzz.splash"
+    },
+    {
+        "app_name": "工奇快",
+        "package_name": "com.longcai.gongqikuai",
+        "file_name": "com.longcai.gongqikuai_91.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "聘播播",
+        "package_name": "com.pbb.release",
+        "file_name": "com.pbb.release_92.apk",
+        "app_activity": "com.pbb.release.MainActivity"
+    },
+    {
+        "app_name": "甘肃人才网",
+        "package_name": "com.zhiorange.gsrcw",
+        "file_name": "com.zhiorange.gsrcw_93.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "虞城直聘",
+        "package_name": "com.yuchengjob.www",
+        "file_name": "com.yuchengjob.www_94.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "保定招聘网",
+        "package_name": "cc.bdzp.app",
+        "file_name": "cc.bdzp.app_95.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "睢宁好职网",
+        "package_name": "com.haozhijob.rc",
+        "file_name": "com.haozhijob.rc_96.apk",
+        "app_activity": "com.e0575.job.MainActivity"
+    },
+    {
+        "app_name": "职多多",
+        "package_name": "com.clsys.activity",
+        "file_name": "com.clsys.activity_97.apk",
+        "app_activity": "com.clsys.activity.activity.FirstActivity"
+    },
+    {
+        "app_name": "人集",
+        "package_name": "com.fenglang.renji",
+        "file_name": "com.fenglang.renji_98.apk",
+        "app_activity": "com.fenglang.renji.SplashActivity"
+    },
+    {
+        "app_name": "就业星",
+        "package_name": "com.xiaoyibang.jiuyexing",
+        "file_name": "com.xiaoyibang.jiuyexing_99.apk",
+        "app_activity": "com.xiaoyibang.jiuyexing.SplashActivity"
+    },
+    {
+        "app_name": "吾有空",
+        "package_name": "com.jsz.lmrl.user",
+        "file_name": "com.jsz.lmrl.user_100.apk",
+        "app_activity": "com.jsz.lmrl.user.SplashActivity"
+    },
+    {
+        "app_name": "潜山招聘网",
+        "package_name": "io.qszpw.NI2DD730B",
+        "file_name": "io.qszpw.NI2DD730B_101.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "橙一护士",
+        "package_name": "cn.com.cheng1yi.saasflutterdoctor",
+        "file_name": "cn.com.cheng1yi.saasflutterdoctor_102.apk",
+        "app_activity": "cn.com.cheng1yi.saasflutterdoctor.MainActivity"
+    },
+    {
+        "app_name": "查优优",
+        "package_name": "com.cn.referencecheck",
+        "file_name": "com.cn.referencecheck_103.apk",
+        "app_activity": "com.cn.referencecheck.ui.StartActivity"
+    },
+    {
+        "app_name": "邢台直聘",
+        "package_name": "com.pin0319.www",
+        "file_name": "com.pin0319.www_104.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "零工智选",
+        "package_name": "linggongzhixuan.app",
+        "file_name": "linggongzhixuan.app_105.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "慧信",
+        "package_name": "com.gw.huixin",
+        "file_name": "com.gw.huixin_106.apk",
+        "app_activity": "com.android.dazhihui.dzh.SplashActivity"
+    },
+    {
+        "app_name": "芜湖掌中聘",
+        "package_name": "com.whzzp.job",
+        "file_name": "com.whzzp.job_107.apk",
+        "app_activity": "com.e0575.job.MainActivity"
+    },
+    {
+        "app_name": "职掌纪",
+        "package_name": "uni.UNIDB49B51",
+        "file_name": "uni.UNIDB49B51_108.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "聘马招聘",
+        "package_name": "com.pinmazhaopin",
+        "file_name": "com.pinmazhaopin_109.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "富才网",
+        "package_name": "com.fytcw.fucaiwang",
+        "file_name": "com.fytcw.fucaiwang_110.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "就业吧",
+        "package_name": "com.hnmsw.qts",
+        "file_name": "com.hnmsw.qts_111.apk",
+        "app_activity": "com.hnmsw.qts.baseactivity.SlpashActivity"
+    },
+    {
+        "app_name": "厦门人才网企业版",
+        "package_name": "cn.com.xmrc.ep",
+        "file_name": "cn.com.xmrc.ep_112.apk",
+        "app_activity": "cn.com.xmrc.ep.SplashActivity"
+    },
+    {
+        "app_name": "职业棒棒",
+        "package_name": "plus.H591D202A",
+        "file_name": "plus.H591D202A_113.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "工人乐",
+        "package_name": "grl.com",
+        "file_name": "grl.com_114.apk",
+        "app_activity": "com.tarodemo.PrivacyActivity"
+    },
+    {
+        "app_name": "青云网聘",
+        "package_name": "com.renrui.job",
+        "file_name": "com.renrui.job_115.apk",
+        "app_activity": "com.renrui.job.MainActivity"
+    },
+    {
+        "app_name": "众鑫招聘",
+        "package_name": "com.zxzpin.app",
+        "file_name": "com.zxzpin.app_116.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "珠宝人才网",
+        "package_name": "com.cn24kjob.app",
+        "file_name": "com.cn24kjob.app_117.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "皮革人才网",
+        "package_name": "io.leatherhr.NI2DD730B",
+        "file_name": "io.leatherhr.NI2DD730B_118.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "台州招聘网",
+        "package_name": "com.tzzpapp",
+        "file_name": "com.tzzpapp_119.apk",
+        "app_activity": "com.tzzpapp.MainActivity"
+    },
+    {
+        "app_name": "保定百姓人才网",
+        "package_name": "com.baixingjob.rc",
+        "file_name": "com.baixingjob.rc_120.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "自在一点",
+        "package_name": "com.xbkj.OutWork",
+        "file_name": "com.xbkj.OutWork_121.apk",
+        "app_activity": "com.work.ui.SplashActivity"
+    },
+    {
+        "app_name": "阜阳人才网",
+        "package_name": "com.zarcw.app",
+        "file_name": "com.zarcw.app_122.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "湛江直聘",
+        "package_name": "com.zhipin0759.www",
+        "file_name": "com.zhipin0759.www_123.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "简历制作模板",
+        "package_name": "com.fangdingtech.cv",
+        "file_name": "com.fangdingtech.cv_124.apk",
+        "app_activity": "com.fangdingtech.cv.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "畅赞",
+        "package_name": "com.earth.social",
+        "file_name": "com.earth.social_125.apk",
+        "app_activity": "com.earth.social.activity.login.StartPageActivity"
+    },
+    {
+        "app_name": "魅力庐江人才网",
+        "package_name": "com.ljrcw0551.www",
+        "file_name": "com.ljrcw0551.www_126.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "U人力",
+        "package_name": "com.bulaitesi.bdhr",
+        "file_name": "com.bulaitesi.bdhr_127.apk",
+        "app_activity": "com.bulaitesi.bdhr.mvpview.activity.ShanpingActivity"
+    },
+    {
+        "app_name": "有召",
+        "package_name": "com.ohmydragon.zhsl",
+        "file_name": "com.ohmydragon.zhsl_128.apk",
+        "app_activity": "com.ohmydragon.zhsl.MainActivity"
+    },
+    {
+        "app_name": "伯乐牛",
+        "package_name": "io.boleniu.D82EFC5",
+        "file_name": "io.boleniu.D82EFC5_129.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "乌兰察布招聘网",
+        "package_name": "com.wlcbzp.job",
+        "file_name": "com.wlcbzp.job_130.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "环讯人才",
+        "package_name": "com.yk0579.hxrc",
+        "file_name": "com.yk0579.hxrc_131.apk",
+        "app_activity": "com.yk0579.hxrc.MainActivity"
+    },
+    {
+        "app_name": "双流云招聘",
+        "package_name": "ltd.cdlpdd.www",
+        "file_name": "ltd.cdlpdd.www_132.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "T班鱼",
+        "package_name": "com.tbanyu.tby",
+        "file_name": "com.tbanyu.tby_133.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "遵才网",
+        "package_name": "io.zyrczp.NI2DD730B",
+        "file_name": "io.zyrczp.NI2DD730B_134.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "池州招聘网",
+        "package_name": "io.chizhoujob.F02BF91",
+        "file_name": "io.chizhoujob.F02BF91_135.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "临沂求职招聘网",
+        "package_name": "io.linpinbao.NI2DD730B",
+        "file_name": "io.linpinbao.NI2DD730B_136.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "一品众包",
+        "package_name": "com.epweike.employer.android",
+        "file_name": "com.epweike.employer.android_137.apk",
+        "app_activity": "com.epweike.employer.android.SplashActivity"
+    },
+    {
+        "app_name": "掘金之路",
+        "package_name": "uni.xzd.juejinzhilu.user",
+        "file_name": "uni.xzd.juejinzhilu.user_138.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "DD工",
+        "package_name": "com.diangonghulian.dghl",
+        "file_name": "com.diangonghulian.dghl_139.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "起哈聘",
+        "package_name": "uni.UNI21E6058",
+        "file_name": "uni.UNI21E6058_140.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "英才企业版",
+        "package_name": "com.hr.ent",
+        "file_name": "com.hr.ent_141.apk",
+        "app_activity": "com.hr.ent.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "华商环球人才",
+        "package_name": "com.hylh.hshq",
+        "file_name": "com.hylh.hshq_142.apk",
+        "app_activity": "com.hylh.hshq.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "嘉善人力网",
+        "package_name": "com.jsrlw.www",
+        "file_name": "com.jsrlw.www_143.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "工路快聘",
+        "package_name": "com.apu.tech.apu_app",
+        "file_name": "com.apu.tech.apu_app_144.apk",
+        "app_activity": "com.apu.tech.apu_app.MainActivity"
+    },
+    {
+        "app_name": "橙子直聘",
+        "package_name": "com.kyapp",
+        "file_name": "com.kyapp_145.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "元阳通",
+        "package_name": "uni.UNIEB74C83",
+        "file_name": "uni.UNIEB74C83_146.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "全扬直聘",
+        "package_name": "com.quanyangzhipin.www",
+        "file_name": "com.quanyangzhipin.www_147.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "昊川创益云",
+        "package_name": "mapi.howchuan.com",
+        "file_name": "mapi.howchuan.com_148.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "荐神",
+        "package_name": "jianshen.front",
+        "file_name": "jianshen.front_149.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "云南招聘网企业招聘版",
+        "package_name": "com.ynzp.comapp",
+        "file_name": "com.ynzp.comapp_150.apk",
+        "app_activity": "cn.bczp.activity.ui.splash.activity.SplashActivity2"
+    },
+    {
+        "app_name": "邯郸直聘",
+        "package_name": "handanzhipin.cn.www",
+        "file_name": "handanzhipin.cn.www_151.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "新平果招聘网",
+        "package_name": "io.jobxinpg.NI2DD730B",
+        "file_name": "io.jobxinpg.NI2DD730B_152.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "校园聘",
+        "package_name": "com.jinshouzhi.genius.street",
+        "file_name": "com.jinshouzhi.genius.street_153.apk",
+        "app_activity": "com.jinshouzhi.genius.street.SplashActivity"
+    },
+    {
+        "app_name": "职堆堆商户版",
+        "package_name": "com.ocean.merchant",
+        "file_name": "com.ocean.merchant_154.apk",
+        "app_activity": "com.xuniu.ocean.splash.SplashActivity"
+    },
+    {
+        "app_name": "吉鹿力",
+        "package_name": "io.jilulijob.NI2DD730B",
+        "file_name": "io.jilulijob.NI2DD730B_155.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "乐业天空企业版",
+        "package_name": "com.myjobsky.company",
+        "file_name": "com.myjobsky.company_156.apk",
+        "app_activity": "com.myjobsky.company.login.activity.StartActivity"
+    },
+    {
+        "app_name": "力力灵活就业平台",
+        "package_name": "com.linghuojiuye",
+        "file_name": "com.linghuojiuye_157.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "二十四小时直聘",
+        "package_name": "com.lianzhong.blue",
+        "file_name": "com.lianzhong.blue_158.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "Ujob",
+        "package_name": "com.ujob100.www",
+        "file_name": "com.ujob100.www_159.apk",
+        "app_activity": "com.zoontek.rnbootsplash.RNBootSplashActivity"
+    },
+    {
+        "app_name": "正洋人力汇",
+        "package_name": "com.zytc.zp",
+        "file_name": "com.zytc.zp_160.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "发才网",
+        "package_name": "com.isoftstone.quancai",
+        "file_name": "com.isoftstone.quancai_161.apk",
+        "app_activity": "com.isoftstone.quancai.moudle.login.activity.SplashActivity"
+    },
+    {
+        "app_name": "新郑人才招聘网",
+        "package_name": "com.xz0371.www",
+        "file_name": "com.xz0371.www_162.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "搜才",
+        "package_name": "com.soucaicms",
+        "file_name": "com.soucaicms_163.apk",
+        "app_activity": "io.flutter.embedding.android.FlutterActivity"
+    },
+    {
+        "app_name": "快乐e工",
+        "package_name": "com.xilaigong.happyegong",
+        "file_name": "com.xilaigong.happyegong_164.apk",
+        "app_activity": "com.xilaigong.happyegong.MainActivity"
+    },
+    {
+        "app_name": "淞淞零工",
+        "package_name": "run.onesong.songsong",
+        "file_name": "run.onesong.songsong_165.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "诸城招聘网",
+        "package_name": "com.zcqzzppt.app",
+        "file_name": "com.zcqzzppt.app_166.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "自由FREE",
+        "package_name": "com.ziyoufree.shop",
+        "file_name": "com.ziyoufree.shop_167.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "汉中人才网",
+        "package_name": "io.job916.NI2DD730B",
+        "file_name": "io.job916.NI2DD730B_168.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "通达人才网",
+        "package_name": "io.tianjinzhaopin.AF14220",
+        "file_name": "io.tianjinzhaopin.AF14220_169.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "益阳人才网",
+        "package_name": "io.rcw0737.H578CB895",
+        "file_name": "io.rcw0737.H578CB895_170.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "二十四小时直聘经纪人端",
+        "package_name": "com.lianzhong.blue.agent",
+        "file_name": "com.lianzhong.blue.agent_171.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "职招天下",
+        "package_name": "uni.UNIAA19D95",
+        "file_name": "uni.UNIAA19D95_172.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "地信宝",
+        "package_name": "app.dixinbao.com",
+        "file_name": "app.dixinbao.com_173.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "聘克招聘",
+        "package_name": "uni.UNIAC10A2E",
+        "file_name": "uni.UNIAC10A2E_174.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "舟山人才网",
+        "package_name": "com.rctong.personzs",
+        "file_name": "com.rctong.personzs_175.apk",
+        "app_activity": "com.rctong.personzs.Activitys.IndexActivity"
+    },
+    {
+        "app_name": "唯才网",
+        "package_name": "io.weicaiw.NI2DD730B",
+        "file_name": "io.weicaiw.NI2DD730B_176.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "人才职业网",
+        "package_name": "com.rencai.rencaijob",
+        "file_name": "com.rencai.rencaijob_177.apk",
+        "app_activity": "com.rencai.rencaijob.SplashActivity"
+    },
+    {
+        "app_name": "烘焙茶饮人才网",
+        "package_name": "cc.bhc.app",
+        "file_name": "cc.bhc.app_178.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "滴聘",
+        "package_name": "com.adinnet.direcruit",
+        "file_name": "com.adinnet.direcruit_179.apk",
+        "app_activity": "com.adinnet.direcruit.ui.SplashActivity"
+    },
+    {
+        "app_name": "龙湖人才网",
+        "package_name": "com.longhujob.www",
+        "file_name": "com.longhujob.www_180.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "宏诚职聘",
+        "package_name": "io.zysiji.AE12DDA",
+        "file_name": "io.zysiji.AE12DDA_181.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "临聘",
+        "package_name": "com.lc.yijiaozhidi",
+        "file_name": "com.lc.yijiaozhidi_182.apk",
+        "app_activity": "com.lc.yijiaozhidi.ui.activity.common.LauncherActivity"
+    },
+    {
+        "app_name": "众推职聘",
+        "package_name": "com.ztzhipin.zhaopin",
+        "file_name": "com.ztzhipin.zhaopin_183.apk",
+        "app_activity": "com.ztzhipin.zhaopin.MainActivity"
+    },
+    {
+        "app_name": "应e聘",
+        "package_name": "com.benben.yingepin",
+        "file_name": "com.benben.yingepin_184.apk",
+        "app_activity": "com.benben.yingepin.SplashActivity"
+    },
+    {
+        "app_name": "江津人才网",
+        "package_name": "cn.jjrcw.job",
+        "file_name": "cn.jjrcw.job_185.apk",
+        "app_activity": "com.myjiedian.job.ui.welcome.WelcomeActivity"
+    }
+
+]

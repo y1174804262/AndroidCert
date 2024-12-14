@@ -1,0 +1,1646 @@
+[
+    {
+        "app_name": "宝技智联",
+        "package_name": "com.baoji.zliot",
+        "file_name": "com.baoji.zliot_1.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "WiFi雷达",
+        "package_name": "com.elaborcompr.authen",
+        "file_name": "com.elaborcompr.authen_2.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "测速WiFi伴侣",
+        "package_name": "twoqingli.com",
+        "file_name": "twoqingli.com_3.apk",
+        "app_activity": "com.zy.app.appcollection6.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "WiFidelity",
+        "package_name": "datafly.wifidelity.app",
+        "file_name": "datafly.wifidelity.app_4.apk",
+        "app_activity": "com.topology.availability.MainActivity"
+    },
+    {
+        "app_name": "WiFi神速连",
+        "package_name": "com.apparechubb.ephem",
+        "file_name": "com.apparechubb.ephem_5.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "立即连WiFi",
+        "package_name": "com.citedangl.anecdo",
+        "file_name": "com.citedangl.anecdo_6.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "万能WiFi互相连",
+        "package_name": "com.wifikey.gee",
+        "file_name": "com.wifikey.gee_7.apk",
+        "app_activity": "com.wifikey.tenthousands.app_wifi_flutter.MainActivity"
+    },
+    {
+        "app_name": "哆点校园",
+        "package_name": "com.drcom.DuoDianSchool",
+        "file_name": "com.drcom.DuoDianSchool_8.apk",
+        "app_activity": "com.drpalm.duodianbase.Activity.Startup.StartupActivity"
+    },
+    {
+        "app_name": "无忧WiFi钥匙",
+        "package_name": "com.executdefect.abhor",
+        "file_name": "com.executdefect.abhor_9.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "WiFi网速精准极客测",
+        "package_name": "com.tm.wsjztest",
+        "file_name": "com.tm.wsjztest_10.apk",
+        "app_activity": "com.ltmb.wifitest.WelcomeActivity"
+    },
+    {
+        "app_name": "绿洲WiFi",
+        "package_name": "com.crypticacid.arable",
+        "file_name": "com.crypticacid.arable_11.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "连连通WiFi",
+        "package_name": "com.extolanxio.ban",
+        "file_name": "com.extolanxio.ban_12.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "WiFi万网钥匙",
+        "package_name": "com.hnjw.wanwangkeys",
+        "file_name": "com.hnjw.wanwangkeys_13.apk",
+        "app_activity": "com.cssq.wifi.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "畅连无忧",
+        "package_name": "com.changlian.clwy.cn",
+        "file_name": "com.changlian.clwy.cn_14.apk",
+        "app_activity": "com.run.sports.main.privacy.PrivacyActivity"
+    },
+    {
+        "app_name": "WiFi速联钥匙",
+        "package_name": "android.youying.slys",
+        "file_name": "android.youying.slys_15.apk",
+        "app_activity": "xxx.a.activity.SplashActivityNew"
+    },
+    {
+        "app_name": "WiFi万流钥匙",
+        "package_name": "com.cszswifi.free",
+        "file_name": "com.cszswifi.free_16.apk",
+        "app_activity": "com.wifikey.tenthousands.app_wifi_flutter.MainActivity"
+    },
+    {
+        "app_name": "WiFi全能上网宝",
+        "package_name": "com.yhtl.wfqnswb",
+        "file_name": "com.yhtl.wfqnswb_17.apk",
+        "app_activity": "com.zozo.video.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "WiFi无限通",
+        "package_name": "com.discardconfli.suitab",
+        "file_name": "com.discardconfli.suitab_18.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "WiFi钥匙免费连",
+        "package_name": "cn.szyy2016.wfysmfl",
+        "file_name": "cn.szyy2016.wfysmfl_19.apk",
+        "app_activity": "cn.szyy2016.wfysmfl.a.SplashScreenActivity"
+    },
+    {
+        "app_name": "路由云端配置",
+        "package_name": "uni.UNIB8762A5",
+        "file_name": "uni.UNIB8762A5_20.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "超能上网侠",
+        "package_name": "com.elasticiaggrav.elevate",
+        "file_name": "com.elasticiaggrav.elevate_21.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "GLiNet路由器",
+        "package_name": "xyz.goodcloud.glinetcn",
+        "file_name": "xyz.goodcloud.glinetcn_22.apk",
+        "app_activity": "xyz.goodcloud.glinet.MainActivity"
+    },
+    {
+        "app_name": "无线网络宝",
+        "package_name": "com.wifi.wxwlb",
+        "file_name": "com.wifi.wxwlb_23.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "WiFi速连",
+        "package_name": "com.xyhdong.wifisldshi",
+        "file_name": "com.xyhdong.wifisldshi_24.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "MTmt管理器",
+        "package_name": "gfh.hguy.ghu",
+        "file_name": "gfh.hguy.ghu_25.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "好运连连",
+        "package_name": "com.betrayallegia.discrep",
+        "file_name": "com.betrayallegia.discrep_26.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "金牌WiFi",
+        "package_name": "com.ingrowt.excavat",
+        "file_name": "com.ingrowt.excavat_27.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "守护上网宝",
+        "package_name": "com.vgou.shswb",
+        "file_name": "com.vgou.shswb_28.apk",
+        "app_activity": "com.guzhen.main.LaunchActivity"
+    },
+    {
+        "app_name": "WiFi快手管家",
+        "package_name": "com.jiukui.wfksgj",
+        "file_name": "com.jiukui.wfksgj_29.apk",
+        "app_activity": "xxx.a.activity.SplashActivityNew"
+    },
+    {
+        "app_name": "欢畅流量",
+        "package_name": "com.sponsallude.growt",
+        "file_name": "com.sponsallude.growt_30.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "万能WiFi快捷连",
+        "package_name": "com.cunyi.network2002",
+        "file_name": "com.cunyi.network2002_31.apk",
+        "app_activity": "com.cunyi.network2002.c.F"
+    },
+    {
+        "app_name": "WiFi测速大全",
+        "package_name": "com.wifi.zhuanja",
+        "file_name": "com.wifi.zhuanja_32.apk",
+        "app_activity": "com.wifi.zhuanja.ui.HomeSplashActivity"
+    },
+    {
+        "app_name": "享连WiFi钥匙",
+        "package_name": "com.benevoequivo.conjec",
+        "file_name": "com.benevoequivo.conjec_33.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "网界先锋",
+        "package_name": "com.gum.internet.pioneer",
+        "file_name": "com.gum.internet.pioneer_34.apk",
+        "app_activity": "com.gum.internet.pioneer.control.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "WiFi小妙计",
+        "package_name": "com.emanciassidu.cherish",
+        "file_name": "com.emanciassidu.cherish_35.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "WiFi无线连接钥匙",
+        "package_name": "com.mygc.wlqhys",
+        "file_name": "com.mygc.wlqhys_36.apk",
+        "app_activity": "com.mygc.wlqhys.SplashActivity"
+    },
+    {
+        "app_name": "万能WIFI测网速",
+        "package_name": "com.qiutinghe.wuxian",
+        "file_name": "com.qiutinghe.wuxian_37.apk",
+        "app_activity": "com.qiutinghe.wuxian.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "WiFi防蹭网",
+        "package_name": "com.xylx.wifiprevent",
+        "file_name": "com.xylx.wifiprevent_38.apk",
+        "app_activity": "com.xylx.prevent.SPActivity"
+    },
+    {
+        "app_name": "先锋WiFi",
+        "package_name": "com.distinaudito.erect",
+        "file_name": "com.distinaudito.erect_39.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "好快WiFi",
+        "package_name": "com.haokuai.hkwifi.cn",
+        "file_name": "com.haokuai.hkwifi.cn_40.apk",
+        "app_activity": "com.run.sports.main.privacy.PrivacyActivity"
+    },
+    {
+        "app_name": "深i网",
+        "package_name": "com.szcity.wifi",
+        "file_name": "com.szcity.wifi_41.apk",
+        "app_activity": "com.richinfo.richwifi.MainActivity"
+    },
+    {
+        "app_name": "WiFi万能密钥",
+        "package_name": "com.csyzmkj.yzmwifi",
+        "file_name": "com.csyzmkj.yzmwifi_42.apk",
+        "app_activity": "com.cssq.wifi.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "无线信号助推器",
+        "package_name": "com.hzjweq.xinhao.zhutuiq",
+        "file_name": "com.hzjweq.xinhao.zhutuiq_43.apk",
+        "app_activity": "com.mpp.wsh.gjj.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "WLAN万能网络助手",
+        "package_name": "com.wnmm.pqmz",
+        "file_name": "com.wnmm.pqmz_44.apk",
+        "app_activity": "com.wnmm.pqmz.activty.StartActivity"
+    },
+    {
+        "app_name": "万能WiFi现场连",
+        "package_name": "com.hnfywifi.universal",
+        "file_name": "com.hnfywifi.universal_45.apk",
+        "app_activity": "com.wifikey.tenthousands.app_wifi_flutter.MainActivity"
+    },
+    {
+        "app_name": "WiFi钥匙一点连",
+        "package_name": "cn.rxxlong.ydlwifi",
+        "file_name": "cn.rxxlong.ydlwifi_46.apk",
+        "app_activity": "cn.rxxlong.ydlwifi.activity.AppWelcomeActivity"
+    },
+    {
+        "app_name": "上网无限连",
+        "package_name": "com.apparediscern.drip",
+        "file_name": "com.apparediscern.drip_47.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "万能wifi随时连",
+        "package_name": "com.nywifi.wnssl",
+        "file_name": "com.nywifi.wnssl_48.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "WiFi我能连",
+        "package_name": "com.appealdrench.agraria",
+        "file_name": "com.appealdrench.agraria_49.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "WiFi钥匙加速王",
+        "package_name": "com.jiukui.wfysjsw",
+        "file_name": "com.jiukui.wfysjsw_50.apk",
+        "app_activity": "xxx.a.activity.SplashActivityNew"
+    },
+    {
+        "app_name": "荷娱动感WiFi",
+        "package_name": "com.chopequita.coaliti",
+        "file_name": "com.chopequita.coaliti_51.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "WiFi超能钥匙",
+        "package_name": "com.bnnwlan.superman",
+        "file_name": "com.bnnwlan.superman_52.apk",
+        "app_activity": "com.cssq.wifi.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "WiFi万迅钥匙",
+        "package_name": "com.fywifithunderhn.wan",
+        "file_name": "com.fywifithunderhn.wan_53.apk",
+        "app_activity": "com.wifikey.tenthousands.app_wifi_flutter.MainActivity"
+    },
+    {
+        "app_name": "网维助手",
+        "package_name": "com.juqing.speedmanager",
+        "file_name": "com.juqing.speedmanager_54.apk",
+        "app_activity": "com.speedtest.module_home.ui.neterror.WelcomeActivity"
+    },
+    {
+        "app_name": "WiFi精灵管家",
+        "package_name": "com.hanyan.wifi.sprite",
+        "file_name": "com.hanyan.wifi.sprite_55.apk",
+        "app_activity": "com.hanyan.wifisprite.view.activity.WSMainSplashActivity"
+    },
+    {
+        "app_name": "WiFi钥匙全能连",
+        "package_name": "com.yx.wfysqnl",
+        "file_name": "com.yx.wfysqnl_56.apk",
+        "app_activity": "xxx.a.activity.SplashActivityNew"
+    },
+    {
+        "app_name": "万能WiFi精灵",
+        "package_name": "com.jiujing.wnwfjl",
+        "file_name": "com.jiujing.wnwfjl_57.apk",
+        "app_activity": "xxx.a.activity.SplashActivityNew"
+    },
+    {
+        "app_name": "玩转WiFi",
+        "package_name": "com.ephemenlist.engen",
+        "file_name": "com.ephemenlist.engen_58.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "WiFi流量宝",
+        "package_name": "com.liuliangbao.wfllb.cn",
+        "file_name": "com.liuliangbao.wfllb.cn_59.apk",
+        "app_activity": "com.run.sports.main.privacy.PrivacyActivity"
+    },
+    {
+        "app_name": "禧连WiFi",
+        "package_name": "com.givenaviator.evacuat",
+        "file_name": "com.givenaviator.evacuat_60.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "WiFi护盾",
+        "package_name": "com.hudun.wfhd.cn",
+        "file_name": "com.hudun.wfhd.cn_61.apk",
+        "app_activity": "com.run.sports.main.privacy.PrivacyActivity"
+    },
+    {
+        "app_name": "悠然WiFi",
+        "package_name": "com.dwelli.brutal",
+        "file_name": "com.dwelli.brutal_62.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "智控WiFi",
+        "package_name": "com.simpledesecra.acquie",
+        "file_name": "com.simpledesecra.acquie_63.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "速游先锋",
+        "package_name": "com.innsdu.efxayu.goa",
+        "file_name": "com.innsdu.efxayu.goa_64.apk",
+        "app_activity": "wifi.jiasu.jten.activty.StartActivity"
+    },
+    {
+        "app_name": "WiFi连接神器",
+        "package_name": "com.wifi.wifiljsq8dsa126gf",
+        "file_name": "com.wifi.wifiljsq8dsa126gf_65.apk",
+        "app_activity": "com.osrav.kcknp.qmjuyss.app.business.main.WI914eefe12c0979d101ac13f766d72acfFILJSQ"
+    },
+    {
+        "app_name": "宽带测速wifi",
+        "package_name": "com.zuoyeas.help",
+        "file_name": "com.zuoyeas.help_66.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "WF万能连接钥匙",
+        "package_name": "com.lhzpst.wfwnljys",
+        "file_name": "com.lhzpst.wfwnljys_67.apk",
+        "app_activity": "com.vtb.wifi.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "光速秒连",
+        "package_name": "com.lmqo.gsml",
+        "file_name": "com.lmqo.gsml_68.apk",
+        "app_activity": "com.guzhen.main.LaunchActivity"
+    },
+    {
+        "app_name": "安美网络通",
+        "package_name": "com.analysis.hotel",
+        "file_name": "com.analysis.hotel_69.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "邻家WiFi钥匙",
+        "package_name": "com.bluewifi.seeyao",
+        "file_name": "com.bluewifi.seeyao_70.apk",
+        "app_activity": "com.orange.zhongzo.view.SplashActivity"
+    },
+    {
+        "app_name": "乐遇WiFi",
+        "package_name": "com.xy.wifi.happyencounter",
+        "file_name": "com.xy.wifi.happyencounter_71.apk",
+        "app_activity": "com.xy.wifi.happyencounter.ui.splash.SplashActivityJZ"
+    },
+    {
+        "app_name": "爻爻WiFi大师",
+        "package_name": "com.sc.wifi.yaomaster",
+        "file_name": "com.sc.wifi.yaomaster_72.apk",
+        "app_activity": "com.sc.wifi.yaomaster.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "连我",
+        "package_name": "com.lianwo.wifi",
+        "file_name": "com.lianwo.wifi_73.apk",
+        "app_activity": "com.cloud.wifi.MainActivity"
+    },
+    {
+        "app_name": "WiFi万信钥匙",
+        "package_name": "com.hnzm.wanxinkeys",
+        "file_name": "com.hnzm.wanxinkeys_74.apk",
+        "app_activity": "com.cssq.wifi.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "智选wifi",
+        "package_name": "com.ekbq.zxwf",
+        "file_name": "com.ekbq.zxwf_75.apk",
+        "app_activity": "com.guzhen.main.LaunchActivity"
+    },
+    {
+        "app_name": "移动wifi宝",
+        "package_name": "com.ydwfb.wwwyidong",
+        "file_name": "com.ydwfb.wwwyidong_76.apk",
+        "app_activity": "com.ydwfb.wwwyidong.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "灯塔WiFi",
+        "package_name": "com.expendecora.crave",
+        "file_name": "com.expendecora.crave_77.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "万能速联WiFi",
+        "package_name": "cn.lingxi66.slwifi",
+        "file_name": "cn.lingxi66.slwifi_78.apk",
+        "app_activity": "cn.lingxi66.slwifi.b.J"
+    },
+    {
+        "app_name": "上网连连通",
+        "package_name": "com.anxiocorpu.suspen",
+        "file_name": "com.anxiocorpu.suspen_79.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "CloudCampus APP",
+        "package_name": "com.huawei.acceptance",
+        "file_name": "com.huawei.acceptance_80.apk",
+        "app_activity": "com.huawei.acceptance.PrivatePolicyMainActivity"
+    },
+    {
+        "app_name": "悦动WiFi",
+        "package_name": "com.avalancamphi.demise",
+        "file_name": "com.avalancamphi.demise_81.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "WiFi万能钥匙极速版",
+        "package_name": "com.snda.lantern.wifilocating",
+        "file_name": "com.snda.lantern.wifilocating_82.apk",
+        "app_activity": "com.wifitutu.ui.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "WiFi钥匙上网大师",
+        "package_name": "com.gzqy.ysswds",
+        "file_name": "com.gzqy.ysswds_83.apk",
+        "app_activity": "xxx.a.activity.SplashActivityNew"
+    },
+    {
+        "app_name": "通康智联",
+        "package_name": "com.tozed.tkzl",
+        "file_name": "com.tozed.tkzl_84.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "WiFi钥匙极速连",
+        "package_name": "com.hzbnle.ysjslian",
+        "file_name": "com.hzbnle.ysjslian_85.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "无线网防蹭精灵",
+        "package_name": "com.mzwwrcc.obmpqibc",
+        "file_name": "com.mzwwrcc.obmpqibc_86.apk",
+        "app_activity": "com.mzwwrcc.obmpqibc.splash.SplashActivity"
+    },
+    {
+        "app_name": "WiFi高能钥匙",
+        "package_name": "com.hzstong.wifignyshi",
+        "file_name": "com.hzstong.wifignyshi_87.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "简单连WiFi",
+        "package_name": "com.diluteemit.parts",
+        "file_name": "com.diluteemit.parts_88.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "WiFi无密钥匙",
+        "package_name": "com.yunxi.nopass.wifi.key",
+        "file_name": "com.yunxi.nopass.wifi.key_89.apk",
+        "app_activity": "com.yxnopass.wifikey.ui.activity.YXISplashActivity"
+    },
+    {
+        "app_name": "WiFi钥匙快",
+        "package_name": "com.ywwifi.ysk",
+        "file_name": "com.ywwifi.ysk_90.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "免流量上网助手",
+        "package_name": "com.demolauthen.adhere",
+        "file_name": "com.demolauthen.adhere_91.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "harvilon",
+        "package_name": "com.harvilon.mifi",
+        "file_name": "com.harvilon.mifi_92.apk",
+        "app_activity": "com.harvilon.mifi.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "万能WiFi全能王",
+        "package_name": "com.gzym.wnwfqnl",
+        "file_name": "com.gzym.wnwfqnl_93.apk",
+        "app_activity": "xxx.a.activity.SplashActivityNew"
+    },
+    {
+        "app_name": "网速流量测速",
+        "package_name": "ssc.wan.lan",
+        "file_name": "ssc.wan.lan_94.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "WiFi连接管家",
+        "package_name": "com.wifi.beidou",
+        "file_name": "com.wifi.beidou_95.apk",
+        "app_activity": "com.wifi.beidou.ui.HomeSplashActivity"
+    },
+    {
+        "app_name": "Viefong WiFi Assistant",
+        "package_name": "com.viefong.voice.wifiassistant",
+        "file_name": "com.viefong.voice.wifiassistant_96.apk",
+        "app_activity": "com.viefong.voice.ui.SplashActivity"
+    },
+    {
+        "app_name": "WiFi Password Helper",
+        "package_name": "com.linli.llwifi",
+        "file_name": "com.linli.llwifi_97.apk",
+        "app_activity": "com.linli.llwifi.activity.main.WelcomeActivity"
+    },
+    {
+        "app_name": "哆点IPv6助手",
+        "package_name": "com.doctorcom.ipv6assistant",
+        "file_name": "com.doctorcom.ipv6assistant_98.apk",
+        "app_activity": "com.drpalm.duodianbase.Activity.Startup.StartupActivity"
+    },
+    {
+        "app_name": "WIFI省流宝",
+        "package_name": "com.wuju.wifislbapp",
+        "file_name": "com.wuju.wifislbapp_99.apk",
+        "app_activity": "com.example.baseapp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "WiFi天天通",
+        "package_name": "com.curtbashfu.apathy",
+        "file_name": "com.curtbashfu.apathy_100.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "WiFi时时连",
+        "package_name": "com.calmdisper.arid",
+        "file_name": "com.calmdisper.arid_101.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "WiFi钥匙讯连免费",
+        "package_name": "com.xunsul.yuailai",
+        "file_name": "com.xunsul.yuailai_102.apk",
+        "app_activity": "com.xunsul.yuailai.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "万能WiFi一键连",
+        "package_name": "com.hnjmkj.jmwifi",
+        "file_name": "com.hnjmkj.jmwifi_103.apk",
+        "app_activity": "com.cssq.wifi.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "WIFI增强宝",
+        "package_name": "com.speed.wifi",
+        "file_name": "com.speed.wifi_104.apk",
+        "app_activity": "com.speed.wifi.activity.SplashActivity"
+    },
+    {
+        "app_name": "wifi免费连",
+        "package_name": "com.ljwifi.mfl",
+        "file_name": "com.ljwifi.mfl_105.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "WiFi钥匙每日连",
+        "package_name": "com.yika001.wifi",
+        "file_name": "com.yika001.wifi_106.apk",
+        "app_activity": "com.yika001.wifi.a.SplashAdActivity"
+    },
+    {
+        "app_name": "多连WiFi钥匙",
+        "package_name": "com.hzqzheng.dlwifiyshi",
+        "file_name": "com.hzqzheng.dlwifiyshi_107.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "WiFi网络钥匙",
+        "package_name": "com.sqspeed.key",
+        "file_name": "com.sqspeed.key_108.apk",
+        "app_activity": "com.cssq.tachymeter.ui.activity.NetSplashActivity"
+    },
+    {
+        "app_name": "MESH Wireless Router",
+        "package_name": "com.gslink.wirelessmgr",
+        "file_name": "com.gslink.wirelessmgr_109.apk",
+        "app_activity": "com.wirelessmgr.MainActivity"
+    },
+    {
+        "app_name": "万能WiFi连接大师",
+        "package_name": "com.wifi.univeran",
+        "file_name": "com.wifi.univeran_110.apk",
+        "app_activity": "com.wifi.enhancentme.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "WiFi钥匙闪速连",
+        "package_name": "com.diversiamazin.aversio",
+        "file_name": "com.diversiamazin.aversio_111.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "WiFi测速专家",
+        "package_name": "jhh.qyb.ckd",
+        "file_name": "jhh.qyb.ckd_112.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "随心上网王",
+        "package_name": "com.compuemblem.aggreg",
+        "file_name": "com.compuemblem.aggreg_113.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "万能WiFi连网密码",
+        "package_name": "com.rrfgdfgian.efvcviwifcok",
+        "file_name": "com.rrfgdfgian.efvcviwifcok_114.apk",
+        "app_activity": "com.zt.wifiassistant.ui.SplashActivity"
+    },
+    {
+        "app_name": "wifi信号检测仪",
+        "package_name": "com.wifiyibiyuihuanj.J",
+        "file_name": "com.wifiyibiyuihuanj.J_115.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "手机测速",
+        "package_name": "com.zhangfanfanuyiqiq.J",
+        "file_name": "com.zhangfanfanuyiqiq.J_116.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "万能WiFi随心连",
+        "package_name": "cn.kudou2021.wifi",
+        "file_name": "cn.kudou2021.wifi_117.apk",
+        "app_activity": "cn.kudou2021.wifi.ui.ac.SplashActivity"
+    },
+    {
+        "app_name": "向维记录仪",
+        "package_name": "com.chewei.hicam",
+        "file_name": "com.chewei.hicam_118.apk",
+        "app_activity": "com.damoa.dv.activitys.splash.SplashActivity"
+    },
+    {
+        "app_name": "WiFi钥匙趣连",
+        "package_name": "com.wifi.qulian",
+        "file_name": "com.wifi.qulian_119.apk",
+        "app_activity": "com.wifi.qulian.ui.HomeSplashActivity"
+    },
+    {
+        "app_name": "wifi信号检测仪精准",
+        "package_name": "com.wifiajksjjhhaskjue.J",
+        "file_name": "com.wifiajksjjhhaskjue.J_120.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "HaiTian Antenna WiFi",
+        "package_name": "com.xaht.wifi",
+        "file_name": "com.xaht.wifi_121.apk",
+        "app_activity": "com.xaht.wifi.network.SplashActivity"
+    },
+    {
+        "app_name": "无线密码显示器",
+        "package_name": "com.saomiuyasuods.J",
+        "file_name": "com.saomiuyasuods.J_122.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "智联上网宝",
+        "package_name": "com.avercapabl.chubb",
+        "file_name": "com.avercapabl.chubb_123.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "WiFi瞬连钥匙",
+        "package_name": "com.csgz.momentkey",
+        "file_name": "com.csgz.momentkey_124.apk",
+        "app_activity": "com.csgc.wifi.biz.other.activity.SplashActivity"
+    },
+    {
+        "app_name": "路由助手",
+        "package_name": "com.xiaoyi.wifitool",
+        "file_name": "com.xiaoyi.wifitool_125.apk",
+        "app_activity": "com.xiaoyi.wifitool.AD.FirstActivity"
+    },
+    {
+        "app_name": "极速流量宝",
+        "package_name": "com.bcgb.jsllb",
+        "file_name": "com.bcgb.jsllb_126.apk",
+        "app_activity": "com.guzhen.main.LaunchActivity"
+    },
+    {
+        "app_name": "起飞WiFi",
+        "package_name": "com.adjacenabyss.plump",
+        "file_name": "com.adjacenabyss.plump_127.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "WiFi密连钥匙",
+        "package_name": "com.sncg.ofudr",
+        "file_name": "com.sncg.ofudr_128.apk",
+        "app_activity": "com.sncg.ofudr.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "飞鹅WIFI配置",
+        "package_name": "com.dzist.wifi",
+        "file_name": "com.dzist.wifi_129.apk",
+        "app_activity": "com.dzist.wifi.MainActivity"
+    },
+    {
+        "app_name": "宇宙WiFi钥匙",
+        "package_name": "com.hh.wifispeed.kl",
+        "file_name": "com.hh.wifispeed.kl_130.apk",
+        "app_activity": "com.hh.wifispeed.kl.ui.HomeSplashActivity"
+    },
+    {
+        "app_name": "手机网络测速大师",
+        "package_name": "com.sjwlcsds.app",
+        "file_name": "com.sjwlcsds.app_131.apk",
+        "app_activity": "com.commonLib.libs.base.ui.SplashFullVideoActivity"
+    },
+    {
+        "app_name": "万能WiFi准连",
+        "package_name": "com.hzlchen.mlyshi",
+        "file_name": "com.hzlchen.mlyshi_132.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "闪电虾",
+        "package_name": "uni.UNIDF77E30",
+        "file_name": "uni.UNIDF77E30_133.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "智享WiFi精灵",
+        "package_name": "com.mh.wifi.zxwfjl",
+        "file_name": "com.mh.wifi.zxwfjl_134.apk",
+        "app_activity": "com.mh.wifi.zxwfjl.ui.splash.MSDNJWEKAN"
+    },
+    {
+        "app_name": "速通达WiFi",
+        "package_name": "com.mh.wifi.stdwf",
+        "file_name": "com.mh.wifi.stdwf_135.apk",
+        "app_activity": "com.mh.wifi.stdwf.ui.splash.YTRFDJTDL"
+    },
+    {
+        "app_name": "网络测速大师",
+        "package_name": "com.jie.speed",
+        "file_name": "com.jie.speed_136.apk",
+        "app_activity": "com.jie.speed.activity.LunchActivity"
+    },
+    {
+        "app_name": "WiFi自在连",
+        "package_name": "com.acquieappeas.calamit",
+        "file_name": "com.acquieappeas.calamit_137.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "WiFi信号钥匙",
+        "package_name": "com.csxa.signalkeys",
+        "file_name": "com.csxa.signalkeys_138.apk",
+        "app_activity": "com.cssq.wifi.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "岁月WiFi",
+        "package_name": "com.elevatecumbe.decay",
+        "file_name": "com.elevatecumbe.decay_139.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "即时WiFi",
+        "package_name": "com.elabordefecti.broach",
+        "file_name": "com.elabordefecti.broach_140.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "超快雷达通",
+        "package_name": "com.awkwardeclare.caricatu",
+        "file_name": "com.awkwardeclare.caricatu_141.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "WiFi来福",
+        "package_name": "com.desistdecay.demise",
+        "file_name": "com.desistdecay.demise_142.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "WiFi全速钥匙",
+        "package_name": "com.szfr.wifiqsys",
+        "file_name": "com.szfr.wifiqsys_143.apk",
+        "app_activity": "com.cssq.tachymeter.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "天天连WiFi",
+        "package_name": "com.hzstan.ttlian",
+        "file_name": "com.hzstan.ttlian_144.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "WiFi钥匙一键连",
+        "package_name": "com.sjz28wifi.openwif",
+        "file_name": "com.sjz28wifi.openwif_145.apk",
+        "app_activity": "com.sjz28wifi.openwif.activity.splash.SplashAppActivity"
+    },
+    {
+        "app_name": "万能wifi随身连",
+        "package_name": "com.nxwifi.wnsfl",
+        "file_name": "com.nxwifi.wnsfl_146.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "一键wifi连",
+        "package_name": "com.nxwifi.ysmml",
+        "file_name": "com.nxwifi.ysmml_147.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "WiFi密码万能",
+        "package_name": "ojh.iuy.ooi",
+        "file_name": "ojh.iuy.ooi_148.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "垚垚WiFi",
+        "package_name": "com.dh.wifi.yaoyao",
+        "file_name": "com.dh.wifi.yaoyao_149.apk",
+        "app_activity": "com.dh.wifi.yaoyao.ui.splash.SplashActivityZs"
+    },
+    {
+        "app_name": "魔力WiFi",
+        "package_name": "com.disrespexalt.carnag",
+        "file_name": "com.disrespexalt.carnag_150.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "省流量上网",
+        "package_name": "com.assaildiscou.abate",
+        "file_name": "com.assaildiscou.abate_151.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "昕想智慧家",
+        "package_name": "com.xinxiang.smarthome",
+        "file_name": "com.xinxiang.smarthome_152.apk",
+        "app_activity": "com.xinxiang.smarthome.MainActivity"
+    },
+    {
+        "app_name": "实时网速防蹭网",
+        "package_name": "dzdxwif.sen.com",
+        "file_name": "dzdxwif.sen.com_153.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "WiFi免费钥匙",
+        "package_name": "com.csxx.freewifi",
+        "file_name": "com.csxx.freewifi_154.apk",
+        "app_activity": "com.cssq.wifi.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "万能WiFi轻松连",
+        "package_name": "com.masterwftools.sfeasyconn",
+        "file_name": "com.masterwftools.sfeasyconn_155.apk",
+        "app_activity": "neo.android.ctscroge.tjb.launch.LauncherActivity"
+    },
+    {
+        "app_name": "WiFi万能钥匙",
+        "package_name": "com.snda.wifilocating",
+        "file_name": "com.snda.wifilocating_156.apk",
+        "app_activity": "com.wifitutu.ui.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "万能WiFi每天连",
+        "package_name": "com.wifikey.interesting",
+        "file_name": "com.wifikey.interesting_157.apk",
+        "app_activity": "com.wifikey.tenthousands.app_wifi_flutter.MainActivity"
+    },
+    {
+        "app_name": "万能WiFi快连",
+        "package_name": "cn.chendubichen.wnwfttl",
+        "file_name": "cn.chendubichen.wnwfttl_158.apk",
+        "app_activity": "cn.chendubichen.wnwfttl.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "加速WiFi高手",
+        "package_name": "android.wozi.jswfgs",
+        "file_name": "android.wozi.jswfgs_159.apk",
+        "app_activity": "xxx.a.activity.SplashActivityNew"
+    },
+    {
+        "app_name": "网联WiFi",
+        "package_name": "com.extractdelug.quiet",
+        "file_name": "com.extractdelug.quiet_160.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "WiFi万能秒连",
+        "package_name": "com.sqspeed.connect",
+        "file_name": "com.sqspeed.connect_161.apk",
+        "app_activity": "com.cssq.tachymeter.ui.activity.NetSplashActivity"
+    },
+    {
+        "app_name": "网速检测君",
+        "package_name": "jsqjhluz.comx",
+        "file_name": "jsqjhluz.comx_162.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "无线网测速高手",
+        "package_name": "com.wifisy.speedsy",
+        "file_name": "com.wifisy.speedsy_163.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "畅速WiFi",
+        "package_name": "com.changsu.cswf.cn",
+        "file_name": "com.changsu.cswf.cn_164.apk",
+        "app_activity": "com.run.sports.main.privacy.PrivacyActivity"
+    },
+    {
+        "app_name": "极速WiFi钥匙",
+        "package_name": "com.hzyuanting.wifiwndshi",
+        "file_name": "com.hzyuanting.wifiwndshi_165.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "秒搜WiFi助手",
+        "package_name": "com.wifi.manager.msassistant.phone",
+        "file_name": "com.wifi.manager.msassistant.phone_166.apk",
+        "app_activity": "com.wifi.master.EnterActivity"
+    },
+    {
+        "app_name": "万能WiFi钥匙王",
+        "package_name": "com.jlwlai.yssldshi",
+        "file_name": "com.jlwlai.yssldshi_167.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "闪连WiFi钥匙",
+        "package_name": "com.cqdyou.slyshi",
+        "file_name": "com.cqdyou.slyshi_168.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "WiFi万能网络",
+        "package_name": "com.cscm.monitorinternetkeys",
+        "file_name": "com.cscm.monitorinternetkeys_169.apk",
+        "app_activity": "com.cssq.wifi.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "WiFi分析仪",
+        "package_name": "com.lvxingetch.wifianalyzer",
+        "file_name": "com.lvxingetch.wifianalyzer_170.apk",
+        "app_activity": "com.lvxingetch.wifianalyzer.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "Dazoo",
+        "package_name": "com.idazoo.network",
+        "file_name": "com.idazoo.network_171.apk",
+        "app_activity": "com.idazoo.network.SplashActivity"
+    },
+    {
+        "app_name": "连接无线大师",
+        "package_name": "wuxian.aicier.wangluo",
+        "file_name": "wuxian.aicier.wangluo_172.apk",
+        "app_activity": "wuxian.aicier.wangluo.activty.StartActivity"
+    },
+    {
+        "app_name": "Speedtest",
+        "package_name": "com.mizhilan.cesu",
+        "file_name": "com.mizhilan.cesu_173.apk",
+        "app_activity": "com.sqcat.project.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "安徽掌上10000",
+        "package_name": "com.wondertek.ahPalm10000",
+        "file_name": "com.wondertek.ahPalm10000_174.apk",
+        "app_activity": "com.wondertek.ahPalm10000.activitys.WelcomeActivity"
+    },
+    {
+        "app_name": "WiFi极速钥匙",
+        "package_name": "com.wifi.jisu",
+        "file_name": "com.wifi.jisu_175.apk",
+        "app_activity": "com.wifi.jisu.ui.HomeSplashActivity"
+    },
+    {
+        "app_name": "一起连WiFi",
+        "package_name": "com.conflimetho.suspen",
+        "file_name": "com.conflimetho.suspen_176.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "悟空连WiFi",
+        "package_name": "com.zsl.wifi",
+        "file_name": "com.zsl.wifi_177.apk",
+        "app_activity": "com.wifi.robot.ui.activities.LogoActivity"
+    },
+    {
+        "app_name": "WiFi万测钥匙",
+        "package_name": "com.cslx.wifiwcys",
+        "file_name": "com.cslx.wifiwcys_178.apk",
+        "app_activity": "net.miginfocom.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "WiFi万链钥匙",
+        "package_name": "com.cslx.wifiwlys",
+        "file_name": "com.cslx.wifiwlys_179.apk",
+        "app_activity": "com.cssq.tachymeter.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "流量测速大师",
+        "package_name": "com.yuanshen.paintyq",
+        "file_name": "com.yuanshen.paintyq_180.apk",
+        "app_activity": "com.syezon.qv.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "WiFi时长管家",
+        "package_name": "com.calamitdesecra.execut",
+        "file_name": "com.calamitdesecra.execut_181.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "路由配置",
+        "package_name": "uni.UNI2256397",
+        "file_name": "uni.UNI2256397_182.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "寺由WiFi",
+        "package_name": "com.kmgxd.siyou",
+        "file_name": "com.kmgxd.siyou_183.apk",
+        "app_activity": "com.tracy.common.ui.SplashActivity"
+    },
+    {
+        "app_name": "晨曦WiFi",
+        "package_name": "com.enmityaband.efface",
+        "file_name": "com.enmityaband.efface_184.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "WiFi万能现连",
+        "package_name": "com.bnnwifi.quick",
+        "file_name": "com.bnnwifi.quick_185.apk",
+        "app_activity": "com.wifikey.tenthousands.app_wifi_flutter.MainActivity"
+    },
+    {
+        "app_name": "WiFi流量钥匙",
+        "package_name": "com.csch.flowuniversalkeys",
+        "file_name": "com.csch.flowuniversalkeys_186.apk",
+        "app_activity": "com.cssq.wifi.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "WiFi密码揭秘",
+        "package_name": "android.wozi.wfmmjm",
+        "file_name": "android.wozi.wfmmjm_187.apk",
+        "app_activity": "xxx.a.activity.SplashActivityNew"
+    },
+    {
+        "app_name": "WiFi热点多多",
+        "package_name": "android.wozi.wfrddd",
+        "file_name": "android.wozi.wfrddd_188.apk",
+        "app_activity": "xxx.a.activity.SplashActivityNew"
+    },
+    {
+        "app_name": "平行WiFi",
+        "package_name": "com.ppwifi.app",
+        "file_name": "com.ppwifi.app_189.apk",
+        "app_activity": "com.ppwifi.app.ui.BootstrapActivity"
+    },
+    {
+        "app_name": "乐享WiFi钥匙",
+        "package_name": "com.extravaimmers.impor",
+        "file_name": "com.extravaimmers.impor_190.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "星链WiFi钥匙",
+        "package_name": "com.wfspace.starlink",
+        "file_name": "com.wfspace.starlink_191.apk",
+        "app_activity": "com.wfspace.starlink.ui.launcher.AppLauncherActivity"
+    },
+    {
+        "app_name": "移动测网速",
+        "package_name": "com.binaqinajishidjju.J",
+        "file_name": "com.binaqinajishidjju.J_192.apk",
+        "app_activity": "com.zy.app.appcollection6.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "万能WiFi上网",
+        "package_name": "com.nmhgtesdw.ewfdvcgxiii",
+        "file_name": "com.nmhgtesdw.ewfdvcgxiii_193.apk",
+        "app_activity": "myapplication.activity.base.ui.SplashActivity"
+    },
+    {
+        "app_name": "爱快e云",
+        "package_name": "com.aikuai.ecloud",
+        "file_name": "com.aikuai.ecloud_194.apk",
+        "app_activity": "com.aikuai.ecloud.view.SplashActivity"
+    },
+    {
+        "app_name": "WiFi万智钥匙",
+        "package_name": "com.hh.wifikey",
+        "file_name": "com.hh.wifikey_195.apk",
+        "app_activity": "com.hh.wifikey.ui.HomeSplashActivity"
+    },
+    {
+        "app_name": "网络钥匙",
+        "package_name": "com.tainqizhiliangdaji.J",
+        "file_name": "com.tainqizhiliangdaji.J_196.apk",
+        "app_activity": "com.zy.app.appcollection6.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "LinkHelper",
+        "package_name": "com.allmything.linkhelper",
+        "file_name": "com.allmything.linkhelper_197.apk",
+        "app_activity": "com.stub.stub01.StartActivity"
+    },
+    {
+        "app_name": "万能WiFi闪电连",
+        "package_name": "android.goctsxi.wnsdl",
+        "file_name": "android.goctsxi.wnsdl_198.apk",
+        "app_activity": "xxx.a.activity.SplashActivityNew"
+    },
+    {
+        "app_name": "上网连通宝",
+        "package_name": "com.crouchthoro.audito",
+        "file_name": "com.crouchthoro.audito_199.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "wifi加速连接（不限流量）",
+        "package_name": "com.xiaoningtech.wificom",
+        "file_name": "com.xiaoningtech.wificom_200.apk",
+        "app_activity": "com.xiaoningtech.wificom.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "灮灮WiFi流量",
+        "package_name": "com.lq.wifi.guangtraffic",
+        "file_name": "com.lq.wifi.guangtraffic_201.apk",
+        "app_activity": "com.lq.wifi.guangtraffic.ui.splash.SplashActivityZs"
+    },
+    {
+        "app_name": "WiFi万量钥匙",
+        "package_name": "com.wifikey.tenthousands",
+        "file_name": "com.wifikey.tenthousands_202.apk",
+        "app_activity": "com.wifikey.tenthousands.app_wifi_flutter.MainActivity"
+    },
+    {
+        "app_name": "吉牛物联",
+        "package_name": "com.bw.iot.sweet_home_app",
+        "file_name": "com.bw.iot.sweet_home_app_203.apk",
+        "app_activity": "com.bw.iot.sweet_home_app.MainActivity"
+    },
+    {
+        "app_name": "卓越上网伴侣",
+        "package_name": "com.conferimpor.daring",
+        "file_name": "com.conferimpor.daring_204.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "优享WiFi钥匙",
+        "package_name": "com.newwifi.youxiangwifi",
+        "file_name": "com.newwifi.youxiangwifi_205.apk",
+        "app_activity": "com.alipay.sdk.m.a0.ski7"
+    },
+    {
+        "app_name": "来享WiFi助手",
+        "package_name": "com.canvassdescry.desecra",
+        "file_name": "com.canvassdescry.desecra_206.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "WiFi钥匙链接快",
+        "package_name": "com.hzyka.ysljkuai",
+        "file_name": "com.hzyka.ysljkuai_207.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "WiFi共享钥匙",
+        "package_name": "com.mx.wifikey",
+        "file_name": "com.mx.wifikey_208.apk",
+        "app_activity": "com.mx.wifikey.activity.SplashActivity"
+    },
+    {
+        "app_name": "WIFI万能锁匙",
+        "package_name": "cn.xky.netsafe",
+        "file_name": "cn.xky.netsafe_209.apk",
+        "app_activity": "cn.xky.netsafe.activity.SplashActivity"
+    },
+    {
+        "app_name": "幻影pin",
+        "package_name": "huanyin.wifi.zhishi",
+        "file_name": "huanyin.wifi.zhishi_210.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "格行",
+        "package_name": "com.xinjin.application",
+        "file_name": "com.xinjin.application_211.apk",
+        "app_activity": "com.xinjin.application.login.LoginMainActivity"
+    },
+    {
+        "app_name": "行车拍拍",
+        "package_name": "com.xingchepaipai.hicam",
+        "file_name": "com.xingchepaipai.hicam_212.apk",
+        "app_activity": "com.damoa.dv.activitys.splash.SplashActivity"
+    },
+    {
+        "app_name": "WiFi能连钥匙",
+        "package_name": "com.wfifdj.ceight",
+        "file_name": "com.wfifdj.ceight_213.apk",
+        "app_activity": "com.wfifdj.ceight.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "WiFi万灵钥匙",
+        "package_name": "com.joyai.wifikeywanling",
+        "file_name": "com.joyai.wifikeywanling_214.apk",
+        "app_activity": "com.lezhi.niubiwifi.mainframe.splash.SplashActivity"
+    },
+    {
+        "app_name": "网速精灵",
+        "package_name": "com.wangsu.wsjl.cn",
+        "file_name": "com.wangsu.wsjl.cn_215.apk",
+        "app_activity": "com.run.sports.main.privacy.PrivacyActivity"
+    },
+    {
+        "app_name": "智小巧管理端",
+        "package_name": "com.duxapp.mifiagent",
+        "file_name": "com.duxapp.mifiagent_216.apk",
+        "app_activity": "com.duxapp.mifiagent.MainActivity"
+    },
+    {
+        "app_name": "网速卫士",
+        "package_name": "com.wangsu.wsws.cn",
+        "file_name": "com.wangsu.wsws.cn_217.apk",
+        "app_activity": "com.run.sports.main.privacy.PrivacyActivity"
+    },
+    {
+        "app_name": "wifi信道",
+        "package_name": "xgsevewf.com",
+        "file_name": "xgsevewf.com_218.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "附近wifi速连",
+        "package_name": "com.zdwifi.fjsl",
+        "file_name": "com.zdwifi.fjsl_219.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "wifi万能增强器",
+        "package_name": "com.wifixinhao.wanneng.zhushou",
+        "file_name": "com.wifixinhao.wanneng.zhushou_220.apk",
+        "app_activity": "com.jinmo.module_splash.SplashActivity"
+    },
+    {
+        "app_name": "WiFi万速钥匙",
+        "package_name": "com.cshzm.speedwifi",
+        "file_name": "com.cshzm.speedwifi_221.apk",
+        "app_activity": "com.cssq.wifi.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "WiFi优化",
+        "package_name": "com.xinluku.wifi.optimize",
+        "file_name": "com.xinluku.wifi.optimize_222.apk",
+        "app_activity": "com.xinluku.wifiopt.ui.activity.YHSplashActivity"
+    },
+    {
+        "app_name": "WiFi万用钥匙",
+        "package_name": "com.csyzm.safewifi",
+        "file_name": "com.csyzm.safewifi_223.apk",
+        "app_activity": "com.cssq.wifi.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "智能5GWiFi宝",
+        "package_name": "com.drawbbalmy.brutal",
+        "file_name": "com.drawbbalmy.brutal_224.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "WiFi钥匙天天连",
+        "package_name": "com.youying.wfysttl",
+        "file_name": "com.youying.wfysttl_225.apk",
+        "app_activity": "xxx.a.activity.SplashActivityNew"
+    },
+    {
+        "app_name": "Speedtest 极速测试",
+        "package_name": "org.zwanoo.android.speedtest.china",
+        "file_name": "org.zwanoo.android.speedtest.china_226.apk",
+        "app_activity": "com.ookla.mobile4.screens.main.MainActivity"
+    },
+    {
+        "app_name": "WiFi去连钥匙",
+        "package_name": "com.mohatech.wifigo",
+        "file_name": "com.mohatech.wifigo_227.apk",
+        "app_activity": "com.mohatech.wifigo.MainActivity"
+    },
+    {
+        "app_name": "万能WiFi小时连",
+        "package_name": "cn.biying100.mflwifi",
+        "file_name": "cn.biying100.mflwifi_228.apk",
+        "app_activity": "cn.biying100.mflwifi.ui.welcome.AppSplashActivity"
+    },
+    {
+        "app_name": "飞速5GWiFi",
+        "package_name": "com.zhaoxin.fswifi",
+        "file_name": "com.zhaoxin.fswifi_229.apk",
+        "app_activity": "com.walk.home.health.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "万能WIFI连接锁匙",
+        "package_name": "com.renyi.whorub",
+        "file_name": "com.renyi.whorub_230.apk",
+        "app_activity": "com.renyi.whorub.common.SplashActivity"
+    },
+    {
+        "app_name": "无敌WiFi",
+        "package_name": "com.wifixandroid.server.ctsats",
+        "file_name": "com.wifixandroid.server.ctsats_231.apk",
+        "app_activity": "xxx.a.activity.SplashActivityNew"
+    },
+    {
+        "app_name": "无忧WiFi精灵",
+        "package_name": "com.baldextol.comme",
+        "file_name": "com.baldextol.comme_232.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "附近wifi快连",
+        "package_name": "com.nywifi.fjkl",
+        "file_name": "com.nywifi.fjkl_233.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "飞速连上网",
+        "package_name": "com.buttreenume.compi",
+        "file_name": "com.buttreenume.compi_234.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "免费WiFi测速",
+        "package_name": "ces.cec.suq",
+        "file_name": "ces.cec.suq_235.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "开薪免费WiFi管家",
+        "package_name": "com.imeigoo.tool.wifiapp",
+        "file_name": "com.imeigoo.tool.wifiapp_236.apk",
+        "app_activity": "com.imeigoo.battery.PrivacyPolicyActivity"
+    },
+    {
+        "app_name": "WiFi钥匙超能连",
+        "package_name": "com.wifi.velgcityh",
+        "file_name": "com.wifi.velgcityh_237.apk",
+        "app_activity": "com.wifi.gsafeh.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "万能WiFi守护宝",
+        "package_name": "com.gwo.wnwfshb",
+        "file_name": "com.gwo.wnwfshb_238.apk",
+        "app_activity": "xxx.a.activity.SplashActivityNew"
+    },
+    {
+        "app_name": "新晨快连WiFi",
+        "package_name": "com.csyo.xcklwf",
+        "file_name": "com.csyo.xcklwf_239.apk",
+        "app_activity": "aa.w022.SplashActivity"
+    },
+    {
+        "app_name": "Speedtest5g",
+        "package_name": "cn.nokia.speedtest5g",
+        "file_name": "cn.nokia.speedtest5g_240.apk",
+        "app_activity": "cn.nokia.speedtest5g.app.activity.LoadingActivity"
+    },
+    {
+        "app_name": "WiFi质量分析",
+        "package_name": "com.qishu.wifianalyzer",
+        "file_name": "com.qishu.wifianalyzer_241.apk",
+        "app_activity": "com.lvxingetch.wifianalyzer.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "万能WiFi智连",
+        "package_name": "com.bywifi.wnzl",
+        "file_name": "com.bywifi.wnzl_242.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "流光WiFi",
+        "package_name": "com.liuguang.lgwf.cn",
+        "file_name": "com.liuguang.lgwf.cn_243.apk",
+        "app_activity": "com.run.sports.main.privacy.PrivacyActivity"
+    },
+    {
+        "app_name": "WiFi全能钥匙助手",
+        "package_name": "com.exhorchop.collab",
+        "file_name": "com.exhorchop.collab_244.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "速联WiFi测速精灵",
+        "package_name": "cn.rxxlong.wifi",
+        "file_name": "cn.rxxlong.wifi_245.apk",
+        "app_activity": "cn.rxxlong.wifi.ui.activity.LaunchScreenActivity"
+    },
+    {
+        "app_name": "WiFi连网钥匙",
+        "package_name": "com.erdffgbbnq.efdvbbnmii",
+        "file_name": "com.erdffgbbnq.efdvbbnmii_246.apk",
+        "app_activity": "com.zt.wifiassistant.ui.SplashActivity"
+    },
+    {
+        "app_name": "免费快连wifi",
+        "package_name": "com.zdwifi.mf",
+        "file_name": "com.zdwifi.mf_247.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "羚羊wifi",
+        "package_name": "xly.lingyangwifi.adts",
+        "file_name": "xly.lingyangwifi.adts_248.apk",
+        "app_activity": "com.dexun.wz.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "万连WiFi钥匙快",
+        "package_name": "com.hzjingke.wlwfyskuai",
+        "file_name": "com.hzjingke.wlwfyskuai_249.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "星力聚WiFi万能宝",
+        "package_name": "com.discorembos.dunce",
+        "file_name": "com.discorembos.dunce_250.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "超强WiFi大师",
+        "package_name": "com.besieghistor.apt",
+        "file_name": "com.besieghistor.apt_251.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "WiFi免密钥匙",
+        "package_name": "com.xnxzmkj.xnwifi",
+        "file_name": "com.xnxzmkj.xnwifi_252.apk",
+        "app_activity": "com.cssq.wifi.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "WiFi全速连",
+        "package_name": "com.consecbeam.extrava",
+        "file_name": "com.consecbeam.extrava_253.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "WiFi万连钥匙",
+        "package_name": "com.hnzm.wanliankeys",
+        "file_name": "com.hnzm.wanliankeys_254.apk",
+        "app_activity": "com.cssq.wifi.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "超快WiFi钥匙",
+        "package_name": "com.gzym.ckwfys",
+        "file_name": "com.gzym.ckwfys_255.apk",
+        "app_activity": "xxx.a.activity.SplashActivityNew"
+    },
+    {
+        "app_name": "悦联WiFi",
+        "package_name": "com.yuelian.ylwf.cn",
+        "file_name": "com.yuelian.ylwf.cn_256.apk",
+        "app_activity": "com.run.sports.main.privacy.PrivacyActivity"
+    },
+    {
+        "app_name": "福泽WiFi",
+        "package_name": "cn.luck.wifi.fzwifi",
+        "file_name": "cn.luck.wifi.fzwifi_257.apk",
+        "app_activity": "com.geek.superpower.ui.activity.CNDCGJSplashActivity"
+    },
+    {
+        "app_name": "Tenda 掌中宝",
+        "package_name": "com.tenda.ims",
+        "file_name": "com.tenda.ims_258.apk",
+        "app_activity": "com.ipcom.ims.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "WiFi万能速连",
+        "package_name": "com.hzsq.wifiyssl",
+        "file_name": "com.hzsq.wifiyssl_259.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "WiFi飞连钥匙",
+        "package_name": "com.wifi.feilian",
+        "file_name": "com.wifi.feilian_260.apk",
+        "app_activity": "com.wifi.feilian.ui.HomeSplashActivity"
+    },
+    {
+        "app_name": "如意连wifi",
+        "package_name": "com.mlkq.rylwf",
+        "file_name": "com.mlkq.rylwf_261.apk",
+        "app_activity": "com.guzhen.main.LaunchActivity"
+    },
+    {
+        "app_name": "万能WiFi钥连连",
+        "package_name": "cn.kudou.wifiyll",
+        "file_name": "cn.kudou.wifiyll_262.apk",
+        "app_activity": "cn.kudou.wifiyll.b.M"
+    },
+    {
+        "app_name": "畅行WiFi",
+        "package_name": "com.chasmamenab.string",
+        "file_name": "com.chasmamenab.string_263.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "中国电信",
+        "package_name": "com.ct.client",
+        "file_name": "com.ct.client_264.apk",
+        "app_activity": "com.ct.client.activity.SplashActivity"
+    },
+    {
+        "app_name": "360家庭防火墙",
+        "package_name": "com.qihoo.srouter.n300",
+        "file_name": "com.qihoo.srouter.n300_265.apk",
+        "app_activity": "com.ifenglian.superapp.ui.splash.SAWelcomeActivity"
+    },
+    {
+        "app_name": "超能WiFi万能连",
+        "package_name": "android.jiukui.cnwfwnl",
+        "file_name": "android.jiukui.cnwfwnl_266.apk",
+        "app_activity": "xxx.a.activity.SplashActivityNew"
+    },
+    {
+        "app_name": "万连钥匙WLAN网络",
+        "package_name": "com.zhaoxin.wifiys",
+        "file_name": "com.zhaoxin.wifiys_267.apk",
+        "app_activity": "com.sqcatx.project.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "WiFi钥匙天天连免费",
+        "package_name": "com.wifittl.xrx",
+        "file_name": "com.wifittl.xrx_268.apk",
+        "app_activity": "com.wifittl.xrx.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "WiFi万解钥匙",
+        "package_name": "com.cscy.wanjiekeys",
+        "file_name": "com.cscy.wanjiekeys_269.apk",
+        "app_activity": "com.cssq.wifi.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "WiFi钥匙能连",
+        "package_name": "com.cnwifi.ysnl",
+        "file_name": "com.cnwifi.ysnl_270.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "中国移动",
+        "package_name": "com.greenpoint.android.mc10086.activity",
+        "file_name": "com.greenpoint.android.mc10086.activity_271.apk",
+        "app_activity": "com.mc10086.cmcc.base.StartPageActivity"
+    },
+    {
+        "app_name": "WiFi密码查看钥匙",
+        "package_name": "com.zlwifi.mmckq",
+        "file_name": "com.zlwifi.mmckq_272.apk",
+        "app_activity": "com.zlwifi.mmckq.SplashActivity"
+    },
+    {
+        "app_name": "WiFi连连通",
+        "package_name": "com.avalancblund.defini",
+        "file_name": "com.avalancblund.defini_273.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "洱川WiFi",
+        "package_name": "com.kmdd.erchuan",
+        "file_name": "com.kmdd.erchuan_274.apk",
+        "app_activity": "com.tracy.common.ui.SplashActivity"
+    }
+]

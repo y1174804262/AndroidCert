@@ -1,0 +1,2967 @@
+[
+    {
+        "app_name": "时事政治真题",
+        "package_name": "tech.lightsoft.politics",
+        "file_name": "tech.lightsoft.politics_1.apk",
+        "app_activity": "tech.lightsoft.politics.Activities.SplashActivity"
+    },
+    {
+        "app_name": "普通话测试言鸟",
+        "package_name": "com.huahua.testing",
+        "file_name": "com.huahua.testing_2.apk",
+        "app_activity": "com.huahua.other.vm.WelcomeActivity"
+    },
+    {
+        "app_name": "益考通",
+        "package_name": "com.yunduan.yikaotong",
+        "file_name": "com.yunduan.yikaotong_3.apk",
+        "app_activity": "com.yunduan.yikaotong.module.account.activity.WeComeActivity"
+    },
+    {
+        "app_name": "焊工证宝典",
+        "package_name": "com.hzkj.app.hzkjhg",
+        "file_name": "com.hzkj.app.hzkjhg_4.apk",
+        "app_activity": "com.hzkj.app.hzkjhg.ui.act.SplashActivity"
+    },
+    {
+        "app_name": "成人高考成考",
+        "package_name": "com.crgk.eduol",
+        "file_name": "com.crgk.eduol_5.apk",
+        "app_activity": "com.crgk.eduol.ui.activity.home.AppSplashActivity"
+    },
+    {
+        "app_name": "上岸巴士",
+        "package_name": "question.shanganbus.com",
+        "file_name": "question.shanganbus.com_6.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "小黑课堂",
+        "package_name": "com.xhkt.classroom",
+        "file_name": "com.xhkt.classroom_7.apk",
+        "app_activity": "com.xhkt.classroom.activity.LauncherActivity"
+    },
+    {
+        "app_name": "一起考教师",
+        "package_name": "com.tsingzone.questionbank",
+        "file_name": "com.tsingzone.questionbank_8.apk",
+        "app_activity": "com.yiqischool.login.moduleSplash.YQSplashActivity"
+    },
+    {
+        "app_name": "MOJiTest",
+        "package_name": "com.mojitec.mojitest",
+        "file_name": "com.mojitec.mojitest_9.apk",
+        "app_activity": "com.mojitec.mojitest.home.SplashActivity"
+    },
+    {
+        "app_name": "研呱呱",
+        "package_name": "uni.UNIB5ED93E",
+        "file_name": "uni.UNIB5ED93E_10.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "教师资格证考试聚题库",
+        "package_name": "com.s20cxq.teacher",
+        "file_name": "com.s20cxq.teacher_11.apk",
+        "app_activity": "com.s20cxq.question.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "粉笔会计",
+        "package_name": "com.fenbi.android.kuaiji",
+        "file_name": "com.fenbi.android.kuaiji_12.apk",
+        "app_activity": "com.fenbi.android.module.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "驾照考试直通车",
+        "package_name": "com.qiutinghe.jiakao",
+        "file_name": "com.qiutinghe.jiakao_13.apk",
+        "app_activity": "com.qiutinghe.jiakao.MainActivity"
+    },
+    {
+        "app_name": "军队文职考试宝典",
+        "package_name": "yc.com.civilian",
+        "file_name": "yc.com.civilian_14.apk",
+        "app_activity": "yc.com.civilian.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "摩托车驾驶证考试宝典",
+        "package_name": "tai.motorbike.driver",
+        "file_name": "tai.motorbike.driver_15.apk",
+        "app_activity": "com.quexin.motuoche.activity.StartActivity"
+    },
+    {
+        "app_name": "船员通",
+        "package_name": "com.koalait.cyt",
+        "file_name": "com.koalait.cyt_16.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "SPA线上考级",
+        "package_name": "com.caifulife.musiconlinetest",
+        "file_name": "com.caifulife.musiconlinetest_17.apk",
+        "app_activity": "com.caifulife.musiconlinetest.activity.SplashActivity"
+    },
+    {
+        "app_name": "不挂科",
+        "package_name": "com.baidu.student",
+        "file_name": "com.baidu.student_18.apk",
+        "app_activity": "com.baidu.student.splash.view.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "安全员考试真题库宝典",
+        "package_name": "uni.UNIB81CC2E",
+        "file_name": "uni.UNIB81CC2E_19.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "疯狂刷题",
+        "package_name": "com.yaerxing.fkst",
+        "file_name": "com.yaerxing.fkst_20.apk",
+        "app_activity": "com.yaerxing.fkst.activity.SplashActivity"
+    },
+    {
+        "app_name": "智考题库",
+        "package_name": "com.zhikao666.www",
+        "file_name": "com.zhikao666.www_21.apk",
+        "app_activity": "com.zhikao666.www.MainActivity"
+    },
+    {
+        "app_name": "上岸鸭公考",
+        "package_name": "com.gaodun.apps.shanganya",
+        "file_name": "com.gaodun.apps.shanganya_22.apk",
+        "app_activity": "com.xbcx.gdwx3.account.page.WelcomeActivity"
+    },
+    {
+        "app_name": "托福考满分",
+        "package_name": "com.kaomanfen.kaotuofu",
+        "file_name": "com.kaomanfen.kaotuofu_23.apk",
+        "app_activity": "com.kaomanfen.kaotuofu.activity.AppStartActivity"
+    },
+    {
+        "app_name": "MemoryHelper",
+        "package_name": "com.fujianjin6471.memoryhelper",
+        "file_name": "com.fujianjin6471.memoryhelper_24.apk",
+        "app_activity": "com.fujianjin6471.memoryhelper.MainActivity"
+    },
+    {
+        "app_name": "低压电工题库",
+        "package_name": "com.evoka.jinengjia",
+        "file_name": "com.evoka.jinengjia_25.apk",
+        "app_activity": "com.unity3d.player.UnityPlayerActivity"
+    },
+    {
+        "app_name": "行政执法考试题库",
+        "package_name": "com.ujigu.exam.xzzfks",
+        "file_name": "com.ujigu.exam.xzzfks_26.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "摩托车驾考",
+        "package_name": "com.kwm.motorcycle",
+        "file_name": "com.kwm.motorcycle_27.apk",
+        "app_activity": "com.kwm.motorcycle.activity.SplashActivity"
+    },
+    {
+        "app_name": "中公教育",
+        "package_name": "com.offcn.android.offcn",
+        "file_name": "com.offcn.android.offcn_28.apk",
+        "app_activity": "com.offcn.android.offcn.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "税务师随身学",
+        "package_name": "com.onesoft.app.Tiiku.Duia.SWSSSX",
+        "file_name": "com.onesoft.app.Tiiku.Duia.SWSSSX_29.apk",
+        "app_activity": "com.duia.ssx.app_ssx.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "安全工程师准题库",
+        "package_name": "cn.wangxiao.aqzhuntiku",
+        "file_name": "cn.wangxiao.aqzhuntiku_30.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "职更鸟课堂",
+        "package_name": "com.zgengniao.android.kuaiji",
+        "file_name": "com.zgengniao.android.kuaiji_31.apk",
+        "app_activity": "com.fenbi.android.module.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "广西成考",
+        "package_name": "cn.gxeea.crgk",
+        "file_name": "cn.gxeea.crgk_32.apk",
+        "app_activity": "com.rninit.MainActivity"
+    },
+    {
+        "app_name": "考试知己",
+        "package_name": "com.apicloud.kaoshizhiji",
+        "file_name": "com.apicloud.kaoshizhiji_33.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "圆梦志愿",
+        "package_name": "com.yuanmengzhiyuan.ei8z.yuanmeng_app",
+        "file_name": "com.yuanmengzhiyuan.ei8z.yuanmeng_app_34.apk",
+        "app_activity": "com.yuanmengzhiyuan.ei8z.yuanmeng_app.module.appHome.MainActivity"
+    },
+    {
+        "app_name": "高考历史通",
+        "package_name": "com.moyun365.android.gkhistorytong",
+        "file_name": "com.moyun365.android.gkhistorytong_35.apk",
+        "app_activity": "com.moyun365.android.gkhistorytong.activity.SplashActivity"
+    },
+    {
+        "app_name": "考试宝典",
+        "package_name": "com.yingsoft.ksbao.Activity",
+        "file_name": "com.yingsoft.ksbao.Activity_36.apk",
+        "app_activity": "com.yingteng.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "考研政治",
+        "package_name": "com.ikaoshi.kaoyan.politics",
+        "file_name": "com.ikaoshi.kaoyan.politics_37.apk",
+        "app_activity": "com.ikaoshi.kaoyan.politics.activity.Login.InitActivity"
+    },
+    {
+        "app_name": "证券从业帮考题库",
+        "package_name": "cn.bkw_securities",
+        "file_name": "cn.bkw_securities_38.apk",
+        "app_activity": "com.billionquestionbank.loginandregister.SplashActivity"
+    },
+    {
+        "app_name": "执业药师准题库",
+        "package_name": "cn.wangxiao.yaoshizhuntiku",
+        "file_name": "cn.wangxiao.yaoshizhuntiku_39.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "湖北音协考级",
+        "package_name": "com.xiaoyibang.gradetest",
+        "file_name": "com.xiaoyibang.gradetest_40.apk",
+        "app_activity": "com.xiaoyibang.gradetest.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "畅言普通话",
+        "package_name": "com.iflytek.chinese.mandarin_simulation_test",
+        "file_name": "com.iflytek.chinese.mandarin_simulation_test_41.apk",
+        "app_activity": "com.iflytek.chinese.mandarin_simulation_test.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "音壳乐理视唱练耳",
+        "package_name": "musictheory.xinweitech.cn.musictheory",
+        "file_name": "musictheory.xinweitech.cn.musictheory_42.apk",
+        "app_activity": "musictheory.xinweitech.cn.musictheory.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "申庭教育",
+        "package_name": "syzkwx.com.wx",
+        "file_name": "syzkwx.com.wx_43.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "公选王遴选",
+        "package_name": "com.gongxuanwang.linxuan",
+        "file_name": "com.gongxuanwang.linxuan_44.apk",
+        "app_activity": "com.gongxuanwang.linxuan.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "考试宝",
+        "package_name": "com.kaoshibaodian.app",
+        "file_name": "com.kaoshibaodian.app_45.apk",
+        "app_activity": "ksbd.app.category.SplashActivity"
+    },
+    {
+        "app_name": "考试蚁",
+        "package_name": "com.uuedu.examant",
+        "file_name": "com.uuedu.examant_46.apk",
+        "app_activity": "com.uuedu.examant.SplashActivity"
+    },
+    {
+        "app_name": "计算机二级宝典",
+        "package_name": "me.hxyfj.computer",
+        "file_name": "me.hxyfj.computer_47.apk",
+        "app_activity": "me.hxyfj.computer.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "金标尺公考",
+        "package_name": "cn.net.tiku.jbcgk.syn",
+        "file_name": "cn.net.tiku.jbcgk.syn_48.apk",
+        "app_activity": "cn.net.tiku.shikaobang.syn.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "深蓝法考",
+        "package_name": "com.neoteched.shenlancity",
+        "file_name": "com.neoteched.shenlancity_49.apk",
+        "app_activity": "com.neoteched.shenlancity.activity.SplashActivity"
+    },
+    {
+        "app_name": "统计师准题库",
+        "package_name": "cn.wangxiao.tjzhuntiku",
+        "file_name": "cn.wangxiao.tjzhuntiku_50.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "银行从业资格考试",
+        "package_name": "com.xuesaieducation.yinhang",
+        "file_name": "com.xuesaieducation.yinhang_51.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "高职单招考试聚题库",
+        "package_name": "com.s20cxq.senioriup",
+        "file_name": "com.s20cxq.senioriup_52.apk",
+        "app_activity": "com.s20cxq.question.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "考研轻松学",
+        "package_name": "com.csxx.postgraguateclickthrough",
+        "file_name": "com.csxx.postgraguateclickthrough_53.apk",
+        "app_activity": "com.csxx.postgraguateclickthrough.MainActivity"
+    },
+    {
+        "app_name": "星华遴选",
+        "package_name": "com.xhlinxuan.android.linxuan",
+        "file_name": "com.xhlinxuan.android.linxuan_54.apk",
+        "app_activity": "com.fenbi.android.module.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "仁和会计",
+        "package_name": "com.whrhkj.cailueapp",
+        "file_name": "com.whrhkj.cailueapp_55.apk",
+        "app_activity": "com.whrhkj.cailueapp.activity.SplashActivity"
+    },
+    {
+        "app_name": "安规题库",
+        "package_name": "com.csh.angui",
+        "file_name": "com.csh.angui_56.apk",
+        "app_activity": "com.csh.angui.ui.HomeSplashActivity2"
+    },
+    {
+        "app_name": "人力资源快题库",
+        "package_name": "com.android.tiku.chrp",
+        "file_name": "com.android.tiku.chrp_57.apk",
+        "app_activity": "com.hqwx.android.tiku.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "教师资格证一点通",
+        "package_name": "com.csxx.teacherclickthrough",
+        "file_name": "com.csxx.teacherclickthrough_58.apk",
+        "app_activity": "com.csxx.teacherclickthrough.MainActivity"
+    },
+    {
+        "app_name": "菁优网",
+        "package_name": "jyeoo.app.ystudy",
+        "file_name": "jyeoo.app.ystudy_59.apk",
+        "app_activity": "jyeoo.app.ystudy.Welcome"
+    },
+    {
+        "app_name": "钉题库",
+        "package_name": "com.lishi.shengyu",
+        "file_name": "com.lishi.shengyu_60.apk",
+        "app_activity": "com.lishi.dingtiku.activity.SlpshActivity"
+    },
+    {
+        "app_name": "社会艺术考级平台",
+        "package_name": "com.example.yiqiexa",
+        "file_name": "com.example.yiqiexa_61.apk",
+        "app_activity": "com.picker_view.yiqiexa.ui.launch.LaunchActivity"
+    },
+    {
+        "app_name": "审计师准题库",
+        "package_name": "cn.wangxiao.sjzhuntiku",
+        "file_name": "cn.wangxiao.sjzhuntiku_62.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "高考网theDays倒数日",
+        "package_name": "com.zxtech.gaokao",
+        "file_name": "com.zxtech.gaokao_63.apk",
+        "app_activity": "com.zxtech.gaokao.MainActivity"
+    },
+    {
+        "app_name": "自考之了题库",
+        "package_name": "com.dourenxing.qualification",
+        "file_name": "com.dourenxing.qualification_64.apk",
+        "app_activity": "com.zlketang.shenji.ui.SplashActivity"
+    },
+    {
+        "app_name": "云习",
+        "package_name": "com.jeanho.yunxinet",
+        "file_name": "com.jeanho.yunxinet_65.apk",
+        "app_activity": "com.jeanho.yunxinet.MainActivity"
+    },
+    {
+        "app_name": "考研帮",
+        "package_name": "com.tal.kaoyan",
+        "file_name": "com.tal.kaoyan_66.apk",
+        "app_activity": "com.tal.kaoyan.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "博傲金题",
+        "package_name": "com.zjtd.boaojinti",
+        "file_name": "com.zjtd.boaojinti_67.apk",
+        "app_activity": "com.zjtd.boaojinti.SplashActivity"
+    },
+    {
+        "app_name": "学法减分拍照搜题",
+        "package_name": "com.runbey.xfjf",
+        "file_name": "com.runbey.xfjf_68.apk",
+        "app_activity": "com.runbey.xfjf.module.welcome.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "高考日历倒计时",
+        "package_name": "com.gaokaocal.cal",
+        "file_name": "com.gaokaocal.cal_69.apk",
+        "app_activity": "com.gaokaocal.cal.activity.MainActivity"
+    },
+    {
+        "app_name": "国家电网安规考试聚题库",
+        "package_name": "com.s20cxq.electricsafe",
+        "file_name": "com.s20cxq.electricsafe_70.apk",
+        "app_activity": "com.s20cxq.question.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "考必过",
+        "package_name": "com.meetSpring.kbg",
+        "file_name": "com.meetSpring.kbg_71.apk",
+        "app_activity": "com.meetSpring.kbg.MainActivity"
+    },
+    {
+        "app_name": "高考物理通",
+        "package_name": "com.moyun365.android.gkphysicaltong",
+        "file_name": "com.moyun365.android.gkphysicaltong_72.apk",
+        "app_activity": "com.moyun365.android.gkphysicaltong.activity.SplashActivity"
+    },
+    {
+        "app_name": "辅警协警考试聚题库",
+        "package_name": "com.s20cxq.exam",
+        "file_name": "com.s20cxq.exam_73.apk",
+        "app_activity": "com.s20cxq.question.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "之了会计课堂",
+        "package_name": "com.zhiliaogroup.kuaiji",
+        "file_name": "com.zhiliaogroup.kuaiji_74.apk",
+        "app_activity": "com.zlketang.shenji.ui.SplashActivity"
+    },
+    {
+        "app_name": "云校学堂",
+        "package_name": "com.cloudschool.edu",
+        "file_name": "com.cloudschool.edu_75.apk",
+        "app_activity": "com.zaixue.module.app.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "优志愿",
+        "package_name": "com.eagersoft.youzy.youzy",
+        "file_name": "com.eagersoft.youzy.youzy_76.apk",
+        "app_activity": "com.eagersoft.youzy.youzy.mvvm.ui.launch.LaunchActivity"
+    },
+    {
+        "app_name": "证课堂",
+        "package_name": "com.cqmapp.zkt",
+        "file_name": "com.cqmapp.zkt_77.apk",
+        "app_activity": "com.cqmapp.zkt.MainActivity"
+    },
+    {
+        "app_name": "教安VR模拟软件",
+        "package_name": "com.javr.zjad",
+        "file_name": "com.javr.zjad_78.apk",
+        "app_activity": "com.javr.zjad.MainActivity"
+    },
+    {
+        "app_name": "咪鸭课堂",
+        "package_name": "com.miyaketang.mykt",
+        "file_name": "com.miyaketang.mykt_79.apk",
+        "app_activity": "com.miyaketang.mykt.MainActivity"
+    },
+    {
+        "app_name": "建题帮",
+        "package_name": "cn.ock123.jzbd",
+        "file_name": "cn.ock123.jzbd_80.apk",
+        "app_activity": "cn.ock123.jzbd.MainActivity"
+    },
+    {
+        "app_name": "小霞会计",
+        "package_name": "com.xiaoxiakj",
+        "file_name": "com.xiaoxiakj_81.apk",
+        "app_activity": "com.xiaoxiakj.LoadingActivity"
+    },
+    {
+        "app_name": "润德教育",
+        "package_name": "com.runde.edu",
+        "file_name": "com.runde.edu_82.apk",
+        "app_activity": "com.runde.edu.SplashActivity"
+    },
+    {
+        "app_name": "驾考备忘录",
+        "package_name": "com.bnndrivingtest.dairy",
+        "file_name": "com.bnndrivingtest.dairy_83.apk",
+        "app_activity": "com.cssq.drivingtest.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "粉笔考研",
+        "package_name": "com.fenbi.android.kyzz",
+        "file_name": "com.fenbi.android.kyzz_84.apk",
+        "app_activity": "com.fenbi.android.module.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "启航教育",
+        "package_name": "com.yizhilu.qh",
+        "file_name": "com.yizhilu.qh_85.apk",
+        "app_activity": "com.yizhilu.qh.activity.login.LaunchActivity"
+    },
+    {
+        "app_name": "维词初中",
+        "package_name": "com.android.weici.junior.student",
+        "file_name": "com.android.weici.junior.student_86.apk",
+        "app_activity": "com.android.weici.senior.student.ui.SplashActivity"
+    },
+    {
+        "app_name": "智评",
+        "package_name": "com.nature.skillexam",
+        "file_name": "com.nature.skillexam_87.apk",
+        "app_activity": "com.nature.skillexam.MainActivity"
+    },
+    {
+        "app_name": "考试宝企业版",
+        "package_name": "com.kaoshibao.qiye",
+        "file_name": "com.kaoshibao.qiye_88.apk",
+        "app_activity": "ksbd.app.category.SplashActivity"
+    },
+    {
+        "app_name": "一建万题库",
+        "package_name": "com.exam8.yijian",
+        "file_name": "com.exam8.yijian_89.apk",
+        "app_activity": "com.exam8.newer.tiku.test_activity.WelcomePhoneActivity"
+    },
+    {
+        "app_name": "速题库",
+        "package_name": "com.sutiku.app",
+        "file_name": "com.sutiku.app_90.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "新东方出国考试",
+        "package_name": "com.koolearn.android.cg",
+        "file_name": "com.koolearn.android.cg_91.apk",
+        "app_activity": "com.koolearn.android.WelComeActivity"
+    },
+    {
+        "app_name": "高考真题",
+        "package_name": "com.jumen.gaokao",
+        "file_name": "com.jumen.gaokao_92.apk",
+        "app_activity": "com.jumen.gaokao.Start.UserInfoSelectActivity"
+    },
+    {
+        "app_name": "消考宝",
+        "package_name": "org.qiao.xiaokaobao",
+        "file_name": "org.qiao.xiaokaobao_93.apk",
+        "app_activity": "org.qiao.xiaokaobao.view.LaunchActivity"
+    },
+    {
+        "app_name": "网校在线课堂",
+        "package_name": "com.examw.main.chaosw",
+        "file_name": "com.examw.main.chaosw_94.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "公共营养师考试聚题库",
+        "package_name": "com.s20cxq.dietitian",
+        "file_name": "com.s20cxq.dietitian_95.apk",
+        "app_activity": "com.s20cxq.question.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "银行易考",
+        "package_name": "com.udit.bankexam",
+        "file_name": "com.udit.bankexam_96.apk",
+        "app_activity": "com.udit.bankexam.ui.SplashActivity"
+    },
+    {
+        "app_name": "维词",
+        "package_name": "com.android.weici.senior.student",
+        "file_name": "com.android.weici.senior.student_97.apk",
+        "app_activity": "com.android.weici.senior.student.ui.SplashActivity"
+    },
+    {
+        "app_name": "山香网校",
+        "package_name": "com.shanxiang.wangxiao",
+        "file_name": "com.shanxiang.wangxiao_98.apk",
+        "app_activity": "com.shanxiang.wangxiao.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "潇湘高考",
+        "package_name": "com.ksxxzk.edu",
+        "file_name": "com.ksxxzk.edu_99.apk",
+        "app_activity": "com.chinacreator.c2_edu.ui.activity.EduSplashActivity"
+    },
+    {
+        "app_name": "社会工作者准题库",
+        "package_name": "cn.wangxiao.shgzhuntiku",
+        "file_name": "cn.wangxiao.shgzhuntiku_100.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "羿文教育",
+        "package_name": "com.yiwen.edu",
+        "file_name": "com.yiwen.edu_101.apk",
+        "app_activity": "com.yiwen.module.app.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "库课网校",
+        "package_name": "com.kuke",
+        "file_name": "com.kuke_102.apk",
+        "app_activity": "com.kuke.module_business_splash.ui.SplashActivity"
+    },
+    {
+        "app_name": "道路运输企业两类人员考试",
+        "package_name": "dlys.xuezhiti.app",
+        "file_name": "dlys.xuezhiti.app_103.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "阳光志愿高考填报",
+        "package_name": "com.weixiao.gaokao",
+        "file_name": "com.weixiao.gaokao_104.apk",
+        "app_activity": "com.example.unimpdemo.activity.BootActivity"
+    },
+    {
+        "app_name": "红师在线",
+        "package_name": "cn.net.hteacher.study",
+        "file_name": "cn.net.hteacher.study_105.apk",
+        "app_activity": "cn.dingwei.cloud_classroom.MainActivity"
+    },
+    {
+        "app_name": "二建万题库",
+        "package_name": "com.exam8.twojian",
+        "file_name": "com.exam8.twojian_106.apk",
+        "app_activity": "com.exam8.newer.tiku.test_activity.WelcomePhoneActivity"
+    },
+    {
+        "app_name": "试卷100",
+        "package_name": "com.scanexam.zuoye",
+        "file_name": "com.scanexam.zuoye_107.apk",
+        "app_activity": "com.testpaper.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "房地产经纪人准题库",
+        "package_name": "cn.wangxiao.jjrzhuntiku",
+        "file_name": "cn.wangxiao.jjrzhuntiku_108.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "海绵MBA",
+        "package_name": "com.sponge.mba",
+        "file_name": "com.sponge.mba_109.apk",
+        "app_activity": "com.mba.logic.SplashActivity"
+    },
+    {
+        "app_name": "事业编刷题",
+        "package_name": "com.bhiiay.nauhte.iss",
+        "file_name": "com.bhiiay.nauhte.iss_110.apk",
+        "app_activity": "com.bhiiay.nauhte.iss.activity.StartActivity"
+    },
+    {
+        "app_name": "希望优课",
+        "package_name": "com.xiwang.youke",
+        "file_name": "com.xiwang.youke_111.apk",
+        "app_activity": "com.xueersi.parentsmeeting.module.home.LaunchActivity"
+    },
+    {
+        "app_name": "学为贵雅思",
+        "package_name": "com.guixue.m",
+        "file_name": "com.guixue.m_112.apk",
+        "app_activity": "com.guixue.m.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "中欣网校",
+        "package_name": "com.education.zhongxinvideo",
+        "file_name": "com.education.zhongxinvideo_113.apk",
+        "app_activity": "com.zx.zxjy.activity.ActivitySplash"
+    },
+    {
+        "app_name": "上学吧",
+        "package_name": "com.shangxueba.open.sxb",
+        "file_name": "com.shangxueba.open.sxb_114.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "考得尚网校",
+        "package_name": "com.kaodeshang.goldbg",
+        "file_name": "com.kaodeshang.goldbg_115.apk",
+        "app_activity": "com.kaodeshang.goldbg.ui.main_welcome.MainWelcomeActivity"
+    },
+    {
+        "app_name": "超格教育",
+        "package_name": "com.chaoge.athena_android",
+        "file_name": "com.chaoge.athena_android_116.apk",
+        "app_activity": "com.chaoge.athena_android.appmain.MainActivity"
+    },
+    {
+        "app_name": "高考直通车",
+        "package_name": "az.studio.gkztc",
+        "file_name": "az.studio.gkztc_117.apk",
+        "app_activity": "az.studio.gkztc.AppStart"
+    },
+    {
+        "app_name": "易面酷",
+        "package_name": "com.huatu.mianshi.main.ui",
+        "file_name": "com.huatu.mianshi.main.ui_118.apk",
+        "app_activity": "com.huatu.mianshi.main.ui.business.SplashActivity"
+    },
+    {
+        "app_name": "导游证考试",
+        "package_name": "com.nd.up91.p459",
+        "file_name": "com.nd.up91.p459_119.apk",
+        "app_activity": "com.hy.up91.android.edu.view.user.SplashActivity"
+    },
+    {
+        "app_name": "策未来",
+        "package_name": "cn.eduexam.cwlapp",
+        "file_name": "cn.eduexam.cwlapp_120.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "新途径在线",
+        "package_name": "com.xtj.xtjonline",
+        "file_name": "com.xtj.xtjonline_121.apk",
+        "app_activity": "com.xtj.xtjonline.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "拿捏艺术",
+        "package_name": "com.yiqixueyi.nnysky",
+        "file_name": "com.yiqixueyi.nnysky_122.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "哎上课专升本",
+        "package_name": "com.nanyuan.nanyuan_android",
+        "file_name": "com.nanyuan.nanyuan_android_123.apk",
+        "app_activity": "com.nanyuan.nanyuan_android.appmain.MainActivity"
+    },
+    {
+        "app_name": "笔袋",
+        "package_name": "com.gaojiua.bd",
+        "file_name": "com.gaojiua.bd_124.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "好题库",
+        "package_name": "com.wehqt.tiku.jianzhuj",
+        "file_name": "com.wehqt.tiku.jianzhuj_125.apk",
+        "app_activity": "com.wehqt.tiku.jianzhuj.MainActivity"
+    },
+    {
+        "app_name": "护士加",
+        "package_name": "com.jkhh.nurse",
+        "file_name": "com.jkhh.nurse_126.apk",
+        "app_activity": "com.jkhh.nurse.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "天一网校",
+        "package_name": "com.tywh.school",
+        "file_name": "com.tywh.school_127.apk",
+        "app_activity": "com.tywh.school.SplashActivity"
+    },
+    {
+        "app_name": "良善会计",
+        "package_name": "ls.lsacc.edu",
+        "file_name": "ls.lsacc.edu_128.apk",
+        "app_activity": "com.yuxin.yunduoketang.view.activity.home.SplashActivity"
+    },
+    {
+        "app_name": "华研法硕",
+        "package_name": "com.baijiayun.huayanjinbang",
+        "file_name": "com.baijiayun.huayanjinbang_129.apk",
+        "app_activity": "com.bjywxapp.SplashActivity"
+    },
+    {
+        "app_name": "网校题库",
+        "package_name": "com.yunyxwm.wangxiao",
+        "file_name": "com.yunyxwm.wangxiao_130.apk",
+        "app_activity": "com.yunyxwm.module.app.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "美好明天课堂",
+        "package_name": "com.betterfuture.app.account",
+        "file_name": "com.betterfuture.app.account_131.apk",
+        "app_activity": "com.betterfuture.app.account.activity.home.WelcomeActivity"
+    },
+    {
+        "app_name": "成人高考聚题库",
+        "package_name": "com.s20cxq.adultscollege",
+        "file_name": "com.s20cxq.adultscollege_132.apk",
+        "app_activity": "com.s20cxq.question.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "会计云课堂",
+        "package_name": "com.dongao.kaoqian.phone",
+        "file_name": "com.dongao.kaoqian.phone_133.apk",
+        "app_activity": "com.dongao.kaoqian.phone.WelcomeActivity"
+    },
+    {
+        "app_name": "司法考试题库自考王",
+        "package_name": "com.tianxiang.fakaozkw",
+        "file_name": "com.tianxiang.fakaozkw_134.apk",
+        "app_activity": "com.tianxiang.fakaozkw.fk_ui.bis_main.view.GuideActivity"
+    },
+    {
+        "app_name": "事考帮",
+        "package_name": "cn.net.tiku.shikaobang.syn",
+        "file_name": "cn.net.tiku.shikaobang.syn_136.apk",
+        "app_activity": "cn.net.tiku.shikaobang.syn.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "华图在线",
+        "package_name": "com.huatu.handheld_huatu",
+        "file_name": "com.huatu.handheld_huatu_137.apk",
+        "app_activity": "com.huatu.handheld_huatu.business.guide.SplashActivity"
+    },
+    {
+        "app_name": "百通在线",
+        "package_name": "com.baitongzaixian.app",
+        "file_name": "com.baitongzaixian.app_138.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "233网校",
+        "package_name": "com.example.examda",
+        "file_name": "com.example.examda_139.apk",
+        "app_activity": "com.example.examda.activity.E01_AccessActivity"
+    },
+    {
+        "app_name": "考研倒计时",
+        "package_name": "com.cqzxkj.kaoyancountdown",
+        "file_name": "com.cqzxkj.kaoyancountdown_140.apk",
+        "app_activity": "com.cqzxkj.gaokaocountdown.NewLoadingActivity"
+    },
+    {
+        "app_name": "医家医考",
+        "package_name": "com.yjyk.app",
+        "file_name": "com.yjyk.app_141.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "考羿教育",
+        "package_name": "com.kaoyiedu.edu",
+        "file_name": "com.kaoyiedu.edu_142.apk",
+        "app_activity": "com.kaoyiedu.module.app.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "揽星会计CPA",
+        "package_name": "com.lanxingkaoshi.cpa",
+        "file_name": "com.lanxingkaoshi.cpa_143.apk",
+        "app_activity": "com.lanxingkaoshi.cpa.ui.page.LaunchActivity"
+    },
+    {
+        "app_name": "竹马",
+        "package_name": "com.zhumaonline.exercise",
+        "file_name": "com.zhumaonline.exercise_144.apk",
+        "app_activity": "com.zhongheschool.live.RequestUserPremissKotlin"
+    },
+    {
+        "app_name": "掌上考研",
+        "package_name": "cn.eol.kaoyan",
+        "file_name": "cn.eol.kaoyan_145.apk",
+        "app_activity": "cn.eol.kaoyan.MainActivity"
+    },
+    {
+        "app_name": "成考网成人高考",
+        "package_name": "com.hongfengye.adultexamination",
+        "file_name": "com.hongfengye.adultexamination_146.apk",
+        "app_activity": "com.hongfengye.adultexamination.activity.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "科科通",
+        "package_name": "com.meitiapp.kkt",
+        "file_name": "com.meitiapp.kkt_147.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "安规题库",
+        "package_name": "com.instech.angui",
+        "file_name": "com.instech.angui_148.apk",
+        "app_activity": "com.xinren.app.exercise.activity.LoadActivity"
+    },
+    {
+        "app_name": "易军考",
+        "package_name": "com.yijunkao.wangxiao",
+        "file_name": "com.yijunkao.wangxiao_149.apk",
+        "app_activity": "com.bjywxapp.SplashActivity"
+    },
+    {
+        "app_name": "社区工作者",
+        "package_name": "info.ishared.sqgzz",
+        "file_name": "info.ishared.sqgzz_150.apk",
+        "app_activity": "com.xinren.app.exercise.activity.LoadActivity"
+    },
+    {
+        "app_name": "公考雷达",
+        "package_name": "com.maidu.gkld",
+        "file_name": "com.maidu.gkld_151.apk",
+        "app_activity": "com.maidu.gkld.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "一起考教师教招版",
+        "package_name": "com.tsingzone.teacherrecruit",
+        "file_name": "com.tsingzone.teacherrecruit_152.apk",
+        "app_activity": "com.yiqischool.login.moduleSplash.YQSplashActivity"
+    },
+    {
+        "app_name": "摩托车考试",
+        "package_name": "com.motok.drive.lic",
+        "file_name": "com.motok.drive.lic_153.apk",
+        "app_activity": "com.motok.drive.lic.activity.StartActivity"
+    },
+    {
+        "app_name": "识宇职考",
+        "package_name": "cn.stkjszx.android",
+        "file_name": "cn.stkjszx.android_154.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "题王争霸",
+        "package_name": "com.babybar.headking",
+        "file_name": "com.babybar.headking_155.apk",
+        "app_activity": "com.babybar.headking.admin.activity.SplashActivity"
+    },
+    {
+        "app_name": "希赛医卫题库",
+        "package_name": "cn.educity.exam.yw",
+        "file_name": "cn.educity.exam.yw_156.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "一二级建造师准题库",
+        "package_name": "cn.wangxiao.jz2zhuntiku",
+        "file_name": "cn.wangxiao.jz2zhuntiku_157.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "普通话测评",
+        "package_name": "com.luyiyun.mandarin",
+        "file_name": "com.luyiyun.mandarin_158.apk",
+        "app_activity": "com.luyiyun.mandarin.MainActivity"
+    },
+    {
+        "app_name": "丁香医考",
+        "package_name": "cn.dxy.inderal",
+        "file_name": "cn.dxy.inderal_159.apk",
+        "app_activity": "cn.dxy.inderal.view.activity.LoadingActivity"
+    },
+    {
+        "app_name": "导游资格证准题库",
+        "package_name": "cn.wangxiao.dyzhuntiku",
+        "file_name": "cn.wangxiao.dyzhuntiku_160.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "高途公考",
+        "package_name": "com.gaotu100.gongkao",
+        "file_name": "com.gaotu100.gongkao_161.apk",
+        "app_activity": "com.gaotu100.superclass.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "电工考试题库",
+        "package_name": "com.ujigu.tcdiangong",
+        "file_name": "com.ujigu.tcdiangong_162.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "八桂高考",
+        "package_name": "com.chinacreator.mobile.gx",
+        "file_name": "com.chinacreator.mobile.gx_163.apk",
+        "app_activity": "com.c2.mobile.library.SplashActivity"
+    },
+    {
+        "app_name": "教师资格准题库",
+        "package_name": "cn.wangxiao.jszzhuntiku",
+        "file_name": "cn.wangxiao.jszzhuntiku_164.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "智博在线",
+        "package_name": "com.zhibo.edu",
+        "file_name": "com.zhibo.edu_165.apk",
+        "app_activity": "com.zhibo.edu.MainActivity"
+    },
+    {
+        "app_name": "易哈佛",
+        "package_name": "app.ehafo",
+        "file_name": "app.ehafo_166.apk",
+        "app_activity": "app.ehafo.MainActivity"
+    },
+    {
+        "app_name": "文职帮",
+        "package_name": "com.wenzhibang.study",
+        "file_name": "com.wenzhibang.study_167.apk",
+        "app_activity": "cn.dingwei.cloud_classroom.MainActivity"
+    },
+    {
+        "app_name": "高考化学通",
+        "package_name": "com.moyun365.android.gkchemistrytong",
+        "file_name": "com.moyun365.android.gkchemistrytong_168.apk",
+        "app_activity": "com.moyun365.android.gkchemistrytong.activity.SplashActivity"
+    },
+    {
+        "app_name": "熊猫自考",
+        "package_name": "com.xiongmaozikao.XiongmaoProject",
+        "file_name": "com.xiongmaozikao.XiongmaoProject_169.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "中远博途",
+        "package_name": "com.zhidian.zybt.app",
+        "file_name": "com.zhidian.zybt.app_170.apk",
+        "app_activity": "cn.dingwei.cloud_classroom.MainActivity"
+    },
+    {
+        "app_name": "萤火虫PTE",
+        "package_name": "org.nayu.fireflyenlightenment",
+        "file_name": "org.nayu.fireflyenlightenment_171.apk",
+        "app_activity": "org.nayu.fireflyenlightenment.SplashAct"
+    },
+    {
+        "app_name": "日语单词",
+        "package_name": "com.japanwords.client",
+        "file_name": "com.japanwords.client_172.apk",
+        "app_activity": "com.japanwords.client.ui.init.InitActivity"
+    },
+    {
+        "app_name": "妙懂地理",
+        "package_name": "com.cnhsqk.dili",
+        "file_name": "com.cnhsqk.dili_173.apk",
+        "app_activity": "com.unity3d.player.PrivacyActivity"
+    },
+    {
+        "app_name": "自考365",
+        "package_name": "com.cdel.zikao.phone",
+        "file_name": "com.cdel.zikao.phone_174.apk",
+        "app_activity": "com.cdel.accmobile.app.ui.SplashActivity"
+    },
+    {
+        "app_name": "金题护考",
+        "package_name": "com.ykpass.jintihukao",
+        "file_name": "com.ykpass.jintihukao_175.apk",
+        "app_activity": "com.ykpass.jintihukao.SplashActivity"
+    },
+    {
+        "app_name": "星题库",
+        "package_name": "com.xingheng.escollection",
+        "file_name": "com.xingheng.escollection_176.apk",
+        "app_activity": "com.xingheng.xingtiku.SplashActivity"
+    },
+    {
+        "app_name": "电工考试",
+        "package_name": "org.yy.electrician",
+        "file_name": "org.yy.electrician_177.apk",
+        "app_activity": "org.yy.electrician.SplashActivity"
+    },
+    {
+        "app_name": "当老师",
+        "package_name": "com.ruicheng.teacher",
+        "file_name": "com.ruicheng.teacher_178.apk",
+        "app_activity": "com.ruicheng.teacher.Activity.SplashActivity"
+    },
+    {
+        "app_name": "自考过啦",
+        "package_name": "net.chinaedu.wepass",
+        "file_name": "net.chinaedu.wepass_179.apk",
+        "app_activity": "net.chinaedu.wepass.function.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "莽学教育",
+        "package_name": "com.mangxuejy.edu",
+        "file_name": "com.mangxuejy.edu_180.apk",
+        "app_activity": "com.mangxuejy.module.app.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "知道",
+        "package_name": "com.zysc.zhidao",
+        "file_name": "com.zysc.zhidao_181.apk",
+        "app_activity": "com.example.zhidao.MainActivity"
+    },
+    {
+        "app_name": "行测练题狗",
+        "package_name": "com.afexamination.zhidian",
+        "file_name": "com.afexamination.zhidian_182.apk",
+        "app_activity": "cn.dingwei.cloud_classroom.MainActivity"
+    },
+    {
+        "app_name": "101贝考",
+        "package_name": "com.nd.up91.overall",
+        "file_name": "com.nd.up91.overall_183.apk",
+        "app_activity": "com.hy.up91.android.edu.view.user.SplashActivity"
+    },
+    {
+        "app_name": "自考万题库",
+        "package_name": "com.exam8.zikao",
+        "file_name": "com.exam8.zikao_184.apk",
+        "app_activity": "com.exam8.newer.tiku.test_activity.WelcomePhoneActivity"
+    },
+    {
+        "app_name": "执业医师准题库",
+        "package_name": "cn.wangxiao.yishizhuntiku",
+        "file_name": "cn.wangxiao.yishizhuntiku_185.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "高考英语通",
+        "package_name": "com.moyun365.android.gkenglishtong",
+        "file_name": "com.moyun365.android.gkenglishtong_186.apk",
+        "app_activity": "com.moyun365.android.gkenglishtong.activity.SplashActivity"
+    },
+    {
+        "app_name": "中级经济师考点速记",
+        "package_name": "com.gd.jjs",
+        "file_name": "com.gd.jjs_187.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "电工证宝典",
+        "package_name": "com.kwmx.app.kwmelectricianproject",
+        "file_name": "com.kwmx.app.kwmelectricianproject_188.apk",
+        "app_activity": "com.kwmx.app.kwmelectricianproject.ui.act.SplashActivity"
+    },
+    {
+        "app_name": "厚大法考",
+        "package_name": "com.houdask.app",
+        "file_name": "com.houdask.app_189.apk",
+        "app_activity": "com.houdask.judicial.activity.SplashActivity"
+    },
+    {
+        "app_name": "小艺帮",
+        "package_name": "com.zego.davinci",
+        "file_name": "com.zego.davinci_190.apk",
+        "app_activity": "com.zego.davinci.mvppage.splash.SplashActivity"
+    },
+    {
+        "app_name": "百川超级学霸",
+        "package_name": "com.bc.edu2",
+        "file_name": "com.bc.edu2_191.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "豫食考核",
+        "package_name": "com.liktian.Cykh",
+        "file_name": "com.liktian.Cykh_192.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "考药狮",
+        "package_name": "com.kys",
+        "file_name": "com.kys_193.apk",
+        "app_activity": "com.runde.tiku.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "海文考研",
+        "package_name": "cn.wanxue.newgaoshou",
+        "file_name": "cn.wanxue.newgaoshou_194.apk",
+        "app_activity": "cn.wanxue.newgaoshou.account.SplashActivity"
+    },
+    {
+        "app_name": "搜题宝",
+        "package_name": "mysoutibao.lxf.com",
+        "file_name": "mysoutibao.lxf.com_195.apk",
+        "app_activity": "mysoutibao.lxf.com.activity.SplashActivity"
+    },
+    {
+        "app_name": "doquestion",
+        "package_name": "com.doquestion",
+        "file_name": "com.doquestion_196.apk",
+        "app_activity": "com.doquestion.SplashActivity"
+    },
+    {
+        "app_name": "道路危险货物运输从业资格考试",
+        "package_name": "dlwxhw.xuezhiti.app",
+        "file_name": "dlwxhw.xuezhiti.app_197.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "上学吧找答案",
+        "package_name": "com.shangxueba.sxb",
+        "file_name": "com.shangxueba.sxb_198.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "软考通",
+        "package_name": "me.hxyfj.rk",
+        "file_name": "me.hxyfj.rk_199.apk",
+        "app_activity": "me.hxyfj.rk.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "星光公考",
+        "package_name": "com.xingguang.gongkao",
+        "file_name": "com.xingguang.gongkao_200.apk",
+        "app_activity": "com.xingguang.gongkao.ui.SplashActivity"
+    },
+    {
+        "app_name": "自考准题库",
+        "package_name": "cn.wangxiao.zikaozhuntiku",
+        "file_name": "cn.wangxiao.zikaozhuntiku_201.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "粉笔教师",
+        "package_name": "com.fenbi.android.zhaojiao",
+        "file_name": "com.fenbi.android.zhaojiao_202.apk",
+        "app_activity": "com.fenbi.android.module.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "银成医考",
+        "package_name": "com.andylau.ycme",
+        "file_name": "com.andylau.ycme_203.apk",
+        "app_activity": "com.andylau.ycme.SplashActivity"
+    },
+    {
+        "app_name": "粉笔",
+        "package_name": "com.fenbi.android.servant",
+        "file_name": "com.fenbi.android.servant_204.apk",
+        "app_activity": "com.fenbi.android.module.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "易考宝典",
+        "package_name": "com.etest8.ebaodianapp",
+        "file_name": "com.etest8.ebaodianapp_205.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "希赛软考助手",
+        "package_name": "com.xuesaieducation.ruankao",
+        "file_name": "com.xuesaieducation.ruankao_206.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "消防设施操作员练题狗",
+        "package_name": "com.operator.zhidian",
+        "file_name": "com.operator.zhidian_207.apk",
+        "app_activity": "cn.dingwei.cloud_classroom.MainActivity"
+    },
+    {
+        "app_name": "慧考智学",
+        "package_name": "com.huikaozhixue.edu",
+        "file_name": "com.huikaozhixue.edu_208.apk",
+        "app_activity": "com.huikaozhixue.module.app.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "金考典",
+        "package_name": "com.android.jkdexam",
+        "file_name": "com.android.jkdexam_209.apk",
+        "app_activity": "com.android.ui.logo"
+    },
+    {
+        "app_name": "易考必过",
+        "package_name": "com.medicalproject.main",
+        "file_name": "com.medicalproject.main_210.apk",
+        "app_activity": "com.medicalproject.main.activity.LauncherActivity"
+    },
+    {
+        "app_name": "润题库",
+        "package_name": "cn.net.wrjy.rtiku.doctor",
+        "file_name": "cn.net.wrjy.rtiku.doctor_211.apk",
+        "app_activity": "cn.dingwei.cloud_classroom.MainActivity"
+    },
+    {
+        "app_name": "优路教育",
+        "package_name": "com.yl.edu",
+        "file_name": "com.yl.edu_212.apk",
+        "app_activity": "com.youlu.splash.mvp.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "蝶变志愿",
+        "package_name": "com.chunyuqiufeng.gaozhongapp.zhiyuan",
+        "file_name": "com.chunyuqiufeng.gaozhongapp.zhiyuan_213.apk",
+        "app_activity": "com.chunyuqiufeng.gaozhongapp.login.mvp.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "计算机二级",
+        "package_name": "com.ikaoshi.ncre",
+        "file_name": "com.ikaoshi.ncre_214.apk",
+        "app_activity": "com.ikaoshi.ncre.activity.Login.InitActivity"
+    },
+    {
+        "app_name": "从业资格证考试宝典",
+        "package_name": "yc.com.practitioners",
+        "file_name": "yc.com.practitioners_215.apk",
+        "app_activity": "yc.com.practitioners.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "消防设施操作员学习系统",
+        "package_name": "uni.UNIF17258F",
+        "file_name": "uni.UNIF17258F_216.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "会计随身学",
+        "package_name": "com.onesoft.app.Tiiku.Duia.KJZ",
+        "file_name": "com.onesoft.app.Tiiku.Duia.KJZ_217.apk",
+        "app_activity": "com.duia.ssx.app_ssx.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "普通话等级考试",
+        "package_name": "cn.lslake.ceshitest",
+        "file_name": "cn.lslake.ceshitest_218.apk",
+        "app_activity": "cn.lslake.ceshitest.MainActivity"
+    },
+    {
+        "app_name": "高考政治通",
+        "package_name": "com.moyun365.android.gkpoliticstong",
+        "file_name": "com.moyun365.android.gkpoliticstong_219.apk",
+        "app_activity": "com.moyun365.android.gkpoliticstong.activity.SplashActivity"
+    },
+    {
+        "app_name": "欣师网校",
+        "package_name": "com.xinxuejy",
+        "file_name": "com.xinxuejy_220.apk",
+        "app_activity": "com.xinxuejy.AccountModule.StartActivity"
+    },
+    {
+        "app_name": "消防设施操作员题小宝",
+        "package_name": "com.tixiaobao.operator.edu",
+        "file_name": "com.tixiaobao.operator.edu_221.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "会计准题库",
+        "package_name": "cn.wangxiao.caikuaizhuntiku",
+        "file_name": "cn.wangxiao.caikuaizhuntiku_222.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "易刷题",
+        "package_name": "com.chznai.bq",
+        "file_name": "com.chznai.bq_223.apk",
+        "app_activity": "com.chznai.bq.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "船员易考通",
+        "package_name": "com.badaolaogui.hyykt",
+        "file_name": "com.badaolaogui.hyykt_224.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "全安一点通",
+        "package_name": "com.hzqatc.ydt",
+        "file_name": "com.hzqatc.ydt_225.apk",
+        "app_activity": "com.lt.app.MainActivity"
+    },
+    {
+        "app_name": "中级经济师题库宝典",
+        "package_name": "com.hj.jinkao.econnomist",
+        "file_name": "com.hj.jinkao.econnomist_226.apk",
+        "app_activity": "com.hj.jinkao.econnomist.splash.SplashActivity"
+    },
+    {
+        "app_name": "造价工程师准题库",
+        "package_name": "cn.wangxiao.zjzhuntiku",
+        "file_name": "cn.wangxiao.zjzhuntiku_227.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "普通话练习",
+        "package_name": "com.arg.mandarin",
+        "file_name": "com.arg.mandarin_228.apk",
+        "app_activity": "com.arg.mandarin.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "云企培",
+        "package_name": "com.hqwx.android.enttraining",
+        "file_name": "com.hqwx.android.enttraining_229.apk",
+        "app_activity": "com.edu24ol.newclass.ui.splash.StartActivity"
+    },
+    {
+        "app_name": "事业单位题库",
+        "package_name": "info.ishared.android",
+        "file_name": "info.ishared.android_230.apk",
+        "app_activity": "com.xinren.app.exercise.activity.LoadActivity"
+    },
+    {
+        "app_name": "军队文职题小宝",
+        "package_name": "com.tixiaobao.army.edu",
+        "file_name": "com.tixiaobao.army.edu_231.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "执业药师考试宝典",
+        "package_name": "com.yingsoft.zhiyeyaoshi.Activity",
+        "file_name": "com.yingsoft.zhiyeyaoshi.Activity_232.apk",
+        "app_activity": "com.yingsoft.androidzhiyeaipro.SplashActivity"
+    },
+    {
+        "app_name": "阳光志愿填报",
+        "package_name": "com.gemaodian.gaokao",
+        "file_name": "com.gemaodian.gaokao_233.apk",
+        "app_activity": "com.gemaodian.gaokao.ui.SplashActivity"
+    },
+    {
+        "app_name": "智考典题库",
+        "package_name": "com.zhikaodian.tk",
+        "file_name": "com.zhikaodian.tk_234.apk",
+        "app_activity": "com.zhikaodian.tk.MainActivity"
+    },
+    {
+        "app_name": "中公教师",
+        "package_name": "com.offcn.mini.teacher",
+        "file_name": "com.offcn.mini.teacher_235.apk",
+        "app_activity": "com.offcn.mini.view.splash.SplashActivity"
+    },
+    {
+        "app_name": "ggjc",
+        "package_name": "com.doquestion.ggjc",
+        "file_name": "com.doquestion.ggjc_236.apk",
+        "app_activity": "com.doquestion.ggjc.SplashActivity"
+    },
+    {
+        "app_name": "PMP项目管理",
+        "package_name": "com.xuesaieducation.pmp",
+        "file_name": "com.xuesaieducation.pmp_237.apk",
+        "app_activity": "com.xisaieducation.main.SplashActivity"
+    },
+    {
+        "app_name": "军队文职练题狗",
+        "package_name": "com.zhidian.jdwz.app",
+        "file_name": "com.zhidian.jdwz.app_238.apk",
+        "app_activity": "cn.dingwei.cloud_classroom.MainActivity"
+    },
+    {
+        "app_name": "博傲有课",
+        "package_name": "com.ykpass.boaoclassroom",
+        "file_name": "com.ykpass.boaoclassroom_239.apk",
+        "app_activity": "com.ykpass.boaoclassroom.SplashActivity"
+    },
+    {
+        "app_name": "APEUni",
+        "package_name": "com.ape_edication",
+        "file_name": "com.ape_edication_240.apk",
+        "app_activity": "com.ape_edication.ui.login.view.activity.StartPageActivity_"
+    },
+    {
+        "app_name": "保研通",
+        "package_name": "com.xuehu.baoyantong",
+        "file_name": "com.xuehu.baoyantong_241.apk",
+        "app_activity": "net.duohuo.magappx.main.WelcomeActivity"
+    },
+    {
+        "app_name": "王派医学",
+        "package_name": "com.wpyx.eduWp",
+        "file_name": "com.wpyx.eduWp_242.apk",
+        "app_activity": "com.wpyx.eduWp.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "执业医师真题库",
+        "package_name": "com.chenghui.kaoyan.zhiye",
+        "file_name": "com.chenghui.kaoyan.zhiye_243.apk",
+        "app_activity": "com.chenghui.kaoyan.xiyi.ui.acvitity.WelcomeActivity"
+    },
+    {
+        "app_name": "证券从业资格准题库",
+        "package_name": "cn.wangxiao.zqzhuntiku",
+        "file_name": "cn.wangxiao.zqzhuntiku_244.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "等考宝典计算机考试",
+        "package_name": "com.zhmyzl.onemsoffice",
+        "file_name": "com.zhmyzl.onemsoffice_245.apk",
+        "app_activity": "com.zhmyzl.onemsoffice.activity.SplashActivity"
+    },
+    {
+        "app_name": "摩托车驾照考试题库",
+        "package_name": "com.chenghui.jiaxiao.motorTest",
+        "file_name": "com.chenghui.jiaxiao.motorTest_246.apk",
+        "app_activity": "com.chenghui.jiaxiao.motorTest.ui.acvitity.SplashActivity"
+    },
+    {
+        "app_name": "经济师准题库",
+        "package_name": "cn.wangxiao.jjszhuntiku",
+        "file_name": "cn.wangxiao.jjszhuntiku_247.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "掌上高考e志愿",
+        "package_name": "com.musimiao.gaokao",
+        "file_name": "com.musimiao.gaokao_248.apk",
+        "app_activity": "com.musimiao.gaokao.ui.SplashActivity"
+    },
+    {
+        "app_name": "消防工程师准题库",
+        "package_name": "cn.wangxiao.cfezhuntiku",
+        "file_name": "cn.wangxiao.cfezhuntiku_249.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "365时政",
+        "package_name": "cn.net.shizheng.study",
+        "file_name": "cn.net.shizheng.study_250.apk",
+        "app_activity": "cn.dingwei.cloud_classroom.MainActivity"
+    },
+    {
+        "app_name": "一起公考",
+        "package_name": "com.zhangshangyiqi.civilserviceexam",
+        "file_name": "com.zhangshangyiqi.civilserviceexam_251.apk",
+        "app_activity": "com.yiqischool.login.moduleSplash.YQSplashActivity"
+    },
+    {
+        "app_name": "高考数学通",
+        "package_name": "com.moyun365.android.gkmathtong",
+        "file_name": "com.moyun365.android.gkmathtong_252.apk",
+        "app_activity": "com.moyun365.android.gkmathtong.activity.SplashActivity"
+    },
+    {
+        "app_name": "扇贝考研",
+        "package_name": "com.shanbay.kaoyan",
+        "file_name": "com.shanbay.kaoyan_253.apk",
+        "app_activity": "com.shanbay.biz.skeleton.splash.SplashActivity"
+    },
+    {
+        "app_name": "粉笔医疗",
+        "package_name": "com.fenbi.android.yixue",
+        "file_name": "com.fenbi.android.yixue_254.apk",
+        "app_activity": "com.fenbi.android.module.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "高考生物通",
+        "package_name": "com.moyun365.android.gkbiologytong",
+        "file_name": "com.moyun365.android.gkbiologytong_255.apk",
+        "app_activity": "com.moyun365.android.gkbiologytong.activity.SplashActivity"
+    },
+    {
+        "app_name": "斩六将CPA",
+        "package_name": "com.juexiao.cpa",
+        "file_name": "com.juexiao.cpa_256.apk",
+        "app_activity": "com.juexiao.cpa.ui.LaunchActivity"
+    },
+    {
+        "app_name": "工程人之家",
+        "package_name": "com.zhengerbajingedu.read",
+        "file_name": "com.zhengerbajingedu.read_257.apk",
+        "app_activity": "com.zhengerbajingedu.read.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "掌上高考",
+        "package_name": "cn.eol.wen",
+        "file_name": "cn.eol.wen_258.apk",
+        "app_activity": "cn.eol.wen.MainActivity"
+    },
+    {
+        "app_name": "公安基础知识题库",
+        "package_name": "com.instech.gonganjichu",
+        "file_name": "com.instech.gonganjichu_259.apk",
+        "app_activity": "com.xinren.app.exercise.activity.LoadActivity"
+    },
+    {
+        "app_name": "四海公考",
+        "package_name": "com.baijiayun.sihaigongkao",
+        "file_name": "com.baijiayun.sihaigongkao_260.apk",
+        "app_activity": "com.baijiayun.sihaigongkao.publicui.WelecomActivity"
+    },
+    {
+        "app_name": "公安执法资格考试聚题库",
+        "package_name": "com.s20cxq.galawenforce",
+        "file_name": "com.s20cxq.galawenforce_261.apk",
+        "app_activity": "com.s20cxq.question.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "导游通",
+        "package_name": "cn.net.daokaotong.study",
+        "file_name": "cn.net.daokaotong.study_262.apk",
+        "app_activity": "cn.dingwei.cloud_classroom.MainActivity"
+    },
+    {
+        "app_name": "爱问云",
+        "package_name": "ai.infi.cn",
+        "file_name": "ai.infi.cn_263.apk",
+        "app_activity": "com.plaso.student.lib.login.Login"
+    },
+    {
+        "app_name": "成长记录",
+        "package_name": "com.iomuch.student",
+        "file_name": "com.iomuch.student_264.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "银行从业资格准题库",
+        "package_name": "cn.wangxiao.ccbpzhuntiku",
+        "file_name": "cn.wangxiao.ccbpzhuntiku_265.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+
+    {
+        "app_name": "纳豆题库",
+        "package_name": "com.riyubao.tiku",
+        "file_name": "com.riyubao.tiku_1.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "医学三基考试宝典",
+        "package_name": "com.yingsoft.yxsj",
+        "file_name": "com.yingsoft.yxsj_2.apk",
+        "app_activity": "com.yingsoft.yxsj.SplashActivity"
+    },
+    {
+        "app_name": "公考常识",
+        "package_name": "com.gsq.gkcs",
+        "file_name": "com.gsq.gkcs_3.apk",
+        "app_activity": "com.gsq.gkcs.activity.SplashActivity"
+    },
+    {
+        "app_name": "考狐狸",
+        "package_name": "com.kaohuli.khl2",
+        "file_name": "com.kaohuli.khl2_4.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "护理三基",
+        "package_name": "com.ujigu.hlsj",
+        "file_name": "com.ujigu.hlsj_5.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "证券从业资格亿题库",
+        "package_name": "com.billionquestionbank_security",
+        "file_name": "com.billionquestionbank_security_6.apk",
+        "app_activity": "com.billionquestionbank.loginandregister.SplashActivity"
+    },
+    {
+        "app_name": "毕上",
+        "package_name": "com.bishang.bishangmianshi",
+        "file_name": "com.bishang.bishangmianshi_7.apk",
+        "app_activity": "com.bishang.bishangmianshi.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "公安基础知识练题狗",
+        "package_name": "com.gazsltg.app",
+        "file_name": "com.gazsltg.app_8.apk",
+        "app_activity": "cn.dingwei.cloud_classroom.MainActivity"
+    },
+    {
+        "app_name": "辅警题库",
+        "package_name": "com.hzkj.app.auxiliarypolice",
+        "file_name": "com.hzkj.app.auxiliarypolice_9.apk",
+        "app_activity": "com.hzkj.app.auxiliarypolice.activity.GuidePageActivity"
+    },
+    {
+        "app_name": "中级经济师考试聚题库",
+        "package_name": "com.s20cxq.economistzj",
+        "file_name": "com.s20cxq.economistzj_10.apk",
+        "app_activity": "com.s20cxq.question.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "茶艺师考试聚题库",
+        "package_name": "com.s20cxq.teaart",
+        "file_name": "com.s20cxq.teaart_11.apk",
+        "app_activity": "com.s20cxq.question.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "行政执法资格考试聚题库",
+        "package_name": "com.s20cxq.xzlawenforce",
+        "file_name": "com.s20cxq.xzlawenforce_12.apk",
+        "app_activity": "com.s20cxq.question.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "线上考级",
+        "package_name": "com.mps.video",
+        "file_name": "com.mps.video_13.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "民法典题库",
+        "package_name": "com.instech.minfadian",
+        "file_name": "com.instech.minfadian_14.apk",
+        "app_activity": "com.xinren.app.exercise.activity.LoadActivity"
+    },
+    {
+        "app_name": "一建二建建工题库",
+        "package_name": "com.HanBinLi.ConstructionPaper",
+        "file_name": "com.HanBinLi.ConstructionPaper_15.apk",
+        "app_activity": "com.HanBinLi.ConstructionPaper.MainActivity"
+    },
+    {
+        "app_name": "经济师万题库",
+        "package_name": "com.exam8.mideconomist",
+        "file_name": "com.exam8.mideconomist_16.apk",
+        "app_activity": "com.exam8.newer.tiku.test_activity.WelcomePhoneActivity"
+    },
+    {
+        "app_name": "导游资格证题库",
+        "package_name": "com.kwm.app.daoyou",
+        "file_name": "com.kwm.app.daoyou_17.apk",
+        "app_activity": "com.kwm.app.daoyou.activity.SplashActivity"
+    },
+    {
+        "app_name": "碳排放管理员考试聚题库",
+        "package_name": "com.s20cxq.carbonadim",
+        "file_name": "com.s20cxq.carbonadim_18.apk",
+        "app_activity": "com.s20cxq.question.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "阳光升学高考网",
+        "package_name": "cn.kunpengnet.gaokao",
+        "file_name": "cn.kunpengnet.gaokao_19.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "中职普测",
+        "package_name": "com.s20cxq.zzpuce",
+        "file_name": "com.s20cxq.zzpuce_20.apk",
+        "app_activity": "com.s20cxq.question.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "卫灿",
+        "package_name": "com.weican.www",
+        "file_name": "com.weican.www_21.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "选调帮",
+        "package_name": "cn.net.tiku.gongkao.xuandiao",
+        "file_name": "cn.net.tiku.gongkao.xuandiao_22.apk",
+        "app_activity": "cn.net.tiku.shikaobang.syn.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "公务员准题库",
+        "package_name": "cn.wangxiao.gwyzhuntiku",
+        "file_name": "cn.wangxiao.gwyzhuntiku_23.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "安全员练题狗",
+        "package_name": "com.aqyabcltg.app",
+        "file_name": "com.aqyabcltg.app_24.apk",
+        "app_activity": "cn.dingwei.cloud_classroom.MainActivity"
+    },
+    {
+        "app_name": "考研英语",
+        "package_name": "com.ikaoshi.english.kaoyanreading",
+        "file_name": "com.ikaoshi.english.kaoyanreading_25.apk",
+        "app_activity": "com.ikaoshi.english.kaoyanreading.activity.Login.InitActivity"
+    },
+    {
+        "app_name": "军建教育",
+        "package_name": "hnjjjy.net",
+        "file_name": "hnjjjy.net_26.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "自考辅导",
+        "package_name": "com.hongfengye.selfexamination",
+        "file_name": "com.hongfengye.selfexamination_27.apk",
+        "app_activity": "com.hongfengye.selfexamination.activity.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "时政题库",
+        "package_name": "com.zhidian.sztk.app",
+        "file_name": "com.zhidian.sztk.app_28.apk",
+        "app_activity": "cn.dingwei.cloud_classroom.MainActivity"
+    },
+    {
+        "app_name": "出版资格准题库",
+        "package_name": "cn.wangxiao.cbzgzhuntiku",
+        "file_name": "cn.wangxiao.cbzgzhuntiku_29.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "卫人医考",
+        "package_name": "com.wrclass.www",
+        "file_name": "com.wrclass.www_30.apk",
+        "app_activity": "cn.dingwei.cloud_classroom.MainActivity"
+    },
+    {
+        "app_name": "教师资格证考试",
+        "package_name": "com.up91.androidhd.c6",
+        "file_name": "com.up91.androidhd.c6_31.apk",
+        "app_activity": "com.hy.up91.android.edu.view.user.SplashActivity"
+    },
+    {
+        "app_name": "军队文职百分题库",
+        "package_name": "com.xcj.question.yjdwzzp",
+        "file_name": "com.xcj.question.yjdwzzp_32.apk",
+        "app_activity": "com.xcj.question.yjdwzzp.view.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "执业护士准题库",
+        "package_name": "cn.wangxiao.hszgzhuntiku",
+        "file_name": "cn.wangxiao.hszgzhuntiku_33.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "期货从业资格准题库",
+        "package_name": "cn.wangxiao.qhzhuntiku",
+        "file_name": "cn.wangxiao.qhzhuntiku_34.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "PTE单词",
+        "package_name": "com.chopwords.client",
+        "file_name": "com.chopwords.client_35.apk",
+        "app_activity": "com.chopwords.client.ui.init.InitActivity"
+    },
+    {
+        "app_name": "微试验",
+        "package_name": "com.dev.bmg",
+        "file_name": "com.dev.bmg_36.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "计算机一级",
+        "package_name": "com.ikaoshi.ncre.one",
+        "file_name": "com.ikaoshi.ncre.one_37.apk",
+        "app_activity": "com.ikaoshi.ncre.one.activity.Login.InitActivity"
+    },
+    {
+        "app_name": "橙舟课堂",
+        "package_name": "com.chengzhou.zhixin",
+        "file_name": "com.chengzhou.zhixin_38.apk",
+        "app_activity": "com.chengzhou.zhixin.MainActivity"
+    },
+    {
+        "app_name": "水木珞研教育",
+        "package_name": "w2a.W2Ashuimuluoyan.com",
+        "file_name": "w2a.W2Ashuimuluoyan.com_39.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "通信工程师考试",
+        "package_name": "com.xuesaieducation.tongxin",
+        "file_name": "com.xuesaieducation.tongxin_40.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "时事政治题库",
+        "package_name": "info.ishared.politics_events",
+        "file_name": "info.ishared.politics_events_41.apk",
+        "app_activity": "com.xinren.app.exercise.activity.LoadActivity"
+    },
+    {
+        "app_name": "注册会计师准题库",
+        "package_name": "cn.wangxiao.cpazhuntiku",
+        "file_name": "cn.wangxiao.cpazhuntiku_42.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "人力资源管理师题库",
+        "package_name": "com.ujigu.tcrenliziyuan",
+        "file_name": "com.ujigu.tcrenliziyuan_43.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "考博英语题库",
+        "package_name": "com.xuesaieducation.tiku.kaoboyingyu",
+        "file_name": "com.xuesaieducation.tiku.kaoboyingyu_44.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "考研汇",
+        "package_name": "com.kaoyanhui.master",
+        "file_name": "com.kaoyanhui.master_45.apk",
+        "app_activity": "com.kaoyanhui.master.activity.SplashActivity"
+    },
+    {
+        "app_name": "优艺考",
+        "package_name": "com.eagersoft.youyk",
+        "file_name": "com.eagersoft.youyk_46.apk",
+        "app_activity": "com.eagersoft.youyk.ui.launch.LaunchActivity"
+    },
+    {
+        "app_name": "特种作业宝典",
+        "package_name": "com.kwmx.app.special",
+        "file_name": "com.kwmx.app.special_47.apk",
+        "app_activity": "com.kwmx.app.special.ui.act.SplashActivity"
+    },
+    {
+        "app_name": "32学苑",
+        "package_name": "com.zhanhong.academy",
+        "file_name": "com.zhanhong.academy_48.apk",
+        "app_activity": "com.zhanhong.academy.FirstActivity"
+    },
+    {
+        "app_name": "练题猫",
+        "package_name": "cn.ock123.ltimao",
+        "file_name": "cn.ock123.ltimao_49.apk",
+        "app_activity": "cn.ock123.ltimao.MainActivity"
+    },
+    {
+        "app_name": "卓越",
+        "package_name": "com.edusoho.chinapm",
+        "file_name": "com.edusoho.chinapm_50.apk",
+        "app_activity": "com.edusoho.chinapm.KuozhiActivity"
+    },
+    {
+        "app_name": "一级建造师",
+        "package_name": "com.ggeye.kaoshi.jianzaoone",
+        "file_name": "com.ggeye.kaoshi.jianzaoone_51.apk",
+        "app_activity": "com.ggeye.kaoshi.jianzaoone.Page_Index"
+    },
+    {
+        "app_name": "二级建造师",
+        "package_name": "com.ggeye.kaoshi.jianzaotwo",
+        "file_name": "com.ggeye.kaoshi.jianzaotwo_52.apk",
+        "app_activity": "com.ggeye.kaoshi.jianzaotwo.Page_Index"
+    },
+    {
+        "app_name": "辅导员练题狗",
+        "package_name": "com.fdyltg.zhidian",
+        "file_name": "com.fdyltg.zhidian_53.apk",
+        "app_activity": "cn.dingwei.cloud_classroom.MainActivity"
+    },
+    {
+        "app_name": "普通话成绩查询",
+        "package_name": "com.tianxiang.testresult",
+        "file_name": "com.tianxiang.testresult_54.apk",
+        "app_activity": "com.tianxiang.testresult.GuideActivity"
+    },
+    {
+        "app_name": "众学无忧",
+        "package_name": "com.zxwyjy.app",
+        "file_name": "com.zxwyjy.app_55.apk",
+        "app_activity": "com.zxwyjy.app.ui.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "特种作业考试",
+        "package_name": "org.yy.special",
+        "file_name": "org.yy.special_56.apk",
+        "app_activity": "org.yy.special.FirstActivity"
+    },
+    {
+        "app_name": "医学猫",
+        "package_name": "com.medical.medicalcat",
+        "file_name": "com.medical.medicalcat_57.apk",
+        "app_activity": "com.medical.medicalcat.activity.SplashActivity"
+    },
+    {
+        "app_name": "粉笔计算机二级题库",
+        "package_name": "com.fenbi.android.bangong",
+        "file_name": "com.fenbi.android.bangong_58.apk",
+        "app_activity": "com.fenbi.android.module.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "入党积极分子考试聚题库",
+        "package_name": "com.s20cxq.partyactivists",
+        "file_name": "com.s20cxq.partyactivists_59.apk",
+        "app_activity": "com.s20cxq.question.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "食品安全管理师考试聚题库",
+        "package_name": "com.s20cxq.foodsafety",
+        "file_name": "com.s20cxq.foodsafety_60.apk",
+        "app_activity": "com.s20cxq.question.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "职题库",
+        "package_name": "cn.net.jobtiku.study",
+        "file_name": "cn.net.jobtiku.study_61.apk",
+        "app_activity": "cn.net.jobtiku.study.LaunchActivity"
+    },
+    {
+        "app_name": "注考帮",
+        "package_name": "com.zhulong.newtiku",
+        "file_name": "com.zhulong.newtiku_62.apk",
+        "app_activity": "com.zhulong.newtiku.main.ui.SplashActivity"
+    },
+    {
+        "app_name": "准橙叉车考试",
+        "package_name": "com.zcyks.cckszs",
+        "file_name": "com.zcyks.cckszs_63.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "自考友",
+        "package_name": "com.self.study.sns",
+        "file_name": "com.self.study.sns_64.apk",
+        "app_activity": "com.self.study.sns.activity.main.SplashActivity"
+    },
+    {
+        "app_name": "考研英语真题",
+        "package_name": "com.wts.english.read",
+        "file_name": "com.wts.english.read_65.apk",
+        "app_activity": "com.wts.english.read.home.activity.WecomeActivity"
+    },
+    {
+        "app_name": "考研准题库",
+        "package_name": "cn.wangxiao.kyzhuntiku",
+        "file_name": "cn.wangxiao.kyzhuntiku_66.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "考拉上岸",
+        "package_name": "www.kaolaup.com",
+        "file_name": "www.kaolaup.com_67.apk",
+        "app_activity": "www.kaolaup.com.activitys.SplashActivity"
+    },
+    {
+        "app_name": "安考题",
+        "package_name": "com.soutikuai.aktandroid",
+        "file_name": "com.soutikuai.aktandroid_68.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "哈德教育",
+        "package_name": "com.baijiayun.hadejiaoyu",
+        "file_name": "com.baijiayun.hadejiaoyu_69.apk",
+        "app_activity": "com.bjywxapp.SplashActivity"
+    },
+    {
+        "app_name": "格木教育",
+        "package_name": "uni.UNI00D5011",
+        "file_name": "uni.UNI00D5011_70.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "危险化学品考试聚题库",
+        "package_name": "com.s20cxq.chemicals",
+        "file_name": "com.s20cxq.chemicals_71.apk",
+        "app_activity": "com.s20cxq.question.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "警考网",
+        "package_name": "tech.hzn.police_exam",
+        "file_name": "tech.hzn.police_exam_72.apk",
+        "app_activity": "com.hy.jkw_app.MainActivity"
+    },
+    {
+        "app_name": "城乡规划师准题库",
+        "package_name": "cn.wangxiao.ghszhuntiku",
+        "file_name": "cn.wangxiao.ghszhuntiku_73.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "高考e志愿",
+        "package_name": "com.zte.bestwill",
+        "file_name": "com.zte.bestwill_74.apk",
+        "app_activity": "com.zte.bestwill.activity.SplashActivity"
+    },
+    {
+        "app_name": "笔试通",
+        "package_name": "com.wuyouqiuzhi.app",
+        "file_name": "com.wuyouqiuzhi.app_75.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "搜题侠",
+        "package_name": "com.s20cxq.question",
+        "file_name": "com.s20cxq.question_76.apk",
+        "app_activity": "com.s20cxq.question.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "逸学公考",
+        "package_name": "com.yixue.shenlun",
+        "file_name": "com.yixue.shenlun_77.apk",
+        "app_activity": "com.yixue.shenlun.ui.activity.LaunchActivity"
+    },
+    {
+        "app_name": "点对点择校",
+        "package_name": "uni.UNI511EC81",
+        "file_name": "uni.UNI511EC81_78.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "基金从业资格准题库",
+        "package_name": "cn.wangxiao.jijinzhuntiku",
+        "file_name": "cn.wangxiao.jijinzhuntiku_79.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "趁东风",
+        "package_name": "com.yaerxing.hz",
+        "file_name": "com.yaerxing.hz_80.apk",
+        "app_activity": "com.yaerxing.hz.activity.SplashActivity"
+    },
+    {
+        "app_name": "思证",
+        "package_name": "app.sizheng356.com",
+        "file_name": "app.sizheng356.com_81.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "摩托车驾考题库",
+        "package_name": "com.motorcycle.motorcycle",
+        "file_name": "com.motorcycle.motorcycle_82.apk",
+        "app_activity": "com.zhmyzl.motorcycle.activity.SplashActivity"
+    },
+    {
+        "app_name": "三类人员题库",
+        "package_name": "com.ujigu.tcjianzhusanlei",
+        "file_name": "com.ujigu.tcjianzhusanlei_83.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "护理专业知识全题库",
+        "package_name": "com.texas.yyhlzyzs",
+        "file_name": "com.texas.yyhlzyzs_84.apk",
+        "app_activity": "com.texas.yyhlzyzs.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "职小灶",
+        "package_name": "com.baizhizhan.www",
+        "file_name": "com.baizhizhan.www_85.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "普通话测试先锋版",
+        "package_name": "com.huahua.testlite",
+        "file_name": "com.huahua.testlite_86.apk",
+        "app_activity": "com.huahua.other.vm.WelcomeActivity"
+    },
+    {
+        "app_name": "社工考试宝典",
+        "package_name": "yc.com.socialWork",
+        "file_name": "yc.com.socialWork_87.apk",
+        "app_activity": "yc.com.socialWork.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "单招考试题库",
+        "package_name": "com.ujigu.three.danzhaotk",
+        "file_name": "com.ujigu.three.danzhaotk_88.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "特种作业煤矿安全作业聚题库",
+        "package_name": "com.s20cxq.coalmine",
+        "file_name": "com.s20cxq.coalmine_89.apk",
+        "app_activity": "com.s20cxq.question.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "希赛自考题库",
+        "package_name": "xuesai.education",
+        "file_name": "xuesai.education_90.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "初级会计职称题库",
+        "package_name": "info.ishared.cjkj",
+        "file_name": "info.ishared.cjkj_91.apk",
+        "app_activity": "com.xinren.app.exercise.activity.LoadActivity"
+    },
+    {
+        "app_name": "文鹿书院",
+        "package_name": "com.chami.chami",
+        "file_name": "com.chami.chami_92.apk",
+        "app_activity": "com.chami.chami.splash.SplashActivity"
+    },
+    {
+        "app_name": "育婴师题库",
+        "package_name": "com.ujigu.tcyuying",
+        "file_name": "com.ujigu.tcyuying_93.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "医考网校",
+        "package_name": "com.ahuyikao.ykwx",
+        "file_name": "com.ahuyikao.ykwx_94.apk",
+        "app_activity": "com.ahuyikao.ykwx.main.SplashActivity"
+    },
+    {
+        "app_name": "心理咨询师练题狗",
+        "package_name": "com.mentalityltg.app",
+        "file_name": "com.mentalityltg.app_95.apk",
+        "app_activity": "cn.dingwei.cloud_classroom.MainActivity"
+    },
+    {
+        "app_name": "教师招聘考试题库",
+        "package_name": "com.xinren.app.jiaoshizhaopinkaoshi",
+        "file_name": "com.xinren.app.jiaoshizhaopinkaoshi_96.apk",
+        "app_activity": "com.xinren.app.exercise.activity.LoadActivity"
+    },
+    {
+        "app_name": "普通话考试通",
+        "package_name": "com.yikao.putonghua",
+        "file_name": "com.yikao.putonghua_97.apk",
+        "app_activity": "com.yikao.putonghua.main.AcySplash"
+    },
+    {
+        "app_name": "文都医学",
+        "package_name": "com.wendu.wenduyikao",
+        "file_name": "com.wendu.wenduyikao_98.apk",
+        "app_activity": "com.wendu.wenduyikao.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "社区工作者练题狗",
+        "package_name": "com.sqgzzltg.zhidian",
+        "file_name": "com.sqgzzltg.zhidian_99.apk",
+        "app_activity": "cn.dingwei.cloud_classroom.MainActivity"
+    },
+    {
+        "app_name": "社会工作者练题狗",
+        "package_name": "com.zhidian.shgzz.app",
+        "file_name": "com.zhidian.shgzz.app_100.apk",
+        "app_activity": "cn.dingwei.cloud_classroom.MainActivity"
+    },
+    {
+        "app_name": "事业单位考试",
+        "package_name": "com.nd.up91.p137",
+        "file_name": "com.nd.up91.p137_101.apk",
+        "app_activity": "com.hy.up91.android.edu.view.user.SplashActivity"
+    },
+    {
+        "app_name": "护士执业资格",
+        "package_name": "com.nd.up91.p140",
+        "file_name": "com.nd.up91.p140_102.apk",
+        "app_activity": "com.hy.up91.android.edu.view.user.SplashActivity"
+    },
+    {
+        "app_name": "立创教育",
+        "package_name": "com.edu.lichuang",
+        "file_name": "com.edu.lichuang_103.apk",
+        "app_activity": "com.edu.lichuang.MainActivity"
+    },
+    {
+        "app_name": "小白考研",
+        "package_name": "com.xbkaoyan.ikaoyaner",
+        "file_name": "com.xbkaoyan.ikaoyaner_104.apk",
+        "app_activity": "com.xbkaoyan.index.StartActivity"
+    },
+    {
+        "app_name": "练题狗",
+        "package_name": "com.learningltg.zhidian",
+        "file_name": "com.learningltg.zhidian_105.apk",
+        "app_activity": "cn.dingwei.cloud_classroom.MainActivity"
+    },
+    {
+        "app_name": "云课堂",
+        "package_name": "com.zhidian.ykt3.app",
+        "file_name": "com.zhidian.ykt3.app_106.apk",
+        "app_activity": "cn.dingwei.cloud_classroom.MainActivity"
+    },
+    {
+        "app_name": "背文常",
+        "package_name": "com.gfusoft.pls",
+        "file_name": "com.gfusoft.pls_107.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "维词教师版",
+        "package_name": "com.android.weici.senior.teacher",
+        "file_name": "com.android.weici.senior.teacher_108.apk",
+        "app_activity": "com.android.weici.senior.teacher.ui.SplashActivity"
+    },
+    {
+        "app_name": "举一反三",
+        "package_name": "com.mashu.jyfs",
+        "file_name": "com.mashu.jyfs_109.apk",
+        "app_activity": "com.mashu.jyfs.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "社区工作者全题库",
+        "package_name": "com.texas.workers",
+        "file_name": "com.texas.workers_110.apk",
+        "app_activity": "com.texas.workers.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "信管网",
+        "package_name": "com.cnitpm.WangKao",
+        "file_name": "com.cnitpm.WangKao_111.apk",
+        "app_activity": "com.cnitpm.WangKao.WelcomeActivity"
+    },
+    {
+        "app_name": "研盒考研",
+        "package_name": "com.kaoyanbox",
+        "file_name": "com.kaoyanbox_112.apk",
+        "app_activity": "com.kaoyanbox.MainActivity"
+    },
+    {
+        "app_name": "初中完形阅读",
+        "package_name": "com.gaofy.msewanxing",
+        "file_name": "com.gaofy.msewanxing_113.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "高考志愿填报APP",
+        "package_name": "com.zm.gaokao",
+        "file_name": "com.zm.gaokao_114.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "社科赛斯考研",
+        "package_name": "com.successkaoyan.android",
+        "file_name": "com.successkaoyan.android_115.apk",
+        "app_activity": "com.successkaoyan.android.module.Start.StartActivity"
+    },
+    {
+        "app_name": "单招刷题网",
+        "package_name": "com.danzhaoshuatiwang.exe",
+        "file_name": "com.danzhaoshuatiwang.exe_116.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "注册会计师随身学",
+        "package_name": "com.onesoft.app.Tiiku.Duia.ZKSSX",
+        "file_name": "com.onesoft.app.Tiiku.Duia.ZKSSX_117.apk",
+        "app_activity": "com.duia.ssx.app_ssx.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "上国教育",
+        "package_name": "com.militarycivilianrn",
+        "file_name": "com.militarycivilianrn_118.apk",
+        "app_activity": "com.militarycivilianrn.MainActivity"
+    },
+    {
+        "app_name": "驾驶证模拟考试",
+        "package_name": "com.jiakao.zixue.baodian",
+        "file_name": "com.jiakao.zixue.baodian_119.apk",
+        "app_activity": "com.zy.app.driving2.activity.LaunchActivity"
+    },
+    {
+        "app_name": "步知公考",
+        "package_name": "com.chiigu.shake",
+        "file_name": "com.chiigu.shake_120.apk",
+        "app_activity": "com.buzhi.login.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "耶鲁专升本",
+        "package_name": "com.yeluzsb",
+        "file_name": "com.yeluzsb_121.apk",
+        "app_activity": "com.yeluzsb.activity.GuidePageActivity"
+    },
+    {
+        "app_name": "音基考级宝",
+        "package_name": "com.music.exam.android",
+        "file_name": "com.music.exam.android_122.apk",
+        "app_activity": "cn.xcyys.android.activity.SplashActivity"
+    },
+    {
+        "app_name": "环境影响评价师准题库",
+        "package_name": "cn.wangxiao.hpszhuntiku",
+        "file_name": "cn.wangxiao.hpszhuntiku_123.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "自考教育云课堂",
+        "package_name": "com.iiaj.okyu.zoa",
+        "file_name": "com.iiaj.okyu.zoa_124.apk",
+        "app_activity": "com.exam.self.xfive.activty.StartActivity"
+    },
+    {
+        "app_name": "考研倒计时",
+        "package_name": "com.cqzxkj.kaoyancountdown",
+        "file_name": "com.cqzxkj.kaoyancountdown_125.apk",
+        "app_activity": "com.cqzxkj.gaokaocountdown.NewLoadingActivity"
+    },
+    {
+        "app_name": "智慧海院",
+        "package_name": "com.hykj.zhhy",
+        "file_name": "com.hykj.zhhy_126.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "保育员考试聚题库",
+        "package_name": "com.s20cxq.nurserygoverness",
+        "file_name": "com.s20cxq.nurserygoverness_127.apk",
+        "app_activity": "com.s20cxq.question.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "初级会计考试",
+        "package_name": "com.ggeye.kaoshi.kjcj",
+        "file_name": "com.ggeye.kaoshi.kjcj_128.apk",
+        "app_activity": "com.ggeye.kaoshi.kjcj.Page_Index"
+    },
+    {
+        "app_name": "司法考试宝典",
+        "package_name": "com.ggeye.kaoshi.sifa",
+        "file_name": "com.ggeye.kaoshi.sifa_129.apk",
+        "app_activity": "com.ggeye.kaoshi.sifa.Page_Index"
+    },
+    {
+        "app_name": "公考刷题背题掌上助手",
+        "package_name": "com.sxzd.gkexercise",
+        "file_name": "com.sxzd.gkexercise_130.apk",
+        "app_activity": "com.ltmb.gongkao.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "新东方精品课",
+        "package_name": "cn.xdfgk.student",
+        "file_name": "cn.xdfgk.student_131.apk",
+        "app_activity": "cn.xdfgk.student.activity.SplashActivity"
+    },
+    {
+        "app_name": "升本啦",
+        "package_name": "com.shengbenla.app",
+        "file_name": "com.shengbenla.app_132.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "忠保医学",
+        "package_name": "com.tianjieyu.zhongbaoyixue",
+        "file_name": "com.tianjieyu.zhongbaoyixue_133.apk",
+        "app_activity": "com.tianjieyu.zhongbaoyixue.ui.tab_bar.activity.SplashActivity"
+    },
+    {
+        "app_name": "安全员考试通关宝典",
+        "package_name": "com.yueyiculture.exampass",
+        "file_name": "com.yueyiculture.exampass_134.apk",
+        "app_activity": "com.yueyiculture.exampass.MainActivity"
+    },
+    {
+        "app_name": "执业医师考试宝典",
+        "package_name": "com.yingsoft.zhiyeyishi.Activity",
+        "file_name": "com.yingsoft.zhiyeyishi.Activity_135.apk",
+        "app_activity": "com.yingteng.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "高考志愿指南",
+        "package_name": "com.xinshang.aspire",
+        "file_name": "com.xinshang.aspire_136.apk",
+        "app_activity": "com.xinshang.aspire.splash.AspireSplashActivity"
+    },
+    {
+        "app_name": "一起公考 AI课",
+        "package_name": "com.zhihu.gongkao.android",
+        "file_name": "com.zhihu.gongkao.android_137.apk",
+        "app_activity": "com.zhihu.gongkao.android.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "这题超纲",
+        "package_name": "com.topic.superclass",
+        "file_name": "com.topic.superclass_138.apk",
+        "app_activity": "com.topic.superclass.activity.LoadingActivity"
+    },
+    {
+        "app_name": "艺术升",
+        "package_name": "cn.artstudent.app",
+        "file_name": "cn.artstudent.app_139.apk",
+        "app_activity": "cn.artstudent.app.act.app.LaunchActivity"
+    },
+    {
+        "app_name": "万森医考",
+        "package_name": "com.damiao.dmapp",
+        "file_name": "com.damiao.dmapp_140.apk",
+        "app_activity": "com.damiao.dmapp.activity.StartActivity"
+    },
+    {
+        "app_name": "三校升",
+        "package_name": "com.sanxiaosheng.edu",
+        "file_name": "com.sanxiaosheng.edu_141.apk",
+        "app_activity": "com.sanxiaosheng.edu.SplashActivity"
+    },
+    {
+        "app_name": "考题库",
+        "package_name": "com.app.ktk",
+        "file_name": "com.app.ktk_142.apk",
+        "app_activity": "com.app.ktk.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "考霸网",
+        "package_name": "com.hqjy.zikao.student",
+        "file_name": "com.hqjy.zikao.student_143.apk",
+        "app_activity": "com.hqjy.librarys.start.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "特种设备作业考试",
+        "package_name": "tzsb.xuezhiti.app",
+        "file_name": "tzsb.xuezhiti.app_144.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "助考之星经典版",
+        "package_name": "com.zl.ksassist",
+        "file_name": "com.zl.ksassist_145.apk",
+        "app_activity": "com.zl.ksassist.activity.SplashActivity"
+    },
+    {
+        "app_name": "文都考研",
+        "package_name": "com.wendu.kaoyan",
+        "file_name": "com.wendu.kaoyan_146.apk",
+        "app_activity": "com.wendu.kaoyan.ui.activity.AgreementActivity"
+    },
+    {
+        "app_name": "教资题库",
+        "package_name": "com.okaiu.tzbij.aio",
+        "file_name": "com.okaiu.tzbij.aio_147.apk",
+        "app_activity": "com.bz.ziti.diy.activity.StartActivity"
+    },
+    {
+        "app_name": "招警考试聚题库",
+        "package_name": "com.s20cxq.recruitpolice",
+        "file_name": "com.s20cxq.recruitpolice_148.apk",
+        "app_activity": "com.s20cxq.question.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "书记员练题狗",
+        "package_name": "com.shujyltg.zhidian",
+        "file_name": "com.shujyltg.zhidian_149.apk",
+        "app_activity": "cn.dingwei.cloud_classroom.MainActivity"
+    },
+    {
+        "app_name": "瑞达法硕",
+        "package_name": "com.cdel.ruidalawmaster",
+        "file_name": "com.cdel.ruidalawmaster_150.apk",
+        "app_activity": "com.cdel.ruidalawmaster.app.activity.SplashActivity"
+    },
+    {
+        "app_name": "房地产经纪人协理考试聚题库",
+        "package_name": "com.s20cxq.agentassist",
+        "file_name": "com.s20cxq.agentassist_151.apk",
+        "app_activity": "com.s20cxq.question.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "得分未来",
+        "package_name": "com.app.dfjy.std",
+        "file_name": "com.app.dfjy.std_152.apk",
+        "app_activity": "com.app.dfjy.std.splash.SplashActivity"
+    },
+    {
+        "app_name": "金榜学霸",
+        "package_name": "com.donghan.beststudentongoldchart",
+        "file_name": "com.donghan.beststudentongoldchart_153.apk",
+        "app_activity": "com.donghan.beststudentongoldchart.ui.start.LoadingActivity"
+    },
+    {
+        "app_name": "考研数学",
+        "package_name": "com.ikaoshi.mathematics",
+        "file_name": "com.ikaoshi.mathematics_154.apk",
+        "app_activity": "com.ikaoshi.mathematics.activity.Login.InitActivity"
+    },
+    {
+        "app_name": "在职研究生招生信息网",
+        "package_name": "com.eduego",
+        "file_name": "com.eduego_155.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "试验检测考试题库",
+        "package_name": "com.example.syjc",
+        "file_name": "com.example.syjc_156.apk",
+        "app_activity": "com.example.syjc.MainActivity"
+    },
+    {
+        "app_name": "准橙普通话测试",
+        "package_name": "com.sjfc.xjpthbd",
+        "file_name": "com.sjfc.xjpthbd_157.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "小麦在线",
+        "package_name": "com.xiaomaigongkao",
+        "file_name": "com.xiaomaigongkao_158.apk",
+        "app_activity": "com.xiaomaigongkao.publicui.WelecomActivity"
+    },
+    {
+        "app_name": "题宝宝",
+        "package_name": "cc.tibaobao.open",
+        "file_name": "cc.tibaobao.open_159.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "军队文职刷题狗",
+        "package_name": "com.xysm.xycyjdwz",
+        "file_name": "com.xysm.xycyjdwz_160.apk",
+        "app_activity": "com.xysm.xycyjdwz.view.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "CATTI英语",
+        "package_name": "com.shengcai.cattiyy",
+        "file_name": "com.shengcai.cattiyy_161.apk",
+        "app_activity": "com.example.stk.LoadingActivity"
+    },
+    {
+        "app_name": "高考志愿填报专家",
+        "package_name": "com.lbvolunteer.gaokao",
+        "file_name": "com.lbvolunteer.gaokao_162.apk",
+        "app_activity": "com.lbvolunteer.treasy.activity.GuideActivity"
+    },
+    {
+        "app_name": "云上课堂",
+        "package_name": "com.baijiayun.zhixiangyikao",
+        "file_name": "com.baijiayun.zhixiangyikao_163.apk",
+        "app_activity": "com.bjywxapp.SplashActivity"
+    },
+    {
+        "app_name": "新文道教育",
+        "package_name": "com.baijiayun.hanfeng",
+        "file_name": "com.baijiayun.hanfeng_164.apk",
+        "app_activity": "com.nj.baijiayun.SplashActivity"
+    },
+    {
+        "app_name": "中医师承及确有专长",
+        "package_name": "com.ujigu.three.zyscjqyzc",
+        "file_name": "com.ujigu.three.zyscjqyzc_165.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "辅警刷题狗",
+        "package_name": "com.xysm.xyfujing",
+        "file_name": "com.xysm.xyfujing_166.apk",
+        "app_activity": "com.xysm.xyfujing.view.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "智考宝典",
+        "package_name": "com.wy.zhikao",
+        "file_name": "com.wy.zhikao_167.apk",
+        "app_activity": "com.wy.zhikao.ActStart_"
+    },
+    {
+        "app_name": "川音艺术考级",
+        "package_name": "com.xiaoyibang.sccm",
+        "file_name": "com.xiaoyibang.sccm_168.apk",
+        "app_activity": "com.xiaoyibang.sccm.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "蜜题考研政治",
+        "package_name": "com.kymt.politicsapp",
+        "file_name": "com.kymt.politicsapp_169.apk",
+        "app_activity": "com.bee.politics.activity.StartActivity"
+    },
+    {
+        "app_name": "摩托车驾考试题",
+        "package_name": "com.chenghui.jiaxiao.motor",
+        "file_name": "com.chenghui.jiaxiao.motor_170.apk",
+        "app_activity": "com.chenghui.jiaxiao.motorTest.ui.acvitity.SplashActivity"
+    },
+    {
+        "app_name": "泰祺考研",
+        "package_name": "com.taiqikaoyan.app",
+        "file_name": "com.taiqikaoyan.app_171.apk",
+        "app_activity": "com.taiqikaoyan.app.MainActivity"
+    },
+    {
+        "app_name": "飞鸟云课堂",
+        "package_name": "cn.ixunke.feiniao",
+        "file_name": "cn.ixunke.feiniao_172.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "一通教育",
+        "package_name": "com.ksyt.yitongjiaoyu",
+        "file_name": "com.ksyt.yitongjiaoyu_173.apk",
+        "app_activity": "com.ksyt.jetpackmvvm.study.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "和谐社工",
+        "package_name": "com.hxsg.hxsg",
+        "file_name": "com.hxsg.hxsg_174.apk",
+        "app_activity": "com.hxsg.hxsg.ui.start.StartActivity"
+    },
+    {
+        "app_name": "锦宏高考",
+        "package_name": "com.gaokao.jhapp",
+        "file_name": "com.gaokao.jhapp_175.apk",
+        "app_activity": "com.gaokao.jhapp.SplashActivity"
+    },
+    {
+        "app_name": "演出经纪人考试聚题库",
+        "package_name": "com.s20cxq.bookingagent",
+        "file_name": "com.s20cxq.bookingagent_176.apk",
+        "app_activity": "com.s20cxq.question.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "考研派",
+        "package_name": "com.yuekao.kaoyanquestion",
+        "file_name": "com.yuekao.kaoyanquestion_177.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "教练王者",
+        "package_name": "com.fitcc.coachkings",
+        "file_name": "com.fitcc.coachkings_178.apk",
+        "app_activity": "com.fitcc.coachkings.MainActivity"
+    },
+    {
+        "app_name": "公务员考试",
+        "package_name": "com.up591.android",
+        "file_name": "com.up591.android_179.apk",
+        "app_activity": "com.hy.up91.android.edu.view.user.SplashActivity"
+    },
+    {
+        "app_name": "监理工程师准题库",
+        "package_name": "cn.wangxiao.jlzhuntiku",
+        "file_name": "cn.wangxiao.jlzhuntiku_180.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "社会工作者资格",
+        "package_name": "com.hzkj.app.shgzzproject",
+        "file_name": "com.hzkj.app.shgzzproject_181.apk",
+        "app_activity": "com.hzkj.app.shgzzproject.activity.LoadActivity"
+    },
+    {
+        "app_name": "成人高考专升本题库",
+        "package_name": "info.ishared.crgkzz",
+        "file_name": "info.ishared.crgkzz_182.apk",
+        "app_activity": "com.xinren.app.exercise.activity.LoadActivity"
+    },
+    {
+        "app_name": "高考阳光志愿填报",
+        "package_name": "com.yunhou.gaokao",
+        "file_name": "com.yunhou.gaokao_183.apk",
+        "app_activity": "com.jingsong.gold_list.MainActivity"
+    },
+    {
+        "app_name": "公务员考试",
+        "package_name": "com.ggeye.kaoshi.gwy",
+        "file_name": "com.ggeye.kaoshi.gwy_184.apk",
+        "app_activity": "com.ggeye.kaoshi.gwy.Page_Index"
+    },
+    {
+        "app_name": "专升本刷题宝",
+        "package_name": "com.zsb.app",
+        "file_name": "com.zsb.app_185.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "登高证考试聚题库",
+        "package_name": "com.s20cxq.climbing",
+        "file_name": "com.s20cxq.climbing_186.apk",
+        "app_activity": "com.s20cxq.question.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "宠壹堂",
+        "package_name": "com.wsavs.app",
+        "file_name": "com.wsavs.app_187.apk",
+        "app_activity": "cn.dingwei.cloud_classroom.MainActivity"
+    },
+    {
+        "app_name": "公共基础题库",
+        "package_name": "info.ishared.ggjcgf",
+        "file_name": "info.ishared.ggjcgf_188.apk",
+        "app_activity": "com.xinren.app.exercise.activity.LoadActivity"
+    },
+    {
+        "app_name": "行测题库",
+        "package_name": "info.ishared.gwy_xc",
+        "file_name": "info.ishared.gwy_xc_189.apk",
+        "app_activity": "com.xinren.app.exercise.activity.LoadActivity"
+    },
+    {
+        "app_name": "军考通",
+        "package_name": "com.zylf.dfjkt.ui",
+        "file_name": "com.zylf.dfjkt.ui_190.apk",
+        "app_activity": "com.zylf.dfjkt.ui.module_main.ui.SplanActivity"
+    },
+    {
+        "app_name": "执业药师真题库",
+        "package_name": "com.zjjy.ztk",
+        "file_name": "com.zjjy.ztk_191.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "艺考生",
+        "package_name": "com.yikao.app",
+        "file_name": "com.yikao.app_192.apk",
+        "app_activity": "com.yikao.app.ui.ACSplash"
+    },
+    {
+        "app_name": "计算机一级题库",
+        "package_name": "info.ishared.jsjdj1",
+        "file_name": "info.ishared.jsjdj1_193.apk",
+        "app_activity": "com.xinren.app.exercise.activity.LoadActivity"
+    },
+    {
+        "app_name": "音基100",
+        "package_name": "com.yinji100.app",
+        "file_name": "com.yinji100.app_194.apk",
+        "app_activity": "com.yinji100.app.ui.activity.LaunchActivity"
+    },
+    {
+        "app_name": "摩托车驾考通",
+        "package_name": "cloud.miplus.motor",
+        "file_name": "cloud.miplus.motor_195.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "安全工程师练题狗",
+        "package_name": "cn.net.zhidian.liantigou.safetyengineer",
+        "file_name": "cn.net.zhidian.liantigou.safetyengineer_196.apk",
+        "app_activity": "cn.dingwei.cloud_classroom.MainActivity"
+    },
+    {
+        "app_name": "52高考",
+        "package_name": "com.xuedeng.gaokao",
+        "file_name": "com.xuedeng.gaokao_197.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "符宝音基",
+        "package_name": "io.dcloud.UNI1E99B0A",
+        "file_name": "io.dcloud.UNI1E99B0A_198.apk",
+        "app_activity": "io.dcloud.UNI1E99B0A.MainActivity"
+    },
+    {
+        "app_name": "星海视频考级",
+        "package_name": "com.shengshiwp.kj",
+        "file_name": "com.shengshiwp.kj_199.apk",
+        "app_activity": "com.liuzhenli.app.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "一二级计量师准题库",
+        "package_name": "cn.wangxiao.jlszhuntiku",
+        "file_name": "cn.wangxiao.jlszhuntiku_200.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "焊工题库",
+        "package_name": "org.yy.hangong",
+        "file_name": "org.yy.hangong_201.apk",
+        "app_activity": "org.yy.hangong.SplashActivity"
+    },
+    {
+        "app_name": "康复医学题库",
+        "package_name": "info.ishared.kfyxzljss",
+        "file_name": "info.ishared.kfyxzljss_202.apk",
+        "app_activity": "com.xinren.app.exercise.activity.LoadActivity"
+    },
+    {
+        "app_name": "金标尺教师",
+        "package_name": "cn.net.tiku.gpjiaoshi.syn",
+        "file_name": "cn.net.tiku.gpjiaoshi.syn_203.apk",
+        "app_activity": "cn.net.tiku.shikaobang.syn.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "成人高考题库",
+        "package_name": "com.ujigu.tcchengrengaokao",
+        "file_name": "com.ujigu.tcchengrengaokao_204.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "超级伙伴",
+        "package_name": "com.qiaomenzhuan",
+        "file_name": "com.qiaomenzhuan_205.apk",
+        "app_activity": "com.qiaomenzhuan.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "保安员考证学知题",
+        "package_name": "bay.xuezhiti.app",
+        "file_name": "bay.xuezhiti.app_206.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "考霸岛",
+        "package_name": "com.kaobadao.kbdao",
+        "file_name": "com.kaobadao.kbdao_207.apk",
+        "app_activity": "com.kaobadao.kbdao.splash.SplashActivity"
+    },
+    {
+        "app_name": "能信安交通网校",
+        "package_name": "com.nesun.carmate",
+        "file_name": "com.nesun.carmate_208.apk",
+        "app_activity": "com.nesun.carmate.StartUpActivity"
+    },
+    {
+        "app_name": "初级经济师智题库",
+        "package_name": "com.cytd.cjjjs",
+        "file_name": "com.cytd.cjjjs_209.apk",
+        "app_activity": "com.cytd.cjjjs.view.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "社区工作者智题库",
+        "package_name": "com.cytd.sqgzz",
+        "file_name": "com.cytd.sqgzz_210.apk",
+        "app_activity": "com.cytd.sqgzz.view.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "金榜路",
+        "package_name": "com.mingx.PlatformApp",
+        "file_name": "com.mingx.PlatformApp_211.apk",
+        "app_activity": "crc64dca37827c674c3b0.SplashScreenActivity"
+    },
+    {
+        "app_name": "注册安全工程师全题库",
+        "package_name": "com.texas.yyaqgcs",
+        "file_name": "com.texas.yyaqgcs_212.apk",
+        "app_activity": "com.texas.yyaqgcs.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "无人机驾驶员考试聚题库",
+        "package_name": "com.s20cxq.uavpilot",
+        "file_name": "com.s20cxq.uavpilot_213.apk",
+        "app_activity": "com.s20cxq.question.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "库课教师",
+        "package_name": "com.kuke.teacher",
+        "file_name": "com.kuke.teacher_214.apk",
+        "app_activity": "com.kuke.teacher.main.ui.SplashActivity"
+    },
+    {
+        "app_name": "三支一扶考试聚题库",
+        "package_name": "com.s20cxq.threesupports",
+        "file_name": "com.s20cxq.threesupports_215.apk",
+        "app_activity": "com.s20cxq.question.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "题王",
+        "package_name": "com.loveidiom.answerking",
+        "file_name": "com.loveidiom.answerking_216.apk",
+        "app_activity": "com.loveidiom.answerking.activity.LoadingActivity"
+    },
+    {
+        "app_name": "小学教师资格题库",
+        "package_name": "info.ishared.xxjszg",
+        "file_name": "info.ishared.xxjszg_217.apk",
+        "app_activity": "com.xinren.app.exercise.activity.LoadActivity"
+    },
+    {
+        "app_name": "心理咨询师快题库",
+        "package_name": "com.android.tiku.psychology",
+        "file_name": "com.android.tiku.psychology_218.apk",
+        "app_activity": "com.hqwx.android.tiku.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "自考赢家",
+        "package_name": "com.h59444900.ebv",
+        "file_name": "com.h59444900.ebv_219.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "公考题典",
+        "package_name": "com.officier.dicts",
+        "file_name": "com.officier.dicts_220.apk",
+        "app_activity": "com.wifikey.tenthousands.app_wifi_flutter.MainActivity"
+    },
+    {
+        "app_name": "领图网校",
+        "package_name": "cn.ixunke.lingtuwangxiao",
+        "file_name": "cn.ixunke.lingtuwangxiao_221.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "刷题宝典",
+        "package_name": "com.lyl.dev",
+        "file_name": "com.lyl.dev_222.apk",
+        "app_activity": "com.lyl.dev.activitys.MainLodingActivity"
+    },
+    {
+        "app_name": "东帆题库",
+        "package_name": "com.cq1080.dfedu",
+        "file_name": "com.cq1080.dfedu_223.apk",
+        "app_activity": "com.dongfanapp.MainActivity"
+    },
+    {
+        "app_name": "计算机二级Python",
+        "package_name": "net.blemon.python",
+        "file_name": "net.blemon.python_224.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "安全生产题库",
+        "package_name": "com.ujigu.three.aqsctk",
+        "file_name": "com.ujigu.three.aqsctk_225.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "测绘工程师准题库",
+        "package_name": "cn.wangxiao.chszhuntiku",
+        "file_name": "cn.wangxiao.chszhuntiku_226.apk",
+        "app_activity": "app.wangxiao.cn.page_module.SplashActivity"
+    },
+    {
+        "app_name": "文心医考通",
+        "package_name": "uni.UNI86D0B08",
+        "file_name": "uni.UNI86D0B08_227.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "摩托车驾照考试",
+        "package_name": "org.yy.moto",
+        "file_name": "org.yy.moto_228.apk",
+        "app_activity": "org.yy.moto.WelcomeActivity"
+    },
+    {
+        "app_name": "高正教师",
+        "package_name": "com.gz.teacher.app",
+        "file_name": "com.gz.teacher.app_229.apk",
+        "app_activity": "com.example.gz_teacher.MainActivity"
+    },
+    {
+        "app_name": "海事在线",
+        "package_name": "com.bandsoft.haizheng",
+        "file_name": "com.bandsoft.haizheng_230.apk",
+        "app_activity": "com.bandsoft.haizheng.MainActivity"
+    }
+]

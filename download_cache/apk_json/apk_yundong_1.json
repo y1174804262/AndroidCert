@@ -1,0 +1,2710 @@
+[
+    {
+        "app_name": "计步宝",
+        "package_name": "walk.walk.early.walkgetbao",
+        "file_name": "walk.walk.early.walkgetbao_1.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "健步风云",
+        "package_name": "com.zswl.jbfy",
+        "file_name": "com.zswl.jbfy_2.apk",
+        "app_activity": "com.walk.home.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "跃动脚步",
+        "package_name": "com.zswl.ydjb",
+        "file_name": "com.zswl.ydjb_3.apk",
+        "app_activity": "com.walk.home.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "步步走路赚",
+        "package_name": "com.hk.yxjb",
+        "file_name": "com.hk.yxjb_4.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "一路向前",
+        "package_name": "jojo.go.walktogether.aheadwalk",
+        "file_name": "jojo.go.walktogether.aheadwalk_5.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "行者",
+        "package_name": "im.xingzhe",
+        "file_name": "im.xingzhe_6.apk",
+        "app_activity": "im.xingzhe.activity.LaunchActivity"
+    },
+    {
+        "app_name": "糖果广场舞",
+        "package_name": "com.weilaihong.gcw",
+        "file_name": "com.weilaihong.gcw_7.apk",
+        "app_activity": "com.weilaihong.gcw.ui.SplashActivity"
+    },
+    {
+        "app_name": "运动跑步器",
+        "package_name": "com.sieyoo.sport",
+        "file_name": "com.sieyoo.sport_8.apk",
+        "app_activity": "com.sieyoo.gumiyd.ui.SplashActivity"
+    },
+    {
+        "app_name": "训记",
+        "package_name": "com.trainnote.rn",
+        "file_name": "com.trainnote.rn_9.apk",
+        "app_activity": "com.trainnote.rn.MainActivity"
+    },
+    {
+        "app_name": "每天勤走走",
+        "package_name": "com.apprisdecept.qzz",
+        "file_name": "com.apprisdecept.qzz_10.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "走路好意头",
+        "package_name": "com.enuncdefecti.austere",
+        "file_name": "com.enuncdefecti.austere_11.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "健步当先",
+        "package_name": "com.walk.first.jbdx",
+        "file_name": "com.walk.first.jbdx_12.apk",
+        "app_activity": "com.geek.superpower.ui.activity.CNDCGJSplashActivity"
+    },
+    {
+        "app_name": "跃动健身",
+        "package_name": "com.yd.exercise",
+        "file_name": "com.yd.exercise_13.apk",
+        "app_activity": "com.yd.exercise.Activity.SplashActivity"
+    },
+    {
+        "app_name": "超鹿运动",
+        "package_name": "com.chaolu.app",
+        "file_name": "com.chaolu.app_14.apk",
+        "app_activity": "com.chaolu.app.ui.SplashActivity"
+    },
+    {
+        "app_name": "多锐",
+        "package_name": "com.hnjc.dl",
+        "file_name": "com.hnjc.dl_15.apk",
+        "app_activity": "com.hnjc.dl.activity.common.InitiateActivity"
+    },
+    {
+        "app_name": "步步来福",
+        "package_name": "walk.walk.early.bubulaifu",
+        "file_name": "walk.walk.early.bubulaifu_16.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "Huawei Health",
+        "package_name": "com.huawei.health",
+        "file_name": "com.huawei.health_17.apk",
+        "app_activity": "com.huawei.health.MainActivity"
+    },
+    {
+        "app_name": "快乐走一走",
+        "package_name": "com.gzxx.klzyz",
+        "file_name": "com.gzxx.klzyz_18.apk",
+        "app_activity": "com.walk.home.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "追光计步",
+        "package_name": "com.deembrace.light",
+        "file_name": "com.deembrace.light_19.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "走路我当先",
+        "package_name": "com.enchanaffinit.astute",
+        "file_name": "com.enchanaffinit.astute_20.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "全民走路宝",
+        "package_name": "com.pedometer.everybody",
+        "file_name": "com.pedometer.everybody_21.apk",
+        "app_activity": "com.pedometer.everybody.MainActivity"
+    },
+    {
+        "app_name": "迎春计步器",
+        "package_name": "com.springwalker.adw",
+        "file_name": "com.springwalker.adw_22.apk",
+        "app_activity": "com.stepqiantu.pro.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "天天走路",
+        "package_name": "com.jibu.duo",
+        "file_name": "com.jibu.duo_23.apk",
+        "app_activity": "com.jibu.duo.ui.HomeSplashActivity"
+    },
+    {
+        "app_name": "WOLO",
+        "package_name": "com.xfkj.wolo",
+        "file_name": "com.xfkj.wolo_24.apk",
+        "app_activity": "com.xfkj.wolo.activity.SplashActivity"
+    },
+    {
+        "app_name": "福步同行",
+        "package_name": "com.travel.together.fbtx",
+        "file_name": "com.travel.together.fbtx_25.apk",
+        "app_activity": "com.fltapp.fbtx.app.activity.FBTXSplashActivity"
+    },
+    {
+        "app_name": "每日走路多多",
+        "package_name": "com.hnfystep.duoduo",
+        "file_name": "com.hnfystep.duoduo_26.apk",
+        "app_activity": "com.ts.app.flutter_walk_step.MainActivity"
+    },
+    {
+        "app_name": "步步回响",
+        "package_name": "com.convenelicit.echo",
+        "file_name": "com.convenelicit.echo_27.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "妙妙走路",
+        "package_name": "com.hskj.mmzl",
+        "file_name": "com.hskj.mmzl_28.apk",
+        "app_activity": "com.walk.home.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "夏日计步",
+        "package_name": "com.hskj.xrjb",
+        "file_name": "com.hskj.xrjb_29.apk",
+        "app_activity": "com.walk.home.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "DayBand",
+        "package_name": "com.yc.dayband",
+        "file_name": "com.yc.dayband_30.apk",
+        "app_activity": "com.yc.pedometer.SplashActivity"
+    },
+    {
+        "app_name": "走路快乐行",
+        "package_name": "com.convendevoid.klx",
+        "file_name": "com.convendevoid.klx_31.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "有心跳舞蹈",
+        "package_name": "cn.train2win.ai",
+        "file_name": "cn.train2win.ai_32.apk",
+        "app_activity": "cn.train2win.ai.SplashActivity"
+    },
+    {
+        "app_name": "万步健康",
+        "package_name": "com.wanbu.dascom",
+        "file_name": "com.wanbu.dascom_33.apk",
+        "app_activity": "com.wanbu.dascom.module_login.activity.SplashActivity"
+    },
+    {
+        "app_name": "热量减肥小本fit卡路里",
+        "package_name": "cn.tongbingshunag.rljianfei",
+        "file_name": "cn.tongbingshunag.rljianfei_34.apk",
+        "app_activity": "com.example.unimpdemo.activity.SplashActivity"
+    },
+    {
+        "app_name": "绿色走路",
+        "package_name": "com.gzxx.lszl",
+        "file_name": "com.gzxx.lszl_35.apk",
+        "app_activity": "com.walk.home.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "向阳计步",
+        "package_name": "com.gzxx.xyjb",
+        "file_name": "com.gzxx.xyjb_36.apk",
+        "app_activity": "com.walk.home.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "小小运动家",
+        "package_name": "com.magic.ball.sport",
+        "file_name": "com.magic.ball.sport_37.apk",
+        "app_activity": "com.magic.ball.sport.activity.SplashActivity"
+    },
+    {
+        "app_name": "龙跃飞步",
+        "package_name": "com.dehydmateria.invitin",
+        "file_name": "com.dehydmateria.invitin_38.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "Watch V9C",
+        "package_name": "com.zhapp.skgwatchv9c",
+        "file_name": "com.zhapp.skgwatchv9c_39.apk",
+        "app_activity": "com.zhapp.skgwatchv9c.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "运动世界校园",
+        "package_name": "com.zjwh.android_wh_physicalfitness",
+        "file_name": "com.zjwh.android_wh_physicalfitness_40.apk",
+        "app_activity": "com.zjwh.android_wh_physicalfitness.activity.SplashActivity"
+    },
+    {
+        "app_name": "樱花计步",
+        "package_name": "com.yinghuajb.walker",
+        "file_name": "com.yinghuajb.walker_41.apk",
+        "app_activity": "com.stepqiantu.pro.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "走路赚钱王",
+        "package_name": "com.fzjclyi.scfalf",
+        "file_name": "com.fzjclyi.scfalf_42.apk",
+        "app_activity": "com.towards.neyom.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "黑鸟单车",
+        "package_name": "com.bamboo.ibike",
+        "file_name": "com.bamboo.ibike_43.apk",
+        "app_activity": "com.bamboo.ibike.module.main.UserAgreementStartActivity"
+    },
+    {
+        "app_name": "Wearfit Pro",
+        "package_name": "com.wakeup.howear",
+        "file_name": "com.wakeup.howear_44.apk",
+        "app_activity": "com.wakeup.howear.view.app.SplashActivity"
+    },
+    {
+        "app_name": "HeyTap Health",
+        "package_name": "com.heytap.health",
+        "file_name": "com.heytap.health_45.apk",
+        "app_activity": "com.heytap.health.oobe.LaunchActivity"
+    },
+    {
+        "app_name": "健行足迹",
+        "package_name": "com.jxzjsport.helper",
+        "file_name": "com.jxzjsport.helper_46.apk",
+        "app_activity": "neo.android.ctscroge.tjb.launch.LauncherActivity"
+    },
+    {
+        "app_name": "奇幻计步",
+        "package_name": "com.atrocitdelicat.adverse",
+        "file_name": "com.atrocitdelicat.adverse_47.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "乐动健康生活",
+        "package_name": "com.tjd.lelife",
+        "file_name": "com.tjd.lelife_48.apk",
+        "app_activity": "com.tjd.lelife.view.app.SplashActivity"
+    },
+    {
+        "app_name": "凯格尔运动",
+        "package_name": "com.yuanlue.kegel",
+        "file_name": "com.yuanlue.kegel_49.apk",
+        "app_activity": "com.yuanlue.kegel.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "洪恩爱运动",
+        "package_name": "com.ihuman.jump",
+        "file_name": "com.ihuman.jump_50.apk",
+        "app_activity": "com.ihuman.aijump.splash.JumpSplashActivity"
+    },
+    {
+        "app_name": "走路诸事顺",
+        "package_name": "com.divergentice.smooth",
+        "file_name": "com.divergentice.smooth_51.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "步道乐跑",
+        "package_name": "com.lptiyu.tanke",
+        "file_name": "com.lptiyu.tanke_52.apk",
+        "app_activity": "com.lptiyu.tanke.activities.splash.SplashActivity"
+    },
+    {
+        "app_name": "顽鹿竞技",
+        "package_name": "com.magene.onelapMatch",
+        "file_name": "com.magene.onelapMatch_53.apk",
+        "app_activity": "com.unity3d.player.UnityPlayerActivity"
+    },
+    {
+        "app_name": "花开健步",
+        "package_name": "com.flower.gym.step.hkjb",
+        "file_name": "com.flower.gym.step.hkjb_54.apk",
+        "app_activity": "com.fltapp.hkjb.app.activity.HKJBSplashActivity"
+    },
+    {
+        "app_name": "betterWE星球",
+        "package_name": "com.wegymer.betterwe",
+        "file_name": "com.wegymer.betterwe_55.apk",
+        "app_activity": "com.wegymer.betterwe.MainActivity"
+    },
+    {
+        "app_name": "运动走路计步器",
+        "package_name": "com.tskj.jibuq",
+        "file_name": "com.tskj.jibuq_56.apk",
+        "app_activity": "com.huilong.tskj.activity.SplashCSJActivity"
+    },
+    {
+        "app_name": "HryFine",
+        "package_name": "com.whs.ylsh",
+        "file_name": "com.whs.ylsh_57.apk",
+        "app_activity": "com.whs.ylsh.SplashActivity"
+    },
+    {
+        "app_name": "计步趣多多",
+        "package_name": "com.qwgf.jbqdd",
+        "file_name": "com.qwgf.jbqdd_58.apk",
+        "app_activity": "com.walk.home.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "计出好健康",
+        "package_name": "walk.walk.jiankangbao",
+        "file_name": "walk.walk.jiankangbao_59.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "走路有喜",
+        "package_name": "com.awkwaraccurat.discip",
+        "file_name": "com.awkwaraccurat.discip_60.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "步行计",
+        "package_name": "panda.mango.lily.penholder",
+        "file_name": "panda.mango.lily.penholder_61.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "懒人减肥fit瘦身小目标",
+        "package_name": "cn.fangdingtech.fit",
+        "file_name": "cn.fangdingtech.fit_62.apk",
+        "app_activity": "com.example.unimpdemo.activity.SplashActivity"
+    },
+    {
+        "app_name": "体重日记本",
+        "package_name": "cn.weixiaowenghua.weight",
+        "file_name": "cn.weixiaowenghua.weight_63.apk",
+        "app_activity": "cn.weixiaowenghua.weight.SplashAdActivity"
+    },
+    {
+        "app_name": "福禄计步",
+        "package_name": "com.apteradica.suitab",
+        "file_name": "com.apteradica.suitab_64.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "凌云计步",
+        "package_name": "com.stringawkwar.clouds",
+        "file_name": "com.stringawkwar.clouds_65.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "热汗舞蹈",
+        "package_name": "com.dancefitme.cn",
+        "file_name": "com.dancefitme.cn_66.apk",
+        "app_activity": "com.dancefitme.cn.ui.SplashActivity"
+    },
+    {
+        "app_name": "益智拼图",
+        "package_name": "com.happytime.puzzle.lucky.free",
+        "file_name": "com.happytime.puzzle.lucky.free_67.apk",
+        "app_activity": "com.happytime.puzzle.lucky.free.activity.SplashActivity2"
+    },
+    {
+        "app_name": "MasWear",
+        "package_name": "com.lhzl.maswear",
+        "file_name": "com.lhzl.maswear_68.apk",
+        "app_activity": "com.lhzl.maswear.WelcomeActivity"
+    },
+    {
+        "app_name": "禄盈步数",
+        "package_name": "com.foot.fortune.lybs",
+        "file_name": "com.foot.fortune.lybs_69.apk",
+        "app_activity": "com.fltapp.lybs.app.activity.LYBSSplashActivity"
+    },
+    {
+        "app_name": "走路有福气",
+        "package_name": "walk.walk.early.hasfuqi.one",
+        "file_name": "walk.walk.early.hasfuqi.one_70.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "足球中国",
+        "package_name": "com.csly.greenchina",
+        "file_name": "com.csly.greenchina_71.apk",
+        "app_activity": "com.csly.greenchina.base.LaunchActivity"
+    },
+    {
+        "app_name": "双龙走路",
+        "package_name": "com.yuchen.slzl",
+        "file_name": "com.yuchen.slzl_72.apk",
+        "app_activity": "com.walk.home.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "Fit健身",
+        "package_name": "com.sportq.fit",
+        "file_name": "com.sportq.fit_73.apk",
+        "app_activity": "com.sportq.fit.business.account.activity.SptStartAppActivity"
+    },
+    {
+        "app_name": "顽鹿运动",
+        "package_name": "com.onelap.bls.dear",
+        "file_name": "com.onelap.bls.dear_74.apk",
+        "app_activity": "com.onelap.bls.dear.activity.riding_splash.SplashActivity"
+    },
+    {
+        "app_name": "悦动圈",
+        "package_name": "com.yuedong.sport",
+        "file_name": "com.yuedong.sport_75.apk",
+        "app_activity": "com.yuedong.sport.main.WelcomeActivity_"
+    },
+    {
+        "app_name": "计步小达人",
+        "package_name": "com.chituo.jbwsb",
+        "file_name": "com.chituo.jbwsb_76.apk",
+        "app_activity": "com.walk.home.health.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "计步探险家",
+        "package_name": "com.wanze.jbtxj",
+        "file_name": "com.wanze.jbtxj_77.apk",
+        "app_activity": "com.walk.home.health.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "凯格尔Go",
+        "package_name": "com.wt.wtkegelsports",
+        "file_name": "com.wt.wtkegelsports_78.apk",
+        "app_activity": "com.wt.wtkegelsports.StartPageActivity"
+    },
+    {
+        "app_name": "皓月计步",
+        "package_name": "com.doltthoro.moon",
+        "file_name": "com.doltthoro.moon_79.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "咕咚",
+        "package_name": "com.codoon.gps",
+        "file_name": "com.codoon.gps_80.apk",
+        "app_activity": "com.codoon.gps.ui.login.WelcomeActivity"
+    },
+    {
+        "app_name": "怪兽轻断食",
+        "package_name": "weightloss.fasting.tracker.cn",
+        "file_name": "weightloss.fasting.tracker.cn_81.apk",
+        "app_activity": "weightloss.fasting.tracker.cn.ui.splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "运动计步助手",
+        "package_name": "com.lshy.ydjbzs",
+        "file_name": "com.lshy.ydjbzs_82.apk",
+        "app_activity": "com.walk.home.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "BMI体重记录器",
+        "package_name": "cn.weilaihongtech.weight",
+        "file_name": "cn.weilaihongtech.weight_83.apk",
+        "app_activity": "com.example.unimpdemo.activity.SplashActivity"
+    },
+    {
+        "app_name": "给料体育",
+        "package_name": "com.geiliao.sports",
+        "file_name": "com.geiliao.sports_84.apk",
+        "app_activity": "com.qiudashi.qiudashitiyu.SplashActivity"
+    },
+    {
+        "app_name": "健步走一走",
+        "package_name": "com.xingchen.jbzyz",
+        "file_name": "com.xingchen.jbzyz_85.apk",
+        "app_activity": "com.walk.home.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "计步有好运",
+        "package_name": "walk.lucky.hasgoodluck",
+        "file_name": "walk.lucky.hasgoodluck_86.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "亿健运动",
+        "package_name": "com.yjtt.yijianfit",
+        "file_name": "com.yjtt.yijianfit_87.apk",
+        "app_activity": "com.xq.phone.main.splash.SplashActivity"
+    },
+    {
+        "app_name": "轻颖",
+        "package_name": "com.yoda.qyscale",
+        "file_name": "com.yoda.qyscale_88.apk",
+        "app_activity": "com.yoda.qyscale.ui.login.WelcomeActivity"
+    },
+    {
+        "app_name": "Jogging Tracker",
+        "package_name": "joggingtracker.joglog.metronome",
+        "file_name": "joggingtracker.joglog.metronome_89.apk",
+        "app_activity": "com.example.jogging.MainActivity"
+    },
+    {
+        "app_name": "走路益多多",
+        "package_name": "com.allotdangl.action",
+        "file_name": "com.allotdangl.action_90.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "卡路里热量计算",
+        "package_name": "cn.wg.calculator",
+        "file_name": "cn.wg.calculator_91.apk",
+        "app_activity": "com.example.unimpdemo.activity.SplashActivity"
+    },
+    {
+        "app_name": "QdFit Pro",
+        "package_name": "com.zxhd.qdfitpro",
+        "file_name": "com.zxhd.qdfitpro_92.apk",
+        "app_activity": "cn.k6_wrist_android.activity.login.SplashActivity"
+    },
+    {
+        "app_name": "逸步怡然",
+        "package_name": "com.foot.quiet.ybyr",
+        "file_name": "com.foot.quiet.ybyr_93.apk",
+        "app_activity": "com.fltapp.ybyr.app.activity.YBYRSplashActivity"
+    },
+    {
+        "app_name": "悦动一刻",
+        "package_name": "com.health.moments.ydyk",
+        "file_name": "com.health.moments.ydyk_94.apk",
+        "app_activity": "com.relax.game.commongamenew.activity.TransferActivity"
+    },
+    {
+        "app_name": "舒华运动",
+        "package_name": "com.shuhua.paobu",
+        "file_name": "com.shuhua.paobu_95.apk",
+        "app_activity": "com.shuhua.paobu.activity.SplashActivity"
+    },
+    {
+        "app_name": "跑步健身助手",
+        "package_name": "com.lalawangluo.fitness",
+        "file_name": "com.lalawangluo.fitness_96.apk",
+        "app_activity": "com.sqcat.project.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "走路计步快",
+        "package_name": "com.jibu.kuai",
+        "file_name": "com.jibu.kuai_97.apk",
+        "app_activity": "com.jibu.kuai.ui.HomeSplashActivity"
+    },
+    {
+        "app_name": "虎步龙行",
+        "package_name": "com.wlhy.hblx",
+        "file_name": "com.wlhy.hblx_98.apk",
+        "app_activity": "com.walk.home.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "每天计步健康宝",
+        "package_name": "com.hdkj.civilwalk",
+        "file_name": "com.hdkj.civilwalk_99.apk",
+        "app_activity": "com.hdkj.civilwalk.MainActivity"
+    },
+    {
+        "app_name": "步悦福盈",
+        "package_name": "com.luckfull.walk.byfy",
+        "file_name": "com.luckfull.walk.byfy_100.apk",
+        "app_activity": "com.sky.rewardmore.ui.activity.StepLaunchActivity"
+    },
+    {
+        "app_name": "硬汗健身",
+        "package_name": "com.longnanming.musclefitness",
+        "file_name": "com.longnanming.musclefitness_101.apk",
+        "app_activity": "com.longnanming.musclefitness.MainActivity"
+    },
+    {
+        "app_name": "每日健身减肥",
+        "package_name": "com.anqingjl.fitness",
+        "file_name": "com.anqingjl.fitness_102.apk",
+        "app_activity": "com.lalawangluo.fitness.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "跳跳舞蹈",
+        "package_name": "com.tiaooo.aaron",
+        "file_name": "com.tiaooo.aaron_103.apk",
+        "app_activity": "com.tiaooo.aaron.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "微健",
+        "package_name": "cn.newugo.app",
+        "file_name": "cn.newugo.app_104.apk",
+        "app_activity": "cn.newugo.app.entry.activity.ActivityEntry"
+    },
+    {
+        "app_name": "Joyrun",
+        "package_name": "co.runner.app",
+        "file_name": "co.runner.app_105.apk",
+        "app_activity": "co.runner.app.home_v4.activity.HomeActivityV5"
+    },
+    {
+        "app_name": "行云走路",
+        "package_name": "com.sofomob.fcwalk",
+        "file_name": "com.sofomob.fcwalk_106.apk",
+        "app_activity": "neo.android.ctscroge.tjb.launch.LauncherActivity"
+    },
+    {
+        "app_name": "Yesoul",
+        "package_name": "yesoul.yesoulmobile",
+        "file_name": "yesoul.yesoulmobile_107.apk",
+        "app_activity": "com.yesoulchina.bicycle.ui.SpalshActivity"
+    },
+    {
+        "app_name": "健步寻宝",
+        "package_name": "com.peml.jbxb",
+        "file_name": "com.peml.jbxb_108.apk",
+        "app_activity": "com.guzhen.main.LaunchActivity"
+    },
+    {
+        "app_name": "行云健步",
+        "package_name": "com.cloud.step.walk",
+        "file_name": "com.cloud.step.walk_109.apk",
+        "app_activity": "com.fltapp.xyjb.app.activity.XYJBSplashActivity"
+    },
+    {
+        "app_name": "酷玩",
+        "package_name": "com.jxhy.kuwan",
+        "file_name": "com.jxhy.kuwan_110.apk",
+        "app_activity": "com.jxhy.kuwan.UnityPlayerActivity"
+    },
+    {
+        "app_name": "百分运动",
+        "package_name": "com.zybang.bfsports",
+        "file_name": "com.zybang.bfsports_111.apk",
+        "app_activity": "com.zybang.sports.activity.init.InitActivity"
+    },
+    {
+        "app_name": "MActivePro",
+        "package_name": "com.njj.mactivepro",
+        "file_name": "com.njj.mactivepro_112.apk",
+        "app_activity": "com.njj.mactivepro.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "我奥篮球",
+        "package_name": "net.woaoo",
+        "file_name": "net.woaoo_113.apk",
+        "app_activity": "net.woaoo.WelcomeActivity"
+    },
+    {
+        "app_name": "步步灿烂",
+        "package_name": "com.dozedot.akin",
+        "file_name": "com.dozedot.akin_114.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "天天跑步",
+        "package_name": "cn.houapp.dayday.run",
+        "file_name": "cn.houapp.dayday.run_115.apk",
+        "app_activity": "cn.houapp.dayday.run.ui.RunSplashActivity"
+    },
+    {
+        "app_name": "初练瑜伽",
+        "package_name": "com.ayay.yoga",
+        "file_name": "com.ayay.yoga_116.apk",
+        "app_activity": "com.ayay.yoga.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "Sunri",
+        "package_name": "com.xlkj.international.sunri",
+        "file_name": "com.xlkj.international.sunri_117.apk",
+        "app_activity": "com.ihd.ihardware.ui.splash.SplashV2Activity"
+    },
+    {
+        "app_name": "隆运计步",
+        "package_name": "com.atrocitelicit.arroga",
+        "file_name": "com.atrocitelicit.arroga_118.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "体重日记",
+        "package_name": "com.kproduce.weight",
+        "file_name": "com.kproduce.weight_119.apk",
+        "app_activity": "com.kproduce.weight.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "乐动力",
+        "package_name": "cn.ledongli.ldl",
+        "file_name": "cn.ledongli.ldl_120.apk",
+        "app_activity": "cn.ledongli.ldl.activity.SplashScreenActivity"
+    },
+    {
+        "app_name": "活力跑步计数器",
+        "package_name": "cn.ganchaoli.fit",
+        "file_name": "cn.ganchaoli.fit_121.apk",
+        "app_activity": "cn.ganchaoli.fit.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "直播吧",
+        "package_name": "android.zhibo8",
+        "file_name": "android.zhibo8_122.apk",
+        "app_activity": "android.zhibo8.ui.contollers.main.LaunchActivity"
+    },
+    {
+        "app_name": "记步行",
+        "package_name": "walk.walk.early.buxingji",
+        "file_name": "walk.walk.early.buxingji_123.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "练练健身",
+        "package_name": "com.gzyunke.lianlian",
+        "file_name": "com.gzyunke.lianlian_124.apk",
+        "app_activity": "com.gzyunke.lianlian.MainActivity"
+    },
+    {
+        "app_name": "佳妍妙舞",
+        "package_name": "com.elegantdance.jymw",
+        "file_name": "com.elegantdance.jymw_125.apk",
+        "app_activity": "com.xuanle.common.activity.TransferActivity"
+    },
+    {
+        "app_name": "走路有朝气",
+        "package_name": "walk.go.early.youzhaoqi",
+        "file_name": "walk.go.early.youzhaoqi_126.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "走路送福",
+        "package_name": "com.xtxx.zlsf",
+        "file_name": "com.xtxx.zlsf_127.apk",
+        "app_activity": "com.walk.home.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "风云计步",
+        "package_name": "com.delibeacid.ambiva",
+        "file_name": "com.delibeacid.ambiva_128.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "步行天天计",
+        "package_name": "walk.walk.early.daydaycount",
+        "file_name": "walk.walk.early.daydaycount_129.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "步步有礼",
+        "package_name": "com.wanze.bbyl",
+        "file_name": "com.wanze.bbyl_130.apk",
+        "app_activity": "com.walk.home.health.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "朝露计步",
+        "package_name": "com.elevateadequ.dew",
+        "file_name": "com.elevateadequ.dew_131.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "登月计划",
+        "package_name": "com.dengyue.jihua",
+        "file_name": "com.dengyue.jihua_132.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "走路天天乐",
+        "package_name": "com.happydd.spotep",
+        "file_name": "com.happydd.spotep_133.apk",
+        "app_activity": "neo.android.ctscroge.tjb.launch.LauncherActivity"
+    },
+    {
+        "app_name": "走路好宝",
+        "package_name": "walk.walk.early.goodbaobao",
+        "file_name": "walk.walk.early.goodbaobao_134.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "健康守护者",
+        "package_name": "com.quliang.jkshz",
+        "file_name": "com.quliang.jkshz_135.apk",
+        "app_activity": "com.walk.home.health.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "饭橘",
+        "package_name": "com.youqi.fjjf",
+        "file_name": "com.youqi.fjjf_136.apk",
+        "app_activity": "net.sxyj.keep.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "每日走路赚",
+        "package_name": "com.yt.mrzl",
+        "file_name": "com.yt.mrzl_137.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "马拉马拉",
+        "package_name": "com.smart_invest.marathonappforandroid",
+        "file_name": "com.smart_invest.marathonappforandroid_138.apk",
+        "app_activity": "com.smart_invest.marathonappforandroid.view.activity.MainActivity"
+    },
+    {
+        "app_name": "普拉提运动",
+        "package_name": "com.wtp.wtpilates",
+        "file_name": "com.wtp.wtpilates_139.apk",
+        "app_activity": "com.wtp.wtpilates.StartPageActivity"
+    },
+    {
+        "app_name": "小猪计步",
+        "package_name": "com.hqkj.pigwalk",
+        "file_name": "com.hqkj.pigwalk_140.apk",
+        "app_activity": "com.hqkj.pigwalk.MainActivity"
+    },
+    {
+        "app_name": "步步繁荣",
+        "package_name": "com.doggbear.bbfr",
+        "file_name": "com.doggbear.bbfr_141.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "运动健康计步",
+        "package_name": "com.pang.sport",
+        "file_name": "com.pang.sport_142.apk",
+        "app_activity": "com.pang.sport.ui.SplashActivity"
+    },
+    {
+        "app_name": "小奔运动",
+        "package_name": "rnapkapp.xiaobty.btbb.cn",
+        "file_name": "rnapkapp.xiaobty.btbb.cn_143.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "走路健身宝",
+        "package_name": "kangaroo.kiwi.birch.highlighter.one",
+        "file_name": "kangaroo.kiwi.birch.highlighter.one_144.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "一起爱走走",
+        "package_name": "zebra.blackberry.carnation.clipboard",
+        "file_name": "zebra.blackberry.carnation.clipboard_145.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "天天爱步走",
+        "package_name": "walk.walk.early.everydaywalk",
+        "file_name": "walk.walk.early.everydaywalk_146.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "Keep",
+        "package_name": "com.gotokeep.keep",
+        "file_name": "com.gotokeep.keep_147.apk",
+        "app_activity": "com.gotokeep.keep.splash.SplashActivity"
+    },
+    {
+        "app_name": "第一赛道",
+        "package_name": "com.sport.record",
+        "file_name": "com.sport.record_148.apk",
+        "app_activity": "com.sport.record.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "龙福走好运",
+        "package_name": "walk.walk.early.walkgoodluck",
+        "file_name": "walk.walk.early.walkgoodluck_149.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "充点能量",
+        "package_name": "com.uklr.cdnl",
+        "file_name": "com.uklr.cdnl_150.apk",
+        "app_activity": "com.guzhen.main.LaunchActivity"
+    },
+    {
+        "app_name": "步多多",
+        "package_name": "com.qsmy.walkmonkey",
+        "file_name": "com.qsmy.walkmonkey_151.apk",
+        "app_activity": "com.qsmy.busniess.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "雷超计步走",
+        "package_name": "walk.walk.early.laichaojbz",
+        "file_name": "walk.walk.early.laichaojbz_152.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "乐跑",
+        "package_name": "com.vanke.lepao",
+        "file_name": "com.vanke.lepao_153.apk",
+        "app_activity": "com.vanke.lepao.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "每天计步走",
+        "package_name": "com.hzshkong.mtjbzou",
+        "file_name": "com.hzshkong.mtjbzou_154.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "清韵计步",
+        "package_name": "com.xcxx.qyjb",
+        "file_name": "com.xcxx.qyjb_155.apk",
+        "app_activity": "com.walk.home.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "小熊减肥体重日记",
+        "package_name": "cn.daiwenwei.weight",
+        "file_name": "cn.daiwenwei.weight_156.apk",
+        "app_activity": "com.example.unimpdemo.activity.BootActivity"
+    },
+    {
+        "app_name": "AI体感跳绳计数器",
+        "package_name": "com.tjrd.aijumprope",
+        "file_name": "com.tjrd.aijumprope_157.apk",
+        "app_activity": "com.ltmb.aidance.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "威尔仕健身",
+        "package_name": "com.aidong.wills",
+        "file_name": "com.aidong.wills_158.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "MERIT超燃脂",
+        "package_name": "uni.UNIE7FC6F0",
+        "file_name": "uni.UNIE7FC6F0_159.apk",
+        "app_activity": "uni.UNIE7FC6F0.view.logo.SplashActivity"
+    },
+    {
+        "app_name": "步步好运来",
+        "package_name": "walk.luck.bubuyunlai",
+        "file_name": "walk.luck.bubuyunlai_160.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "步步祥和",
+        "package_name": "com.peaceful.waik.bbxh",
+        "file_name": "com.peaceful.waik.bbxh_161.apk",
+        "app_activity": "com.geek.superpower.ui.activity.CNDCGJSplashActivity"
+    },
+    {
+        "app_name": "FunDo Health",
+        "package_name": "com.cqkct.fundo.health",
+        "file_name": "com.cqkct.fundo.health_162.apk",
+        "app_activity": "com.szkct.weloopbtsmartdevice.main.WelcomeActivityNew"
+    },
+    {
+        "app_name": "Band V3",
+        "package_name": "com.skg.watchV3",
+        "file_name": "com.skg.watchV3_163.apk",
+        "app_activity": "com.crrepa.band.my.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "NewWear",
+        "package_name": "com.newera.fit",
+        "file_name": "com.newera.fit_164.apk",
+        "app_activity": "com.jieli.healthaide.ui.home.LauncherActivity"
+    },
+    {
+        "app_name": "走路新视野",
+        "package_name": "com.chillyefface.declare",
+        "file_name": "com.chillyefface.declare_165.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "动起来鸭",
+        "package_name": "com.meiyu.follow",
+        "file_name": "com.meiyu.follow_166.apk",
+        "app_activity": "com.meiyu.follow.page.activity.SplashActivity"
+    },
+    {
+        "app_name": "凯格尔成人PC运动",
+        "package_name": "com.kegel.movement",
+        "file_name": "com.kegel.movement_167.apk",
+        "app_activity": "com.kegel.movement.MainActivity"
+    },
+    {
+        "app_name": "Smart Wristband 3",
+        "package_name": "com.jaga.ibraceletplus.smartwristband3",
+        "file_name": "com.jaga.ibraceletplus.smartwristband3_168.apk",
+        "app_activity": "com.yc.pedometer.SplashActivity"
+    },
+    {
+        "app_name": "奇幻滑雪",
+        "package_name": "com.hash.skiingS_HVR",
+        "file_name": "com.hash.skiingS_HVR_169.apk",
+        "app_activity": "com.example.unityandroidlibrary.MainActivity"
+    },
+    {
+        "app_name": "小鹿计步",
+        "package_name": "com.spoa.sikawalk",
+        "file_name": "com.spoa.sikawalk_170.apk",
+        "app_activity": "neo.android.ctscroge.tjb.launch.LauncherActivity"
+    },
+    {
+        "app_name": "黄桃计步",
+        "package_name": "cat.walk.yellowpeach",
+        "file_name": "cat.walk.yellowpeach_171.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "福来计步",
+        "package_name": "com.hzhanyuan.fljbu",
+        "file_name": "com.hzhanyuan.fljbu_172.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "M2 Wear",
+        "package_name": "com.lianhezhuli.mtwear",
+        "file_name": "com.lianhezhuli.mtwear_173.apk",
+        "app_activity": "com.lianhezhuli.mtwear.WelcomeActivity"
+    },
+    {
+        "app_name": "走路赚钱花",
+        "package_name": "com.bgshf.vkcqfqg",
+        "file_name": "com.bgshf.vkcqfqg_174.apk",
+        "app_activity": "com.bgshf.vkcqfqg.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "安全守护2",
+        "package_name": "com.tgelec.aqsh",
+        "file_name": "com.tgelec.aqsh_175.apk",
+        "app_activity": "com.tgelec.module_login.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "计步多宝",
+        "package_name": "walk.walk.early.muchbao",
+        "file_name": "walk.walk.early.muchbao_176.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "微步运动",
+        "package_name": "com.microtarget.step",
+        "file_name": "com.microtarget.step_177.apk",
+        "app_activity": "com.microtarget.step.StartLogoActivity"
+    },
+    {
+        "app_name": "捷安特骑行",
+        "package_name": "com.giantkunshan.giant",
+        "file_name": "com.giantkunshan.giant_178.apk",
+        "app_activity": "tw.com.program.ridelifegc.ui.LaunchActivity"
+    },
+    {
+        "app_name": "天天爱跳绳",
+        "package_name": "com.vjnkyc.acqsx",
+        "file_name": "com.vjnkyc.acqsx_179.apk",
+        "app_activity": "com.base.product.activity.SplashActivity"
+    },
+    {
+        "app_name": "悦步生风",
+        "package_name": "com.crest.wave.ybsf",
+        "file_name": "com.crest.wave.ybsf_180.apk",
+        "app_activity": "com.geek.superpower.ui.activity.CNDCGJSplashActivity"
+    },
+    {
+        "app_name": "每日瑜伽",
+        "package_name": "com.dailyyoga.cn",
+        "file_name": "com.dailyyoga.cn_181.apk",
+        "app_activity": "com.dailyyoga.cn.module.welcome.AdvertActivity"
+    },
+    {
+        "app_name": "步步轻松",
+        "package_name": "com.bubu.qingsong",
+        "file_name": "com.bubu.qingsong_182.apk",
+        "app_activity": "com.shfj.business.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "健身宝典",
+        "package_name": "com.yisheng.buttfitness",
+        "file_name": "com.yisheng.buttfitness_183.apk",
+        "app_activity": "com.yisheng.buttfitness.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "CPG",
+        "package_name": "com.cpg.start",
+        "file_name": "com.cpg.start_184.apk",
+        "app_activity": "com.cpg.start.PrivacyActivity"
+    },
+    {
+        "app_name": "每日健步乐",
+        "package_name": "com.hzyuanting.mrjble",
+        "file_name": "com.hzyuanting.mrjble_185.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "许愿计步",
+        "package_name": "com.guangliang.xyjb",
+        "file_name": "com.guangliang.xyjb_186.apk",
+        "app_activity": "com.jingling.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "运动计步器",
+        "package_name": "com.fhx.ydjbq",
+        "file_name": "com.fhx.ydjbq_187.apk",
+        "app_activity": "com.fhx.gumiyd.Activity.LaunchActivity"
+    },
+    {
+        "app_name": "如意走路宝",
+        "package_name": "walk.walk.early.ruyizou",
+        "file_name": "walk.walk.early.ruyizou_188.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "夜跑运动健康",
+        "package_name": "com.weilaihong.nightrun",
+        "file_name": "com.weilaihong.nightrun_189.apk",
+        "app_activity": "com.weilaihong.nightrun.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "晨曦计步",
+        "package_name": "com.yjwl.cxjb",
+        "file_name": "com.yjwl.cxjb_190.apk",
+        "app_activity": "com.walk.home.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "天天走走",
+        "package_name": "com.yjwl.ttzz",
+        "file_name": "com.yjwl.ttzz_191.apk",
+        "app_activity": "com.walk.home.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "多宝好走路",
+        "package_name": "monkey.blueberry.cactus.glue",
+        "file_name": "monkey.blueberry.cactus.glue_192.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "逐光足记",
+        "package_name": "com.zhuguang.zgzj.cn",
+        "file_name": "com.zhuguang.zgzj.cn_193.apk",
+        "app_activity": "com.run.sports.main.privacy.PrivacyActivity"
+    },
+    {
+        "app_name": "运动健康Go",
+        "package_name": "com.lilai.fitness",
+        "file_name": "com.lilai.fitness_194.apk",
+        "app_activity": "com.lilai.fitness.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "fitness健身食谱运动减肥",
+        "package_name": "com.xunzan.caloricloss",
+        "file_name": "com.xunzan.caloricloss_195.apk",
+        "app_activity": "com.sqcat.project.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "计步走龙运",
+        "package_name": "walk.walk.early.godragonluck.one",
+        "file_name": "walk.walk.early.godragonluck.one_196.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "走路小飞侠",
+        "package_name": "com.misleadbrillia.analog",
+        "file_name": "com.misleadbrillia.analog_197.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "马拉松报名",
+        "package_name": "com.hpaopao.marathon",
+        "file_name": "com.hpaopao.marathon_198.apk",
+        "app_activity": "com.hpaopao.marathon.activity.SplashActivity"
+    },
+    {
+        "app_name": "步步鸿运",
+        "package_name": "com.dingydeclivi.astute",
+        "file_name": "com.dingydeclivi.astute_200.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "电子宠物机",
+        "package_name": "com.peggy_cat_hw.phonegt",
+        "file_name": "com.peggy_cat_hw.phonegt_201.apk",
+        "app_activity": "com.peggy_cat_hw.phonegt.LoadingActivity"
+    },
+    {
+        "app_name": "天天走路计",
+        "package_name": "fish.walk.zouluji",
+        "file_name": "fish.walk.zouluji_202.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "Da Fit",
+        "package_name": "com.crrepa.band.dafit",
+        "file_name": "com.crrepa.band.dafit_203.apk",
+        "app_activity": "com.crrepa.band.my.SplashActivity"
+    },
+    {
+        "app_name": "律动鼓点舞",
+        "package_name": "space.xinzhi.dance",
+        "file_name": "space.xinzhi.dance_204.apk",
+        "app_activity": "space.xinzhi.dance.ui.SplashActivity"
+    },
+    {
+        "app_name": "走路乐满怀",
+        "package_name": "com.draindilige.daring",
+        "file_name": "com.draindilige.daring_205.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "摄星天天走一走",
+        "package_name": "walk.walk.early.daydaywalk.one",
+        "file_name": "walk.walk.early.daydaywalk.one_206.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "运动高手秀",
+        "package_name": "org.qingzhou.cn.sportshow",
+        "file_name": "org.qingzhou.cn.sportshow_207.apk",
+        "app_activity": "org.qingzhou.cn.sportshow.activity.SplashActivity"
+    },
+    {
+        "app_name": "当燃",
+        "package_name": "com.wayxtech.dangran",
+        "file_name": "com.wayxtech.dangran_208.apk",
+        "app_activity": "com.wayxtech.dangran.MainActivity"
+    },
+    {
+        "app_name": "Sports",
+        "package_name": "com.garmin.android.apps.gccm",
+        "file_name": "com.garmin.android.apps.gccm_209.apk",
+        "app_activity": "com.garmin.android.apps.gccm.MainActivity"
+    },
+    {
+        "app_name": "跑步计fit减肥",
+        "package_name": "cn.diaoyuey.sport",
+        "file_name": "cn.diaoyuey.sport_210.apk",
+        "app_activity": "cn.diaoyuey.sport.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "小球迷",
+        "package_name": "co.xiaoqiumi",
+        "file_name": "co.xiaoqiumi_211.apk",
+        "app_activity": "co.xiaoqiumi.MainActivity"
+    },
+    {
+        "app_name": "Suunto",
+        "package_name": "com.stt.android.suunto.china",
+        "file_name": "com.stt.android.suunto.china_212.apk",
+        "app_activity": "com.stt.android.launcher.ProxyActivity"
+    },
+    {
+        "app_name": "步步生花",
+        "package_name": "com.zhaoxin.bbsh",
+        "file_name": "com.zhaoxin.bbsh_213.apk",
+        "app_activity": "com.walk.home.health.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "球半",
+        "package_name": "txkj.xian.com.txproject",
+        "file_name": "txkj.xian.com.txproject_214.apk",
+        "app_activity": "txkj.xian.com.txproject.MainActivity"
+    },
+    {
+        "app_name": "热辣爽刷",
+        "package_name": "com.nvbc.rlss",
+        "file_name": "com.nvbc.rlss_215.apk",
+        "app_activity": "com.guzhen.main.LaunchActivity"
+    },
+    {
+        "app_name": "乐刻运动",
+        "package_name": "com.leoao.fitness",
+        "file_name": "com.leoao.fitness_216.apk",
+        "app_activity": "com.leoao.fitness.main.SplashActivity"
+    },
+    {
+        "app_name": "COROS",
+        "package_name": "com.yf.smart.coros.dist",
+        "file_name": "com.yf.smart.coros.dist_217.apk",
+        "app_activity": "com.yf.smart.weloopx.app.entry.SplashScreenActivity"
+    },
+    {
+        "app_name": "全民走路计",
+        "package_name": "walk.walk.early.allwalkgo",
+        "file_name": "walk.walk.early.allwalkgo_218.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "健康广场舞",
+        "package_name": "com.lsh.gcw",
+        "file_name": "com.lsh.gcw_219.apk",
+        "app_activity": "com.lsh.gcw.ui.SplashActivity"
+    },
+    {
+        "app_name": "薄荷广场舞",
+        "package_name": "com.anqingjl.gcw",
+        "file_name": "com.anqingjl.gcw_220.apk",
+        "app_activity": "com.anqingjl.gcw.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "天福走路",
+        "package_name": "walk.walk.early.skyford",
+        "file_name": "walk.walk.early.skyford_221.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "热辣舞蹈",
+        "package_name": "com.dance.spicy",
+        "file_name": "com.dance.spicy_222.apk",
+        "app_activity": "com.dance.spicy.MainActivity"
+    },
+    {
+        "app_name": "久事体育",
+        "package_name": "com.juss.sports.app",
+        "file_name": "com.juss.sports.app_223.apk",
+        "app_activity": "com.juss.sports.app.SplashActivity"
+    },
+    {
+        "app_name": "ReHealth",
+        "package_name": "com.lstech.rehealth",
+        "file_name": "com.lstech.rehealth_224.apk",
+        "app_activity": "com.lstech.rehealth.splash.SplashActivity"
+    },
+    {
+        "app_name": "运动我能行",
+        "package_name": "com.wlhy.ydwnx",
+        "file_name": "com.wlhy.ydwnx_225.apk",
+        "app_activity": "com.walk.home.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "天天跳绳",
+        "package_name": "com.gkid.crazyrope",
+        "file_name": "com.gkid.crazyrope_226.apk",
+        "app_activity": "com.gkid.crazyrope.ui.splash.StartPageActivity"
+    },
+    {
+        "app_name": "走路无限行",
+        "package_name": "com.effectaffect.depriv",
+        "file_name": "com.effectaffect.depriv_227.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "开练",
+        "package_name": "com.tus.loseweight",
+        "file_name": "com.tus.loseweight_228.apk",
+        "app_activity": "com.tus.loseweigh.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "香山智能",
+        "package_name": "com.senssun.shealth",
+        "file_name": "com.senssun.shealth_229.apk",
+        "app_activity": "com.example.qq_ads.AdSplashActivity"
+    },
+    {
+        "app_name": "赏趣计步",
+        "package_name": "com.crypticepitap.funnylist",
+        "file_name": "com.crypticepitap.funnylist_230.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "吉吉计步",
+        "package_name": "walk.jijijb.rr.jjj",
+        "file_name": "walk.jijijb.rr.jjj_231.apk",
+        "app_activity": "com.haoyunapp.module_main.ui.MainActivity"
+    },
+    {
+        "app_name": "好习惯打卡",
+        "package_name": "com.lilaitech.signin",
+        "file_name": "com.lilaitech.signin_232.apk",
+        "app_activity": "com.example.unimpdemo.activity.BootActivity"
+    },
+    {
+        "app_name": "走路梦想家",
+        "package_name": "com.agilecorrob.enmity",
+        "file_name": "com.agilecorrob.enmity_233.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "数字心动",
+        "package_name": "com.chinaath.szxd",
+        "file_name": "com.chinaath.szxd_234.apk",
+        "app_activity": "com.chinaath.szxd.z_new_szxd.splash.SplashActivity"
+    },
+    {
+        "app_name": "走路赚钱通",
+        "package_name": "com.walkig.tmeter",
+        "file_name": "com.walkig.tmeter_235.apk",
+        "app_activity": "com.towards.neyom.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "SPAX",
+        "package_name": "com.onespax.client",
+        "file_name": "com.onespax.client_236.apk",
+        "app_activity": "com.onespax.client.views.login.SplashActivity"
+    },
+    {
+        "app_name": "走路福盈门",
+        "package_name": "com.dwellfeeling.excerp",
+        "file_name": "com.dwellfeeling.excerp_237.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "野狐围棋",
+        "package_name": "com.foxwq.yhwq",
+        "file_name": "com.foxwq.yhwq_238.apk",
+        "app_activity": "com.foxwq.yhwq.MainActivity"
+    },
+    {
+        "app_name": "走走有好运",
+        "package_name": "com.xcxx.zzyhy",
+        "file_name": "com.xcxx.zzyhy_239.apk",
+        "app_activity": "com.walk.home.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "记步来福",
+        "package_name": "walk.come.jilaifu",
+        "file_name": "walk.come.jilaifu_240.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "WearinOS",
+        "package_name": "com.xizhi.wearin",
+        "file_name": "com.xizhi.wearin_241.apk",
+        "app_activity": "com.xizhi.wearinos.activity.SplashActivity"
+    },
+    {
+        "app_name": "丝滑计步",
+        "package_name": "slip.walk.sihuajibu",
+        "file_name": "slip.walk.sihuajibu_242.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "嘿哈猫健身",
+        "package_name": "com.hehacat",
+        "file_name": "com.hehacat_243.apk",
+        "app_activity": "com.hehacat.module.SplashActivity"
+    },
+    {
+        "app_name": "CO FIT",
+        "package_name": "com.sma.smartv3.co_fit",
+        "file_name": "com.sma.smartv3.co_fit_244.apk",
+        "app_activity": "com.sma.smartv3.ui.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "走路小技巧",
+        "package_name": "com.jbyq.zlxjq",
+        "file_name": "com.jbyq.zlxjq_245.apk",
+        "app_activity": "com.walk.home.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "G动",
+        "package_name": "com.beevle.xz.renxing.gdong",
+        "file_name": "com.beevle.xz.renxing.gdong_246.apk",
+        "app_activity": "com.beevle.xz.renxing.gdong.registlogin.WelcomeActivity"
+    },
+
+    {
+        "app_name": "每天爱计步",
+        "package_name": "walk.walk.early.daydayji.one",
+        "file_name": "walk.walk.early.daydayji.one_1.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "随心瑜",
+        "package_name": "com.keepyoga.liveapp",
+        "file_name": "com.keepyoga.liveapp_2.apk",
+        "app_activity": "com.keepyoga.liveapp.activity.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "中国武术",
+        "package_name": "com.jyywty.app",
+        "file_name": "com.jyywty.app_3.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "全民热舞",
+        "package_name": "com.cbel.wb.motion",
+        "file_name": "com.cbel.wb.motion_4.apk",
+        "app_activity": "com.abel.wb.motion.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "健步圈",
+        "package_name": "com.jianbq.zzw",
+        "file_name": "com.jianbq.zzw_5.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "优选计步宝",
+        "package_name": "dog.walk.youxuanji",
+        "file_name": "dog.walk.youxuanji_6.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "鹿卫士",
+        "package_name": "com.luhong.locwith",
+        "file_name": "com.luhong.locwith_7.apk",
+        "app_activity": "com.luhong.locwith.ui.splash.activity.LauncherActivity"
+    },
+    {
+        "app_name": "关环助手",
+        "package_name": "bbai.yyaa.ghzs",
+        "file_name": "bbai.yyaa.ghzs_8.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "快数",
+        "package_name": "com.dongzhe.kuaishu",
+        "file_name": "com.dongzhe.kuaishu_9.apk",
+        "app_activity": "com.dongzhe.kuaishu.common.activity.WelActivity"
+    },
+    {
+        "app_name": "步数乐园",
+        "package_name": "com.step.home.happy",
+        "file_name": "com.step.home.happy_10.apk",
+        "app_activity": "com.fltapp.bsly.app.activity.BSLYSplashActivity"
+    },
+    {
+        "app_name": "365瑜伽",
+        "package_name": "com.guangerbai.yoga",
+        "file_name": "com.guangerbai.yoga_11.apk",
+        "app_activity": "com.example.unimpdemo.activity.BootActivity"
+    },
+    {
+        "app_name": "英尔健运动",
+        "package_name": "com.android.dk.yingerjian",
+        "file_name": "com.android.dk.yingerjian_12.apk",
+        "app_activity": "com.android.dk.yingerjian.activity.SplashActivity"
+    },
+    {
+        "app_name": "超级猩猩",
+        "package_name": "cn.com.supermonkey.supermonkeyapp",
+        "file_name": "cn.com.supermonkey.supermonkeyapp_13.apk",
+        "app_activity": "cn.com.supermonkey.supermonkeyapp.MainActivity"
+    },
+    {
+        "app_name": "中国田径",
+        "package_name": "com.chinaath.app.caa",
+        "file_name": "com.chinaath.app.caa_14.apk",
+        "app_activity": "com.chinaath.app.caa.ui.launch.SplashActivity"
+    },
+    {
+        "app_name": "跑步记录助手",
+        "package_name": "paobu.wgynbg.lsrctn",
+        "file_name": "paobu.wgynbg.lsrctn_15.apk",
+        "app_activity": "com.runner.fast.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "步步健康行",
+        "package_name": "com.hzxyhudong.bbjkxing",
+        "file_name": "com.hzxyhudong.bbjkxing_16.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "蛋壳跟练",
+        "package_name": "cn.shareyourhealth.eggfitness_flutter",
+        "file_name": "cn.shareyourhealth.eggfitness_flutter_17.apk",
+        "app_activity": "cn.shareyourhealth.eggfitness_flutter.MainActivity"
+    },
+    {
+        "app_name": "橙子跳绳",
+        "package_name": "com.yts.szts.hw",
+        "file_name": "com.yts.szts.hw_18.apk",
+        "app_activity": "com.yts.szts.hw.StartAct"
+    },
+    {
+        "app_name": "走路天天赚",
+        "package_name": "com.shuihankong.zlttzhuan",
+        "file_name": "com.shuihankong.zlttzhuan_19.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "高尔夫频道",
+        "package_name": "com.golf.news",
+        "file_name": "com.golf.news_20.apk",
+        "app_activity": "com.golf.news.mvvm.mine.FlashActivity"
+    },
+    {
+        "app_name": "英尔健Sport",
+        "package_name": "com.qiba.cyclingsport",
+        "file_name": "com.qiba.cyclingsport_21.apk",
+        "app_activity": "com.unity3d.player.MyUnityPlayerActicity"
+    },
+    {
+        "app_name": "绿茵场",
+        "package_name": "cn.greenplayer.zuqiuke",
+        "file_name": "cn.greenplayer.zuqiuke_22.apk",
+        "app_activity": "cn.greenplayer.zuqiuke.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "SkipJoy",
+        "package_name": "com.icomon.skipJoy",
+        "file_name": "com.icomon.skipJoy_23.apk",
+        "app_activity": "com.icomon.skipJoy.ui.SplashOneActivity"
+    },
+    {
+        "app_name": "WhatsPB",
+        "package_name": "com.whatspb",
+        "file_name": "com.whatspb_24.apk",
+        "app_activity": "com.whatspb.WelcomeActivity"
+    },
+    {
+        "app_name": "步步精彩",
+        "package_name": "com.adornanony.compr",
+        "file_name": "com.adornanony.compr_25.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "瑜悦",
+        "package_name": "com.youloft.stretch",
+        "file_name": "com.youloft.stretch_26.apk",
+        "app_activity": "com.youloft.stretch.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "全网球",
+        "package_name": "cn.qiang7.user",
+        "file_name": "cn.qiang7.user_27.apk",
+        "app_activity": "cn.qiang7.user.MainActivity"
+    },
+    {
+        "app_name": "动骑",
+        "package_name": "com.android.dk.simple",
+        "file_name": "com.android.dk.simple_28.apk",
+        "app_activity": "com.android.dk.simple.activity.SplashActivity"
+    },
+    {
+        "app_name": "JYouPro",
+        "package_name": "com.jaga.ibraceletplus.keepfit",
+        "file_name": "com.jaga.ibraceletplus.keepfit_29.apk",
+        "app_activity": "com.jaga.ibraceletplus.keepfit.sign.SplashActivity"
+    },
+    {
+        "app_name": "一起走专业版",
+        "package_name": "com.yiqizou.ewalking.pro",
+        "file_name": "com.yiqizou.ewalking.pro_30.apk",
+        "app_activity": "com.yiqizou.ewalking.pro.activity.GOWelcomeActivity"
+    },
+    {
+        "app_name": "RQrun",
+        "package_name": "cn.runningquotient.rq",
+        "file_name": "cn.runningquotient.rq_31.apk",
+        "app_activity": "cn.runningquotient.rq.page.entry.AdvertisingActivity"
+    },
+    {
+        "app_name": "MaituFit",
+        "package_name": "com.maitu.maitufit",
+        "file_name": "com.maitu.maitufit_32.apk",
+        "app_activity": "com.maitu.maitufit.ui.home.LauncherActivity"
+    },
+    {
+        "app_name": "开炼",
+        "package_name": "com.speedcloud.kl",
+        "file_name": "com.speedcloud.kl_33.apk",
+        "app_activity": "com.topsc.start.LogoSplashActivity"
+    },
+    {
+        "app_name": "FunDo",
+        "package_name": "com.kct.fundo.btnotification",
+        "file_name": "com.kct.fundo.btnotification_34.apk",
+        "app_activity": "com.szkct.weloopbtsmartdevice.main.WelcomeActivity"
+    },
+    {
+        "app_name": "练就",
+        "package_name": "strength.becoming.plus",
+        "file_name": "strength.becoming.plus_35.apk",
+        "app_activity": "strength.becoming.plus.business.main.splash.SplashActivity"
+    },
+    {
+        "app_name": "健身增肌塑形教练",
+        "package_name": "com.xmb.fitness",
+        "file_name": "com.xmb.fitness_36.apk",
+        "app_activity": "com.example.habittest.ui.DemoWelcomeActivity"
+    },
+    {
+        "app_name": "精雀赛事",
+        "package_name": "pro.wudao.app.enter",
+        "file_name": "pro.wudao.app.enter_37.apk",
+        "app_activity": "pro.wudao.app.enter.MainActivity"
+    },
+    {
+        "app_name": "丰收计步",
+        "package_name": "com.emotiocryptic.evanesc",
+        "file_name": "com.emotiocryptic.evanesc_38.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "GOSKI去滑雪",
+        "package_name": "com.goski.gosking",
+        "file_name": "com.goski.gosking_39.apk",
+        "app_activity": "com.goski.android.ui.activity.AdvertisementActivity"
+    },
+    {
+        "app_name": "滑呗",
+        "package_name": "com.fxkj.huabei",
+        "file_name": "com.fxkj.huabei_40.apk",
+        "app_activity": "com.fxkj.huabei.app.Launcher1"
+    },
+    {
+        "app_name": "游泳社",
+        "package_name": "com.xiushun.swimgroup",
+        "file_name": "com.xiushun.swimgroup_41.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "步步向健康",
+        "package_name": "com.heath.feet.bbxjk",
+        "file_name": "com.heath.feet.bbxjk_42.apk",
+        "app_activity": "com.fltapp.bbxjk.app.activity.BBXJKSplashActivity"
+    },
+    {
+        "app_name": "悦东风",
+        "package_name": "com.goldze.ydf",
+        "file_name": "com.goldze.ydf_43.apk",
+        "app_activity": "com.goldze.ydf.ui.SplashActivity"
+    },
+    {
+        "app_name": "健身减肥",
+        "package_name": "com.maoying.fitness",
+        "file_name": "com.maoying.fitness_44.apk",
+        "app_activity": "com.maoying.fitness.adActivity.SplashActivity"
+    },
+    {
+        "app_name": "登月爬楼",
+        "package_name": "com.lzfk.vfnhgcaoke",
+        "file_name": "com.lzfk.vfnhgcaoke_45.apk",
+        "app_activity": "com.fwlst.module_splash.SplashActivity"
+    },
+    {
+        "app_name": "青蛙脑训练",
+        "package_name": "com.frogenjoy.brain.cn",
+        "file_name": "com.frogenjoy.brain.cn_46.apk",
+        "app_activity": "org.cocos2dx.javascript.activity.AppInitActivity"
+    },
+    {
+        "app_name": "身材有道",
+        "package_name": "com.lutongnet.mobile.health",
+        "file_name": "com.lutongnet.mobile.health_47.apk",
+        "app_activity": "com.lutongnet.mobile.health.login.SplashActivity"
+    },
+    {
+        "app_name": "乐刻教练",
+        "package_name": "com.leoao.coach",
+        "file_name": "com.leoao.coach_48.apk",
+        "app_activity": "com.leoao.coach.main.SplashActivity"
+    },
+    {
+        "app_name": "庞伯特",
+        "package_name": "com.futuremind.iotapp",
+        "file_name": "com.futuremind.iotapp_49.apk",
+        "app_activity": "com.futuremind.iotapp.MainActivity"
+    },
+    {
+        "app_name": "走路添福",
+        "package_name": "com.gylyn.kcsk",
+        "file_name": "com.gylyn.kcsk_50.apk",
+        "app_activity": "com.jingling.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "每天计一计",
+        "package_name": "com.day.jiyiji",
+        "file_name": "com.day.jiyiji_51.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "韵动吧",
+        "package_name": "com.sports8.newtennis",
+        "file_name": "com.sports8.newtennis_52.apk",
+        "app_activity": "com.sports8.newtennis.activity.SplashActivity"
+    },
+    {
+        "app_name": "运动健身速成fit",
+        "package_name": "com.ruofeng.sport.quick",
+        "file_name": "com.ruofeng.sport.quick_53.apk",
+        "app_activity": "com.ruofeng.sport.quick.ui.start.QnetJianShenStartActivity"
+    },
+    {
+        "app_name": "鱼喜团",
+        "package_name": "com.rsc.yuxituan",
+        "file_name": "com.rsc.yuxituan_54.apk",
+        "app_activity": "com.rsc.yuxituan.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "每日美愈",
+        "package_name": "com.example.dailymeiyu",
+        "file_name": "com.example.dailymeiyu_55.apk",
+        "app_activity": "com.example.dailymeiyu.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "晨起走一走",
+        "package_name": "com.qwgf.cqzyz",
+        "file_name": "com.qwgf.cqzyz_56.apk",
+        "app_activity": "com.walk.home.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "走步",
+        "package_name": "com.jst.walk",
+        "file_name": "com.jst.walk_57.apk",
+        "app_activity": "com.jst.walk.activity.StartActivity"
+    },
+    {
+        "app_name": "DivePlus",
+        "package_name": "com.lifeplus.diveplus",
+        "file_name": "com.lifeplus.diveplus_59.apk",
+        "app_activity": "com.dive.splash.SplashActivity"
+    },
+    {
+        "app_name": "Workout Plan",
+        "package_name": "com.loseweight.workout.fitness",
+        "file_name": "com.loseweight.workout.fitness_60.apk",
+        "app_activity": "com.cody.supads.activity.StartActivity"
+    },
+    {
+        "app_name": "迎风迈步",
+        "package_name": "cn.wind.walk.yfmb",
+        "file_name": "cn.wind.walk.yfmb_61.apk",
+        "app_activity": "com.geek.superpower.ui.activity.CNDCGJSplashActivity"
+    },
+    {
+        "app_name": "弈客五子棋",
+        "package_name": "uni.golinks.fir",
+        "file_name": "uni.golinks.fir_62.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "捷安特电动车",
+        "package_name": "com.cateye.cycling.giant",
+        "file_name": "com.cateye.cycling.giant_63.apk",
+        "app_activity": "com.cateye.cycling.giant.ui.StartActivity"
+    },
+    {
+        "app_name": "阳光体育",
+        "package_name": "com.jundu.ygty",
+        "file_name": "com.jundu.ygty_64.apk",
+        "app_activity": "com.jundu.ygty.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "ECTRI",
+        "package_name": "com.manridy.ectri",
+        "file_name": "com.manridy.ectri_65.apk",
+        "app_activity": "com.manridy.ectri.activity.SplashActivity"
+    },
+    {
+        "app_name": "FIBA篮球",
+        "package_name": "fiba.qx",
+        "file_name": "fiba.qx_66.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "步数守护者",
+        "package_name": "com.mrjgc.qiha",
+        "file_name": "com.mrjgc.qiha_67.apk",
+        "app_activity": "com.jingling.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "点点走路赚钱",
+        "package_name": "com.zoulu.diandian",
+        "file_name": "com.zoulu.diandian_68.apk",
+        "app_activity": "com.zoulu.diandian.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "万全计步",
+        "package_name": "com.amiabldevise.wqstep",
+        "file_name": "com.amiabldevise.wqstep_70.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "全民走步宝",
+        "package_name": "com.yunxi.sports.health",
+        "file_name": "com.yunxi.sports.health_71.apk",
+        "app_activity": "cn.yunxisport.sportshe.ui.activity.health.YXHSplashActivity"
+    },
+    {
+        "app_name": "Runmefit",
+        "package_name": "com.starmax.runmefit",
+        "file_name": "com.starmax.runmefit_72.apk",
+        "app_activity": "com.starmax.runmefit.MainActivity"
+    },
+    {
+        "app_name": "VOOGOLF高尔夫助手",
+        "package_name": "com.voogolf.Smarthelper",
+        "file_name": "com.voogolf.Smarthelper_73.apk",
+        "app_activity": "com.voogolf.Smarthelper.welcome.WelcomeA"
+    },
+    {
+        "app_name": "体智云",
+        "package_name": "com.tizhiyun.app",
+        "file_name": "com.tizhiyun.app_74.apk",
+        "app_activity": "com.tizhiyun.app.ui.splash.NewSplashActivity"
+    },
+    {
+        "app_name": "福运计步",
+        "package_name": "com.yhtl.fyjb",
+        "file_name": "com.yhtl.fyjb_75.apk",
+        "app_activity": "com.zozo.video.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "福运步数",
+        "package_name": "com.walk.track.jbzz",
+        "file_name": "com.walk.track.jbzz_76.apk",
+        "app_activity": "com.geek.superpower.ui.activity.CNDCGJSplashActivity"
+    },
+    {
+        "app_name": "走路赚钱呗",
+        "package_name": "com.xinyihudong.skjbu",
+        "file_name": "com.xinyihudong.skjbu_77.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "夺冠体育",
+        "package_name": "com.android.jike.duoguansport",
+        "file_name": "com.android.jike.duoguansport_78.apk",
+        "app_activity": "com.android.jike.duoguansport.StartActivity"
+    },
+    {
+        "app_name": "Running派",
+        "package_name": "com.ljwy.weibu",
+        "file_name": "com.ljwy.weibu_79.apk",
+        "app_activity": "cn.rockysports.weibu.ui.main.StartPageActivity"
+    },
+    {
+        "app_name": "约球天下",
+        "package_name": "com.a365691287.zfy",
+        "file_name": "com.a365691287.zfy_80.apk",
+        "app_activity": "com.yueqiutianxia.SplashActivity"
+    },
+    {
+        "app_name": "学跳广场舞",
+        "package_name": "cn.judingkeji.xtgcw",
+        "file_name": "cn.judingkeji.xtgcw_81.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "微钓",
+        "package_name": "com.waydiao.yuxun",
+        "file_name": "com.waydiao.yuxun_82.apk",
+        "app_activity": "com.waydiao.yuxun.module.home.ui.ActivitySplash"
+    },
+    {
+        "app_name": "赛点通",
+        "package_name": "com.sailor.sports",
+        "file_name": "com.sailor.sports_83.apk",
+        "app_activity": "com.sailor.sports.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "巅峰减重",
+        "package_name": "com.dianfeng.fitness",
+        "file_name": "com.dianfeng.fitness_84.apk",
+        "app_activity": "com.dianfeng.fitness.activity.init.WelcomeActivity"
+    },
+    {
+        "app_name": "享福计步",
+        "package_name": "com.dolm.xfjb",
+        "file_name": "com.dolm.xfjb_85.apk",
+        "app_activity": "com.guzhen.main.LaunchActivity"
+    },
+    {
+        "app_name": "走路赚钱宝",
+        "package_name": "com.mptqv.jrwk",
+        "file_name": "com.mptqv.jrwk_86.apk",
+        "app_activity": "com.towards.neyom.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "轻断食计食器",
+        "package_name": "cn.zhongkeyixuntech.weight",
+        "file_name": "cn.zhongkeyixuntech.weight_88.apk",
+        "app_activity": "com.example.unimpdemo.activity.SplashActivity"
+    },
+    {
+        "app_name": "跑步器",
+        "package_name": "com.juhe.jbdd",
+        "file_name": "com.juhe.jbdd_90.apk",
+        "app_activity": "com.juhe.sport6.ui.SplashActivity"
+    },
+    {
+        "app_name": "立训健身",
+        "package_name": "com.jiuyan.lix",
+        "file_name": "com.jiuyan.lix_91.apk",
+        "app_activity": "com.jiuyan.lix.MainActivity"
+    },
+    {
+        "app_name": "天天长高",
+        "package_name": "com.fxlt.android.growtaller",
+        "file_name": "com.fxlt.android.growtaller_92.apk",
+        "app_activity": "com.fxlt.module.splash.ui.splash.ActSplash"
+    },
+    {
+        "app_name": "南瓜计步",
+        "package_name": "owl.grapefruit.sunflower.ink",
+        "file_name": "owl.grapefruit.sunflower.ink_93.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "斑马邦",
+        "package_name": "cn.snsports.banma",
+        "file_name": "cn.snsports.banma_94.apk",
+        "app_activity": "cn.snsports.banma.ui.SplashActivity"
+    },
+    {
+        "app_name": "漫步旅人",
+        "package_name": "com.dingfeng.mblr",
+        "file_name": "com.dingfeng.mblr_95.apk",
+        "app_activity": "com.jingling.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "万峰神器",
+        "package_name": "com.example.wanfengyu",
+        "file_name": "com.example.wanfengyu_96.apk",
+        "app_activity": "com.example.wanfengyu.activity.other.WelcomeActivity"
+    },
+    {
+        "app_name": "时步计",
+        "package_name": "com.runben.sbj",
+        "file_name": "com.runben.sbj_97.apk",
+        "app_activity": "com.walk.home.health.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "行走计",
+        "package_name": "com.runben.xzj",
+        "file_name": "com.runben.xzj_98.apk",
+        "app_activity": "com.walk.home.health.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "豌豆掌管",
+        "package_name": "com.example.administrator.yiqilianyogaapplication",
+        "file_name": "com.example.administrator.yiqilianyogaapplication_99.apk",
+        "app_activity": "com.example.administrator.yiqilianyogaapplication.view.activity.FirstLoginActivity"
+    },
+    {
+        "app_name": "Haylou Fun",
+        "package_name": "com.yingsheng.hayloufun",
+        "file_name": "com.yingsheng.hayloufun_100.apk",
+        "app_activity": "com.liesheng.hayloufun.SplashActivity"
+    },
+    {
+        "app_name": "InBody",
+        "package_name": "com.inbody2014.inbody",
+        "file_name": "com.inbody2014.inbody_101.apk",
+        "app_activity": "com.inbody2014.inbody.Launcher"
+    },
+    {
+        "app_name": "计步多多",
+        "package_name": "com.hangzhoujuliang.zldduo",
+        "file_name": "com.hangzhoujuliang.zldduo_102.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "虚拟记分牌",
+        "package_name": "com.xuni.jifenqi",
+        "file_name": "com.xuni.jifenqi_103.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "TanKuq",
+        "package_name": "com.nur.tankuq.tankuq_app",
+        "file_name": "com.nur.tankuq.tankuq_app_104.apk",
+        "app_activity": "com.nur.tankuq.tankuq_app.MainActivity"
+    },
+    {
+        "app_name": "Haylou Watch",
+        "package_name": "com.smart.haylou",
+        "file_name": "com.smart.haylou_105.apk",
+        "app_activity": "com.sma.smartv3.ui.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "开心走一走",
+        "package_name": "com.yueling.kxzyz",
+        "file_name": "com.yueling.kxzyz_106.apk",
+        "app_activity": "com.jingling.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "凯格尔运动Pro",
+        "package_name": "com.tm.kegelstore",
+        "file_name": "com.tm.kegelstore_107.apk",
+        "app_activity": "ps.center.kegel.ui.activity.WelcomActivity"
+    },
+    {
+        "app_name": "Mibro Fit",
+        "package_name": "com.xiaoxun.xunoversea.mibrofit",
+        "file_name": "com.xiaoxun.xunoversea.mibrofit_108.apk",
+        "app_activity": "com.xiaoxun.xunoversea.mibrofit.view.app.LauncherActivity"
+    },
+    {
+        "app_name": "咕鸽运动",
+        "package_name": "com.gugesport",
+        "file_name": "com.gugesport_109.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "凹凸计划",
+        "package_name": "cn.ayay.jfyd",
+        "file_name": "cn.ayay.jfyd_110.apk",
+        "app_activity": "cn.ayay.jfyd.activity.GuideActivity"
+    },
+    {
+        "app_name": "爱动健身",
+        "package_name": "com.example.aidong",
+        "file_name": "com.example.aidong_111.apk",
+        "app_activity": "com.example.aidong.ui.SplashActivity"
+    },
+    {
+        "app_name": "悦动轨迹",
+        "package_name": "com.xlv.ydgj",
+        "file_name": "com.xlv.ydgj_112.apk",
+        "app_activity": "com.walk.home.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "Hello FitPro",
+        "package_name": "com.app.cy.hellofitpro",
+        "file_name": "com.app.cy.hellofitpro_113.apk",
+        "app_activity": "com.app.cy.GsFit.ui.login.SplashAdActivity"
+    },
+    {
+        "app_name": "KS Fit轻运动",
+        "package_name": "com.kingsmith.china",
+        "file_name": "com.kingsmith.china_114.apk",
+        "app_activity": "com.kingsmith.china.MainActivity"
+    },
+    {
+        "app_name": "宜准跑步",
+        "package_name": "cn.ezon.www.ezonrunning",
+        "file_name": "cn.ezon.www.ezonrunning_115.apk",
+        "app_activity": "cn.ezon.www.ezonrunning.ui.SplashActivity"
+    },
+    {
+        "app_name": "增高运动",
+        "package_name": "com.yc.growtaller",
+        "file_name": "com.yc.growtaller_116.apk",
+        "app_activity": "com.yc.growtaller.ui.SplashActivity"
+    },
+    {
+        "app_name": "CHIC",
+        "package_name": "com.chic.self_balancingscooters",
+        "file_name": "com.chic.self_balancingscooters_117.apk",
+        "app_activity": "com.chic.self_balancingscooters.SplashActivity"
+    },
+    {
+        "app_name": "减肥打卡",
+        "package_name": "com.fd.daka",
+        "file_name": "com.fd.daka_118.apk",
+        "app_activity": "com.huange.jianfei.jianfei.activity.SplashActivity"
+    },
+    {
+        "app_name": "智体元年",
+        "package_name": "com.ztyn.platformtwt",
+        "file_name": "com.ztyn.platformtwt_119.apk",
+        "app_activity": "com.ztyn.device.MainActivity"
+    },
+    {
+        "app_name": "GDTMobStub",
+        "package_name": "com.app.jianshendashi",
+        "file_name": "com.app.jianshendashi_120.apk",
+        "app_activity": "com.app.jianshendashi.activity.SplashActivity"
+    },
+    {
+        "app_name": "Vfit",
+        "package_name": "com.vfit.vfit",
+        "file_name": "com.vfit.vfit_121.apk",
+        "app_activity": "com.k6_wrist_android.activity.login.SplashActivity"
+    },
+    {
+        "app_name": "Wake",
+        "package_name": "com.wakeyoga.wakeyoga",
+        "file_name": "com.wakeyoga.wakeyoga_122.apk",
+        "app_activity": "com.wakeyoga.wakeyoga.wake.user.SplashActivity"
+    },
+    {
+        "app_name": "Youth Health",
+        "package_name": "com.jinyichen.healthday",
+        "file_name": "com.jinyichen.healthday_123.apk",
+        "app_activity": "com.szkct.weloopbtsmartdevice.main.WelcomeActivityNew"
+    },
+    {
+        "app_name": "走路赚红包",
+        "package_name": "com.qisi.walkstep",
+        "file_name": "com.qisi.walkstep_124.apk",
+        "app_activity": "com.qisi.walkstep.activity.SplashActivity"
+    },
+    {
+        "app_name": "全是瑜",
+        "package_name": "com.allyoga",
+        "file_name": "com.allyoga_125.apk",
+        "app_activity": "com.allyoga.activity.SplashActivity"
+    },
+    {
+        "app_name": "步韵灵动",
+        "package_name": "com.foot.rhythm.byld",
+        "file_name": "com.foot.rhythm.byld_127.apk",
+        "app_activity": "com.fltapp.byld.app.activity.BYLDSplashActivity"
+    },
+    {
+        "app_name": "高校体育",
+        "package_name": "com.example.gita.gxty",
+        "file_name": "com.example.gita.gxty_128.apk",
+        "app_activity": "com.example.gita.gxty.ram.StartActivity"
+    },
+    {
+        "app_name": "运动秀",
+        "package_name": "com.fitshow",
+        "file_name": "com.fitshow_129.apk",
+        "app_activity": "com.fitshow.MainActivity"
+    },
+    {
+        "app_name": "热雪奇迹",
+        "package_name": "com.sunac.snowworld",
+        "file_name": "com.sunac.snowworld_130.apk",
+        "app_activity": "com.sunac.snowworld.ui.root.SplashActivity"
+    },
+    {
+        "app_name": "WoFit",
+        "package_name": "com.tkl.fitup",
+        "file_name": "com.tkl.fitup_132.apk",
+        "app_activity": "com.tkl.fitup.setup.activity.LauncherActivity"
+    },
+    {
+        "app_name": "球记",
+        "package_name": "cn.rootsports.reee",
+        "file_name": "cn.rootsports.reee_133.apk",
+        "app_activity": "com.rootsports.reee.kotlin.activity.login.StartActivity"
+    },
+    {
+        "app_name": "闪动",
+        "package_name": "com.flashxsport.flash",
+        "file_name": "com.flashxsport.flash_134.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "少年纵横",
+        "package_name": "com.shaonianzongheng.go",
+        "file_name": "com.shaonianzongheng.go_135.apk",
+        "app_activity": "com.shaonianzongheng.go.activity.GoLauncherActivity"
+    },
+    {
+        "app_name": "我的赛车",
+        "package_name": "com.mygf.car",
+        "file_name": "com.mygf.car_136.apk",
+        "app_activity": "com.mygf.car.ui.activity.LoginActivity"
+    },
+    {
+        "app_name": "瑜伽每日健身",
+        "package_name": "com.tjrd.yjsxl",
+        "file_name": "com.tjrd.yjsxl_137.apk",
+        "app_activity": "com.litemob.yogamaster.ui.activity.WelcomActivity"
+    },
+    {
+        "app_name": "中国篮球",
+        "package_name": "com.cba.chinesebasketball",
+        "file_name": "com.cba.chinesebasketball_138.apk",
+        "app_activity": "com.cba.basketball.activity.LaunchActivity"
+    },
+    {
+        "app_name": "全员健康",
+        "package_name": "com.biggerfitness.app",
+        "file_name": "com.biggerfitness.app_139.apk",
+        "app_activity": "com.biggerfitness.app.MainActivity"
+    },
+    {
+        "app_name": "陈氏太极拳",
+        "package_name": "com.cssd.taijiquan",
+        "file_name": "com.cssd.taijiquan_140.apk",
+        "app_activity": "com.cssd.taijiquan.ui.activity.home.SplashActivity"
+    },
+    {
+        "app_name": "MOZA Racing",
+        "package_name": "com.gudsen.mozapithouse",
+        "file_name": "com.gudsen.mozapithouse_141.apk",
+        "app_activity": "com.gudsen.mozapithouse.MainActivity"
+    },
+    {
+        "app_name": "击剑圈",
+        "package_name": "com.fencing.android",
+        "file_name": "com.fencing.android_142.apk",
+        "app_activity": "com.fencing.android.ui.main.MainActivity"
+    },
+    {
+        "app_name": "Watch V7",
+        "package_name": "com.skg.watchV7",
+        "file_name": "com.skg.watchV7_143.apk",
+        "app_activity": "com.crrepa.band.my.SplashActivity"
+    },
+    {
+        "app_name": "SKG Watch V9",
+        "package_name": "com.skg.watchV9",
+        "file_name": "com.skg.watchV9_144.apk",
+        "app_activity": "com.touchgfx.guide.LauchActivity"
+    },
+    {
+        "app_name": "莫比健身",
+        "package_name": "com.anytum.mobirowinglite",
+        "file_name": "com.anytum.mobirowinglite_145.apk",
+        "app_activity": "com.anytum.mobirowinglite.ui.splash.WelcomeActivity"
+    },
+    {
+        "app_name": "赛事助手",
+        "package_name": "net.woaoo.assistant",
+        "file_name": "net.woaoo.assistant_146.apk",
+        "app_activity": "net.woaoo.assistant.activity.SplashActivity"
+    },
+    {
+        "app_name": "天天健康计",
+        "package_name": "day.walk.jiankangji",
+        "file_name": "day.walk.jiankangji_147.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "指尖赚钱",
+        "package_name": "com.fendou.newmoney",
+        "file_name": "com.fendou.newmoney_148.apk",
+        "app_activity": "com.yuri.mumu.activity.LauncherActivity"
+    },
+    {
+        "app_name": "哥本哈根减肥",
+        "package_name": "com.shengcekeji.copenhagenDiet",
+        "file_name": "com.shengcekeji.copenhagenDiet_149.apk",
+        "app_activity": "com.shengcekeji.copenhagenDiet.WelcomeActivity"
+    },
+    {
+        "app_name": "中国信鸽信息网",
+        "package_name": "com.jl.sh1",
+        "file_name": "com.jl.sh1_150.apk",
+        "app_activity": "com.jl.sh1.LoadingActivity"
+    },
+    {
+        "app_name": "陈氏太极拳教学",
+        "package_name": "com.dreamori.taijijiaoxue",
+        "file_name": "com.dreamori.taijijiaoxue_151.apk",
+        "app_activity": "com.dreamori.taijijiaoxue.SplashActivity"
+    },
+    {
+        "app_name": "好身材Pro",
+        "package_name": "com.elink.aifit.pro",
+        "file_name": "com.elink.aifit.pro_152.apk",
+        "app_activity": "com.elink.aifit.pro.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "群体通",
+        "package_name": "com.gdcn.sport",
+        "file_name": "com.gdcn.sport_153.apk",
+        "app_activity": "qtt.cellcom.com.cn.activity.SplashActivity"
+    },
+    {
+        "app_name": "摩刻健身",
+        "package_name": "com.ld.mok",
+        "file_name": "com.ld.mok_154.apk",
+        "app_activity": "com.ld.mok.MainActivity"
+    },
+    {
+        "app_name": "运动计时器",
+        "package_name": "com.yuejia.motiontimer",
+        "file_name": "com.yuejia.motiontimer_155.apk",
+        "app_activity": "com.yuejia.motiontimer.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "全民走路赚钱",
+        "package_name": "com.hzsqu.qmljbu",
+        "file_name": "com.hzsqu.qmljbu_156.apk",
+        "app_activity": "com.sq.earning.splash.ScreenActivity"
+    },
+    {
+        "app_name": "KO台球助教",
+        "package_name": "com.yuyuka.assistant",
+        "file_name": "com.yuyuka.assistant_157.apk",
+        "app_activity": "com.yuyuka.assistant.MainActivity"
+    },
+    {
+        "app_name": "特步跑步",
+        "package_name": "com.neusoft.go",
+        "file_name": "com.neusoft.go_158.apk",
+        "app_activity": "com.component.xrun.ui.launch.LauncherActivity"
+    },
+    {
+        "app_name": "铁马高尔夫",
+        "package_name": "com.tiemagolf",
+        "file_name": "com.tiemagolf_159.apk",
+        "app_activity": "com.tiemagolf.feature.SplashActivity"
+    },
+    {
+        "app_name": "联想运动健康",
+        "package_name": "com.lenovo.siot.health",
+        "file_name": "com.lenovo.siot.health_160.apk",
+        "app_activity": "com.lenovo.iot.health.ui.SplashActivity"
+    },
+    {
+        "app_name": "Fitbit",
+        "package_name": "com.fitbit.FitbitMobile",
+        "file_name": "com.fitbit.FitbitMobile_161.apk",
+        "app_activity": "com.fitbit.FirstActivity"
+    },
+    {
+        "app_name": "迎春步步花",
+        "package_name": "walk.walk.early.walkflower.one",
+        "file_name": "walk.walk.early.walkflower.one_162.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "练多多",
+        "package_name": "cn.liandodo.customer",
+        "file_name": "cn.liandodo.customer_163.apk",
+        "app_activity": "cn.liandodo.customer.ui.index.IndexActivity"
+    },
+    {
+        "app_name": "Zordai",
+        "package_name": "com.wearsnova.zd",
+        "file_name": "com.wearsnova.zd_164.apk",
+        "app_activity": "com.wear.lib_core.mvp.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "极速健身",
+        "package_name": "com.ftls.abs",
+        "file_name": "com.ftls.abs_165.apk",
+        "app_activity": "com.ftls.abs.activity.SplashActivity"
+    },
+    {
+        "app_name": "快快减肥Plus",
+        "package_name": "com.kifs.user",
+        "file_name": "com.kifs.user_166.apk",
+        "app_activity": "com.kifs.user.SplashActivity"
+    },
+    {
+        "app_name": "晴天走路宝",
+        "package_name": "sunny.walk.zoulubaoo",
+        "file_name": "sunny.walk.zoulubaoo_167.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "Fitness Cardio Workout",
+        "package_name": "com.happycardio.workout",
+        "file_name": "com.happycardio.workout_168.apk",
+        "app_activity": "com.cody.supads.activity.StartActivity"
+    },
+    {
+        "app_name": "TargetIR",
+        "package_name": "com.guide.targetir",
+        "file_name": "com.guide.targetir_169.apk",
+        "app_activity": "com.guide.main.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "趣步多",
+        "package_name": "com.zhuif.qbdd",
+        "file_name": "com.zhuif.qbdd_170.apk",
+        "app_activity": "com.zhuif.run.Activity.SplashActivity"
+    },
+    {
+        "app_name": "步步计",
+        "package_name": "walk.walk.early.wwcount",
+        "file_name": "walk.walk.early.wwcount_171.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "悠悠记步",
+        "package_name": "com.youyoujibu.two",
+        "file_name": "com.youyoujibu.two_172.apk",
+        "app_activity": "MkMk6kkk524.A5iiii397Ai"
+    },
+    {
+        "app_name": "AI眺舞",
+        "package_name": "com.zyhz.itiaowu",
+        "file_name": "com.zyhz.itiaowu_173.apk",
+        "app_activity": "com.zyhz.itiaowu.ui.SplashScreenActivity"
+    },
+    {
+        "app_name": "爱尚走路",
+        "package_name": "net.aishang.walk",
+        "file_name": "net.aishang.walk_174.apk",
+        "app_activity": "com.kodami.metoru.wifi.launch.LaunchActivity"
+    },
+    {
+        "app_name": "InfoWear",
+        "package_name": "com.zhapp.infowear",
+        "file_name": "com.zhapp.infowear_175.apk",
+        "app_activity": "com.zhapp.infowear.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "天天走几步",
+        "package_name": "walk.walk.early.walksome",
+        "file_name": "walk.walk.early.walksome_176.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "WitiSports",
+        "package_name": "com.qukan.witisports",
+        "file_name": "com.qukan.witisports_177.apk",
+        "app_activity": "com.epicgames.ue4.SplashActivity"
+    },
+    {
+        "app_name": "运动减肥计划",
+        "package_name": "com.noya.fitnessplan",
+        "file_name": "com.noya.fitnessplan_178.apk",
+        "app_activity": "com.cody.supads.activity.StartActivity"
+    },
+    {
+        "app_name": "HaWoFit",
+        "package_name": "com.huawo.hawofit",
+        "file_name": "com.huawo.hawofit_179.apk",
+        "app_activity": "com.huawo.module_interaction.ui.page.boot.SplashActivity"
+    },
+    {
+        "app_name": "趣运动",
+        "package_name": "com.gosport",
+        "file_name": "com.gosport_180.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "空气运动",
+        "package_name": "com.dezhi.airsport.phone",
+        "file_name": "com.dezhi.airsport.phone_181.apk",
+        "app_activity": "com.dezhi.sport.ui.SplashActivity"
+    },
+    {
+        "app_name": "走路有好柿",
+        "package_name": "walk.walk.early.walkisgood.one",
+        "file_name": "walk.walk.early.walkisgood.one_182.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "意超龙行计步",
+        "package_name": "walk.walk.early.dragonwalkgo.one",
+        "file_name": "walk.walk.early.dragonwalkgo.one_183.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "卡鼓点跳舞",
+        "package_name": "com.run.yoga",
+        "file_name": "com.run.yoga_184.apk",
+        "app_activity": "com.run.yoga.mvp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "走路乐洋洋",
+        "package_name": "com.guangliang.zllyy",
+        "file_name": "com.guangliang.zllyy_185.apk",
+        "app_activity": "com.jingling.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "龙行走路",
+        "package_name": "walk.walk.early.dragonpigwalk.one",
+        "file_name": "walk.walk.early.dragonpigwalk.one_186.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "步行养生",
+        "package_name": "com.step.health.life",
+        "file_name": "com.step.health.life_187.apk",
+        "app_activity": "com.fltapp.bxys.app.activity.BXYSSplashActivity"
+    },
+    {
+        "app_name": "练氪",
+        "package_name": "com.zq.pgapp",
+        "file_name": "com.zq.pgapp_188.apk",
+        "app_activity": "com.zq.pgapp.page.login.SplashActivity"
+    },
+    {
+        "app_name": "秀觅趣动",
+        "package_name": "com.baomen.showme.android",
+        "file_name": "com.baomen.showme.android_189.apk",
+        "app_activity": "com.baomen.showme.android.IntroductionActivity"
+    },
+    {
+        "app_name": "走路有洋气",
+        "package_name": "walk.walk.early.youyangqi",
+        "file_name": "walk.walk.early.youyangqi_190.apk",
+        "app_activity": "vch.qqf.walk.MainActivity"
+    },
+    {
+        "app_name": "凯格尔训练",
+        "package_name": "com.cqy.kegel",
+        "file_name": "com.cqy.kegel_191.apk",
+        "app_activity": "com.cqy.kegel.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "MaituBox",
+        "package_name": "box.maitufit.com",
+        "file_name": "box.maitufit.com_192.apk",
+        "app_activity": "com.maitufit.box.module.LaunchActivity"
+    },
+    {
+        "app_name": "Metawatch",
+        "package_name": "com.metawatch.app",
+        "file_name": "com.metawatch.app_193.apk",
+        "app_activity": "com.metawatch.app.ui.SplashActivity"
+    },
+    {
+        "app_name": "GOLFJOY Lite",
+        "package_name": "com.htx.Golfjoy",
+        "file_name": "com.htx.Golfjoy_194.apk",
+        "app_activity": "com.epicgames.ue4.SplashActivity"
+    },
+    {
+        "app_name": "健康步数",
+        "package_name": "com.health.step.walk",
+        "file_name": "com.health.step.walk_195.apk",
+        "app_activity": "com.fltapp.jkbs.app.activity.JKBSSplashActivity"
+    },
+    {
+        "app_name": "GolfLive",
+        "package_name": "cn.golflive.android",
+        "file_name": "cn.golflive.android_196.apk",
+        "app_activity": "cn.golflive.android.ui.MainActivity"
+    },
+    {
+        "app_name": "7分钟健身",
+        "package_name": "com.shuge.fitness",
+        "file_name": "com.shuge.fitness_197.apk",
+        "app_activity": "com.shuge.smallcoup.business.BootPageActivity"
+    },
+    {
+        "app_name": "FitMind",
+        "package_name": "com.xinhe.sdb",
+        "file_name": "com.xinhe.sdb_198.apk",
+        "app_activity": "com.xinhe.sdb.activity.org.WelcomActivity"
+    },
+    {
+        "app_name": "运动减肥速成",
+        "package_name": "com.asthewind.yangqiworkout",
+        "file_name": "com.asthewind.yangqiworkout_199.apk",
+        "app_activity": "com.ruofeng.sport.quick.ui.start.QnetJianShenStartActivity"
+    },
+    {
+        "app_name": "懒人轻断食",
+        "package_name": "com.ciwen.lrkeepfit",
+        "file_name": "com.ciwen.lrkeepfit_200.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "燃脂腹肌速成",
+        "package_name": "com.kencao.workout.muscles",
+        "file_name": "com.kencao.workout.muscles_201.apk",
+        "app_activity": "com.kencao.workout.MainActivity"
+    },
+    {
+        "app_name": "人人舞蹈",
+        "package_name": "com.xalnrj.rrwd",
+        "file_name": "com.xalnrj.rrwd_202.apk",
+        "app_activity": "com.unity3d.player.UnityPlayerActivity"
+    },
+    {
+        "app_name": "乐健体育",
+        "package_name": "com.ledreamer.zz",
+        "file_name": "com.ledreamer.zz_203.apk",
+        "app_activity": "com.ledreamer.zz.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "USeeHel",
+        "package_name": "cn.useehel.sportsapp",
+        "file_name": "cn.useehel.sportsapp_204.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "QWatch Pro",
+        "package_name": "com.qcwireless.qcwatch",
+        "file_name": "com.qcwireless.qcwatch_205.apk",
+        "app_activity": "com.qcwireless.qcwatch.ui.activity.LoadingActivity"
+    },
+    {
+        "app_name": "FITURE",
+        "package_name": "com.fiture.taurus",
+        "file_name": "com.fiture.taurus_206.apk",
+        "app_activity": "com.fiture.taurus.ui.SplashActivity"
+    },
+    {
+        "app_name": "上马",
+        "package_name": "com.zamplus.marathonsh",
+        "file_name": "com.zamplus.marathonsh_207.apk",
+        "app_activity": "com.zamplus.marathonsh.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "Watch Fun",
+        "package_name": "com.zaojiao.airinteractphone",
+        "file_name": "com.zaojiao.airinteractphone_208.apk",
+        "app_activity": "com.zaojiao.airinteractphone.ui.activity.AppStartActivity"
+    },
+    {
+        "app_name": "DONGDONG",
+        "package_name": "com.mcbn.movesports",
+        "file_name": "com.mcbn.movesports_209.apk",
+        "app_activity": "com.mcbn.movesports.activity.SplashActivity"
+    },
+    {
+        "app_name": "乐动健身",
+        "package_name": "com.fp.fitness",
+        "file_name": "com.fp.fitness_210.apk",
+        "app_activity": "com.fp.fitness.Activity.SplashActivity"
+    },
+    {
+        "app_name": "爱闯闯",
+        "package_name": "cn.com.sletech.app.itasktour",
+        "file_name": "cn.com.sletech.app.itasktour_211.apk",
+        "app_activity": "cn.com.sletech.app.itasktour.activity.SplashActivity"
+    },
+    {
+        "app_name": "运动健康fitness步行计",
+        "package_name": "com.qiutinghe.fit",
+        "file_name": "com.qiutinghe.fit_212.apk",
+        "app_activity": "com.tongbingshuang.scb.ui.activity.SplashActivity"
+    }
+
+]

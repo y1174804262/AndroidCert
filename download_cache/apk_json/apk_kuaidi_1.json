@@ -1,0 +1,422 @@
+[
+    {
+        "app_name": "物流查询通用",
+        "package_name": "com.find.emailsy",
+        "file_name": "com.find.emailsy_1.apk",
+        "app_activity": "com.zy.fyappcoll7.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "集物流(司机版)",
+        "package_name": "com.crecgec.app.driver",
+        "file_name": "com.crecgec.app.driver_2.apk",
+        "app_activity": "com.fkhwl.luban.driver.activity.LunchActivity"
+    },
+    {
+        "app_name": "PackageTracker",
+        "package_name": "cn.appfly.kuaidi",
+        "file_name": "cn.appfly.kuaidi_3.apk",
+        "app_activity": "cn.appfly.kuaidi.ui.SplashActivity"
+    },
+    {
+        "app_name": "中航速优宝",
+        "package_name": "com.jkbiq.ihqhang",
+        "file_name": "com.jkbiq.ihqhang_4.apk",
+        "app_activity": "com.jkbiq.ihqhang.MainActivity"
+    },
+    {
+        "app_name": "嘉马骑手",
+        "package_name": "com.fanmiao.fanmiaorider",
+        "file_name": "com.fanmiao.fanmiaorider_5.apk",
+        "app_activity": "com.fanmiao.fanmiaorider.mvp.views.activity.login.SplashActivity"
+    },
+    {
+        "app_name": "传奇司机",
+        "package_name": "com.chuanqi.driver",
+        "file_name": "com.chuanqi.driver_6.apk",
+        "app_activity": "com.chuanqi.driver.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "安吉助手",
+        "package_name": "com.anji.plus.crm",
+        "file_name": "com.anji.plus.crm_7.apk",
+        "app_activity": "com.anji.plus.crm.ui.base.MyGuideActivity"
+    },
+    {
+        "app_name": "老乡递",
+        "package_name": "com.zby.transgo",
+        "file_name": "com.zby.transgo_8.apk",
+        "app_activity": "com.zby.transgo.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "营家物流",
+        "package_name": "com.inja.wuliu.siji",
+        "file_name": "com.inja.wuliu.siji_9.apk",
+        "app_activity": "com.inja.driver.ui.login.activity.SplashActivity"
+    },
+    {
+        "app_name": "替你送",
+        "package_name": "com.jntns.app",
+        "file_name": "com.jntns.app_10.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "爽存商家",
+        "package_name": "uni.UNI9480F96",
+        "file_name": "uni.UNI9480F96_11.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "船货通",
+        "package_name": "com.example.cchuangjiang",
+        "file_name": "com.example.cchuangjiang_12.apk",
+        "app_activity": "com.example.cchuangjiang.basic.LaunchActivity"
+    },
+    {
+        "app_name": "快达骑手端",
+        "package_name": "com.kuaida.distributor",
+        "file_name": "com.kuaida.distributor_13.apk",
+        "app_activity": "com.lingdian.activity.StartActivity"
+    },
+    {
+        "app_name": "来货拉",
+        "package_name": "sino.cargocome.carrier.droid",
+        "file_name": "sino.cargocome.carrier.droid_14.apk",
+        "app_activity": "sino.cargocome.carrier.droid.modules.login.SplashActivity"
+    },
+    {
+        "app_name": "安易递监管版",
+        "package_name": "cn.aiqy.demo_manage",
+        "file_name": "cn.aiqy.demo_manage_15.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "安易递用户版",
+        "package_name": "cn.aiqy.demo_public",
+        "file_name": "cn.aiqy.demo_public_16.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "SF INTERNATIONAL",
+        "package_name": "com.sf.iapp",
+        "file_name": "com.sf.iapp_17.apk",
+        "app_activity": "com.sf.iapp.MainActivity"
+    },
+    {
+        "app_name": "查查快递管家",
+        "package_name": "com.syido.express",
+        "file_name": "com.syido.express_18.apk",
+        "app_activity": "com.syido.express.activity.SplashActivity"
+    },
+    {
+        "app_name": "DD骑士商家版",
+        "package_name": "com.saas.ddqs.customer",
+        "file_name": "com.saas.ddqs.customer_19.apk",
+        "app_activity": "com.saas.ddqs.customer.activity.FirstLaunchActivity"
+    },
+    {
+        "app_name": "替你送骑手端",
+        "package_name": "com.tns.rider",
+        "file_name": "com.tns.rider_20.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "淘集運",
+        "package_name": "com.transport.taojiyun",
+        "file_name": "com.transport.taojiyun_21.apk",
+        "app_activity": "com.transport.taojiyun.MainActivity"
+    },
+    {
+        "app_name": "淘派國際",
+        "package_name": "tp.app.mz",
+        "file_name": "tp.app.mz_22.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "派寶國際",
+        "package_name": "pb.app.mz",
+        "file_name": "pb.app.mz_23.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "德邦快递",
+        "package_name": "com.deppon.dpapp",
+        "file_name": "com.deppon.dpapp_24.apk",
+        "app_activity": "com.deppon.dpapp.MainActivity"
+    },
+    {
+        "app_name": "爽存快递员",
+        "package_name": "uni.UNICAB1683",
+        "file_name": "uni.UNICAB1683_25.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "韵达快递",
+        "package_name": "com.yunda.app",
+        "file_name": "com.yunda.app_26.apk",
+        "app_activity": "com.yunda.app.ui.SplashActivity"
+    },
+    {
+        "app_name": "专塑物流",
+        "package_name": "com.zswl.logistics",
+        "file_name": "com.zswl.logistics_27.apk",
+        "app_activity": "com.huochaoduo.MainActivity"
+    },
+    {
+        "app_name": "我的快递",
+        "package_name": "www.wdkdcx.xy",
+        "file_name": "www.wdkdcx.xy_28.apk",
+        "app_activity": "com.zy.app.devappcollection.SplashActivity"
+    },
+    {
+        "app_name": "快递速查",
+        "package_name": "sdf.tyu.iuy",
+        "file_name": "sdf.tyu.iuy_29.apk",
+        "app_activity": "com.zy.app.xzappcollection.SplashActivity"
+    },
+    {
+        "app_name": "诗歌品坊配送",
+        "package_name": "com.edenco.market_delivery",
+        "file_name": "com.edenco.market_delivery_30.apk",
+        "app_activity": "com.edenco.market_delivery.MainActivity"
+    },
+    {
+        "app_name": "闪急送骑手端",
+        "package_name": "com.hongcheng.dalianjunda_rider",
+        "file_name": "com.hongcheng.dalianjunda_rider_31.apk",
+        "app_activity": "com.example.flutter_rider.MainActivity"
+    },
+    {
+        "app_name": "乐橘云盘",
+        "package_name": "com.tanker.pallet",
+        "file_name": "com.tanker.pallet_32.apk",
+        "app_activity": "com.tanker.mainmodule.view.WelcomeActivity"
+    },
+    {
+        "app_name": "昆仑国际物流",
+        "package_name": "com.kunlun.logistics",
+        "file_name": "com.kunlun.logistics_33.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "JCtrans Event",
+        "package_name": "com.jctrans.app",
+        "file_name": "com.jctrans.app_34.apk",
+        "app_activity": "com.jctrans.main.BootPageActivity"
+    },
+    {
+        "app_name": "云杰智慧",
+        "package_name": "com.fujianjuan.yunjiezhihui",
+        "file_name": "com.fujianjuan.yunjiezhihui_35.apk",
+        "app_activity": "com.fujianjuan.yunjiezhihui.ui.activity.login.SplashActivity"
+    },
+    {
+        "app_name": "小柚快递",
+        "package_name": "com.kd.xiaoyou",
+        "file_name": "com.kd.xiaoyou_36.apk",
+        "app_activity": "com.tad.SplashActivity"
+    },
+    {
+        "app_name": "百斗快递",
+        "package_name": "net.cnmaps.express",
+        "file_name": "net.cnmaps.express_37.apk",
+        "app_activity": "net.cnmaps.express.SplashActivity"
+    },
+    {
+        "app_name": "快递查询帮",
+        "package_name": "app.express.byzxy",
+        "file_name": "app.express.byzxy_38.apk",
+        "app_activity": "com.tad.SplashActivity"
+    },
+    {
+        "app_name": "真好运货主",
+        "package_name": "com.yuanmai.logistics.shipper",
+        "file_name": "com.yuanmai.logistics.shipper_39.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "物流实时跟踪查询",
+        "package_name": "www.kuaidichaxun",
+        "file_name": "www.kuaidichaxun_40.apk",
+        "app_activity": "com.zy.app.devappcollection.StartActivity"
+    },
+    {
+        "app_name": "速寄发快递查询",
+        "package_name": "com.cn.xiangmaikeji.express",
+        "file_name": "com.cn.xiangmaikeji.express_41.apk",
+        "app_activity": "com.cn.xiangmaikeji.express.activity.SplashActivity"
+    },
+    {
+        "app_name": "快递易查单",
+        "package_name": "com.kuaidi.lj",
+        "file_name": "com.kuaidi.lj_42.apk",
+        "app_activity": "com.zy.express.check.ui.start.SplashActivity"
+    },
+    {
+        "app_name": "顺丰速运",
+        "package_name": "com.sf.activity",
+        "file_name": "com.sf.activity_43.apk",
+        "app_activity": "com.sf.activity.MainActivity"
+    },
+    {
+        "app_name": "物流查询通",
+        "package_name": "com.kdcx.zh",
+        "file_name": "com.kdcx.zh_44.apk",
+        "app_activity": "com.zy.app.xzappcollection.SplashActivity"
+    },
+    {
+        "app_name": "易邮寄快递查询管家",
+        "package_name": "com.cn.shuangzikeji.express",
+        "file_name": "com.cn.shuangzikeji.express_45.apk",
+        "app_activity": "com.cn.shuangzikeji.express.activity.SplashActivity"
+    },
+    {
+        "app_name": "安易递收寄版",
+        "package_name": "cn.aiqy.demo_postman",
+        "file_name": "cn.aiqy.demo_postman_46.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "Facilbuy",
+        "package_name": "facilbuy.app.mz",
+        "file_name": "facilbuy.app.mz_47.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "卡漠货主",
+        "package_name": "com.kamo56.owner",
+        "file_name": "com.kamo56.owner_48.apk",
+        "app_activity": "com.kamo56.owner.mvp.login.SplashActivity"
+    },
+    {
+        "app_name": "火云速运",
+        "package_name": "com.hyuusoft.customer",
+        "file_name": "com.hyuusoft.customer_49.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "存邮云仓",
+        "package_name": "uni.UNI6F9CE05",
+        "file_name": "uni.UNI6F9CE05_50.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "淘集運TW",
+        "package_name": "com.transport.taojiyun_tw",
+        "file_name": "com.transport.taojiyun_tw_51.apk",
+        "app_activity": "com.transport.taojiyun_tw.MainActivity"
+    },
+    {
+        "app_name": "泛非速运",
+        "package_name": "com.fanfei",
+        "file_name": "com.fanfei_52.apk",
+        "app_activity": "com.fanfei.ui.activity.start.StartActivity"
+    },
+    {
+        "app_name": "掌中通",
+        "package_name": "com.geenk.zto.sys",
+        "file_name": "com.geenk.zto.sys_53.apk",
+        "app_activity": "com.zto.ztohand.splash.SplashActivity"
+    },
+    {
+        "app_name": "星链速运",
+        "package_name": "xbj.xlsy.exp",
+        "file_name": "xbj.xlsy.exp_54.apk",
+        "app_activity": "xbj.xlsy.exp.ui.activity.login.SplashActivity"
+    },
+    {
+        "app_name": "大有单",
+        "package_name": "com.dayoudan.app",
+        "file_name": "com.dayoudan.app_55.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "快达商户端",
+        "package_name": "com.kuaida.merchant",
+        "file_name": "com.kuaida.merchant_56.apk",
+        "app_activity": "com.lingdian.runfast.ui.start.StartActivity"
+    },
+    {
+        "app_name": "益鲜优选",
+        "package_name": "com.nsy",
+        "file_name": "com.nsy_57.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "三脚猫电商",
+        "package_name": "com.jiumaocustomer.jmall",
+        "file_name": "com.jiumaocustomer.jmall_58.apk",
+        "app_activity": "com.jiumaocustomer.jmall.app.start.SplashActivity"
+    },
+    {
+        "app_name": "专塑物流司机",
+        "package_name": "com.zswl.driver",
+        "file_name": "com.zswl.driver_59.apk",
+        "app_activity": "com.huochaoduo.MainActivity"
+    },
+    {
+        "app_name": "云闪速运",
+        "package_name": "com.ruanjianyuanerqi.ruipaiap",
+        "file_name": "com.ruanjianyuanerqi.ruipaiap_60.apk",
+        "app_activity": "com.ruanjianyuanerqi.ruipaiap.ui.activity.login.SplashActivity"
+    },
+    {
+        "app_name": "Wepozt",
+        "package_name": "com.hhbb.logistics",
+        "file_name": "com.hhbb.logistics_61.apk",
+        "app_activity": "com.hhbb.logistics.ui.common.SplashActivity"
+    },
+    {
+        "app_name": "卓睿运输",
+        "package_name": "uni.UNI790FB69",
+        "file_name": "uni.UNI790FB69_62.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "达达秒送",
+        "package_name": "com.dada.mobile.shop.android",
+        "file_name": "com.dada.mobile.shop.android_63.apk",
+        "app_activity": "com.dada.mobile.shop.android.commonbiz.temp.ui.common.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "云喇叭",
+        "package_name": "com.shenbianvip.app",
+        "file_name": "com.shenbianvip.app_64.apk",
+        "app_activity": "com.shenbianvip.app.ui.activity.splash.SplashV2Activity"
+    },
+    {
+        "app_name": "万村联网快递",
+        "package_name": "com.wancunnet.express",
+        "file_name": "com.wancunnet.express_65.apk",
+        "app_activity": "com.wancunnet.express.ui.other.SplashActivity"
+    },
+    {
+        "app_name": "全网快递查询",
+        "package_name": "com.tldqbp.lkcnaquy",
+        "file_name": "com.tldqbp.lkcnaquy_66.apk",
+        "app_activity": "com.tldqbp.lkcnaquy.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "申通快递",
+        "package_name": "cn.sto.superMerchant",
+        "file_name": "cn.sto.superMerchant_67.apk",
+        "app_activity": "cn.sto.superMerchant.MainActivity"
+    },
+    {
+        "app_name": "鞋运宝",
+        "package_name": "com.ruanjianyuan.xieyunbao",
+        "file_name": "com.ruanjianyuan.xieyunbao_68.apk",
+        "app_activity": "com.ruanjianyuan.xieyunbao.ui.activity.login.SplashActivity"
+    },
+    {
+        "app_name": "菜鸟物流网",
+        "package_name": "org.unionapp.cnwl",
+        "file_name": "org.unionapp.cnwl_69.apk",
+        "app_activity": "com.activity.ActivityWelcome"
+    },
+    {
+        "app_name": "闪送",
+        "package_name": "cn.ishansong",
+        "file_name": "cn.ishansong_70.apk",
+        "app_activity": "cn.ishansong.activity.SplashActivity"
+    }
+]

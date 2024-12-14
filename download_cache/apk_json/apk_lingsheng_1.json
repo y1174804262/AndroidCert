@@ -1,0 +1,620 @@
+[
+    {
+        "app_name": "炫酷免费铃声",
+        "package_name": "com.txj.airs.xkfreering",
+        "file_name": "com.txj.airs.xkfreering_1.apk",
+        "app_activity": "com.music.good.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "欢乐来电秀",
+        "package_name": "com.ld.ring.huanleldx",
+        "file_name": "com.ld.ring.huanleldx_2.apk",
+        "app_activity": "com.alipay.sdk.m.j.mxirhstvw6"
+    },
+    {
+        "app_name": "悦享来电秀",
+        "package_name": "com.syuexiang.callshow",
+        "file_name": "com.syuexiang.callshow_3.apk",
+        "app_activity": "com.cy.reg.MainActivity"
+    },
+    {
+        "app_name": "魔音彩铃",
+        "package_name": "com.feichongtech.callshow",
+        "file_name": "com.feichongtech.callshow_4.apk",
+        "app_activity": "com.feichongtech.callshow.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "Ringtone",
+        "package_name": "com.droi.ringtone",
+        "file_name": "com.droi.ringtone_5.apk",
+        "app_activity": "com.zhuoyou.ringtone.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "全民免费铃声",
+        "package_name": "com.mianfei.quanmin",
+        "file_name": "com.mianfei.quanmin_6.apk",
+        "app_activity": "com.mianfei.quanmin.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "免费铃声秀",
+        "package_name": "com.csyzm.freering",
+        "file_name": "com.csyzm.freering_7.apk",
+        "app_activity": "com.bjsk.ringelves.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "番茄来电秀",
+        "package_name": "com.hxtomato.ringtone",
+        "file_name": "com.hxtomato.ringtone_8.apk",
+        "app_activity": "com.hxtomato.ringtone.ui.SplashActivity"
+    },
+    {
+        "app_name": "5G彩铃来电秀",
+        "package_name": "com.hitiantian.callshow",
+        "file_name": "com.hitiantian.callshow_9.apk",
+        "app_activity": "com.hitiantian.callshow.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "手机铃声下载",
+        "package_name": "com.audio.bcut.down",
+        "file_name": "com.audio.bcut.down_10.apk",
+        "app_activity": "rings.uwity.show.activity.StartActivity"
+    },
+    {
+        "app_name": "免费铃声动听",
+        "package_name": "com.music.good",
+        "file_name": "com.music.good_11.apk",
+        "app_activity": "com.music.good.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "畅听免费铃声",
+        "package_name": "com.hnjw.ringtone",
+        "file_name": "com.hnjw.ringtone_12.apk",
+        "app_activity": "com.bjsk.ringelves.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "手机铃音",
+        "package_name": "com.sqcat.callshow",
+        "file_name": "com.sqcat.callshow_13.apk",
+        "app_activity": "com.sqcat.callshow.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "梦幻来电秀",
+        "package_name": "com.callshow.dreamworldcall",
+        "file_name": "com.callshow.dreamworldcall_14.apk",
+        "app_activity": "com.alipay.sdk.m.q.qcnvi4"
+    },
+    {
+        "app_name": "手机铃声下载大全",
+        "package_name": "nilbounds.app.ringagent",
+        "file_name": "nilbounds.app.ringagent_15.apk",
+        "app_activity": "com.xh.ww.WelcomeActivity"
+    },
+    {
+        "app_name": "免费来电大全",
+        "package_name": "com.jil.lddq",
+        "file_name": "com.jil.lddq_16.apk",
+        "app_activity": "com.jil.lddq.activity.SplashActivity"
+    },
+    {
+        "app_name": "来电视频",
+        "package_name": "color.phone.led.flash.call.screen",
+        "file_name": "color.phone.led.flash.call.screen_17.apk",
+        "app_activity": "color.phone.led.flash.call.screen.activitys.SplashActivity"
+    },
+    {
+        "app_name": "铃声下载",
+        "package_name": "com.qisi.ringdownload",
+        "file_name": "com.qisi.ringdownload_18.apk",
+        "app_activity": "com.qisi.ringdownload.activity.SplashActivity"
+    },
+    {
+        "app_name": "彩铃多多",
+        "package_name": "com.duoduo.cailing",
+        "file_name": "com.duoduo.cailing_19.apk",
+        "app_activity": "com.duoduo.cailing.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "免费手机铃声",
+        "package_name": "com.qisi.freering",
+        "file_name": "com.qisi.freering_20.apk",
+        "app_activity": "com.qisi.freering.activity.SplashActivity"
+    },
+    {
+        "app_name": "短信铃声王",
+        "package_name": "com.txj.airs.messagering",
+        "file_name": "com.txj.airs.messagering_21.apk",
+        "app_activity": "com.jingya.ringtone.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "手机铃声大全",
+        "package_name": "com.mera.ringtone",
+        "file_name": "com.mera.ringtone_22.apk",
+        "app_activity": "com.jingya.ringtone.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "汽泡音乐",
+        "package_name": "com.music.qipao",
+        "file_name": "com.music.qipao_23.apk",
+        "app_activity": "com.music.qipao.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "东方铃声",
+        "package_name": "com.dragon.ringtone",
+        "file_name": "com.dragon.ringtone_24.apk",
+        "app_activity": "com.xiuxiu.ringtone.modules.app.activity.StarActivity"
+    },
+    {
+        "app_name": "今日精选铃声",
+        "package_name": "com.hnfyring.daily",
+        "file_name": "com.hnfyring.daily_25.apk",
+        "app_activity": "com.ringtone.dudu.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "来电多多",
+        "package_name": "com.callshow.duoduo",
+        "file_name": "com.callshow.duoduo_26.apk",
+        "app_activity": "com.ringtone.dudu.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "来电秀秀",
+        "package_name": "com.laidian.xiu",
+        "file_name": "com.laidian.xiu_27.apk",
+        "app_activity": "com.android.xiu.fast.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "彬彬来电秀",
+        "package_name": "com.callshow.binbinlaidx",
+        "file_name": "com.callshow.binbinlaidx_28.apk",
+        "app_activity": "com.alipay.sdk.m.w.ipfqwgejly5"
+    },
+    {
+        "app_name": "手机铃声助手",
+        "package_name": "com.ideack.ringtone",
+        "file_name": "com.ideack.ringtone_29.apk",
+        "app_activity": "com.ideack.ringtone.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "乐动铃声",
+        "package_name": "com.doubleyan.ring",
+        "file_name": "com.doubleyan.ring_30.apk",
+        "app_activity": "com.mcloud.client.ui.activity.StartUpActivity"
+    },
+    {
+        "app_name": "热门免费铃声",
+        "package_name": "com.hnjm.topfreeringtones",
+        "file_name": "com.hnjm.topfreeringtones_31.apk",
+        "app_activity": "com.bjsk.ringelves.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "抖抖秀",
+        "package_name": "com.doudouxiu.ddxddx",
+        "file_name": "com.doudouxiu.ddxddx_32.apk",
+        "app_activity": "com.nice.finevideo.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "每日铃声秀",
+        "package_name": "com.cstsring.free",
+        "file_name": "com.cstsring.free_33.apk",
+        "app_activity": "com.ringtone.dudu.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "美眉来电秀",
+        "package_name": "com.callshow.meimldx",
+        "file_name": "com.callshow.meimldx_34.apk",
+        "app_activity": "com.alipay.sdk.m.a.qgj6"
+    },
+    {
+        "app_name": "多多视频彩铃铃声制作大全",
+        "package_name": "com.qiaolatech.callshow",
+        "file_name": "com.qiaolatech.callshow_35.apk",
+        "app_activity": "com.qiaolatech.callshow.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "视频铃声",
+        "package_name": "cn.shengmimi.callshow",
+        "file_name": "cn.shengmimi.callshow_36.apk",
+        "app_activity": "com.common.tang.activity.SplashActivity"
+    },
+    {
+        "app_name": "酷音铃声",
+        "package_name": "com.iflytek.ringdiyclient",
+        "file_name": "com.iflytek.ringdiyclient_37.apk",
+        "app_activity": "com.iflytek.ringdiyclient.splash.SplashActivity"
+    },
+    {
+        "app_name": "樱桃视频铃声",
+        "package_name": "com.njchulitech.callshow",
+        "file_name": "com.njchulitech.callshow_38.apk",
+        "app_activity": "com.njchulitech.callshow.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "热门铃声大全",
+        "package_name": "com.hnjw.popularringtones",
+        "file_name": "com.hnjw.popularringtones_39.apk",
+        "app_activity": "com.bjsk.ringelves.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "全民来电铃声",
+        "package_name": "com.aigccallshow.civil",
+        "file_name": "com.aigccallshow.civil_40.apk",
+        "app_activity": "com.ringtone.dudu.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "serdax",
+        "package_name": "com.kyd.serdax",
+        "file_name": "com.kyd.serdax_41.apk",
+        "app_activity": "com.allo.contacts.activity.SplashActivity"
+    },
+    {
+        "app_name": "香蕉视频来电",
+        "package_name": "cn.jinrishuiyin.callshow",
+        "file_name": "cn.jinrishuiyin.callshow_42.apk",
+        "app_activity": "cn.jinrishuiyin.callshow.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "手机彩铃",
+        "package_name": "com.sanddunescat.callshow",
+        "file_name": "com.sanddunescat.callshow_43.apk",
+        "app_activity": "com.sanddunescat.callshow.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "铃音来电秀",
+        "package_name": "com.qisi.callvideo",
+        "file_name": "com.qisi.callvideo_44.apk",
+        "app_activity": "com.qisi.callvideo.activity.SplashActivity"
+    },
+    {
+        "app_name": "配音彩铃秀",
+        "package_name": "com.yuan_li_network.cailing",
+        "file_name": "com.yuan_li_network.cailing_45.apk",
+        "app_activity": "com.yuan_li_network.cailing.SplashActivity"
+    },
+    {
+        "app_name": "铃声多多",
+        "package_name": "com.shoujiduoduo.ringtone",
+        "file_name": "com.shoujiduoduo.ringtone_46.apk",
+        "app_activity": "com.shoujiduoduo.ringtone.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "多来电",
+        "package_name": "com.shoujiduoduo.duoshow",
+        "file_name": "com.shoujiduoduo.duoshow_47.apk",
+        "app_activity": "com.shoujiduoduo.ringtone.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "快听免费铃声大全",
+        "package_name": "kuaiting.hweilingsheng",
+        "file_name": "kuaiting.hweilingsheng_48.apk",
+        "app_activity": "kuaiting.hweilingsheng.HGHFirsthActivity"
+    },
+    {
+        "app_name": "多多铃声大全",
+        "package_name": "com.xnxzm.xreeringtone",
+        "file_name": "com.xnxzm.xreeringtone_49.apk",
+        "app_activity": "com.bjsk.ringelves.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "免听音乐",
+        "package_name": "kuting.yinyuedaquan",
+        "file_name": "kuting.yinyuedaquan_50.apk",
+        "app_activity": "kuting.yinyuedaquan.HGHFirsthActivity"
+    },
+    {
+        "app_name": "充电精灵",
+        "package_name": "com.hqf.app.chargingwizard",
+        "file_name": "com.hqf.app.chargingwizard_51.apk",
+        "app_activity": "com.hqf.app.chargingwizard.ui.SplashActivity"
+    },
+    {
+        "app_name": "酷听音乐",
+        "package_name": "caihuayinyue.kuting2",
+        "file_name": "caihuayinyue.kuting2_52.apk",
+        "app_activity": "caihuayinyue.kuting2.HGHFirsthActivity"
+    },
+    {
+        "app_name": "魔法来电秀",
+        "package_name": "com.chituo.mofldx",
+        "file_name": "com.chituo.mofldx_53.apk",
+        "app_activity": "com.mfldx.home.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "免费铃声全",
+        "package_name": "com.tvyvqvo.wacrk",
+        "file_name": "com.tvyvqvo.wacrk_54.apk",
+        "app_activity": "com.tvyvqvo.wacrk.ui.AppSplashActivity"
+    },
+    {
+        "app_name": "电话铃声",
+        "package_name": "com.lalawangluo.callshow",
+        "file_name": "com.lalawangluo.callshow_55.apk",
+        "app_activity": "com.lalawangluo.callshow.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "趣玩视频铃声",
+        "package_name": "com.quwanring",
+        "file_name": "com.quwanring_56.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "酷狗铃声",
+        "package_name": "com.kugou.android.ringtone",
+        "file_name": "com.kugou.android.ringtone_57.apk",
+        "app_activity": "com.kugou.android.ringtone.activity.WecomeActivity"
+    },
+    {
+        "app_name": "趣动来电视频秀",
+        "package_name": "com.tjqdwl.show.call",
+        "file_name": "com.tjqdwl.show.call_58.apk",
+        "app_activity": "com.tjqdwl.show.call.ui.SplashActivity"
+    },
+    {
+        "app_name": "歌词适配软件",
+        "package_name": "com.yiyan.CutMusic2",
+        "file_name": "com.yiyan.CutMusic2_59.apk",
+        "app_activity": "com.yiyan.cutmusic2.activity.StartActivity"
+    },
+    {
+        "app_name": "铃声点点",
+        "package_name": "com.hnjm.freeringtone",
+        "file_name": "com.hnjm.freeringtone_60.apk",
+        "app_activity": "com.bjsk.ringelves.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "酷彩铃",
+        "package_name": "com.tuodehui.callshow",
+        "file_name": "com.tuodehui.callshow_61.apk",
+        "app_activity": "com.tuodehui.callshow.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "来电免费铃声大全",
+        "package_name": "com.laidian.music",
+        "file_name": "com.laidian.music_62.apk",
+        "app_activity": "com.laidian.music.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "宝贝来电秀",
+        "package_name": "com.callshow.Babycallshow",
+        "file_name": "com.callshow.Babycallshow_63.apk",
+        "app_activity": "com.alipay.sdk.m.r0.mommmgacb5"
+    },
+    {
+        "app_name": "5G手机铃声",
+        "package_name": "com.weilaihongtech.callshow",
+        "file_name": "com.weilaihongtech.callshow_64.apk",
+        "app_activity": "com.weilaihongtech.callshow.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "免费DJ大全",
+        "package_name": "com.vlgknuyx.gkqiox",
+        "file_name": "com.vlgknuyx.gkqiox_65.apk",
+        "app_activity": "com.vlgknuyx.gkqiox.ui.AppSplashActivity"
+    },
+    {
+        "app_name": "多乐铃声",
+        "package_name": "com.yunxi.bell",
+        "file_name": "com.yunxi.bell_66.apk",
+        "app_activity": "com.yunxi.bell.ui.SplashActivity"
+    },
+    {
+        "app_name": "畅听铃声库",
+        "package_name": "com.cstsringtone.flow",
+        "file_name": "com.cstsringtone.flow_67.apk",
+        "app_activity": "com.ringtone.dudu.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "全民铃声多",
+        "package_name": "com.njclx.ringer",
+        "file_name": "com.njclx.ringer_68.apk",
+        "app_activity": "com.njclx.ringer.module.splash.VestSplashActivity"
+    },
+    {
+        "app_name": "贝贝来电",
+        "package_name": "com.callshow.beibeilaidian",
+        "file_name": "com.callshow.beibeilaidian_69.apk",
+        "app_activity": "com.alipay.sdk.m.w.dacw6"
+    },
+    {
+        "app_name": "免费彩铃",
+        "package_name": "com.csks.kfreeringtone",
+        "file_name": "com.csks.kfreeringtone_70.apk",
+        "app_activity": "com.bjsk.ringelves.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "遇见音乐吧",
+        "package_name": "com.jst.meetmusic",
+        "file_name": "com.jst.meetmusic_71.apk",
+        "app_activity": "com.jst.meetmusic.currentActivity.StarActivity"
+    },
+    {
+        "app_name": "乐酷铃声",
+        "package_name": "com.mvring.mvring",
+        "file_name": "com.mvring.mvring_72.apk",
+        "app_activity": "com.mvring.mvring.activitys.SplashActivity"
+    },
+    {
+        "app_name": "相约来电",
+        "package_name": "com.callshow.xiangyueld",
+        "file_name": "com.callshow.xiangyueld_73.apk",
+        "app_activity": "com.alipay.sdk.m.u.gkfcubw6"
+    },
+    {
+        "app_name": "超酷铃声",
+        "package_name": "cn.yisheng.callshow",
+        "file_name": "cn.yisheng.callshow_74.apk",
+        "app_activity": "com.common.tang.activity.SplashActivity"
+    },
+    {
+        "app_name": "彩铃定制",
+        "package_name": "com.yuanli.caicustommade",
+        "file_name": "com.yuanli.caicustommade_75.apk",
+        "app_activity": "com.zhouzining.myapplication.WelcomeActivity"
+    },
+    {
+        "app_name": "暧昧来电",
+        "package_name": "com.callshow.aimeilaidian",
+        "file_name": "com.callshow.aimeilaidian_76.apk",
+        "app_activity": "com.alipay.sdk.interior.jtw0"
+    },
+    {
+        "app_name": "南风来电秀",
+        "package_name": "com.tj.callshow.souther",
+        "file_name": "com.tj.callshow.souther_77.apk",
+        "app_activity": "com.tj.callshow.souther.ui.splash.SplashActivityZs"
+    },
+    {
+        "app_name": "全民铃声秀",
+        "package_name": "com.cszsring.people",
+        "file_name": "com.cszsring.people_78.apk",
+        "app_activity": "com.ringtone.dudu.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "趣铃",
+        "package_name": "com.charge.elves",
+        "file_name": "com.charge.elves_79.apk",
+        "app_activity": "com.charge.elves.activity.SplashActivity"
+    },
+    {
+        "app_name": "来电视频铃声",
+        "package_name": "com.ld.ring",
+        "file_name": "com.ld.ring_80.apk",
+        "app_activity": "com.mcloud.client.show.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "视频铃声来电秀",
+        "package_name": "com.splingsheng.ringtone",
+        "file_name": "com.splingsheng.ringtone_81.apk",
+        "app_activity": "com.splingsheng.ringtone.ui.SplashActivity"
+    },
+    {
+        "app_name": "光粒甜心来电",
+        "package_name": "com.callshow.sweetheartcall",
+        "file_name": "com.callshow.sweetheartcall_82.apk",
+        "app_activity": "com.alipay.sdk.m.c.ntqypior2"
+    },
+    {
+        "app_name": "口袋铃声",
+        "package_name": "com.boxring",
+        "file_name": "com.boxring_83.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "左耳铃声",
+        "package_name": "com.cissy.zels",
+        "file_name": "com.cissy.zels_84.apk",
+        "app_activity": "com.mcloud.client.ui.activity.StartUpActivity"
+    },
+    {
+        "app_name": "音乐铃声剪辑",
+        "package_name": "com.pang.mp3jianji",
+        "file_name": "com.pang.mp3jianji_85.apk",
+        "app_activity": "com.pang.mp3jianji.ui.SplashActivity"
+    },
+    {
+        "app_name": "晨曦来电",
+        "package_name": "com.callshow.chenxilaidian",
+        "file_name": "com.callshow.chenxilaidian_86.apk",
+        "app_activity": "com.alipay.sdk.m.r.egsv2"
+    },
+    {
+        "app_name": "彩铃大师",
+        "package_name": "com.yuanli.zuogecailing",
+        "file_name": "com.yuanli.zuogecailing_87.apk",
+        "app_activity": "com.yuanli.zuogecailing.fcuntion.WelcomeActivity"
+    },
+    {
+        "app_name": "酷炫铃声",
+        "package_name": "com.mx.coolringtone",
+        "file_name": "com.mx.coolringtone_88.apk",
+        "app_activity": "com.mx.coolringtone.activity.SplashActivity"
+    },
+    {
+        "app_name": "来电秀",
+        "package_name": "com.doupin.show",
+        "file_name": "com.doupin.show_89.apk",
+        "app_activity": "com.doupin.show.splash.SplashHomeActivity"
+    },
+    {
+        "app_name": "秀来电",
+        "package_name": "com.sixsix.call",
+        "file_name": "com.sixsix.call_90.apk",
+        "app_activity": "com.abc.call.activity.SplashActivity"
+    },
+    {
+        "app_name": "主题微x来电",
+        "package_name": "com.flyfish.decoratecall",
+        "file_name": "com.flyfish.decoratecall_91.apk",
+        "app_activity": "com.flyfish.decoratecall.splash.SplashActivity"
+    },
+    {
+        "app_name": "音视频剪辑大师",
+        "package_name": "com.cqmvapp.mvcutedit",
+        "file_name": "com.cqmvapp.mvcutedit_92.apk",
+        "app_activity": "com.cqmvapp.mvcutedit.launcher.StartActivity"
+    },
+    {
+        "app_name": "彩铃易",
+        "package_name": "com.yuanli.ringback",
+        "file_name": "com.yuanli.ringback_93.apk",
+        "app_activity": "com.yuanli.ringback.mvp.ui.activity.StartupPageActivity"
+    },
+    {
+        "app_name": "朝夕来电秀",
+        "package_name": "com.callshow.zhaoxilaidian",
+        "file_name": "com.callshow.zhaoxilaidian_94.apk",
+        "app_activity": "com.alipay.sdk.m.b.vsmbosl9"
+    },
+    {
+        "app_name": "最炫来电多多",
+        "package_name": "com.callshow.cool",
+        "file_name": "com.callshow.cool_95.apk",
+        "app_activity": "com.ringtone.dudu.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "悦动秀",
+        "package_name": "com.ylx.show",
+        "file_name": "com.ylx.show_96.apk",
+        "app_activity": "com.zfxm.pipi.wallpaper.launcher.MyLauncherActivity"
+    },
+    {
+        "app_name": "空空鱼",
+        "package_name": "com.fushuaige.ky.likefish",
+        "file_name": "com.fushuaige.ky.likefish_97.apk",
+        "app_activity": "com.fushuaige.ky.likefish.MainActivity"
+    },
+    {
+        "app_name": "来电闪光灯提醒",
+        "package_name": "com.gtdev5.caller_flash3",
+        "file_name": "com.gtdev5.caller_flash3_98.apk",
+        "app_activity": "com.gtdev5.caller_flash3.activity.SplashActiviy"
+    },
+    {
+        "app_name": "来电秀彩铃",
+        "package_name": "com.lilaitech.callshow",
+        "file_name": "com.lilaitech.callshow_99.apk",
+        "app_activity": "com.lilaitech.callshow.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "免费铃声快",
+        "package_name": "com.liul.lskuai",
+        "file_name": "com.liul.lskuai_100.apk",
+        "app_activity": "com.liul.lskuai.ui.HomeSplashActivity"
+    },
+    {
+        "app_name": "我的铃声制作助手",
+        "package_name": "com.audio.hsbdh",
+        "file_name": "com.audio.hsbdh_101.apk",
+        "app_activity": "com.audio.hsbdh.activity.StartActivity"
+    },
+    {
+        "app_name": "手机铃声王",
+        "package_name": "com.lee.mood.ringwang",
+        "file_name": "com.lee.mood.ringwang_102.apk",
+        "app_activity": "com.music.good.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "酷炫来电视频铃声",
+        "package_name": "com.tm.cdylkxldls",
+        "file_name": "com.tm.cdylkxldls_103.apk",
+        "app_activity": "com.lxb.videoringtones.activity.StartActivity"
+    }
+]

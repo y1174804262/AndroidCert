@@ -1,0 +1,2878 @@
+[
+    {
+        "app_name": "AI尺子测距仪",
+        "package_name": "com.hcj.aicjy",
+        "file_name": "com.hcj.aicjy_1.apk",
+        "app_activity": "com.hcj.aicjy.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "变声器大师",
+        "package_name": "com.xinmang.voicechanger",
+        "file_name": "com.xinmang.voicechanger_2.apk",
+        "app_activity": "com.xinmang.voicechanger.activity.SplashAdActivity"
+    },
+    {
+        "app_name": "晴雨之间",
+        "package_name": "com.sunrain.qyzj",
+        "file_name": "com.sunrain.qyzj_3.apk",
+        "app_activity": "com.nice.weather.launch.LaunchActivity"
+    },
+    {
+        "app_name": "无忧换机助手",
+        "package_name": "com.cstsclone.free",
+        "file_name": "com.cstsclone.free_4.apk",
+        "app_activity": "com.wifikey.tenthousands.remote_control.MainActivity"
+    },
+    {
+        "app_name": "忘优工具箱",
+        "package_name": "com.wangyou.clear",
+        "file_name": "com.wangyou.clear_5.apk",
+        "app_activity": "com.wy.cl.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "美的美居",
+        "package_name": "com.midea.ai.appliances",
+        "file_name": "com.midea.ai.appliances_6.apk",
+        "app_activity": "com.midea.meiju.welcome.WelcomeActivityMeiJu"
+    },
+    {
+        "app_name": "小度",
+        "package_name": "com.baidu.duer.superapp",
+        "file_name": "com.baidu.duer.superapp_7.apk",
+        "app_activity": "com.baidu.duer.superapp.splash.SplashActivity"
+    },
+    {
+        "app_name": "biubiu加速器",
+        "package_name": "com.njh.biubiu",
+        "file_name": "com.njh.biubiu_8.apk",
+        "app_activity": "com.njh.ping.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "灿烂充电",
+        "package_name": "com.corpoinsens.blend",
+        "file_name": "com.corpoinsens.blend_9.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "换机助手",
+        "package_name": "com.tencent.transfer",
+        "file_name": "com.tencent.transfer_10.apk",
+        "app_activity": "com.tencent.transfer.ui.FirstActivity"
+    },
+    {
+        "app_name": "乔安智联",
+        "package_name": "com.jooan.qiaoanzhilian",
+        "file_name": "com.jooan.qiaoanzhilian_11.apk",
+        "app_activity": "com.jooan.biz_am.launcher.SplashActivity"
+    },
+    {
+        "app_name": "e充电",
+        "package_name": "com.sgcc.evs.echarge",
+        "file_name": "com.sgcc.evs.echarge_12.apk",
+        "app_activity": "com.evs.echarge.dev.ui.advertisement.SplashActivity"
+    },
+    {
+        "app_name": "CAD快速制图绘图",
+        "package_name": "com.hcj.ztht",
+        "file_name": "com.hcj.ztht_13.apk",
+        "app_activity": "com.hcj.ztht.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "金事通",
+        "package_name": "com.sinosoft.csplatform",
+        "file_name": "com.sinosoft.csplatform_14.apk",
+        "app_activity": "com.sinosoft.csplatform.SplashAty"
+    },
+    {
+        "app_name": "阿里云盘",
+        "package_name": "com.alicloud.databox",
+        "file_name": "com.alicloud.databox_15.apk",
+        "app_activity": "com.alicloud.databox.launcher.splash.SplashActivity"
+    },
+    {
+        "app_name": "CAD看图器",
+        "package_name": "com.cshzmkj.hzmpicture",
+        "file_name": "com.cshzmkj.hzmpicture_16.apk",
+        "app_activity": "com.cshzmkj.hzmpicture.ui.LauncherActivity"
+    },
+    {
+        "app_name": "一点测量仪",
+        "package_name": "com.newscan.yidianscan",
+        "file_name": "com.newscan.yidianscan_17.apk",
+        "app_activity": "com.alipay.sdk.m.g.spjhxxx1"
+    },
+    {
+        "app_name": "智谱清言",
+        "package_name": "com.zhipuai.qingyan",
+        "file_name": "com.zhipuai.qingyan_18.apk",
+        "app_activity": "com.zhipuai.qingyan.MainActivity"
+    },
+    {
+        "app_name": "繁花享刷",
+        "package_name": "com.hskj.fhxs",
+        "file_name": "com.hskj.fhxs_19.apk",
+        "app_activity": "com.jingling.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "Petal Lite Games",
+        "package_name": "com.petal.litegames",
+        "file_name": "com.petal.litegames_20.apk",
+        "app_activity": "com.huawei.litegames.LiteGamesActivity"
+    },
+    {
+        "app_name": "蜘蛛大玩家极速版",
+        "package_name": "com.jgtw.zzdwj",
+        "file_name": "com.jgtw.zzdwj_21.apk",
+        "app_activity": "com.jgtw.zzdwj.about_cocos.pager.SplashActivity"
+    },
+    {
+        "app_name": "格立空调遥控器",
+        "package_name": "com.shem.glykq",
+        "file_name": "com.shem.glykq_22.apk",
+        "app_activity": "com.shem.glykq.module.page.activity.SplashActivity"
+    },
+    {
+        "app_name": "中国联通",
+        "package_name": "com.sinovatech.unicom.ui",
+        "file_name": "com.sinovatech.unicom.ui_23.apk",
+        "app_activity": "com.sinovatech.unicom.basic.ui.activity.WelcomeClient"
+    },
+    {
+        "app_name": "WiFi钥匙快连",
+        "package_name": "com.njclx.wifikeys",
+        "file_name": "com.njclx.wifikeys_24.apk",
+        "app_activity": "com.njclx.wifikeys.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "租号玩专业版",
+        "package_name": "com.dofun.zhw.pro",
+        "file_name": "com.dofun.zhw.pro_25.apk",
+        "app_activity": "com.dofun.zhw.lite.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "讯飞星火",
+        "package_name": "com.iflytek.spark",
+        "file_name": "com.iflytek.spark_26.apk",
+        "app_activity": "com.iflytek.spark.MainActivity"
+    },
+    {
+        "app_name": "Seetong",
+        "package_name": "com.seetong.app.seetong",
+        "file_name": "com.seetong.app.seetong_27.apk",
+        "app_activity": "com.seetong.app.seetong.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "TP-LINK物联",
+        "package_name": "com.tplink.ipc",
+        "file_name": "com.tplink.ipc_28.apk",
+        "app_activity": "com.tplink.superapp.ui.main.AppBootActivity"
+    },
+    {
+        "app_name": "充源速电",
+        "package_name": "com.rapid.cherge.cysd",
+        "file_name": "com.rapid.cherge.cysd_29.apk",
+        "app_activity": "com.fltapp.cysd.app.activity.CYSDSplashActivity"
+    },
+    {
+        "app_name": "满电欢歌",
+        "package_name": "com.power.sing.mdhg",
+        "file_name": "com.power.sing.mdhg_30.apk",
+        "app_activity": "com.fltapp.mdhg.app.activity.MDHGSplashActivity"
+    },
+    {
+        "app_name": "天猫精灵",
+        "package_name": "com.alibaba.ailabs.tg",
+        "file_name": "com.alibaba.ailabs.tg_31.apk",
+        "app_activity": "com.alibaba.ailabs.tg.splash.WelcomeActivity"
+    },
+    {
+        "app_name": "中国人寿寿险",
+        "package_name": "com.chinalife.ebz",
+        "file_name": "com.chinalife.ebz_32.apk",
+        "app_activity": "com.clicbase.activity.SplashActivity"
+    },
+    {
+        "app_name": "Weather",
+        "package_name": "com.huawei.android.totemweather",
+        "file_name": "com.huawei.android.totemweather_33.apk",
+        "app_activity": "com.huawei.android.totemweather.WeatherHome"
+    },
+    {
+        "app_name": "卡拉拉的生活极速版",
+        "package_name": "com.hndk.klldsh",
+        "file_name": "com.hndk.klldsh_34.apk",
+        "app_activity": "com.hndk.klldsh.business.splash.SplashActivity"
+    },
+    {
+        "app_name": "国色每刻",
+        "package_name": "com.color.appgsmk",
+        "file_name": "com.color.appgsmk_35.apk",
+        "app_activity": "com.relax.game.commongamenew.activity.TransferActivity"
+    },
+    {
+        "app_name": "泡泡流量",
+        "package_name": "io.paopao.flow",
+        "file_name": "io.paopao.flow_36.apk",
+        "app_activity": "com.kodami.metoru.wifi.launch.LaunchActivity"
+    },
+    {
+        "app_name": "录音专家",
+        "package_name": "cn.nineton.recordpro",
+        "file_name": "cn.nineton.recordpro_38.apk",
+        "app_activity": "cn.nineton.recordpro.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "日出充电",
+        "package_name": "com.elevatedecade.sunrise",
+        "file_name": "com.elevatedecade.sunrise_39.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "万能测量器",
+        "package_name": "com.cshzmkj.hzmmeasurement",
+        "file_name": "com.cshzmkj.hzmmeasurement_40.apk",
+        "app_activity": "com.cshzmkj.hzmmeasurement.MainActivity"
+    },
+    {
+        "app_name": "个人所得税",
+        "package_name": "cn.gov.tax.its",
+        "file_name": "cn.gov.tax.its_41.apk",
+        "app_activity": "cn.gov.tax.its.MainActivity"
+    },
+    {
+        "app_name": "通义",
+        "package_name": "com.aliyun.tongyi",
+        "file_name": "com.aliyun.tongyi_42.apk",
+        "app_activity": "com.aliyun.tongyi.MainActivity"
+    },
+    {
+        "app_name": "国家网络身份认证",
+        "package_name": "cn.cyberIdentity.certification",
+        "file_name": "cn.cyberIdentity.certification_43.apk",
+        "app_activity": "cn.wh.project.view.v.SplashActivity"
+    },
+    {
+        "app_name": "公积金查询助手",
+        "package_name": "com.hfyd.accumulationfund",
+        "file_name": "com.hfyd.accumulationfund_44.apk",
+        "app_activity": "com.hfyd.accumulationfund.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "搜阅大字版",
+        "package_name": "android.tkhctsio.lrctspower",
+        "file_name": "android.tkhctsio.lrctspower_45.apk",
+        "app_activity": "com.uoi.cm.FkPdG"
+    },
+    {
+        "app_name": "4396游戏盒",
+        "package_name": "com.wyh4349.wy",
+        "file_name": "com.wyh4349.wy_46.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "全民影视大全",
+        "package_name": "com.hncj.Nationalfilm",
+        "file_name": "com.hncj.Nationalfilm_47.apk",
+        "app_activity": "com.hncj.videogallery.ui.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "悠闲点点乐",
+        "package_name": "palm.youxiandot.glad",
+        "file_name": "palm.youxiandot.glad_48.apk",
+        "app_activity": "cn.gm.u3d.ui.main.MainActivity"
+    },
+    {
+        "app_name": "大转盘小决定",
+        "package_name": "com.leandom.dice",
+        "file_name": "com.leandom.dice_49.apk",
+        "app_activity": "com.leandom.dice.activity.SplashActivity"
+    },
+    {
+        "app_name": "晨曦时长管家",
+        "package_name": "liuliang.Internet.cxscgj",
+        "file_name": "liuliang.Internet.cxscgj_50.apk",
+        "app_activity": "com.alipay.sdk.m.l0.mhdb3"
+    },
+    {
+        "app_name": "免费视频剪辑大师",
+        "package_name": "com.clx.jianji",
+        "file_name": "com.clx.jianji_51.apk",
+        "app_activity": "com.clx.jianji.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "AI Life",
+        "package_name": "com.huawei.smarthome",
+        "file_name": "com.huawei.smarthome_52.apk",
+        "app_activity": "com.huawei.smarthome.login.LauncherActivity"
+    },
+    {
+        "app_name": "深夜私密播放器",
+        "package_name": "com.gouwu.sysmbfq",
+        "file_name": "com.gouwu.sysmbfq_53.apk",
+        "app_activity": "com.zozo.video.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "天天畅看",
+        "package_name": "com.changkan.ttck.cn",
+        "file_name": "com.changkan.ttck.cn_54.apk",
+        "app_activity": "com.play.video.login.LaunchActivity"
+    },
+    {
+        "app_name": "HUAWEI Developers",
+        "package_name": "com.huawei.allianceapp",
+        "file_name": "com.huawei.allianceapp_55.apk",
+        "app_activity": "com.huawei.allianceapp.SplashAdActivity"
+    },
+    {
+        "app_name": "迅雷",
+        "package_name": "com.xunlei.downloadprovider",
+        "file_name": "com.xunlei.downloadprovider_56.apk",
+        "app_activity": "com.xunlei.downloadprovider.launch.LaunchActivity"
+    },
+    {
+        "app_name": "空调遥控器冬夏",
+        "package_name": "com.shem.winter",
+        "file_name": "com.shem.winter_57.apk",
+        "app_activity": "com.shem.winter.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "睿知流量",
+        "package_name": "com.foot.shadow.rzll",
+        "file_name": "com.foot.shadow.rzll_58.apk",
+        "app_activity": "com.fltapp.rzll.app.activity.RZLLSplashActivity"
+    },
+    {
+        "app_name": "朝暮汇看",
+        "package_name": "com.wlhh.zmhk",
+        "file_name": "com.wlhh.zmhk_60.apk",
+        "app_activity": "com.jingling.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "北京一卡通",
+        "package_name": "cn.com.bmac.nfc",
+        "file_name": "cn.com.bmac.nfc_61.apk",
+        "app_activity": "cn.com.bmac.nfc.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "悦通行",
+        "package_name": "com.wwwscn.yuexingbao",
+        "file_name": "com.wwwscn.yuexingbao_62.apk",
+        "app_activity": "com.wwwscn.yuexingbao.ui.main.CSJSplashActivity"
+    },
+    {
+        "app_name": "Sunlogin Remote Control",
+        "package_name": "com.oray.sunlogin",
+        "file_name": "com.oray.sunlogin_63.apk",
+        "app_activity": "com.oray.sunlogin.application.Main"
+    },
+    {
+        "app_name": "充电来福",
+        "package_name": "com.casualextens.emulat",
+        "file_name": "com.casualextens.emulat_64.apk",
+        "app_activity": "com.air.stepward.module.lauch.AliasMainActivity"
+    },
+    {
+        "app_name": "加密无痕播放器",
+        "package_name": "com.gouwu.jmwhbfq",
+        "file_name": "com.gouwu.jmwhbfq_65.apk",
+        "app_activity": "com.zozo.video.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "QQ同步助手",
+        "package_name": "com.tencent.qqpim",
+        "file_name": "com.tencent.qqpim_66.apk",
+        "app_activity": "com.tencent.qqpim.ui.QQPimAndroid"
+    },
+    {
+        "app_name": "作业精灵",
+        "package_name": "com.pcncn.jj",
+        "file_name": "com.pcncn.jj_67.apk",
+        "app_activity": "com.pcncn.jj.act.SplashNewActivity"
+    },
+    {
+        "app_name": "星萌畅看",
+        "package_name": "com.wlmj.xmck",
+        "file_name": "com.wlmj.xmck_68.apk",
+        "app_activity": "com.jingling.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "自动点击连点器",
+        "package_name": "com.scott.autoclickhelper",
+        "file_name": "com.scott.autoclickhelper_69.apk",
+        "app_activity": "com.scott.autoclickhelper.ui.home.SplashActivity"
+    },
+    {
+        "app_name": "解压汽车站极速版",
+        "package_name": "com.yyxh.jyqcz",
+        "file_name": "com.yyxh.jyqcz_70.apk",
+        "app_activity": "com.yyxh.jyqcz.about_cocos.pager.SplashActivity"
+    },
+    {
+        "app_name": "NFC读卡",
+        "package_name": "com.ahsj.nfccard",
+        "file_name": "com.ahsj.nfccard_71.apk",
+        "app_activity": "com.ahsj.nfccard.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "万能空调遥控器",
+        "package_name": "com.hyktwnykq.cc",
+        "file_name": "com.hyktwnykq.cc_72.apk",
+        "app_activity": "com.sjbj.ircontroller.ui.SplashActivity2"
+    },
+    {
+        "app_name": "咕卡备忘录",
+        "package_name": "com.tj.memo.gucka",
+        "file_name": "com.tj.memo.gucka_73.apk",
+        "app_activity": "com.bxgdfwsa.resggddx.kstegshg.nxtersgx.REGSHXEB"
+    },
+    {
+        "app_name": "遥控精灵",
+        "package_name": "com.tiqiaa.icontrol",
+        "file_name": "com.tiqiaa.icontrol_75.apk",
+        "app_activity": "com.tiqiaa.icontrol.WelcomeActivity"
+    },
+    {
+        "app_name": "GameCenter",
+        "package_name": "com.huawei.gamebox",
+        "file_name": "com.huawei.gamebox_76.apk",
+        "app_activity": "com.huawei.gamebox.GameBoxActivity"
+    },
+    {
+        "app_name": "万能遥控器通用",
+        "package_name": "com.kongtsdisas.yaokongwi",
+        "file_name": "com.kongtsdisas.yaokongwi_77.apk",
+        "app_activity": "com.zy.app.devappcollection.SplashActivity"
+    },
+    {
+        "app_name": "4339游戏乐园",
+        "package_name": "xkh.youxileyuan.shimei",
+        "file_name": "xkh.youxileyuan.shimei_78.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "快乐充电",
+        "package_name": "com.happy.charge.klcd",
+        "file_name": "com.happy.charge.klcd_79.apk",
+        "app_activity": "com.fltapp.klcd.app.activity.KLCDSplashActivity"
+    },
+    {
+        "app_name": "浙里办",
+        "package_name": "com.hanweb.android.zhejiang.activity",
+        "file_name": "com.hanweb.android.zhejiang.activity_80.apk",
+        "app_activity": "com.alibaba.gov.android.zwfw.main.LoadingActivity"
+    },
+    {
+        "app_name": "大米流量助手",
+        "package_name": "cn.dami.flowassistant",
+        "file_name": "cn.dami.flowassistant_81.apk",
+        "app_activity": "com.kodami.metoru.wifi.launch.LaunchActivity"
+    },
+    {
+        "app_name": "小鹅通学员版",
+        "package_name": "com.xiaoe.client",
+        "file_name": "com.xiaoe.client_82.apk",
+        "app_activity": "com.xiaoe.app.core.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "画世界Pro",
+        "package_name": "net.huanci.hsjpro",
+        "file_name": "net.huanci.hsjpro_83.apk",
+        "app_activity": "net.huanci.hsjpro.activities.FlashActivity"
+    },
+    {
+        "app_name": "夏深扫描",
+        "package_name": "com.ys.scan.xiashen",
+        "file_name": "com.ys.scan.xiashen_84.apk",
+        "app_activity": "com.vvxadfdf.cadfasfa.vbhafafsadf.iwuwyywhs.UEYSGSIH"
+    },
+    {
+        "app_name": "念念手帐",
+        "package_name": "com.nineton.shouzhang",
+        "file_name": "com.nineton.shouzhang_85.apk",
+        "app_activity": "com.nineton.module_main.ui.activity.SplashAdActivity"
+    },
+    {
+        "app_name": "福运大西瓜",
+        "package_name": "com.eqtvq.fydxg",
+        "file_name": "com.eqtvq.fydxg_86.apk",
+        "app_activity": "com.eqtvq.fydxg.about_cocos.pager.SplashActivity"
+    },
+    {
+        "app_name": "河北人社",
+        "package_name": "com.neuqsoft.newggfwmobile",
+        "file_name": "com.neuqsoft.newggfwmobile_87.apk",
+        "app_activity": "com.neuqsoft.newggfwmobile.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "掌上12333",
+        "package_name": "com.ylzinfo.chinahrss",
+        "file_name": "com.ylzinfo.chinahrss_88.apk",
+        "app_activity": "com.ylzinfo.chinahrss.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "指南针方位助手",
+        "package_name": "com.njbk.fangxiang",
+        "file_name": "com.njbk.fangxiang_89.apk",
+        "app_activity": "com.njbk.fangxiang.module.page.activity.SplashActivity"
+    },
+    {
+        "app_name": "风云上网宝",
+        "package_name": "com.qlyq.fyswb",
+        "file_name": "com.qlyq.fyswb_90.apk",
+        "app_activity": "com.walk.home.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "快趣拿",
+        "package_name": "com.yuncinc.bestplayingleather",
+        "file_name": "com.yuncinc.bestplayingleather_91.apk",
+        "app_activity": "com.yuncinc.bestplayingleather.ui.activity.WelcomeBestplayingActivity"
+    },
+    {
+        "app_name": "海尔智家",
+        "package_name": "com.haier.uhome.uplus",
+        "file_name": "com.haier.uhome.uplus_92.apk",
+        "app_activity": "com.haier.uhome.uplus.cms.presentation.welcome.presentation.WelcomeActivity"
+    },
+    {
+        "app_name": "智享时长管家",
+        "package_name": "flow.net.zhixiangsc",
+        "file_name": "flow.net.zhixiangsc_93.apk",
+        "app_activity": "com.github.d.main.MainActivity"
+    },
+    {
+        "app_name": "HappyCast",
+        "package_name": "com.hpplay.happycast",
+        "file_name": "com.hpplay.happycast_94.apk",
+        "app_activity": "com.hpplay.happycast.activitys.SplashActivity"
+    },
+    {
+        "app_name": "我是小曲库",
+        "package_name": "com.songs.zhxqk",
+        "file_name": "com.songs.zhxqk_95.apk",
+        "app_activity": "com.domestic.pack.WelcomeActivity"
+    },
+    {
+        "app_name": "点点福运",
+        "package_name": "com.stringdesola.cozy",
+        "file_name": "com.stringdesola.cozy_96.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "Avatar Master",
+        "package_name": "com.qihoo.magic",
+        "file_name": "com.qihoo.magic_97.apk",
+        "app_activity": "com.qihoo.magic.splash.AppEnterActivity"
+    },
+    {
+        "app_name": "钓鱼多多",
+        "package_name": "com.hncj.cjfishing",
+        "file_name": "com.hncj.cjfishing_98.apk",
+        "app_activity": "com.hncj.cjfishing.MainActivity"
+    },
+    {
+        "app_name": "雀了个雀极速版",
+        "package_name": "com.hndk.qlgq",
+        "file_name": "com.hndk.qlgq_99.apk",
+        "app_activity": "com.hndk.qlgq.business.splash.SplashActivity"
+    },
+    {
+        "app_name": "比亚迪王朝",
+        "package_name": "com.byd.aeri.caranywhere",
+        "file_name": "com.byd.aeri.caranywhere_100.apk",
+        "app_activity": "com.byd.aeri.splash.module_splash.activity.LaunchActivity"
+    },
+    {
+        "app_name": "计算器全能王",
+        "package_name": "com.njclx.jsqqnw",
+        "file_name": "com.njclx.jsqqnw_101.apk",
+        "app_activity": "com.njclx.jsqqnw.module.page.activity.SplashActivity"
+    },
+    {
+        "app_name": "3A云游",
+        "package_name": "com.sayx.sagame",
+        "file_name": "com.sayx.sagame_102.apk",
+        "app_activity": "com.sayx.sagame.MainActivity"
+    },
+    {
+        "app_name": "XY Game Booster",
+        "package_name": "cn.wsds.gamemaster",
+        "file_name": "cn.wsds.gamemaster_103.apk",
+        "app_activity": "cn.wsds.gamemaster.ui.ActivityStart"
+    },
+    {
+        "app_name": "多功能实用极速闪光手电筒",
+        "package_name": "com.fckj.flashlight",
+        "file_name": "com.fckj.flashlight_104.apk",
+        "app_activity": "com.fckj.flashlight.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "罗盘方位指南针",
+        "package_name": "com.njbk.luopan",
+        "file_name": "com.njbk.luopan_105.apk",
+        "app_activity": "com.njbk.luopan.module.page.activity.SplashActivity"
+    },
+    {
+        "app_name": "中国广电",
+        "package_name": "com.ai.obc.cbn.app",
+        "file_name": "com.ai.obc.cbn.app_106.apk",
+        "app_activity": "com.ai.obc.cbn.app.ui.other.activity.SplashActivity"
+    },
+    {
+        "app_name": "血压血糖仪",
+        "package_name": "com.njclx.sxyxty",
+        "file_name": "com.njclx.sxyxty_107.apk",
+        "app_activity": "com.njclx.sxyxty.module.page.activity.SplashActivity"
+    },
+    {
+        "app_name": "预行天气",
+        "package_name": "com.yxtq.advance",
+        "file_name": "com.yxtq.advance_108.apk",
+        "app_activity": "com.nice.weather.launch.LaunchActivity"
+    },
+    {
+        "app_name": "充电能量宝",
+        "package_name": "com.castacclaim.cdnlb",
+        "file_name": "com.castacclaim.cdnlb_109.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "99手游加速器",
+        "package_name": "com.excean.na",
+        "file_name": "com.excean.na_110.apk",
+        "app_activity": "com.excelliance.kxqp.ui.HelloActivity"
+    },
+    {
+        "app_name": "无限连WiFi",
+        "package_name": "com.cumbedismay.eschew",
+        "file_name": "com.cumbedismay.eschew_111.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "中油好客e站",
+        "package_name": "com.sunboxsoft.charge.institute",
+        "file_name": "com.sunboxsoft.charge.institute_112.apk",
+        "app_activity": "vue.activity.Activity_Welcom"
+    },
+    {
+        "app_name": "金福盈门",
+        "package_name": "com.dehydannex.quiet",
+        "file_name": "com.dehydannex.quiet_113.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "手机搬家同步助手",
+        "package_name": "com.syncassistant.move",
+        "file_name": "com.syncassistant.move_115.apk",
+        "app_activity": "com.wifikey.tenthousands.remote_control.MainActivity"
+    },
+    {
+        "app_name": "小东盒子",
+        "package_name": "com.xiaodongbox.tool",
+        "file_name": "com.xiaodongbox.tool_116.apk",
+        "app_activity": "com.xdb.tl.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "答题闯关王",
+        "package_name": "com.bgfr.dtcgw",
+        "file_name": "com.bgfr.dtcgw_117.apk",
+        "app_activity": "com.domestic.pack.WelcomeActivity"
+    },
+    {
+        "app_name": "手机搬家",
+        "package_name": "com.hjzs.switcher",
+        "file_name": "com.hjzs.switcher_118.apk",
+        "app_activity": "com.hjzs.switcher.activity.StartActivity"
+    },
+    {
+        "app_name": "安卓克隆助手",
+        "package_name": "com.syncassistant.android",
+        "file_name": "com.syncassistant.android_119.apk",
+        "app_activity": "com.wifikey.tenthousands.remote_control.MainActivity"
+    },
+    {
+        "app_name": "星雾天气",
+        "package_name": "com.jj.weather.starfog",
+        "file_name": "com.jj.weather.starfog_121.apk",
+        "app_activity": "com.jj.weather.starfog.ui.splash.SplashActivityZs"
+    },
+    {
+        "app_name": "菜鸟",
+        "package_name": "com.cainiao.wireless",
+        "file_name": "com.cainiao.wireless_122.apk",
+        "app_activity": "com.cainiao.wireless.homepage.view.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "解压专家",
+        "package_name": "com.fileunzip.zxwknight",
+        "file_name": "com.fileunzip.zxwknight_123.apk",
+        "app_activity": "com.fileunzip.zxwknight.activity.MainActivity"
+    },
+    {
+        "app_name": "智能遥控通用",
+        "package_name": "com.syezon.qm",
+        "file_name": "com.syezon.qm_124.apk",
+        "app_activity": "com.zy.app.devappcollection.StartActivity"
+    },
+    {
+        "app_name": "繁花片场",
+        "package_name": "com.newdrama.fanhuapianchang",
+        "file_name": "com.newdrama.fanhuapianchang_125.apk",
+        "app_activity": "com.alipay.sdk.m.u.dsbvnwgmft8"
+    },
+    {
+        "app_name": "桌面喵",
+        "package_name": "com.example.desktopmeow",
+        "file_name": "com.example.desktopmeow_126.apk",
+        "app_activity": "com.example.desktopmeow.ui.aty.SpreadActivity"
+    },
+    {
+        "app_name": "成语闯关王",
+        "package_name": "com.whshqxwl.cycgw",
+        "file_name": "com.whshqxwl.cycgw_127.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "自动点击器",
+        "package_name": "com.zidongdianji",
+        "file_name": "com.zidongdianji_128.apk",
+        "app_activity": "com.autoclicker.clicker.ads.SplashActivity"
+    },
+    {
+        "app_name": "微分身双开",
+        "package_name": "com.cw.super",
+        "file_name": "com.cw.super_129.apk",
+        "app_activity": "com.cw.super.lop01kvl.rtg11uf68kich"
+    },
+    {
+        "app_name": "Petal Speed",
+        "package_name": "com.huawei.genexcloud.speedtest",
+        "file_name": "com.huawei.genexcloud.speedtest_130.apk",
+        "app_activity": "com.huawei.genexcloud.speedtest.ui.SplashActivity"
+    },
+    {
+        "app_name": "迅猛兔加速器",
+        "package_name": "cn.jthj.turbobunny",
+        "file_name": "cn.jthj.turbobunny_131.apk",
+        "app_activity": "cn.jthj.turbobunny.ui.ActivityStart"
+    },
+    {
+        "app_name": "疯狂成语赚",
+        "package_name": "com.bananaidiom.crazy",
+        "file_name": "com.bananaidiom.crazy_132.apk",
+        "app_activity": "com.cstoolsidiom.everyday.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "万能小组件TopWidgets",
+        "package_name": "com.growing.topwidgets",
+        "file_name": "com.growing.topwidgets_134.apk",
+        "app_activity": "com.growing.topwidgets.home.splash.TWSplashActivity"
+    },
+    {
+        "app_name": "马上来电",
+        "package_name": "com.abortcompo.casual",
+        "file_name": "com.abortcompo.casual_135.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "万能遥控器智控",
+        "package_name": "com.wry.ykqzk",
+        "file_name": "com.wry.ykqzk_136.apk",
+        "app_activity": "com.wry.ykqzk.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "Kimi 智能助手",
+        "package_name": "com.moonshot.kimichat",
+        "file_name": "com.moonshot.kimichat_137.apk",
+        "app_activity": "com.moonshot.kimichat.MainActivity"
+    },
+    {
+        "app_name": "哈皮时光",
+        "package_name": "hapi.huamihpsg.time",
+        "file_name": "hapi.huamihpsg.time_138.apk",
+        "app_activity": "vip.qufenqian.app_skin.activity.MainActivity"
+    },
+    {
+        "app_name": "HUAWEI FamCare",
+        "package_name": "com.huawei.wear.guard",
+        "file_name": "com.huawei.wear.guard_139.apk",
+        "app_activity": "com.huawei.wear.guard.root.SplashActivity"
+    },
+    {
+        "app_name": "租号玩",
+        "package_name": "com.daofeng.zuhaowan",
+        "file_name": "com.daofeng.zuhaowan_140.apk",
+        "app_activity": "com.daofeng.zuhaowan.ui.splash.view.SplashActivity"
+    },
+    {
+        "app_name": "全能计算器",
+        "package_name": "com.jincheng.supercaculator",
+        "file_name": "com.jincheng.supercaculator_141.apk",
+        "app_activity": "com.jincheng.supercaculator.activity.SplashActivity"
+    },
+    {
+        "app_name": "乐看刷刷",
+        "package_name": "com.drama.happyviewbrush",
+        "file_name": "com.drama.happyviewbrush_142.apk",
+        "app_activity": "com.alipay.sdk.app.mheqnnpl6"
+    },
+    {
+        "app_name": "悠悠乐刷",
+        "package_name": "com.qghy.yyls",
+        "file_name": "com.qghy.yyls_143.apk",
+        "app_activity": "com.jingling.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "全民消水果",
+        "package_name": "com.yx.qmxsg",
+        "file_name": "com.yx.qmxsg_144.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "百度网盘",
+        "package_name": "com.baidu.netdisk",
+        "file_name": "com.baidu.netdisk_145.apk",
+        "app_activity": "com.baidu.netdisk.ui.DefaultMainActivity"
+    },
+    {
+        "app_name": "玩皮星球",
+        "package_name": "com.nanning.skinplanet",
+        "file_name": "com.nanning.skinplanet_146.apk",
+        "app_activity": "com.nanning.skinplanet.ui.activity.SplashBestplayStoreActivity"
+    },
+    {
+        "app_name": "心动日常",
+        "package_name": "com.youloft.icloser",
+        "file_name": "com.youloft.icloser_147.apk",
+        "app_activity": "com.youloft.icloser.splash.SplashActivity"
+    },
+    {
+        "app_name": "免费CAD快速看图王",
+        "package_name": "com.jtyh.cadktw",
+        "file_name": "com.jtyh.cadktw_148.apk",
+        "app_activity": "com.jtyh.cadktw.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "文心一言",
+        "package_name": "com.baidu.newapp",
+        "file_name": "com.baidu.newapp_149.apk",
+        "app_activity": "com.baidu.newapp.splash.SplashActivity"
+    },
+    {
+        "app_name": "千鸟物联",
+        "package_name": "com.dayunlinks.cloudbirds",
+        "file_name": "com.dayunlinks.cloudbirds_150.apk",
+        "app_activity": "com.dayunlinks.cloudbirds.ac.SplashAcNew"
+    },
+    {
+        "app_name": "腾讯微云",
+        "package_name": "com.qq.qcloud",
+        "file_name": "com.qq.qcloud_151.apk",
+        "app_activity": "com.qq.qcloud.activity.WeiyunRootActivity"
+    },
+    {
+        "app_name": "美团开店宝",
+        "package_name": "com.sankuai.meituan.merchant",
+        "file_name": "com.sankuai.meituan.merchant_152.apk",
+        "app_activity": "com.sankuai.merchant.home.SplashActivity"
+    },
+    {
+        "app_name": "智能遥控器家用",
+        "package_name": "com.hfssy.remotecontrol",
+        "file_name": "com.hfssy.remotecontrol_153.apk",
+        "app_activity": "com.hfssy.remotecontrol.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "美地空调遥控器",
+        "package_name": "com.jtyh.control",
+        "file_name": "com.jtyh.control_154.apk",
+        "app_activity": "com.jtyh.remotecontrol.moudle.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "交易猫",
+        "package_name": "com.jym.gcmall",
+        "file_name": "com.jym.gcmall_155.apk",
+        "app_activity": "com.jym.mall.launch.LaunchActivity"
+    },
+    {
+        "app_name": "TapTuq",
+        "package_name": "com.taptuq.bingyan",
+        "file_name": "com.taptuq.bingyan_156.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "ibisPaint X",
+        "package_name": "jp.ne.ibis.ibispaintx.app.hms",
+        "file_name": "jp.ne.ibis.ibispaintx.app.hms_157.apk",
+        "app_activity": "jp.ne.ibis.ibispaintx.app.market.MarketAuthenticationActivity"
+    },
+    {
+        "app_name": "点点电视遥控器",
+        "package_name": "com.ahsj.dsykq",
+        "file_name": "com.ahsj.dsykq_158.apk",
+        "app_activity": "com.ahsj.dsykq.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "天天计算器",
+        "package_name": "com.qz.ttcalculator",
+        "file_name": "com.qz.ttcalculator_160.apk",
+        "app_activity": "com.qz.ttcalculator.activity.SplashUI"
+    },
+    {
+        "app_name": "水电查询助手",
+        "package_name": "com.djbhv.iqdnlhdc",
+        "file_name": "com.djbhv.iqdnlhdc_161.apk",
+        "app_activity": "com.djbhv.iqdnlhdc.ui.splash.SplashActivity"
+    },
+
+    {
+        "app_name": "万能全能计算器",
+        "package_name": "com.njwry.omnipotence",
+        "file_name": "com.njwry.omnipotence_1.apk",
+        "app_activity": "com.njwry.omnipotence.module.page.activity.SplashActivity"
+    },
+    {
+        "app_name": "神奇宝贝图鉴",
+        "package_name": "com.yuzebin.pokemon",
+        "file_name": "com.yuzebin.pokemon_2.apk",
+        "app_activity": "com.haha.pokemon.activity.IndexActivity"
+    },
+    {
+        "app_name": "iScreen桌面小组件",
+        "package_name": "com.zerone.iscreen",
+        "file_name": "com.zerone.iscreen_3.apk",
+        "app_activity": "com.zerone.iscreen.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "果乐宝典",
+        "package_name": "com.qihui.glbd",
+        "file_name": "com.qihui.glbd_4.apk",
+        "app_activity": "com.lingdong.gm.activity.GMWebActivity"
+    },
+    {
+        "app_name": "学而思智能",
+        "package_name": "com.tal.bixin.family",
+        "file_name": "com.tal.bixin.family_5.apk",
+        "app_activity": "com.tal.family.home.SplashActivity"
+    },
+    {
+        "app_name": "Screen Lock",
+        "package_name": "com.huawei.hwonekeylock",
+        "file_name": "com.huawei.hwonekeylock_6.apk",
+        "app_activity": "com.huawei.hwonekeylock.HwOneKeyLock"
+    },
+    {
+        "app_name": "小触控",
+        "package_name": "com.chenai.littletouch",
+        "file_name": "com.chenai.littletouch_7.apk",
+        "app_activity": "com.chenai.littletouch.activity.MainAct"
+    },
+    {
+        "app_name": "酷玩扫描王",
+        "package_name": "com.allegia.gtsaccomp",
+        "file_name": "com.allegia.gtsaccomp_8.apk",
+        "app_activity": "com.gmiles.cleaner.launch.LaunchActivity"
+    },
+    {
+        "app_name": "手游语音变声器",
+        "package_name": "cq.fl.syyybsq",
+        "file_name": "cq.fl.syyybsq_9.apk",
+        "app_activity": "cq.fl.syyybsq.mvvm.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "运证通",
+        "package_name": "com.ccccit.rtec_standard",
+        "file_name": "com.ccccit.rtec_standard_10.apk",
+        "app_activity": "com.ccccit.rtec_standard.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "顺丰同城骑士",
+        "package_name": "com.sfexpress.knight",
+        "file_name": "com.sfexpress.knight_11.apk",
+        "app_activity": "com.sfexpress.knight.SplashActivity"
+    },
+    {
+        "app_name": "智慧笑联",
+        "package_name": "com.xiaolian.prometheus",
+        "file_name": "com.xiaolian.prometheus_12.apk",
+        "app_activity": "com.xiaolian.launch.ui.SplashActivity"
+    },
+    {
+        "app_name": "爱优趣看",
+        "package_name": "com.finedrama.iyouqukan.one",
+        "file_name": "com.finedrama.iyouqukan.one_13.apk",
+        "app_activity": "com.alipay.sdk.m.f.ivmxffje0"
+    },
+    {
+        "app_name": "水星安防",
+        "package_name": "com.mercury.ipc",
+        "file_name": "com.mercury.ipc_14.apk",
+        "app_activity": "com.tplink.superapp.ui.main.AppBootActivity"
+    },
+    {
+        "app_name": "精准指南针",
+        "package_name": "com.doudoubird.compass",
+        "file_name": "com.doudoubird.compass_15.apk",
+        "app_activity": "com.doudoubird.compass.StartActivity"
+    },
+    {
+        "app_name": "海事通",
+        "package_name": "com.huihai.hst",
+        "file_name": "com.huihai.hst_17.apk",
+        "app_activity": "com.huihai.hst.SplashAct"
+    },
+    {
+        "app_name": "天天有皮肤",
+        "package_name": "com.fuzhoudream.haveskineveryday",
+        "file_name": "com.fuzhoudream.haveskineveryday_18.apk",
+        "app_activity": "com.fuzhoudream.haveskineveryday.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "AiPPT制作师",
+        "package_name": "com.ysg.ai.pptmaker",
+        "file_name": "com.ysg.ai.pptmaker_19.apk",
+        "app_activity": "com.wm.pptmaker.SplashAdActivity"
+    },
+    {
+        "app_name": "人人乐看",
+        "package_name": "com.renren.rrlk.cn",
+        "file_name": "com.renren.rrlk.cn_20.apk",
+        "app_activity": "com.play.video.login.LaunchActivity"
+    },
+    {
+        "app_name": "优速AI创作精灵",
+        "package_name": "com.aiczjl.zdzyaigj",
+        "file_name": "com.aiczjl.zdzyaigj_23.apk",
+        "app_activity": "com.aiczjl.zdzyaigj.MainActivity"
+    },
+    {
+        "app_name": "乐橙",
+        "package_name": "com.mm.android.lc",
+        "file_name": "com.mm.android.lc_24.apk",
+        "app_activity": "com.mm.android.lc.login.SplashActivity"
+    },
+    {
+        "app_name": "Pofi无限人偶",
+        "package_name": "com.rn.pofi",
+        "file_name": "com.rn.pofi_25.apk",
+        "app_activity": "com.rn.pofi.activity.LauncherActivity"
+    },
+    {
+        "app_name": "7732盒子",
+        "package_name": "com.sipscus.hjzyr.qykasxdrz",
+        "file_name": "com.sipscus.hjzyr.qykasxdrz_26.apk",
+        "app_activity": "tai.hljh.meeting.activty.StartActivity"
+    },
+    {
+        "app_name": "度加剪辑",
+        "package_name": "com.baidu.tzeditor",
+        "file_name": "com.baidu.tzeditor_27.apk",
+        "app_activity": "com.baidu.tzeditor.activity.bd.MainActivity"
+    },
+    {
+        "app_name": "饺子云",
+        "package_name": "com.jzbro.cloudgame.platform",
+        "file_name": "com.jzbro.cloudgame.platform_28.apk",
+        "app_activity": "com.jzbro.cloudgame.main.jiaozi.MainJZ2SplashActivity"
+    },
+    {
+        "app_name": "光速写作",
+        "package_name": "com.guangsuxie.aiwriting",
+        "file_name": "com.guangsuxie.aiwriting_29.apk",
+        "app_activity": "com.zuoyebang.aiwriting.activity.init.InitActivity"
+    },
+    {
+        "app_name": "光影趣看",
+        "package_name": "com.drama.guangyingqk",
+        "file_name": "com.drama.guangyingqk_30.apk",
+        "app_activity": "com.alipay.sdk.m.l0.phkvjfkdlf2"
+    },
+    {
+        "app_name": "动物世界",
+        "package_name": "com.csyzm.animal",
+        "file_name": "com.csyzm.animal_31.apk",
+        "app_activity": "com.csyzm.animal.ui.LauncherActivity"
+    },
+    {
+        "app_name": "发型变变变",
+        "package_name": "com.hairdorama.fxbbb",
+        "file_name": "com.hairdorama.fxbbb_32.apk",
+        "app_activity": "com.luliang.common.activity.MainActivity"
+    },
+    {
+        "app_name": "艺术贴贴",
+        "package_name": "com.xiaoshi.ystt",
+        "file_name": "com.xiaoshi.ystt_33.apk",
+        "app_activity": "com.cccgame.android.MainActivity"
+    },
+    {
+        "app_name": "小木鱼",
+        "package_name": "com.biggerlens.sleep",
+        "file_name": "com.biggerlens.sleep_34.apk",
+        "app_activity": "com.biggerlens.sleep.StartActivity"
+    },
+    {
+        "app_name": "极速换图标",
+        "package_name": "com.dxaawq.dkswswn",
+        "file_name": "com.dxaawq.dkswswn_35.apk",
+        "app_activity": "com.dxaawq.dkswswn.activity.SplashActivity"
+    },
+    {
+        "app_name": "轻蜂加速器",
+        "package_name": "com.zouqi.qingfeng",
+        "file_name": "com.zouqi.qingfeng_36.apk",
+        "app_activity": "com.zq.qf.ui.activity.InitActivity"
+    },
+    {
+        "app_name": "妙笔AI写作",
+        "package_name": "com.leku.miaobiai",
+        "file_name": "com.leku.miaobiai_37.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "造梦次元",
+        "package_name": "com.ideaflow.zmcy",
+        "file_name": "com.ideaflow.zmcy_38.apk",
+        "app_activity": "com.ideaflow.zmcy.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "Kaadas Smart",
+        "package_name": "com.kaidishi.lock",
+        "file_name": "com.kaidishi.lock_39.apk",
+        "app_activity": "com.kaidishi.lock.WelcomeActivity"
+    },
+    {
+        "app_name": "大神云电脑",
+        "package_name": "com.dashendn.cloudgame",
+        "file_name": "com.dashendn.cloudgame_40.apk",
+        "app_activity": "com.dashendn.cloudgame.SplashActivity"
+    },
+    {
+        "app_name": "掌上全能扫描",
+        "package_name": "com.equita.gtsclande",
+        "file_name": "com.equita.gtsclande_41.apk",
+        "app_activity": "com.gmiles.cleaner.launch.LaunchActivity"
+    },
+    {
+        "app_name": "榆火放大镜",
+        "package_name": "loupe.february.yuhuofdj",
+        "file_name": "loupe.february.yuhuofdj_42.apk",
+        "app_activity": "vch.qqf.magnifier.MainActivity"
+    },
+    {
+        "app_name": "拼图赚钱",
+        "package_name": "com.zeropicky.carping.tuse",
+        "file_name": "com.zeropicky.carping.tuse_43.apk",
+        "app_activity": "com.zeropicky.carping.tuse.StartActivity"
+    },
+    {
+        "app_name": "八字排盘宝",
+        "package_name": "com.example.mls.mdspaipan",
+        "file_name": "com.example.mls.mdspaipan_44.apk",
+        "app_activity": "com.example.mls.mdspaipan.WelcomeActivity"
+    },
+    {
+        "app_name": "福满充辉",
+        "package_name": "com.happiness.pleasure.fmch",
+        "file_name": "com.happiness.pleasure.fmch_45.apk",
+        "app_activity": "com.fltapp.fmch.app.activity.FMCHSplashActivity"
+    },
+    {
+        "app_name": "AI智能写作",
+        "package_name": "com.bpai.aiwriter",
+        "file_name": "com.bpai.aiwriter_46.apk",
+        "app_activity": "com.bpai.aiwriter.act.SplashAct"
+    },
+    {
+        "app_name": "HUAWEI Wallet",
+        "package_name": "com.huawei.wallet",
+        "file_name": "com.huawei.wallet_47.apk",
+        "app_activity": "com.huawei.wallet.view.MainActivity"
+    },
+    {
+        "app_name": "速充非凡",
+        "package_name": "com.power.remarkable.scff",
+        "file_name": "com.power.remarkable.scff_48.apk",
+        "app_activity": "com.fltapp.scff.app.activity.SCFFSplashActivity"
+    },
+    {
+        "app_name": "连点器免费",
+        "package_name": "com.biggerlens.automatic_connector",
+        "file_name": "com.biggerlens.automatic_connector_49.apk",
+        "app_activity": "com.biggerlens.automatic_connector.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "灵通充电",
+        "package_name": "com.runben.ltcd",
+        "file_name": "com.runben.ltcd_50.apk",
+        "app_activity": "com.walk.home.health.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "隐私加密播放器",
+        "package_name": "com.gyft.ysjmbfq",
+        "file_name": "com.gyft.ysjmbfq_51.apk",
+        "app_activity": "com.tracy.common.ui.SplashActivity"
+    },
+    {
+        "app_name": "Baseus",
+        "package_name": "com.baseus.intelligent",
+        "file_name": "com.baseus.intelligent_52.apk",
+        "app_activity": "com.baseus.intelligent.view.SplashActivity"
+    },
+    {
+        "app_name": "逗逗游戏伙伴",
+        "package_name": "fun.doudou.pal",
+        "file_name": "fun.doudou.pal_53.apk",
+        "app_activity": "com.huoban.ai.huobanai.MainActivity"
+    },
+    {
+        "app_name": "喜气步步",
+        "package_name": "com.vosc.xqbb",
+        "file_name": "com.vosc.xqbb_54.apk",
+        "app_activity": "com.guzhen.main.LaunchActivity"
+    },
+    {
+        "app_name": "动物日记",
+        "package_name": "com.chuangyuan.dwrj",
+        "file_name": "com.chuangyuan.dwrj_55.apk",
+        "app_activity": "com.lingdong.gm.activity.GMWebActivity"
+    },
+    {
+        "app_name": "尺子测距仪",
+        "package_name": "com.xinmang.camera.measure.altimeter",
+        "file_name": "com.xinmang.camera.measure.altimeter_56.apk",
+        "app_activity": "com.xinmang.camera.measure.altimeter.base.SplashAdActivity"
+    },
+    {
+        "app_name": "232乐园",
+        "package_name": "com.leyuan23.shzkj",
+        "file_name": "com.leyuan23.shzkj_57.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "锦鲤送福",
+        "package_name": "com.songfu.jlsf.cn",
+        "file_name": "com.songfu.jlsf.cn_58.apk",
+        "app_activity": "com.infini.pigfarm.login.SplashActivity"
+    },
+    {
+        "app_name": "熊猫乐满",
+        "package_name": "com.phoene.xmlm",
+        "file_name": "com.phoene.xmlm_59.apk",
+        "app_activity": "com.shgy.app.commongamenew.activity.TransferActivity"
+    },
+    {
+        "app_name": "灵动坞",
+        "package_name": "com.nimble.dock",
+        "file_name": "com.nimble.dock_60.apk",
+        "app_activity": "com.nimble.dock.related_splash.SplashActivity"
+    },
+    {
+        "app_name": "跃问",
+        "package_name": "cn.yuewen.ywapp",
+        "file_name": "cn.yuewen.ywapp_61.apk",
+        "app_activity": "cn.yuewen.ywapp.MainActivity"
+    },
+    {
+        "app_name": "成语赚钱记",
+        "package_name": "com.aqkykj.cyzqj",
+        "file_name": "com.aqkykj.cyzqj_62.apk",
+        "app_activity": "com.aqkykj.cyzqj.app.ui.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "My HUAWEI",
+        "package_name": "com.huawei.phoneservice",
+        "file_name": "com.huawei.phoneservice_63.apk",
+        "app_activity": "com.huawei.myhuawei.ui.HwSplashActivity"
+    },
+    {
+        "app_name": "极速手机搬家",
+        "package_name": "com.syncassistant.speed",
+        "file_name": "com.syncassistant.speed_64.apk",
+        "app_activity": "com.wifikey.tenthousands.remote_control.MainActivity"
+    },
+    {
+        "app_name": "手机号码定位查找",
+        "package_name": "com.sheshou.findlocation",
+        "file_name": "com.sheshou.findlocation_65.apk",
+        "app_activity": "com.yuanfang.mybase.SplashActivity"
+    },
+    {
+        "app_name": "趣开心",
+        "package_name": "com.fzhyc.toyourliking",
+        "file_name": "com.fzhyc.toyourliking_66.apk",
+        "app_activity": "com.fzhyc.toyourliking.ui.activity.WelcomeYourLikingActivity"
+    },
+    {
+        "app_name": "房贷计算器计算",
+        "package_name": "com.lqlc.mortgagecalculator",
+        "file_name": "com.lqlc.mortgagecalculator_67.apk",
+        "app_activity": "com.lqlc.mortgagecalculator.activity.SplashActivity"
+    },
+    {
+        "app_name": "天天爱哈皮",
+        "package_name": "skin.dayplay.good",
+        "file_name": "skin.dayplay.good_68.apk",
+        "app_activity": "vip.qufenqian.app_skin.activity.MainActivity"
+    },
+    {
+        "app_name": "飞鸽云游戏",
+        "package_name": "cn.lingwoyun.finger",
+        "file_name": "cn.lingwoyun.finger_69.apk",
+        "app_activity": "com.yoka.cloudgame.SplashActivity"
+    },
+    {
+        "app_name": "苏打充电",
+        "package_name": "com.dozedonat.dilute",
+        "file_name": "com.dozedonat.dilute_70.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "陕西税务",
+        "package_name": "com.foresee.mobile.snsw",
+        "file_name": "com.foresee.mobile.snsw_71.apk",
+        "app_activity": "com.foresee.mobile.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "答题好运来",
+        "package_name": "com.luckahead.dthyl",
+        "file_name": "com.luckahead.dthyl_72.apk",
+        "app_activity": "com.luliang.common.activity.TransferActivity"
+    },
+    {
+        "app_name": "扫描测量全能王",
+        "package_name": "com.qh.measure",
+        "file_name": "com.qh.measure_73.apk",
+        "app_activity": "com.qh.measure.ui.splash.AppLaunchActivity"
+    },
+    {
+        "app_name": "Pofi无限绘画",
+        "package_name": "com.rn.pofi.drawing",
+        "file_name": "com.rn.pofi.drawing_74.apk",
+        "app_activity": "com.pofiapp.paint.ui.MainActivity"
+    },
+    {
+        "app_name": "精准计算器",
+        "package_name": "com.duoku.calculator",
+        "file_name": "com.duoku.calculator_75.apk",
+        "app_activity": "com.duoku.calculator.activity.SplashUI"
+    },
+    {
+        "app_name": "测量全能王",
+        "package_name": "com.aojaen.measure",
+        "file_name": "com.aojaen.measure_76.apk",
+        "app_activity": "com.aojaen.measure.MainActivity"
+    },
+    {
+        "app_name": "享福有礼",
+        "package_name": "com.enjoy.blessxfyl",
+        "file_name": "com.enjoy.blessxfyl_77.apk",
+        "app_activity": "com.relax.game.commongamenew.activity.TransferActivity"
+    },
+    {
+        "app_name": "开心叠一叠极速版",
+        "package_name": "com.hndk.kxdyd",
+        "file_name": "com.hndk.kxdyd_78.apk",
+        "app_activity": "com.hndk.kxdyd.business.splash.SplashActivity"
+    },
+    {
+        "app_name": "TapTaq",
+        "package_name": "com.ta.sao.pro",
+        "file_name": "com.ta.sao.pro_79.apk",
+        "app_activity": "tai.mengzhu.circle.activty.StartActivity"
+    },
+    {
+        "app_name": "一秒变声器",
+        "package_name": "com.maohouzi.voice",
+        "file_name": "com.maohouzi.voice_80.apk",
+        "app_activity": "com.maohouzi.voice.MainActivity"
+    },
+    {
+        "app_name": "悬浮时钟",
+        "package_name": "com.maoying.clockdesktop",
+        "file_name": "com.maoying.clockdesktop_81.apk",
+        "app_activity": "com.maoying.clockdesktop.AdActivity.SplashActivity"
+    },
+    {
+        "app_name": "创作猫",
+        "package_name": "com.yxy91.creativecat",
+        "file_name": "com.yxy91.creativecat_82.apk",
+        "app_activity": "com.doutuimao.micro_script.MainActivity"
+    },
+    {
+        "app_name": "Unzip King",
+        "package_name": "com.cjtec.uncompress",
+        "file_name": "com.cjtec.uncompress_83.apk",
+        "app_activity": "com.cjtec.uncompress.ui.activity.FileListActivity2"
+    },
+    {
+        "app_name": "订阅号助手",
+        "package_name": "com.tencent.mp",
+        "file_name": "com.tencent.mp_84.apk",
+        "app_activity": "com.tencent.mp.feature.launcher.ui.LauncherActivity"
+    },
+    {
+        "app_name": "成语赚钱",
+        "package_name": "com.allsorts.guess.chengyu",
+        "file_name": "com.allsorts.guess.chengyu_85.apk",
+        "app_activity": "com.allsorts.guess.chengyu.StartActivity"
+    },
+    {
+        "app_name": "速速扫描王",
+        "package_name": "com.newscan.susucly",
+        "file_name": "com.newscan.susucly_86.apk",
+        "app_activity": "com.alipay.sdk.m.z.caw5"
+    },
+    {
+        "app_name": "多福省电",
+        "package_name": "com.power.protect.dcbw",
+        "file_name": "com.power.protect.dcbw_87.apk",
+        "app_activity": "com.geek.superpower.ui.activity.CNDCGJSplashActivity"
+    },
+    {
+        "app_name": "5G上网助手",
+        "package_name": "com.delibeeschew.corpu",
+        "file_name": "com.delibeeschew.corpu_88.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "弘电脑",
+        "package_name": "net.xrcloud",
+        "file_name": "net.xrcloud_89.apk",
+        "app_activity": "net.xrcloud.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "掌上哈皮多",
+        "package_name": "happy.palmglad.two",
+        "file_name": "happy.palmglad.two_90.apk",
+        "app_activity": "vip.qufenqian.app_skin.activity.MainActivity"
+    },
+    {
+        "app_name": "AI写作猿",
+        "package_name": "com.shututek.original",
+        "file_name": "com.shututek.original_91.apk",
+        "app_activity": "com.shututek.original.aiui.activity.SplashActivity"
+    },
+    {
+        "app_name": "梦幻换皮社",
+        "package_name": "com.conversion.dreamlike",
+        "file_name": "com.conversion.dreamlike_92.apk",
+        "app_activity": "com.conversion.dreamlike.ui.activity.SplashPipiPartyActivity"
+    },
+    {
+        "app_name": "桌面隐藏计算器软件",
+        "package_name": "cn.v8box.desktop.transparent",
+        "file_name": "cn.v8box.desktop.transparent_93.apk",
+        "app_activity": "com.example.droidplugindemo.page.home_browser.HomeBrowserActivity1"
+    },
+    {
+        "app_name": "趣味萌宠",
+        "package_name": "life.desktop.pet",
+        "file_name": "life.desktop.pet_94.apk",
+        "app_activity": "life.desktop.pet.splash.SplashActivity"
+    },
+    {
+        "app_name": "Epson Smart Panel",
+        "package_name": "com.epson.epsonsmart",
+        "file_name": "com.epson.epsonsmart_95.apk",
+        "app_activity": "com.epson.epsonsmart.controller.splash.SplashActivity"
+    },
+    {
+        "app_name": "多多哈皮",
+        "package_name": "com.morepi.skin",
+        "file_name": "com.morepi.skin_96.apk",
+        "app_activity": "vip.qufenqian.app_skin.activity.MainActivity"
+    },
+    {
+        "app_name": "充电补给站",
+        "package_name": "com.wanze.cdbjz",
+        "file_name": "com.wanze.cdbjz_97.apk",
+        "app_activity": "com.walk.home.health.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "领皮乐园",
+        "package_name": "com.fuzhoudream.gainskinparadise",
+        "file_name": "com.fuzhoudream.gainskinparadise_98.apk",
+        "app_activity": "com.fuzhoudream.gainskinparadise.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "江苏税务",
+        "package_name": "cn.gov.chinatax.jiangsu.etax.app",
+        "file_name": "cn.gov.chinatax.jiangsu.etax.app_99.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "礼福多多",
+        "package_name": "com.wanze.lifdd",
+        "file_name": "com.wanze.lifdd_100.apk",
+        "app_activity": "com.walk.home.health.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "雨滴相机",
+        "package_name": "com.bjsy.yudixj",
+        "file_name": "com.bjsy.yudixj_101.apk",
+        "app_activity": "com.example.camera.MainActivity"
+    },
+    {
+        "app_name": "U号租",
+        "package_name": "com.uhaozu.app",
+        "file_name": "com.uhaozu.app_102.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "文件数据恢复大师",
+        "package_name": "com.datarecovery.my.master",
+        "file_name": "com.datarecovery.my.master_103.apk",
+        "app_activity": "com.datarecovery.master.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "我的旅行记",
+        "package_name": "com.shuyuan.wdlxj",
+        "file_name": "com.shuyuan.wdlxj_104.apk",
+        "app_activity": "com.lingdong.gm.activity.GMWebActivity"
+    },
+    {
+        "app_name": "每刻来电",
+        "package_name": "com.concer.divulg",
+        "file_name": "com.concer.divulg_105.apk",
+        "app_activity": "com.call.callshow.module.launch.LaunchActivity"
+    },
+    {
+        "app_name": "婀娜看看",
+        "package_name": "com.enuowatch.enkk",
+        "file_name": "com.enuowatch.enkk_106.apk",
+        "app_activity": "com.xuanle.common.activity.TransferActivity"
+    },
+    {
+        "app_name": "千牛",
+        "package_name": "com.taobao.qianniu",
+        "file_name": "com.taobao.qianniu_107.apk",
+        "app_activity": "com.qianniu.launcher.business.main.MainActivity"
+    },
+    {
+        "app_name": "闪能充充",
+        "package_name": "com.energy.cherge.sncc",
+        "file_name": "com.energy.cherge.sncc_108.apk",
+        "app_activity": "com.fltapp.sncc.app.activity.SNCCSplashActivity"
+    },
+    {
+        "app_name": "高能测量仪",
+        "package_name": "com.scan.highenergy",
+        "file_name": "com.scan.highenergy_109.apk",
+        "app_activity": "com.alipay.sdk.tid.jkn6"
+    },
+    {
+        "app_name": "福禧绵绵",
+        "package_name": "com.elderlybarren.congl",
+        "file_name": "com.elderlybarren.congl_110.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "妙看喜刷",
+        "package_name": "com.drama.miaokanxs",
+        "file_name": "com.drama.miaokanxs_111.apk",
+        "app_activity": "com.alipay.sdk.m.a.hlktemaxja3"
+    },
+    {
+        "app_name": "小包搜题",
+        "package_name": "com.ixyzh.question",
+        "file_name": "com.ixyzh.question_112.apk",
+        "app_activity": "com.ixyzh.question.ui.SplashActivity"
+    },
+    {
+        "app_name": "无尽分身",
+        "package_name": "cn.chuci.and.wkfenshen",
+        "file_name": "cn.chuci.and.wkfenshen_113.apk",
+        "app_activity": "com.chuci.module.login.ui.ActSplash"
+    },
+    {
+        "app_name": "轻抖",
+        "package_name": "com.qingdou.android",
+        "file_name": "com.qingdou.android_114.apk",
+        "app_activity": "com.qingdou.android.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "全能电视投屏",
+        "package_name": "com.cszscast.phone",
+        "file_name": "com.cszscast.phone_115.apk",
+        "app_activity": "com.ts.app.flutter_screen_projection.MainActivity"
+    },
+    {
+        "app_name": "AI视频绘图写作精灵",
+        "package_name": "com.mobo168.aibox",
+        "file_name": "com.mobo168.aibox_116.apk",
+        "app_activity": "com.mobo168.aibox.ui.SplashActivity"
+    },
+    {
+        "app_name": "票根",
+        "package_name": "com.uroad.piaogen",
+        "file_name": "com.uroad.piaogen_117.apk",
+        "app_activity": "com.uroad.piaogen.activity.SplashActivity"
+    },
+    {
+        "app_name": "茶杯狐",
+        "package_name": "com.cupfox.view",
+        "file_name": "com.cupfox.view_118.apk",
+        "app_activity": "com.cupfox.view.LauncherActivity"
+    },
+    {
+        "app_name": "联通智家",
+        "package_name": "com.woapp.hebei",
+        "file_name": "com.woapp.hebei_119.apk",
+        "app_activity": "net.smartont.we.wohome.ui.welcome.view.WelcomeActivity"
+    },
+    {
+        "app_name": "水月影评",
+        "package_name": "erer.leyuan.shengl",
+        "file_name": "erer.leyuan.shengl_120.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "全能扫描王CS",
+        "package_name": "com.xrscrop.androideduscan.qractsqnsmw",
+        "file_name": "com.xrscrop.androideduscan.qractsqnsmw_121.apk",
+        "app_activity": "com.iccapp.scan.entrance.SplashNewActivity"
+    },
+    {
+        "app_name": "茶话百科",
+        "package_name": "com.chbk.knowledge",
+        "file_name": "com.chbk.knowledge_122.apk",
+        "app_activity": "com.relax.sdkdemo.StartActivity"
+    },
+    {
+        "app_name": "全能扫描工",
+        "package_name": "com.magic.scanner",
+        "file_name": "com.magic.scanner_124.apk",
+        "app_activity": "com.magic.scanner.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "充电大神",
+        "package_name": "com.yueling.cdds",
+        "file_name": "com.yueling.cdds_125.apk",
+        "app_activity": "com.walk.home.health.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "HiPaint",
+        "package_name": "com.aige.hipaint",
+        "file_name": "com.aige.hipaint_126.apk",
+        "app_activity": "com.aige.hipaint.inkpaint.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "哈皮口袋",
+        "package_name": "com.joypacket.skin",
+        "file_name": "com.joypacket.skin_127.apk",
+        "app_activity": "vip.qufenqian.app_skin.activity.MainActivity"
+    },
+    {
+        "app_name": "涂鸦",
+        "package_name": "com.tuya.smartiot",
+        "file_name": "com.tuya.smartiot_128.apk",
+        "app_activity": "com.smart.ThingSplashActivity"
+    },
+    {
+        "app_name": "充电享福运",
+        "package_name": "com.explicafflicti.xfy",
+        "file_name": "com.explicafflicti.xfy_129.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "子腾园",
+        "package_name": "com.zmsoft.forwatch",
+        "file_name": "com.zmsoft.forwatch_130.apk",
+        "app_activity": "com.zmapp.fwatch.activity.SplashActivity"
+    },
+    {
+        "app_name": "讯飞AI学",
+        "package_name": "com.iflytek.aistudyclient.parentcontrol",
+        "file_name": "com.iflytek.aistudyclient.parentcontrol_131.apk",
+        "app_activity": "com.iflytek.aistudyclient.parentcontrol.MainActivity"
+    },
+    {
+        "app_name": "牛精灵",
+        "package_name": "com.jooan.cowelf",
+        "file_name": "com.jooan.cowelf_132.apk",
+        "app_activity": "com.jooan.biz_am.launcher.SplashActivity"
+    },
+    {
+        "app_name": "外星人加速器",
+        "package_name": "com.etalien.booster",
+        "file_name": "com.etalien.booster_133.apk",
+        "app_activity": "com.etalien.booster.mobile.MainActivity"
+    },
+    {
+        "app_name": "京东快递",
+        "package_name": "com.jd.jdlogistic",
+        "file_name": "com.jd.jdlogistic_134.apk",
+        "app_activity": "com.jd.jdlogistic.flutter.HomeActivity"
+    },
+    {
+        "app_name": "代练通",
+        "package_name": "io.dcloud.H514D19D6",
+        "file_name": "io.dcloud.H514D19D6_135.apk",
+        "app_activity": "io.dcloud.H514D19D6.activity.start.SplashScreenActivity"
+    },
+    {
+        "app_name": "1233乐园家",
+        "package_name": "com.salei.huaud.oqndd",
+        "file_name": "com.salei.huaud.oqndd_136.apk",
+        "app_activity": "tai.mengzhu.circle.activty.StartActivity"
+    },
+    {
+        "app_name": "民生山西",
+        "package_name": "com.runsdata.socialsecurity.shanxi",
+        "file_name": "com.runsdata.socialsecurity.shanxi_137.apk",
+        "app_activity": "com.runsdata.socialsecurity.sunshine.app.view.activity.main.SplashActivity"
+    },
+    {
+        "app_name": "字体美化大师",
+        "package_name": "com.mylikefonts.activity",
+        "file_name": "com.mylikefonts.activity_138.apk",
+        "app_activity": "com.mylikefonts.activity.IndexActivity"
+    },
+    {
+        "app_name": "月亮影视",
+        "package_name": "com.lhzjxf.ylystp",
+        "file_name": "com.lhzjxf.ylystp_139.apk",
+        "app_activity": "com.vtb.base.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "微光悦看",
+        "package_name": "com.glow.enjoywgyk",
+        "file_name": "com.glow.enjoywgyk_140.apk",
+        "app_activity": "com.relax.game.commongamenew.activity.TransferActivity"
+    },
+    {
+        "app_name": "充电新世界",
+        "package_name": "com.atrocitcohere.cdxsj",
+        "file_name": "com.atrocitcohere.cdxsj_141.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "乐趣充充",
+        "package_name": "com.compedegen.embos",
+        "file_name": "com.compedegen.embos_142.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "高门才子",
+        "package_name": "com.elite.appgmcz",
+        "file_name": "com.elite.appgmcz_143.apk",
+        "app_activity": "com.xmiles.game.commongamenew.activity.TransferActivity"
+    },
+    {
+        "app_name": "智慧人社",
+        "package_name": "com.powersi.zhrs",
+        "file_name": "com.powersi.zhrs_144.apk",
+        "app_activity": "com.powersi.powerapp.activity.WindowActivity"
+    },
+    {
+        "app_name": "私密影院播放器",
+        "package_name": "com.oahalng.ymnxde",
+        "file_name": "com.oahalng.ymnxde_145.apk",
+        "app_activity": "com.oahalng.ymnxde.activitys.SplashActivity"
+    },
+    {
+        "app_name": "鲸云漫游",
+        "package_name": "com.zjrx.gamestore",
+        "file_name": "com.zjrx.gamestore_146.apk",
+        "app_activity": "com.zjrx.gamestore.ui.activity.LaunchActivity"
+    },
+    {
+        "app_name": "趣领皮肤",
+        "package_name": "com.quwantechnology.playhouse",
+        "file_name": "com.quwantechnology.playhouse_147.apk",
+        "app_activity": "com.quwantechnology.playhouse.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "天翼生活",
+        "package_name": "com.ataaw.tianyi",
+        "file_name": "com.ataaw.tianyi_148.apk",
+        "app_activity": "com.ataaw.tianyi.WelcomeActivity"
+    },
+    {
+        "app_name": "鸿福好运",
+        "package_name": "com.hailv.hflb",
+        "file_name": "com.hailv.hflb_149.apk",
+        "app_activity": "com.shgy.app.commongamenew.activity.TransferActivity"
+    },
+    {
+        "app_name": "Tesla",
+        "package_name": "com.teslamotors.tesla",
+        "file_name": "com.teslamotors.tesla_150.apk",
+        "app_activity": "com.tesla.privacy.PrivacyPolicyActivity"
+    },
+    {
+        "app_name": "非凡扫描砖家",
+        "package_name": "com.canvass.gtsconcu",
+        "file_name": "com.canvass.gtsconcu_151.apk",
+        "app_activity": "com.gmiles.cleaner.launch.LaunchActivity"
+    },
+    {
+        "app_name": "血压血糖测控",
+        "package_name": "com.defectexcurs.eligib",
+        "file_name": "com.defectexcurs.eligib_152.apk",
+        "app_activity": "com.javad.module.launch.AliasMainActivity"
+    },
+    {
+        "app_name": "DJI Fly",
+        "package_name": "dji.go.v5",
+        "file_name": "dji.go.v5_153.apk",
+        "app_activity": "com.dji.component.application.activity.DJIPureLaunchActivity"
+    },
+    {
+        "app_name": "秘视享览播放器",
+        "package_name": "com.hnzh.mszcbfq",
+        "file_name": "com.hnzh.mszcbfq_154.apk",
+        "app_activity": "com.hnzh.mszcbfq.ui.StartActivity"
+    },
+    {
+        "app_name": "广东税务",
+        "package_name": "com.example.servyouappzhuhai",
+        "file_name": "com.example.servyouappzhuhai_155.apk",
+        "app_activity": "cn.com.servyou.servyouzhuhai.activity.splash.imps.SplashActivity"
+    },
+    {
+        "app_name": "ES File Explorer",
+        "package_name": "com.estrongs.android.pop",
+        "file_name": "com.estrongs.android.pop_156.apk",
+        "app_activity": "com.estrongs.android.pop.app.openscreenad.NewSplashActivity"
+    },
+    {
+        "app_name": "直播加加",
+        "package_name": "com.iclick.LivePlusPlus",
+        "file_name": "com.iclick.LivePlusPlus_157.apk",
+        "app_activity": "com.iclick.LivePlusPlus.features.splash.SplashActivity"
+    },
+    {
+        "app_name": "快递100",
+        "package_name": "com.Kingdee.Express",
+        "file_name": "com.Kingdee.Express_158.apk",
+        "app_activity": "com.Kingdee.Express.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "磁力宅",
+        "package_name": "com.videoplayer.magnetotaku",
+        "file_name": "com.videoplayer.magnetotaku_159.apk",
+        "app_activity": "com.videoplayer.magnetotaku.ui.skeleton.WelcomeActivity"
+    },
+    {
+        "app_name": "喵眼精灵",
+        "package_name": "com.jooan.qalink",
+        "file_name": "com.jooan.qalink_160.apk",
+        "app_activity": "com.jooan.biz_am.launcher.SplashActivity"
+    },
+    {
+        "app_name": "全能投屏神器",
+        "package_name": "com.cstoolscast.tv",
+        "file_name": "com.cstoolscast.tv_161.apk",
+        "app_activity": "com.ts.app.flutter_screen_projection.MainActivity"
+    },
+    {
+        "app_name": "趣图秀秀",
+        "package_name": "com.qtxx.show",
+        "file_name": "com.qtxx.show_162.apk",
+        "app_activity": "com.nice.finevideo.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "喵喵机",
+        "package_name": "cn.paperang.mm",
+        "file_name": "cn.paperang.mm_163.apk",
+        "app_activity": "cn.paperang.mm.modules.entry.activity.SplashActivity"
+    },
+    {
+        "app_name": "点点农场记",
+        "package_name": "com.ruike.ddncj",
+        "file_name": "com.ruike.ddncj_164.apk",
+        "app_activity": "com.lingdong.gm.activity.GMWebActivity"
+    },
+    {
+        "app_name": "会拍相机",
+        "package_name": "com.zhouyuxia.canshoot",
+        "file_name": "com.zhouyuxia.canshoot_165.apk",
+        "app_activity": "com.zhouyuxia.canshoot.ui.startpage.StartPageActivity"
+    },
+    {
+        "app_name": "追风脚印",
+        "package_name": "com.zhuifeng.zfjy.cn",
+        "file_name": "com.zhuifeng.zfjy.cn_168.apk",
+        "app_activity": "com.run.sports.main.privacy.PrivacyActivity"
+    },
+    {
+        "app_name": "一键测量仪",
+        "package_name": "com.newscan.yijianscan",
+        "file_name": "com.newscan.yijianscan_169.apk",
+        "app_activity": "com.alipay.sdk.m.r0.rpmtcnsn9"
+    },
+    {
+        "app_name": "红手指云手机",
+        "package_name": "com.redfinger.app",
+        "file_name": "com.redfinger.app_170.apk",
+        "app_activity": "com.redfinger.app.activity.SplashActivity"
+    },
+    {
+        "app_name": "手机号定位找人",
+        "package_name": "com.qingnian.osmtracker",
+        "file_name": "com.qingnian.osmtracker_171.apk",
+        "app_activity": "com.dingyi.luckfind.activity.BootActivity"
+    },
+    {
+        "app_name": "元气小组件",
+        "package_name": "cn.great.yuanqi",
+        "file_name": "cn.great.yuanqi_172.apk",
+        "app_activity": "cn.great.yuanqi.activity.MainActivity"
+    },
+    {
+        "app_name": "形色",
+        "package_name": "cn.danatech.xingseapp",
+        "file_name": "cn.danatech.xingseapp_173.apk",
+        "app_activity": "com.xingse.app.pages.startup.SplashScreenActivity"
+    },
+    {
+        "app_name": "居家点点",
+        "package_name": "glad.athomedian.skate",
+        "file_name": "glad.athomedian.skate_174.apk",
+        "app_activity": "cn.gm.u3d.ui.main.MainActivity"
+    },
+    {
+        "app_name": "囧次元",
+        "package_name": "com.cfitcxwl.kdyutbu",
+        "file_name": "com.cfitcxwl.kdyutbu_175.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "有福趣享",
+        "package_name": "com.cdjpt.fortunefun",
+        "file_name": "com.cdjpt.fortunefun_176.apk",
+        "app_activity": "com.shgy.app.commongamenew.activity.TransferActivity"
+    },
+    {
+        "app_name": "租号王",
+        "package_name": "com.duodian.freehire",
+        "file_name": "com.duodian.freehire_177.apk",
+        "app_activity": "com.duodian.qugame.ui.activity.common.LaunchActivity"
+    },
+    {
+        "app_name": "Master lock screen",
+        "package_name": "com.master.onelockscreen",
+        "file_name": "com.master.onelockscreen_178.apk",
+        "app_activity": "com.master.onelockscreen.activity.MainActivity"
+    },
+    {
+        "app_name": "看看私人播放器",
+        "package_name": "com.wanninli.tqyg",
+        "file_name": "com.wanninli.tqyg_179.apk",
+        "app_activity": "com.zhangying.appcollection.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "点点福到",
+        "package_name": "com.immersbland.essenti",
+        "file_name": "com.immersbland.essenti_180.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "飞速流量宝",
+        "package_name": "com.xinglv.fsllb",
+        "file_name": "com.xinglv.fsllb_181.apk",
+        "app_activity": "com.walk.home.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "光环左手",
+        "package_name": "com.xzobyv.zchbsek.xzmmhki",
+        "file_name": "com.xzobyv.zchbsek.xzmmhki_182.apk",
+        "app_activity": "com.qingxiang.zdzq.activty.StartActivity"
+    },
+    {
+        "app_name": "暖阳刷刷",
+        "package_name": "com.wanze.nyss",
+        "file_name": "com.wanze.nyss_183.apk",
+        "app_activity": "com.jingling.splash.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "优选时长管家",
+        "package_name": "com.wns.yxscgj",
+        "file_name": "com.wns.yxscgj_184.apk",
+        "app_activity": "com.walk.home.splash.activity.AppEnterActivity"
+    },
+    {
+        "app_name": "特来电",
+        "package_name": "com.qdtevc.teld.app",
+        "file_name": "com.qdtevc.teld.app_185.apk",
+        "app_activity": "com.qdtevc.teld.app.activity.StartActivity"
+    },
+    {
+        "app_name": "7881游戏交易",
+        "package_name": "w2a.app7881.com",
+        "file_name": "w2a.app7881.com_186.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "充电满满",
+        "package_name": "com.cstscharge.happy",
+        "file_name": "com.cstscharge.happy_187.apk",
+        "app_activity": "com.cssq.walke.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "测亩易",
+        "package_name": "cn.eagri.measurement",
+        "file_name": "cn.eagri.measurement_188.apk",
+        "app_activity": "cn.eagri.measurement.SplashActivity"
+    },
+    {
+        "app_name": "花香充电",
+        "package_name": "com.discorcoin.florals",
+        "file_name": "com.discorcoin.florals_189.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "妍色悦看",
+        "package_name": "com.colorfulwatch.ysyk",
+        "file_name": "com.colorfulwatch.ysyk_190.apk",
+        "app_activity": "com.xuanle.common.activity.TransferActivity"
+    },
+    {
+        "app_name": "TT变声器",
+        "package_name": "com.voice.listen",
+        "file_name": "com.voice.listen_191.apk",
+        "app_activity": "com.voice.listen.uuui.activity.PppolicyActivity"
+    },
+    {
+        "app_name": "风糖小组件",
+        "package_name": "com.sijzhmg.vmkajz",
+        "file_name": "com.sijzhmg.vmkajz_192.apk",
+        "app_activity": "com.sijzhmg.vmkajz.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "EseeCloud",
+        "package_name": "com.juanvision.EseeNetProj",
+        "file_name": "com.juanvision.EseeNetProj_193.apk",
+        "app_activity": "com.juanvision.modulelogin.activity.SplashActivity"
+    },
+    {
+        "app_name": "智能遥控器",
+        "package_name": "com.flybbj.remotecontrol",
+        "file_name": "com.flybbj.remotecontrol_194.apk",
+        "app_activity": "com.flybbj.remotecontrol.mvp.ui.activitys.SplashActivity"
+    },
+    {
+        "app_name": "朝气充电",
+        "package_name": "com.descryapathy.that",
+        "file_name": "com.descryapathy.that_195.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "雀友家私极速版",
+        "package_name": "com.hndk.qyjs",
+        "file_name": "com.hndk.qyjs_196.apk",
+        "app_activity": "com.hndk.qyjs.business.splash.SplashActivity"
+    },
+    {
+        "app_name": "点点设计",
+        "package_name": "com.gongfeng.ddsj_flutter_app",
+        "file_name": "com.gongfeng.ddsj_flutter_app_197.apk",
+        "app_activity": "com.gongfeng.ddsj_flutter_app.MainActivity"
+    },
+    {
+        "app_name": "金禧连连",
+        "package_name": "com.desecraburro.balmy",
+        "file_name": "com.desecraburro.balmy_198.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "一言",
+        "package_name": "com.jhyan.yan",
+        "file_name": "com.jhyan.yan_199.apk",
+        "app_activity": "com.jasonhan.GongMing.UI.Activity.Launch.YYLaunchScreenActivity"
+    },
+    {
+        "app_name": "优享流量宝",
+        "package_name": "com.beadacid.deterio",
+        "file_name": "com.beadacid.deterio_200.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "爱加速",
+        "package_name": "com.fvcorp.android.aijiasuclient",
+        "file_name": "com.fvcorp.android.aijiasuclient_201.apk",
+        "app_activity": "com.fvcorp.android.fvclient.activity.SplashActivity"
+    },
+    {
+        "app_name": "警察叔叔",
+        "package_name": "com.hzpd.jwztc",
+        "file_name": "com.hzpd.jwztc_202.apk",
+        "app_activity": "com.hzpd.jwztc.LaunchActivity"
+    },
+    {
+        "app_name": "流量无限宝",
+        "package_name": "com.sponscapabl.plump",
+        "file_name": "com.sponscapabl.plump_203.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "超省流量",
+        "package_name": "com.contamdiscou.brillia",
+        "file_name": "com.contamdiscou.brillia_204.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "多多乐看",
+        "package_name": "com.jz.xydj.duoduo",
+        "file_name": "com.jz.xydj.duoduo_205.apk",
+        "app_activity": "cn.app.video.main.MainActivity"
+    },
+    {
+        "app_name": "爱扫描",
+        "package_name": "com.aii.scanner.ocr",
+        "file_name": "com.aii.scanner.ocr_206.apk",
+        "app_activity": "com.aii.scanner.ocr.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "Cos Love",
+        "package_name": "com.black.coslove",
+        "file_name": "com.black.coslove_207.apk",
+        "app_activity": "com.black.coslove.SplashActivity"
+    },
+    {
+        "app_name": "桌面宠物多多",
+        "package_name": "com.njwry.zhuochong",
+        "file_name": "com.njwry.zhuochong_208.apk",
+        "app_activity": "com.njwry.zhuochong.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "红外万能遥控器",
+        "package_name": "cn.wuxianyaoddds.bxgda",
+        "file_name": "cn.wuxianyaoddds.bxgda_209.apk",
+        "app_activity": "com.zy.app.devappcollection.StartActivity"
+    },
+    {
+        "app_name": "小X分身",
+        "package_name": "com.bly.dkplat",
+        "file_name": "com.bly.dkplat_210.apk",
+        "app_activity": "com.bly.dkplat.widget.splash.Splash"
+    },
+    {
+        "app_name": "小6加速器",
+        "package_name": "com.mykj.six",
+        "file_name": "com.mykj.six_211.apk",
+        "app_activity": "com.mykj.six.ui.ActivityStart"
+    },
+    {
+        "app_name": "一键录屏",
+        "package_name": "com.ido.screen.record",
+        "file_name": "com.ido.screen.record_212.apk",
+        "app_activity": "com.ido.screen.record.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "福顺满满",
+        "package_name": "com.covertaband.augus",
+        "file_name": "com.covertaband.augus_213.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "充电享好运",
+        "package_name": "com.bpnwq.pdok",
+        "file_name": "com.bpnwq.pdok_214.apk",
+        "app_activity": "com.walk.home.health.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "一起看",
+        "package_name": "cn.lsryqktp.qgtpng",
+        "file_name": "cn.lsryqktp.qgtpng_215.apk",
+        "app_activity": "com.vtbmovies.donaldjr.ui.mime.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "星云放大镜",
+        "package_name": "loupe.may.xingyunfdj",
+        "file_name": "loupe.may.xingyunfdj_216.apk",
+        "app_activity": "vch.qqf.magnifier.MainActivity"
+    },
+    {
+        "app_name": "iCam365",
+        "package_name": "com.tange365.icam365",
+        "file_name": "com.tange365.icam365_217.apk",
+        "app_activity": "com.ihomeiot.icam.feat.launch.LaunchActivity"
+    },
+    {
+        "app_name": "炫彩来电秀",
+        "package_name": "com.callshow.colorfocuscall",
+        "file_name": "com.callshow.colorfocuscall_218.apk",
+        "app_activity": "com.alipay.sdk.m.e.rlo2"
+    },
+    {
+        "app_name": "自动连点器点击器",
+        "package_name": "com.ahsj.liandianqi",
+        "file_name": "com.ahsj.liandianqi_219.apk",
+        "app_activity": "com.ahzy.click.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "充上云霄",
+        "package_name": "com.cordcrease.docile",
+        "file_name": "com.cordcrease.docile_220.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "翻页时钟",
+        "package_name": "com.charm.clockdesktop",
+        "file_name": "com.charm.clockdesktop_221.apk",
+        "app_activity": "com.charm.clockdesktop.Activity.BootPageActivity"
+    },
+    {
+        "app_name": "Remote Service",
+        "package_name": "com.huawei.hwremotedesktop",
+        "file_name": "com.huawei.hwremotedesktop_222.apk",
+        "app_activity": "com.huawei.hwremotedesktop.activity.RegionSelectActivity"
+    },
+    {
+        "app_name": "换肤高手",
+        "package_name": "com.fuzhoudream.changeskin",
+        "file_name": "com.fuzhoudream.changeskin_223.apk",
+        "app_activity": "com.fuzhoudream.changeskin.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "皮皮侠",
+        "package_name": "com.najqucoltd.ppswordsman",
+        "file_name": "com.najqucoltd.ppswordsman_224.apk",
+        "app_activity": "com.najqucoltd.ppswordsman.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "速达扫描王",
+        "package_name": "com.conten.gtsenamo",
+        "file_name": "com.conten.gtsenamo_225.apk",
+        "app_activity": "com.gmiles.cleaner.launch.LaunchActivity"
+    },
+    {
+        "app_name": "T-Cast",
+        "package_name": "com.tnscreen.main",
+        "file_name": "com.tnscreen.main_226.apk",
+        "app_activity": "com.tcl.tcast.WelcomeActivity"
+    },
+    {
+        "app_name": "成语赚钱王",
+        "package_name": "com.aqyhkj.cyzqw",
+        "file_name": "com.aqyhkj.cyzqw_227.apk",
+        "app_activity": "com.aqyhkj.cyzqw.app.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "好运多一点",
+        "package_name": "red.huamihydyd.good",
+        "file_name": "red.huamihydyd.good_228.apk",
+        "app_activity": "vch.qqf.redpacketgroup.activity.MainActivity"
+    },
+    {
+        "app_name": "血压健康管理",
+        "package_name": "com.bloodpressure.manager",
+        "file_name": "com.bloodpressure.manager_229.apk",
+        "app_activity": "com.wifikey.tenthousands.app_wifi_flutter.MainActivity"
+    },
+    {
+        "app_name": "好运计步",
+        "package_name": "com.luckywalk.hyjb.cn",
+        "file_name": "com.luckywalk.hyjb.cn_230.apk",
+        "app_activity": "com.run.sports.main.privacy.PrivacyActivity"
+    },
+    {
+        "app_name": "有趣的蜘蛛",
+        "package_name": "com.fascispider.sm",
+        "file_name": "com.fascispider.sm_231.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "悦享每刻",
+        "package_name": "com.ned.enjoytime",
+        "file_name": "com.ned.enjoytime_232.apk",
+        "app_activity": "com.net.common.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "我的汽车站",
+        "package_name": "com.brg.ertbv.efds",
+        "file_name": "com.brg.ertbv.efds_233.apk",
+        "app_activity": "tai.mengzhu.circle.activty.StartActivity"
+    },
+    {
+        "app_name": "我在AI",
+        "package_name": "com.chat.qsai",
+        "file_name": "com.chat.qsai_234.apk",
+        "app_activity": "com.chat.qsai.business.main.view.SplashActivity"
+    },
+    {
+        "app_name": "你的AI",
+        "package_name": "com.ai.best.foryou",
+        "file_name": "com.ai.best.foryou_235.apk",
+        "app_activity": "com.wst.nd.ai.SplashAty"
+    },
+    {
+        "app_name": "惊鸿悦看",
+        "package_name": "com.swan.watchjhyx",
+        "file_name": "com.swan.watchjhyx_236.apk",
+        "app_activity": "com.relax.game.commongamenew.activity.TransferActivity"
+    },
+    {
+        "app_name": "领沃云电脑",
+        "package_name": "cn.lingwoyun.cpc",
+        "file_name": "cn.lingwoyun.cpc_237.apk",
+        "app_activity": "com.yoka.cloudgame.SplashActivity"
+    },
+    {
+        "app_name": "秘塔AI搜索",
+        "package_name": "com.metaso",
+        "file_name": "com.metaso_238.apk",
+        "app_activity": "com.metaso.main.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "换图标吧",
+        "package_name": "com.njbk.kuaijie",
+        "file_name": "com.njbk.kuaijie_239.apk",
+        "app_activity": "com.njbk.kuaijie.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "好运爱看",
+        "package_name": "com.linghui.hyak",
+        "file_name": "com.linghui.hyak_240.apk",
+        "app_activity": "com.jingling.splash.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "快问AI",
+        "package_name": "com.learnpal.atp",
+        "file_name": "com.learnpal.atp_241.apk",
+        "app_activity": "com.learnpal.atp.activity.SplashActivity"
+    },
+    {
+        "app_name": "Translate",
+        "package_name": "com.google.android.apps.translate",
+        "file_name": "com.google.android.apps.translate_242.apk",
+        "app_activity": "com.google.android.apps.translate.TranslateActivity"
+    },
+    {
+        "app_name": "Flashlight",
+        "package_name": "com.lu.flashlightbanner",
+        "file_name": "com.lu.flashlightbanner_243.apk",
+        "app_activity": "com.lu.flashlightla.activity.SplashActivity"
+    },
+    {
+        "app_name": "点点福顺",
+        "package_name": "com.defectconsec.audaci",
+        "file_name": "com.defectconsec.audaci_244.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "电子社保卡",
+        "package_name": "com.esscard.esscardapp",
+        "file_name": "com.esscard.esscardapp_245.apk",
+        "app_activity": "com.esscard.module_launch.LaunchActivity"
+    },
+    {
+        "app_name": "手机将军令",
+        "package_name": "com.netease.mkey",
+        "file_name": "com.netease.mkey_246.apk",
+        "app_activity": "com.netease.mkey.activity.SplashPreActivity"
+    },
+    {
+        "app_name": "安卓变声器",
+        "package_name": "com.mediabox.voicechanger",
+        "file_name": "com.mediabox.voicechanger_247.apk",
+        "app_activity": "com.mediabox.voicechanger.SplashActivity"
+    },
+    {
+        "app_name": "别动我手机",
+        "package_name": "com.qzsoft.dtmp",
+        "file_name": "com.qzsoft.dtmp_248.apk",
+        "app_activity": "com.qzsoft.dtmp.activity.SplashActivity"
+    },
+    {
+        "app_name": "CAD看图助手",
+        "package_name": "com.cstscad.help",
+        "file_name": "com.cstscad.help_249.apk",
+        "app_activity": "com.ts.app.flutter_cad_viewer.MainActivity"
+    },
+    {
+        "app_name": "小白学习打印",
+        "package_name": "com.xbxxhz.box",
+        "file_name": "com.xbxxhz.box_250.apk",
+        "app_activity": "com.xbxxhz.box.ui.FlashAct"
+    },
+    {
+        "app_name": "腾讯元宝",
+        "package_name": "com.tencent.hunyuan.app.chat",
+        "file_name": "com.tencent.hunyuan.app.chat_251.apk",
+        "app_activity": "com.tencent.hunyuan.app.chat.biz.login.NewLoginActivity"
+    },
+    {
+        "app_name": "易腾云",
+        "package_name": "com.niukou.yitengyun",
+        "file_name": "com.niukou.yitengyun_252.apk",
+        "app_activity": "com.niukou.tengyun.startup.ui.SplashActivity"
+    },
+    {
+        "app_name": "幕布",
+        "package_name": "com.mubu.app",
+        "file_name": "com.mubu.app_253.apk",
+        "app_activity": "com.mubu.app.splash.MubuSplashActivity"
+    },
+    {
+        "app_name": "指尖农园",
+        "package_name": "com.zjny.fingertip",
+        "file_name": "com.zjny.fingertip_254.apk",
+        "app_activity": "com.relax.sdkdemo.StartActivity"
+    },
+    {
+        "app_name": "葡萄乐刷",
+        "package_name": "com.fgg.xfgzexptls",
+        "file_name": "com.fgg.xfgzexptls_255.apk",
+        "app_activity": "com.relax.game.commongamenew.activity.TransferActivity"
+    },
+    {
+        "app_name": "桌面汪",
+        "package_name": "com.hxleyou.desktopdog",
+        "file_name": "com.hxleyou.desktopdog_256.apk",
+        "app_activity": "com.hxleyou.desktopdog.ui.aty.SpreadActivity"
+    },
+    {
+        "app_name": "Parental Control",
+        "package_name": "com.huawei.parentcontrol.parent",
+        "file_name": "com.huawei.parentcontrol.parent_257.apk",
+        "app_activity": "com.huawei.parentcontrol.parent.ui.activity.HomeActivity"
+    },
+    {
+        "app_name": "云朵测量王",
+        "package_name": "com.scan.cloudmaster",
+        "file_name": "com.scan.cloudmaster_258.apk",
+        "app_activity": "com.smart.scan.homepage.flash.view.FlashActivity"
+    },
+    {
+        "app_name": "迅玩云游戏",
+        "package_name": "com.stnts.xunwan",
+        "file_name": "com.stnts.xunwan_259.apk",
+        "app_activity": "com.stnts.sly.android.activity.SplashActivity"
+    },
+    {
+        "app_name": "鸿运满满",
+        "package_name": "com.becrooke.articul",
+        "file_name": "com.becrooke.articul_260.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "HiGo Play服务框架安装器",
+        "package_name": "com.higoplayservice.higoplay",
+        "file_name": "com.higoplayservice.higoplay_261.apk",
+        "app_activity": "com.higoplayservice.higoplay.SplashActivity"
+    },
+    {
+        "app_name": "美好时刻",
+        "package_name": "com.meihao.shike",
+        "file_name": "com.meihao.shike_262.apk",
+        "app_activity": "org.hh.al.SplashActivity"
+    },
+    {
+        "app_name": "格式工厂",
+        "package_name": "com.geshi.formatfactory",
+        "file_name": "com.geshi.formatfactory_263.apk",
+        "app_activity": "com.geshi.formatfactory.activity.SplashActivity"
+    },
+    {
+        "app_name": "115生活",
+        "package_name": "com.ylmf.androidclient",
+        "file_name": "com.ylmf.androidclient_264.apk",
+        "app_activity": "com.main.partner.user.activity.LogActivity"
+    },
+    {
+        "app_name": "皮仔联盟",
+        "package_name": "com.lexing.leagueofpiay",
+        "file_name": "com.lexing.leagueofpiay_265.apk",
+        "app_activity": "com.lexing.leagueofpiay.ui.activity.WelcomeYourLikingActivity"
+    },
+    {
+        "app_name": "tapdaily",
+        "package_name": "gfhb.vrty.hgew",
+        "file_name": "gfhb.vrty.hgew_266.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "福禧益多多",
+        "package_name": "com.duncebeverag.audito",
+        "file_name": "com.duncebeverag.audito_267.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "龙年吉祥极速版",
+        "package_name": "com.hnyyqj.lnjx",
+        "file_name": "com.hnyyqj.lnjx_268.apk",
+        "app_activity": "com.hnyyqj.lnjx.mactivity.SplashActivity"
+    },
+    {
+        "app_name": "天天皮肤大派送",
+        "package_name": "com.paisong.pifu.dayday",
+        "file_name": "com.paisong.pifu.dayday_269.apk",
+        "app_activity": "com.example.day_day_skin.MainActivity"
+    },
+    {
+        "app_name": "中通快递",
+        "package_name": "cn.beekee.zhongtong",
+        "file_name": "cn.beekee.zhongtong_270.apk",
+        "app_activity": "cn.beekee.zhongtong.module.splash.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "走路健康多多",
+        "package_name": "com.cstswalk.duoduo",
+        "file_name": "com.cstswalk.duoduo_271.apk",
+        "app_activity": "com.cssq.walke.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "红袖瞬间",
+        "package_name": "com.red.scahxsj",
+        "file_name": "com.red.scahxsj_272.apk",
+        "app_activity": "com.relax.game.commongamenew.activity.TransferActivity"
+    },
+    {
+        "app_name": "布丁扫描",
+        "package_name": "com.wibo.bigbang.ocr",
+        "file_name": "com.wibo.bigbang.ocr_273.apk",
+        "app_activity": "com.wibo.bigbang.ocr.MainActivity"
+    },
+    {
+        "app_name": "新观乐刷",
+        "package_name": "com.greatdrama.newviewbrush",
+        "file_name": "com.greatdrama.newviewbrush_274.apk",
+        "app_activity": "com.alipay.sdk.m.n.yilcdcbthe7"
+    },
+    {
+        "app_name": "Tiny Decisions",
+        "package_name": "com.nixwang.tinydecisions",
+        "file_name": "com.nixwang.tinydecisions_275.apk",
+        "app_activity": "com.nixwang.tiny_decisions.MainActivity"
+    },
+    {
+        "app_name": "椰子刷刷",
+        "package_name": "com.ned.coconutslap",
+        "file_name": "com.ned.coconutslap_276.apk",
+        "app_activity": "com.net.common.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "皮皮奇缘",
+        "package_name": "com.fzfunplaytec.lovestrugglefinancialwin",
+        "file_name": "com.fzfunplaytec.lovestrugglefinancialwin_277.apk",
+        "app_activity": "com.fzfunplaytec.lovestrugglefinancialwin.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "ToDesk",
+        "package_name": "youqu.android.todesk",
+        "file_name": "youqu.android.todesk_278.apk",
+        "app_activity": "youqu.android.todesk.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "免费无痕去水印",
+        "package_name": "com.victwonowtmk.tool",
+        "file_name": "com.victwonowtmk.tool_279.apk",
+        "app_activity": "com.victwonowtmk.tool.userinterface.sevenactivity.splash.SevenSplashActivity"
+    },
+    {
+        "app_name": "盛夏充电",
+        "package_name": "com.alludeenvisag.coalesc",
+        "file_name": "com.alludeenvisag.coalesc_280.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "录音备忘录",
+        "package_name": "com.voice.cloud.ola",
+        "file_name": "com.voice.cloud.ola_281.apk",
+        "app_activity": "com.hhw.soundrecord.SPActivity"
+    },
+    {
+        "app_name": "P6SLite",
+        "package_name": "com.zwcode.p6slite",
+        "file_name": "com.zwcode.p6slite_282.apk",
+        "app_activity": "com.zwcode.p6slite.activity.SplashActivity"
+    },
+    {
+        "app_name": "暖暖手帐",
+        "package_name": "com.nnsz.diy",
+        "file_name": "com.nnsz.diy_283.apk",
+        "app_activity": "com.nnsz.diy.mvp.ui.activity.LaunchActivity"
+    },
+    {
+        "app_name": "微购相册-原微商相册",
+        "package_name": "com.truedian.dragon",
+        "file_name": "com.truedian.dragon_284.apk",
+        "app_activity": "com.truedian.dragon.activity.LaunchActivity"
+    },
+    {
+        "app_name": "福袋点点",
+        "package_name": "com.zhaoxin.fddd",
+        "file_name": "com.zhaoxin.fddd_285.apk",
+        "app_activity": "com.walk.home.health.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "福禧点点",
+        "package_name": "com.zhaoxin.fxdd",
+        "file_name": "com.zhaoxin.fxdd_286.apk",
+        "app_activity": "com.walk.home.health.activity.HomeSplashActivity"
+    },
+    {
+        "app_name": "Zapya",
+        "package_name": "com.dewmobile.kuaiya",
+        "file_name": "com.dewmobile.kuaiya_287.apk",
+        "app_activity": "com.dewmobile.kuaiya.act.DmStartupActivity"
+    },
+    {
+        "app_name": "趣享乐刷",
+        "package_name": "com.quxiang.qxls.cn",
+        "file_name": "com.quxiang.qxls.cn_288.apk",
+        "app_activity": "com.play.video.login.LaunchActivity"
+    },
+    {
+        "app_name": "优选流量宝",
+        "package_name": "happy.cat.optimization",
+        "file_name": "happy.cat.optimization_289.apk",
+        "app_activity": "com.alipay.sdk.m.n0.howksj7"
+    },
+    {
+        "app_name": "比亚迪海洋",
+        "package_name": "com.byd.sea",
+        "file_name": "com.byd.sea_290.apk",
+        "app_activity": "com.byd.aeri.splash.module_splash.activity.LaunchActivity"
+    },
+    {
+        "app_name": "动物翻译器",
+        "package_name": "com.stkj.dongwu",
+        "file_name": "com.stkj.dongwu_291.apk",
+        "app_activity": "com.stkj.dongwu.SplashActivity"
+    },
+    {
+        "app_name": "随意一点",
+        "package_name": "fun.suiyidian.one",
+        "file_name": "fun.suiyidian.one_292.apk",
+        "app_activity": "vip.qufenqian.app_skin.activity.MainActivity"
+    },
+    {
+        "app_name": "萌虎赚钱",
+        "package_name": "com.qiqiao.meng",
+        "file_name": "com.qiqiao.meng_293.apk",
+        "app_activity": "com.qiqiao.meng.activity.LauncherActivity"
+    },
+    {
+        "app_name": "一个木函",
+        "package_name": "com.One.WoodenLetter",
+        "file_name": "com.One.WoodenLetter_294.apk",
+        "app_activity": "com.One.WoodenLetter.LetterActivity"
+    },
+    {
+        "app_name": "光速扫描加强版",
+        "package_name": "com.antago.gtscoaliti",
+        "file_name": "com.antago.gtscoaliti_295.apk",
+        "app_activity": "com.gmiles.cleaner.launch.LaunchActivity"
+    },
+    {
+        "app_name": "996游戏盒子",
+        "package_name": "gzqf.jjlhz.sokfjf",
+        "file_name": "gzqf.jjlhz.sokfjf_296.apk",
+        "app_activity": "flc.ast.SplashActivity"
+    },
+    {
+        "app_name": "CoStudy",
+        "package_name": "com.costudy.costudy",
+        "file_name": "com.costudy.costudy_297.apk",
+        "app_activity": "com.costudy.costudy.CSSplashActivity"
+    },
+    {
+        "app_name": "吉他调音器",
+        "package_name": "com.maoying.tuner",
+        "file_name": "com.maoying.tuner_298.apk",
+        "app_activity": "com.maoying.tuner.adActivity.SplashActivity"
+    },
+    {
+        "app_name": "神马测量仪",
+        "package_name": "com.newscan.shenmameasure",
+        "file_name": "com.newscan.shenmameasure_299.apk",
+        "app_activity": "com.alipay.sdk.m.r.qbq3"
+    },
+    {
+        "app_name": "免费换图标",
+        "package_name": "com.kuake.freeicon",
+        "file_name": "com.kuake.freeicon_300.apk",
+        "app_activity": "com.kuake.freeicon.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "开心影视大全",
+        "package_name": "com.hnjm.happyfilm",
+        "file_name": "com.hnjm.happyfilm_301.apk",
+        "app_activity": "com.hncj.videogallery.ui.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "虚贝租号",
+        "package_name": "com.xubei.shop",
+        "file_name": "com.xubei.shop_302.apk",
+        "app_activity": "com.xubei.shop.ui.module.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "手机尺子",
+        "package_name": "pl.mobiem.linijka",
+        "file_name": "pl.mobiem.linijka_303.apk",
+        "app_activity": "com.yydd.rulernew.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "答题趣赚钱",
+        "package_name": "com.mb.bestanswer",
+        "file_name": "com.mb.bestanswer_304.apk",
+        "app_activity": "com.mb.bestanswer.activities.SplashActivity"
+    },
+    {
+        "app_name": "微多开分身",
+        "package_name": "com.excean.multiaid",
+        "file_name": "com.excean.multiaid_305.apk",
+        "app_activity": "com.excean.multiaid.fep64gqq.tfa08jn07dncs"
+    },
+    {
+        "app_name": "TCL",
+        "package_name": "com.tcl.tclplus",
+        "file_name": "com.tcl.tclplus_306.apk",
+        "app_activity": "com.tcl.bmmain.SplashActivity"
+    },
+    {
+        "app_name": "喜运多多",
+        "package_name": "com.abundantfort.xydd",
+        "file_name": "com.abundantfort.xydd_307.apk",
+        "app_activity": "com.luliang.common.activity.TransferActivity"
+    },
+    {
+        "app_name": "即梦AI",
+        "package_name": "com.bytedance.dreamina",
+        "file_name": "com.bytedance.dreamina_308.apk",
+        "app_activity": "com.bytedance.dreamina.main.MainActivity"
+    },
+    {
+        "app_name": "360 Camera",
+        "package_name": "com.qihoo.camera",
+        "file_name": "com.qihoo.camera_309.apk",
+        "app_activity": "com.qihoo.jia.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "雷电云手机",
+        "package_name": "com.ld.dianquan",
+        "file_name": "com.ld.dianquan_310.apk",
+        "app_activity": "com.ld.mine.SplashActivity"
+    },
+    {
+        "app_name": "天工",
+        "package_name": "com.singularity.tiangong",
+        "file_name": "com.singularity.tiangong_311.apk",
+        "app_activity": "com.singularity.tiangong.MainActivity"
+    },
+    {
+        "app_name": "YoYo日常",
+        "package_name": "cn.nineton.dailycheck",
+        "file_name": "cn.nineton.dailycheck_312.apk",
+        "app_activity": "cn.nineton.dailycheck.ui.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "欣荣充电",
+        "package_name": "com.bondextrava.awkwar",
+        "file_name": "com.bondextrava.awkwar_313.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "NIIMBOT",
+        "package_name": "com.gengcon.android.jccloudprinter",
+        "file_name": "com.gengcon.android.jccloudprinter_314.apk",
+        "app_activity": "com.gengcon.android.jccloudprinter.LaunchActivity"
+    },
+    {
+        "app_name": "漫蛙",
+        "package_name": "com.zhuiman.yienna",
+        "file_name": "com.zhuiman.yienna_315.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "作业帮智能",
+        "package_name": "com.zuoyebang.iotunion",
+        "file_name": "com.zuoyebang.iotunion_316.apk",
+        "app_activity": "com.zuoyebang.iot.union.ui.InitActivity"
+    },
+    {
+        "app_name": "全民爱刷",
+        "package_name": "com.ned.popplay",
+        "file_name": "com.ned.popplay_317.apk",
+        "app_activity": "com.net.common.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "番茄作家助手",
+        "package_name": "com.bytedance.writer_assistant_flutter",
+        "file_name": "com.bytedance.writer_assistant_flutter_318.apk",
+        "app_activity": "com.bd.mpaas.example.MainActivity"
+    },
+    {
+        "app_name": "手机定位追迹手机软件",
+        "package_name": "com.sjdwzj.location",
+        "file_name": "com.sjdwzj.location_319.apk",
+        "app_activity": "com.atmob.location.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "迅驰充电",
+        "package_name": "com.spark.quest.xccd",
+        "file_name": "com.spark.quest.xccd_320.apk",
+        "app_activity": "com.fltapp.xccd.app.activity.XCCDSplashActivity"
+    },
+    {
+        "app_name": "朝暮时长管家",
+        "package_name": "com.dejecte.distrac",
+        "file_name": "com.dejecte.distrac_321.apk",
+        "app_activity": "com.ljh.major.module.lauch.SplashActivity"
+    },
+    {
+        "app_name": "安心记加班",
+        "package_name": "com.julanling.app",
+        "file_name": "com.julanling.app_322.apk",
+        "app_activity": "com.julanling.app.frontCover.splash.SplashActivity"
+    },
+    {
+        "app_name": "机大侠助手",
+        "package_name": "com.aihuishou.jdxzs.phonecheck",
+        "file_name": "com.aihuishou.jdxzs.phonecheck_323.apk",
+        "app_activity": "com.aihuishou.jdxzs.phonecheck.SplashActivity"
+    },
+    {
+        "app_name": "活力满电",
+        "package_name": "com.vitality.full.hlmd",
+        "file_name": "com.vitality.full.hlmd_324.apk",
+        "app_activity": "com.fltapp.hlmd.app.activity.HLMDSplashActivity"
+    },
+    {
+        "app_name": "萌宠乐多多",
+        "package_name": "com.mcldd.petjoy.cn",
+        "file_name": "com.mcldd.petjoy.cn_325.apk",
+        "app_activity": "com.earn.melon.login.StarLaunchActivity"
+    },
+    {
+        "app_name": "HP Print Service Plugin",
+        "package_name": "com.hp.android.printservice",
+        "file_name": "com.hp.android.printservice_326.apk",
+        "app_activity": "com.hp.android.printservice.launcher.SplashActivity"
+    },
+    {
+        "app_name": "皮肤派对",
+        "package_name": "com.jhw.pfpd",
+        "file_name": "com.jhw.pfpd_327.apk",
+        "app_activity": "com.app.activity.MainActivity"
+    },
+    {
+        "app_name": "财福满满",
+        "package_name": "com.goodchicken.caifumm",
+        "file_name": "com.goodchicken.caifumm_328.apk",
+        "app_activity": "cn.qfq.raise_chickens.RaiseChickenMainActivity"
+    },
+    {
+        "app_name": "智享流量",
+        "package_name": "wifi.stats.yijianlian",
+        "file_name": "wifi.stats.yijianlian_329.apk",
+        "app_activity": "com.alipay.sdk.m.p0.ewgtrcs2"
+    },
+    {
+        "app_name": "天府通办",
+        "package_name": "cn.cdyl.zwxt",
+        "file_name": "cn.cdyl.zwxt_330.apk",
+        "app_activity": "com.hanweb.android.product.appproject.main.SplashActivity"
+    },
+    {
+        "app_name": "金玉点点",
+        "package_name": "com.gold.gemjydd",
+        "file_name": "com.gold.gemjydd_331.apk",
+        "app_activity": "com.relax.game.commongamenew.activity.TransferActivity"
+    }
+
+]

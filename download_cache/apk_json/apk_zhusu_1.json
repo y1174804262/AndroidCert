@@ -1,0 +1,434 @@
+[
+    {
+        "app_name": "QRInn",
+        "package_name": "com.uclbrt.meizhu",
+        "file_name": "com.uclbrt.meizhu_1.apk",
+        "app_activity": "com.uclbrt.meizhu.view.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "小猪民宿",
+        "package_name": "com.xiaozhu.xzdz",
+        "file_name": "com.xiaozhu.xzdz_2.apk",
+        "app_activity": "com.xiaozhu.biz.main.ui.activity.SplashPageActivity"
+    },
+    {
+        "app_name": "三和商旅",
+        "package_name": "w2a.W2Am.cx5y.com",
+        "file_name": "w2a.W2Am.cx5y.com_4.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "安朴会员俱乐部",
+        "package_name": "com.Tjj.anpoHotel",
+        "file_name": "com.Tjj.anpoHotel_5.apk",
+        "app_activity": "com.Tjj.anpoHotel.loginUi.WelcomeActivity"
+    },
+    {
+        "app_name": "艾豪森",
+        "package_name": "io.aihaosen.app",
+        "file_name": "io.aihaosen.app_6.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "酒店返利",
+        "package_name": "com.tripsters.hotel",
+        "file_name": "com.tripsters.hotel_7.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "Shangri-La",
+        "package_name": "com.shangri_la",
+        "file_name": "com.shangri_la_8.apk",
+        "app_activity": "com.shangri_la.business.main.SplashActivity"
+    },
+    {
+        "app_name": "民宿掌柜",
+        "package_name": "com.powerctrl.hotelapp",
+        "file_name": "com.powerctrl.hotelapp_9.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "东呈会",
+        "package_name": "com.dossen.app",
+        "file_name": "com.dossen.app_10.apk",
+        "app_activity": "com.dossen.app.view.activity.StartActivity"
+    },
+    {
+        "app_name": "悠家",
+        "package_name": "cn.youjiaminsu.mall",
+        "file_name": "cn.youjiaminsu.mall_11.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "之寓",
+        "package_name": "com.inzhiyu.client.android",
+        "file_name": "com.inzhiyu.client.android_12.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "酒店之家",
+        "package_name": "com.innhome.android",
+        "file_name": "com.innhome.android_13.apk",
+        "app_activity": "com.innhome.android.home.loading.LoadingActivity"
+    },
+    {
+        "app_name": "IHG",
+        "package_name": "com.ihg.apps.android",
+        "file_name": "com.ihg.apps.android_14.apk",
+        "app_activity": "com.ihg.apps.android.activity.MainActivity"
+    },
+    {
+        "app_name": "星光之旅",
+        "package_name": "uni.UNIC060785",
+        "file_name": "uni.UNIC060785_15.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "瑾家社区",
+        "package_name": "com.weconex.thousands_home",
+        "file_name": "com.weconex.thousands_home_16.apk",
+        "app_activity": "com.weconex.thousands_home.activity.MainActivity"
+    },
+    {
+        "app_name": "TTHotel",
+        "package_name": "com.sciener.hotela",
+        "file_name": "com.sciener.hotela_17.apk",
+        "app_activity": "com.ttlock.hotelcard.login.SplashActivity"
+    },
+    {
+        "app_name": "万乐思",
+        "package_name": "com.welearth.happy",
+        "file_name": "com.welearth.happy_18.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "同程民宿房东版",
+        "package_name": "com.elong.homestaymerchant",
+        "file_name": "com.elong.homestaymerchant_19.apk",
+        "app_activity": "com.elong.homestaymerchant.MainActivity"
+    },
+    {
+        "app_name": "首旅如家",
+        "package_name": "com.ziipin.homeinn",
+        "file_name": "com.ziipin.homeinn_20.apk",
+        "app_activity": "com.ziipin.homeinn.activity.SplashActivity"
+    },
+    {
+        "app_name": "路客云",
+        "package_name": "com.houseasst.app.prod",
+        "file_name": "com.houseasst.app.prod_21.apk",
+        "app_activity": "com.houseasst.app.prod.MainActivity"
+    },
+    {
+        "app_name": "安住会",
+        "package_name": "com.anzhuhui.hotel",
+        "file_name": "com.anzhuhui.hotel_22.apk",
+        "app_activity": "com.anzhuhui.hotel.SplashActivity"
+    },
+    {
+        "app_name": "换游",
+        "package_name": "com.wang.huanyou",
+        "file_name": "com.wang.huanyou_23.apk",
+        "app_activity": "com.wang.huanyou.MapActivity"
+    },
+    {
+        "app_name": "出差大橙",
+        "package_name": "com.qic.cctrip",
+        "file_name": "com.qic.cctrip_24.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "去住管家",
+        "package_name": "cn.rockiot.house",
+        "file_name": "cn.rockiot.house_25.apk",
+        "app_activity": "cn.rockiot.rock_house.MainActivity"
+    },
+    {
+        "app_name": "东南青年汇",
+        "package_name": "com.SoutheastApartment.qnh",
+        "file_name": "com.SoutheastApartment.qnh_26.apk",
+        "app_activity": "com.SIGNetwork.sigapartment.consumer.MainActivity"
+    },
+    {
+        "app_name": "Student.com",
+        "package_name": "com.student.mobileapp",
+        "file_name": "com.student.mobileapp_27.apk",
+        "app_activity": "com.student.mobileapp.MainActivity"
+    },
+    {
+        "app_name": "Vprice我行我宿",
+        "package_name": "com.viviyoo.xxlive",
+        "file_name": "com.viviyoo.xxlive_28.apk",
+        "app_activity": "com.viviyoo.xxlive.aui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "探索雅星会",
+        "package_name": "com.theascott.asr",
+        "file_name": "com.theascott.asr_29.apk",
+        "app_activity": "crc640c822547f8a3cb23.SplashScreenActivity"
+    },
+    {
+        "app_name": "HoTel酒店客房智能电话",
+        "package_name": "com.tric.hotel",
+        "file_name": "com.tric.hotel_30.apk",
+        "app_activity": "com.tric.hotel.activity.SplashActivity"
+    },
+    {
+        "app_name": "马腿旅行",
+        "package_name": "com.tonglubao.matuitrip",
+        "file_name": "com.tonglubao.matuitrip_31.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "百驴旅游",
+        "package_name": "com.bailv.zhongben",
+        "file_name": "com.bailv.zhongben_32.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "HRS商旅",
+        "package_name": "com.hrs.cn.android",
+        "file_name": "com.hrs.cn.android_33.apk",
+        "app_activity": "com.hrs.android.home.SideMenuActivity"
+    },
+    {
+        "app_name": "礼住",
+        "package_name": "com.jyinns.hotel.view",
+        "file_name": "com.jyinns.hotel.view_34.apk",
+        "app_activity": "com.jyinns.hotel.view.MainActivity"
+    },
+    {
+        "app_name": "优卧YOWO",
+        "package_name": "uni.UNI1521AD6",
+        "file_name": "uni.UNI1521AD6_35.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "同程酒店商家",
+        "package_name": "com.elong.merchant",
+        "file_name": "com.elong.merchant_36.apk",
+        "app_activity": "com.elong.merchant.funtion.home.ui.FlutterHomeActivity"
+    },
+    {
+        "app_name": "周末酒店",
+        "package_name": "com.zmjiudian.whotel",
+        "file_name": "com.zmjiudian.whotel_37.apk",
+        "app_activity": "com.zmjiudian.whotel.view.MainActivity"
+    },
+    {
+        "app_name": "凯莱集团酒店预订平台",
+        "package_name": "com.gloria.kl",
+        "file_name": "com.gloria.kl_38.apk",
+        "app_activity": "com.gloria.kl.SplashActivity"
+    },
+    {
+        "app_name": "MOMO酒店服务管家",
+        "package_name": "com.mszt.momo_app",
+        "file_name": "com.mszt.momo_app_39.apk",
+        "app_activity": "com.example.momo_app.MainActivity"
+    },
+    {
+        "app_name": "豫行易途",
+        "package_name": "com.zzrb.fuxishanapp",
+        "file_name": "com.zzrb.fuxishanapp_40.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "木鸟民宿",
+        "package_name": "com.ysy.ayy",
+        "file_name": "com.ysy.ayy_41.apk",
+        "app_activity": "com.ysy.ayy.fk.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "途家民宿",
+        "package_name": "com.tujia.hotel",
+        "file_name": "com.tujia.hotel_42.apk",
+        "app_activity": "com.tujia.hotel.main.StartActivity"
+    },
+    {
+        "app_name": "沃德阿拉丁",
+        "package_name": "cn.iald.hotel.union",
+        "file_name": "cn.iald.hotel.union_43.apk",
+        "app_activity": "cn.aldtech.ota.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "汉爵促销宝",
+        "package_name": "com.cisetech.cxb",
+        "file_name": "com.cisetech.cxb_44.apk",
+        "app_activity": "com.cisetech.cxb.page.SplashActivity"
+    },
+    {
+        "app_name": "华人易居",
+        "package_name": "com.hrrzf.activity",
+        "file_name": "com.hrrzf.activity_45.apk",
+        "app_activity": "com.hrrzf.activity.start.LaunchActivity"
+    },
+    {
+        "app_name": "趣出差",
+        "package_name": "cn.chuchai.app",
+        "file_name": "cn.chuchai.app_46.apk",
+        "app_activity": "cn.chuchai.app.activity.SplashActivity"
+    },
+    {
+        "app_name": "飞猪酒店商家",
+        "package_name": "com.taobao.trip.merchant",
+        "file_name": "com.taobao.trip.merchant_47.apk",
+        "app_activity": "fliggyx.android.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "亚朵",
+        "package_name": "com.atour.atourlife",
+        "file_name": "com.atour.atourlife_48.apk",
+        "app_activity": "com.atour.atourlife.activity.LaunchActivity"
+    },
+    {
+        "app_name": "海房管家",
+        "package_name": "lt.HouseKeeperApp",
+        "file_name": "lt.HouseKeeperApp_49.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "同城伯乐",
+        "package_name": "tcbl.apk",
+        "file_name": "tcbl.apk_50.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "Airbnb",
+        "package_name": "com.airbnb.android",
+        "file_name": "com.airbnb.android_51.apk",
+        "app_activity": "com.airbnb.android.feat.chinahomescreen.activity.ChinaLauncherActivity"
+    },
+    {
+        "app_name": "千千房东助手",
+        "package_name": "com.qihang.qqfangdong",
+        "file_name": "com.qihang.qqfangdong_52.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "华住会",
+        "package_name": "com.htinns",
+        "file_name": "com.htinns_53.apk",
+        "app_activity": "com.huazhu.loading.LoadingActivity"
+    },
+    {
+        "app_name": "云掌柜",
+        "package_name": "com.inn",
+        "file_name": "com.inn_54.apk",
+        "app_activity": "com.inn.nfunc.ui.SplashActivity"
+    },
+    {
+        "app_name": "地球仓",
+        "package_name": "com.earthhouse.chengduteam",
+        "file_name": "com.earthhouse.chengduteam_55.apk",
+        "app_activity": "com.earthhouse.chengduteam.base.start.StartActivity"
+    },
+    {
+        "app_name": "城家公寓",
+        "package_name": "com.cjia.tenement",
+        "file_name": "com.cjia.tenement_56.apk",
+        "app_activity": "com.cjia.tenement.controller.SplashActivity"
+    },
+    {
+        "app_name": "美团酒店商家",
+        "package_name": "com.sankuai.mhotel",
+        "file_name": "com.sankuai.mhotel_57.apk",
+        "app_activity": "com.sankuai.mhotel.biz.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "锦江荟",
+        "package_name": "com.plateno.botaoota",
+        "file_name": "com.plateno.botaoota_58.apk",
+        "app_activity": "com.wehotel.app.ui.WhProtocolActivity"
+    },
+    {
+        "app_name": "格林",
+        "package_name": "com.greentree.android",
+        "file_name": "com.greentree.android_59.apk",
+        "app_activity": "com.greentree.android.ui.activity.GuideActivity"
+    },
+    {
+        "app_name": "滴个房",
+        "package_name": "com.weifangzaixian.hzalbbyxgs",
+        "file_name": "com.weifangzaixian.hzalbbyxgs_60.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "乡下屋",
+        "package_name": "com.change.lly",
+        "file_name": "com.change.lly_61.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "都市酒店",
+        "package_name": "com.dushi118.app",
+        "file_name": "com.dushi118.app_63.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "东南公寓伙伴",
+        "package_name": "siglife.com.dongnan.sigguanjia",
+        "file_name": "siglife.com.dongnan.sigguanjia_64.apk",
+        "app_activity": "siglife.com.sighome.sigguanjia.privacy.PrivacyOnePageActivity"
+    },
+    {
+        "app_name": "金时房客",
+        "package_name": "com.scjswk.jsfk",
+        "file_name": "com.scjswk.jsfk_65.apk",
+        "app_activity": "com.scjswk.jsfk.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "心里美",
+        "package_name": "cn.com.ethank.mobilehotel",
+        "file_name": "cn.com.ethank.mobilehotel_66.apk",
+        "app_activity": "cn.com.ethank.mobilehotel.startup.LoadingActivity"
+    },
+    {
+        "app_name": "花筑旅行",
+        "package_name": "com.lvyuetravel.huazhu.client",
+        "file_name": "com.lvyuetravel.huazhu.client_67.apk",
+        "app_activity": "com.lvyuetravel.module.app.SplashActivity"
+    },
+    {
+        "app_name": "腾宇慧住",
+        "package_name": "com.cnaiiot.app",
+        "file_name": "com.cnaiiot.app_68.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "凯撒商旅",
+        "package_name": "com.lcworld.kaisa",
+        "file_name": "com.lcworld.kaisa_69.apk",
+        "app_activity": "com.openet.hb.view.Loading"
+    },
+    {
+        "app_name": "到家旅居",
+        "package_name": "com.daojia.daojialvju",
+        "file_name": "com.daojia.daojialvju_70.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "阿里商旅",
+        "package_name": "com.taobao.btrip",
+        "file_name": "com.taobao.btrip_71.apk",
+        "app_activity": "fliggyx.android.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "速8酒店",
+        "package_name": "com.super8.android",
+        "file_name": "com.super8.android_72.apk",
+        "app_activity": "com.super8.android.mvp.ui.activity.GuidAdActivity"
+    },
+    {
+        "app_name": "携程eBooking",
+        "package_name": "com.Hotel.EBooking",
+        "file_name": "com.Hotel.EBooking_73.apk",
+        "app_activity": "com.ctrip.ebooking.aphone.LauncherActivity"
+    },
+    {
+        "app_name": "万澳会",
+        "package_name": "uni.UNI85B6D57",
+        "file_name": "uni.UNI85B6D57_74.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    }
+]

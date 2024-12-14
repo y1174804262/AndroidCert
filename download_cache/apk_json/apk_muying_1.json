@@ -1,0 +1,632 @@
+[
+    {
+        "app_name": "喜迎宝",
+        "package_name": "com.company.xyb",
+        "file_name": "com.company.xyb_1.apk",
+        "app_activity": "com.xmiles.game.commongamenew.activity.TransferActivity"
+    },
+    {
+        "app_name": "母子手册医生",
+        "package_name": "cn.com.hele.babytalk.doctor",
+        "file_name": "cn.com.hele.babytalk.doctor_2.apk",
+        "app_activity": "cn.com.hele.babytalk.doctor.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "萌宝贝",
+        "package_name": "com.qimengbaobao.bb",
+        "file_name": "com.qimengbaobao.bb_3.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "宝宝成长记",
+        "package_name": "com.upmemo.babydiary",
+        "file_name": "com.upmemo.babydiary_4.apk",
+        "app_activity": "com.upmemo.babydiary.controller.SplashActivity"
+    },
+    {
+        "app_name": "小豆苗医生端",
+        "package_name": "com.threegene.doctor",
+        "file_name": "com.threegene.doctor_5.apk",
+        "app_activity": "com.threegene.doctor.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "医家易云",
+        "package_name": "com.hbty.yjk.doctor",
+        "file_name": "com.hbty.yjk.doctor_6.apk",
+        "app_activity": "com.hbty.yjk.doctor.InitActivity"
+    },
+    {
+        "app_name": "儿童益智思维启蒙",
+        "package_name": "com.ertong.puzzlepark",
+        "file_name": "com.ertong.puzzlepark_7.apk",
+        "app_activity": "com.ertong.puzzlepark.UnityPlayerActivity"
+    },
+    {
+        "app_name": "PigeonSwitch",
+        "package_name": "com.pigeon.app.swtch.cn",
+        "file_name": "com.pigeon.app.swtch.cn_8.apk",
+        "app_activity": "com.pigeon.app.swtch.activity.main.IntroActivity"
+    },
+    {
+        "app_name": "Little Panda Restaurant",
+        "package_name": "com.sinyee.babybus.restaurant",
+        "file_name": "com.sinyee.babybus.restaurant_9.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "母子健康手册",
+        "package_name": "cn.com.hele.babytalk.patient",
+        "file_name": "cn.com.hele.babytalk.patient_10.apk",
+        "app_activity": "com.taopao.modulemain.main.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "好女人",
+        "package_name": "com.zzcy.xinaiqi",
+        "file_name": "com.zzcy.xinaiqi_11.apk",
+        "app_activity": "com.zzcy.xinaiqi.ui.login.StartActivity"
+    },
+    {
+        "app_name": "快成长之树",
+        "package_name": "com.uhgniak.uzesach.hgncih",
+        "file_name": "com.uhgniak.uzesach.hgncih_12.apk",
+        "app_activity": "tai.mengzhu.circle.activty.StartActivity"
+    },
+    {
+        "app_name": "宝宝记",
+        "package_name": "com.lingan.yunqi",
+        "file_name": "com.lingan.yunqi_13.apk",
+        "app_activity": "com.meiyou.pregnancy.ui.main.MainActivity"
+    },
+    {
+        "app_name": "培声培伴",
+        "package_name": "com.bethel.BethelParent",
+        "file_name": "com.bethel.BethelParent_14.apk",
+        "app_activity": "com.bethel.BethelParent.MainActivity"
+    },
+    {
+        "app_name": "早教启蒙",
+        "package_name": "com.yunchuan.babyenlightenment",
+        "file_name": "com.yunchuan.babyenlightenment_15.apk",
+        "app_activity": "com.yunchuan.babyenlightenment.ui.SplashQmActivity"
+    },
+    {
+        "app_name": "托育到家",
+        "package_name": "com.kasca.parentsapp",
+        "file_name": "com.kasca.parentsapp_16.apk",
+        "app_activity": "com.kasca.parentsapp.MainActivity"
+    },
+    {
+        "app_name": "口袋宝宝",
+        "package_name": "com.baoyun.babycloud",
+        "file_name": "com.baoyun.babycloud_17.apk",
+        "app_activity": "com.babycloud.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "宝宝云",
+        "package_name": "io.dcloud.H5999961F",
+        "file_name": "io.dcloud.H5999961F_18.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "云上起名",
+        "package_name": "com.cloud.makename",
+        "file_name": "com.cloud.makename_19.apk",
+        "app_activity": "com.cloud.makename.activity.SplashActivity"
+    },
+    {
+        "app_name": "宝宝网家长版",
+        "package_name": "com.jxmfkj.sbaby.parent",
+        "file_name": "com.jxmfkj.sbaby.parent_20.apk",
+        "app_activity": "com.jxmfkj.sbaby.start.StartActivity"
+    },
+    {
+        "app_name": "元贝贝",
+        "package_name": "com.jxybbkj.flutter_app",
+        "file_name": "com.jxybbkj.flutter_app_21.apk",
+        "app_activity": "jxybbkj.flutter_app.app.SplashActivity"
+    },
+    {
+        "app_name": "Baby Food Cooking",
+        "package_name": "cn.appfly.childfood",
+        "file_name": "cn.appfly.childfood_22.apk",
+        "app_activity": "cn.appfly.childfood.ui.SplashActivity"
+    },
+    {
+        "app_name": "合家欢少儿智能家",
+        "package_name": "com.hxrainbow.happyfamilyphone",
+        "file_name": "com.hxrainbow.happyfamilyphone_23.apk",
+        "app_activity": "com.hxrainbow.happyfamilyphone.ui.SplashActivity"
+    },
+    {
+        "app_name": "孕健康",
+        "package_name": "com.hbty.yjk.people",
+        "file_name": "com.hbty.yjk.people_24.apk",
+        "app_activity": "com.hbty.yjk.people.SplashActivity"
+    },
+    {
+        "app_name": "茁羽育儿日记",
+        "package_name": "com.softelectric.feedmonitor",
+        "file_name": "com.softelectric.feedmonitor_25.apk",
+        "app_activity": "com.feedmonitor.MainActivity"
+    },
+    {
+        "app_name": "宝宝便意记录",
+        "package_name": "com.dear.deer.recorder.baby",
+        "file_name": "com.dear.deer.recorder.baby_26.apk",
+        "app_activity": "com.dear.deer.recorder.baby.activity.SplashActivity"
+    },
+    {
+        "app_name": "婴儿宝宝生活喂养记录",
+        "package_name": "com.cn.shuangzi.baby",
+        "file_name": "com.cn.shuangzi.baby_27.apk",
+        "app_activity": "com.cn.shuangzi.baby.activity.SplashActivity"
+    },
+    {
+        "app_name": "凯叔讲故事",
+        "package_name": "com.ks.kaishustory",
+        "file_name": "com.ks.kaishustory_28.apk",
+        "app_activity": "com.ks.kaishustory.view.AppMainActivity"
+    },
+    {
+        "app_name": "妈妈来了",
+        "package_name": "com.mm.babysitter",
+        "file_name": "com.mm.babysitter_29.apk",
+        "app_activity": "com.mm.babysitter.ui.MainActivity"
+    },
+    {
+        "app_name": "亲宝宝",
+        "package_name": "com.dw.btime",
+        "file_name": "com.dw.btime_30.apk",
+        "app_activity": "com.dw.btime.Launcher"
+    },
+    {
+        "app_name": "宝宝树孕育",
+        "package_name": "com.babytree.apps.pregnancy",
+        "file_name": "com.babytree.apps.pregnancy_31.apk",
+        "app_activity": "com.babytree.apps.pregnancy.MainActivity"
+    },
+    {
+        "app_name": "宝宝不哭",
+        "package_name": "com.abbay.koubu.ou",
+        "file_name": "com.abbay.koubu.ou_32.apk",
+        "app_activity": "tai.mengzhu.circle.activty.StartActivity"
+    },
+    {
+        "app_name": "孕期胎动计数器",
+        "package_name": "com.sfsm.unisdk.quickening",
+        "file_name": "com.sfsm.unisdk.quickening_33.apk",
+        "app_activity": "projectdemo.smsf.com.projecttemplate.MainUniActivity"
+    },
+    {
+        "app_name": "宝宝起名取名神器",
+        "package_name": "com.nnyzkj.qiming",
+        "file_name": "com.nnyzkj.qiming_34.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "如意宝宝起名取名",
+        "package_name": "net.zxfqimingjieming.android",
+        "file_name": "net.zxfqimingjieming.android_35.apk",
+        "app_activity": "com.wintegrity.listfate.base.activity.StartActivity"
+    },
+    {
+        "app_name": "孕妇瑜伽",
+        "package_name": "com.yuja.yunmama",
+        "file_name": "com.yuja.yunmama_36.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "孕期营养师",
+        "package_name": "com.yunqi.food",
+        "file_name": "com.yunqi.food_37.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "高小鹿身高簿",
+        "package_name": "uni.UNI4A0C28A",
+        "file_name": "uni.UNI4A0C28A_38.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "KIDIKISS",
+        "package_name": "com.nt.kidikiss",
+        "file_name": "com.nt.kidikiss_39.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "母婴智控中心",
+        "package_name": "com.gazecloud.etzy",
+        "file_name": "com.gazecloud.etzy_40.apk",
+        "app_activity": "com.gazecloud.etzy.StartActivity"
+    },
+    {
+        "app_name": "宝宝辅食食谱大全",
+        "package_name": "me.hibb.recipebaby.android",
+        "file_name": "me.hibb.recipebaby.android_41.apk",
+        "app_activity": "mybaby.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "伴孕管家",
+        "package_name": "com.haiwang.taixinyi",
+        "file_name": "com.haiwang.taixinyi_42.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "逻辑狗",
+        "package_name": "com.zaojiao.app",
+        "file_name": "com.zaojiao.app_43.apk",
+        "app_activity": "com.example.luojigou_app.SplashActivity"
+    },
+    {
+        "app_name": "岁月印记",
+        "package_name": "com.delugavid.excavat",
+        "file_name": "com.delugavid.excavat_44.apk",
+        "app_activity": "com.air.stepaward.module.lauch.LaunchActivity"
+    },
+    {
+        "app_name": "亲子周末",
+        "package_name": "com.ci123.babyweekend",
+        "file_name": "com.ci123.babyweekend_45.apk",
+        "app_activity": "com.ci123.babyweekend.SplashActivity"
+    },
+    {
+        "app_name": "憨妈妈",
+        "package_name": "com.health.client",
+        "file_name": "com.health.client_46.apk",
+        "app_activity": "com.health.client.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "Babybubble",
+        "package_name": "com.erxiangbo.app.android",
+        "file_name": "com.erxiangbo.app.android_47.apk",
+        "app_activity": "com.erxiangbo.app.android.home.SplashActivity"
+    },
+    {
+        "app_name": "小鹿娃",
+        "package_name": "com.xiaoluwa.ruika",
+        "file_name": "com.xiaoluwa.ruika_48.apk",
+        "app_activity": "com.ruika.rkhomen.ui.GuideFirstActivity"
+    },
+    {
+        "app_name": "奇妙寓言世界",
+        "package_name": "cn.yoyohn.fablestory",
+        "file_name": "cn.yoyohn.fablestory_49.apk",
+        "app_activity": "com.geetol.talens.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "巧虎官方",
+        "package_name": "com.qh.tesla",
+        "file_name": "com.qh.tesla_50.apk",
+        "app_activity": "com.qh.tesla.splash.SplashActivity"
+    },
+    {
+        "app_name": "衍心宝宝起名取名字",
+        "package_name": "com.jiaming.yanxin",
+        "file_name": "com.jiaming.yanxin_51.apk",
+        "app_activity": "com.jiaming.yanxin.controllers.activitys.LaunchActivity"
+    },
+    {
+        "app_name": "人人小宝",
+        "package_name": "com.renren.baby",
+        "file_name": "com.renren.baby_52.apk",
+        "app_activity": "com.example.shell5app.business.main.SplashActivity"
+    },
+    {
+        "app_name": "育儿宝宝相册",
+        "package_name": "com.dadawh.baby",
+        "file_name": "com.dadawh.baby_53.apk",
+        "app_activity": "com.dadawh.baby.ui.common.LunchActivity"
+    },
+    {
+        "app_name": "宝宝生活记录",
+        "package_name": "com.bluemobile.flutterbabylife",
+        "file_name": "com.bluemobile.flutterbabylife_54.apk",
+        "app_activity": "com.bluemobile.flutterbabylife.SplashActivity"
+    },
+    {
+        "app_name": "孕妇妈妈和双胞胎新生宝贝护理",
+        "package_name": "com.bigruby.Pregnanttwinsnewborncare",
+        "file_name": "com.bigruby.Pregnanttwinsnewborncare_55.apk",
+        "app_activity": "org.cocos2dx.javascript.AppActivity"
+    },
+    {
+        "app_name": "JoJo英语启蒙",
+        "package_name": "com.jojo.qmyy",
+        "file_name": "com.jojo.qmyy_56.apk",
+        "app_activity": "com.sinyee.babybus.qmyy.course.ui.LaunchActivity"
+    },
+    {
+        "app_name": "西安母子手册",
+        "package_name": "com.app.fuyou",
+        "file_name": "com.app.fuyou_57.apk",
+        "app_activity": "com.app.fuyou.MainActivity"
+    },
+    {
+        "app_name": "孕小帮",
+        "package_name": "com.jmbon.android",
+        "file_name": "com.jmbon.android_58.apk",
+        "app_activity": "com.jmbon.android.view.WelcomeActivity"
+    },
+    {
+        "app_name": "网易亲时光",
+        "package_name": "com.netease.qin",
+        "file_name": "com.netease.qin_59.apk",
+        "app_activity": "com.netease.boo.ui.SplashActivity"
+    },
+    {
+        "app_name": "哇宝贝",
+        "package_name": "com.etonkids.wonderbox",
+        "file_name": "com.etonkids.wonderbox_60.apk",
+        "app_activity": "com.etonkids.wonderbox.view.activity.LaunchActivity"
+    },
+    {
+        "app_name": "年糕妈妈",
+        "package_name": "com.nicomama.niangaomama",
+        "file_name": "com.nicomama.niangaomama_61.apk",
+        "app_activity": "com.nicomama.niangaomama.splash.view.SplashActivity"
+    },
+    {
+        "app_name": "趣小伴",
+        "package_name": "qxiaoban.cn",
+        "file_name": "qxiaoban.cn_62.apk",
+        "app_activity": "qxiaoban.cn.MainActivity"
+    },
+    {
+        "app_name": "会夸",
+        "package_name": "com.xuanyun.huikua",
+        "file_name": "com.xuanyun.huikua_63.apk",
+        "app_activity": "com.xuanyun.huikua.MainActivity"
+    },
+    {
+        "app_name": "花生宝宝",
+        "package_name": "com.coredancer.huasheng",
+        "file_name": "com.coredancer.huasheng_64.apk",
+        "app_activity": "com.coredancer.huasheng.MainActivity"
+    },
+    {
+        "app_name": "光佑健康",
+        "package_name": "com.guangyou.health",
+        "file_name": "com.guangyou.health_65.apk",
+        "app_activity": "com.guangyou.health.modules.splash.SplashActivity"
+    },
+    {
+        "app_name": "MY生长曲线",
+        "package_name": "com.babybath2",
+        "file_name": "com.babybath2_66.apk",
+        "app_activity": "com.babybath2.module.first.BootPageActivity"
+    },
+    {
+        "app_name": "宝宝起名取名",
+        "package_name": "com.jakj.naming",
+        "file_name": "com.jakj.naming_67.apk",
+        "app_activity": "com.jakj.naming.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "coolbaby",
+        "package_name": "kudouding.com",
+        "file_name": "kudouding.com_68.apk",
+        "app_activity": "com.smart.ThingSplashActivity"
+    },
+    {
+        "app_name": "Little Gourmet",
+        "package_name": "com.sinyee.babybus.foodstreet",
+        "file_name": "com.sinyee.babybus.foodstreet_69.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "妈妈网轻聊",
+        "package_name": "cn.mama.activity",
+        "file_name": "cn.mama.activity_70.apk",
+        "app_activity": "cn.mama.activity.Launch"
+    },
+    {
+        "app_name": "宝宝生活成长记",
+        "package_name": "com.showhappy.babytracker",
+        "file_name": "com.showhappy.babytracker_71.apk",
+        "app_activity": "com.cody.supads.activity.StartActivity"
+    },
+    {
+        "app_name": "广州妈妈网",
+        "package_name": "com.gzmama.activity",
+        "file_name": "com.gzmama.activity_72.apk",
+        "app_activity": "cn.mama.cityquan.activity.SplashActivity"
+    },
+    {
+        "app_name": "好奇绘本",
+        "package_name": "com.keepcuriosity.kids",
+        "file_name": "com.keepcuriosity.kids_73.apk",
+        "app_activity": "com.keepcuriosity.kids.MainActivity"
+    },
+    {
+        "app_name": "宝宝小时光记录",
+        "package_name": "com.sfsm.unisdk.bbrecordapp",
+        "file_name": "com.sfsm.unisdk.bbrecordapp_74.apk",
+        "app_activity": "projectdemo.smsf.com.projecttemplate.MainUniActivity"
+    },
+    {
+        "app_name": "小宝记录",
+        "package_name": "com.sample.xbvideo",
+        "file_name": "com.sample.xbvideo_75.apk",
+        "app_activity": "com.example.shell2app.splash.MySplashActivity"
+    },
+    {
+        "app_name": "悦儿",
+        "package_name": "com.umiao.childhealth.yueer",
+        "file_name": "com.umiao.childhealth.yueer_76.apk",
+        "app_activity": "com.umiao.childhealth.gd.MainActivity"
+    },
+    {
+        "app_name": "国学起名",
+        "package_name": "com.go.good.newname",
+        "file_name": "com.go.good.newname_77.apk",
+        "app_activity": "com.go.good.newname.SplashActivity"
+    },
+    {
+        "app_name": "ebemate",
+        "package_name": "com.abellstar.ebemate",
+        "file_name": "com.abellstar.ebemate_78.apk",
+        "app_activity": "com.abellstar.ebematehome.view.activity.StartUpActivity"
+    },
+    {
+        "app_name": "妈妈网孕育",
+        "package_name": "cn.mama.pregnant",
+        "file_name": "cn.mama.pregnant_79.apk",
+        "app_activity": "cn.mama.pregnant.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "BOLOLO喂养家",
+        "package_name": "com.bololo.app2",
+        "file_name": "com.bololo.app2_80.apk",
+        "app_activity": "com.gizwits.MainActivity"
+    },
+    {
+        "app_name": "婴语翻译器",
+        "package_name": "com.ba.fyqq",
+        "file_name": "com.ba.fyqq_81.apk",
+        "app_activity": "com.fenghuajueli.module_host.LauncherActivity"
+    },
+    {
+        "app_name": "胎教精灵",
+        "package_name": "net.joydao.baby",
+        "file_name": "net.joydao.baby_82.apk",
+        "app_activity": "net.joydao.baby.activity.LoadingActivity"
+    },
+    {
+        "app_name": "月子食谱怀孕育儿",
+        "package_name": "com.jiankian.yuezibaojian",
+        "file_name": "com.jiankian.yuezibaojian_83.apk",
+        "app_activity": "com.jiankian.yuezibaojian.NameActivity"
+    },
+    {
+        "app_name": "babyfirst",
+        "package_name": "com.cnwinwin.seats",
+        "file_name": "com.cnwinwin.seats_84.apk",
+        "app_activity": "com.cnwinwin.seats.ui.guide.SplashActivity"
+    },
+    {
+        "app_name": "疯狂造人",
+        "package_name": "com.bozhong.crazy",
+        "file_name": "com.bozhong.crazy_85.apk",
+        "app_activity": "com.bozhong.crazy.ui.other.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "慧安睡",
+        "package_name": "huianshui.android.com.huianshui",
+        "file_name": "huianshui.android.com.huianshui_86.apk",
+        "app_activity": "huianshui.android.com.huianshui.sec2th.MainNewActivity"
+    },
+    {
+        "app_name": "Hi BOBO",
+        "package_name": "com.kidsplus.bobo",
+        "file_name": "com.kidsplus.bobo_87.apk",
+        "app_activity": "com.kidsplus.bobo.SplashActivity"
+    },
+    {
+        "app_name": "妈妈怀孕到新生儿诞生故事",
+        "package_name": "com.hello.MyNewbornBirthIAmGoingToBeAMother.huawei",
+        "file_name": "com.hello.MyNewbornBirthIAmGoingToBeAMother.huawei_88.apk",
+        "app_activity": "org.cocos2dx.cpp.AppActivity"
+    },
+    {
+        "app_name": "儿童英语故事",
+        "package_name": "com.ertong.puzzleenglish",
+        "file_name": "com.ertong.puzzleenglish_89.apk",
+        "app_activity": "com.ertong.puzzleenglish.UnityPlayerActivity"
+    },
+    {
+        "app_name": "智能米卡",
+        "package_name": "com.babytree.apps.mikapad",
+        "file_name": "com.babytree.apps.mikapad_90.apk",
+        "app_activity": "com.babytree.apps.mika.page.SplashActivity"
+    },
+    {
+        "app_name": "宝宝喂养记录",
+        "package_name": "com.cn.xiangmaikeji.baby",
+        "file_name": "com.cn.xiangmaikeji.baby_91.apk",
+        "app_activity": "com.cn.xiangmaikeji.baby.activity.SplashActivity"
+    },
+    {
+        "app_name": "怀孕管家",
+        "package_name": "com.ld.life",
+        "file_name": "com.ld.life_92.apk",
+        "app_activity": "com.ld.life.ui.StartActivity"
+    },
+    {
+        "app_name": "宝宝管家",
+        "package_name": "com.gjmm.parent",
+        "file_name": "com.gjmm.parent_93.apk",
+        "app_activity": "com.gjmm.parent.module.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "恐龙拼图",
+        "package_name": "com.baixing.konglongpintu",
+        "file_name": "com.baixing.konglongpintu_94.apk",
+        "app_activity": "com.baixing.konglongpintu.model.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "ZERO SIX",
+        "package_name": "com.wo2n.zerosix",
+        "file_name": "com.wo2n.zerosix_95.apk",
+        "app_activity": "com.activity.base.WelcomeActivity"
+    },
+    {
+        "app_name": "育学园",
+        "package_name": "com.drcuiyutao.babyhealth",
+        "file_name": "com.drcuiyutao.babyhealth_96.apk",
+        "app_activity": "com.drcuiyutao.babyhealth.SplashActivity"
+    },
+    {
+        "app_name": "宝宝孕育佑儿宝典",
+        "package_name": "com.nyhx.babypregnant",
+        "file_name": "com.nyhx.babypregnant_97.apk",
+        "app_activity": "com.tm.babykeep.WelcomeActivity"
+    },
+    {
+        "app_name": "丁香妈妈",
+        "package_name": "com.dxy.gaia",
+        "file_name": "com.dxy.gaia_98.apk",
+        "app_activity": "com.dxy.gaia.StartupActivity"
+    },
+    {
+        "app_name": "Tadpoles Mommy",
+        "package_name": "com.sinyee.babybus.tadpole",
+        "file_name": "com.sinyee.babybus.tadpole_99.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "悦母婴护理师",
+        "package_name": "com.babysky.matron",
+        "file_name": "com.babysky.matron_100.apk",
+        "app_activity": "com.babysky.matron.ui.common.SplashActivity"
+    },
+    {
+        "app_name": "预产期计算器",
+        "package_name": "com.iujyh.caisn.anuq",
+        "file_name": "com.iujyh.caisn.anuq_101.apk",
+        "app_activity": "tai.mengzhu.circle.activty.StartActivity"
+    },
+    {
+        "app_name": "Pregnancy Tracker",
+        "package_name": "com.ci123.pregnancy",
+        "file_name": "com.ci123.pregnancy_102.apk",
+        "app_activity": "com.ci123.pregnancy.Splash"
+    },
+    {
+        "app_name": "Musician",
+        "package_name": "com.sinyee.babybus.songIV",
+        "file_name": "com.sinyee.babybus.songIV_103.apk",
+        "app_activity": "com.sinyee.babybus.SplashAct"
+    },
+    {
+        "app_name": "象曰",
+        "package_name": "com.guoxue.xy.app",
+        "file_name": "com.guoxue.xy.app_104.apk",
+        "app_activity": "com.guoxue.xy.app.MainActivity"
+    },
+    {
+        "app_name": "宝宝树小时光",
+        "package_name": "com.babytree.apps.lama",
+        "file_name": "com.babytree.apps.lama_105.apk",
+        "app_activity": "com.babytree.apps.page.splash.WelcomeActivity"
+    }
+]

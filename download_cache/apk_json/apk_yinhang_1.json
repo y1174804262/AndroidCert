@@ -1,0 +1,3059 @@
+[
+    {
+        "app_name": "掌上京彩",
+        "package_name": "com.csii.bj.ui",
+        "file_name": "com.csii.bj.ui_1.apk",
+        "app_activity": "com.csii.bj.ui.launcherlibrary.app.activity.SplashActivity"
+    },
+    {
+        "app_name": "紫金农商银行",
+        "package_name": "com.csii.zijin",
+        "file_name": "com.csii.zijin_2.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "安徽农金",
+        "package_name": "com.ahrcu.mobilebank",
+        "file_name": "com.ahrcu.mobilebank_3.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "陕西信合",
+        "package_name": "com.sxnxs.mbank",
+        "file_name": "com.sxnxs.mbank_4.apk",
+        "app_activity": "com.yitong.mbank.app.android.activity.SplashActivity"
+    },
+    {
+        "app_name": "山东农信企业版",
+        "package_name": "com.android.clock.sd.ent",
+        "file_name": "com.android.clock.sd.ent_5.apk",
+        "app_activity": "com.android.clock.sd.ent.activty.IndexActivity"
+    },
+    {
+        "app_name": "微众银行",
+        "package_name": "com.webank.wemoney",
+        "file_name": "com.webank.wemoney_6.apk",
+        "app_activity": "com.webank.wemoney.LauncherActivity"
+    },
+    {
+        "app_name": "上海银行",
+        "package_name": "cn.com.shbank.mper",
+        "file_name": "cn.com.shbank.mper_7.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.splash.Splashactivity"
+    },
+    {
+        "app_name": "广银信用卡",
+        "package_name": "cn.com.gzbank.mbank",
+        "file_name": "cn.com.gzbank.mbank_8.apk",
+        "app_activity": "com.cupd.activity.MainActivity"
+    },
+    {
+        "app_name": "广州农商银行",
+        "package_name": "com.gzrcb.mobilebank",
+        "file_name": "com.gzrcb.mobilebank_9.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "郑州银行",
+        "package_name": "com.zzbank.pibp",
+        "file_name": "com.zzbank.pibp_10.apk",
+        "app_activity": "com.alipay.mobile.quinox.LauncherActivity"
+    },
+    {
+        "app_name": "重庆银行",
+        "package_name": "cn.com.cqb.mobilecqcbank.per",
+        "file_name": "cn.com.cqb.mobilecqcbank.per_11.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "西安银行",
+        "package_name": "com.yitong.xian.mbank",
+        "file_name": "com.yitong.xian.mbank_12.apk",
+        "app_activity": "com.yitong.mbank.app.android.activity.SplashActivity"
+    },
+    {
+        "app_name": "赣州银行",
+        "package_name": "com.csii.gzbank",
+        "file_name": "com.csii.gzbank_13.apk",
+        "app_activity": "com.csii.gzbank.SplashActivity"
+    },
+    {
+        "app_name": "丰收互联",
+        "package_name": "com.yitong.zjrc.mfs.android",
+        "file_name": "com.yitong.zjrc.mfs.android_14.apk",
+        "app_activity": "com.yitong.mbank.app.android.activity.SplashActivity"
+    },
+    {
+        "app_name": "晋商银行",
+        "package_name": "com.jshbank.enterprise",
+        "file_name": "com.jshbank.enterprise_15.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "四川农信企业手机银行",
+        "package_name": "com.scnx.entApp",
+        "file_name": "com.scnx.entApp_16.apk",
+        "app_activity": "com.sinosun.scnxbank.base.baseui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "东莞农商银行",
+        "package_name": "com.hundsun.mobile.hsbrowsertest",
+        "file_name": "com.hundsun.mobile.hsbrowsertest_17.apk",
+        "app_activity": "com.yitong.mpaas.mbank.launcher.agent.SplashLaunchActivity"
+    },
+    {
+        "app_name": "昆仑银行",
+        "package_name": "com.klb.bank",
+        "file_name": "com.klb.bank_18.apk",
+        "app_activity": "com.klb.bank.welcome.PrivatePolicyActivity"
+    },
+    {
+        "app_name": "邮储信用卡",
+        "package_name": "com.yitong.mbank.psbc.creditcard",
+        "file_name": "com.yitong.mbank.psbc.creditcard_19.apk",
+        "app_activity": "com.yitong.mbank.psbc.creditcard.launch.LaunchActivity"
+    },
+    {
+        "app_name": "唐山银行",
+        "package_name": "cn.com.sf.tsbank",
+        "file_name": "cn.com.sf.tsbank_20.apk",
+        "app_activity": "cn.com.sf.tsbank.activity.LauncherActivity"
+    },
+    {
+        "app_name": "中国农业银行",
+        "package_name": "com.android.bankabc",
+        "file_name": "com.android.bankabc_21.apk",
+        "app_activity": "com.alipay.mobile.quinox.LauncherActivity"
+    },
+    {
+        "app_name": "广发银行",
+        "package_name": "com.cgbchina.xpt",
+        "file_name": "com.cgbchina.xpt_22.apk",
+        "app_activity": "com.cgb.mobilebank.sit.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "宁夏银行",
+        "package_name": "com.csii.nxbank",
+        "file_name": "com.csii.nxbank_23.apk",
+        "app_activity": "com.csii.nxbank.NewDefaultActivity"
+    },
+    {
+        "app_name": "台州银行",
+        "package_name": "com.tzb.mobilehub",
+        "file_name": "com.tzb.mobilehub_24.apk",
+        "app_activity": "com.tzb.mobilehub.launcher.ui.activity.LunchActivity"
+    },
+    {
+        "app_name": "苏州银行",
+        "package_name": "com.yt.sz.szbank",
+        "file_name": "com.yt.sz.szbank_25.apk",
+        "app_activity": "com.yt.sz.szbank.newLaunch.NBSplashActivity"
+    },
+    {
+        "app_name": "甘肃银行",
+        "package_name": "com.yitong.gansu.mobilebank",
+        "file_name": "com.yitong.gansu.mobilebank_26.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "深圳农商银行",
+        "package_name": "com.csii.sns.ui",
+        "file_name": "com.csii.sns.ui_27.apk",
+        "app_activity": "com.szrcb.pmobile.android.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "百信银行",
+        "package_name": "com.baixin.mobilebank",
+        "file_name": "com.baixin.mobilebank_28.apk",
+        "app_activity": "com.baixin.mobilebank.SplashActivity"
+    },
+    {
+        "app_name": "山西银行",
+        "package_name": "com.shxibank.mobile",
+        "file_name": "com.shxibank.mobile_29.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "上海农商银行",
+        "package_name": "com.srcb.pmbank",
+        "file_name": "com.srcb.pmbank_30.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "工银融e联",
+        "package_name": "com.icbc.im",
+        "file_name": "com.icbc.im_31.apk",
+        "app_activity": "com.icbc.im.SplashActivity"
+    },
+    {
+        "app_name": "稠州银行",
+        "package_name": "com.czcb.mbank",
+        "file_name": "com.czcb.mbank_32.apk",
+        "app_activity": "com.alipay.mobile.quinox.LauncherActivity"
+    },
+    {
+        "app_name": "招商银行",
+        "package_name": "cmb.pb",
+        "file_name": "cmb.pb_33.apk",
+        "app_activity": "cmb.pb.app.mainframe.container.PBMainActivity"
+    },
+    {
+        "app_name": "HSBC China",
+        "package_name": "cn.com.hsbc.hsbcchina",
+        "file_name": "cn.com.hsbc.hsbcchina_34.apk",
+        "app_activity": "com.hsbc.mobilebanking.splash.SplashActivity"
+    },
+    {
+        "app_name": "北京农商银行",
+        "package_name": "cn.com.bjns.mbank",
+        "file_name": "cn.com.bjns.mbank_35.apk",
+        "app_activity": "com.csii.iap.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "上银美好生活",
+        "package_name": "cn.com.shbank.pension",
+        "file_name": "cn.com.shbank.pension_36.apk",
+        "app_activity": "com.alipay.mobile.quinox.LauncherActivity"
+    },
+    {
+        "app_name": "张家口银行",
+        "package_name": "com.zjkccb.mbank",
+        "file_name": "com.zjkccb.mbank_37.apk",
+        "app_activity": "com.zjkbank.mbp.StartPageActivity"
+    },
+    {
+        "app_name": "天府手机银行",
+        "package_name": "com.ionicframework.cgbank122507",
+        "file_name": "com.ionicframework.cgbank122507_38.apk",
+        "app_activity": "cn.tf.mobilebank.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "恒丰银行",
+        "package_name": "com.hfbank.mobile",
+        "file_name": "com.hfbank.mobile_39.apk",
+        "app_activity": "com.mobile.mbank.launcher.activity.SplashActivity"
+    },
+    {
+        "app_name": "黔农云",
+        "package_name": "csii.com.qny",
+        "file_name": "csii.com.qny_40.apk",
+        "app_activity": "csii.com.qny.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "交通银行",
+        "package_name": "com.bankcomm.Bankcomm",
+        "file_name": "com.bankcomm.Bankcomm_42.apk",
+        "app_activity": "com.bankcomm.module.biz.home.MainActivity"
+    },
+    {
+        "app_name": "工行企业手机银行",
+        "package_name": "com.icbc.wapc",
+        "file_name": "com.icbc.wapc_43.apk",
+        "app_activity": "com.icbc.activity.main.LoadingView"
+    },
+    {
+        "app_name": "四川银行",
+        "package_name": "com.yitong.mbank.pzh_ps",
+        "file_name": "com.yitong.mbank.pzh_ps_44.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "交行企业银行",
+        "package_name": "com.bankcomm.embs",
+        "file_name": "com.bankcomm.embs_45.apk",
+        "app_activity": "com.bankcomm.main.ConfigActivity"
+    },
+    {
+        "app_name": "中国银行",
+        "package_name": "com.chinamworld.bocmbci",
+        "file_name": "com.chinamworld.bocmbci_46.apk",
+        "app_activity": "com.boc.bocsoft.mobile.bocmobile.buss.system.splash.SplashActivity"
+    },
+    {
+        "app_name": "中原银行",
+        "package_name": "com.csii.zybk.ui",
+        "file_name": "com.csii.zybk.ui_47.apk",
+        "app_activity": "com.zybank.mobilebank.WelcomeActivity"
+    },
+    {
+        "app_name": "平安口袋银行",
+        "package_name": "com.pingan.paces.ccms",
+        "file_name": "com.pingan.paces.ccms_48.apk",
+        "app_activity": "com.pingan.pocketbank.splash.PALoadingActivity"
+    },
+    {
+        "app_name": "天津农商银行手机银行",
+        "package_name": "com.csii.tiannongshang.mobilebank",
+        "file_name": "com.csii.tiannongshang.mobilebank_49.apk",
+        "app_activity": "com.csii.tiannongshang.mobilebank.iap.iap.ui.SplashActivity"
+    },
+    {
+        "app_name": "新网银行",
+        "package_name": "com.xwbank.ebank",
+        "file_name": "com.xwbank.ebank_50.apk",
+        "app_activity": "com.xwbank.ebank.activity.SplashAct"
+    },
+    {
+        "app_name": "河北银行",
+        "package_name": "com.hebbank.mob",
+        "file_name": "com.hebbank.mob_51.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "工银兴农通",
+        "package_name": "com.icbc.rspbank",
+        "file_name": "com.icbc.rspbank_52.apk",
+        "app_activity": "com.icbc.activity.init.RSPLoadingActivity"
+    },
+    {
+        "app_name": "江南农商行",
+        "package_name": "com.csii.jiangnan",
+        "file_name": "com.csii.jiangnan_53.apk",
+        "app_activity": "com.csii.MainActivity"
+    },
+    {
+        "app_name": "青岛银行",
+        "package_name": "com.qdccb.bank",
+        "file_name": "com.qdccb.bank_54.apk",
+        "app_activity": "com.qdccb.qdbank.SplashActivity"
+    },
+    {
+        "app_name": "晋享生活",
+        "package_name": "com.ydnsh.buy.mobileBank",
+        "file_name": "com.ydnsh.buy.mobileBank_55.apk",
+        "app_activity": "com.ydnsh.base.PandoraEntryExtend"
+    },
+    {
+        "app_name": "贵州银行",
+        "package_name": "com.csii.guizhou",
+        "file_name": "com.csii.guizhou_56.apk",
+        "app_activity": "com.csii.guizhou.module.MainActivity"
+    },
+    {
+        "app_name": "黄河银行",
+        "package_name": "com.bank",
+        "file_name": "com.bank_57.apk",
+        "app_activity": "com.csii.iap.ui.startup.LauncherActivity"
+    },
+    {
+        "app_name": "中国工商银行",
+        "package_name": "com.icbc",
+        "file_name": "com.icbc_58.apk",
+        "app_activity": "com.icbc.activity.init.NewLoadingActivity"
+    },
+    {
+        "app_name": "汉口银行",
+        "package_name": "com.csii.hkb",
+        "file_name": "com.csii.hkb_59.apk",
+        "app_activity": "com.csii.hkb.MainActivity"
+    },
+    {
+        "app_name": "武汉农商银行",
+        "package_name": "com.whrcbank.mbank",
+        "file_name": "com.whrcbank.mbank_60.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "沧州银行",
+        "package_name": "com.cangzhou.bank",
+        "file_name": "com.cangzhou.bank_61.apk",
+        "app_activity": "com.cangzhou.bank.activity.LauncherActivity"
+    },
+    {
+        "app_name": "众邦银行",
+        "package_name": "com.csii.zbdirect",
+        "file_name": "com.csii.zbdirect_62.apk",
+        "app_activity": "com.csii.zbdirect.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "顺德农商银行",
+        "package_name": "com.ShundeRCB.mobilebank",
+        "file_name": "com.ShundeRCB.mobilebank_63.apk",
+        "app_activity": "com.ShundeRCB.mobilebank.SplashActivity"
+    },
+    {
+        "app_name": "青海农信",
+        "package_name": "com.qhrc.mbank",
+        "file_name": "com.qhrc.mbank_64.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "渤海银行",
+        "package_name": "cn.com.cbhb.mbank.per",
+        "file_name": "cn.com.cbhb.mbank.per_65.apk",
+        "app_activity": "cn.com.cbhb.mbank.per.activity.LauncherActivity"
+    },
+    {
+        "app_name": "浦发银行",
+        "package_name": "cn.com.spdb.mobilebank.per",
+        "file_name": "cn.com.spdb.mobilebank.per_66.apk",
+        "app_activity": "cn.com.spdb.mobilebank.per.activity.SplashActivity"
+    },
+    {
+        "app_name": "数字人民币",
+        "package_name": "cn.gov.pbc.dcep",
+        "file_name": "cn.gov.pbc.dcep_67.apk",
+        "app_activity": "cn.gov.pbc.dcep.DcepLauncherActivity"
+    },
+    {
+        "app_name": "浙商银行",
+        "package_name": "com.czbank.mbank",
+        "file_name": "com.czbank.mbank_68.apk",
+        "app_activity": "com.zsbank.emp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "天津银行",
+        "package_name": "com.csii.tianjin.mobilebank",
+        "file_name": "com.csii.tianjin.mobilebank_69.apk",
+        "app_activity": "com.csii.tianjin.mobilebank.SplashActivity2"
+    },
+    {
+        "app_name": "齐鲁银行",
+        "package_name": "com.iss.qilubank",
+        "file_name": "com.iss.qilubank_70.apk",
+        "app_activity": "com.sccba.emas.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "湖北银行",
+        "package_name": "cn.com.yusys.app.HuBeiBank",
+        "file_name": "cn.com.yusys.app.HuBeiBank_71.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "江西银行",
+        "package_name": "com.jxbank.mbank",
+        "file_name": "com.jxbank.mbank_72.apk",
+        "app_activity": "com.yitong.mbank.app.android.activity.SplashActivity"
+    },
+    {
+        "app_name": "广西北部湾银行",
+        "package_name": "com.yitong.bbw.mbank.android",
+        "file_name": "com.yitong.bbw.mbank.android_73.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "内蒙古银行",
+        "package_name": "com.sccba.neimgbank",
+        "file_name": "com.sccba.neimgbank_74.apk",
+        "app_activity": "com.sccba.emas.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "威海银行",
+        "package_name": "com.iss.weihaibank",
+        "file_name": "com.iss.weihaibank_75.apk",
+        "app_activity": "com.sccba.emas.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "新疆农信",
+        "package_name": "com.softbank.mbank.xjnx",
+        "file_name": "com.softbank.mbank.xjnx_76.apk",
+        "app_activity": "com.softbank.mbank.ui.home.WelcomeActivity"
+    },
+    {
+        "app_name": "招行企业银行",
+        "package_name": "com.cmb.ubank.UBUI",
+        "file_name": "com.cmb.ubank.UBUI_77.apk",
+        "app_activity": "com.cmb.ubank.ui.FBInitActivity"
+    },
+    {
+        "app_name": "北京银行",
+        "package_name": "com.bankofbeijing.mobilebanking",
+        "file_name": "com.bankofbeijing.mobilebanking_78.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "东莞银行",
+        "package_name": "cn.dongguanbank.mbank.prd",
+        "file_name": "cn.dongguanbank.mbank.prd_79.apk",
+        "app_activity": "com.alipay.tianyan.mobilesdk.DGLaunchActivity"
+    },
+    {
+        "app_name": "江西农商",
+        "package_name": "com.jxnxs.mobile.bank",
+        "file_name": "com.jxnxs.mobile.bank_80.apk",
+        "app_activity": "com.jxnxs.dev.fun.act.SplashActivity"
+    },
+    {
+        "app_name": "民生银行",
+        "package_name": "cn.com.cmbc.newmbank",
+        "file_name": "cn.com.cmbc.newmbank_81.apk",
+        "app_activity": "cn.com.cmbc.newmbank.activity.WelComeActivity"
+    },
+    {
+        "app_name": "长安bank",
+        "package_name": "com.iss.changanbank",
+        "file_name": "com.iss.changanbank_82.apk",
+        "app_activity": "com.sccba.emas.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "潍坊银行",
+        "package_name": "com.iss.weifangbank",
+        "file_name": "com.iss.weifangbank_83.apk",
+        "app_activity": "com.sccba.emas.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "惠支付商户版",
+        "package_name": "com.scrcu.ebap.mer",
+        "file_name": "com.scrcu.ebap.mer_84.apk",
+        "app_activity": "com.scrcu.ebap.mer.MainActivity"
+    },
+    {
+        "app_name": "云南农信",
+        "package_name": "com.csii.mobilebank",
+        "file_name": "com.csii.mobilebank_85.apk",
+        "app_activity": "com.csii.mobilebank.MainActivity"
+    },
+    {
+        "app_name": "广东农信",
+        "package_name": "com.csii.gdnx.mobilebank",
+        "file_name": "com.csii.gdnx.mobilebank_86.apk",
+        "app_activity": "com.csii.gdnx.mobilebank.GdrcuActivity"
+    },
+    {
+        "app_name": "成都银行",
+        "package_name": "com.yitong.cd.mbank.android",
+        "file_name": "com.yitong.cd.mbank.android_87.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "湖南农信",
+        "package_name": "com.hnnx.eBank.android",
+        "file_name": "com.hnnx.eBank.android_88.apk",
+        "app_activity": "com.cqrcb.smartbank.LauncherActivity"
+    },
+    {
+        "app_name": "UnionPay",
+        "package_name": "com.unionpay",
+        "file_name": "com.unionpay_89.apk",
+        "app_activity": "com.unionpay.activity.UPActivityMain"
+    },
+    {
+        "app_name": "福建农信",
+        "package_name": "com.yitong.fjnx.mbank.android",
+        "file_name": "com.yitong.fjnx.mbank.android_90.apk",
+        "app_activity": "com.yitong.mbank.app.android.activity.SplashActivity"
+    },
+    {
+        "app_name": "江苏·农商行",
+        "package_name": "com.yitong.mbank",
+        "file_name": "com.yitong.mbank_91.apk",
+        "app_activity": "com.yitong.mbank.android.activity.SplashActivity"
+    },
+    {
+        "app_name": "哈尔滨银行",
+        "package_name": "com.yitong.hrb.people.android",
+        "file_name": "com.yitong.hrb.people.android_92.apk",
+        "app_activity": "com.yitong.hrb.people.android.activity.NewSplashActivity"
+    },
+    {
+        "app_name": "光大银行",
+        "package_name": "com.cebbank.mobile.cemb",
+        "file_name": "com.cebbank.mobile.cemb_93.apk",
+        "app_activity": "com.cebbank.mobile.cemb.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "买单吧",
+        "package_name": "com.bankcomm.maidanba",
+        "file_name": "com.bankcomm.maidanba_94.apk",
+        "app_activity": "com.bankcomm.maidanba.activity.SplashActivity"
+    },
+    {
+        "app_name": "山东农信",
+        "package_name": "com.android.clock.sd",
+        "file_name": "com.android.clock.sd_95.apk",
+        "app_activity": "com.android.clock.sd.activty.IndexActivity"
+    },
+    {
+        "app_name": "民生小微",
+        "package_name": "cn.com.cmbc.newmbank.micro",
+        "file_name": "cn.com.cmbc.newmbank.micro_96.apk",
+        "app_activity": "cn.com.cmbc.newmbank.activity.SplashActivity"
+    },
+    {
+        "app_name": "广州银行",
+        "package_name": "com.gzbank.mbank.externalpk",
+        "file_name": "com.gzbank.mbank.externalpk_97.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "南京银行",
+        "package_name": "cn.com.njcb.android.mobilebank",
+        "file_name": "cn.com.njcb.android.mobilebank_98.apk",
+        "app_activity": "com.njcb.mobile.biz.launcher.app.LauncherActivity"
+    },
+    {
+        "app_name": "农行企业掌银",
+        "package_name": "com.android.corpormbank",
+        "file_name": "com.android.corpormbank_99.apk",
+        "app_activity": "com.android.bankabc.activity.SplashActivity"
+    },
+    {
+        "app_name": "浦大喜奔",
+        "package_name": "com.spdbccc.app",
+        "file_name": "com.spdbccc.app_100.apk",
+        "app_activity": "com.spdbccc.app.sp.splash.activity.SplashActivity"
+    },
+    {
+        "app_name": "温州银行",
+        "package_name": "cn.wzbank.mobilebank",
+        "file_name": "cn.wzbank.mobilebank_101.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "中国建设银行",
+        "package_name": "com.chinamworld.main",
+        "file_name": "com.chinamworld.main_102.apk",
+        "app_activity": "com.ccb.start.MainActivity"
+    },
+    {
+        "app_name": "民泰银行",
+        "package_name": "com.mtb",
+        "file_name": "com.mtb_103.apk",
+        "app_activity": "com.csii.tech.ui.activity.NewSp"
+    },
+    {
+        "app_name": "富滇银行APP",
+        "package_name": "com.fdbank.newmobile",
+        "file_name": "com.fdbank.newmobile_104.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "贵阳银行",
+        "package_name": "com.yitong.mbank.gy",
+        "file_name": "com.yitong.mbank.gy_105.apk",
+        "app_activity": "com.yitong.mbank.gy.android.activity.SplashActivity"
+    },
+    {
+        "app_name": "锦州银行",
+        "package_name": "com.jzbank",
+        "file_name": "com.jzbank_106.apk",
+        "app_activity": "com.jzbank.ui.LogoActivity"
+    },
+    {
+        "app_name": "济宁银行",
+        "package_name": "com.iss.jiningbank",
+        "file_name": "com.iss.jiningbank_107.apk",
+        "app_activity": "com.sccba.emas.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "徽商银行",
+        "package_name": "com.hsbank.mobilebank",
+        "file_name": "com.hsbank.mobilebank_108.apk",
+        "app_activity": "com.csii.iap.ui.SplashActivity"
+    },
+    {
+        "app_name": "阳光惠生活",
+        "package_name": "com.ebank.creditcard",
+        "file_name": "com.ebank.creditcard_109.apk",
+        "app_activity": "com.ebank.creditcard.loading.LoadingActivity"
+    },
+    {
+        "app_name": "宁波银行",
+        "package_name": "com.nbbank",
+        "file_name": "com.nbbank_110.apk",
+        "app_activity": "com.yitong.mbank.app.android.activity.SplashActivity"
+    },
+    {
+        "app_name": "中信银行",
+        "package_name": "com.ecitic.bank.mobile",
+        "file_name": "com.ecitic.bank.mobile_111.apk",
+        "app_activity": "com.ecitic.bank.mobile.ui.SplashActivity"
+    },
+    {
+        "app_name": "甘肃农信",
+        "package_name": "com.nxy.gs",
+        "file_name": "com.nxy.gs_112.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "海南农商银行",
+        "package_name": "com.nxy.hn",
+        "file_name": "com.nxy.hn_113.apk",
+        "app_activity": "com.cloudcore.hnnx.bank.ui.HomeActivity"
+    },
+    {
+        "app_name": "个人手机银行",
+        "package_name": "com.nxy.sc",
+        "file_name": "com.nxy.sc_114.apk",
+        "app_activity": "com.alipay.mobile.quinox.LauncherActivity"
+    },
+    {
+        "app_name": "吉林银行",
+        "package_name": "com.jlmobile",
+        "file_name": "com.jlmobile_115.apk",
+        "app_activity": "com.jlmobile.app.SplashActivity"
+    },
+    {
+        "app_name": "大连银行",
+        "package_name": "com.csii.mobile.iap.bodl",
+        "file_name": "com.csii.mobile.iap.bodl_116.apk",
+        "app_activity": "com.csii.mobile.bodl.MainActivity"
+    },
+    {
+        "app_name": "华彩生活",
+        "package_name": "com.HuaXiaBank.HuaCard",
+        "file_name": "com.HuaXiaBank.HuaCard_117.apk",
+        "app_activity": "com.hxb.creditcard.ui.SplashActivity"
+    },
+    {
+        "app_name": "湖南银行",
+        "package_name": "com.csii.hrxj",
+        "file_name": "com.csii.hrxj_118.apk",
+        "app_activity": "com.csii.hrxj.MainActivity"
+    },
+    {
+        "app_name": "无锡农商银行",
+        "package_name": "com.csii.wrcb",
+        "file_name": "com.csii.wrcb_119.apk",
+        "app_activity": "com.csii.tech.DemoMainActivity"
+    },
+    {
+        "app_name": "成都农商银行",
+        "package_name": "com.cdrcbperson.mobilebank",
+        "file_name": "com.cdrcbperson.mobilebank_120.apk",
+        "app_activity": "com.cdrcbperson.mobilebank.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "泰隆银行",
+        "package_name": "com.tlbank",
+        "file_name": "com.tlbank_121.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.splash.Splashactivity"
+    },
+    {
+        "app_name": "惠如愿",
+        "package_name": "com.boc.igtb.ifapp",
+        "file_name": "com.boc.igtb.ifapp_122.apk",
+        "app_activity": "com.boc.igtb.ifapp.home.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "动卡空间",
+        "package_name": "com.citiccard.mobilebank",
+        "file_name": "com.citiccard.mobilebank_123.apk",
+        "app_activity": "com.citiccard.mobilebankapp.LaunchActivity"
+    },
+    {
+        "app_name": "建行企业银行",
+        "package_name": "com.ccb.companybank",
+        "file_name": "com.ccb.companybank_124.apk",
+        "app_activity": "com.ccb.companybank.ui2021.activity.MainActivity2021"
+    },
+    {
+        "app_name": "杭州银行",
+        "package_name": "cn.com.hzb.mobilebank.per",
+        "file_name": "cn.com.hzb.mobilebank.per_125.apk",
+        "app_activity": "com.hzbank.perbank.jadebundle.mvp.guide.GuideActivity"
+    },
+    {
+        "app_name": "九江银行",
+        "package_name": "com.jjccb.mobilebank",
+        "file_name": "com.jjccb.mobilebank_126.apk",
+        "app_activity": "com.jjccb.mobilebank.activity.SplashActivity"
+    },
+    {
+        "app_name": "苏商银行",
+        "package_name": "com.suning.mobile.snbank",
+        "file_name": "com.suning.mobile.snbank_127.apk",
+        "app_activity": "com.suning.mobile.snbank.launch.activity.SplashActivity"
+    },
+    {
+        "app_name": "秦农银行",
+        "package_name": "com.csii.qinnongbank",
+        "file_name": "com.csii.qinnongbank_128.apk",
+        "app_activity": "com.csii.qinnongbank.MainActivity"
+    },
+    {
+        "app_name": "新疆农信3.0",
+        "package_name": "com.xjrccb.mbank",
+        "file_name": "com.xjrccb.mbank_129.apk",
+        "app_activity": "com.xjrccb.mbank.StartPageActivity"
+    },
+    {
+        "app_name": "兴业银行",
+        "package_name": "com.cib.cibmb",
+        "file_name": "com.cib.cibmb_130.apk",
+        "app_activity": "com.newland.app.ui.firstpage.FirstPageActivity"
+    },
+    {
+        "app_name": "兰州银行",
+        "package_name": "cn.com.lzb.mobilebank.per",
+        "file_name": "cn.com.lzb.mobilebank.per_131.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "网商银行",
+        "package_name": "com.mybank.android.phone",
+        "file_name": "com.mybank.android.phone_132.apk",
+        "app_activity": "com.mybank.android.phone.MainActivity"
+    },
+    {
+        "app_name": "桂林银行",
+        "package_name": "com.glyh.mbank.pro",
+        "file_name": "com.glyh.mbank.pro_133.apk",
+        "app_activity": "com.glyh.mbank.ui.SplashActivity"
+    },
+    {
+        "app_name": "银联商务",
+        "package_name": "com.chinaums.onlineservice",
+        "file_name": "com.chinaums.onlineservice_134.apk",
+        "app_activity": "com.chinaums.onlineservice.ui.index.SplashActivity"
+    },
+    {
+        "app_name": "邮储银行",
+        "package_name": "com.yitong.mbank.psbc",
+        "file_name": "com.yitong.mbank.psbc_135.apk",
+        "app_activity": "com.yitong.mbank.psbc.module.app.view.activity.LauncherActivity"
+    },
+    {
+        "app_name": "盛京银行",
+        "package_name": "com.shengjingbank.mobile.cust",
+        "file_name": "com.shengjingbank.mobile.cust_136.apk",
+        "app_activity": "com.csii.iap.ui.SplashActivity"
+    },
+    {
+        "app_name": "重庆农商行",
+        "package_name": "com.magicpoint.mobile.bank",
+        "file_name": "com.magicpoint.mobile.bank_137.apk",
+        "app_activity": "com.cqrcb.smartbank.LauncherActivity"
+    },
+    {
+        "app_name": "中行企业银行",
+        "package_name": "com.boc.bocsoft.phone.enterprise",
+        "file_name": "com.boc.bocsoft.phone.enterprise_138.apk",
+        "app_activity": "com.boc.igtb.home.activity.LunchActivity"
+    },
+    {
+        "app_name": "日照银行",
+        "package_name": "com.iss.rizhaobank",
+        "file_name": "com.iss.rizhaobank_139.apk",
+        "app_activity": "com.sccba.emas.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "掌上生活",
+        "package_name": "com.cmbchina.ccd.pluto.cmbActivity",
+        "file_name": "com.cmbchina.ccd.pluto.cmbActivity_140.apk",
+        "app_activity": "com.cmbchina.ccd.pluto.cmbActivity.SplashActivity"
+    },
+    {
+        "app_name": "龙江银行",
+        "package_name": "com.longj.android.ljbank",
+        "file_name": "com.longj.android.ljbank_141.apk",
+        "app_activity": "com.mobile.ynetbank.splashscreen.WelcomeActivity"
+    },
+    {
+        "app_name": "兴业生活",
+        "package_name": "com.cib.xyk",
+        "file_name": "com.cib.xyk_142.apk",
+        "app_activity": "com.cib.fintech.activity.SplashActivity"
+    },
+    {
+        "app_name": "e钱庄",
+        "package_name": "cn.com.csbank",
+        "file_name": "cn.com.csbank_143.apk",
+        "app_activity": "com.alipay.mobile.quinox.LauncherActivity"
+    },
+    {
+        "app_name": "建行惠懂你",
+        "package_name": "com.ccb.leye",
+        "file_name": "com.ccb.leye_144.apk",
+        "app_activity": "com.ccb.leye.phhome.SplashActivity"
+    },
+    {
+        "app_name": "江苏银行",
+        "package_name": "cn.jsb.china",
+        "file_name": "cn.jsb.china_145.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "吉聚精彩",
+        "package_name": "cn.com.jlbank.mbank",
+        "file_name": "cn.com.jlbank.mbank_146.apk",
+        "app_activity": "cn.com.jlbank.mbank.activity.MainActivity"
+    },
+    {
+        "app_name": "华夏银行",
+        "package_name": "com.hxb.mobile.client",
+        "file_name": "com.hxb.mobile.client_147.apk",
+        "app_activity": "com.yt.hxmb50.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "华瑞银行",
+        "package_name": "com.huaruibank.android.hulubank",
+        "file_name": "com.huaruibank.android.hulubank_148.apk",
+        "app_activity": "com.alipay.mobile.quinox.LauncherActivity"
+    },
+
+    {
+        "app_name": "宁波东海银行",
+        "package_name": "com.iss.nbdhbank",
+        "file_name": "com.iss.nbdhbank_230.apk",
+        "app_activity": "com.sccba.emas.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "DBS digibank CN",
+        "package_name": "com.dbs.dbschina",
+        "file_name": "com.dbs.dbschina_231.apk",
+        "app_activity": "com.dbs.dbschina.ui.SplashActivity"
+    },
+    {
+        "app_name": "阜新银行",
+        "package_name": "com.fuxinbank.mobilebank.personal",
+        "file_name": "com.fuxinbank.mobilebank.personal_232.apk",
+        "app_activity": "com.fxbank.app.launcher.activity.LauncherActivity"
+    },
+    {
+        "app_name": "银企e+",
+        "package_name": "com.zjrcbank.yqt",
+        "file_name": "com.zjrcbank.yqt_233.apk",
+        "app_activity": "com.sinosun.tchats.WiWelcomeActivity"
+    },
+    {
+        "app_name": "阿拉善左旗方大村镇银行",
+        "package_name": "com.softbank.mbank.alsfdyh",
+        "file_name": "com.softbank.mbank.alsfdyh_234.apk",
+        "app_activity": "com.softbank.mbank.ui.home.StartActivity"
+    },
+    {
+        "app_name": "苏州农商银行",
+        "package_name": "com.szrcb.emobilebank",
+        "file_name": "com.szrcb.emobilebank_235.apk",
+        "app_activity": "com.csii.ebank.MainActivity"
+    },
+    {
+        "app_name": "吉行企业银行",
+        "package_name": "com.jlbank.corporate",
+        "file_name": "com.jlbank.corporate_236.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "富民银行",
+        "package_name": "com.fbank.mobile",
+        "file_name": "com.fbank.mobile_237.apk",
+        "app_activity": "com.mobilebank.MainActivity"
+    },
+    {
+        "app_name": "信步天下",
+        "package_name": "com.sinosure.insurance.portal",
+        "file_name": "com.sinosure.insurance.portal_238.apk",
+        "app_activity": "com.primeton.mobile.client.core.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "海口联合农商银行手机银行",
+        "package_name": "com.yitong.hkns.mbank.android",
+        "file_name": "com.yitong.hkns.mbank.android_239.apk",
+        "app_activity": "com.sinoiift.fintech.activity.SplashActivity"
+    },
+    {
+        "app_name": "宁波通商银行",
+        "package_name": "com.ncbank.mobile",
+        "file_name": "com.ncbank.mobile_240.apk",
+        "app_activity": "com.cloudcore.bank.ui.HomeCdvActivity"
+    },
+    {
+        "app_name": "新疆银行手机银行",
+        "package_name": "com.xjbank.mbk",
+        "file_name": "com.xjbank.mbk_241.apk",
+        "app_activity": "com.xjbank.mbk.SplashActivity"
+    },
+    {
+        "app_name": "保定银行",
+        "package_name": "com.baoding.mobilebank",
+        "file_name": "com.baoding.mobilebank_242.apk",
+        "app_activity": "com.baoding.mobilebank.DemoMainActivity"
+    },
+    {
+        "app_name": "固始天骄村镇银行",
+        "package_name": "com.dhcc.tianjiao",
+        "file_name": "com.dhcc.tianjiao_243.apk",
+        "app_activity": "com.dhcc.tianjiao.activity.SplashActivity"
+    },
+    {
+        "app_name": "黔农村银",
+        "package_name": "com.csii.czyh",
+        "file_name": "com.csii.czyh_244.apk",
+        "app_activity": "com.csii.madp.standard.DemoMainActivity"
+    },
+    {
+        "app_name": "农商行收银宝",
+        "package_name": "com.csii.jsnx",
+        "file_name": "com.csii.jsnx_245.apk",
+        "app_activity": "com.bank.jsnx.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "珠江村镇银行",
+        "package_name": "com.zjrbmb.mobilebank",
+        "file_name": "com.zjrbmb.mobilebank_246.apk",
+        "app_activity": "com.zjrbmb.mobilebank.activity.guild.FirstActivity"
+    },
+    {
+        "app_name": "悦农e付收银台",
+        "package_name": "com.nongxin.tongyizhifu",
+        "file_name": "com.nongxin.tongyizhifu_247.apk",
+        "app_activity": "com.nongxin.tongyizhifu.SplashActivity"
+    },
+    {
+        "app_name": "西银惠付",
+        "package_name": "com.xacbank.xyhf",
+        "file_name": "com.xacbank.xyhf_248.apk",
+        "app_activity": "com.xacbank.xyhf.ui.GuidesActivity"
+    },
+    {
+        "app_name": "达州银行",
+        "package_name": "com.dzccb.mbank",
+        "file_name": "com.dzccb.mbank_249.apk",
+        "app_activity": "com.dzccb.mbank.mvp.activity.FlashActivity"
+    },
+    {
+        "app_name": "云南红塔银行",
+        "package_name": "com.csii.yuxi.mobilebank",
+        "file_name": "com.csii.yuxi.mobilebank_250.apk",
+        "app_activity": "com.ynhtbank.PrivacyPolicyActivity"
+    },
+    {
+        "app_name": "掌上蜜商家",
+        "package_name": "com.yzbeeb.android.tpad",
+        "file_name": "com.yzbeeb.android.tpad_251.apk",
+        "app_activity": "com.dcits.myapplication.ui.SplashScreenActivity"
+    },
+    {
+        "app_name": "SC China",
+        "package_name": "com.scb.poc.bmw",
+        "file_name": "com.scb.poc.bmw_252.apk",
+        "app_activity": "com.sc.retail.scmobile.MainActivity"
+    },
+    {
+        "app_name": "稠州村镇银行",
+        "package_name": "com.czcb.townbank",
+        "file_name": "com.czcb.townbank_253.apk",
+        "app_activity": "com.alipay.mobile.quinox.LauncherActivity"
+    },
+    {
+        "app_name": "广东南粤银行",
+        "package_name": "com.gdnybank.m",
+        "file_name": "com.gdnybank.m_254.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "蒙商信用卡",
+        "package_name": "cn.com.bsbank.mbank",
+        "file_name": "cn.com.bsbank.mbank_255.apk",
+        "app_activity": "com.cupd.activity.MainActivity"
+    },
+    {
+        "app_name": "南京银行企业银行",
+        "package_name": "com.njcb.android.xeb",
+        "file_name": "com.njcb.android.xeb_256.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "江阴农商银行",
+        "package_name": "com.jybank.jynsbank",
+        "file_name": "com.jybank.jynsbank_257.apk",
+        "app_activity": "com.csii.tech.activity.DefaultStartActivity"
+    },
+    {
+        "app_name": "嘉兴银行",
+        "package_name": "com.csii.jiaxing.mobilebank",
+        "file_name": "com.csii.jiaxing.mobilebank_258.apk",
+        "app_activity": "com.csii.jiaxing.mobilebank.DemoMainActivity"
+    },
+    {
+        "app_name": "财资大管家",
+        "package_name": "com.nbcb.tmsmobile",
+        "file_name": "com.nbcb.tmsmobile_259.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.SplashActivity"
+    },
+    {
+        "app_name": "长安企业银行",
+        "package_name": "com.sccba.bankca.activity",
+        "file_name": "com.sccba.bankca.activity_260.apk",
+        "app_activity": "com.sccba.bankca.activity.FristActivity"
+    },
+    {
+        "app_name": "湖南三湘银行",
+        "package_name": "com.sxmb.bank",
+        "file_name": "com.sxmb.bank_261.apk",
+        "app_activity": "com.alipay.mobile.quinox.LauncherActivity"
+    },
+    {
+        "app_name": "农银e管家",
+        "package_name": "com.abchina.ebizbtob",
+        "file_name": "com.abchina.ebizbtob_262.apk",
+        "app_activity": "com.abchina.ebizbtob.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "承德银行",
+        "package_name": "com.chengde.mbank",
+        "file_name": "com.chengde.mbank_263.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "小狮Bank",
+        "package_name": "cn.foshanbank.dbank",
+        "file_name": "cn.foshanbank.dbank_264.apk",
+        "app_activity": "cn.foshanbank.dbank.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "药都农商行",
+        "package_name": "com.yaodu.supplychain",
+        "file_name": "com.yaodu.supplychain_265.apk",
+        "app_activity": "com.yaodu.supplychain.modular.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "平安银行香港",
+        "package_name": "com.pingan.paces.hk",
+        "file_name": "com.pingan.paces.hk_266.apk",
+        "app_activity": "com.pingan.pocketbank.splash.PALoadingActivity"
+    },
+    {
+        "app_name": "宝石山",
+        "package_name": "com.yt.hz.financial",
+        "file_name": "com.yt.hz.financial_267.apk",
+        "app_activity": "com.xindun.sdk.FirstAty"
+    },
+    {
+        "app_name": "企业互联",
+        "package_name": "com.zjrc.cba",
+        "file_name": "com.zjrc.cba_268.apk",
+        "app_activity": "com.zjrc.cba.biz.launcher.splash.SplashActivity"
+    },
+    {
+        "app_name": "融e生活",
+        "package_name": "com.szicbc.mobile",
+        "file_name": "com.szicbc.mobile_269.apk",
+        "app_activity": "com.szicbc.mobile.ui.LoadingActivity"
+    },
+    {
+        "app_name": "金城银行",
+        "package_name": "com.cn.tjjcdirectbank",
+        "file_name": "com.cn.tjjcdirectbank_270.apk",
+        "app_activity": "com.cn.tjjcdirectbank.app.LauncherActivity"
+    },
+    {
+        "app_name": "大连农商银行",
+        "package_name": "cn.com.yusys.dlrcbmb",
+        "file_name": "cn.com.yusys.dlrcbmb_271.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "苏州农商银行",
+        "package_name": "com.csii.wjnsbank",
+        "file_name": "com.csii.wjnsbank_272.apk",
+        "app_activity": "com.csii.wjnsbank.MainActivity"
+    },
+    {
+        "app_name": "自贡银行直销银行",
+        "package_name": "com.pafinancialtech.zigongbank",
+        "file_name": "com.pafinancialtech.zigongbank_273.apk",
+        "app_activity": "com.pingan.fstandard.activity.SplashActivity"
+    },
+    {
+        "app_name": "重庆三峡银行",
+        "package_name": "com.sxb.mobilebank.per",
+        "file_name": "com.sxb.mobilebank.per_274.apk",
+        "app_activity": "com.cqtgb.mobilebank.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "深农商企业版",
+        "package_name": "com.cloudcore.emobile.szrcb",
+        "file_name": "com.cloudcore.emobile.szrcb_275.apk",
+        "app_activity": "com.szrcb.emobile.android.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "襄垣县融汇村镇银行",
+        "package_name": "com.xiangyuanrhcb.mobilebank",
+        "file_name": "com.xiangyuanrhcb.mobilebank_276.apk",
+        "app_activity": "com.csii.mobilebank.FirstStartActivity"
+    },
+    {
+        "app_name": "曲靖市商业银行",
+        "package_name": "com.csii.qujing.mobilebank",
+        "file_name": "com.csii.qujing.mobilebank_277.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "乌海银行",
+        "package_name": "com.wuhai.mobilebank",
+        "file_name": "com.wuhai.mobilebank_278.apk",
+        "app_activity": "com.csii.mobilebank.FirstStartActivity"
+    },
+    {
+        "app_name": "华商村镇银行",
+        "package_name": "com.huashang.mbank",
+        "file_name": "com.huashang.mbank_279.apk",
+        "app_activity": "com.seaway.android.app.launcher.app.activity.LauncherActivity"
+    },
+    {
+        "app_name": "E融汇",
+        "package_name": "com.bocop.eronghui",
+        "file_name": "com.bocop.eronghui_280.apk",
+        "app_activity": "com.bocop.eronghui.shell.ui.ShellSplashActivity"
+    },
+    {
+        "app_name": "西藏银行",
+        "package_name": "com.ionicframework.xzbank122507",
+        "file_name": "com.ionicframework.xzbank122507_281.apk",
+        "app_activity": "com.csii.xzbankTest.CsiiLauncherActivity"
+    },
+    {
+        "app_name": "企业掌上银行",
+        "package_name": "com.cloudcore.ksrcb.entbank.android",
+        "file_name": "com.cloudcore.ksrcb.entbank.android_282.apk",
+        "app_activity": "com.cloudcore.bank.ui.HomeCdvActivity"
+    },
+    {
+        "app_name": "长春绿园融泰村镇银行",
+        "package_name": "com.bank.rtcb",
+        "file_name": "com.bank.rtcb_283.apk",
+        "app_activity": "com.bank.cchrcb.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "天津农商银行企业手机银行",
+        "package_name": "cn.com.trcbank.enterprisemobilebank",
+        "file_name": "cn.com.trcbank.enterprisemobilebank_284.apk",
+        "app_activity": "com.sinosun.tchats.trcb.ui.activity.TrcSplashActivity"
+    },
+    {
+        "app_name": "云端金融",
+        "package_name": "com.jgrcb.threebank",
+        "file_name": "com.jgrcb.threebank_285.apk",
+        "app_activity": "com.example.hellotiny.SplashActivity"
+    },
+    {
+        "app_name": "河北银行企业手机银行",
+        "package_name": "com.hebbank.corpmobile",
+        "file_name": "com.hebbank.corpmobile_286.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "贵阳农商银行",
+        "package_name": "com.csii.gynsdirectbank",
+        "file_name": "com.csii.gynsdirectbank_287.apk",
+        "app_activity": "com.csii.gynsdirectbank.activity.MainActivity"
+    },
+    {
+        "app_name": "盘锦银行",
+        "package_name": "com.cib.fintech.pjbank",
+        "file_name": "com.cib.fintech.pjbank_288.apk",
+        "app_activity": "com.cib.fintech.activity.SplashActivity"
+    },
+    {
+        "app_name": "乐山商业银行",
+        "package_name": "com.csii.LeShanBank",
+        "file_name": "com.csii.LeShanBank_289.apk",
+        "app_activity": "com.alipay.mobile.quinox.LauncherActivity"
+    },
+    {
+        "app_name": "汇和直销银行",
+        "package_name": "com.csii.zhixiaoyinhang.huihe_android",
+        "file_name": "com.csii.zhixiaoyinhang.huihe_android_290.apk",
+        "app_activity": "com.csii.hhbank.MainActivity"
+    },
+    {
+        "app_name": "柳州银行",
+        "package_name": "cn.bolz.mobilebank.liuzhou",
+        "file_name": "cn.bolz.mobilebank.liuzhou_291.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "青行支付",
+        "package_name": "com.bankqh.aggregatepayment",
+        "file_name": "com.bankqh.aggregatepayment_292.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "长沙银行呼啦",
+        "package_name": "cn.com.csshop",
+        "file_name": "cn.com.csshop_293.apk",
+        "app_activity": "cn.com.csshop.splash.SplashActivity"
+    },
+    {
+        "app_name": "汇和银行",
+        "package_name": "com.xinjianghuihe.mobilebank",
+        "file_name": "com.xinjianghuihe.mobilebank_294.apk",
+        "app_activity": "com.csii.mobilebank.FirstStartActivity"
+    },
+    {
+        "app_name": "工銀亞洲",
+        "package_name": "com.icbc.icbcasia",
+        "file_name": "com.icbc.icbcasia_295.apk",
+        "app_activity": "com.icbc.mobile.abroadbank.starter.CommonClientStarter"
+    },
+    {
+        "app_name": "乌鲁木齐银行",
+        "package_name": "com.uccb.mobile",
+        "file_name": "com.uccb.mobile_296.apk",
+        "app_activity": "com.uccb.mobile.activity.LauncherActivity"
+    },
+
+    {
+        "app_name": "南洋商业银行",
+        "package_name": "com.china.ncbcmbs",
+        "file_name": "com.china.ncbcmbs_1.apk",
+        "app_activity": "com.china.ncbcmbs.MainActivity"
+    },
+    {
+        "app_name": "新安银行",
+        "package_name": "com.cib.fintech.xabank",
+        "file_name": "com.cib.fintech.xabank_2.apk",
+        "app_activity": "com.cib.fintech.activity.SplashActivity"
+    },
+    {
+        "app_name": "湖南银行企业手机银行",
+        "package_name": "com.csii.hrxj2",
+        "file_name": "com.csii.hrxj2_3.apk",
+        "app_activity": "com.csii.ui.PrivacyPolicyActivity"
+    },
+    {
+        "app_name": "绍兴银行",
+        "package_name": "com.csii.sx.ui",
+        "file_name": "com.csii.sx.ui_4.apk",
+        "app_activity": "com.csii.sx.ui.MainActivity"
+    },
+    {
+        "app_name": "营口银行",
+        "package_name": "com.csii.yk.ui",
+        "file_name": "com.csii.yk.ui_5.apk",
+        "app_activity": "com.csii.yk.ui.SplashActivity"
+    },
+    {
+        "app_name": "雅安市商业银行",
+        "package_name": "com.cib.fintech.yabank",
+        "file_name": "com.cib.fintech.yabank_6.apk",
+        "app_activity": "com.cib.fintech.activity.SplashActivity"
+    },
+    {
+        "app_name": "徽常有财",
+        "package_name": "cn.com.hsbank",
+        "file_name": "cn.com.hsbank_7.apk",
+        "app_activity": "cn.com.hsbank.launcher.ui.activity.SplashPreActivity"
+    },
+    {
+        "app_name": "企业银行",
+        "package_name": "com.sxnxs.ebank",
+        "file_name": "com.sxnxs.ebank_8.apk",
+        "app_activity": "com.yitong.mbank.app.android.activity.common.SplashActivity"
+    },
+    {
+        "app_name": "南海农商银行",
+        "package_name": "com.bank.nanhairuralcommercial.mobile",
+        "file_name": "com.bank.nanhairuralcommercial.mobile_9.apk",
+        "app_activity": "com.csii.tech.PmobileMainActivity"
+    },
+    {
+        "app_name": "青银村镇银行",
+        "package_name": "cn.com.yusys.zhongning",
+        "file_name": "cn.com.yusys.zhongning_10.apk",
+        "app_activity": "com.cloudcore.fpaas.dcfcs.activity.SplashScreenActivity"
+    },
+    {
+        "app_name": "邢台银行",
+        "package_name": "com.seaway.bank.xingtai",
+        "file_name": "com.seaway.bank.xingtai_11.apk",
+        "app_activity": "com.xtbank.app.launcher.activity.LauncherActivity"
+    },
+    {
+        "app_name": "昆仑信用卡",
+        "package_name": "cn.com.klbank.mbank",
+        "file_name": "cn.com.klbank.mbank_12.apk",
+        "app_activity": "cn.com.klbank.mbank.activity.MainActivity"
+    },
+    {
+        "app_name": "邮惠万家银行",
+        "package_name": "com.psbcubank.mbank",
+        "file_name": "com.psbcubank.mbank_13.apk",
+        "app_activity": "cn.sunline.tiny.ui.SplashActivity"
+    },
+    {
+        "app_name": "HSBCnet",
+        "package_name": "cn.com.hsbc.hsbcnet",
+        "file_name": "cn.com.hsbc.hsbcnet_14.apk",
+        "app_activity": "com.hsbc.hsbcnet.splash.SplashActivity"
+    },
+    {
+        "app_name": "徽行信用卡",
+        "package_name": "cn.com.huishangbank.mbank",
+        "file_name": "cn.com.huishangbank.mbank_15.apk",
+        "app_activity": "cn.com.huishangbank.mbank.MainActivity"
+    },
+    {
+        "app_name": "兰州银行企业版",
+        "package_name": "cn.com.lanzhoubank.bolz",
+        "file_name": "cn.com.lanzhoubank.bolz_16.apk",
+        "app_activity": "cn.com.lanzhoubank.bolz.activity.LauncherActivity"
+    },
+    {
+        "app_name": "富滇企业银行",
+        "package_name": "com.fdbank.corbank",
+        "file_name": "com.fdbank.corbank_17.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "富邦华一银行",
+        "package_name": "com.csii.hy",
+        "file_name": "com.csii.hy_18.apk",
+        "app_activity": "com.csii.huayi.LaunchAcitivty"
+    },
+    {
+        "app_name": "厦门银行",
+        "package_name": "com.csii.xm",
+        "file_name": "com.csii.xm_19.apk",
+        "app_activity": "com.alipay.mobile.quinox.LauncherActivity"
+    },
+    {
+        "app_name": "宜宾商业银行",
+        "package_name": "com.csii.yb",
+        "file_name": "com.csii.yb_20.apk",
+        "app_activity": "com.csii.ui.SplashScreenActivity"
+    },
+    {
+        "app_name": "沂源博商村镇银行",
+        "package_name": "com.boshang.mobilebank",
+        "file_name": "com.boshang.mobilebank_21.apk",
+        "app_activity": "com.cib.fintech.activity.SplashActivity"
+    },
+    {
+        "app_name": "常熟农商银行",
+        "package_name": "com.csii.csbank",
+        "file_name": "com.csii.csbank_22.apk",
+        "app_activity": "com.csii.csbank.launcher.activity.LauncherActivity"
+    },
+    {
+        "app_name": "百福通",
+        "package_name": "com.ttg.smartphonepos.jxnxyh",
+        "file_name": "com.ttg.smartphonepos.jxnxyh_23.apk",
+        "app_activity": "com.ttg.smartphonepos.ui.account.WelcomeInitActivity"
+    },
+    {
+        "app_name": "信福通",
+        "package_name": "com.ynrcb.complexApp",
+        "file_name": "com.ynrcb.complexApp_24.apk",
+        "app_activity": "com.ynrcb.complexApp.MainActivity"
+    },
+    {
+        "app_name": "陇e付",
+        "package_name": "cn.swiftpass.enterprise.gcbc",
+        "file_name": "cn.swiftpass.enterprise.gcbc_25.apk",
+        "app_activity": "cn.swiftpass.enterprise.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "吉惠商",
+        "package_name": "com.bank.jilin",
+        "file_name": "com.bank.jilin_26.apk",
+        "app_activity": "com.bank.jilin.view.ui.activity.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "江苏长江商业银行",
+        "package_name": "com.csii.changjiang.mobilebank",
+        "file_name": "com.csii.changjiang.mobilebank_27.apk",
+        "app_activity": "com.csii.changjiang.mobilebank.android.activity.SplashActivity"
+    },
+    {
+        "app_name": "郑州银行企业版",
+        "package_name": "com.zzbank.eibp",
+        "file_name": "com.zzbank.eibp_28.apk",
+        "app_activity": "com.zzbank.eibp.SplashActivity"
+    },
+    {
+        "app_name": "珠江收银",
+        "package_name": "com.grcbank.ZJPay",
+        "file_name": "com.grcbank.ZJPay_29.apk",
+        "app_activity": "com.grcbank.ZJPay.grc.MainActivity"
+    },
+    {
+        "app_name": "武清村镇银行",
+        "package_name": "com.iss.tjwqczbank",
+        "file_name": "com.iss.tjwqczbank_30.apk",
+        "app_activity": "com.sccba.emas.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "刷新生活",
+        "package_name": "cn.com.sjbank.mbank",
+        "file_name": "cn.com.sjbank.mbank_31.apk",
+        "app_activity": "cn.com.sjbank.mbank.MainActivity"
+    },
+    {
+        "app_name": "江南企业银行",
+        "package_name": "com.csii.jnbank",
+        "file_name": "com.csii.jnbank_32.apk",
+        "app_activity": "com.mobile.newVersion.ui.base.WelcomeActivity"
+    },
+    {
+        "app_name": "农发企业银行",
+        "package_name": "com.adbc.embank",
+        "file_name": "com.adbc.embank_33.apk",
+        "app_activity": "com.adbc.embank.iap.ui.SplashActivity"
+    },
+    {
+        "app_name": "上海农商银行企业版",
+        "package_name": "com.srcb.embank",
+        "file_name": "com.srcb.embank_34.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "常银生意",
+        "package_name": "com.csrcb.companyphonebank",
+        "file_name": "com.csrcb.companyphonebank_35.apk",
+        "app_activity": "com.csrcb.companyphonebank.activity.SplashScreenActivity"
+    },
+    {
+        "app_name": "Hang Seng China",
+        "package_name": "cn.com.hase.hangsengchinamobilebanking",
+        "file_name": "cn.com.hase.hangsengchinamobilebanking_36.apk",
+        "app_activity": "app.client.MainActivity"
+    },
+    {
+        "app_name": "铁岭银行",
+        "package_name": "com.tieling.mobilebank",
+        "file_name": "com.tieling.mobilebank_37.apk",
+        "app_activity": "com.csii.mobilebank.FirstStartActivity"
+    },
+    {
+        "app_name": "乌当农商银行",
+        "package_name": "cn.com.wdbank",
+        "file_name": "cn.com.wdbank_38.apk",
+        "app_activity": "cn.com.wdbank.activity.SplashActivity"
+    },
+    {
+        "app_name": "蓝海银行",
+        "package_name": "com.LanHaiBank.mobile",
+        "file_name": "com.LanHaiBank.mobile_39.apk",
+        "app_activity": "com.csii.core.control.ActionControl"
+    },
+    {
+        "app_name": "长葛轩辕村镇银行",
+        "package_name": "com.softbank.mbank.changge",
+        "file_name": "com.softbank.mbank.changge_40.apk",
+        "app_activity": "com.softbank.mbank.ui.home.StartActivity"
+    },
+    {
+        "app_name": "莱商手机银行",
+        "package_name": "com.iss.laishangbank",
+        "file_name": "com.iss.laishangbank_41.apk",
+        "app_activity": "com.sccba.emas.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "工银瑞信基金",
+        "package_name": "com.gongyinruixin",
+        "file_name": "com.gongyinruixin_42.apk",
+        "app_activity": "com.gongyinruixin.me.ui.activity.other.SplashNewActivity"
+    },
+    {
+        "app_name": "信通收钱宝",
+        "package_name": "com.ttg.smartphonepos.sznx",
+        "file_name": "com.ttg.smartphonepos.sznx_43.apk",
+        "app_activity": "cn.swiftpass.enterprise.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "厦门国际银行",
+        "package_name": "cn.com.xib.xibpb.v3",
+        "file_name": "cn.com.xib.xibpb.v3_44.apk",
+        "app_activity": "cn.com.xib.xibpb.v3.xibpb.activity.SplashActivity"
+    },
+    {
+        "app_name": "湖州银行",
+        "package_name": "com.hzccb.mbank",
+        "file_name": "com.hzccb.mbank_45.apk",
+        "app_activity": "com.yitong.mbank.app.android.application.splash.SplashEntryActivity"
+    },
+    {
+        "app_name": "桂银企业银行",
+        "package_name": "com.glyh.corporbank",
+        "file_name": "com.glyh.corporbank_46.apk",
+        "app_activity": "com.glyh.mbank.ui.SplashActivity"
+    },
+    {
+        "app_name": "上饶银行",
+        "package_name": "cn.srbank.zyx",
+        "file_name": "cn.srbank.zyx_47.apk",
+        "app_activity": "cn.srbank.zyx.DemoMainActivity"
+    },
+    {
+        "app_name": "枣庄银行",
+        "package_name": "com.iss.zaozhuangbank",
+        "file_name": "com.iss.zaozhuangbank_48.apk",
+        "app_activity": "com.sccba.emas.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "秦之道",
+        "package_name": "cn.com.qndbank.mbank",
+        "file_name": "cn.com.qndbank.mbank_49.apk",
+        "app_activity": "cn.com.qndbank.mbank.activity.MainActivity"
+    },
+    {
+        "app_name": "云南农信企业手机银行",
+        "package_name": "com.csii.emobilebank",
+        "file_name": "com.csii.emobilebank_50.apk",
+        "app_activity": "com.csii.emobilebank.MainActivity"
+    },
+    {
+        "app_name": "唐行企业银行",
+        "package_name": "cn.com.bmb.bankts",
+        "file_name": "cn.com.bmb.bankts_51.apk",
+        "app_activity": "tech.madp.core.DefaultActivity"
+    },
+    {
+        "app_name": "民泰银行企业版",
+        "package_name": "com.mintaibank.enterprise.iphone",
+        "file_name": "com.mintaibank.enterprise.iphone_52.apk",
+        "app_activity": "com.yitong.financialservice.android.activity.SplashActivity"
+    },
+    {
+        "app_name": "企业手机银行",
+        "package_name": "com.gdrcu.ebank",
+        "file_name": "com.gdrcu.ebank_53.apk",
+        "app_activity": "com.gdrcu.ebank.app.SplashActivity"
+    },
+    {
+        "app_name": "长城华西银行",
+        "package_name": "com.gwbank.sjyh",
+        "file_name": "com.gwbank.sjyh_54.apk",
+        "app_activity": "com.huaxi.gwbank.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "威海企业银行",
+        "package_name": "com.sccba.bankwh.activity",
+        "file_name": "com.sccba.bankwh.activity_55.apk",
+        "app_activity": "com.sccba.bankwh.activity.FristActivity"
+    },
+    {
+        "app_name": "衡水银行",
+        "package_name": "com.hsbank.personal",
+        "file_name": "com.hsbank.personal_56.apk",
+        "app_activity": "com.seaway.android.app.launcher.app.activity.LauncherActivity"
+    },
+    {
+        "app_name": "南海农商企业银行",
+        "package_name": "com.nrcbank.emobile",
+        "file_name": "com.nrcbank.emobile_57.apk",
+        "app_activity": "com.nrcbank.emobile.EMobileMainActivity"
+    },
+    {
+        "app_name": "青海银行",
+        "package_name": "com.activity.qhbank",
+        "file_name": "com.activity.qhbank_58.apk",
+        "app_activity": "com.bankqh.mobile.MainActivity"
+    },
+    {
+        "app_name": "青农商信用卡",
+        "package_name": "cn.com.qrcb.mbank",
+        "file_name": "cn.com.qrcb.mbank_59.apk",
+        "app_activity": "cn.com.qrcb.mbank.MainActivity"
+    },
+    {
+        "app_name": "昆山农商银行",
+        "package_name": "com.yitong.ksrcb.mbank.android",
+        "file_name": "com.yitong.ksrcb.mbank.android_60.apk",
+        "app_activity": "com.cloudcore.ksrcb.ui.MainActivity"
+    },
+    {
+        "app_name": "曲靖惠民村镇银行",
+        "package_name": "com.cib.fintech.qjhmbank",
+        "file_name": "com.cib.fintech.qjhmbank_61.apk",
+        "app_activity": "com.cib.fintech.activity.SplashActivity"
+    },
+    {
+        "app_name": "金农信e付",
+        "package_name": "com.sunyard.arcu2b",
+        "file_name": "com.sunyard.arcu2b_62.apk",
+        "app_activity": "com.sunyard.arcu2b.main.MainActivity"
+    },
+    {
+        "app_name": "稠银直销",
+        "package_name": "com.czcb.obank",
+        "file_name": "com.czcb.obank_63.apk",
+        "app_activity": "com.alipay.mobile.quinox.LauncherActivity"
+    },
+    {
+        "app_name": "青银企业版",
+        "package_name": "com.qdccb.enterprisebank",
+        "file_name": "com.qdccb.enterprisebank_64.apk",
+        "app_activity": "com.qdccb.enterprisebank.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "长赢掌中宝",
+        "package_name": "cn.cccb.cccbbank",
+        "file_name": "cn.cccb.cccbbank_65.apk",
+        "app_activity": "cn.cccb.cyzzb.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "静宁村镇银行",
+        "package_name": "com.csii.gsczbank",
+        "file_name": "com.csii.gsczbank_66.apk",
+        "app_activity": "com.csii.gsczbank.MainActivity"
+    },
+    {
+        "app_name": "华商银行",
+        "package_name": "com.icbc.mercantilebank",
+        "file_name": "com.icbc.mercantilebank_67.apk",
+        "app_activity": "com.icbc.activity.init.LoadingActivity"
+    },
+    {
+        "app_name": "北京农商银行企业手机银行",
+        "package_name": "cn.com.bjns.ebank",
+        "file_name": "cn.com.bjns.ebank_68.apk",
+        "app_activity": "com.csii.iap.ui.GuideActivity"
+    },
+    {
+        "app_name": "鄞州银行",
+        "package_name": "com.csii.yzbank",
+        "file_name": "com.csii.yzbank_69.apk",
+        "app_activity": "com.XBankFrontendReact.MainActivity"
+    },
+    {
+        "app_name": "浦慧",
+        "package_name": "cn.com.spdb.mobilebank.per.ph",
+        "file_name": "cn.com.spdb.mobilebank.per.ph_70.apk",
+        "app_activity": "cn.com.spdb.mobilebank.per.ph.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "石嘴山银行",
+        "package_name": "com.yitong.szsbank",
+        "file_name": "com.yitong.szsbank_71.apk",
+        "app_activity": "com.yitong.mbank.app.android.activity.SplashActivity"
+    },
+    {
+        "app_name": "邯郸银行",
+        "package_name": "cn.handanbank.apk",
+        "file_name": "cn.handanbank.apk_72.apk",
+        "app_activity": "cn.handanbank.apk.activity.FristActivity"
+    },
+    {
+        "app_name": "民生企业银行",
+        "package_name": "cn.com.cmbc.newmbank.ep",
+        "file_name": "cn.com.cmbc.newmbank.ep_73.apk",
+        "app_activity": "cn.com.cmbc.newmbank.activity.SplashActivity"
+    },
+    {
+        "app_name": "CCB(HK&MO)",
+        "package_name": "com.ccb.InternationalMobileBanking",
+        "file_name": "com.ccb.InternationalMobileBanking_74.apk",
+        "app_activity": "com.ccb.overseas.start.view.CcbSplashActivity"
+    },
+    {
+        "app_name": "哈银村镇银行",
+        "package_name": "com.yitong.hrbcz.people.android",
+        "file_name": "com.yitong.hrbcz.people.android_75.apk",
+        "app_activity": "com.yitong.hrbcz.people.android.activity.GifViewActivity"
+    },
+    {
+        "app_name": "兴业生活商户版",
+        "package_name": "com.cib.xykb",
+        "file_name": "com.cib.xykb_76.apk",
+        "app_activity": "com.cib.fintech.activity.SplashActivity"
+    },
+    {
+        "app_name": "润E企",
+        "package_name": "cn.com.hrcrb.mobilebank.cor",
+        "file_name": "cn.com.hrcrb.mobilebank.cor_77.apk",
+        "app_activity": "com.hrt.platform.activity.FlashActivity"
+    },
+    {
+        "app_name": "华润银行",
+        "package_name": "cn.com.hrcrb.mobilebank.per",
+        "file_name": "cn.com.hrcrb.mobilebank.per_78.apk",
+        "app_activity": "com.crbc.madp.hrbank.MainActivity"
+    },
+    {
+        "app_name": "秦皇岛银行",
+        "package_name": "com.qhdbank.mobile",
+        "file_name": "com.qhdbank.mobile_79.apk",
+        "app_activity": "com.qhdbank.mobile.iap.ui.LauncherActivity"
+    },
+    {
+        "app_name": "湖南银行直销银行",
+        "package_name": "cn.com.xjbank.ui",
+        "file_name": "cn.com.xjbank.ui_80.apk",
+        "app_activity": "cn.com.ubbank.ui.activity.PrivacyPolicyActivity"
+    },
+    {
+        "app_name": "北部湾企业网银",
+        "package_name": "com.bbg.corporbank",
+        "file_name": "com.bbg.corporbank_81.apk",
+        "app_activity": "com.bbg.bank.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "中原企业银行",
+        "package_name": "com.csii.zyqybk.ui",
+        "file_name": "com.csii.zyqybk.ui_82.apk",
+        "app_activity": "com.zybank.neb.ui.eenterpriseapp.activity.launch.WelcomeActivity"
+    },
+    {
+        "app_name": "遂心如E",
+        "package_name": "cn.com.yusys.smrx",
+        "file_name": "cn.com.yusys.smrx_83.apk",
+        "app_activity": "cn.com.yusys.application.activeEntry"
+    },
+    {
+        "app_name": "铁岭银行直销银行",
+        "package_name": "com.seaway.bank.tieling.direct",
+        "file_name": "com.seaway.bank.tieling.direct_84.apk",
+        "app_activity": "com.tlbank.app.launcher.activity.LauncherActivity"
+    },
+    {
+        "app_name": "CBS",
+        "package_name": "com.cmbchina.treasury",
+        "file_name": "com.cmbchina.treasury_85.apk",
+        "app_activity": "com.yunchuang.treasurycbspro.ui.start.FirstViewBindingActivity"
+    },
+    {
+        "app_name": "泰隆企业银行",
+        "package_name": "com.zjtlcb.mobile.enterprise.bank",
+        "file_name": "com.zjtlcb.mobile.enterprise.bank_86.apk",
+        "app_activity": "com.alipay.mobile.quinox.LauncherActivity"
+    },
+    {
+        "app_name": "儒商村镇银行",
+        "package_name": "com.iss.jnrsczbank",
+        "file_name": "com.iss.jnrsczbank_87.apk",
+        "app_activity": "com.sccba.emas.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "鞍山银行",
+        "package_name": "com.anshan.mobilebank",
+        "file_name": "com.anshan.mobilebank_88.apk",
+        "app_activity": "com.csii.mobilebank.FirstStartActivity"
+    },
+    {
+        "app_name": "潍坊企业银行",
+        "package_name": "com.sccba.bankwf.activity",
+        "file_name": "com.sccba.bankwf.activity_89.apk",
+        "app_activity": "com.sccba.bankwf.activity.FristActivity"
+    },
+    {
+        "app_name": "莱商企业银行",
+        "package_name": "com.sccba.bankls.activity",
+        "file_name": "com.sccba.bankls.activity_90.apk",
+        "app_activity": "com.sccba.bankls.activity.FristActivity"
+    },
+    {
+        "app_name": "中国进出口银行企业手机银行APP",
+        "package_name": "com.eibc.companybank",
+        "file_name": "com.eibc.companybank_91.apk",
+        "app_activity": "com.eibc.companybank.ui.launch.LaunchActivity"
+    },
+    {
+        "app_name": "绵阳市商业银行",
+        "package_name": "com.jiuyingtec.mianyangbank.pmbs",
+        "file_name": "com.jiuyingtec.mianyangbank.pmbs_92.apk",
+        "app_activity": "com.action.loading.SplashActivity"
+    },
+    {
+        "app_name": "九银村镇银行",
+        "package_name": "com.jycbank.mobilebank",
+        "file_name": "com.jycbank.mobilebank_93.apk",
+        "app_activity": "com.jjccb.mobilebank.activity.SplashActivity"
+    },
+    {
+        "app_name": "尉氏合益村镇银行",
+        "package_name": "com.softbank.mbank.wshyvb",
+        "file_name": "com.softbank.mbank.wshyvb_94.apk",
+        "app_activity": "com.softbank.mbank.ui.home.StartActivity"
+    },
+    {
+        "app_name": "泉州银行",
+        "package_name": "com.csii_qzbank",
+        "file_name": "com.csii_qzbank_95.apk",
+        "app_activity": "com.csii.qzbank.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "交银金服",
+        "package_name": "com.bankcomm.huianquan",
+        "file_name": "com.bankcomm.huianquan_96.apk",
+        "app_activity": "com.bankcomm.main.activity.ConfigActivity"
+    },
+    {
+        "app_name": "买单吧商家",
+        "package_name": "com.bankcomm.pccc.mss",
+        "file_name": "com.bankcomm.pccc.mss_97.apk",
+        "app_activity": "com.bankcomm.pccc.mss.SplashActivity"
+    },
+    {
+        "app_name": "51信用卡管家",
+        "package_name": "com.zhangdan.app",
+        "file_name": "com.zhangdan.app_98.apk",
+        "app_activity": "com.zhangdan.app.activities.SplashActivity"
+    },
+    {
+        "app_name": "长春经开融丰村镇银行",
+        "package_name": "com.dhcc.rongfeng",
+        "file_name": "com.dhcc.rongfeng_99.apk",
+        "app_activity": "com.dhcc.rongfeng.activity.SplashActivity"
+    },
+    {
+        "app_name": "德州企业银行",
+        "package_name": "com.sccba.bankdz.activity",
+        "file_name": "com.sccba.bankdz.activity_100.apk",
+        "app_activity": "com.sccba.bankdz.activity.FristActivity"
+    },
+    {
+        "app_name": "泰惠收",
+        "package_name": "com.tlcb.merchant",
+        "file_name": "com.tlcb.merchant_101.apk",
+        "app_activity": "com.tlcb.merchant.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "裕民银行",
+        "package_name": "com.ymbank.mbank.app",
+        "file_name": "com.ymbank.mbank.app_102.apk",
+        "app_activity": "com.ymbank.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "交行云跨行",
+        "package_name": "com.bankcomm.cbbp",
+        "file_name": "com.bankcomm.cbbp_103.apk",
+        "app_activity": "com.bankcomm.main.activity.ConfigActivity"
+    },
+    {
+        "app_name": "银座银行",
+        "package_name": "com.czb.mobilehub",
+        "file_name": "com.czb.mobilehub_104.apk",
+        "app_activity": "com.tzb.mobilehub.launcher.ui.activity.LunchActivity"
+    },
+    {
+        "app_name": "城一代",
+        "package_name": "com.hncy58.financeapp",
+        "file_name": "com.hncy58.financeapp_105.apk",
+        "app_activity": "com.hncy58.financeapp.cityfirst.main.controller.LaunchActivity"
+    },
+    {
+        "app_name": "泸州银行",
+        "package_name": "com.yitong.mbank.lzccb",
+        "file_name": "com.yitong.mbank.lzccb_106.apk",
+        "app_activity": "com.yitong.mbank.app.android.activity.SplashActivity"
+    },
+    {
+        "app_name": "滨海掌上银行",
+        "package_name": "com.tjbhb.pmbs",
+        "file_name": "com.tjbhb.pmbs_107.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.guid.SplashLauncherActivity"
+    },
+    {
+        "app_name": "中德银行",
+        "package_name": "com.sgb.bank",
+        "file_name": "com.sgb.bank_108.apk",
+        "app_activity": "com.sgb.bank.launch.LaunchActivity"
+    },
+    {
+        "app_name": "东亚中国手机银行",
+        "package_name": "com.heabk.mbk",
+        "file_name": "com.heabk.mbk_109.apk",
+        "app_activity": "com.icitic.custom.ui.SplashActivity"
+    },
+    {
+        "app_name": "泸贝尔",
+        "package_name": "com.lzccb.ming",
+        "file_name": "com.lzccb.ming_110.apk",
+        "app_activity": "com.lzccb.ming.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "重庆农商行直销银行",
+        "package_name": "com.cqrcb.dbank",
+        "file_name": "com.cqrcb.dbank_111.apk",
+        "app_activity": "com.cqrcb.dbank.menu.StartActivity"
+    },
+    {
+        "app_name": "黄河银行",
+        "package_name": "com.nxy.nxybank.enterprise.ningxia",
+        "file_name": "com.nxy.nxybank.enterprise.ningxia_112.apk",
+        "app_activity": "com.nxy.nxybank.app.FlashActivity"
+    },
+    {
+        "app_name": "东吴村镇银行",
+        "package_name": "com.suzhoubank.countybank",
+        "file_name": "com.suzhoubank.countybank_113.apk",
+        "app_activity": "com.yt.sz.szbank.newLaunch.NBSplashActivity"
+    },
+    {
+        "app_name": "澳門中銀",
+        "package_name": "com.bocmacau.com",
+        "file_name": "com.bocmacau.com_114.apk",
+        "app_activity": "com.bocmacau.com.android.activity.guide.FlashActivity"
+    },
+    {
+        "app_name": "哈行信用卡",
+        "package_name": "cn.com.hebbank.mbank",
+        "file_name": "cn.com.hebbank.mbank_115.apk",
+        "app_activity": "com.cupd.MainActivity"
+    },
+    {
+        "app_name": "泰安银行",
+        "package_name": "com.iss.taianbank",
+        "file_name": "com.iss.taianbank_116.apk",
+        "app_activity": "com.sccba.emas.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "济宁企业银行",
+        "package_name": "com.sccba.bankjn.activity",
+        "file_name": "com.sccba.bankjn.activity_117.apk",
+        "app_activity": "com.sccba.bankjn.activity.FristActivity"
+    },
+    {
+        "app_name": "鄂尔多斯银行",
+        "package_name": "com.sccba.ordosbank",
+        "file_name": "com.sccba.ordosbank_118.apk",
+        "app_activity": "com.yitong.mbank.ordos.activity.StartActivity"
+    },
+    {
+        "app_name": "齐商村镇银行",
+        "package_name": "com.sccba.qishczbank",
+        "file_name": "com.sccba.qishczbank_119.apk",
+        "app_activity": "com.sccba.emas.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "张家港农商银行",
+        "package_name": "com.zrcbank.mobilebank",
+        "file_name": "com.zrcbank.mobilebank_120.apk",
+        "app_activity": "com.zrcbank.mobilebank.DemoMainActivity"
+    },
+    {
+        "app_name": "广东华兴银行",
+        "package_name": "com.csii",
+        "file_name": "com.csii_121.apk",
+        "app_activity": "com.csii.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "平安数字口袋",
+        "package_name": "com.csii.pab",
+        "file_name": "com.csii.pab_122.apk",
+        "app_activity": "com.csii.pab.SplashActivity"
+    },
+    {
+        "app_name": "自贡银行",
+        "package_name": "com.csii.zgp",
+        "file_name": "com.csii.zgp_123.apk",
+        "app_activity": "com.csii.ui.SplashScreenActivity"
+    },
+    {
+        "app_name": "E路有我",
+        "package_name": "com.jsrcu.directbank",
+        "file_name": "com.jsrcu.directbank_124.apk",
+        "app_activity": "com.jsrcu.directbank.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "长江村镇银行",
+        "package_name": "com.whrcbank.mcjrb",
+        "file_name": "com.whrcbank.mcjrb_125.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "辽沈银行",
+        "package_name": "com.yhmobilebank",
+        "file_name": "com.yhmobilebank_126.apk",
+        "app_activity": "com.yhmobilebank.activity.SplashActivity"
+    },
+    {
+        "app_name": "上银企业银行",
+        "package_name": "com.bosc.PWShexpress",
+        "file_name": "com.bosc.PWShexpress_127.apk",
+        "app_activity": "com.ynet.mobile.launcher.SplashActivity"
+    },
+    {
+        "app_name": "润钱包",
+        "package_name": "com.crbank.vas",
+        "file_name": "com.crbank.vas_128.apk",
+        "app_activity": "com.hrt.platform.activity.FlashActivity"
+    },
+    {
+        "app_name": "盛京银行企业版",
+        "package_name": "com.shengjingbank.enterprisebank",
+        "file_name": "com.shengjingbank.enterprisebank_129.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "临商企业银行",
+        "package_name": "com.sccba.linsbank.activity",
+        "file_name": "com.sccba.linsbank.activity_130.apk",
+        "app_activity": "com.sccba.linsbank.activity.FristActivity"
+    },
+    {
+        "app_name": "德州银行",
+        "package_name": "com.iss.dezhoubank",
+        "file_name": "com.iss.dezhoubank_131.apk",
+        "app_activity": "com.sccba.emas.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "海南农商银行企业版",
+        "package_name": "com.hnnx.enterprise",
+        "file_name": "com.hnnx.enterprise_132.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "新泰齐丰村镇银行",
+        "package_name": "com.dhcc.xintai",
+        "file_name": "com.dhcc.xintai_133.apk",
+        "app_activity": "com.dhcc.xintai.activity.SplashActivity"
+    },
+    {
+        "app_name": "安徽农金企业手机银行",
+        "package_name": "com.csii.ahrcu.entmbank",
+        "file_name": "com.csii.ahrcu.entmbank_134.apk",
+        "app_activity": "com.csii.ahrcu.entmbank.ui.SplashActivity"
+    },
+    {
+        "app_name": "重庆农商行企业网银",
+        "package_name": "com.cqrcb.corporate",
+        "file_name": "com.cqrcb.corporate_135.apk",
+        "app_activity": "com.cqrcb.smartbank.LauncherActivity"
+    },
+    {
+        "app_name": "河南方城凤裕村镇银行",
+        "package_name": "com.iss.hnlscbank",
+        "file_name": "com.iss.hnlscbank_136.apk",
+        "app_activity": "com.sccba.emas.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "东营银行",
+        "package_name": "com.iss.dongyingbank",
+        "file_name": "com.iss.dongyingbank_137.apk",
+        "app_activity": "com.sccba.emas.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "浦发村镇银行",
+        "package_name": "cn.com.spdb.mobilebank.village",
+        "file_name": "cn.com.spdb.mobilebank.village_138.apk",
+        "app_activity": "cn.com.spdb.mobilebank.village.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "光大企业银行",
+        "package_name": "com.cebbank.entmb",
+        "file_name": "com.cebbank.entmb_139.apk",
+        "app_activity": "com.icitic.mobile.app.ui.LauncherActivity"
+    },
+    {
+        "app_name": "邮惠万商",
+        "package_name": "com.psbcubank.yhws",
+        "file_name": "com.psbcubank.yhws_140.apk",
+        "app_activity": "fox.app.yhwj.SplashActivity"
+    },
+    {
+        "app_name": "海丰农商银行",
+        "package_name": "com.szrcb.pmobile.android.haifeng",
+        "file_name": "com.szrcb.pmobile.android.haifeng_141.apk",
+        "app_activity": "com.szrcb.pmobile.android.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "天津华明村镇银行",
+        "package_name": "com.cib.fintech.tjhmbank",
+        "file_name": "com.cib.fintech.tjhmbank_142.apk",
+        "app_activity": "com.cib.fintech.activity.SplashActivity"
+    },
+    {
+        "app_name": "齐鲁村镇银行",
+        "package_name": "com.iss.zqqlczbank",
+        "file_name": "com.iss.zqqlczbank_143.apk",
+        "app_activity": "com.sccba.emas.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "兴福村镇银行",
+        "package_name": "com.csii.xfczbank",
+        "file_name": "com.csii.xfczbank_144.apk",
+        "app_activity": "com.alipay.mobile.quinox.LauncherActivity"
+    },
+    {
+        "app_name": "新华村镇银行",
+        "package_name": "com.csii.xinhua.mobilebank",
+        "file_name": "com.csii.xinhua.mobilebank_145.apk",
+        "app_activity": "com.csii.mobilebank.FirstStartActivity"
+    },
+    {
+        "app_name": "云南红塔银行企业手机银行",
+        "package_name": "com.ynhtbank.enterprise",
+        "file_name": "com.ynhtbank.enterprise_146.apk",
+        "app_activity": "com.ynhtbank.PrivacyPolicyActivity"
+    },
+    {
+        "app_name": "稠州企业银行",
+        "package_name": "com.czcb.cobank",
+        "file_name": "com.czcb.cobank_147.apk",
+        "app_activity": "com.alipay.mobile.quinox.LauncherActivity"
+    },
+    {
+        "app_name": "九银E管家",
+        "package_name": "com.jjccb.qebank",
+        "file_name": "com.jjccb.qebank_148.apk",
+        "app_activity": "com.sinosun.bank.ui.activity.ExtWiWelcomeActivity"
+    },
+    {
+        "app_name": "北京银行小巨人",
+        "package_name": "com.bankofbeijing.app.ebank",
+        "file_name": "com.bankofbeijing.app.ebank_149.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "长银消费金融",
+        "package_name": "cn.com.cycfc.cyxfjrapp",
+        "file_name": "cn.com.cycfc.cyxfjrapp_150.apk",
+        "app_activity": "cn.com.cycfc.cyxfjrapp.MainActivity"
+    },
+    {
+        "app_name": "中关村银行",
+        "package_name": "com.mobile.zgcbank",
+        "file_name": "com.mobile.zgcbank_151.apk",
+        "app_activity": "com.csii.madp.standard.ui.BankMainActivity"
+    },
+    {
+        "app_name": "东莞银行村镇银行",
+        "package_name": "cn.dongguanbank.czbank.prd",
+        "file_name": "cn.dongguanbank.czbank.prd_152.apk",
+        "app_activity": "com.alipay.mobile.quinox.LauncherActivity"
+    },
+    {
+        "app_name": "朝阳银行",
+        "package_name": "com.csii.chaoyang.mobilebank",
+        "file_name": "com.csii.chaoyang.mobilebank_153.apk",
+        "app_activity": "com.csii.iap.ui.SplashActivity"
+    },
+    {
+        "app_name": "日照企业银行",
+        "package_name": "com.sccba.bankrz.activity",
+        "file_name": "com.sccba.bankrz.activity_154.apk",
+        "app_activity": "com.sccba.emas.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "惠享精彩",
+        "package_name": "cn.com.nccbank.mbank",
+        "file_name": "cn.com.nccbank.mbank_155.apk",
+        "app_activity": "cn.com.nccbank.mbank.MainActivity"
+    },
+    {
+        "app_name": "兴业研究",
+        "package_name": "com.richeninfo.industrialstudy",
+        "file_name": "com.richeninfo.industrialstudy_156.apk",
+        "app_activity": "com.richeninfo.industrialstudy.activity.guide.StartPageActivity"
+    },
+    {
+        "app_name": "企业e钱庄",
+        "package_name": "com.berchina.bcseebank",
+        "file_name": "com.berchina.bcseebank_157.apk",
+        "app_activity": "com.berchina.bcseebank.mvp.ui.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "万山长征村镇银行",
+        "package_name": "com.cib.fintech.wsczbank",
+        "file_name": "com.cib.fintech.wsczbank_158.apk",
+        "app_activity": "com.cib.fintech.activity.SplashActivity"
+    },
+    {
+        "app_name": "阳光村镇银行",
+        "package_name": "com.dhcc.app",
+        "file_name": "com.dhcc.app_159.apk",
+        "app_activity": "com.dhcc.app.activity.SplashActivity"
+    },
+    {
+        "app_name": "赣州银行企业手机银行",
+        "package_name": "com.csii.gzenterprise",
+        "file_name": "com.csii.gzenterprise_160.apk",
+        "app_activity": "com.csii.gzenterprise.SplashActivity"
+    },
+    {
+        "app_name": "海汇村镇银行",
+        "package_name": "com.iss.qdjnhhczbank",
+        "file_name": "com.iss.qdjnhhczbank_161.apk",
+        "app_activity": "com.sccba.emas.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "辽宁振兴银行",
+        "package_name": "com.newup.mobile.iap",
+        "file_name": "com.newup.mobile.iap_162.apk",
+        "app_activity": "com.csii.iap.ui.SplashActivity"
+    },
+    {
+        "app_name": "掌上银行家",
+        "package_name": "com.base.app.bj",
+        "file_name": "com.base.app.bj_163.apk",
+        "app_activity": "com.bj.bob.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "天津银行企业手机银行",
+        "package_name": "tianjin.enterprise.bank",
+        "file_name": "tianjin.enterprise.bank_164.apk",
+        "app_activity": "tianjin.enterprise.bank.ShActivity"
+    },
+    {
+        "app_name": "抚顺银行",
+        "package_name": "com.csii.fushun.mobilebank",
+        "file_name": "com.csii.fushun.mobilebank_165.apk",
+        "app_activity": "com.fsbank.MainActivity"
+    },
+    {
+        "app_name": "企业移动银行",
+        "package_name": "com.citicbank.comb",
+        "file_name": "com.citicbank.comb_166.apk",
+        "app_activity": "com.citicbank.comb.module.splash.view.SplashActivity"
+    },
+    {
+        "app_name": "东营莱商村镇银行",
+        "package_name": "com.iss.dylsczbank",
+        "file_name": "com.iss.dylsczbank_167.apk",
+        "app_activity": "com.sccba.emas.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "梅州客家村镇银行",
+        "package_name": "com.softbank.mbank.hakka",
+        "file_name": "com.softbank.mbank.hakka_168.apk",
+        "app_activity": "com.softbank.mbank.ui.home.StartActivity"
+    },
+    {
+        "app_name": "张家港农商行企业手机银行",
+        "package_name": "com.zrcbank.entmobile",
+        "file_name": "com.zrcbank.entmobile_169.apk",
+        "app_activity": "com.csii.zrcbank.MainActivity"
+    },
+    {
+        "app_name": "廊坊银行",
+        "package_name": "com.urthinker.langfangbank.lfbank",
+        "file_name": "com.urthinker.langfangbank.lfbank_170.apk",
+        "app_activity": "com.urthinker.langfangbank.lfbank.StartPageActivity"
+    },
+    {
+        "app_name": "锡商银行",
+        "package_name": "com.wxsbank.mbank",
+        "file_name": "com.wxsbank.mbank_171.apk",
+        "app_activity": "com.csii.tech.main.PrivacyGrantActivity"
+    },
+    {
+        "app_name": "青海省农村信用社企业手机银行",
+        "package_name": "com.qhrc.embank",
+        "file_name": "com.qhrc.embank_172.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "齐鲁企业银行",
+        "package_name": "com.sccba.bankql.activity",
+        "file_name": "com.sccba.bankql.activity_173.apk",
+        "app_activity": "com.sccba.bankql.activity.FristActivity"
+    },
+    {
+        "app_name": "平安银行企业交易通",
+        "package_name": "com.pingan.bank.apps.papublic",
+        "file_name": "com.pingan.bank.apps.papublic_174.apk",
+        "app_activity": "com.erayt.android.app.SplashActivity"
+    },
+    {
+        "app_name": "京行企业银行",
+        "package_name": "com.rytong.app.bjee",
+        "file_name": "com.rytong.app.bjee_175.apk",
+        "app_activity": "com.sinosun.tchats.WiWelcomeActivity"
+    },
+    {
+        "app_name": "太仓农商行手机银行",
+        "package_name": "com.cloudcore.tcrcb",
+        "file_name": "com.cloudcore.tcrcb_176.apk",
+        "app_activity": "com.cloudcore.tcrcb.activity.SplashScreenActivity"
+    },
+    {
+        "app_name": "丹东银行",
+        "package_name": "com.dandong.bank",
+        "file_name": "com.dandong.bank_177.apk",
+        "app_activity": "com.dandong.bank.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "客商银行",
+        "package_name": "com.yitong.ksbank.digital",
+        "file_name": "com.yitong.ksbank.digital_178.apk",
+        "app_activity": "com.alipay.mobile.quinox.LauncherActivity"
+    },
+    {
+        "app_name": "文山民丰村镇银行",
+        "package_name": "com.cib.fintech.wsmfbank",
+        "file_name": "com.cib.fintech.wsmfbank_179.apk",
+        "app_activity": "com.cib.fintech.activity.SplashActivity"
+    },
+    {
+        "app_name": "浦发企业版",
+        "package_name": "cn.com.spdb.mobilebank.company",
+        "file_name": "cn.com.spdb.mobilebank.company_180.apk",
+        "app_activity": "cn.com.spdb.mobilebank.company.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "三湘产业银行",
+        "package_name": "com.csxbank.iib",
+        "file_name": "com.csxbank.iib_181.apk",
+        "app_activity": "com.csxbank.iib.ui.SplashActivity"
+    },
+    {
+        "app_name": "温州民商银行",
+        "package_name": "com.wzmsbank.mobile",
+        "file_name": "com.wzmsbank.mobile_182.apk",
+        "app_activity": "tech.madp.core.DefaultActivity"
+    },
+    {
+        "app_name": "齐商银行",
+        "package_name": "com.iss.qishangbank",
+        "file_name": "com.iss.qishangbank_183.apk",
+        "app_activity": "com.sccba.emas.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "厦行e企管",
+        "package_name": "com.xmbankonline.sjyhemba",
+        "file_name": "com.xmbankonline.sjyhemba_184.apk",
+        "app_activity": "com.sinosun.tchats.WiWelcomeActivity"
+    },
+    {
+        "app_name": "海南银行手机银行2.0",
+        "package_name": "com.csii.hainanbank",
+        "file_name": "com.csii.hainanbank_185.apk",
+        "app_activity": "com.csii.tech.SplashActivity"
+    },
+    {
+        "app_name": "ICBC",
+        "package_name": "com.icbc.mobile.abroadbank",
+        "file_name": "com.icbc.mobile.abroadbank_186.apk",
+        "app_activity": "com.icbc.mobile.abroadbank.starter.CommonClientStarter"
+    },
+    {
+        "app_name": "临商银行",
+        "package_name": "com.iss.linshangbank",
+        "file_name": "com.iss.linshangbank_187.apk",
+        "app_activity": "com.sccba.emas.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "徽行交易家",
+        "package_name": "com.tbcpapp.hsbank",
+        "file_name": "com.tbcpapp.hsbank_188.apk",
+        "app_activity": "com.hsbank.hsebank.ui.SplashActivity"
+    },
+    {
+        "app_name": "大洼恒丰村镇银行",
+        "package_name": "com.softbank.mbank.xy.dwhf",
+        "file_name": "com.softbank.mbank.xy.dwhf_189.apk",
+        "app_activity": "com.softbank.mbank.ui.home.StartActivity"
+    },
+    {
+        "app_name": "哈密市商业银行",
+        "package_name": "com.softbank.mbank.xy.hmsh",
+        "file_name": "com.softbank.mbank.xy.hmsh_190.apk",
+        "app_activity": "com.csii.madp.activity.LaunchActivity"
+    },
+    {
+        "app_name": "兰陵村镇银行",
+        "package_name": "com.softbank.mbank.xy.llcz",
+        "file_name": "com.softbank.mbank.xy.llcz_191.apk",
+        "app_activity": "com.softbank.mbank.ui.home.StartActivity"
+    },
+    {
+        "app_name": "南阳村镇银行",
+        "package_name": "com.softbank.mbank.xy.nycz",
+        "file_name": "com.softbank.mbank.xy.nycz_192.apk",
+        "app_activity": "com.cib.fintech.activity.SplashActivity"
+    },
+    {
+        "app_name": "华夏企业银行",
+        "package_name": "com.hx.qyBank",
+        "file_name": "com.hx.qyBank_193.apk",
+        "app_activity": "com.hx.qyBank.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "广发银行海外",
+        "package_name": "com.cgbchina.aomen",
+        "file_name": "com.cgbchina.aomen_194.apk",
+        "app_activity": "com.alipay.mobile.quinox.LauncherActivity"
+    },
+    {
+        "app_name": "凤凰信用卡",
+        "package_name": "cn.com.bjbank.mbank",
+        "file_name": "cn.com.bjbank.mbank_195.apk",
+        "app_activity": "cn.com.bjbank.mbank.MainActivity"
+    },
+    {
+        "app_name": "亿联银行",
+        "package_name": "com.yilianbank.yilian",
+        "file_name": "com.yilianbank.yilian_196.apk",
+        "app_activity": "com.yilianbank.yilian.iap.ui.SplashActivity"
+    },
+    {
+        "app_name": "烟台银行",
+        "package_name": "com.iss.yantaibank",
+        "file_name": "com.iss.yantaibank_198.apk",
+        "app_activity": "com.sccba.emas.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "众邦E企通",
+        "package_name": "com.zbank.emobile",
+        "file_name": "com.zbank.emobile_199.apk",
+        "app_activity": "com.cloudcore.fpaas.dcfcs.activity.HomeActivity"
+    },
+    {
+        "app_name": "成都银行企业银行",
+        "package_name": "com.yitong.cd.mbank.enterprise.android",
+        "file_name": "com.yitong.cd.mbank.enterprise.android_200.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "中牟郑银村镇银行",
+        "package_name": "com.dhcc.zapp",
+        "file_name": "com.dhcc.zapp_201.apk",
+        "app_activity": "com.dhcc.zapp.activity.SplashActivity"
+    },
+    {
+        "app_name": "兴川信用卡",
+        "package_name": "cn.com.scnxbank.mbank",
+        "file_name": "cn.com.scnxbank.mbank_202.apk",
+        "app_activity": "cn.com.scnxbank.mbank.activity.MainActivity"
+    },
+    {
+        "app_name": "青岛农商银行直销银行",
+        "package_name": "com.xinruan.dbank.app.android",
+        "file_name": "com.xinruan.dbank.app.android_203.apk",
+        "app_activity": "com.xinruan.dbank.app.android.activity.SplashActivity"
+    },
+    {
+        "app_name": "一码付商户版",
+        "package_name": "com.dhcc.lseh.biz",
+        "file_name": "com.dhcc.lseh.biz_204.apk",
+        "app_activity": "com.dhcc.ygeh.biz.ReactMain"
+    },
+    {
+        "app_name": "CMB WING LUNG BANK",
+        "package_name": "com.wlb.android",
+        "file_name": "com.wlb.android_205.apk",
+        "app_activity": "com.wlb.android.launcher.activity.WlbLauncherActivityKt"
+    },
+    {
+        "app_name": "黔农云企业版",
+        "package_name": "cn.com.gznx.corbank",
+        "file_name": "cn.com.gznx.corbank_206.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "农银香港分行",
+        "package_name": "com.abc.hkphonebank",
+        "file_name": "com.abc.hkphonebank_207.apk",
+        "app_activity": "com.alipay.mobile.quinox.LauncherActivity"
+    },
+    {
+        "app_name": "浙商银行企业手机银行",
+        "package_name": "com.czbank.mbankent",
+        "file_name": "com.czbank.mbankent_208.apk",
+        "app_activity": "com.czbank.mbankent.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "四川银行凉山分行",
+        "package_name": "com.scbankls.mobile",
+        "file_name": "com.scbankls.mobile_209.apk",
+        "app_activity": "com.scbankls.mobile.activity.SplashActivity"
+    },
+    {
+        "app_name": "平安信托",
+        "package_name": "com.patrust.dtstore",
+        "file_name": "com.patrust.dtstore_210.apk",
+        "app_activity": "com.patrust.dtstore.splash.SplashActivity"
+    },
+    {
+        "app_name": "蜜蜂银行",
+        "package_name": "com.cloudcore.beeb.directbank",
+        "file_name": "com.cloudcore.beeb.directbank_211.apk",
+        "app_activity": "com.honeylifeproject.MainActivity"
+    },
+    {
+        "app_name": "小泸银企通",
+        "package_name": "com.yitong.ebank.lzccb",
+        "file_name": "com.yitong.ebank.lzccb_212.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "武农商企业版",
+        "package_name": "com.whrcbank.entmbank",
+        "file_name": "com.whrcbank.entmbank_213.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "九银店老板",
+        "package_name": "com.huateng.merchantjcb",
+        "file_name": "com.huateng.merchantjcb_214.apk",
+        "app_activity": "com.huateng.merchantjcb.ui.main.SplashActivity"
+    },
+    {
+        "app_name": "龙江银行企业手机银行",
+        "package_name": "com.ljcorporbank.pro",
+        "file_name": "com.ljcorporbank.pro_215.apk",
+        "app_activity": "com.csii.madp.standard.banke.activity.PrivacyActivity"
+    },
+    {
+        "app_name": "苏心生活",
+        "package_name": "com.suzhou.direct.bank",
+        "file_name": "com.suzhou.direct.bank_216.apk",
+        "app_activity": "com.suzhou.direct.bank.main.DBankMainActivity"
+    },
+    {
+        "app_name": "友利银行",
+        "package_name": "com.wooribankchina.mbs",
+        "file_name": "com.wooribankchina.mbs_217.apk",
+        "app_activity": "com.csii.iap.ui.SplashActivity"
+    },
+    {
+        "app_name": "沪农商村镇银行",
+        "package_name": "com.srcb.czmbank",
+        "file_name": "com.srcb.czmbank_218.apk",
+        "app_activity": "com.yitong.mbank.app.android.activity.SplashActivity"
+    },
+    {
+        "app_name": "飞燕码上付",
+        "package_name": "com.csBank",
+        "file_name": "com.csBank_219.apk",
+        "app_activity": "com.csBank.MainActivity"
+    },
+    {
+        "app_name": "珠江农商银行",
+        "package_name": "com.zjns.mobilebank",
+        "file_name": "com.zjns.mobilebank_220.apk",
+        "app_activity": "com.zjns.mobilebank.activity.guild.FirstActivity"
+    },
+    {
+        "app_name": "内蒙古银行企业版",
+        "package_name": "com.sccba.banknm.activity",
+        "file_name": "com.sccba.banknm.activity_221.apk",
+        "app_activity": "com.sccba.banknm.activity.FristActivity"
+    },
+    {
+        "app_name": "信用卡申请",
+        "package_name": "com.yuchuan.xykapp",
+        "file_name": "com.yuchuan.xykapp_222.apk",
+        "app_activity": "com.yuchuan.xykapp.Splash"
+    },
+    {
+        "app_name": "海峡银行",
+        "package_name": "com.haixia",
+        "file_name": "com.haixia_223.apk",
+        "app_activity": "com.icitic.mobile.app.ui.LauncherActivity"
+    },
+    {
+        "app_name": "华通银行",
+        "package_name": "com.onebank.mbs",
+        "file_name": "com.onebank.mbs_224.apk",
+        "app_activity": "com.example.acer.onebankmobile.activity.SplashScreenAcivity"
+    },
+    {
+        "app_name": "空手到",
+        "package_name": "com.ksdao.ksdapp",
+        "file_name": "com.ksdao.ksdapp_225.apk",
+        "app_activity": "com.ksdao.ksdapp.activity.SplashActivity"
+    },
+    {
+        "app_name": "东莞银行企业手机银行",
+        "package_name": "cn.dongguanbank.eb.app.prod",
+        "file_name": "cn.dongguanbank.eb.app.prod_226.apk",
+        "app_activity": "com.alipay.mobile.quinox.LauncherActivity"
+    },
+    {
+        "app_name": "天空银行",
+        "package_name": "cn.com.hbbank.ui",
+        "file_name": "cn.com.hbbank.ui_227.apk",
+        "app_activity": "cn.com.hbbank.ui.SplashScreenActivity"
+    },
+    {
+        "app_name": "湖商村镇银行",
+        "package_name": "com.csii.nanxun.mobilebank",
+        "file_name": "com.csii.nanxun.mobilebank_228.apk",
+        "app_activity": "com.csii.mobilebank.FirstStartActivity"
+    },
+    {
+        "app_name": "大新银行中国",
+        "package_name": "com.dahsing.mbank",
+        "file_name": "com.dahsing.mbank_229.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "宁波东海银行",
+        "package_name": "com.iss.nbdhbank",
+        "file_name": "com.iss.nbdhbank_230.apk",
+        "app_activity": "com.sccba.emas.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "DBS digibank CN",
+        "package_name": "com.dbs.dbschina",
+        "file_name": "com.dbs.dbschina_231.apk",
+        "app_activity": "com.dbs.dbschina.ui.SplashActivity"
+    },
+    {
+        "app_name": "阜新银行",
+        "package_name": "com.fuxinbank.mobilebank.personal",
+        "file_name": "com.fuxinbank.mobilebank.personal_232.apk",
+        "app_activity": "com.fxbank.app.launcher.activity.LauncherActivity"
+    },
+    {
+        "app_name": "银企e+",
+        "package_name": "com.zjrcbank.yqt",
+        "file_name": "com.zjrcbank.yqt_233.apk",
+        "app_activity": "com.sinosun.tchats.WiWelcomeActivity"
+    },
+    {
+        "app_name": "阿拉善左旗方大村镇银行",
+        "package_name": "com.softbank.mbank.alsfdyh",
+        "file_name": "com.softbank.mbank.alsfdyh_234.apk",
+        "app_activity": "com.softbank.mbank.ui.home.StartActivity"
+    },
+    {
+        "app_name": "苏州农商银行",
+        "package_name": "com.szrcb.emobilebank",
+        "file_name": "com.szrcb.emobilebank_235.apk",
+        "app_activity": "com.csii.ebank.MainActivity"
+    },
+    {
+        "app_name": "吉行企业银行",
+        "package_name": "com.jlbank.corporate",
+        "file_name": "com.jlbank.corporate_236.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "富民银行",
+        "package_name": "com.fbank.mobile",
+        "file_name": "com.fbank.mobile_237.apk",
+        "app_activity": "com.mobilebank.MainActivity"
+    },
+    {
+        "app_name": "信步天下",
+        "package_name": "com.sinosure.insurance.portal",
+        "file_name": "com.sinosure.insurance.portal_238.apk",
+        "app_activity": "com.primeton.mobile.client.core.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "海口联合农商银行手机银行",
+        "package_name": "com.yitong.hkns.mbank.android",
+        "file_name": "com.yitong.hkns.mbank.android_239.apk",
+        "app_activity": "com.sinoiift.fintech.activity.SplashActivity"
+    },
+    {
+        "app_name": "宁波通商银行",
+        "package_name": "com.ncbank.mobile",
+        "file_name": "com.ncbank.mobile_240.apk",
+        "app_activity": "com.cloudcore.bank.ui.HomeCdvActivity"
+    },
+    {
+        "app_name": "新疆银行手机银行",
+        "package_name": "com.xjbank.mbk",
+        "file_name": "com.xjbank.mbk_241.apk",
+        "app_activity": "com.xjbank.mbk.SplashActivity"
+    },
+    {
+        "app_name": "保定银行",
+        "package_name": "com.baoding.mobilebank",
+        "file_name": "com.baoding.mobilebank_242.apk",
+        "app_activity": "com.baoding.mobilebank.DemoMainActivity"
+    },
+    {
+        "app_name": "固始天骄村镇银行",
+        "package_name": "com.dhcc.tianjiao",
+        "file_name": "com.dhcc.tianjiao_243.apk",
+        "app_activity": "com.dhcc.tianjiao.activity.SplashActivity"
+    },
+    {
+        "app_name": "黔农村银",
+        "package_name": "com.csii.czyh",
+        "file_name": "com.csii.czyh_244.apk",
+        "app_activity": "com.csii.madp.standard.DemoMainActivity"
+    },
+    {
+        "app_name": "农商行收银宝",
+        "package_name": "com.csii.jsnx",
+        "file_name": "com.csii.jsnx_245.apk",
+        "app_activity": "com.bank.jsnx.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "珠江村镇银行",
+        "package_name": "com.zjrbmb.mobilebank",
+        "file_name": "com.zjrbmb.mobilebank_246.apk",
+        "app_activity": "com.zjrbmb.mobilebank.activity.guild.FirstActivity"
+    },
+    {
+        "app_name": "悦农e付收银台",
+        "package_name": "com.nongxin.tongyizhifu",
+        "file_name": "com.nongxin.tongyizhifu_247.apk",
+        "app_activity": "com.nongxin.tongyizhifu.SplashActivity"
+    },
+    {
+        "app_name": "西银惠付",
+        "package_name": "com.xacbank.xyhf",
+        "file_name": "com.xacbank.xyhf_248.apk",
+        "app_activity": "com.xacbank.xyhf.ui.GuidesActivity"
+    },
+    {
+        "app_name": "达州银行",
+        "package_name": "com.dzccb.mbank",
+        "file_name": "com.dzccb.mbank_249.apk",
+        "app_activity": "com.dzccb.mbank.mvp.activity.FlashActivity"
+    },
+    {
+        "app_name": "云南红塔银行",
+        "package_name": "com.csii.yuxi.mobilebank",
+        "file_name": "com.csii.yuxi.mobilebank_250.apk",
+        "app_activity": "com.ynhtbank.PrivacyPolicyActivity"
+    },
+    {
+        "app_name": "掌上蜜商家",
+        "package_name": "com.yzbeeb.android.tpad",
+        "file_name": "com.yzbeeb.android.tpad_251.apk",
+        "app_activity": "com.dcits.myapplication.ui.SplashScreenActivity"
+    },
+    {
+        "app_name": "SC China",
+        "package_name": "com.scb.poc.bmw",
+        "file_name": "com.scb.poc.bmw_252.apk",
+        "app_activity": "com.sc.retail.scmobile.MainActivity"
+    },
+    {
+        "app_name": "稠州村镇银行",
+        "package_name": "com.czcb.townbank",
+        "file_name": "com.czcb.townbank_253.apk",
+        "app_activity": "com.alipay.mobile.quinox.LauncherActivity"
+    },
+    {
+        "app_name": "广东南粤银行",
+        "package_name": "com.gdnybank.m",
+        "file_name": "com.gdnybank.m_254.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "蒙商信用卡",
+        "package_name": "cn.com.bsbank.mbank",
+        "file_name": "cn.com.bsbank.mbank_255.apk",
+        "app_activity": "com.cupd.activity.MainActivity"
+    },
+    {
+        "app_name": "南京银行企业银行",
+        "package_name": "com.njcb.android.xeb",
+        "file_name": "com.njcb.android.xeb_256.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "江阴农商银行",
+        "package_name": "com.jybank.jynsbank",
+        "file_name": "com.jybank.jynsbank_257.apk",
+        "app_activity": "com.csii.tech.activity.DefaultStartActivity"
+    },
+    {
+        "app_name": "嘉兴银行",
+        "package_name": "com.csii.jiaxing.mobilebank",
+        "file_name": "com.csii.jiaxing.mobilebank_258.apk",
+        "app_activity": "com.csii.jiaxing.mobilebank.DemoMainActivity"
+    },
+    {
+        "app_name": "财资大管家",
+        "package_name": "com.nbcb.tmsmobile",
+        "file_name": "com.nbcb.tmsmobile_259.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.SplashActivity"
+    },
+    {
+        "app_name": "长安企业银行",
+        "package_name": "com.sccba.bankca.activity",
+        "file_name": "com.sccba.bankca.activity_260.apk",
+        "app_activity": "com.sccba.bankca.activity.FristActivity"
+    },
+    {
+        "app_name": "湖南三湘银行",
+        "package_name": "com.sxmb.bank",
+        "file_name": "com.sxmb.bank_261.apk",
+        "app_activity": "com.alipay.mobile.quinox.LauncherActivity"
+    },
+    {
+        "app_name": "农银e管家",
+        "package_name": "com.abchina.ebizbtob",
+        "file_name": "com.abchina.ebizbtob_262.apk",
+        "app_activity": "com.abchina.ebizbtob.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "承德银行",
+        "package_name": "com.chengde.mbank",
+        "file_name": "com.chengde.mbank_263.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "小狮Bank",
+        "package_name": "cn.foshanbank.dbank",
+        "file_name": "cn.foshanbank.dbank_264.apk",
+        "app_activity": "cn.foshanbank.dbank.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "药都农商行",
+        "package_name": "com.yaodu.supplychain",
+        "file_name": "com.yaodu.supplychain_265.apk",
+        "app_activity": "com.yaodu.supplychain.modular.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "平安银行香港",
+        "package_name": "com.pingan.paces.hk",
+        "file_name": "com.pingan.paces.hk_266.apk",
+        "app_activity": "com.pingan.pocketbank.splash.PALoadingActivity"
+    },
+    {
+        "app_name": "宝石山",
+        "package_name": "com.yt.hz.financial",
+        "file_name": "com.yt.hz.financial_267.apk",
+        "app_activity": "com.xindun.sdk.FirstAty"
+    },
+    {
+        "app_name": "企业互联",
+        "package_name": "com.zjrc.cba",
+        "file_name": "com.zjrc.cba_268.apk",
+        "app_activity": "com.zjrc.cba.biz.launcher.splash.SplashActivity"
+    },
+    {
+        "app_name": "融e生活",
+        "package_name": "com.szicbc.mobile",
+        "file_name": "com.szicbc.mobile_269.apk",
+        "app_activity": "com.szicbc.mobile.ui.LoadingActivity"
+    },
+    {
+        "app_name": "金城银行",
+        "package_name": "com.cn.tjjcdirectbank",
+        "file_name": "com.cn.tjjcdirectbank_270.apk",
+        "app_activity": "com.cn.tjjcdirectbank.app.LauncherActivity"
+    },
+    {
+        "app_name": "大连农商银行",
+        "package_name": "cn.com.yusys.dlrcbmb",
+        "file_name": "cn.com.yusys.dlrcbmb_271.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "苏州农商银行",
+        "package_name": "com.csii.wjnsbank",
+        "file_name": "com.csii.wjnsbank_272.apk",
+        "app_activity": "com.csii.wjnsbank.MainActivity"
+    },
+    {
+        "app_name": "自贡银行直销银行",
+        "package_name": "com.pafinancialtech.zigongbank",
+        "file_name": "com.pafinancialtech.zigongbank_273.apk",
+        "app_activity": "com.pingan.fstandard.activity.SplashActivity"
+    },
+    {
+        "app_name": "重庆三峡银行",
+        "package_name": "com.sxb.mobilebank.per",
+        "file_name": "com.sxb.mobilebank.per_274.apk",
+        "app_activity": "com.cqtgb.mobilebank.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "深农商企业版",
+        "package_name": "com.cloudcore.emobile.szrcb",
+        "file_name": "com.cloudcore.emobile.szrcb_275.apk",
+        "app_activity": "com.szrcb.emobile.android.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "襄垣县融汇村镇银行",
+        "package_name": "com.xiangyuanrhcb.mobilebank",
+        "file_name": "com.xiangyuanrhcb.mobilebank_276.apk",
+        "app_activity": "com.csii.mobilebank.FirstStartActivity"
+    },
+    {
+        "app_name": "曲靖市商业银行",
+        "package_name": "com.csii.qujing.mobilebank",
+        "file_name": "com.csii.qujing.mobilebank_277.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "乌海银行",
+        "package_name": "com.wuhai.mobilebank",
+        "file_name": "com.wuhai.mobilebank_278.apk",
+        "app_activity": "com.csii.mobilebank.FirstStartActivity"
+    },
+    {
+        "app_name": "华商村镇银行",
+        "package_name": "com.huashang.mbank",
+        "file_name": "com.huashang.mbank_279.apk",
+        "app_activity": "com.seaway.android.app.launcher.app.activity.LauncherActivity"
+    },
+    {
+        "app_name": "E融汇",
+        "package_name": "com.bocop.eronghui",
+        "file_name": "com.bocop.eronghui_280.apk",
+        "app_activity": "com.bocop.eronghui.shell.ui.ShellSplashActivity"
+    },
+    {
+        "app_name": "西藏银行",
+        "package_name": "com.ionicframework.xzbank122507",
+        "file_name": "com.ionicframework.xzbank122507_281.apk",
+        "app_activity": "com.csii.xzbankTest.CsiiLauncherActivity"
+    },
+    {
+        "app_name": "企业掌上银行",
+        "package_name": "com.cloudcore.ksrcb.entbank.android",
+        "file_name": "com.cloudcore.ksrcb.entbank.android_282.apk",
+        "app_activity": "com.cloudcore.bank.ui.HomeCdvActivity"
+    },
+    {
+        "app_name": "长春绿园融泰村镇银行",
+        "package_name": "com.bank.rtcb",
+        "file_name": "com.bank.rtcb_283.apk",
+        "app_activity": "com.bank.cchrcb.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "天津农商银行企业手机银行",
+        "package_name": "cn.com.trcbank.enterprisemobilebank",
+        "file_name": "cn.com.trcbank.enterprisemobilebank_284.apk",
+        "app_activity": "com.sinosun.tchats.trcb.ui.activity.TrcSplashActivity"
+    },
+    {
+        "app_name": "云端金融",
+        "package_name": "com.jgrcb.threebank",
+        "file_name": "com.jgrcb.threebank_285.apk",
+        "app_activity": "com.example.hellotiny.SplashActivity"
+    },
+    {
+        "app_name": "河北银行企业手机银行",
+        "package_name": "com.hebbank.corpmobile",
+        "file_name": "com.hebbank.corpmobile_286.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.SplashActivity"
+    },
+    {
+        "app_name": "贵阳农商银行",
+        "package_name": "com.csii.gynsdirectbank",
+        "file_name": "com.csii.gynsdirectbank_287.apk",
+        "app_activity": "com.csii.gynsdirectbank.activity.MainActivity"
+    },
+    {
+        "app_name": "盘锦银行",
+        "package_name": "com.cib.fintech.pjbank",
+        "file_name": "com.cib.fintech.pjbank_288.apk",
+        "app_activity": "com.cib.fintech.activity.SplashActivity"
+    },
+    {
+        "app_name": "乐山商业银行",
+        "package_name": "com.csii.LeShanBank",
+        "file_name": "com.csii.LeShanBank_289.apk",
+        "app_activity": "com.alipay.mobile.quinox.LauncherActivity"
+    },
+    {
+        "app_name": "汇和直销银行",
+        "package_name": "com.csii.zhixiaoyinhang.huihe_android",
+        "file_name": "com.csii.zhixiaoyinhang.huihe_android_290.apk",
+        "app_activity": "com.csii.hhbank.MainActivity"
+    },
+    {
+        "app_name": "柳州银行",
+        "package_name": "cn.bolz.mobilebank.liuzhou",
+        "file_name": "cn.bolz.mobilebank.liuzhou_291.apk",
+        "app_activity": "com.yitong.mobile.biz.launcher.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "青行支付",
+        "package_name": "com.bankqh.aggregatepayment",
+        "file_name": "com.bankqh.aggregatepayment_292.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "长沙银行呼啦",
+        "package_name": "cn.com.csshop",
+        "file_name": "cn.com.csshop_293.apk",
+        "app_activity": "cn.com.csshop.splash.SplashActivity"
+    },
+    {
+        "app_name": "汇和银行",
+        "package_name": "com.xinjianghuihe.mobilebank",
+        "file_name": "com.xinjianghuihe.mobilebank_294.apk",
+        "app_activity": "com.csii.mobilebank.FirstStartActivity"
+    },
+    {
+        "app_name": "工銀亞洲",
+        "package_name": "com.icbc.icbcasia",
+        "file_name": "com.icbc.icbcasia_295.apk",
+        "app_activity": "com.icbc.mobile.abroadbank.starter.CommonClientStarter"
+    },
+    {
+        "app_name": "乌鲁木齐银行",
+        "package_name": "com.uccb.mobile",
+        "file_name": "com.uccb.mobile_296.apk",
+        "app_activity": "com.uccb.mobile.activity.LauncherActivity"
+    }
+
+]

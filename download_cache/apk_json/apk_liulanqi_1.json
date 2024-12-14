@@ -1,0 +1,308 @@
+[
+    {
+        "app_name": "私人浏览器123安全加密",
+        "package_name": "com.wlhcute.browser",
+        "file_name": "com.wlhcute.browser_1.apk",
+        "app_activity": "com.wlhcute.browser.boot.BootLoaderActivity"
+    },
+    {
+        "app_name": "UC浏览器极速版",
+        "package_name": "com.ucmobile.lite",
+        "file_name": "com.ucmobile.lite_2.apk",
+        "app_activity": "com.UCMobile.main.UCMobile"
+    },
+    {
+        "app_name": "搜狗浏览器极速版",
+        "package_name": "sogou.mobile.explorer",
+        "file_name": "sogou.mobile.explorer_3.apk",
+        "app_activity": "com.tencent.mtt.SplashActivity"
+    },
+    {
+        "app_name": "夸克",
+        "package_name": "com.quark.browser",
+        "file_name": "com.quark.browser_4.apk",
+        "app_activity": "com.ucpro.MainActivity"
+    },
+    {
+        "app_name": "宙斯浏览器",
+        "package_name": "com.tc.browser",
+        "file_name": "com.tc.browser_5.apk",
+        "app_activity": "com.zbm.dainty.ui.SplashActivity"
+    },
+    {
+        "app_name": "XBrowser",
+        "package_name": "com.mmbox.xbrowser.pro",
+        "file_name": "com.mmbox.xbrowser.pro_6.apk",
+        "app_activity": "com.mmbox.xbrowser.BrowserActivity"
+    },
+    {
+        "app_name": "书签地球",
+        "package_name": "com.langdashi.bookmarkearth",
+        "file_name": "com.langdashi.bookmarkearth_7.apk",
+        "app_activity": "com.bookmarkearth.app.launch.LaunchBridgeActivity"
+    },
+    {
+        "app_name": "私人私密浏览器",
+        "package_name": "com.yczj.mybrowser",
+        "file_name": "com.yczj.mybrowser_8.apk",
+        "app_activity": "com.yczj.mybrowser.SplashActivity"
+    },
+    {
+        "app_name": "浏览器Pro无痕版",
+        "package_name": "cn.zhongkeyx.software",
+        "file_name": "cn.zhongkeyx.software_9.apk",
+        "app_activity": "cn.zhongkeyx.software.boot.BootLoaderActivity"
+    },
+    {
+        "app_name": "360浏览器",
+        "package_name": "com.qihoo.browser",
+        "file_name": "com.qihoo.browser_10.apk",
+        "app_activity": "com.qihoo.browser.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "飞觅浏览器Care版",
+        "package_name": "com.ifeeme.care",
+        "file_name": "com.ifeeme.care_11.apk",
+        "app_activity": "com.ifeeme.care.SplashActivity"
+    },
+    {
+        "app_name": "Browser",
+        "package_name": "com.feimi.browser2",
+        "file_name": "com.feimi.browser2_13.apk",
+        "app_activity": "com.feimi.browser.SplashActivity"
+    },
+    {
+        "app_name": "Alook",
+        "package_name": "alook.browser",
+        "file_name": "alook.browser_14.apk",
+        "app_activity": "alook.browser.LauncherActivity"
+    },
+    {
+        "app_name": "i浏览器无痕版",
+        "package_name": "com.gxxy.illqwhb",
+        "file_name": "com.gxxy.illqwhb_16.apk",
+        "app_activity": "com.ltmb.powerbrowser.WelcomeActivity"
+    },
+    {
+        "app_name": "百度",
+        "package_name": "com.baidu.searchbox",
+        "file_name": "com.baidu.searchbox_17.apk",
+        "app_activity": "com.baidu.searchbox.SplashActivity"
+    },
+    {
+        "app_name": "极速浏览器",
+        "package_name": "com.jx.minibrowser",
+        "file_name": "com.jx.minibrowser_19.apk",
+        "app_activity": "com.cy.browser.SplashActivity"
+    },
+    {
+        "app_name": "WukongBrowser",
+        "package_name": "com.cat.readall",
+        "file_name": "com.cat.readall_20.apk",
+        "app_activity": "com.cat.readall.activity.BrowserMainActivity"
+    },
+    {
+        "app_name": "Dweb Browser",
+        "package_name": "info.bagen.dwebbrowser",
+        "file_name": "info.bagen.dwebbrowser_21.apk",
+        "app_activity": "info.bagen.dwebbrowser.SplashActivity"
+    },
+    {
+        "app_name": "快客浏览器",
+        "package_name": "com.cstsbrowser.simple",
+        "file_name": "com.cstsbrowser.simple_23.apk",
+        "app_activity": "com.wifikey.tenthousands.app_wifi_flutter.MainActivity"
+    },
+    {
+        "app_name": "链链浏览器",
+        "package_name": "com.ti_ding.browser",
+        "file_name": "com.ti_ding.browser_24.apk",
+        "app_activity": "com.ti_ding.browser.MainActivity"
+    },
+    {
+        "app_name": "魅夜私密浏览器",
+        "package_name": "com.jzry.smbrowser",
+        "file_name": "com.jzry.smbrowser_26.apk",
+        "app_activity": "com.ltmb.nightbrowser.WelcomeActivity"
+    },
+    {
+        "app_name": "e浏览器",
+        "package_name": "com.ledu.ebrowser",
+        "file_name": "com.ledu.ebrowser_28.apk",
+        "app_activity": "com.ledu.ebrowser.SplashActivity"
+    },
+    {
+        "app_name": "小树浏览器",
+        "package_name": "com.jimi.xsbrowser",
+        "file_name": "com.jimi.xsbrowser_29.apk",
+        "app_activity": "com.jimi.xsbrowser.SplashActivity"
+    },
+    {
+        "app_name": "QQ浏览器",
+        "package_name": "com.tencent.mtt",
+        "file_name": "com.tencent.mtt_30.apk",
+        "app_activity": "com.tencent.mtt.SplashActivity"
+    },
+    {
+        "app_name": "百度浏览器",
+        "package_name": "com.baidu.browser.apps",
+        "file_name": "com.baidu.browser.apps_31.apk",
+        "app_activity": "com.baidu.searchbox.SplashActivity"
+    },
+    {
+        "app_name": "Maxthon",
+        "package_name": "com.mx.browser",
+        "file_name": "com.mx.browser_32.apk",
+        "app_activity": "com.mx.browser.MxSplashActivity"
+    },
+    {
+        "app_name": "全能浏览器",
+        "package_name": "com.webbrowser.qnllq",
+        "file_name": "com.webbrowser.qnllq_33.apk",
+        "app_activity": "com.knew.webbrowser.ui.activity.SplashScreenActivity"
+    },
+    {
+        "app_name": "万能浏览器",
+        "package_name": "com.webbrowser.wnllq",
+        "file_name": "com.webbrowser.wnllq_34.apk",
+        "app_activity": "com.knew.webbrowser.ui.activity.SplashScreenActivity"
+    },
+    {
+        "app_name": "hao网址大全",
+        "package_name": "com.pcpop.popapk",
+        "file_name": "com.pcpop.popapk_35.apk",
+        "app_activity": "com.cy.browser.SplashActivity"
+    },
+    {
+        "app_name": "私密浏览器",
+        "package_name": "com.jx.privatebrowser",
+        "file_name": "com.jx.privatebrowser_36.apk",
+        "app_activity": "com.cy.browser.SplashActivity"
+    },
+    {
+        "app_name": "UC浏览器",
+        "package_name": "com.UCMobile",
+        "file_name": "com.UCMobile_37.apk",
+        "app_activity": "com.UCMobile.main.UCMobile"
+    },
+    {
+        "app_name": "迅雷浏览器",
+        "package_name": "com.xunlei.browser",
+        "file_name": "com.xunlei.browser_38.apk",
+        "app_activity": "com.xunlei.browser.app.ui.LaunchActivity"
+    },
+    {
+        "app_name": "百度极速版",
+        "package_name": "com.baidu.searchbox.lite",
+        "file_name": "com.baidu.searchbox.lite_39.apk",
+        "app_activity": "com.baidu.searchbox.SplashActivity"
+    },
+    {
+        "app_name": "手机私密浏览器Pro",
+        "package_name": "cn.shijihaiwai.browser",
+        "file_name": "cn.shijihaiwai.browser_40.apk",
+        "app_activity": "com.common.tang.activity.SplashActivity"
+    },
+    {
+        "app_name": "欧朋浏览器",
+        "package_name": "com.oupeng.mini.android",
+        "file_name": "com.oupeng.mini.android_41.apk",
+        "app_activity": "com.opera.android.OperaStartActivity"
+    },
+    {
+        "app_name": "AR无痕秘密浏览器",
+        "package_name": "com.shsqn.browser",
+        "file_name": "com.shsqn.browser_42.apk",
+        "app_activity": "com.shsqn.browser.ui.activity.BootActivity"
+    },
+    {
+        "app_name": "彩虹玩家",
+        "package_name": "browser.sportsman.com",
+        "file_name": "browser.sportsman.com_43.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "w浏览器",
+        "package_name": "com.ledu.wbrowser",
+        "file_name": "com.ledu.wbrowser_44.apk",
+        "app_activity": "com.ledu.wbrowser.SplashActivity"
+    },
+    {
+        "app_name": "浏览器加",
+        "package_name": "com.my.browserplus",
+        "file_name": "com.my.browserplus_45.apk",
+        "app_activity": "com.my.browserplus.SplashActivity"
+    },
+    {
+        "app_name": "青蔓girl",
+        "package_name": "com.qmlike.girl",
+        "file_name": "com.qmlike.girl_46.apk",
+        "app_activity": "com.qmlike.qmgirl.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "爱看",
+        "package_name": "com.ss.android.article.daziban",
+        "file_name": "com.ss.android.article.daziban_48.apk",
+        "app_activity": "com.ss.android.article.news.activity.MainActivity"
+    },
+    {
+        "app_name": "久久浏览器",
+        "package_name": "com.forever.browser",
+        "file_name": "com.forever.browser_49.apk",
+        "app_activity": "com.forever.browser.activity.SplashActivity"
+    },
+    {
+        "app_name": "LeganBrowser",
+        "package_name": "com.legan.browser",
+        "file_name": "com.legan.browser_51.apk",
+        "app_activity": "com.legan.browser.LauncherActivity"
+    },
+    {
+        "app_name": "搜索大全",
+        "package_name": "ej.easyjoy.easysearch.cn",
+        "file_name": "ej.easyjoy.easysearch.cn_52.apk",
+        "app_activity": "ej.easyjoy.aggregationsearch.LogoActivity"
+    },
+    {
+        "app_name": "Wolvic Vision",
+        "package_name": "com.igalia.wolvic.visionglass",
+        "file_name": "com.igalia.wolvic.visionglass_53.apk",
+        "app_activity": "com.igalia.wolvic.VRBrowserActivity"
+    },
+    {
+        "app_name": "浏览器plus",
+        "package_name": "com.moying.browserplus",
+        "file_name": "com.moying.browserplus_54.apk",
+        "app_activity": "com.cy.browser.SplashActivity"
+    },
+    {
+        "app_name": "安全浏览器",
+        "package_name": "com.jx.safebrowser",
+        "file_name": "com.jx.safebrowser_55.apk",
+        "app_activity": "com.cy.browser.SplashActivity"
+    },
+    {
+        "app_name": "2345浏览器",
+        "package_name": "com.browser2345",
+        "file_name": "com.browser2345_56.apk",
+        "app_activity": "com.browser2345.StartBrowserActivity"
+    },
+    {
+        "app_name": "360AI浏览器",
+        "package_name": "com.qihoo.aibrowser",
+        "file_name": "com.qihoo.aibrowser_58.apk",
+        "app_activity": "com.qihoo.browser.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "久久浏览器极速版",
+        "package_name": "com.uc.antsplayer",
+        "file_name": "com.uc.antsplayer_59.apk",
+        "app_activity": "com.uc.antsplayer.activity.SplashActivity"
+    },
+    {
+        "app_name": "高速浏览器",
+        "package_name": "com.jx.fastbrowser",
+        "file_name": "com.jx.fastbrowser_61.apk",
+        "app_activity": "com.cy.browser.SplashActivity"
+    }
+]

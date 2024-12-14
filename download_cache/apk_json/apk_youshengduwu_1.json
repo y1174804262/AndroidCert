@@ -1,0 +1,254 @@
+[
+    {
+        "app_name": "对话虚拟恋人",
+        "package_name": "com.qiwu.dhxunilianren",
+        "file_name": "com.qiwu.dhxunilianren_2.apk",
+        "app_activity": "com.qiwu.app.module.LaunchActivity"
+    },
+    {
+        "app_name": "雅韵",
+        "package_name": "com.zlgccn.yayun.app",
+        "file_name": "com.zlgccn.yayun.app_3.apk",
+        "app_activity": "com.zlgccn.yayun.app.MainActivity"
+    },
+    {
+        "app_name": "蜻蜓FM",
+        "package_name": "fm.qingting.qtradio",
+        "file_name": "fm.qingting.qtradio_4.apk",
+        "app_activity": "fm.qingting.qtradio.WelcomeActivity"
+    },
+    {
+        "app_name": "湛庐阅读",
+        "package_name": "com.cheersedu.app",
+        "file_name": "com.cheersedu.app_5.apk",
+        "app_activity": "com.cheersedu.app.startup.StartupPageActivity"
+    },
+    {
+        "app_name": "金庸听书",
+        "package_name": "com.longrundmt.jinyong",
+        "file_name": "com.longrundmt.jinyong_6.apk",
+        "app_activity": "com.longrundmt.jinyong.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "文星H5播放器",
+        "package_name": "cn.org.starlib.h5player",
+        "file_name": "cn.org.starlib.h5player_7.apk",
+        "app_activity": "cn.org.starlib.h5player.h5OnlineBookList"
+    },
+    {
+        "app_name": "听书王",
+        "package_name": "com.gw.listen.free",
+        "file_name": "com.gw.listen.free_8.apk",
+        "app_activity": "com.gw.listen.free.activity.StartupPageActivity"
+    },
+    {
+        "app_name": "十点读书",
+        "package_name": "com.sdiread.kt.ktandroid",
+        "file_name": "com.sdiread.kt.ktandroid_9.apk",
+        "app_activity": "com.sdiread.kt.ktandroid.aui.start.StartPageActivity"
+    },
+    {
+        "app_name": "百听听书",
+        "package_name": "com.longrundmt.baiting.HUAWEI",
+        "file_name": "com.longrundmt.baiting.HUAWEI_10.apk",
+        "app_activity": "com.longrundmt.hdbaiting.init.SplashScreen"
+    },
+    {
+        "app_name": "一草亭读书",
+        "package_name": "com.yicaoting.app",
+        "file_name": "com.yicaoting.app_11.apk",
+        "app_activity": "com.global.mami.model2.home.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "乐龄听书",
+        "package_name": "com.ahkjs.tingshu",
+        "file_name": "com.ahkjs.tingshu_12.apk",
+        "app_activity": "com.ahkjs.tingshu.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "看理想",
+        "package_name": "com.kanlixiang.android",
+        "file_name": "com.kanlixiang.android_13.apk",
+        "app_activity": "com.kanlixiang.android.newFramework.ui.activity.LaunchActivity"
+    },
+    {
+        "app_name": "耳海FM",
+        "package_name": "com.nine.ErHaiFM",
+        "file_name": "com.nine.ErHaiFM_14.apk",
+        "app_activity": "com.nine.ErHaiFM.activity.advert.SplashActivity"
+    },
+    {
+        "app_name": "靠谱讲书",
+        "package_name": "com.ikaopu.future",
+        "file_name": "com.ikaopu.future_15.apk",
+        "app_activity": "com.ikaopu.future.MainActivity"
+    },
+    {
+        "app_name": "芥子听书",
+        "package_name": "com.xsy.dedaolisten",
+        "file_name": "com.xsy.dedaolisten_16.apk",
+        "app_activity": "com.reader.hailiangxs.page.splash.SplashActivity"
+    },
+    {
+        "app_name": "文星阅读",
+        "package_name": "cn.cbp.starlib.radiowork",
+        "file_name": "cn.cbp.starlib.radiowork_17.apk",
+        "app_activity": "cn.cbp.starlib.MainUI.HomeActivity"
+    },
+    {
+        "app_name": "袋鼠点点",
+        "package_name": "com.idejian.ddRead",
+        "file_name": "com.idejian.ddRead_18.apk",
+        "app_activity": "com.chaozh.iReader.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "凤凰书苑",
+        "package_name": "com.ppm.phoenix.book.pub",
+        "file_name": "com.ppm.phoenix.book.pub_19.apk",
+        "app_activity": "com.ppm.phoenix.book.pub.ui.host.splash.SplashActivity"
+    },
+    {
+        "app_name": "猫耳FM",
+        "package_name": "cn.missevan",
+        "file_name": "cn.missevan_20.apk",
+        "app_activity": "cn.missevan.activity.SplashActivity"
+    },
+    {
+        "app_name": "Urkax",
+        "package_name": "cc.urkax.tool",
+        "file_name": "cc.urkax.tool_21.apk",
+        "app_activity": "cc.urkax.tool.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "BookPod",
+        "package_name": "com.irvinesoft.phototalk",
+        "file_name": "com.irvinesoft.phototalk_22.apk",
+        "app_activity": "com.irvinesoft.phototalk.MainActivity"
+    },
+    {
+        "app_name": "得间畅听",
+        "package_name": "com.idejian.listen",
+        "file_name": "com.idejian.listen_23.apk",
+        "app_activity": "com.chaozh.iReader.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "朗读大师",
+        "package_name": "com.youinputmeread",
+        "file_name": "com.youinputmeread_24.apk",
+        "app_activity": "com.youinputmeread.activity.app.splash.SplashActivityTX"
+    },
+    {
+        "app_name": "微信听书",
+        "package_name": "com.tencent.wehear",
+        "file_name": "com.tencent.wehear_25.apk",
+        "app_activity": "com.tencent.wehear.LauncherActivity"
+    },
+    {
+        "app_name": "AI动漫虚拟男友",
+        "package_name": "com.anime.ai",
+        "file_name": "com.anime.ai_26.apk",
+        "app_activity": "com.qiwu.app.module.LaunchActivity"
+    },
+    {
+        "app_name": "小凡博士",
+        "package_name": "com.royal.xiaofan",
+        "file_name": "com.royal.xiaofan_27.apk",
+        "app_activity": "com.royal.xiaofan.activity.login.LaunchActivity"
+    },
+    {
+        "app_name": "书香苏州",
+        "package_name": "com.jartoo.mylib",
+        "file_name": "com.jartoo.mylib_28.apk",
+        "app_activity": "com.jartoo.mylib.activity.main.SplashActivity"
+    },
+    {
+        "app_name": "酷我畅听",
+        "package_name": "cn.kuwo.tingshu",
+        "file_name": "cn.kuwo.tingshu_29.apk",
+        "app_activity": "cn.kuwo.player.activities.EntryActivity"
+    },
+    {
+        "app_name": "世图粤读",
+        "package_name": "com.publish.abFsqV2",
+        "file_name": "com.publish.abFsqV2_30.apk",
+        "app_activity": "com.startiasoft.vvportal.splash.WelcomeActivityBeforInit"
+    },
+    {
+        "app_name": "早晚读书",
+        "package_name": "com.wjs.read",
+        "file_name": "com.wjs.read_31.apk",
+        "app_activity": "com.wjs.read.activity.SplashActivity"
+    },
+    {
+        "app_name": "对话小说阅读平台",
+        "package_name": "com.dialogue.novel",
+        "file_name": "com.dialogue.novel_32.apk",
+        "app_activity": "com.qiwu.app.module.LaunchActivity"
+    },
+    {
+        "app_name": "晓悟故事",
+        "package_name": "com.qiwu.watch",
+        "file_name": "com.qiwu.watch_33.apk",
+        "app_activity": "com.qiwu.watch.activity.LauncherActivity"
+    },
+    {
+        "app_name": "番茄畅听",
+        "package_name": "com.xs.fm",
+        "file_name": "com.xs.fm_34.apk",
+        "app_activity": "com.dragon.read.pages.splash.SplashActivity"
+    },
+    {
+        "app_name": "漫元时空",
+        "package_name": "fm.video",
+        "file_name": "fm.video_35.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "三联中读",
+        "package_name": "com.sanlian.zhongdu",
+        "file_name": "com.sanlian.zhongdu_36.apk",
+        "app_activity": "com.sanlian.zhongdu.LoadingActivity"
+    },
+    {
+        "app_name": "新语听书",
+        "package_name": "com.xyts.xinyulib",
+        "file_name": "com.xyts.xinyulib_37.apk",
+        "app_activity": "com.xyts.xinyulib.ui.MainActivity"
+    },
+    {
+        "app_name": "花城FM",
+        "package_name": "com.gzbn.huachengfm",
+        "file_name": "com.gzbn.huachengfm_38.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "懒人听书",
+        "package_name": "bubei.tingshu",
+        "file_name": "bubei.tingshu_39.apk",
+        "app_activity": "bubei.tingshu.listen.guide.ui.activity.LOGOActivity"
+    },
+    {
+        "app_name": "酷狗听书",
+        "package_name": "com.kugou.android.tingshu",
+        "file_name": "com.kugou.android.tingshu_40.apk",
+        "app_activity": "com.kugou.android.app.splash.SplashActivity"
+    },
+    {
+        "app_name": "蜜阅FM",
+        "package_name": "com.suyetech.miyue_fm",
+        "file_name": "com.suyetech.miyue_fm_41.apk",
+        "app_activity": "com.ryanheise.audioservice.AudioServiceActivity"
+    },
+    {
+        "app_name": "蓝色草原",
+        "package_name": "com.lscy.app",
+        "file_name": "com.lscy.app_42.apk",
+        "app_activity": "com.lscy.app.activitys.SplashActivity"
+    },
+    {
+        "app_name": "乙女养成模拟器",
+        "package_name": "com.audio.novel",
+        "file_name": "com.audio.novel_43.apk",
+        "app_activity": "com.qiwu.app.module.LaunchActivity"
+    }
+]

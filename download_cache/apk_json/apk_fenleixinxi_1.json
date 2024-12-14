@@ -1,0 +1,2793 @@
+[
+    {
+        "app_name": "陕西工会",
+        "package_name": "com.gobestsoft.sx.union",
+        "file_name": "com.gobestsoft.sx.union_1.apk",
+        "app_activity": "com.gobestsoft.sx.union.SplashActivity"
+    },
+    {
+        "app_name": "快科技",
+        "package_name": "com.kkeji.news.client",
+        "file_name": "com.kkeji.news.client_2.apk",
+        "app_activity": "com.kkeji.news.client.start.ActivityStartLogo"
+    },
+    {
+        "app_name": "安徽纪检监察",
+        "package_name": "com.ahxmt.ahjwjc",
+        "file_name": "com.ahxmt.ahjwjc_3.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "检察日报",
+        "package_name": "com.zycx.jcrb.android",
+        "file_name": "com.zycx.jcrb.android_4.apk",
+        "app_activity": "com.android.grrb.welcome.view.SplashActivity"
+    },
+    {
+        "app_name": "宝鸡一点通",
+        "package_name": "com.cn0917.android.bjydt",
+        "file_name": "com.cn0917.android.bjydt_5.apk",
+        "app_activity": "com.txl.app.SplashActivity"
+    },
+    {
+        "app_name": "百川盈孚",
+        "package_name": "com.baiinfo.bcinfo",
+        "file_name": "com.baiinfo.bcinfo_6.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "中国法律服务网",
+        "package_name": "com.skytech.sfb12348app",
+        "file_name": "com.skytech.sfb12348app_7.apk",
+        "app_activity": "com.skytech.sfb12348app.MainActivity"
+    },
+    {
+        "app_name": "Global Times",
+        "package_name": "com.forhy.clobaltimes",
+        "file_name": "com.forhy.clobaltimes_8.apk",
+        "app_activity": "com.tk.global_times.main.SplashActivity"
+    },
+    {
+        "app_name": "银川发布",
+        "package_name": "com.ycen.www.activity",
+        "file_name": "com.ycen.www.activity_9.apk",
+        "app_activity": "com.founder.xiangyu.MainActivity"
+    },
+    {
+        "app_name": "21财经",
+        "package_name": "com.twentyfirstcbh.epaper",
+        "file_name": "com.twentyfirstcbh.epaper_10.apk",
+        "app_activity": "com.twentyfirstcbh.epaper.activity.Start"
+    },
+    {
+        "app_name": "瞰凤城",
+        "package_name": "net.fengchengrm.app",
+        "file_name": "net.fengchengrm.app_11.apk",
+        "app_activity": "net.fengchengrm.app.activity.LaunchActivity"
+    },
+    {
+        "app_name": "羊城派",
+        "package_name": "com.ycwb.android.ycpai",
+        "file_name": "com.ycwb.android.ycpai_12.apk",
+        "app_activity": "com.founder.xiangyu.MainActivity"
+    },
+    {
+        "app_name": "攀枝花开",
+        "package_name": "com.smart.pzh",
+        "file_name": "com.smart.pzh_13.apk",
+        "app_activity": "com.hoge.android.lib_architecture.splash.SplashActivity"
+    },
+    {
+        "app_name": "唐山Plus",
+        "package_name": "com.founder.tangshan",
+        "file_name": "com.founder.tangshan_14.apk",
+        "app_activity": "com.founder.xiangyu.MainActivity"
+    },
+    {
+        "app_name": "南宁云",
+        "package_name": "com.tidemedia.nntv",
+        "file_name": "com.tidemedia.nntv_16.apk",
+        "app_activity": "com.tidemedia.nntv.MainActivity"
+    },
+    {
+        "app_name": "罗湖Plus",
+        "package_name": "com.luohunews",
+        "file_name": "com.luohunews_17.apk",
+        "app_activity": "com.hzpd.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "暖新闻",
+        "package_name": "net.xinhuamm.eedsrm",
+        "file_name": "net.xinhuamm.eedsrm_18.apk",
+        "app_activity": "com.xinhuamm.basic.main.guide.SplashActivity"
+    },
+    {
+        "app_name": "中国建设报",
+        "package_name": "com.wzyk.zgjsb",
+        "file_name": "com.wzyk.zgjsb_19.apk",
+        "app_activity": "com.wzyk.somnambulist.function.loading.LoadingActivity"
+    },
+    {
+        "app_name": "江汉风",
+        "package_name": "com.cj.yun.jz",
+        "file_name": "com.cj.yun.jz_20.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "云上随州",
+        "package_name": "com.cj.yun.sz",
+        "file_name": "com.cj.yun.sz_21.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "金堂发布",
+        "package_name": "com.founder.jintang",
+        "file_name": "com.founder.jintang_22.apk",
+        "app_activity": "com.hoge.android.factory.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "群众新闻",
+        "package_name": "rmkj.app.dailyshanxi",
+        "file_name": "rmkj.app.dailyshanxi_24.apk",
+        "app_activity": "com.founder.xiangyu.MainActivity"
+    },
+    {
+        "app_name": "佛冈通",
+        "package_name": "com.touchtv.fogang",
+        "file_name": "com.touchtv.fogang_25.apk",
+        "app_activity": "com.gdtv.module.main.view.activity.SplashActivity_v2"
+    },
+    {
+        "app_name": "今日快报",
+        "package_name": "com.zxkj.apps.news.jrkb",
+        "file_name": "com.zxkj.apps.news.jrkb_26.apk",
+        "app_activity": "kwxxs.news.app.cn.SpActivity"
+    },
+    {
+        "app_name": "苏商通",
+        "package_name": "com.szgov.corporation.entrance",
+        "file_name": "com.szgov.corporation.entrance_27.apk",
+        "app_activity": "com.epoint.workarea.project.view.Custom_InitActivity"
+    },
+    {
+        "app_name": "新浪财经极速版",
+        "package_name": "cn.com.sina.finance.lite",
+        "file_name": "cn.com.sina.finance.lite_28.apk",
+        "app_activity": "cn.com.sina.finance.start.ui.LoadingActivity"
+    },
+    {
+        "app_name": "北京怀柔",
+        "package_name": "com.tenma.ventures.bjhrhhhxvl",
+        "file_name": "com.tenma.ventures.bjhrhhhxvl_29.apk",
+        "app_activity": "com.tenma.ventures.bjhrhhhxvl.SplashActivity"
+    },
+    {
+        "app_name": "七彩云端",
+        "package_name": "com.cdvcloud.qicaiyun",
+        "file_name": "com.cdvcloud.qicaiyun_30.apk",
+        "app_activity": "com.cdvcloud.qicaiyun.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "海曙",
+        "package_name": "com.pailian.haishu",
+        "file_name": "com.pailian.haishu_31.apk",
+        "app_activity": "com.pailian.haishu.activity.SplashActivity"
+    },
+    {
+        "app_name": "北京延庆",
+        "package_name": "com.pdmi.yanqing.media",
+        "file_name": "com.pdmi.yanqing.media_32.apk",
+        "app_activity": "com.pdmi.gansu.main.guide.SplashActivity"
+    },
+    {
+        "app_name": "Sinkoz",
+        "package_name": "com.tenma.ventures.hongshanyanww",
+        "file_name": "com.tenma.ventures.hongshanyanww_33.apk",
+        "app_activity": "com.sobey.fc.android.sdk.navi.ui.SplashActivity"
+    },
+    {
+        "app_name": "无线巴中",
+        "package_name": "com.cmstop.bzgd",
+        "file_name": "com.cmstop.bzgd_34.apk",
+        "app_activity": "com.cmstop.bzgd.ui.activities.SplashActivity"
+    },
+    {
+        "app_name": "军事头条",
+        "package_name": "com.cmstop.jstt",
+        "file_name": "com.cmstop.jstt_35.apk",
+        "app_activity": "com.cmstop.jstt.activity.SplashActivity"
+    },
+    {
+        "app_name": "中俄头条",
+        "package_name": "com.cmstop.zett",
+        "file_name": "com.cmstop.zett_36.apk",
+        "app_activity": "com.cmstop.zett.login.ui.SplashActivity"
+    },
+    {
+        "app_name": "中国青年",
+        "package_name": "com.cmstop.zgqn",
+        "file_name": "com.cmstop.zgqn_37.apk",
+        "app_activity": "com.cmstop.zgqn.SplashActivity"
+    },
+    {
+        "app_name": "掌上温州",
+        "package_name": "com.cmstop.zswz",
+        "file_name": "com.cmstop.zswz_38.apk",
+        "app_activity": "com.cmstop.zswz.ui.SplashActivity"
+    },
+    {
+        "app_name": "广告门",
+        "package_name": "com.adquan.adquan",
+        "file_name": "com.adquan.adquan_39.apk",
+        "app_activity": "com.adquan.adquan.base.LaunchActivity"
+    },
+    {
+        "app_name": "品质东乡",
+        "package_name": "com.jxmfkj.www.company.dongxiang",
+        "file_name": "com.jxmfkj.www.company.dongxiang_40.apk",
+        "app_activity": "com.jxmfkj.www.company.dongxiang.comm.view.LoadingActivity"
+    },
+    {
+        "app_name": "人民日报少年",
+        "package_name": "com.pd.pdread",
+        "file_name": "com.pd.pdread_41.apk",
+        "app_activity": "com.peopletech.main.mvp.ui.activity.Splash2022Activity"
+    },
+    {
+        "app_name": "锦绣太原",
+        "package_name": "com.cutv.taiyuan",
+        "file_name": "com.cutv.taiyuan_42.apk",
+        "app_activity": "com.txl.app.SplashActivity"
+    },
+    {
+        "app_name": "我的新红山",
+        "package_name": "com.xinhuamm.d3016",
+        "file_name": "com.xinhuamm.d3016_43.apk",
+        "app_activity": "com.xinhuamm.basic.main.guide.SplashActivity"
+    },
+    {
+        "app_name": "POP趋势",
+        "package_name": "com.pop136.trend",
+        "file_name": "com.pop136.trend_44.apk",
+        "app_activity": "com.pop136.trend.activity.main.AppStartActivity"
+    },
+    {
+        "app_name": "吉刻",
+        "package_name": "com.trs.jike",
+        "file_name": "com.trs.jike_45.apk",
+        "app_activity": "com.trs.jike.activity.jike.SplashActivity"
+    },
+    {
+        "app_name": "商界",
+        "package_name": "com.cnbizmedia.shangjie",
+        "file_name": "com.cnbizmedia.shangjie_46.apk",
+        "app_activity": "com.cnbizmedia.shangjie.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "iBloomberg",
+        "package_name": "cn.com.modernmedia.businessweek",
+        "file_name": "cn.com.modernmedia.businessweek_47.apk",
+        "app_activity": "cn.com.modernmedia.businessweek.SplashScreenActivity"
+    },
+    {
+        "app_name": "36氪",
+        "package_name": "com.android36kr.app",
+        "file_name": "com.android36kr.app_48.apk",
+        "app_activity": "com.android36kr.app.ui.LogoActivity"
+    },
+    {
+        "app_name": "央视财经",
+        "package_name": "com.cctv.caijing",
+        "file_name": "com.cctv.caijing_49.apk",
+        "app_activity": "com.cctv.caijing.SplashScreenActivity1"
+    },
+    {
+        "app_name": "花城+",
+        "package_name": "com.hcj.gznews",
+        "file_name": "com.hcj.gznews_51.apk",
+        "app_activity": "com.hcj.gznews.MainActivity"
+    },
+    {
+        "app_name": "纯净资溪",
+        "package_name": "com.jxmfkj.www.company.cjzx",
+        "file_name": "com.jxmfkj.www.company.cjzx_52.apk",
+        "app_activity": "com.jxmfkj.www.company.cjzx.comm.view.LoadingActivity"
+    },
+    {
+        "app_name": "高品高安",
+        "package_name": "com.jxmfkj.www.company.gpga",
+        "file_name": "com.jxmfkj.www.company.gpga_53.apk",
+        "app_activity": "com.jxmfkj.www.company.gpga.comm.view.LoadingActivity"
+    },
+    {
+        "app_name": "精彩渝水",
+        "package_name": "com.jxmfkj.www.company.jcys",
+        "file_name": "com.jxmfkj.www.company.jcys_54.apk",
+        "app_activity": "com.jxmfkj.www.company.jcys.comm.view.LoadingActivity"
+    },
+    {
+        "app_name": "乐安视线",
+        "package_name": "com.jxmfkj.www.company.lean",
+        "file_name": "com.jxmfkj.www.company.lean_55.apk",
+        "app_activity": "com.jxmfkj.www.company.lean.comm.view.LoadingActivity"
+    },
+    {
+        "app_name": "余江发布",
+        "package_name": "com.jxmfkj.www.company.yjzx",
+        "file_name": "com.jxmfkj.www.company.yjzx_56.apk",
+        "app_activity": "com.jxmfkj.www.company.yjzx.comm.view.LoadingActivity"
+    },
+    {
+        "app_name": "玉峡云媒",
+        "package_name": "com.jxmfkj.www.company.yxym",
+        "file_name": "com.jxmfkj.www.company.yxym_57.apk",
+        "app_activity": "com.jxmfkj.www.company.yxym.comm.view.LoadingActivity"
+    },
+    {
+        "app_name": "Alpha派",
+        "package_name": "cn.rabyte.saas.alphasaas",
+        "file_name": "cn.rabyte.saas.alphasaas_58.apk",
+        "app_activity": "cn.rabyte.saas.alphasaas.MainActivity"
+    },
+    {
+        "app_name": "ChinaStory",
+        "package_name": "com.chinaso.storiesen",
+        "file_name": "com.chinaso.storiesen_59.apk",
+        "app_activity": "com.chinaso.storiesen.SplashActivity"
+    },
+    {
+        "app_name": "掌上星沙",
+        "package_name": "com.aheading.news.xingsharb",
+        "file_name": "com.aheading.news.xingsharb_60.apk",
+        "app_activity": "com.aheading.news.xingsharb.Gen.StartGen"
+    },
+    {
+        "app_name": "新湘潭",
+        "package_name": "com.xtolnews",
+        "file_name": "com.xtolnews_61.apk",
+        "app_activity": "com.zc.hubei_news.ui.basic.SplashActivity"
+    },
+    {
+        "app_name": "山西晚报",
+        "package_name": "com.zssx.activity",
+        "file_name": "com.zssx.activity_62.apk",
+        "app_activity": "com.ynxhs.dznews.mvp.ui.welcome.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "舆情通",
+        "package_name": "com.xd.publicopinion.yqt",
+        "file_name": "com.xd.publicopinion.yqt_63.apk",
+        "app_activity": "com.xdtech.yq.activity.SplashActivity"
+    },
+    {
+        "app_name": "掌上红谷滩",
+        "package_name": "com.nctvcloud.zshgt",
+        "file_name": "com.nctvcloud.zshgt_65.apk",
+        "app_activity": "com.nctvcloud.zshgt.activity.WelcomeNewActivity"
+    },
+    {
+        "app_name": "北京朝阳",
+        "package_name": "com.example.bjchaoyang",
+        "file_name": "com.example.bjchaoyang_66.apk",
+        "app_activity": "com.example.bjchaoyang.ui.activity.LaunchActivity"
+    },
+    {
+        "app_name": "罗麦随行",
+        "package_name": "com.rolmex.accompanying.activity",
+        "file_name": "com.rolmex.accompanying.activity_67.apk",
+        "app_activity": "com.rolmex.accompanying.activity.ui.SplashActivity"
+    },
+    {
+        "app_name": "临川发布",
+        "package_name": "com.jxmfkj.www.company.linchuan",
+        "file_name": "com.jxmfkj.www.company.linchuan_68.apk",
+        "app_activity": "com.jxmfkj.www.company.linchuan.comm.view.LoadingActivity"
+    },
+    {
+        "app_name": "财经早餐",
+        "package_name": "com.femorning.news",
+        "file_name": "com.femorning.news_69.apk",
+        "app_activity": "com.femorning.news.StartActivity"
+    },
+    {
+        "app_name": "常德融媒",
+        "package_name": "com.changde.activity",
+        "file_name": "com.changde.activity_70.apk",
+        "app_activity": "com.founder.xiangyu.MainActivity"
+    },
+    {
+        "app_name": "奉节头条",
+        "package_name": "com.xhl.fengjie",
+        "file_name": "com.xhl.fengjie_71.apk",
+        "app_activity": "com.xhl.basecomponent.activity.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "香港商報",
+        "package_name": "com.hkcd.news",
+        "file_name": "com.hkcd.news_72.apk",
+        "app_activity": "com.nayun.framework.activity.loginOrRegister.LoadingActivity"
+    },
+    {
+        "app_name": "PPPing",
+        "package_name": "com.szh.mynews",
+        "file_name": "com.szh.mynews_73.apk",
+        "app_activity": "com.szh.mynews.main.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "光明日报",
+        "package_name": "cn.gmw.cloud",
+        "file_name": "cn.gmw.cloud_74.apk",
+        "app_activity": "cn.gmw.cloud.business.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "掌上金普",
+        "package_name": "cn.jpntv.newsapp",
+        "file_name": "cn.jpntv.newsapp_76.apk",
+        "app_activity": "cn.jpntv.newsapp.newsroom.ActivityMain"
+    },
+    {
+        "app_name": "爱临清",
+        "package_name": "com.iqilu.app65",
+        "file_name": "com.iqilu.app65_77.apk",
+        "app_activity": "com.iqilu.sd.component.start.StartActivity"
+    },
+    {
+        "app_name": "今日首钢",
+        "package_name": "com.newgen.sg_news.activity",
+        "file_name": "com.newgen.sg_news.activity_78.apk",
+        "app_activity": "com.newgen.sgnews.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "看秦州",
+        "package_name": "com.pdmi.qinzhou.media",
+        "file_name": "com.pdmi.qinzhou.media_79.apk",
+        "app_activity": "com.pdmi.gansu.main.guide.SplashActivity"
+    },
+    {
+        "app_name": "荆楚网",
+        "package_name": "com.cmstop.cnhubei",
+        "file_name": "com.cmstop.cnhubei_80.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "云上上蔡",
+        "package_name": "com.xsrm.news.shangcai",
+        "file_name": "com.xsrm.news.shangcai_81.apk",
+        "app_activity": "com.dxrm.aijiyuan._activity._launcher.LauncherActivity"
+    },
+    {
+        "app_name": "掌上喀什",
+        "package_name": "com.xjmty.ksdqrmtzx",
+        "file_name": "com.xjmty.ksdqrmtzx_82.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "云上濮阳",
+        "package_name": "com.zkwg.pynews",
+        "file_name": "com.zkwg.pynews_83.apk",
+        "app_activity": "com.zkwg.pynews.MyPandoraEntry"
+    },
+    {
+        "app_name": "掌上梅州",
+        "package_name": "com.cmstop.meizhou",
+        "file_name": "com.cmstop.meizhou_84.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "大美庐山",
+        "package_name": "lushan.jxtvcn.jxntv",
+        "file_name": "lushan.jxtvcn.jxntv_85.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "东方新闻",
+        "package_name": "cn.eastnews.toutiao",
+        "file_name": "cn.eastnews.toutiao_86.apk",
+        "app_activity": "com.eastday.productFlavors.ui.activity.SplashGreyIconAct"
+    },
+    {
+        "app_name": "新财富",
+        "package_name": "cn.xcf",
+        "file_name": "cn.xcf_87.apk",
+        "app_activity": "cn.xcf.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "山东老干部",
+        "package_name": "com.shuhengyl.retiredpersons",
+        "file_name": "com.shuhengyl.retiredpersons_88.apk",
+        "app_activity": "com.shuhengyl.retiredpersons.ui.SplashActivity"
+    },
+    {
+        "app_name": "大字看",
+        "package_name": "com.bigwordread.feed",
+        "file_name": "com.bigwordread.feed_89.apk",
+        "app_activity": "com.knew.feed.ui.activity.SplashScreenActivity"
+    },
+    {
+        "app_name": "第一读者",
+        "package_name": "com.duzhebao.newfirstreader",
+        "file_name": "com.duzhebao.newfirstreader_90.apk",
+        "app_activity": "com.duzhebao.newfirstreader.SplashActivity"
+    },
+    {
+        "app_name": "河池融媒",
+        "package_name": "com.founder.hechiribao",
+        "file_name": "com.founder.hechiribao_91.apk",
+        "app_activity": "com.founder.hechiribao.ui.AppLaunchListActivity"
+    },
+    {
+        "app_name": "百姓关注",
+        "package_name": "com.v2gogo.project",
+        "file_name": "com.v2gogo.project_92.apk",
+        "app_activity": "com.v2gogo.project.activity.MainActivity"
+    },
+    {
+        "app_name": "榆林发布",
+        "package_name": "com.aheading.news.yulinrb",
+        "file_name": "com.aheading.news.yulinrb_93.apk",
+        "app_activity": "com.txl.app.SplashActivity"
+    },
+    {
+        "app_name": "出彩桐城",
+        "package_name": "com.tenma.ventures.atcubucjr",
+        "file_name": "com.tenma.ventures.atcubucjr_94.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "今日六合",
+        "package_name": "net.nanjingliuhe",
+        "file_name": "net.nanjingliuhe_95.apk",
+        "app_activity": "net.duohuo.magappx.main.WelcomeActivity"
+    },
+    {
+        "app_name": "南阳日报",
+        "package_name": "com.hnzxcm.nydaily",
+        "file_name": "com.hnzxcm.nydaily_96.apk",
+        "app_activity": "com.hnzxcm.nydaily.ui.activity.StartPageActivity"
+    },
+    {
+        "app_name": "郑州",
+        "package_name": "com.zzwanbao",
+        "file_name": "com.zzwanbao_97.apk",
+        "app_activity": "com.zzwanbao.ui.SplashActivity"
+    },
+    {
+        "app_name": "苏周到",
+        "package_name": "com.szgov.entrance",
+        "file_name": "com.szgov.entrance_99.apk",
+        "app_activity": "com.csztv.starfleet.SplashActivity"
+    },
+    {
+        "app_name": "辽望",
+        "package_name": "com.lnrb.lnrbapp",
+        "file_name": "com.lnrb.lnrbapp_101.apk",
+        "app_activity": "cn.thecover.www.covermedia.ui.activity.FlashActivity"
+    },
+    {
+        "app_name": "C114",
+        "package_name": "com.c114.c114__android",
+        "file_name": "com.c114.c114__android_102.apk",
+        "app_activity": "com.c114.c114__android.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "爱郴州",
+        "package_name": "com.hoge.android.app.acz",
+        "file_name": "com.hoge.android.app.acz_103.apk",
+        "app_activity": "com.hoge.android.factory.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "连云港手机台",
+        "package_name": "com.hoge.android.app.lyg",
+        "file_name": "com.hoge.android.app.lyg_104.apk",
+        "app_activity": "com.hoge.android.factory.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "上海普陀",
+        "package_name": "com.shptgov.app",
+        "file_name": "com.shptgov.app_105.apk",
+        "app_activity": "com.shptgov.app.MainActivity"
+    },
+    {
+        "app_name": "新周刊",
+        "package_name": "com.newsweekly.livepi",
+        "file_name": "com.newsweekly.livepi_106.apk",
+        "app_activity": "com.newsweekly.livepi.mvvm.page.home.main.MainActivity"
+    },
+    {
+        "app_name": "云上阳新",
+        "package_name": "com.cj.yun.yangxin",
+        "file_name": "com.cj.yun.yangxin_108.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "河北日报",
+        "package_name": "com.bravogo.hb.sjz.hbrb.News",
+        "file_name": "com.bravogo.hb.sjz.hbrb.News_109.apk",
+        "app_activity": "com.hbrb.daily.module_launcher.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "吉安号",
+        "package_name": "com.jxmfkj.www.company.jianfabu",
+        "file_name": "com.jxmfkj.www.company.jianfabu_110.apk",
+        "app_activity": "com.jxmfkj.www.company.jianfabu.comm.view.LoadingActivity"
+    },
+    {
+        "app_name": "南通州",
+        "package_name": "tongzhou.app.jsbc",
+        "file_name": "tongzhou.app.jsbc_111.apk",
+        "app_activity": "com.android.jsbcmasterapp.Welcome"
+    },
+    {
+        "app_name": "中央纪委网站",
+        "package_name": "com.ccdi.news",
+        "file_name": "com.ccdi.news_112.apk",
+        "app_activity": "com.ccdi.news.ui.boot.BootActivity"
+    },
+    {
+        "app_name": "政策宝",
+        "package_name": "app.hqzcb.com",
+        "file_name": "app.hqzcb.com_114.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "快趣赚钱",
+        "package_name": "com.swjd.fastfunny",
+        "file_name": "com.swjd.fastfunny_115.apk",
+        "app_activity": "com.swjd.zqx.activity.LauncherActivity"
+    },
+    {
+        "app_name": "河南日报",
+        "package_name": "com.hnzx.hnrb",
+        "file_name": "com.hnzx.hnrb_116.apk",
+        "app_activity": "com.hnzx.hnrb.ui.activity.StartPageActivity"
+    },
+    {
+        "app_name": "观察者",
+        "package_name": "cn.guancha.app",
+        "file_name": "cn.guancha.app_117.apk",
+        "app_activity": "cn.guancha.app.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "i青白江",
+        "package_name": "com.founder.qingbaijiang",
+        "file_name": "com.founder.qingbaijiang_118.apk",
+        "app_activity": "com.founder.qingbaijiang.welcome.ui.SplashActivity"
+    },
+    {
+        "app_name": "今日惠东",
+        "package_name": "com.touchtv.huidong",
+        "file_name": "com.touchtv.huidong_120.apk",
+        "app_activity": "com.gdtv.module.main.view.activity.SplashActivity_v2"
+    },
+    {
+        "app_name": "灯塔专业版",
+        "package_name": "com.alipictures.moviepro",
+        "file_name": "com.alipictures.moviepro_121.apk",
+        "app_activity": "com.alipictures.moviepro.bizcommon.splash.SplashActivity"
+    },
+    {
+        "app_name": "宝安湾",
+        "package_name": "com.baoanwan",
+        "file_name": "com.baoanwan_122.apk",
+        "app_activity": "com.nayun.framework.activity.loginOrRegister.LoadingActivity"
+    },
+    {
+        "app_name": "阅报栏12304",
+        "package_name": "com.rmsz.ott",
+        "file_name": "com.rmsz.ott_123.apk",
+        "app_activity": "com.rmsz.ott.activity.SplashActivity"
+    },
+    {
+        "app_name": "来宾融媒",
+        "package_name": "com.lbrm.mobileplus",
+        "file_name": "com.lbrm.mobileplus_124.apk",
+        "app_activity": "com.lbrm.mobileplus.ui.basic.SplashActivity"
+    },
+    {
+        "app_name": "南国早报",
+        "package_name": "com.myxianwen.nanguozaobao",
+        "file_name": "com.myxianwen.nanguozaobao_125.apk",
+        "app_activity": "com.iimedianets.iimedianewsapp.activity.InitialActivity"
+    },
+    {
+        "app_name": "卓创资讯",
+        "package_name": "com.chem99.composite",
+        "file_name": "com.chem99.composite_126.apk",
+        "app_activity": "com.chem99.composite.CompositeSplashActivity"
+    },
+    {
+        "app_name": "CBC金属",
+        "package_name": "com.cbcie.app.cbc",
+        "file_name": "com.cbcie.app.cbc_127.apk",
+        "app_activity": "com.cbcie.app.cbc.normal.init.LaunchActivity"
+    },
+    {
+        "app_name": "南通发布",
+        "package_name": "com.founder.nantongfabu",
+        "file_name": "com.founder.nantongfabu_128.apk",
+        "app_activity": "com.founder.nantongfabu.welcome.ui.SplashActivity"
+    },
+    {
+        "app_name": "中国财经",
+        "package_name": "com.gxfin.mobile.cnfin",
+        "file_name": "com.gxfin.mobile.cnfin_129.apk",
+        "app_activity": "com.gxfin.mobile.cnfin.SplashActivity"
+    },
+    {
+        "app_name": "七猫作家助手",
+        "package_name": "com.qimao.writerassistant",
+        "file_name": "com.qimao.writerassistant_130.apk",
+        "app_activity": "com.qimao.writerassistant.MainActivity"
+    },
+    {
+        "app_name": "风芒",
+        "package_name": "com.mango.hnxwlb",
+        "file_name": "com.mango.hnxwlb_131.apk",
+        "app_activity": "com.mango.hnxwlb.ui930.WelcomeActivity"
+    },
+    {
+        "app_name": "揭阳手机台",
+        "package_name": "com.sobeycloud.wangjie.jygbdst",
+        "file_name": "com.sobeycloud.wangjie.jygbdst_132.apk",
+        "app_activity": "com.sobeycloud.wangjie.jygbdst.SplashActivity"
+    },
+    {
+        "app_name": "河南政务",
+        "package_name": "com.topnews.province",
+        "file_name": "com.topnews.province_133.apk",
+        "app_activity": "com.topnews.province.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "产品经理",
+        "package_name": "com.woshipm.news",
+        "file_name": "com.woshipm.news_134.apk",
+        "app_activity": "com.woshipm.news.ui.act.WelcomeActivity"
+    },
+    {
+        "app_name": "人人长寿",
+        "package_name": "com.xhl.changshou",
+        "file_name": "com.xhl.changshou_135.apk",
+        "app_activity": "com.xhl.basecomponent.activity.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "云上新蔡",
+        "package_name": "com.xsrm.news.xincai",
+        "file_name": "com.xsrm.news.xincai_136.apk",
+        "app_activity": "com.dxrm.aijiyuan._activity._launcher.LauncherActivity"
+    },
+    {
+        "app_name": "司法部",
+        "package_name": "com.leimingtech.sifaburnapp",
+        "file_name": "com.leimingtech.sifaburnapp_137.apk",
+        "app_activity": "com.leimingtech.sifaburnapp.MainActivity"
+    },
+    {
+        "app_name": "云盛京",
+        "package_name": "com.taihe.sjtvim",
+        "file_name": "com.taihe.sjtvim_138.apk",
+        "app_activity": "com.taihe.sjtvim.sjtv.startapp.StartAppActivity"
+    },
+    {
+        "app_name": "中国房地产报",
+        "package_name": "com.creb.creb_app",
+        "file_name": "com.creb.creb_app_139.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "i厦门",
+        "package_name": "com.xmgov.xmapp",
+        "file_name": "com.xmgov.xmapp_140.apk",
+        "app_activity": "com.linewell.citizencloud.module.start.StartActivity"
+    },
+    {
+        "app_name": "中网市场",
+        "package_name": "cn.cnmarket",
+        "file_name": "cn.cnmarket_141.apk",
+        "app_activity": "cn.cnmarket.SplashActivity"
+    },
+    {
+        "app_name": "金融时报",
+        "package_name": "com.founder.jinrongshibao",
+        "file_name": "com.founder.jinrongshibao_142.apk",
+        "app_activity": "com.founder.jinrongshibao.welcome.ui.SplashActivity"
+    },
+    {
+        "app_name": "信息日报",
+        "package_name": "com.jxnews.jxtt",
+        "file_name": "com.jxnews.jxtt_143.apk",
+        "app_activity": "com.app.ui.activity.guide.WelcomeActivity"
+    },
+    {
+        "app_name": "中国药品监管",
+        "package_name": "com.hxzk.android.hxzksyjg_xj",
+        "file_name": "com.hxzk.android.hxzksyjg_xj_144.apk",
+        "app_activity": "com.hxzk.android.hxzksyjg_xj.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "北斗融媒",
+        "package_name": "com.beidou.yun",
+        "file_name": "com.beidou.yun_145.apk",
+        "app_activity": "com.beidou.yun.activity.LaunchActivity"
+    },
+    {
+        "app_name": "隆众快讯",
+        "package_name": "com.oilchem.duanxuntong",
+        "file_name": "com.oilchem.duanxuntong_146.apk",
+        "app_activity": "com.oilchem.duanxuntong.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "77度",
+        "package_name": "com.qiqidu.mobile",
+        "file_name": "com.qiqidu.mobile_149.apk",
+        "app_activity": "com.qiqidu.mobile.ui.LauncherActivity"
+    },
+    {
+        "app_name": "新浪财经",
+        "package_name": "cn.com.sina.finance",
+        "file_name": "cn.com.sina.finance_150.apk",
+        "app_activity": "cn.com.sina.finance.start.ui.LoadingActivity"
+    },
+    {
+        "app_name": "互动易",
+        "package_name": "cninfo.irm.mobile",
+        "file_name": "cninfo.irm.mobile_151.apk",
+        "app_activity": "com.szse.irm.WelcomeActivity"
+    },
+    {
+        "app_name": "观海融媒",
+        "package_name": "com.ygsoft.mobile.news",
+        "file_name": "com.ygsoft.mobile.news_152.apk",
+        "app_activity": "com.ygsoft.mobile.news.MainActivity"
+    },
+    {
+        "app_name": "云上高",
+        "package_name": "shanggao.jxntvcn.jxntv",
+        "file_name": "shanggao.jxntvcn.jxntv_153.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "盘锦发布",
+        "package_name": "com.tenma.ventures.pjfbovsfpp",
+        "file_name": "com.tenma.ventures.pjfbovsfpp_154.apk",
+        "app_activity": "com.tenma.ventures.pjfbovsfpp.SplashActivity"
+    },
+    {
+        "app_name": "富宝资讯",
+        "package_name": "fubao.android",
+        "file_name": "fubao.android_155.apk",
+        "app_activity": "fubao.android.MainActivity"
+    },
+    {
+        "app_name": "今日钢铁",
+        "package_name": "com.quakoo.gangtie",
+        "file_name": "com.quakoo.gangtie_156.apk",
+        "app_activity": "com.quakoo.MainActivity"
+    },
+    {
+        "app_name": "香见",
+        "package_name": "com.sctvcloud.xiangjian",
+        "file_name": "com.sctvcloud.xiangjian_157.apk",
+        "app_activity": "com.sctv.media.main.ui.activitys.LauncherActivity"
+    },
+    {
+        "app_name": "玉溪+",
+        "package_name": "com.powermedia.yuxi.activity",
+        "file_name": "com.powermedia.yuxi.activity_158.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "中意客户端",
+        "package_name": "com.cri.cinitalia",
+        "file_name": "com.cri.cinitalia_159.apk",
+        "app_activity": "com.zy.app.module.startup.StartUpActivity"
+    },
+    {
+        "app_name": "国家政务服务平台",
+        "package_name": "com.service.android.gov.cn",
+        "file_name": "com.service.android.gov.cn_160.apk",
+        "app_activity": "com.hanweb.android.product.gjzwfwproject.component.splash.SplashActivity"
+    },
+    {
+        "app_name": "深圳Plus",
+        "package_name": "com.szwbnews",
+        "file_name": "com.szwbnews_161.apk",
+        "app_activity": "com.cyzhg.eveningnews.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "鄱湖都昌",
+        "package_name": "phduchang.jxtvcn.jxntvcn",
+        "file_name": "phduchang.jxtvcn.jxntvcn_163.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "每日快闻",
+        "package_name": "com.jryy.app.news.mrkw",
+        "file_name": "com.jryy.app.news.mrkw_164.apk",
+        "app_activity": "com.jryy.app.news.mrkw.MainActivity"
+    },
+    {
+        "app_name": "央视新闻",
+        "package_name": "cn.cntvnews",
+        "file_name": "cn.cntvnews_165.apk",
+        "app_activity": "com.torch.open.homeimpl.SplashActivity"
+    },
+    {
+        "app_name": "柳州1号",
+        "package_name": "com.lzrb.lznews",
+        "file_name": "com.lzrb.lznews_166.apk",
+        "app_activity": "com.founder.xiangyu.MainActivity"
+    },
+    {
+        "app_name": "原点新闻",
+        "package_name": "com.x7p.shnews",
+        "file_name": "com.x7p.shnews_167.apk",
+        "app_activity": "com.x7p.shnews.SplashActivity"
+    },
+    {
+        "app_name": "财经头条",
+        "package_name": "com.feheadline.news",
+        "file_name": "com.feheadline.news_168.apk",
+        "app_activity": "com.feheadline.news.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "安居融媒",
+        "package_name": "com.sctvcloud.anju",
+        "file_name": "com.sctvcloud.anju_169.apk",
+        "app_activity": "com.sctv.media.main.ui.activitys.LauncherActivity"
+    },
+    {
+        "app_name": "inJiangsu我苏",
+        "package_name": "com.jsbc.ourjiangsu",
+        "file_name": "com.jsbc.ourjiangsu_170.apk",
+        "app_activity": "com.android.jsbcmasterapp.MainActivity"
+    },
+    {
+        "app_name": "看究竟",
+        "package_name": "com.laohucaijing.kjj",
+        "file_name": "com.laohucaijing.kjj_171.apk",
+        "app_activity": "com.laohucaijing.kjj.ui.startup.SplashActivity"
+    },
+    {
+        "app_name": "中山Plus",
+        "package_name": "com.zszs.activity",
+        "file_name": "com.zszs.activity_172.apk",
+        "app_activity": "com.zszs.activity.WelcomeImageActivity"
+    },
+    {
+        "app_name": "智慧大丰",
+        "package_name": "dafeng.app.jsbc",
+        "file_name": "dafeng.app.jsbc_173.apk",
+        "app_activity": "com.android.jsbcmasterapp.MainActivity"
+    },
+    {
+        "app_name": "魅力信州",
+        "package_name": "com.jxmfkj.www.company.xinzhou",
+        "file_name": "com.jxmfkj.www.company.xinzhou_174.apk",
+        "app_activity": "com.jxmfkj.www.company.xinzhou.comm.view.LoadingActivity"
+    },
+    {
+        "app_name": "科技日报",
+        "package_name": "com.stdaily.app.kjrb",
+        "file_name": "com.stdaily.app.kjrb_175.apk",
+        "app_activity": "com.founder.xiangyu.MainActivity"
+    },
+    {
+        "app_name": "冀云黄骅",
+        "package_name": "com.pdmi.huanyi.media",
+        "file_name": "com.pdmi.huanyi.media_176.apk",
+        "app_activity": "com.pdmi.gansu.main.guide.SplashActivity"
+    },
+    {
+        "app_name": "新华网",
+        "package_name": "com.foundao.xinhua_android",
+        "file_name": "com.foundao.xinhua_android_177.apk",
+        "app_activity": "com.broken.molaware.xinhua_android.ui.splashpage.SplashActivity"
+    },
+    {
+        "app_name": "瑞金红都云",
+        "package_name": "com.jxmfkj.www.company.rjhdy",
+        "file_name": "com.jxmfkj.www.company.rjhdy_178.apk",
+        "app_activity": "com.jxmfkj.www.company.rjhdy.comm.view.LoadingActivity"
+    },
+    {
+        "app_name": "北票融媒",
+        "package_name": "com.beipiaoshi.app",
+        "file_name": "com.beipiaoshi.app_179.apk",
+        "app_activity": "com.beipiaoshi.app.activity.LaunchActivity"
+    },
+    {
+        "app_name": "江苏法治",
+        "package_name": "com.xhby.legalnewspaper",
+        "file_name": "com.xhby.legalnewspaper_180.apk",
+        "app_activity": "com.xhby.legalnewspaper.ui.launcher.LauncherActivity"
+    },
+    {
+        "app_name": "草原云",
+        "package_name": "com.innermongoliadaily.activity",
+        "file_name": "com.innermongoliadaily.activity_181.apk",
+        "app_activity": "com.innermongoliadaily.activity.SplashActivity"
+    },
+    {
+        "app_name": "大美綦江",
+        "package_name": "com.xhl.qijiang",
+        "file_name": "com.xhl.qijiang_182.apk",
+        "app_activity": "com.xhl.basecomponent.activity.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "联商网",
+        "package_name": "com.linkshop.client",
+        "file_name": "com.linkshop.client_183.apk",
+        "app_activity": "com.linkshop.client.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "文化中油",
+        "package_name": "com.jiaoyu.shiyou",
+        "file_name": "com.jiaoyu.shiyou_184.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "经济日报",
+        "package_name": "com.tianwen.jjrb",
+        "file_name": "com.tianwen.jjrb_185.apk",
+        "app_activity": "com.tianwen.jjrb.mvp.ui.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "每日早看",
+        "package_name": "com.smart.app.zhangzhong.everyMorningReader",
+        "file_name": "com.smart.app.zhangzhong.everyMorningReader_186.apk",
+        "app_activity": "com.smart.app.zhangzhong.everyMorningReader.activity.MainActivity"
+    },
+    {
+        "app_name": "爱废钢",
+        "package_name": "com.steel.scrap.UNI95758DE",
+        "file_name": "com.steel.scrap.UNI95758DE_188.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "i三台",
+        "package_name": "com.moyun.zbmy.zizhou",
+        "file_name": "com.moyun.zbmy.zizhou_189.apk",
+        "app_activity": "com.sctv.media.main.ui.activitys.LauncherActivity"
+    },
+    {
+        "app_name": "津滨海",
+        "package_name": "com.pdmi.binhai.media",
+        "file_name": "com.pdmi.binhai.media_190.apk",
+        "app_activity": "com.pdmi.gansu.main.guide.SplashActivity"
+    },
+    {
+        "app_name": "山东教育发布",
+        "package_name": "tv.suosi.sdedunews",
+        "file_name": "tv.suosi.sdedunews_191.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "太平洋科技",
+        "package_name": "cn.com.pconline.android.browser",
+        "file_name": "cn.com.pconline.android.browser_192.apk",
+        "app_activity": "cn.com.pconline.android.kotlin.module.splash.SplashActivity"
+    },
+    {
+        "app_name": "新芽",
+        "package_name": "com.zero2ipo.harlanhu.newseed",
+        "file_name": "com.zero2ipo.harlanhu.newseed_193.apk",
+        "app_activity": "com.zero2ipo.harlanhu.newseed.ui.main.PopActivity"
+    },
+    {
+        "app_name": "醒目视频",
+        "package_name": "com.gdfoushan.fsapplication",
+        "file_name": "com.gdfoushan.fsapplication_194.apk",
+        "app_activity": "com.gdfoushan.fsapplication.mvp.ui.activity.SplanActivityX"
+    },
+    {
+        "app_name": "新清远",
+        "package_name": "com.founder.qingyuan",
+        "file_name": "com.founder.qingyuan_195.apk",
+        "app_activity": "com.nfdaily.nfplus.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "爱启东",
+        "package_name": "qidong.app.jsbc",
+        "file_name": "qidong.app.jsbc_197.apk",
+        "app_activity": "com.android.jsbcmasterapp.Welcome"
+    },
+    {
+        "app_name": "煲都黎川",
+        "package_name": "com.appbyme.app107195",
+        "file_name": "com.appbyme.app107195_198.apk",
+        "app_activity": "com.appbyme.app107195.comm.view.LoadingActivity"
+    },
+    {
+        "app_name": "看彝良",
+        "package_name": "cn.ccwb.cloud.yiliang.app",
+        "file_name": "cn.ccwb.cloud.yiliang.app_200.apk",
+        "app_activity": "cn.ccwb.cloud.app.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "中国基金报",
+        "package_name": "com.stcn.fundnews",
+        "file_name": "com.stcn.fundnews_201.apk",
+        "app_activity": "com.stcn.chinafundnews.ui.entry.WelcomeActivity"
+    },
+    {
+        "app_name": "智通财经",
+        "package_name": "com.zhitongcaijin.ztc",
+        "file_name": "com.zhitongcaijin.ztc_202.apk",
+        "app_activity": "com.zhitongcaijin.ztc.activity.SplashActivity"
+    },
+    {
+        "app_name": "智慧靖远",
+        "package_name": "com.pdmi.jingyuan.media",
+        "file_name": "com.pdmi.jingyuan.media_203.apk",
+        "app_activity": "com.pdmi.gansu.main.guide.SplashActivity"
+    },
+    {
+        "app_name": "今日快闻超大字版",
+        "package_name": "com.smart.app.zhangzhong.todayInfoBiggerCharacter",
+        "file_name": "com.smart.app.zhangzhong.todayInfoBiggerCharacter_204.apk",
+        "app_activity": "com.smart.app.zhangzhong.todayInfoBiggerCharacter.activity.MainActivity"
+    },
+    {
+        "app_name": "袁州发布",
+        "package_name": "yuanzhou.jxntvcn.jxntv",
+        "file_name": "yuanzhou.jxntvcn.jxntv_205.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "青春山东",
+        "package_name": "com.ccb.fintech.app.productions.sdga",
+        "file_name": "com.ccb.fintech.app.productions.sdga_206.apk",
+        "app_activity": "com.ccb.fintech.app.productions.sdga.ui.starter.StartPageActivity"
+    },
+    {
+        "app_name": "预料之中",
+        "package_name": "guo.ran.you.liao.com",
+        "file_name": "guo.ran.you.liao.com_207.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "江西新闻",
+        "package_name": "com.xdtech.news.greatriver",
+        "file_name": "com.xdtech.news.greatriver_208.apk",
+        "app_activity": "com.xdtech.news.greatriver.comm.view.LoadingActivity"
+    },
+    {
+        "app_name": "今日阜阳",
+        "package_name": "com.cdvcloud.jinrifuyang",
+        "file_name": "com.cdvcloud.jinrifuyang_209.apk",
+        "app_activity": "net.duohuo.magappx.main.WelcomeActivity"
+    },
+    {
+        "app_name": "奥林匹克频道",
+        "package_name": "com.cctv.OlympicChannel",
+        "file_name": "com.cctv.OlympicChannel_210.apk",
+        "app_activity": "com.cctv.OlympicChannel.activity.SplashActivity"
+    },
+    {
+        "app_name": "浦东观察",
+        "package_name": "com.xunao.shanghaibags",
+        "file_name": "com.xunao.shanghaibags_211.apk",
+        "app_activity": "com.xunao.shanghaibags.ui.activity.StartUpActivity"
+    },
+    {
+        "app_name": "IT之家",
+        "package_name": "com.ruanmei.ithome",
+        "file_name": "com.ruanmei.ithome_212.apk",
+        "app_activity": "com.ruanmei.ithome.ui.MainActivity"
+    },
+    {
+        "app_name": "云上大冶",
+        "package_name": "com.cj.yun.daye",
+        "file_name": "com.cj.yun.daye_213.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "安徽视讯",
+        "package_name": "com.ahtv.info",
+        "file_name": "com.ahtv.info_214.apk",
+        "app_activity": "com.txl.app.HomeActivity"
+    },
+    {
+        "app_name": "今视频",
+        "package_name": "com.sobey.cloud.view.jiangxi",
+        "file_name": "com.sobey.cloud.view.jiangxi_215.apk",
+        "app_activity": "com.jxntv.home.SplashActivity"
+    },
+    {
+        "app_name": "中国财经报",
+        "package_name": "com.founder.zgcjb",
+        "file_name": "com.founder.zgcjb_216.apk",
+        "app_activity": "com.founder.zgcjb.welcome.ui.SplashActivity"
+    },
+    {
+        "app_name": "交通强国",
+        "package_name": "com.founder.zgjtb",
+        "file_name": "com.founder.zgjtb_217.apk",
+        "app_activity": "com.founder.xiangyu.MainActivity"
+    },
+    {
+        "app_name": "传奇珙县",
+        "package_name": "com.tenma.ventures.cqxywdhfh",
+        "file_name": "com.tenma.ventures.cqxywdhfh_218.apk",
+        "app_activity": "com.tenma.ventures.cqxywdhfh.SplashActivity"
+    },
+    {
+        "app_name": "灯塔党建在线",
+        "package_name": "com.fosung.lighthouse",
+        "file_name": "com.fosung.lighthouse_219.apk",
+        "app_activity": "com.fosung.lighthouse.master.amodule.init.InitActivity"
+    },
+    {
+        "app_name": "掌中九江",
+        "package_name": "com.zsjj.activity",
+        "file_name": "com.zsjj.activity_220.apk",
+        "app_activity": "com.zsjj.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "广东经视",
+        "package_name": "com.tvs.metoo",
+        "file_name": "com.tvs.metoo_221.apk",
+        "app_activity": "com.v2gogo.project.index.launch.SplashUI"
+    },
+    {
+        "app_name": "沈阳发布",
+        "package_name": "com.founder.shenyangribao",
+        "file_name": "com.founder.shenyangribao_222.apk",
+        "app_activity": "com.founder.xiangyu.MainActivity"
+    },
+    {
+        "app_name": "国际金融报",
+        "package_name": "com.cmstop.gjjrb",
+        "file_name": "com.cmstop.gjjrb_223.apk",
+        "app_activity": "com.yuntong.cms.welcome.ui.SplashActivity"
+    },
+    {
+        "app_name": "91体育",
+        "package_name": "com.jytyapp",
+        "file_name": "com.jytyapp_224.apk",
+        "app_activity": "com.jytyapp.MainActivity"
+    },
+    {
+        "app_name": "航空强国",
+        "package_name": "com.hangkong.android.app.ui.fragment",
+        "file_name": "com.hangkong.android.app.ui.fragment_225.apk",
+        "app_activity": "cn.thecover.www.covermedia.ui.activity.FlashActivity"
+    },
+    {
+        "app_name": "九江头条",
+        "package_name": "com.jxnews.jjttn",
+        "file_name": "com.jxnews.jjttn_226.apk",
+        "app_activity": "com.app.ui.activity.guide.JJTTWelcomeActivity"
+    },
+    {
+        "app_name": "玉林视听",
+        "package_name": "com.tenma.ventures.wcylsjtfludsu",
+        "file_name": "com.tenma.ventures.wcylsjtfludsu_227.apk",
+        "app_activity": "com.tenma.ventures.wcylsjtfludsu.SplashActivity"
+    },
+    {
+        "app_name": "新余头条",
+        "package_name": "com.jxnews.xyttn",
+        "file_name": "com.jxnews.xyttn_228.apk",
+        "app_activity": "com.app.ui.activity.guide.WelcomeActivity"
+    },
+    {
+        "app_name": "金花防城",
+        "package_name": "net.xinhuamm.d3044",
+        "file_name": "net.xinhuamm.d3044_229.apk",
+        "app_activity": "com.ynxhs.dznews.mvp.ui.welcome.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "隆众资讯",
+        "package_name": "com.oilchem.shihuatong",
+        "file_name": "com.oilchem.shihuatong_230.apk",
+        "app_activity": "com.oilchem.shihuatong.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "妙趣见闻",
+        "package_name": "com.smart.app.jijia.xin.funInfo",
+        "file_name": "com.smart.app.jijia.xin.funInfo_231.apk",
+        "app_activity": "com.smart.app.jijia.xin.funInfo.activity.MainActivity"
+    },
+    {
+        "app_name": "羌韵宕昌",
+        "package_name": "com.pdmi.tanchang.media",
+        "file_name": "com.pdmi.tanchang.media_232.apk",
+        "app_activity": "com.pdmi.gansu.main.guide.SplashActivity"
+    },
+    {
+        "app_name": "财经网",
+        "package_name": "cn.com.caijing.activity",
+        "file_name": "cn.com.caijing.activity_233.apk",
+        "app_activity": "cn.com.caijing.activity.SplashActivity"
+    },
+    {
+        "app_name": "有看投",
+        "package_name": "cn.emoney.ycstock",
+        "file_name": "cn.emoney.ycstock_234.apk",
+        "app_activity": "cn.emoney.acg.act.boot.BootAct"
+    },
+    {
+        "app_name": "克什克腾融媒",
+        "package_name": "com.tenma.ventures.ksktrmzywzqz",
+        "file_name": "com.tenma.ventures.ksktrmzywzqz_235.apk",
+        "app_activity": "com.tenma.ventures.ksktrmzywzqz.SplashActivity"
+    },
+    {
+        "app_name": "文旅中国",
+        "package_name": "com.ccmapp.news",
+        "file_name": "com.ccmapp.news_236.apk",
+        "app_activity": "com.ccmapp.news.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "江西教育发布",
+        "package_name": "app.jx.edu.cn",
+        "file_name": "app.jx.edu.cn_237.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "法治号",
+        "package_name": "com.changdachelian.fazhiwang",
+        "file_name": "com.changdachelian.fazhiwang_238.apk",
+        "app_activity": "com.changdachelian.fazhiwang.ui.basic.SplashActivity"
+    },
+    {
+        "app_name": "弋阳关注",
+        "package_name": "com.jxmfkj.www.company.yiyang",
+        "file_name": "com.jxmfkj.www.company.yiyang_239.apk",
+        "app_activity": "com.jxmfkj.www.company.yiyang.comm.view.LoadingActivity"
+    },
+    {
+        "app_name": "知东莞",
+        "package_name": "com.sun0769.zdg",
+        "file_name": "com.sun0769.zdg_240.apk",
+        "app_activity": "com.sun0769.zdg.mvp.ui.activity.SplanActivity"
+    },
+    {
+        "app_name": "洞见研报",
+        "package_name": "com.djyanbao.app",
+        "file_name": "com.djyanbao.app_241.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "e公司",
+        "package_name": "com.zycx.ecompany",
+        "file_name": "com.zycx.ecompany_242.apk",
+        "app_activity": "com.zycx.ecompany.activity.SplashActivity"
+    },
+    {
+        "app_name": "云上长阳",
+        "package_name": "com.cj.yun.yunshangchangyang",
+        "file_name": "com.cj.yun.yunshangchangyang_243.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "不老彭山",
+        "package_name": "com.dfsx.pscms",
+        "file_name": "com.dfsx.pscms_244.apk",
+        "app_activity": "com.dfsx.home.ui.activity.splash.SplashActivity"
+    },
+    {
+        "app_name": "中国发布",
+        "package_name": "com.scio.news",
+        "file_name": "com.scio.news_245.apk",
+        "app_activity": "com.cno.news.main.activity.SplashActivity"
+    },
+    {
+        "app_name": "中国交通报手机数字报",
+        "package_name": "com.wzyk.zgjtb1",
+        "file_name": "com.wzyk.zgjtb1_246.apk",
+        "app_activity": "com.wzyk.somnambulist.function.loading.LoadingActivity"
+    },
+    {
+        "app_name": "宜丰发布",
+        "package_name": "com.jxmfkj.www.company.yf",
+        "file_name": "com.jxmfkj.www.company.yf_247.apk",
+        "app_activity": "com.jxmfkj.www.company.yf.comm.view.LoadingActivity"
+    },
+    {
+        "app_name": "中新网",
+        "package_name": "com.cns.mc.activity",
+        "file_name": "com.cns.mc.activity_248.apk",
+        "app_activity": "com.trs.bj.zxs.activity.SplashActivity"
+    },
+    {
+        "app_name": "慈晓",
+        "package_name": "com.aheading.news.cixirb",
+        "file_name": "com.aheading.news.cixirb_249.apk",
+        "app_activity": "com.aheading.news.cixirb.activity.StartActivity"
+    },
+    {
+        "app_name": "云上公安",
+        "package_name": "com.cj.yun.gongan",
+        "file_name": "com.cj.yun.gongan_250.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "沙磁荟",
+        "package_name": "com.xhl.shapingba",
+        "file_name": "com.xhl.shapingba_251.apk",
+        "app_activity": "com.xhl.basecomponent.activity.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "康美中药城",
+        "package_name": "com.kmb2b.KmMall",
+        "file_name": "com.kmb2b.KmMall_252.apk",
+        "app_activity": "com.kmb2b.KmMall.activity.zmain.SplashActivity"
+    },
+    {
+        "app_name": "湖北纪委监委",
+        "package_name": "com.cj.yun.hbjwjw",
+        "file_name": "com.cj.yun.hbjwjw_253.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "开屏新闻",
+        "package_name": "cn.cc1w.app.ui",
+        "file_name": "cn.cc1w.app.ui_254.apk",
+        "app_activity": "cn.cc1w.app.ui.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "中国石油报",
+        "package_name": "w2a.W2Aepaper.zgsyb.com.cn",
+        "file_name": "w2a.W2Aepaper.zgsyb.com.cn_255.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "云上黄石",
+        "package_name": "com.cj.yun.huangshi",
+        "file_name": "com.cj.yun.huangshi_256.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "中国通",
+        "package_name": "com.bjsj.tong",
+        "file_name": "com.bjsj.tong_257.apk",
+        "app_activity": "com.bjsj.tong.modules.enter.SplashActivity"
+    },
+    {
+        "app_name": "扬州景区",
+        "package_name": "com.yzjq.news",
+        "file_name": "com.yzjq.news_258.apk",
+        "app_activity": "com.yzjq.news.ui.LogoActivity"
+    },
+    {
+        "app_name": "烟海e家",
+        "package_name": "com.jiaodong.ytnews",
+        "file_name": "com.jiaodong.ytnews_259.apk",
+        "app_activity": "com.jiaodong.ytnews.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "宜黄之窗",
+        "package_name": "com.jxmfkj.www.company.yihuang",
+        "file_name": "com.jxmfkj.www.company.yihuang_260.apk",
+        "app_activity": "com.jxmfkj.www.company.yihuang.comm.view.LoadingActivity"
+    },
+    {
+        "app_name": "指尖",
+        "package_name": "cn.com.syd.shenyangfinger",
+        "file_name": "cn.com.syd.shenyangfinger_261.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "中国搜索",
+        "package_name": "com.chinaso.toutiao",
+        "file_name": "com.chinaso.toutiao_262.apk",
+        "app_activity": "com.chinaso.toutiao.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "云上咸宁",
+        "package_name": "com.cj.yun.xianning",
+        "file_name": "com.cj.yun.xianning_263.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "云上恩施",
+        "package_name": "com.cj.yun.esz",
+        "file_name": "com.cj.yun.esz_264.apk",
+        "app_activity": "com.estv.cloudjw.activity.SplashActivity"
+    },
+    {
+        "app_name": "我的钢铁",
+        "package_name": "com.mysteel.android.steelphone",
+        "file_name": "com.mysteel.android.steelphone_265.apk",
+        "app_activity": "com.mysteel.android.steelcommon.ui.activity.IntroActivity"
+    },
+    {
+        "app_name": "乐活",
+        "package_name": "com.lehuoapp.mm",
+        "file_name": "com.lehuoapp.mm_266.apk",
+        "app_activity": "cn.youth.news.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "电网头条",
+        "package_name": "com.dianwang",
+        "file_name": "com.dianwang_267.apk",
+        "app_activity": "com.wondertek.stategridtopnews.TopNewsActivity"
+    },
+    {
+        "app_name": "中国会计报",
+        "package_name": "com.cfen.can",
+        "file_name": "com.cfen.can_268.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "阿巴圭冻品",
+        "package_name": "app.niuabg",
+        "file_name": "app.niuabg_269.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "掌上亳州",
+        "package_name": "com.tidemedia.bozhou",
+        "file_name": "com.tidemedia.bozhou_270.apk",
+        "app_activity": "com.yunzhi.yangfan.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "浙海行",
+        "package_name": "com.ehh.zjhs.release",
+        "file_name": "com.ehh.zjhs.release_271.apk",
+        "app_activity": "com.ehh.zjhs.release.ui.activity.StartActivity"
+    },
+    {
+        "app_name": "杭州新闻",
+        "package_name": "com.hz_hb_newspaper",
+        "file_name": "com.hz_hb_newspaper_272.apk",
+        "app_activity": "com.hz_hb_newspaper.mvp.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "爱昌乐",
+        "package_name": "com.iqilu.app1",
+        "file_name": "com.iqilu.app1_273.apk",
+        "app_activity": "com.iqilu.sd.component.start.StartActivity"
+    },
+    {
+        "app_name": "iPanda",
+        "package_name": "cn.cntv.iPandaEnglish",
+        "file_name": "cn.cntv.iPandaEnglish_274.apk",
+        "app_activity": "cn.cntv.app.ipanda.MainActivity"
+    },
+    {
+        "app_name": "爱武胜",
+        "package_name": "com.sctvcloud.wusheng",
+        "file_name": "com.sctvcloud.wusheng_275.apk",
+        "app_activity": "com.sctv.media.main.ui.activitys.LauncherActivity"
+    },
+    {
+        "app_name": "蓝鹰",
+        "package_name": "com.shijiguorui.guoruisijiu",
+        "file_name": "com.shijiguorui.guoruisijiu_276.apk",
+        "app_activity": "com.shijiguorui.guoruisijiu.ui.activity.LauncherActivity"
+    },
+    {
+        "app_name": "浦口发布",
+        "package_name": "com.qingk.cruftwswsavasdswbfwudwruucbecffq",
+        "file_name": "com.qingk.cruftwswsavasdswbfwudwruucbecffq_277.apk",
+        "app_activity": "net.duohuo.magappx.main.WelcomeActivity"
+    },
+    {
+        "app_name": "懒猫赚钱",
+        "package_name": "com.yuri.lazycat",
+        "file_name": "com.yuri.lazycat_278.apk",
+        "app_activity": "com.yuri.mumu.activity.LauncherActivity"
+    },
+    {
+        "app_name": "临汾云",
+        "package_name": "com.hzpd.cloud.linfen",
+        "file_name": "com.hzpd.cloud.linfen_279.apk",
+        "app_activity": "com.hzpd.cloud.linfen.module.WelcomeActivity"
+    },
+    {
+        "app_name": "红山眼",
+        "package_name": "com.tenma.ventures.hongshanyan",
+        "file_name": "com.tenma.ventures.hongshanyan_280.apk",
+        "app_activity": "com.sobey.fc.android.sdk.navi.ui.SplashActivity"
+    },
+    {
+        "app_name": "山海",
+        "package_name": "com.mgshuzhi.shanhai",
+        "file_name": "com.mgshuzhi.shanhai_281.apk",
+        "app_activity": "com.mgshuzhi.shanhai.beta.BetaVerifyActivity"
+    },
+    {
+        "app_name": "上海证券报",
+        "package_name": "com.cnstock.newsapp",
+        "file_name": "com.cnstock.newsapp_282.apk",
+        "app_activity": "com.cnstock.newsapp.ui.splash.welcome.SplashActivity"
+    },
+    {
+        "app_name": "今日大字看",
+        "package_name": "com.smart.app.jijia.xin.todayBigLook",
+        "file_name": "com.smart.app.jijia.xin.todayBigLook_283.apk",
+        "app_activity": "com.smart.app.jijia.xin.todayBigLook.activity.MainActivity"
+    },
+    {
+        "app_name": "中青校园",
+        "package_name": "cn.youth.school",
+        "file_name": "cn.youth.school_284.apk",
+        "app_activity": "com.weishang.wxrd.activity.SplashActivity"
+    },
+    {
+        "app_name": "云上松滋",
+        "package_name": "com.cj.yun.songzi",
+        "file_name": "com.cj.yun.songzi_285.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "红城1947",
+        "package_name": "com.tenma.ventures.dmhcrsmmpg",
+        "file_name": "com.tenma.ventures.dmhcrsmmpg_286.apk",
+        "app_activity": "com.tenma.ventures.dmhcrsmmpg.SplashActivity"
+    },
+    {
+        "app_name": "人民代表报",
+        "package_name": "com.founder.renmindaibiao",
+        "file_name": "com.founder.renmindaibiao_287.apk",
+        "app_activity": "com.founder.xiangyu.MainActivity"
+    },
+    {
+        "app_name": "新湖南",
+        "package_name": "com.dingtai.wxhn.activity",
+        "file_name": "com.dingtai.wxhn.activity_288.apk",
+        "app_activity": "cn.com.voc.mobile.wxhn.splash.SplashActivity"
+    },
+    {
+        "app_name": "景迈山",
+        "package_name": "com.aheading.news.puerrb",
+        "file_name": "com.aheading.news.puerrb_289.apk",
+        "app_activity": "com.founder.product.welcome.ui.SplashActivity"
+    },
+    {
+        "app_name": "黄河Plus",
+        "package_name": "tidemedia.app.hh",
+        "file_name": "tidemedia.app.hh_290.apk",
+        "app_activity": "tide.juyun.com.ui.activitys.WelcomeActivityNewActivity"
+    },
+    {
+        "app_name": "云吉州",
+        "package_name": "com.jxmfkj.www.company.yunjizhou",
+        "file_name": "com.jxmfkj.www.company.yunjizhou_291.apk",
+        "app_activity": "com.jxmfkj.www.company.yunjizhou.comm.view.LoadingActivity"
+    },
+    {
+        "app_name": "锡盟融媒",
+        "package_name": "com.zsxlgl.activity",
+        "file_name": "com.zsxlgl.activity_292.apk",
+        "app_activity": "com.founder.product.welcome.ui.SplashActivity"
+    },
+    {
+        "app_name": "湖北广电局",
+        "package_name": "io.dcloud.H5A1A3ADC",
+        "file_name": "io.dcloud.H5A1A3ADC_293.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "我的许昌客户端",
+        "package_name": "com.hnxc.xcrb",
+        "file_name": "com.hnxc.xcrb_294.apk",
+        "app_activity": "com.hnxc.xcrb.ui.activity.StartPageActivity"
+    },
+    {
+        "app_name": "读库",
+        "package_name": "cn.duku",
+        "file_name": "cn.duku_295.apk",
+        "app_activity": "cn.duku.page.base.LauncherActivity"
+    },
+    {
+        "app_name": "九派通",
+        "package_name": "com.jingmen.jiupaitong",
+        "file_name": "com.jingmen.jiupaitong_296.apk",
+        "app_activity": "com.jingmen.jiupaitong.welcome.ui.SplashActivity"
+    },
+    {
+        "app_name": "State Council",
+        "package_name": "com.gov.cn",
+        "file_name": "com.gov.cn_297.apk",
+        "app_activity": "com.gov.splash.SplashActivity"
+    },
+    {
+        "app_name": "草原神骏阿巴嘎",
+        "package_name": "com.tenma.ventures.mlabgmbkxcf",
+        "file_name": "com.tenma.ventures.mlabgmbkxcf_298.apk",
+        "app_activity": "com.tenma.ventures.mlabgmbkxcf.SplashActivity"
+    },
+    {
+        "app_name": "融汇副中心",
+        "package_name": "io.dcloud.H5A353B0E",
+        "file_name": "io.dcloud.H5A353B0E_299.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "第1眼新闻",
+        "package_name": "com.cdvcloud.firsteye",
+        "file_name": "com.cdvcloud.firsteye_300.apk",
+        "app_activity": "com.cdvcloud.firsteye.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "书香国网",
+        "package_name": "com.indaa.rp",
+        "file_name": "com.indaa.rp_301.apk",
+        "app_activity": "com.indaa.rp.ui.PrivacyActiviyt"
+    },
+    {
+        "app_name": "中国化肥网",
+        "package_name": "cn.com.chinafertnew",
+        "file_name": "cn.com.chinafertnew_302.apk",
+        "app_activity": "cn.com.chinafertnew.JNWelUI"
+    },
+    {
+        "app_name": "动静新闻",
+        "package_name": "cn.gzmovement",
+        "file_name": "cn.gzmovement_303.apk",
+        "app_activity": "cn.gzmovement.business.welcome.launch.Activity_Launcher"
+    },
+    {
+        "app_name": "看潮州",
+        "package_name": "com.zscz.activity",
+        "file_name": "com.zscz.activity_304.apk",
+        "app_activity": "com.zscz.activity.SplashActivity"
+    },
+    {
+        "app_name": "视听晋中",
+        "package_name": "com.smart.jinzhong",
+        "file_name": "com.smart.jinzhong_305.apk",
+        "app_activity": "com.smart.jinzhong.activitys.WelActivity"
+    },
+    {
+        "app_name": "广西云",
+        "package_name": "cn.com.gxrb.client",
+        "file_name": "cn.com.gxrb.client_306.apk",
+        "app_activity": "cn.com.gxrb.client.activity.SplashActivity"
+    },
+    {
+        "app_name": "巨潮资讯",
+        "package_name": "cn.com.cninfo.jcapp",
+        "file_name": "cn.com.cninfo.jcapp_307.apk",
+        "app_activity": "cn.com.cninfo.jcapp.MainActivity"
+    },
+    {
+        "app_name": "广昌融媒",
+        "package_name": "guangchang.jxtvcn.jxntv",
+        "file_name": "guangchang.jxtvcn.jxntv_308.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "健康山东Healthy",
+        "package_name": "cn.e23.healthpaper",
+        "file_name": "cn.e23.healthpaper_309.apk",
+        "app_activity": "cn.e23.healthpaper.activity.SplashActivity"
+    },
+    {
+        "app_name": "虎嗅",
+        "package_name": "com.huxiu",
+        "file_name": "com.huxiu_310.apk",
+        "app_activity": "com.huxiu.ui.activity.HXRegistrationAgreementPrivacyPolicyActivity"
+    },
+    {
+        "app_name": "新视中",
+        "package_name": "com.luyin",
+        "file_name": "com.luyin_311.apk",
+        "app_activity": "com.iqilu.sd.component.start.StartActivity"
+    },
+    {
+        "app_name": "幸福安宁",
+        "package_name": "com.zgynet.xfan",
+        "file_name": "com.zgynet.xfan_312.apk",
+        "app_activity": "com.pdmi.gansu.main.guide.SplashActivity"
+    },
+    {
+        "app_name": "豚云",
+        "package_name": "com.jwzt.tongling",
+        "file_name": "com.jwzt.tongling_313.apk",
+        "app_activity": "net.duohuo.magappx.main.WelcomeActivity"
+    },
+    {
+        "app_name": "大字看天下",
+        "package_name": "com.smart.app.zhangtu.largeFontLookWorld",
+        "file_name": "com.smart.app.zhangtu.largeFontLookWorld_314.apk",
+        "app_activity": "com.smart.app.zhangtu.largeFontLookWorld.activity.MainActivity"
+    },
+    {
+        "app_name": "腕表之家",
+        "package_name": "com.xbiao",
+        "file_name": "com.xbiao_315.apk",
+        "app_activity": "com.xbiao.splash.SplashActivity"
+    },
+    {
+        "app_name": "掌上安庆",
+        "package_name": "com.tj.anqing",
+        "file_name": "com.tj.anqing_316.apk",
+        "app_activity": "com.tj.anqing.ui.basic.SplashActivity"
+    },
+    {
+        "app_name": "今日兴化",
+        "package_name": "xinghua.app.jsbc",
+        "file_name": "xinghua.app.jsbc_317.apk",
+        "app_activity": "com.android.jsbcmasterapp.Welcome"
+    },
+    {
+        "app_name": "找钢指数",
+        "package_name": "com.zhaogang.zhishu",
+        "file_name": "com.zhaogang.zhishu_318.apk",
+        "app_activity": "com.zhaogang.zhishu.ui.WelcomeActivity"
+    },
+    {
+        "app_name": "重庆手机台",
+        "package_name": "sj.chongqing.webmobile",
+        "file_name": "sj.chongqing.webmobile_319.apk",
+        "app_activity": "sj.cq.webmobile.ui.SplashActivity"
+    },
+    {
+        "app_name": "常州新闻",
+        "package_name": "com.changzhounews.app",
+        "file_name": "com.changzhounews.app_320.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "我的宜昌",
+        "package_name": "gooogle.tian.sanxiayidiantong",
+        "file_name": "gooogle.tian.sanxiayidiantong_321.apk",
+        "app_activity": "com.founder.product.welcome.ui.SplashActivity"
+    },
+    {
+        "app_name": "霹雳手供销信息发布平台",
+        "package_name": "com.plsgxw",
+        "file_name": "com.plsgxw_322.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "数英",
+        "package_name": "com.android.app.digitaling",
+        "file_name": "com.android.app.digitaling_323.apk",
+        "app_activity": "com.android.app.digitaling.MainActivity"
+    },
+    {
+        "app_name": "大通融媒",
+        "package_name": "com.hoge.android.app.datong",
+        "file_name": "com.hoge.android.app.datong_324.apk",
+        "app_activity": "com.hoge.android.factory.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "爱神木",
+        "package_name": "com.rmt.ishenmu",
+        "file_name": "com.rmt.ishenmu_325.apk",
+        "app_activity": "com.pdmi.gansu.main.guide.SplashActivity"
+    },
+    {
+        "app_name": "敦化视界",
+        "package_name": "com.hoge.android.app.dunhua",
+        "file_name": "com.hoge.android.app.dunhua_326.apk",
+        "app_activity": "com.hoge.android.factory.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "今日永州",
+        "package_name": "com.dingtai.jinriyongzhou",
+        "file_name": "com.dingtai.jinriyongzhou_327.apk",
+        "app_activity": "com.zkwg.hqnews.ui.SplashActivity"
+    },
+    {
+        "app_name": "赣赢",
+        "package_name": "com.jxmfkj.jiangnan.business",
+        "file_name": "com.jxmfkj.jiangnan.business_328.apk",
+        "app_activity": "com.jxmfkj.jiangnan.business.features.launcher.ui.LauncherActivity"
+    },
+    {
+        "app_name": "画屏分宜",
+        "package_name": "fenyi.jxtvcn.jxntv",
+        "file_name": "fenyi.jxtvcn.jxntv_329.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "煤炭资源网",
+        "package_name": "com.sxcoal",
+        "file_name": "com.sxcoal_330.apk",
+        "app_activity": "com.sxcoal.fw_sxcoal_app.MainActivity"
+    },
+    {
+        "app_name": "白菜心",
+        "package_name": "com.cdvcloud.maanshan",
+        "file_name": "com.cdvcloud.maanshan_331.apk",
+        "app_activity": "com.xinhuamm.basic.main.guide.SplashActivity"
+    },
+    {
+        "app_name": "青橙融媒",
+        "package_name": "com.founder.huhehaotegd",
+        "file_name": "com.founder.huhehaotegd_332.apk",
+        "app_activity": "com.founder.xiangyu.MainActivity"
+    },
+    {
+        "app_name": "云上林州",
+        "package_name": "com.xsrm.news.linzhou",
+        "file_name": "com.xsrm.news.linzhou_333.apk",
+        "app_activity": "com.dxrm.aijiyuan._activity._launcher.LauncherActivity"
+    },
+    {
+        "app_name": "蜂鸟摄影",
+        "package_name": "com.fn.android",
+        "file_name": "com.fn.android_334.apk",
+        "app_activity": "com.fn.android.MainActivity"
+    },
+    {
+        "app_name": "参考消息",
+        "package_name": "com.cankaoxiaoxi.app1",
+        "file_name": "com.cankaoxiaoxi.app1_335.apk",
+        "app_activity": "com.xinhuamm.basic.main.guide.SplashActivity"
+    },
+    {
+        "app_name": "百度畅听版",
+        "package_name": "com.baidu.searchbox.tomas",
+        "file_name": "com.baidu.searchbox.tomas_336.apk",
+        "app_activity": "com.baidu.searchbox.SplashActivity"
+    },
+    {
+        "app_name": "晋控掌上",
+        "package_name": "com.anqia.coalco",
+        "file_name": "com.anqia.coalco_337.apk",
+        "app_activity": "com.anqia.coalco.SplashActivity"
+    },
+    {
+        "app_name": "淮河新媒",
+        "package_name": "com.pdmi.huaihe.media",
+        "file_name": "com.pdmi.huaihe.media_338.apk",
+        "app_activity": "com.pdmi.gansu.main.guide.SplashActivity"
+    },
+    {
+        "app_name": "重庆文明实践",
+        "package_name": "cn.cbg.wmcq",
+        "file_name": "cn.cbg.wmcq_339.apk",
+        "app_activity": "com.cmcc.hbb.android.phone.principal.splash.activity.LoadingActivity"
+    },
+    {
+        "app_name": "看咸阳",
+        "package_name": "tidemedia.app.xianyang",
+        "file_name": "tidemedia.app.xianyang_340.apk",
+        "app_activity": "tide.juyun.com.ui.activitys.WelcomeActivityNewActivity"
+    },
+    {
+        "app_name": "看金坛",
+        "package_name": "com.jstv.jintan",
+        "file_name": "com.jstv.jintan_341.apk",
+        "app_activity": "com.android.jsbcmasterapp.MainActivity"
+    },
+    {
+        "app_name": "云上固始",
+        "package_name": "com.xsrm.news.gushi",
+        "file_name": "com.xsrm.news.gushi_342.apk",
+        "app_activity": "com.dxrm.aijiyuan._activity._launcher.LauncherActivity"
+    },
+    {
+        "app_name": "指点文成",
+        "package_name": "com.shixian.wencheng",
+        "file_name": "com.shixian.wencheng_343.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "滨江发布",
+        "package_name": "com.hzyapp.binjiang",
+        "file_name": "com.hzyapp.binjiang_344.apk",
+        "app_activity": "com.founder.product.welcome.ui.SplashActivity"
+    },
+    {
+        "app_name": "掌上金东",
+        "package_name": "com.cnepaper.jinrijindong",
+        "file_name": "com.cnepaper.jinrijindong_345.apk",
+        "app_activity": "com.cnepaper.jinrijindong.LaunchActivity"
+    },
+    {
+        "app_name": "钱塘发布",
+        "package_name": "com.hzyapp.qiantang",
+        "file_name": "com.hzyapp.qiantang_346.apk",
+        "app_activity": "com.founder.product.welcome.ui.SplashActivity"
+    },
+    {
+        "app_name": "欧姆龙FA世界",
+        "package_name": "com.omron.omron",
+        "file_name": "com.omron.omron_349.apk",
+        "app_activity": "com.omron.omron.activity.GuideAppStartActivity"
+    },
+    {
+        "app_name": "云上崇阳",
+        "package_name": "com.cj.yun.chongyang",
+        "file_name": "com.cj.yun.chongyang_350.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "C财经",
+        "package_name": "com.chinadaily.finance",
+        "file_name": "com.chinadaily.finance_351.apk",
+        "app_activity": "com.chinadaily.activity.SplashActivity"
+    },
+    {
+        "app_name": "天平阳光",
+        "package_name": "org.chinacourt.tph",
+        "file_name": "org.chinacourt.tph_352.apk",
+        "app_activity": "org.chinacourt.tph.module.login.activity.GuideActivity"
+    },
+    {
+        "app_name": "涪江观察",
+        "package_name": "com.myrbs.mynews",
+        "file_name": "com.myrbs.mynews_354.apk",
+        "app_activity": "com.trs.myrb.activity.SplashActivity"
+    },
+    {
+        "app_name": "中国领事",
+        "package_name": "com.gov.mfa",
+        "file_name": "com.gov.mfa_355.apk",
+        "app_activity": "com.gov.mfa.MainActivity"
+    },
+    {
+        "app_name": "今日商丘",
+        "package_name": "com.founder.shangqiurb",
+        "file_name": "com.founder.shangqiurb_356.apk",
+        "app_activity": "com.founder.xiangyu.MainActivity"
+    },
+    {
+        "app_name": "丽江融媒",
+        "package_name": "com.lijiangrm.app",
+        "file_name": "com.lijiangrm.app_357.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "邳州银杏甲天下",
+        "package_name": "com.hoge.android.app.pizhou",
+        "file_name": "com.hoge.android.app.pizhou_358.apk",
+        "app_activity": "com.hoge.android.factory.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "云上赤壁",
+        "package_name": "com.cj.yun.chibi",
+        "file_name": "com.cj.yun.chibi_359.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "云上咸丰",
+        "package_name": "com.cj.yun.es_xf",
+        "file_name": "com.cj.yun.es_xf_360.apk",
+        "app_activity": "com.estv.cloudjw.activity.SplashActivity"
+    },
+    {
+        "app_name": "云上鄂州",
+        "package_name": "com.cj.yun.ezhou",
+        "file_name": "com.cj.yun.ezhou_361.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "人民日报文创",
+        "package_name": "cn.com.peoplecity",
+        "file_name": "cn.com.peoplecity_362.apk",
+        "app_activity": "cn.com.peoplecity.tech.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "中国民航报",
+        "package_name": "com.trs.bj.mhb",
+        "file_name": "com.trs.bj.mhb_363.apk",
+        "app_activity": "com.trs.bj.mhb.activity.SplashActivity"
+    },
+    {
+        "app_name": "武汉教育电视台",
+        "package_name": "com.android.whedu",
+        "file_name": "com.android.whedu_364.apk",
+        "app_activity": "com.android.whedu.ui.activity.LoadingActivity"
+    },
+    {
+        "app_name": "项城云",
+        "package_name": "net.xcyun.app",
+        "file_name": "net.xcyun.app_365.apk",
+        "app_activity": "net.duohuo.magappx.main.WelcomeActivity"
+    },
+    {
+        "app_name": "并州新闻",
+        "package_name": "com.tyrb.news",
+        "file_name": "com.tyrb.news_366.apk",
+        "app_activity": "com.android.tyrb.welcome.view.SplashActivity"
+    },
+    {
+        "app_name": "兴城融媒",
+        "package_name": "net.xingchengrm.app",
+        "file_name": "net.xingchengrm.app_367.apk",
+        "app_activity": "net.xingchengrm.app.activity.LaunchActivity"
+    },
+    {
+        "app_name": "舒兰融媒",
+        "package_name": "com.hoge.android.app.shulan",
+        "file_name": "com.hoge.android.app.shulan_369.apk",
+        "app_activity": "com.hoge.android.lib_architecture.splash.SplashActivity"
+    },
+    {
+        "app_name": "云金属",
+        "package_name": "io.yunjinshu.com",
+        "file_name": "io.yunjinshu.com_370.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "生物谷",
+        "package_name": "com.bioon.bioonnews",
+        "file_name": "com.bioon.bioonnews_371.apk",
+        "app_activity": "com.bioon.bioonnews.activity.SplashActivity"
+    },
+    {
+        "app_name": "新武山",
+        "package_name": "com.pdmi.wushan.media",
+        "file_name": "com.pdmi.wushan.media_372.apk",
+        "app_activity": "com.pdmi.gansu.main.guide.SplashActivity"
+    },
+    {
+        "app_name": "人民论坛",
+        "package_name": "cn.com.rmlt.app",
+        "file_name": "cn.com.rmlt.app_373.apk",
+        "app_activity": "com.rmlt.mobile.activity.SplashActivity"
+    },
+    {
+        "app_name": "投资界",
+        "package_name": "com.zero2ipo.harlanhu.pedaily",
+        "file_name": "com.zero2ipo.harlanhu.pedaily_374.apk",
+        "app_activity": "com.zero2ipo.harlanhu.pedaily.ui.PopActivity"
+    },
+    {
+        "app_name": "今日快闻",
+        "package_name": "com.smart.app.jijia.xin.todayNews",
+        "file_name": "com.smart.app.jijia.xin.todayNews_375.apk",
+        "app_activity": "com.smart.app.jijia.xin.todayNews.activity.MainActivity"
+    },
+    {
+        "app_name": "矿山易购",
+        "package_name": "com.zydl.pay",
+        "file_name": "com.zydl.pay_376.apk",
+        "app_activity": "com.zydl.pay.activity.SplashActivity"
+    },
+    {
+        "app_name": "环球老虎财经",
+        "package_name": "com.mingying.laohucaijing",
+        "file_name": "com.mingying.laohucaijing_377.apk",
+        "app_activity": "com.mingying.laohucaijing.ui.startup.SplashActivity"
+    },
+    {
+        "app_name": "妙投",
+        "package_name": "com.huxiupro",
+        "file_name": "com.huxiupro_378.apk",
+        "app_activity": "com.huxiu.pro.module.splash.ProSplashActivity"
+    },
+    {
+        "app_name": "钛媒体",
+        "package_name": "com.businessvalue.android.app",
+        "file_name": "com.businessvalue.android.app_379.apk",
+        "app_activity": "com.businessvalue.android.app.activities.MainActivity"
+    },
+    {
+        "app_name": "汇通财经",
+        "package_name": "com.fx678.finace",
+        "file_name": "com.fx678.finace_380.apk",
+        "app_activity": "com.fx678.finace.m100.ui.LogoA"
+    },
+    {
+        "app_name": "经济观察网",
+        "package_name": "com.qwang.eeo",
+        "file_name": "com.qwang.eeo_381.apk",
+        "app_activity": "com.qwang.eeo.activity.core.AnimatorLoadingActivity"
+    },
+    {
+        "app_name": "抚顺发布",
+        "package_name": "com.fushunshi.app",
+        "file_name": "com.fushunshi.app_382.apk",
+        "app_activity": "com.fushunshi.app.activity.LaunchActivity"
+    },
+    {
+        "app_name": "魅力广安",
+        "package_name": "com.smart.guangan",
+        "file_name": "com.smart.guangan_383.apk",
+        "app_activity": "cn.thecover.www.covermedia.ui.startup.flash.StartupFlashActivity"
+    },
+    {
+        "app_name": "贵州纪检监察",
+        "package_name": "gzrb.gzdis.gov",
+        "file_name": "gzrb.gzdis.gov_385.apk",
+        "app_activity": "gzrb.gzdis.gov.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "北大法宝",
+        "package_name": "uni.UNIAB1D001",
+        "file_name": "uni.UNIAB1D001_386.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "掌上礼县",
+        "package_name": "com.pdmi.lixian.media",
+        "file_name": "com.pdmi.lixian.media_387.apk",
+        "app_activity": "com.pdmi.gansu.main.guide.SplashActivity"
+    },
+    {
+        "app_name": "兰格钢铁",
+        "package_name": "com.lggt.activity",
+        "file_name": "com.lggt.activity_388.apk",
+        "app_activity": "com.lggt.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "中国网",
+        "package_name": "com.witmob.newsdigest",
+        "file_name": "com.witmob.newsdigest_389.apk",
+        "app_activity": "com.founder.xiangyu.MainActivity"
+    },
+    {
+        "app_name": "爱范儿",
+        "package_name": "com.ifanr.activitys",
+        "file_name": "com.ifanr.activitys_390.apk",
+        "app_activity": "com.ifanr.activitys.core.ui.launch.LaunchActivity"
+    },
+    {
+        "app_name": "观澜新闻",
+        "package_name": "com.founder.zdlz",
+        "file_name": "com.founder.zdlz_391.apk",
+        "app_activity": "com.founder.xiangyu.MainActivity"
+    },
+    {
+        "app_name": "蓝鲸财经",
+        "package_name": "com.app.lanjing",
+        "file_name": "com.app.lanjing_392.apk",
+        "app_activity": "com.lanjingnews.app.SplashActivity"
+    },
+    {
+        "app_name": "佛山+",
+        "package_name": "com.newgen.fs_plus",
+        "file_name": "com.newgen.fs_plus_393.apk",
+        "app_activity": "com.newgen.fs_plus.activity.StartActivity"
+    },
+    {
+        "app_name": "华尔街见闻",
+        "package_name": "com.wallstreetcn.news",
+        "file_name": "com.wallstreetcn.news_394.apk",
+        "app_activity": "com.wallstreetcn.news.ProxyMainActivity"
+    },
+    {
+        "app_name": "洪观新闻",
+        "package_name": "cn.com.ncnews.toutiao",
+        "file_name": "cn.com.ncnews.toutiao_395.apk",
+        "app_activity": "cn.com.ncnews.toutiao.ui.main.WelcomeActivity"
+    },
+    {
+        "app_name": "纸币收藏助手",
+        "package_name": "com.estoneinfo.papermoney",
+        "file_name": "com.estoneinfo.papermoney_396.apk",
+        "app_activity": "com.estoneinfo.papermoney.StartActivity"
+    },
+    {
+        "app_name": "肇庆+",
+        "package_name": "com.founder.xijiang",
+        "file_name": "com.founder.xijiang_397.apk",
+        "app_activity": "com.nfdaily.nfplus.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "今日驻马店",
+        "package_name": "com.founder.zhumadian",
+        "file_name": "com.founder.zhumadian_398.apk",
+        "app_activity": "com.founder.xiangyu.MainActivity"
+    },
+    {
+        "app_name": "云上周口",
+        "package_name": "com.taiji.zhoukou",
+        "file_name": "com.taiji.zhoukou_399.apk",
+        "app_activity": "com.taiji.zhoukou.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "到黄埔去",
+        "package_name": "com.pdmi.huangpu.media",
+        "file_name": "com.pdmi.huangpu.media_400.apk",
+        "app_activity": "com.pdmi.gansu.main.guide.SplashActivity"
+    },
+    {
+        "app_name": "农民日报",
+        "package_name": "com.tj.farmerdaily",
+        "file_name": "com.tj.farmerdaily_401.apk",
+        "app_activity": "com.zc.hubei_news.ui.basic.SplashActivity"
+    },
+    {
+        "app_name": "申信",
+        "package_name": "com.shx158.sxapp",
+        "file_name": "com.shx158.sxapp_402.apk",
+        "app_activity": "com.shx158.sxapp.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "Hi 苹果红了",
+        "package_name": "com.meilianji.akesu",
+        "file_name": "com.meilianji.akesu_403.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "敖汉融媒",
+        "package_name": "com.tenma.ventures.ahrmfihxel",
+        "file_name": "com.tenma.ventures.ahrmfihxel_404.apk",
+        "app_activity": "com.tenma.ventures.ahrmfihxel.SplashActivity"
+    },
+    {
+        "app_name": "掌上乌鲁木齐",
+        "package_name": "com.womob.wlmq",
+        "file_name": "com.womob.wlmq_405.apk",
+        "app_activity": "com.womob.wlmq.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "上城发布",
+        "package_name": "com.hzyapp.jianggan",
+        "file_name": "com.hzyapp.jianggan_406.apk",
+        "app_activity": "com.founder.product.welcome.ui.SplashActivity"
+    },
+    {
+        "app_name": "财新",
+        "package_name": "com.caing.news",
+        "file_name": "com.caing.news_407.apk",
+        "app_activity": "com.caixin.android.component_launcher.LauncherContainerActivity"
+    },
+    {
+        "app_name": "华商头条",
+        "package_name": "com.hsw.zhangshangxian",
+        "file_name": "com.hsw.zhangshangxian_408.apk",
+        "app_activity": "com.hsw.zhangshangxian.activity.LoadingActivity"
+    },
+    {
+        "app_name": "黑龙江省政府",
+        "package_name": "com.heilongjiang.news",
+        "file_name": "com.heilongjiang.news_410.apk",
+        "app_activity": "com.peopletech.main.mvp.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "广州工会",
+        "package_name": "cn.org.gzgh",
+        "file_name": "cn.org.gzgh_411.apk",
+        "app_activity": "cn.org.gzgh.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "快讯",
+        "package_name": "com.jryy.app.news.kb",
+        "file_name": "com.jryy.app.news.kb_412.apk",
+        "app_activity": "com.jryy.app.news.kb.TabActivity"
+    },
+    {
+        "app_name": "早闻天下事",
+        "package_name": "com.smart.app.jijia.worldStory",
+        "file_name": "com.smart.app.jijia.worldStory_413.apk",
+        "app_activity": "com.smart.app.jijia.worldStory.activity.MainActivity"
+    },
+    {
+        "app_name": "华龙网",
+        "package_name": "com.cqnews.cq",
+        "file_name": "com.cqnews.cq_414.apk",
+        "app_activity": "com.cqnews.cq.ui.SplayActivity"
+    },
+    {
+        "app_name": "宝山汇",
+        "package_name": "com.wdit.shrmtbs",
+        "file_name": "com.wdit.shrmtbs_415.apk",
+        "app_activity": "com.wdit.shrmt.ui.splash.OverActivity"
+    },
+    {
+        "app_name": "美谷奉贤",
+        "package_name": "com.wdit.shrmtfx",
+        "file_name": "com.wdit.shrmtfx_416.apk",
+        "app_activity": "com.wdit.shrmt.ui.splash.OverActivity"
+    },
+    {
+        "app_name": "上海静安",
+        "package_name": "com.wdit.shrmtja",
+        "file_name": "com.wdit.shrmtja_417.apk",
+        "app_activity": "com.wdit.shrmt.ui.splash.OverActivity"
+    },
+    {
+        "app_name": "今日闵行",
+        "package_name": "com.wdit.shrmtmh",
+        "file_name": "com.wdit.shrmtmh_418.apk",
+        "app_activity": "com.wdit.rmt.MainActivity"
+    },
+    {
+        "app_name": "人民网+",
+        "package_name": "com.peopletech.peopleplus",
+        "file_name": "com.peopletech.peopleplus_419.apk",
+        "app_activity": "com.peopletech.main.mvp.ui.activity.Splash2022Activity"
+    },
+
+    {
+        "app_name": "新材料在线",
+        "package_name": "com.online.material",
+        "file_name": "com.online.material_1.apk",
+        "app_activity": "com.xincailiao.newmaterial.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "掌上新建",
+        "package_name": "com.nctvcloud.zsxj",
+        "file_name": "com.nctvcloud.zsxj_2.apk",
+        "app_activity": "com.nctvcloud.zsxj.activity.WelcomeNewActivity"
+    },
+    {
+        "app_name": "智慧靖江",
+        "package_name": "com.shinyv.jingjiang",
+        "file_name": "com.shinyv.jingjiang_3.apk",
+        "app_activity": "com.shinyv.jingjiang.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "门头沟融媒",
+        "package_name": "com.touchtv.mentougou",
+        "file_name": "com.touchtv.mentougou_4.apk",
+        "app_activity": "com.gdtv.module.main.view.activity.SplashActivity_v2"
+    },
+    {
+        "app_name": "大美巴州",
+        "package_name": "com.sctvcloud.bazhou",
+        "file_name": "com.sctvcloud.bazhou_5.apk",
+        "app_activity": "com.sctvcloud.bazhou.ui.activities.SplashActivity"
+    },
+    {
+        "app_name": "上党门",
+        "package_name": "io.dcloud.H5471C1FC",
+        "file_name": "io.dcloud.H5471C1FC_6.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "每日热点",
+        "package_name": "com.newsappyyld.project",
+        "file_name": "com.newsappyyld.project_7.apk",
+        "app_activity": "com.newsappyyld.project.MainActivity"
+    },
+    {
+        "app_name": "云上黄冈",
+        "package_name": "com.cj.yun.hg",
+        "file_name": "com.cj.yun.hg_8.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "云上硒都",
+        "package_name": "com.cj.yun.xd",
+        "file_name": "com.cj.yun.xd_9.apk",
+        "app_activity": "com.estv.cloudjw.activity.SplashActivity"
+    },
+    {
+        "app_name": "新甘谷",
+        "package_name": "com.pdmi.gangu.media",
+        "file_name": "com.pdmi.gangu.media_10.apk",
+        "app_activity": "com.pdmi.gansu.main.guide.SplashActivity"
+    },
+    {
+        "app_name": "云上科左后旗",
+        "package_name": "com.tenma.ventures.yskzhqsyiekh",
+        "file_name": "com.tenma.ventures.yskzhqsyiekh_12.apk",
+        "app_activity": "com.tenma.ventures.yskzhqsyiekh.SplashActivity"
+    },
+    {
+        "app_name": "重庆渝中",
+        "package_name": "com.xhl.yuzhong",
+        "file_name": "com.xhl.yuzhong_13.apk",
+        "app_activity": "com.xhl.basecomponent.activity.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "索骥",
+        "package_name": "com.midu.suoji",
+        "file_name": "com.midu.suoji_14.apk",
+        "app_activity": "com.midu.suoji.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "e东辽",
+        "package_name": "com.hoge.android.app.dongliao",
+        "file_name": "com.hoge.android.app.dongliao_15.apk",
+        "app_activity": "com.hoge.android.factory.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "陕西教育",
+        "package_name": "com.sxjy.joyhua",
+        "file_name": "com.sxjy.joyhua_16.apk",
+        "app_activity": "com.joyhua.media.ui.activity.LaunchActivity"
+    },
+    {
+        "app_name": "云上通城",
+        "package_name": "com.cj.yun.tongcheng",
+        "file_name": "com.cj.yun.tongcheng_17.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "经观",
+        "package_name": "com.eeo.jgxw",
+        "file_name": "com.eeo.jgxw_19.apk",
+        "app_activity": "com.netease.nim.yunduo.ui.welcome.SplashActivity"
+    },
+    {
+        "app_name": "爱婺源",
+        "package_name": "com.jxmfkj.www.company.awy",
+        "file_name": "com.jxmfkj.www.company.awy_20.apk",
+        "app_activity": "com.jxmfkj.www.company.awy.comm.view.LoadingActivity"
+    },
+    {
+        "app_name": "废旧市场",
+        "package_name": "com.justep.waste",
+        "file_name": "com.justep.waste_21.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "南国今报",
+        "package_name": "cn.com.gxrb.ngjb",
+        "file_name": "cn.com.gxrb.ngjb_22.apk",
+        "app_activity": "cn.com.gxrb.ngjb.MainActivity"
+    },
+    {
+        "app_name": "云上汤阴",
+        "package_name": "com.xsrm.news.tangyin",
+        "file_name": "com.xsrm.news.tangyin_23.apk",
+        "app_activity": "com.dxrm.aijiyuan._activity._launcher.LauncherActivity"
+    },
+    {
+        "app_name": "云上淮阳",
+        "package_name": "com.xsrm.news.huaiyang",
+        "file_name": "com.xsrm.news.huaiyang_24.apk",
+        "app_activity": "com.dxrm.aijiyuan._activity._launcher.LauncherActivity"
+    },
+    {
+        "app_name": "河南发布",
+        "package_name": "com.dahe.yxfabu",
+        "file_name": "com.dahe.yxfabu_25.apk",
+        "app_activity": "com.dahe.yxfabu.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "如东发布",
+        "package_name": "rudong.app.jsbc",
+        "file_name": "rudong.app.jsbc_26.apk",
+        "app_activity": "com.android.jsbcmasterapp.MainActivity"
+    },
+    {
+        "app_name": "画境绵竹",
+        "package_name": "net.huajingmianzhu",
+        "file_name": "net.huajingmianzhu_27.apk",
+        "app_activity": "net.duohuo.magappx.main.WelcomeActivity"
+    },
+    {
+        "app_name": "中国好故事",
+        "package_name": "com.chinaso.stories",
+        "file_name": "com.chinaso.stories_28.apk",
+        "app_activity": "com.chinaso.stories.ui.other.SplashActivity"
+    },
+    {
+        "app_name": "襄阳日报",
+        "package_name": "com.tbkj.xiangyangplus",
+        "file_name": "com.tbkj.xiangyangplus_29.apk",
+        "app_activity": "com.founder.xiangyu.MainActivity"
+    },
+    {
+        "app_name": "画说彭泽",
+        "package_name": "pengze.jxtvcn.jxntv",
+        "file_name": "pengze.jxtvcn.jxntv_30.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "重庆荣昌",
+        "package_name": "com.xhl.rongchang",
+        "file_name": "com.xhl.rongchang_31.apk",
+        "app_activity": "com.xhl.basecomponent.activity.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "天工新余",
+        "package_name": "com.aheading.news.xinyu",
+        "file_name": "com.aheading.news.xinyu_32.apk",
+        "app_activity": "com.aheading.news.xinyu.MainActivity"
+    },
+    {
+        "app_name": "云上宜都",
+        "package_name": "com.cj.yun.yidu",
+        "file_name": "com.cj.yun.yidu_33.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "新宁德",
+        "package_name": "com.cmstop.ndsww",
+        "file_name": "com.cmstop.ndsww_34.apk",
+        "app_activity": "com.cmstop.client.ui.start.SplashActivity"
+    },
+    {
+        "app_name": "交易法门",
+        "package_name": "com.jyyd.mm",
+        "file_name": "com.jyyd.mm_35.apk",
+        "app_activity": "io.dcloud.PandoraEntry"
+    },
+    {
+        "app_name": "汉新闻",
+        "package_name": "cn.com.whtv",
+        "file_name": "cn.com.whtv_36.apk",
+        "app_activity": "cn.com.whtv.splash.SplashActivity"
+    },
+    {
+        "app_name": "掌上犍为",
+        "package_name": "net.qianweirongmei",
+        "file_name": "net.qianweirongmei_37.apk",
+        "app_activity": "com.hbb.ui.SplashActivity"
+    },
+    {
+        "app_name": "云上文昌",
+        "package_name": "com.zkwg.wenchangnews",
+        "file_name": "com.zkwg.wenchangnews_38.apk",
+        "app_activity": "com.zkwg.wenchangnews.MyPandoraEntry"
+    },
+    {
+        "app_name": "今日热度",
+        "package_name": "com.dashan.alilan",
+        "file_name": "com.dashan.alilan_39.apk",
+        "app_activity": "com.dashan.alilan.MainActivity"
+    },
+    {
+        "app_name": "云上虞城",
+        "package_name": "com.xsrm.news.yucheng",
+        "file_name": "com.xsrm.news.yucheng_40.apk",
+        "app_activity": "com.dxrm.aijiyuan._activity._launcher.LauncherActivity"
+    },
+    {
+        "app_name": "青绿",
+        "package_name": "com.oasis_esg.www",
+        "file_name": "com.oasis_esg.www_41.apk",
+        "app_activity": "com.app.LaunchActivity"
+    },
+    {
+        "app_name": "高淳发布",
+        "package_name": "com.wisdomrouter.gaochun",
+        "file_name": "com.wisdomrouter.gaochun_42.apk",
+        "app_activity": "com.wisdomrouter.gaochun.SplashActivity"
+    },
+    {
+        "app_name": "大视界",
+        "package_name": "com.dashiqiao.app",
+        "file_name": "com.dashiqiao.app_43.apk",
+        "app_activity": "com.dashiqiao.app.activity.LaunchActivity_"
+    },
+    {
+        "app_name": "铁岭发布",
+        "package_name": "com.ucap.tieling",
+        "file_name": "com.ucap.tieling_44.apk",
+        "app_activity": "com.ucap.tieling.welcome.ui.SplashActivity"
+    },
+    {
+        "app_name": "云上黄梅",
+        "package_name": "com.cj.yun.huangmei",
+        "file_name": "com.cj.yun.huangmei_45.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "冀云涞水",
+        "package_name": "com.pdmi.laishui.media",
+        "file_name": "com.pdmi.laishui.media_46.apk",
+        "app_activity": "com.pdmi.gansu.main.guide.SplashActivity"
+    },
+    {
+        "app_name": "爱涪陵",
+        "package_name": "com.fuling.news",
+        "file_name": "com.fuling.news_47.apk",
+        "app_activity": "com.xhl.basecomponent.activity.welcome.WelcomeActivity"
+    },
+    {
+        "app_name": "Ecns",
+        "package_name": "com.chinanews.ECNS",
+        "file_name": "com.chinanews.ECNS_48.apk",
+        "app_activity": "cn.ecns.news.ui.activity.SplashActivity"
+    },
+    {
+        "app_name": "亿邦",
+        "package_name": "com.ebnews",
+        "file_name": "com.ebnews_49.apk",
+        "app_activity": "com.ebnews.activity.SplashActivity"
+    },
+    {
+        "app_name": "菏泽手机台",
+        "package_name": "com.jwzt.network.myworkheze",
+        "file_name": "com.jwzt.network.myworkheze_50.apk",
+        "app_activity": "com.jwzt.network.myworkheze.activity.AdverActivity"
+    },
+    {
+        "app_name": "爱汉滨",
+        "package_name": "com.rmt.ihanbin",
+        "file_name": "com.rmt.ihanbin_51.apk",
+        "app_activity": "com.pdmi.gansu.main.guide.SplashActivity"
+    },
+    {
+        "app_name": "云上应城",
+        "package_name": "com.cj.yun.yingcheng",
+        "file_name": "com.cj.yun.yingcheng_52.apk",
+        "app_activity": "com.cmstop.cloud.activities.SplashActivity"
+    },
+    {
+        "app_name": "晶报",
+        "package_name": "com.giiso.dailysunshine",
+        "file_name": "com.giiso.dailysunshine_53.apk",
+        "app_activity": "com.founder.product.welcome.ui.SplashActivity"
+    },
+    {
+        "app_name": "食药法规",
+        "package_name": "com.netsun.lawsandregulations",
+        "file_name": "com.netsun.lawsandregulations_54.apk",
+        "app_activity": "com.netsun.lawsandregulations.mvvm.view.activity.SplashActivity"
+    },
+    {
+        "app_name": "视听甘州",
+        "package_name": "com.founder.ganzhouqu",
+        "file_name": "com.founder.ganzhouqu_55.apk",
+        "app_activity": "com.founder.product.welcome.ui.SplashActivity"
+    },
+    {
+        "app_name": "V新派",
+        "package_name": "com.wftvqcm.ksy",
+        "file_name": "com.wftvqcm.ksy_56.apk",
+        "app_activity": "com.iqilu.sd.component.start.StartActivity"
+    },
+    {
+        "app_name": "昌图融媒",
+        "package_name": "com.changturm.app",
+        "file_name": "com.changturm.app_57.apk",
+        "app_activity": "com.changturm.app.activity.LaunchActivity"
+    },
+    {
+        "app_name": "潮安融媒",
+        "package_name": "com.thetech.app.digitalcity.cn",
+        "file_name": "com.thetech.app.digitalcity.cn_58.apk",
+        "app_activity": "com.gdtv.module.main.view.activity.SplashActivity_v2"
+    },
+    {
+        "app_name": "视角苍溪",
+        "package_name": "com.chinamcloud.wangjie.becc7d17e28ca346b1de5301e052fdf5001",
+        "file_name": "com.chinamcloud.wangjie.becc7d17e28ca346b1de5301e052fdf5001_59.apk",
+        "app_activity": "com.txl.app.HomeActivity"
+    },
+    {
+        "app_name": "爱榆阳",
+        "package_name": "com.rmt.iyuyang",
+        "file_name": "com.rmt.iyuyang_60.apk",
+        "app_activity": "com.pdmi.gansu.main.guide.SplashActivity"
+    },
+    {
+        "app_name": "云上建始",
+        "package_name": "com.cj.yun.es_js",
+        "file_name": "com.cj.yun.es_js_61.apk",
+        "app_activity": "com.estv.cloudjw.activity.SplashActivity"
+    },
+    {
+        "app_name": "他们在岛屿",
+        "package_name": "app.ren.backlit.app_ren_backlit",
+        "file_name": "app.ren.backlit.app_ren_backlit_62.apk",
+        "app_activity": "app.ren.backlit.app_ren_backlit.MainActivity"
+    },
+    {
+        "app_name": "在济源",
+        "package_name": "com.dxrm.aijiyuan",
+        "file_name": "com.dxrm.aijiyuan_63.apk",
+        "app_activity": "com.dxrm.aijiyuan._activity._launcher.LauncherActivity"
+    },
+    {
+        "app_name": "渭水之南",
+        "package_name": "com.hoge.android.app.weinan",
+        "file_name": "com.hoge.android.app.weinan_64.apk",
+        "app_activity": "com.hoge.android.lib_architecture.splash.SplashActivity"
+    },
+    {
+        "app_name": "智慧东台",
+        "package_name": "com.hanweb.android.zhihuiDT.activity",
+        "file_name": "com.hanweb.android.zhihuiDT.activity_65.apk",
+        "app_activity": "com.hanweb.android.product.base.splash.SplashActivity"
+    },
+    {
+        "app_name": "梵净山",
+        "package_name": "com.gzrb.jk",
+        "file_name": "com.gzrb.jk_66.apk",
+        "app_activity": "com.gzrb.jk.ui.activity.WelcomeActivity"
+    },
+    {
+        "app_name": "看叙永",
+        "package_name": "com.shinyv.xuyong",
+        "file_name": "com.shinyv.xuyong_67.apk",
+        "app_activity": "com.shinyv.xuyong.ui.splash.SplashActivity"
+    },
+    {
+        "app_name": "法律网",
+        "package_name": "com.c565144492.ajc",
+        "file_name": "com.c565144492.ajc_68.apk",
+        "app_activity": "com.uzmap.pkg.LauncherUI"
+    },
+    {
+        "app_name": "普宁通",
+        "package_name": "com.gcable.wangjie.b71fe39b2977acef0324653d9be7c306",
+        "file_name": "com.gcable.wangjie.b71fe39b2977acef0324653d9be7c306_69.apk",
+        "app_activity": "com.gdtv.module.main.view.activity.SplashActivity_v2"
+    },
+    {
+        "app_name": "智慧丹东",
+        "package_name": "com.tenma.ventures.ddxwbpqodo",
+        "file_name": "com.tenma.ventures.ddxwbpqodo_70.apk",
+        "app_activity": "com.tenma.ventures.ddxwbpqodo.SplashActivity"
+    }
+]
